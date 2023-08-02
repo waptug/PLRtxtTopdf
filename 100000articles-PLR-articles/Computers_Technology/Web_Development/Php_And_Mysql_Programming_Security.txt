@@ -1,0 +1,50 @@
+Title: 
+Php And Mysql Programming Security
+
+Word Count:
+437
+
+Summary:
+Choosing php and mysql as programming language for a website is not enough. With open source coding being one of the inherent properties of php mysql development, securing your codes becomes essential
+
+
+Keywords:
+php mysql web development, php and mysql web development, php mysql development
+
+
+Article Body:
+Choosing php and mysql as programming language for a website is not enough. With open source coding being one of the inherent properties of php mysql development, securing your codes becomes essential. So when one allows the users to upload files on the website, then security is definitely at stake.  
+
+PHP Programming Protection 
+
+While it is not entirely possible to protect your site, yet there are few precautions that  you can incorporate for better protection of PHP programming. Some of these are:
+
+•	You should check the referrer, for being sure that the information sent is from your website and not an outside source. Since, there are maximum chances of the information being fake. 
+
+•	Restriction of the type of extension files being uploaded on the website is yet another method of security check. 
+
+•	Renaming files is another way in which the program can be secured. This procedure involves the checking of double-barreld extensions like yourfile.php.gif.
+
+•	Changing the permission command for the upload folder so that files within it are not executable.
+
+•	All the alterations created by the user should be allowed only when they ‘Login’ into the database. On the other hand the owner of the site should always keep a close watch on all files being uploaded and then make them live. 
+
+Mysql Programming Security
+
+Another aspect in php and mysql web development is the protection of the mysql libraries. Therefore, the most important aspect involved in protecting the mysql program is the security of the entire server host. 
+
+Securing MySQL is very essential for the smooth running of the website. This is based on Access Control Lists and SSL-encrypted connections, for protecting the php mysql web development program from random users visiting the website. 
+
+Some of the vital things to be considered for online site protection are: 
+
+•	Accessing of the mysql database should not be allowed for any and everyone.  
+
+•	Privileges to the users should always be accompanied with some restriction. If one can easily connect to the server without any ‘login’ then the security level code of the MySQL server should be rechecked. 
+
+•	The MySQL database should be void of plain-text passwords. Use programs like MD5 (), SHA1(), or some hashing function for complete protection.
+
+•	Do not choose passwords from dictionaries, since they can be hacked easily. Use programs that break the passwords.  
+
+Therefore, the successful development of a website through php and mysql web development is complete only when the site owner consults a professional programmer. They expertise in the optimization of the MySql hosting database. This program is dynamic in nature and is an effective tool in the creation of browser-based applications.
+
+

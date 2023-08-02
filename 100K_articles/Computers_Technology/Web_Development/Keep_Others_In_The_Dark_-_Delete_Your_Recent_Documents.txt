@@ -1,0 +1,28 @@
+Title: 
+Keep Others In The Dark - Delete Your Recent Documents
+
+Word Count:
+539
+
+Summary:
+Your computer records all the files that you open and stores them depending on your settings; most of the time Windows stores up to 15 recently opened documents. Your computer does this to allow you to have easy access to the files that you may need to open again and again. This is a great feature because of its convenience, but it can also be burdensome when you are using a shared computer and you want to keep your recent documents private. There are ways to delete recent do...
+
+
+Keywords:
+delete recent documents,personal security problems,recent files
+
+
+Article Body:
+Your computer records all the files that you open and stores them depending on your settings; most of the time Windows stores up to 15 recently opened documents. Your computer does this to allow you to have easy access to the files that you may need to open again and again. This is a great feature because of its convenience, but it can also be burdensome when you are using a shared computer and you want to keep your recent documents private. There are ways to delete recent documents. You can do this manually or you can use some software programs that can do the job for you. In any case, it is oftentimes necessary for you to know how to delete recent documents be it manually or with help. This step is crucial if you want to maintain privacy and your file safety.
+
+Deleting recent documents is easier than it may seem. It only takes a few basic steps. As stated, the recent documents folder usually contains 15 of the most recent documents that you have opened regardless of how long apart as long as they are the latest 15. These could include pictures, videos, text documents, music and other files that you may have opened. To delete your recent document folder, you must first open it, and then you can proceed with the steps of deleting the contents of your Recent Documents Folder.
+
+To open the said folder follows these steps: If your recent documents are not yet displayed, do these to help you display them on your computer: With your mouse, Right-Click on the START icon that can be found in the lower left hand corner of your computer screen. After you have done this a pop up window will open. Click PROPERTIES, when you have opened properties pick the Category CUSTOMIZE and click it. After you have done that, click on the Advanced Tab. When you have opened the window for the advanced customization, under the Recent Documents tab, select the option checkbox that states: LIST MY MOST RECENTLY OPENED DOCUMENTS. Click OK and then OK again.
+
+Now, you may ask, why do I need to view my recent documents folder when what I want to do is delete it? The answer to that is: You need to see what others are able to see. This way, you are sure that the files you deleted are really scrapped from the recent documents folder.
+
+To delete the content of the recent documents folder is as easy as opening it, do the following: Right click on the start icon, click properties. When the properties window is opened click on the Customize tab, then click the advance tab. When you open the advanced tab, under recent documents, you will be able to find a CLEAR LIST option. Click on this and Viola! The files on your Most Recent Documents folder have been deleted.
+
+It is important to remember that deleting the documents on this folder does not mean that you are deleting the files from your hard drive. You will still be able to find the documents on the locations that you had saved them. The only difference is that your Recent Documents Folder is now as clean as a whistle.
+
+

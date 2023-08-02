@@ -1,0 +1,34 @@
+Title: 
+Uninterruptible Power Supplies– What Are Their Components?
+
+Word Count:
+576
+
+Summary:
+Rectifier : this part of the UPS converts the incoming alternating current (ac) supply to direct current (dc) and can provide charging current for the battery and also the supply requirements for the inverter.
+
+Charger : in a number of UPS systems due to the nature of their design a separate battery charger is used, this is more common on sub 60kVA UPS systems and is very common on small sub 3kVA units.
+
+Battery : this is the power storage section and is kept charged eith...
+
+
+Keywords:
+uninterruptible power supplies,diesel  generators, load bank
+
+
+Article Body:
+Rectifier : this part of the UPS converts the incoming alternating current (ac) supply to direct current (dc) and can provide charging current for the battery and also the supply requirements for the inverter.
+
+Charger : in a number of UPS systems due to the nature of their design a separate battery charger is used, this is more common on sub 60kVA UPS systems and is very common on small sub 3kVA units.
+
+Battery : this is the power storage section and is kept charged either by the rectifier or a separate charger. Its storage capacity is generally displayed, as AH (ampere hour), which is the number of amperes of current that the battery can supply for an hour. There will be a number of limiting factors depending upon the application, typically if the design calls for a short autonomy (length of time the battery will support its load for), the batteries can be discharged to a lower level, in the case of emergency lighting where there is a requirement for a long autonomy the battery will not be allowed to discharge so far. These conditions help to allow the maximum design life of the battery to be achieved.
+
+Inverter : this section of the Uninterruptible power supply provides an ac output to the load which is in phase with the input mains supply. Due to the number of conversions (ac to dc to ac) and the filtering involved it can be termed as a 'clean supply'.
+
+Static Switch : this circuit can be as simple as a relay or more commonly using thyristors, its purpose is to switch the load between the inverter and the utility mains supply. As has been previously mentioned the output of the inverter is in phase with the utility mains supply so that any switching between the two will be virtually seamless. This arrangement ensures that if the inverter experiences an overload situation, due to its extremely fast over-current detection circuits it will transfer the load to the more resilient mains supply. A typical example would be when a server rack is switched on, the inrush current, depending upon the size of your uninterruptible power supplies , could cause the transfer to the utility mains supply, and once switched on the load will transfer back to the inverter providing the inverter has sufficient capacity to support the load. Also a fault on the inverter will cause the load to be transferred, again virtually seamlessly; it would be unusual for any loss of load to occur during these conditions.
+
+Maintenance Bypass : more typically found in UPS systems with a capacity of 6kVA or greater. This arrangement allows the load to be transferred under controlled conditions to the utility mains and the UPS to be shut down without loss. Normally carried out for routine UPS maintenance or UPS repair.
+
+External Maintenance Bypass : the installation of an external maintenance bypass can allow the UPS to be removed/replaced without interruption to the load, also, if the actual maintenance bypass is fed from a separate supply it can allow load testing in the case of a major UPS repair and/or checking of the autonomy under simulated load conditions while the site load is being supported by the external maintenance bypass circuit. This is often used when allowing the UPS System to be bypassed onto standby diesel generator power. Alternatively, when batteries are replaced and removed, it can only be done by placing the uniterruptible power supply into external bypass.
+
+

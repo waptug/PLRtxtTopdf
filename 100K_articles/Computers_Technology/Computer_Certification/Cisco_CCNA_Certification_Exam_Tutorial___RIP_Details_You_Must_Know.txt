@@ -1,0 +1,129 @@
+Title: 
+Cisco CCNA Certification Exam Tutorial:  RIP Details You Must Know
+
+Word Count:
+398
+
+Summary:
+It's easy to overlook RIP in your CCNA studies, but you must understand the details of RIP to pass the exam!  Learn these details from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+cisco, ccna, pass, free, exam, rip, protocol, certification, router, swtich, configure, distance
+
+
+Article Body:
+RIP isn't exactly the most complex routing protocol on the CCNA exam, but that makes it easy to overlook some of the important details you must keep in mind in order to pass the exam!  To help you review for the exam, here are just a few of those details!
+
+RIP’s default behavior is to send version 1 updates, but to accept both version 1 and 2 routing updates.
+
+R2(config)#router rip
+
+R2(config-router)#net 172.16.0.0
+
+R2(config-router)#^Z
+
+R2#show ip protocols
+
+Routing Protocol is "rip"
+
+  Sending updates every 30 seconds, next due in 6 seconds
+
+  Invalid after 180 seconds, hold down 180, flushed after 240
+
+  Outgoing update filter list for all interfaces is
+
+  Incoming update filter list for all interfaces is
+
+  Redistributing: rip
+
+  Default version control: send version 1, receive any version
+
+    Interface             Send  Recv   Key-chain
+
+    Serial0                    1      1 2
+
+
+By default, RIP v2 autosummarizes routing updates sent across classful network boundaries.  To disable this behavior, run no auto-summary under the RIP process.
+
+R1#conf t
+
+R1(config)#router rip
+
+R1(config-router)#version 2
+
+R1(config-router)#no auto-summary
+
+You do not specify a subnet mask or wildcard mask when configuring RIP – just the classful network, even if you’re running RIP v2.
+
+R1#conf t
+
+Enter configuration commands, one per line.  End with CNTL/Z.
+
+R1(config)#router rip
+
+R1(config-router)#version 2
+
+R1(config-router)#no auto-summary
+
+R1(config-router)#network 172.10.0.0 ?
+
+  <cr>
+
+
+Debug ip rip displays the routing updates and metrics as the advertisements are sent and requested.  To see this in action without waiting for the next regularly scheduled update, run clear ip route *.
+
+R1#debug ip rip
+
+RIP protocol debugging is on
+
+R1#clear ip route *
+
+01:16:54: RIP: sending v1 update to 255.255.255.255 via Loopback1 (1.1.1.1)
+
+01:16:54:      network 2.0.0.0, metric 2
+
+01:16:54:      network 3.0.0.0, metric 2
+
+01:16:54:      network 172.16.0.0, metric 1
+
+01:16:54:      network 10.0.0.0, metric 2
+
+01:16:54: RIP: sending v1 update to 255.255.255.255 via Serial0 (172.16.123.1)
+
+01:16:54:      subnet  172.16.123.0, metric 1
+
+01:16:54:      network 1.0.0.0, metric 1
+
+01:16:54:      network 2.0.0.0, metric 2
+
+01:16:54:      network 3.0.0.0, metric 2
+
+01:16:54:      network 10.0.0.0, metric 2
+
+To see only the routes discovered by a routing protocol, run show ip route followed by the name of the protocol:
+
+R1#show ip route rip
+
+R    2.0.0.0/8 [120/1] via 172.16.123.2, 00:00:26, Serial0
+
+R    3.0.0.0/8 [120/1] via 172.16.13.2, 00:00:09, Serial1
+
+               [120/1] via 172.16.123.3, 00:00:09, Serial0
+
+R    10.0.0.0/8 [120/1] via 172.16.13.2, 00:00:09, Serial1
+
+                [120/1] via 172.16.123.3, 00:00:09, Serial0
+
+                [120/1] via 172.16.123.2, 00:00:26, Serial0
+
+
+And don't forget - to turn off all currently running debugs, run undebug all.
+
+R1#undebug all
+
+All possible debugging has been turned off
+
+Don't overlook RIP and IGRP when it comes to the CCNA exam.  OSPF and EIGRP are more complex to configure, but you need to understand how distance vector protocols work in order to pass the CCNA!
+
+

@@ -1,0 +1,53 @@
+Title: 
+Know What You're Dealing With: Essential Information You Must Know Before Paying for Data Recovery
+
+Word Count:
+1525
+
+Summary:
+Data recovery companies thrive on their customers' lack of information and often get away with charging obscene rates for any recovery, regardless of complexity. This article answers the following essential questions users must ask before purchasing data recovery services: How do hard drives work? How can they fail? What are the chances of successful recovery and how much can I expect to pay?
+
+
+Keywords:
+data recovery, hard drive recovery, laptop hard drive recovery, hard disk recovery, hard drive failure, mac hard drive recovery
+
+
+Article Body:
+<b>Know what you're dealing with</b><br>
+
+The world of data recovery is a big mystery for most consumers and even some IT professionals. This is largely because hard drives themselves are complex devices and their technological specifics are not generally well known. Data recovery companies thrive on their customers' lack of information and often get away with charging obscene rates for any recovery, regardless of complexity. I hope this article will be a helpful resource for consumers and professionals alike. I provide some basic information about data recovery by shedding some light on how hard drives work, how they can fail, what are the chances of successful recovery and how much the user can expect to pay. This information will enable the user to make an informed decision when choosing a data recovery company.<br>
+<br>
+<b>A bit about Hard Drives</b><br>
+<br>
+A computer hard drive stores data on metal oxide platters which spin up to 10000 revolutions per minute. An actuator arm contains the '<b>head</b>' which reads and writes the data in the form of magnetic charges one millionth of an inch above the surface. Any given drive can have multiple read and write heads and each head can 'crash' independently. A <b>head crash</b> occurs when the read/write head comes in contact with the platters of the disk (more on head crashes below). As manufacturers strive to cram more space on hard drives without increasing their physical size, the data gets written increasingly closer together, making for very difficult recovery should one or more heads crash. The brain of the hard drive is its <b>controller board</b> and this is unique for each individual hard drive. One other detail worth a mention is the service track of a hard drive. This is an area located on the outer part of the disk platter and it contains the drive's firmware zone. The <b>firmware</b> of a hard drive is the information used by the computer to communicate correctly with the drive. These are the main components that make a hard drive work, now let's talk about what can go wrong.<br>
+<br>
+<b>There are many ways in which a hard disk can fail</b><br>
+<br>
+Hard drives are extremely fragile and can suffer failures in many different ways, leading to a loss of data. The five most common types of drive failures are: logical errors, mechanical failure, electronic failure, firmware corruption, and bad sectors, or any combination these. Least severe of these is usually data loss due to logical errors.<br>
+<br>
+<b>Logical errors</b> are often the simplest and sometimes the most difficult problems to deal with when recovering data. They can range from an invalid entry in a file allocation table, a simple problem that needs little work; to severe issues such as the corruption or loss of the entire file system. <b>Logical errors can be spotted when files become inaccessible, there is a delay in starting up the computer, and programs do not run properly</b>. Logical errors are often seen as simple because there is nothing wrong with the physical drive leading users to try recovering it themselves by using third party software. This is quite risky, however, as running such software on a damaged drive can result in total loss of data. The most effective way to prevent logical errors on your hard drive is to regularly use the Disk Defragmentation tool in your operating system. For more comprehensive information on preventing data loss, visit the <A HREF="http://www.a-datarecovery.com/tips">tips</A> section of our website.<br>
+<br>
+<b>Recovering a drive with logical errors can be simple and quick</b>, however if the problem requires manual bit-by-bit reconstruction of the data, it can also be quite complex and time consuming. Normally, logical errors are in the lower end of the price range as they do not require manual disassembly of the drive, however there are cases when logical failures end up in the higher end of the price range. The bottom line with logical errors is the sooner they are caught and the less a user tampers with the drive, the better the chances for a quick and thorough recovery. <br>
+<br>
+<b>Mechanical failures</b> are often much more serious than any other failure and frequently lead to a partial or even total loss of data. The most common type of mechanical failure is a head crash, which is when the read/write head comes in contact with the disk platter. Head crashes can be caused by a variety of reasons, including physical shock, static electricity, power surges, and mechanical read/write failure. <b>Mechanical failures are detected by a constant clicking or grinding noise coming from the drive</b>. If you suspect mechanical failure, you must immediately shut down your computer and call a data recovery company for advice.<br>
+<br>
+<b>Mechanical failures are usually the most severe and most challenging to recover from</b>. All mechanical failures require physical disassembly of the drive. The replacement of a read/write head is one of the most complex and costly procedures that can be performed by a data recovery engineer, especially with larger capacity drives. The chances of recovery depend entirely on how much damage the drive has sustained, however they can be quite good. <u>A crashed head does not mean that all your data is lost!</u> Once again, the sooner you catch a mechanical problem and turn off your drive, the more of your precious data is likely to be rescued.<br>
+<br>
+<b>Electronic failures</b> are most common after a power surge or due to some other electric problem, and the most common type is control board failure. A power surge can knock out the control board, making the drive undetectable in the BIOS. Because each drive is fitted with a unique control board, recovery of this type is relatively complex. However, the good news is that normally once the control board issue is fixed, the data is usually 100% recoverable.<br>
+<br>
+<b>Recovering a drive that has suffered from an electronic failure can be time consuming</b>, mainly because the specific problem takes some time to diagnose. Once diagnosed, though, the recovery is usually not tremendously complex and would probably land in the mid-range in terms of price. Most of the time, we are able to achieve a 100% recovery from drives that have suffered an electronic failure.<br>
+<br>
+<b>Firmware corruption</b> is caused by logical problems or physical damage to the firmware zone on the disk platter. When the firmware becomes corrupt, the computer is often unable to properly communicate with the hard drive, and drive is not recognized in the BIOS. Fortunately, when the drive fails due to firmware corruption, the data is usually fully recoverable once the drive has been repaired.<br>
+<br>
+<b>Recovering a drive that has suffered from Firmware corruption</b> is possible with the use of our proprietary technology. Because the firmware information is isolated on the outer rim of the disk, most of the data can be recovered successfully. The complexity of recovering a drive that has suffered from firmware corruption depends on the amount of damage suffered by the service track on the disk's platter. Expect the cost of this type of recovery to be in the mid- to high-price range.<br>
+<br>
+<b>Bad sectors are a common fate of all hard drives</b>.<br>
+<br>
+Eventually, all drives develop areas that are no longer functional and when this happens, they are isolated by the operating system. Bad sectors are very much like bumps in the road, areas which are avoided by the read/write head and which are no longer accessible to the user. If mission critical data exists on the drive, we recommend to backup as soon as possible, as the formation of bad sectors often indicates the impending demise of the drive. Finally, and most importantly, do NOT under any circumstances run the ScanDisk or Chckdisk utilities when data becomes inaccessible. These utilities are designed to fix only file system errors and not any other types of errors, so if your hard drive has suffered from bad sectors, these utilities only make things worse.<br>
+<br>
+<b>Bad sectors are accessible</b><br>
+<br>
+We are able to recover drives with bad sectors using our proprietary mirroring technology. The process often involves manual mirroring bit-by-bit, which can be time consuming. The price of this type of recovery will generally be in the mid-range of the pricing schedule.<br>
+<br>I hope the above explanations are of some use to all computer users. The basic fact is that data loss happens to everyone. Every hard drive crashes, and often when you least expect it to. Backup is essential for end-users and business users alike, and there are many excellent ways to back up your data. But if you've lost data, attempt to understand the problem before calling a data recovery company. Be informed, save your money, get your data back.
+
+

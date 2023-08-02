@@ -1,0 +1,27 @@
+Title: 
+How To Make Your PC At Least 20 Percent Faster In 10 Minutes...
+
+Word Count:
+457
+
+Summary:
+Do you get really tired of all those annoying security alerts and Windows this and Windows that whenever your slow PC boots up? Does it take forever because there are so many programs loading when you start your slow PC? Then you need to follow the PC Doctor guide here as all you need know is “msconfig” is a quick solution for a computer to run faster, cleaner, and more efficiently. Although this by no means rocket science, it’s the simple things that are often overlooked.
+...
+
+
+Keywords:
+Microsoft Windows, startup, computer problems, slow PC, clean PC, faster PC, pc doctor
+
+
+Article Body:
+Do you get really tired of all those annoying security alerts and Windows this and Windows that whenever your slow PC boots up? Does it take forever because there are so many programs loading when you start your slow PC? Then you need to follow the PC Doctor guide here as all you need know is “msconfig” is a quick solution for a computer to run faster, cleaner, and more efficiently. Although this by no means rocket science, it’s the simple things that are often overlooked.
+
+To open this program you click on the start menu, then go to the icon labelled "Run...". Type in the "msconfig" command and it will bring up your system configuration. It's as simple as that. Do you know how all those icons show up at the bottom right side of your task bar whenever your computer is booting? It's usually good to keep those to a minimum. Otherwise your system will always be bogged down by all those extra programs running all the time.
+
+The main thing you want to change in the system configuration is in the "Services" tab (remove all the extra programs that are just always running non-stop, half of which you do not need running) and the "Startup" tab (for removing extra programs that load when you boot your computer). A lot of them are pretty straightforward in the startup tab. You'll see some Microsoft programs, maybe a Security Center and you will also see any other programs that decided to automatically boot up when windows is booting, like any kind of anti-virus programs. All you have to do is un-check the services and startup programs that you know you really don't need running all the time.
+
+Believe it or not anti-virus programs are one of the worst programs to bog down your system. If you really want to use them, at least don't load them automatically in the startup tab. You can load them right before you sign onto do all your dangerous activities on the Internet and get yourself protected for that. Then you can shut them down again after you are finished and restore vital resources for other programs to use. This is particularly handy when you need all your CPU resources to play games.
+
+If you do not have a monster computer, you really may want to think about some of these things. You always want as few programs as possible running at the same time. This frees up all your memory to load programs as fast as possible, as well as your CPU. It's very straightforward, and simple to understand. A lot of people keep loading more and more software on their slow PC until it cannot even boot up anymore!
+
+

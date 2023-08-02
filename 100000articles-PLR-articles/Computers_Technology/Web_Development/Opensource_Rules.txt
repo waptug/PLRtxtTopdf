@@ -1,0 +1,67 @@
+Title: 
+Opensource Rules
+
+Word Count:
+436
+
+Summary:
+A web CMS is a content management system software used for managing content for the web.
+
+The software manages content (text, graphics, links, etc.) for distribution on a web server. Usually the software provides tools where users with little or no knowledge of programming languages and markup languages (such as HTML) can create and manage content with relative ease of use. Most systems use a database to hold content, and a presentation layer displays the content to regular...
+
+
+Keywords:
+web design, web development, opensource, joomla, free web development tools
+
+
+Article Body:
+A web CMS is a content management system software used for managing content for the web.
+
+The software manages content (text, graphics, links, etc.) for distribution on a web server. Usually the software provides tools where users with little or no knowledge of programming languages and markup languages (such as HTML) can create and manage content with relative ease of use. Most systems use a database to hold content, and a presentation layer displays the content to regular website visitors based on a set of templates. Management of the software is typically done through a web browser, but some systems may be modified in other ways.
+
+A Content Management System (CMS) differs from website builders like Microsoft FrontPage or Macromedia Dreamweaver in that a CMS allows non-technical users to make changes to an existing website with little or no training. Website building tools like FrontPage and Dreamweaver require more technical knowledge and training on average. A CMS is an easy-to-use tool that gives authorized users the ability to manage a website. A CMS is a website maintenance tool rather than a website creation tool.
+
+Let's talk about Joomla! Content Management System now.
+
+Joomla! is one of the most powerful Open Source Content Management Systems on the planet. It is used all over the world for everything from simple websites to complex corporate applications. Joomla! is easy to install, simple to manage, and reliable.
+
+One of the ways people use Joomla! CMS:
+
+* Corporate websites or portals
+* Online commerce
+* Small business websites
+* Non-profit and organizational websites
+* Government applications
+* Corporate intranets and extranets
+* School and church websites
+* Personal or family homepages
+* Community-based portals
+* Magazines and newspapers
+* the possibilities are limitless…
+
+Joomla! can be used to easily manage every aspect of your website, from adding content and images to updating a product catalog or taking online reservations.
+
+Advanced use of Joomla!
+
+Out of the box, Joomla! does a great job of managing the content needed to make your website sing. But for many people, the true power of Joomla! lies in the application framework that makes it possible for thousands of developers around the world to create powerful add-ons and extensions. Here are just some examples of the hundreds of available extensions:
+
+* Dynamic form builders
+* Business or organizational directories
+* Document management
+* image and multimedia galleries
+* E-commerce and shopping cart engines
+* Forums and chat software
+* Calendars
+* Blogging software
+* Directory services
+* Email newsletters
+* Data collection and reporting tools
+* Banner advertising systems
+* Subscription services
+* and many, many more…
+
+You will probably ask yourself what’s the catch?
+
+There is no catch. Joomla! is free, open, and available to all under the GPL license.
+
+

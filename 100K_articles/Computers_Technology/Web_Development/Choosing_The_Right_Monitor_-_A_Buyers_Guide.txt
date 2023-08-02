@@ -1,0 +1,36 @@
+Title: 
+Choosing The Right Monitor - A Buyers Guide
+
+Word Count:
+555
+
+Summary:
+There are several considerations when you plan to purchase a monitor.  
+
+Monitor sizes are the dominant feature.  Larger monitors are more expensive.  Monitors are measured diagonally, though the length isn’t exactly the correct.  It is almost always a little shorter in real life than the length shown.  
+
+Resolution is the number of pixels displayed.  This is normally shown as the number of pixels wide and the number of pixels tall the screen displays.  The larger the num...
+
+
+Keywords:
+monitors,tft,lcd,crt,xerox,hannsg,advice,buying
+
+
+Article Body:
+There are several considerations when you plan to purchase a monitor.  
+
+Monitor sizes are the dominant feature.  Larger monitors are more expensive.  Monitors are measured diagonally, though the length isn’t exactly the correct.  It is almost always a little shorter in real life than the length shown.  
+
+Resolution is the number of pixels displayed.  This is normally shown as the number of pixels wide and the number of pixels tall the screen displays.  The larger the numbers, the sharper the image displayed on the screen.  Normally, a monitor will be able to display a range of resolutions with more pixels resulting in a slower refresh rate.  
+
+Another big concern is LCD or CRT.  LCD refers to Liquid Crystal Displays, and these are flat screens.  CRT refers to Cathode Ray Tubes, and these are the classic television shaped monitors.  LCD monitors produce less eyestrain typically, and have no distortion since every pixel is the same size and shape.  This isn’t true for the CRT monitor, due to the shape of the glass screen.  LCD monitors are flat, and thus take less space on the desktop.  They last longer and consume less electricity.  CRT monitors are able to change display resolutions over a larger range and still keep a sharp image.  CRT monitors can also reach higher refresh rates with potentially noticeable results for games and multimedia.  If the computer will be the only light in the room, the LCD should be better, while the CRT will work well when more than one person is likely to be viewing the screen at once.  
+
+For LCD monitors, the contrast ratio is a measure of how easy it is to tell colours apart.  Higher is better.  Luminescence is a measure of the light given off by the screen.  For most uses 200-250 nits is ideal, but for those who watch movies or television on their monitors, 500 nits is better.  Response time is a measure of how quickly the monitors are able to refresh their image.  16 milliseconds is normally sufficient, but a gaming machine should be more like 5 ms. Typically an LCD monitor will be harder to view from an angle, and this is measured in degrees from directly in front of the screen.  Some come with glass screens to protect the LCD display from damage.  TFT is Thin Film Transistor and uses transistor technology to improve the image.  These TFT displays are a type of LCD display.   
+
+For CRT monitors, refresh rate is one of the most important considerations.  This is the rate at which the screen redraws the images.  Rates below 70 MHz often cause eyestrain.  75 MHz is the industry standard to avoid this issue.  Dot pitch is a measure of the spaces between the pixels.  Smaller pitch is better, and 0.22 mm to 0.26 mm is the range best suited for normal use.  
+
+Another consideration is whether or not to use integral speakers.  Dedicated speakers can be more powerful and higher quality than those normally built into monitors, and can be placed to maximize effectiveness.  They also take up precious desk space, and unless the sound quality is important, the usual result is to rely on the speakers on the monitor.
+
+Now that you have the basics on choosing your next or first monitor, you might want to check out some of these top manufacturers XEROX or HANNS G.
+
+

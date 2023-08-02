@@ -1,0 +1,43 @@
+Title: 
+Data Recovery First Aid: 3 Tips To Increase Your Chances Of Success
+
+Word Count:
+605
+
+Summary:
+Let's get to the important part first - if you've just lost your data, skip past this introduction and go directly to our first tip, so you can start your rescue operation. If not, a few minutes spent now might help you a lot in the future. Pay special attention to our third tip.
+
+I always thought of myself as a reliable guy with reliable data. I never deleted my files accidentally, I made regular backups and had a power supply for my computer to protect me against surges a...
+
+
+Keywords:
+data,recovery,tips,how to,recover,deleted,undelete
+
+
+Article Body:
+Let's get to the important part first - if you've just lost your data, skip past this introduction and go directly to our first tip, so you can start your rescue operation. If not, a few minutes spent now might help you a lot in the future. Pay special attention to our third tip.
+
+I always thought of myself as a reliable guy with reliable data. I never deleted my files accidentally, I made regular backups and had a power supply for my computer to protect me against surges and outages. However last year I experienced two cases of data loss where I needed to use recovery software. The first was a dead hard drive that'd hardly served a year. Subsequently, I accidentally deleted a large project file that was too big for the Recycle Bin. Happily I've got all my data back, thanks to good advice and a little preparation.
+
+These handy tips will help you stay confident in the face of data loss, no matter how it occurs.
+
+Tip #1: Use your system as little as possible until you recover all of your lost files. The more activity taking place on your hard disk, the greater the chance that some of your lost data might be written over.
+
+- Don't copy any files to the disk containing your lost data;
+- Avoid browsing the web, because your web browser saves cache files on the disk;
+- Don't launch any unnecessary programs, because they can also use your disk;
+- Don't restart your computer.
+
+Tip #2: Before you go further, take steps to free up some space on the disk containing your lost files. The more free space your system has, the less chance of overwriting any lost files with new ones. You can do one or more of the following things.
+
+- Delete old files that you don't need anymore (you can also move them to another source, like a USB flash drive, instead of deleting);
+- Empty your Recycle Bin - making sure that you haven't put any important files in there by mistake;
+- Empty your browser cache. For Internet Explorer, click on the "Tools" menu, then select "Internet Options". Then, on the "General" tab, click the "Delete Files..." button.
+
+Tip #3: To install any software after data damage increases the risk of your data being overwritten, so if you haven't had any data problems yet, consider installing a data recovery program just in case. Prevention is always better than cure, and a recovery program is good insurance for your data. However, if you don't yet have a recovery program, find one and - if possible - avoid installing it to the disk where your lost files are located.
+
+Most recovery programs work fairly similarly. You need to select the disk where the lost files are located, let the program analyze the content of the disk - this can take a while - and then select the file you want to recover. Then, provide a location where you want to save that file. You should try to avoid recovering files to the same disk. You could use another hard drive, a network or removable media like a floppy disk or USB flash drive.
+
+After you recover your files, check that they are correct. If you've recovered applications, check that they still run, or if you've recovered documents, check that your words are still there. Even the best recovery software can't guarantee 100% results. If some parts of your files were overwritten - meaning that other data was saved to their location on your disk - after recovery they might contain invalid information. Depending on the type of file involved, partially recovered files like this can be mended by special utilities.
+
+

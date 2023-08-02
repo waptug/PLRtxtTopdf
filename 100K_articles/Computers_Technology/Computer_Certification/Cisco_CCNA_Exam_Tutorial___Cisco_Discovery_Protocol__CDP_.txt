@@ -1,0 +1,118 @@
+Title: 
+Cisco CCNA Exam Tutorial:  Cisco Discovery Protocol (CDP)
+
+Word Count:
+558
+
+Summary:
+CDP seems simple enough, but there are plenty of details to master in order to earn your CCNA!  Learn these details from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+cisco, ccna, exam, cdp, discovery, protocol, switch, router, walk, network, pass, bryant, chris
+
+
+Article Body:
+The Cisco Discovery Protocol (CDP) sure looks simple enough, but there are quite a few details to know for success on the CCNA exam.  In your CCNP studies, you'll be introduced to additional uses for CDP, but for now it's enough to know that CDP is designed to give you information regarding directly connected Cisco routers and switches.
+
+CDP runs by default between all directly connected Cisco devices.  CDP is also a Cisco-proprietary protocol - if the directly connected device is not a Cisco device, you won't see the information you wanted.
+
+The basic CDP command to display information about the directly connected neighbor is "show cdp neighbor".
+
+R2#show cdp neighbor
+
+Capability Codes: R - Router, T - Trans Bridge, B - Source Route Bridge
+
+                  S - Switch, H - Host, I - IGMP, r – Repeater
+
+ 
+Device ID        Local Intrfce     Holdtme    Capability    Platform  Port ID
+
+   R1                      BRI0                 167           R               2521         Dialer1
+
+
+This command is particularly helpful when troubleshooting Cisco switches.  There’s no need to trace wiring in a rack of Cisco devices to see what routers are connected to a Cisco switch when show cdp neighbor can be used. In the above output, you can see the remote device's hostname, what interface on the remote device is connected to the local device, the capability of the remote device, the remote device’s hardware platform, and the local interface that is connected to the remote device.
+
+CDP can be disabled at both the global and interface level.  To disable CDP at the interface level, run no cdp enable on the interface, and cdp enable to turn it back on.  
+
+cdp timer defines how often CDP packets are transmitted, and cdp holdtime defines how long a device will hold a received packet.
+
+To turn CDP off for the entire router, run no cdp run.  To view the current global status of CDP, run show cdp. 
+
+R2#show cdp
+
+Global CDP information:
+
+        Sending CDP packets every 60 seconds
+
+        Sending a holdtime value of 180 seconds
+
+ 
+CDP is running by default.
+
+ 
+R2#conf t
+
+R2(config)#cdp timer 45
+
+R2(config)#cdp holdtime 100
+
+ 
+The CDP timers are changed.
+
+ 
+R2#show cdp
+
+Global CDP information:
+
+        Sending CDP packets every 45 seconds
+
+        Sending a holdtime value of 100 seconds 
+
+The CDP values have been successfully changed.  “show cdp interface” will give the timer information for each interface on the router.
+
+R2#conf t
+
+R2(config)#interface bri0
+
+R2(config-if)#no cdp enable
+
+ 
+CDP is disabled on the BRI interface.  This does NOT have to be done to keep the line from dialing.
+
+ 
+R2#conf t
+
+R2(config)#no cdp run
+
+ 
+CDP is disabled globally.
+
+ 
+R2#show cdp
+
+% CDP is not enabled 
+
+CDP has been successfully disabled.
+
+Show cdp neighbor gives you a great deal of information, but what if you need the neighbor’s IP address?  Just run show cdp neighbor detail.  You will get even more information about that directly connected neighbor, including its IP address.
+
+SW2#show cdp neighbor detail
+
+-------------------------
+
+Device ID: R4
+
+Entry address(es):
+
+  IP address: 172.12.23.4
+
+Platform: cisco 2520,  Capabilities: Router
+
+Interface: FastEthernet0/4,  Port ID (outgoing port): Ethernet0
+
+Holdtime : 158 sec
+
+The details of CDP are important to you on the job and in the CCNA exam room.  When you find yourself negotiating a badly documented network, you can use CDP to "walk" through the network and create a network map for your client as well.  Sometimes the simplest protocols are the most helpful!
+
+

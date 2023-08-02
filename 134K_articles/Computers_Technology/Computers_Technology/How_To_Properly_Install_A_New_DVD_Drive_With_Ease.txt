@@ -1,0 +1,76 @@
+Title: 
+How To Properly Install A New DVD Drive With Ease
+
+Word Count:
+799
+
+Summary:
+Dvd drives are the most popular drives.Learn the procedures you should follow to install and setup your dvd drive into the system unit.
+
+
+Keywords:
+pc repair, computer training software, computer training, computer maintenance,pc tips,pc help,computers, pc training courses
+
+
+Article Body:
+Copyright 2006 Otis Cooper
+
+When you are ready to begin installing your new DVD Drive,have plenty of room on your desk or table to work.Allow enough space to move around and to be able to move the system unit as well.
+
+Check to see if you have ample light.You may want to have a container to place small screws in.The system unit cover may have small screws and you don't want to lose them.
+
+After you have plenty of work space and ample lighting, prepare your mind as well.Make this and every other adventure of working on your computer educational and fun.
+
+Now go over to www.ultimatepcrepair.com/photos.html to familarize yourself with all components inside the PC. Take the time to study the actual components inside your computer.You'll be glad you did should something go wrong.Follow these steps to install your drive.
+
+
+
+REMOVE THE COMPUTER COVER
+
+First Turn off your computer and unplug all peripherals. Take notice of how you unplug or disconnect any devices.
+
+Second Remove the side panel of the tower system or the cover if you have a desktop.Place the panel in a safe place well out of the way.
+
+Third Before touching anything inside the system unit, remove electrical static charge from your body by touching a door knob or any unpainted metal surface.
+
+Fourth Remove the new drive from its protective wrapping and take the time to read through the manual. Be sure you have all components and save the box just in case it need to be returned.
+
+Fifth Check the jumper settings on the drive to be sure it is set to master.If you are adding this drive as a second drive,you will have to set one as master and one as the slave drive.
+
+Your manual should make this procedure quick and fast. A small pair of tweezers can be used to remove the small jumper to the correct position.Most drives are set to master by default.
+
+
+
+SLIDE NEW DRIVE IN COMPUTER
+
+Sixth Locate the drive bay for the cdrom drive.In most cases,its at the top of the case.If you are removing another drive,slide it out partially,disconnect cables, and slide the drive out completely.Take note of the location of all connections.
+
+If you are installing a new drive the first time,use a small screwdriver to pop off the 5.25 inch drive bay cover and bezel on the system unit case.
+
+Seventh Slide the new drive in partially and connect the data,sound,and power cables to the rear of the drive.Slide the drive in completely and use small screws to secure the drive to the case.
+
+In some cases,the drive is secured to the case with the use of Drive rails.These rails should be mounted on the old drive if you had to remove one.Check the drive's manual if your new drive came with side rails.
+
+When connecting the cable,carefully graps the cables by the ends and not the wires themselves.Carefully but firmly push the connectors into their sockets until you are certain of a good connection.
+
+If you are installing this drive as a second drive and have made this drive the secondary or slave drive, connect the drive to the center connector on the Ribbon cable.The master drive must be at the end.
+
+Eighth After all cables are re-connected to the drive and the drive is secured to the case,replace the system unit cover,reconnect all peripherals.Be sure the faceplate of the drive is flush with the front of the computer.
+
+
+
+SETUP YOUR NEW DVD DRIVE
+
+Ninth Boot up the computer and in nearly all cases,the operating system should detect the new drive and install the device driver if necessary.
+
+In most cases,new cdroms and dvd drives will not come with a cdrom or diskette with a device driver. Windows should install the drive with ease.
+
+Some new drives will come with a cdrom full of software,such as games,music,or movies.Check this cdrom for software utilities that you may need to help run and operate your drive.
+
+Tenth Check your new drive to see if Windows has recognized it.Click on My Computer and you should see the drives installed.Check for both drives if you installed the drive as a second drive.
+
+And that's it.You can now use the drive as a huge data backup.Or you may want to make movies. Whatever the case,check the drive for compatbility with other drives.
+
+Take the time to learn absolutely everything about that computer you're reading this with.Quickly master the art of installing not just the dvd drive, but all drives and other components.
+
+

@@ -1,0 +1,28 @@
+Title: 
+Google To Remove All Search Engine Queries After Two Year Period
+
+Word Count:
+407
+
+Summary:
+In the wake of growing concerns about Internet security, Google announced recently that they will be implementing a new policy of data retention, which will involve the deletion of all search engine queries after a period of 18 to 24 months.
+
+
+Keywords:
+Business, Internet
+
+
+Article Body:
+In the wake of growing concerns about Internet security, Google announced recently that they will be implementing a new policy of data retention, which will involve the deletion of all search engine queries after a period of 18 to 24 months. 
+
+Google is the first major search engine to set such a time limit for information retention, and has pledged to begin this process before the end of 2007.  Search Engine query information can reveal much about an individual user, based on the number of queries about certain topics, which has recently sparked criticism of Googles previous policy of keeping these logs of information for an indefinite period.  
+
+In a statement released by the leading search engine, spokespersons for Google responded to this radical new policy change by explaining that it is in response to feedback form both privacy groups and government agencies, and that the new policy will provide better privacy protection for it’s users. The amount of time that queries will be kept before deletion, they explain, is the time period required by many foreign laws which state that user information must be kept for up to two years in the event that it is needed for any legal and or court proceedings.
+
+Per this new policy of the deletion of search engine queries, Google will erase eight of the bits that form a user’s Internet Protocol, or IP address, which is identifies the computer used in a search engine query.  Google also has plans to make cookies, the small files that track user visits to certain websites, anonymous under the new policy. This amount of information kept, says the company, will help to improve services and aid in the detection of fraud, and will be used for no other purposes.  
+
+Retention of these search engine query records has been a much discussed and debated issue since the demand of the Justice Department that several websites turn over their query data.  Yahoo Inc, AOL Time Warner, and Microsoft Corp complied with this demand, turning over the information, to the dismay of many Privacy Advocacy groups. Google however fought this request in court and was allowed to provide a reduced amount of this user information.  
+
+Under this new policy, the disclosure of such information to any party becomes a non issue, since, in the words of Kurt Opsahl, attorney for the digital rights group, the Electronic Frontier Foundation you can’t disclose what you don’t have.
+
+

@@ -1,0 +1,43 @@
+How to seo your web page
+
+For a commercial webpage to prosper in a search engine string search and come out on top, the page has to essentially be “prepared” to be detected and well-received by the search engine algorithm. 
+
+Because of the high amount of browsers visiting search engines such as Google and Yahoo, a new form of process was developed to make full use of the pros and avoid the cons of the algorithms used by the search engine companies. This process of preparation is called Search engine optimization (SEO).
+
+As the amount of information grows exponentially, search engines will play a more vital role in keeping order in the World Wide Web. This has encouraged increasing numbers of people with something to look for to rely on search engines more. It simply is now a fact that you can find information faster if you use a search engine. 
+
+Because of this companies looking to attract more traffic to their sites would pay for valuable ad space within search results sent by the search engines to browsers. Because browsers are more often than not set on getting information about something, placing an ad that totally dovetails with what they’re looking for makes it easy for the advertiser to make a sale.
+
+What search engine optimizers do then, is to make every effort to make the site considered highly relevant and show up in the top ten listing of their respective search strings. The usual method of SEO is to improve content, and dynamically expand the site with even more relevant data.
+
+Unfortunately, unscrupulous SEO’s have also devised ways to cheat the algorithms of search engine to keep themselves on top with low quality or even misleading content. Google, Yahoo and other search engines have fought back by using even more complex algorithms to filter the junk and garbage out of their engines.
+
+To properly optimize a web page, please follow the following steps:
+
+1.	Optimization should be part of the design. To properly optimize a web page, it should be considered as part of the design process. It should not be treated as an afterthought after the fact. This will lead to shoddy worksmanship and create unnecessary strain in the browser looking for relevant data.
+
+2.	Each web page must be optimized. That is to say, each web page must be unique, with their own content, titles and tags.
+
+3.	It’s not just the search engines. Don’t create a site specifically for search engines alone. Most people who start out this way create a site that is unwieldy and has bad grammar. Most browsers pass over unprofessional sites with poor copy.
+
+4.	Keywords. Make sure you have a list of terms you want placed in the page. Also consider that the keywords relevant to page 1 stays in page 1 while page 2 keywords stay in page 2. This is to make sure each page is unique in its offering, avoiding redundancy. In terms to competitiveness, a linking campaign will probably create more traffic and better results than concentrating on keywords.
+
+Place your keywords strategically in the following areas: Page title, Meta tags, Body, Headings, Images, Bullets, Links.
+High quality website typically rank well in the search engines partly because more and more people recommend it to others via word of mouth, email, instant messenger, or even better, take the link and place it in their own website link sections. 
+
+Google considers pages with inbound links as a vote to the quality and relevance of that site, increasing its rank in the search engine hierarchy. 
+
+In addition to inbound links, search engines also send out spiders to assess the site for relevance against an algorithm. The spider basically goes to the site and analyzes all the text in the page, including markup items, the meta tags and the title. 
+
+Spiders can read the following items on a web page, thus making the item highly relevant to search engines: text, page titles, meta tags, meta descriptions, code, tables. Depending on further technological considerations, search engines may consider other languages like Javascript and such. Currently, the spiders will just consider them clutter. 
+
+Web page optimization values content more than graphical artistic impact. One must keep in mind when the end result needed is to increase presence in the advertiser’s chosen search engine string.
+
+
+
+
+
+
+
+
+

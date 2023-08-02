@@ -1,0 +1,42 @@
+Title: 
+The Solution To Spam Problems
+
+Word Count:
+465
+
+Summary:
+The Internet is used and utilized by over a million people everyday. Almost everyone already has his or her own electronic mail address, otherwise and more popularly known as email address. 
+
+If you are one of these people, then that means to conclude that you are also one of those people who complain and get irritated by the increase in the amount of what is called "junk mail" that tends to appear on your email box. 
+
+These "junk mail" are most often referred to as spam....
+
+
+Keywords:
+spam blocking,software block spam,blocking spam tips,spam filter tips,get rid spam,remove spam
+
+
+Article Body:
+The Internet is used and utilized by over a million people everyday. Almost everyone already has his or her own electronic mail address, otherwise and more popularly known as email address. 
+
+If you are one of these people, then that means to conclude that you are also one of those people who complain and get irritated by the increase in the amount of what is called "junk mail" that tends to appear on your email box. 
+
+These "junk mail" are most often referred to as spam. Spam has become a bigger dillemma for the Internet to deal with. You must help fight spam to keep the Internet user-friendly and useful for everybody. How, exactly, can you fight spam?
+
+SpamCop Blocking List, or SCBL, is an aggressive spam-fighting tool. If you use this list, you can be successful in blocking a whole lot of spam. The only disadvantage is that there is also a very big possibility that you may unpurposedly filter or block the email that you want. 
+
+Now having highlighted this limitation, you should really consider using the SCBL as a portion of a scoring system, and explicitly whitelist your wanted email senders. If you do this, bounces from your system, that hit naïve third parties, are prevented.
+
+The SCBL is blocking list of what, exactly? The SpamCop Blocking List is a list of various IP addresses, which have sent reported email to those who use SpamCop, which, in turn, is used to filter and block unwanted electronic mail. 
+
+It acts fast, since it is an automatic list of websites that send reported mail, of which is inclusive of quite a number of report sources, SpamCop user submissions and automated reports. You do not have to worry about delisting the particular sites, for SCBL automatically delists the said sites when the reports cease from being sent. 
+
+The SCBL has a definite goal, which is to block spam with misidentification of email that are wanted, or only with minimal blocking. 
+
+However, SpamCop encourages you, if you are a user, to actively keep a whitelist of your wanted senders of email, and also to divert and tag your mail. SpamCop stresses that these procedures are better than just blocking certain email addresses outright. 
+
+As a result, most of those who use SCBL realize that the amount of unwanted electronic mail that have been filtered with success, makes the risks you dared to make, and any of your additional efforts, worthwhile.
+
+If you do not want to have to deal with the headaches you can get from deleting a big number of junk mail from your mailbox, the SCBL is your solution. Block those spam mail now, for every attempt and actual action of such is a step to making the cyber world a better place.
+
+

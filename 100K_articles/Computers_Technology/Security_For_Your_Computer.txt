@@ -1,0 +1,22 @@
+Title: 
+Security For Your Computer
+
+Word Count:
+314
+
+Summary:
+With the uncertainty that exists in the World Wide Web at the present time, every computer must have some security device in place. Viruses and other such software can be detrimental to the life of your computer and can be contracted from virtually anywhere on the Internet. Since these elements are very difficult to immunize once they have infiltrated the surface of your hard drive, it is imperative that they be stopped before they have the chance to do so. Hence having secur...
+
+
+Keywords:
+
+
+
+Article Body:
+With the uncertainty that exists in the World Wide Web at the present time, every computer must have some security device in place. Viruses and other such software can be detrimental to the life of your computer and can be contracted from virtually anywhere on the Internet. Since these elements are very difficult to immunize once they have infiltrated the surface of your hard drive, it is imperative that they be stopped before they have the chance to do so. Hence having security devices and software in place on your computer is a must, as it can easily detect threats allow you to deal with any problems that may arise with relative ease.
+
+Of particular threat to your computer is spyware. It is basically like a virus in that is spreads throughout your computer however, spyware, as its name suggests, invades the privacy of the personal computer. Thus, the purchase antispyware software is essential in securing your computer from potential threats. Some operating systems are actually equipped with a security center built-in already. This means that when you purchase the computer and operating system software you already have the services of the security center at your disposal. Such services commonly include the ability of an administrator to monitor activity throughout the system as well as potentially block hazardous material on the internet from being viewed by other users, the ability to manage automatic updates and what's more the ability to enquire about the status of antivirus software.
+
+Many of these pre-installed security mechanisms also come equipped with a firewall. A firewall is essentially a , which protects against incoming threats whether they are in the form of infections or hijackers. Without the aid of a firewall an automated hijacker could hack into your system in a matter of minutes while you are connected to the Internet, completely unaware of what is happening to your computer.
+
+

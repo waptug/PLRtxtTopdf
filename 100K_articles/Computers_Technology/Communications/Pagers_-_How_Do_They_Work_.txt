@@ -1,0 +1,26 @@
+Title: 
+Pagers - How Do They Work?
+
+Word Count:
+409
+
+Summary:
+How do those beeping things work that people carry around on their belts? There are several types of pagers but, basically, it’s all done by good, old- fashioned radio waves. Someone sends you a text message with a touch-tone phone – or it can also be sent by email – and the message is forwarded to the thing on your belt, which then emits a beep or vibration to tell you you’ve got a message. This is achieved through a cooperation of communication technologies – basically, mes...
+
+
+Keywords:
+pagers
+
+
+Article Body:
+How do those beeping things work that people carry around on their belts? There are several types of pagers but, basically, it’s all done by good, old- fashioned radio waves. Someone sends you a text message with a touch-tone phone – or it can also be sent by email – and the message is forwarded to the thing on your belt, which then emits a beep or vibration to tell you you’ve got a message. This is achieved through a cooperation of communication technologies – basically, messages are broadcast on a certain radio frequency through a group of radio base stations, and the pager receives that message.
+
+The pager has a LCD screen which displays the phone number or text message you are receiving. The simplicity or complexity of the kind of message the pager can receive depends, in part, on whether it is a numeric pager or an alphanumeric pager. If it is numeric, the caller’s numeric message is what you receive (usually their phone number for you to call them back). If you have an alphanumeric pager, a text message is transmitted to you by a carrier operator’s transcription of a telephonic message. Or text can be sent to you through an alpha entry terminal or a modem. Other options are two-way pagers which function through a PCS band, and interactive pagers which are like tiny computers, allowing telephone-free communications.
+
+You can store a number of messages in your pager – which include the time and date the message was sent – and some have expanded memory to allow you to store even more. This way you can keep phone numbers and information you will need again.
+
+Pagers run a long time on a small battery. One reason is that pagers function through the use of data blocks called codewords. There is a decoder that can determine whether the incoming codewords are for your pager or not and shut off if they are not. Thus, the battery’s life is extended.
+
+How far can you travel with your pager? The distance between your pager and the transmitter for which it has been programmed can vary. When you purchase your pager package, you can ask for local, regional or national coverage – at, of course, increasing costs for your paging service and pager. It all depends on what you need – the beauty of it is you can purchase a pager that will exactly fit your personal, professional and geographic requirements.
+
+

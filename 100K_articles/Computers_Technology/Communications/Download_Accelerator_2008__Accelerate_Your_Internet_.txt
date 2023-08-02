@@ -1,0 +1,34 @@
+Title: 
+Download Accelerator 2008: Accelerate Your Internet!
+
+Word Count:
+362
+
+Summary:
+Don't waste your time! You can double, triple and even quadruple your download speed. Don't wait any longer for your web pages or downloads. Don't let a sudden disconnection ruin a long download. Make sure your downloads can be resumed almost instantly. This software allows you to increase your download speed dramatically!
+
+
+Keywords:
+software, internet, connection, download, accelerator
+
+
+Article Body:
+You browse the Internet, find interesting files, applications, open source software, movie trailers or even your favorite band's songs. And you wish you could use them whenever you want and so you decide to download it.
+
+Ever wondered what happens when you click on download? You send a request (few bytes of data) to the hosting server seeking its permission to access the file (or rather send you digital data). This request signal will be replied with an acknowledge signal from the server followed by the actual data requested for.
+
+There is much more of communication engineering involved, but let’s not dig deep into it.
+
+Now that the actual transmission is taking place, what are the facts about the speed of transfer and data rates of transmission?
+
+There is considerable variation of speed with the type of connection you use. If its dial up that you are using, you are actually sending digital data along with the voice data (at the same time). A s a result, they share the bandwidth available and so the speeds are slow. Whereas now we are using ISDN (Integrated signals digital networking) which was the major reason for the big boost in internet speeds. Gone are those days when we were using 144Kbps to 2Mbps. At the present moment the data rates we experience is tremendous, thanks to Broadband ISDN.
+
+Of course there has always been a tradeoff between bandwidth and speed. But to be light on our pockets, we started using download accelerators with moderate speed internet (why pay for the 332 Mbps connection and use only a fraction of the bandwidth?) 
+
+These accelerators are smart workers. They do the same function as every other downloader but in a more efficient way so as to utilize whatever we have to the fullest which makes us feel that the speeds have improved. They split the files internally into smaller parts and download each part simultaneously using many connections within the allocated bandwidth (which is provided to you by your ISP). These are advantageous as: 
+
+- the bandwidth limitation you faced is circumvented.
+- the smaller size of faulty files and so fault tolerance.
+- better speeds.
+
+

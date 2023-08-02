@@ -1,0 +1,34 @@
+Title: 
+The danger behind peer-to-peer file sharing
+
+Word Count:
+385
+
+Summary:
+Discover the potenial risks relating to peer-to-peer programs. These programs if you are not aware, may be a threat to your system. P2P programs have lots of holes and downsides that will be discussed in this article.
+
+
+Keywords:
+virus,trojan,spyware,p2p,peer-to-peer,internet,security,piracy,risks,dangers,optimize,performance,pc,tips,firewall,antivirus,antispyware,file,sharing
+
+
+Article Body:
+File sharing is very common nowadays. You can get a P2P (peer-to-peer) program for free, and soon start sharing stuff like music, videos and programs. We use these applications freely and most of us don’t know the risks involved when using them. 
+
+Questionable reliability of files – Once we get our hands on a P2P program, we download everything we want like crazy. Favorite music, free softwares, as long as it is available, you download them. Hackers, attackers, or whatever, use this to their advantage. They can insert Trojans, viruses, spyware and other kinds of malware, and then share it to the P2P network. Unwary victims fall prey to these traps, and pay its price.
+
+They make you vulnerable. Don’t let them. – Some P2P programs request you to open up your firewall in order for you to share and download files. This makes you vulnerable and giving attackers openings and opportunities to attack your system.
+
+Breaching privacy – P2P programs that require you to give personal information are very doubtful when it comes to keeping your data secure. Since security is also unreliable, unauthorized people can gain access to your information easily.
+
+Piracy – Would you consider the fact that P2P hosts illegal action which violates the intellectual property rights of hardworking people? The music industry, for example, is going down and most people don’t even care, as long as they get songs for free.
+
+To eliminate P2P risks, take preventive measures and just don’t use them. If you still want to use such applications, be sure to be prepared for the worse.
+
+Keep an anti-virus software in your computer and regularly update its definitions. Everyday, there are new kinds of viruses that spread in the internet, so keeping your anti-virus programs updated is a must.
+
+Enable your firewall. If the P2P program asks you to turn it off or open some ports, don’t do it. Just find some other program that doesn’t require you to do anything irrational to your firewall.
+
+To keep your computer secured and optimized, you can go to <a href="http://yourpctips.awardspace.com/">here</a> for more stuff regarding security. It also contains tips and tricks for pc, internet, softwares and hardwares that can be of real benefit.
+
+

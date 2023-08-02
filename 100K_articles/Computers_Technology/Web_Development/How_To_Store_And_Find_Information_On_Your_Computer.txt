@@ -1,0 +1,54 @@
+Title: 
+How To Store And Find Information On Your Computer
+
+Word Count:
+492
+
+Summary:
+Dear Computer Lady,
+
+I am a stay at home mom with a home party plan business. I do a lot of training through emails.
+
+My question and dilemma is this, when I receive an email I "move" it to a folder in my email account. Is there a way to save that folder and its contents to my computer and burn that info onto a cd or just have as a folder on my desktop? 
+
+I refer to this information often and would like access to it quickly and readily. 
+
+Thanks for your help and all ...
+
+
+Keywords:
+computer help, email, computer questions, tech support, store information, search
+
+
+Article Body:
+Dear Computer Lady,
+
+I am a stay at home mom with a home party plan business. I do a lot of training through emails.
+
+My question and dilemma is this, when I receive an email I "move" it to a folder in my email account. Is there a way to save that folder and its contents to my computer and burn that info onto a cd or just have as a folder on my desktop? 
+
+I refer to this information often and would like access to it quickly and readily. 
+
+Thanks for your help and all your great emails, Jacqueline in Reno, NV
+
+Dear Jacqueline,
+
+Moving e-mail messages in and out of your e-mail program is more involved than it would seem. This is because each message is contained in one larger file that your e-mail program maintains. When you drag a message to your desktop, it does become a separate file, but you still need to have your e-mail program open to use the file, and putting that message back into your e-mail program is not as easy as getting it out.
+
+I have experimented with saving messages over the years and have done everything from saving each one as a text file, to creating extensive folders in my email program. 
+
+Since you want to have the information readily available on your desktop, and you said that you have a lot of information, I would suggest that you use a program that would not only allow you to easily organize your information, but also includes a great search function for those times when you can't remember where you saved that bit of information that you need.
+
+I use a great program called "Treepad Business Edition" for my information storage. I have one file that I store articles for this newsletter in, and another that I use for training information and answers to questions that my VeggieLight.com team members ask me. I also keep another file with information from online purchases so I can easily go back and find receipts from online purchases.
+
+Treepad Business Edition allows me to organize my information in a folder (or tree) structure similar to how you might organize folders in your e-mail program. The one difference between the two is that I have never lost a Treepad file because of corruption, while it is fairly common to lose your e-mail folder due to a corrupt or virus infected e-mail message. It is easy to create folders and subfolders in Treepad, and you can easily drag an article from one place to another in the program.
+
+When I know I have information in the program, but can't remember where I put it, Treepad has a great search function that helps me find exactly what I am looking for.
+
+Give this program a try and let me know what you think. Download a free 30 day trial using the link below.
+
+www.asktcl.com/Files/tpbiz735.EXE 
+
+Elizabeth
+
+

@@ -1,0 +1,42 @@
+Title: 
+You Had Me At EVDO
+
+Word Count:
+740
+
+Summary:
+I have been having too much fun, so now is the time to get a little technical. The ironic thing is that today’s more technical comments are about technology that is meant to allow people to have a lot of fun on their mobile phones and waste tons of productive time just watching movies and TV from their phone. We have come full circle. Cell phones originally were developed to allow people to be more productive and now they will allow people to screw around anytime, anywhere. T...
+
+
+Keywords:
+ampd mobile, amp\\\\\\\'d, amp\\\\\\\'d mobile, phones, ampd
+
+
+Article Body:
+I have been having too much fun, so now is the time to get a little technical. The ironic thing is that today’s more technical comments are about technology that is meant to allow people to have a lot of fun on their mobile phones and waste tons of productive time just watching movies and TV from their phone. We have come full circle. Cell phones originally were developed to allow people to be more productive and now they will allow people to screw around anytime, anywhere. That is progress!
+
+What Is EVDO?
+
+EVDO is short for “Evolution, Data Only” although sometimes referred to as “Evolution, Data Optimized”. EVDO is a highly adaptive standard for wireless broadband that has been introduced to improve the performance of 3rd generation, 3G, mobile Internet access.
+
+Wireless broadband has its obvious advantages over standard, hard wire broadband connections and the most pertinent of these advantages is the mobility of the broadband device. By using wireless Internet connections it has been possible to access the Internet using not only notepad computers but also cellular phones and other mobile devices.
+
+The Advantages Of EVDO.
+
+While mobile Internet access has progressed, the existing standards do have limitations. The bandwidth is limited and subsequently only comparatively small amounts of data can be transmitted to end-users without a loss of performance and quality. EVDO is unique in its approach to try and counteract this. Complex mathematical formulas are used in order to assign a unique signature to every mobile device. Once this device sends a signal requesting data transmission, the signature is applied to the signal and the altered message is sent. The receiver uses the inverse of the equation to convert the signal back again. EVDO also breaks data down into smaller packages of information and sends these packages separately. In essence this means that the bandwidth usage from any single device is cut down massively, allowing for many other users to gain high speed Internet access through any mobile device. It also means that in total less information needs to be sent. Without the use of EVDO, mobile devices struggle to gain the bandwidth they require in order to seamlessly log onto websites, especially if those sites have a lot of data to send. With EVDO this basically becomes a thing of the past and millions of people on their cell phones can access the same sites at the same time with little or no effect.
+
+EVDO Performance.
+
+EVDO can potentially produce a 2.4-megabit throughput. This is as powerful as a great many American DSL broadband connections found in people’s homes. Of course, because EVDO is truly wireless and portable it doesn’t matter where you are, you can access the Internet on your cell phone, your notepad or any mobile device without fear of poor quality.
+
+The Existing Technology.
+
+EVDO has been introduced to compete with existing wireless Internet technology called W-CDMA. However, W-CDMA requires a permanent path to be created between receiver and transmitter, unnecessarily using vast amounts of the available bandwidth. EVDO does not require this because it creates packages and sends the information in smaller parts. One of the big advantages of introducing EVDO, though, is that it uses exactly the same frequencies as existing methods, meaning there would be no structural change required to establish a usable network.
+
+EVDO Service Providers In America.
+
+Korea and America are leading the way in introducing EVDO to personal users and several services in the US are already operating several pricing and limit plans in order to allow users to easily access an effective Internet connection over their cell phone. Amp’d is one of the more recent plans to enter the market and with a service costing $15 per month for an all-inclusive EVDO package, they look to be leading the way in pricing as well. The Amp’d service provides a wide range of MTV provided channels and media for you to download, if this is the package you choose, and there is sure to be something for everyone’s tastes. Verizon and Sprint also offer EVDO capable phones, which could be worth the look if you are looking for something more than the ‘extreme’ entertainment channels that Ampd Mobile offers.
+
+By the way, you can purchase the same Amp’d Mobile Phones through Dealking.com at the same or cheaper prices, but also receive $25 cash back. Check it out at dealking.com.
+
+

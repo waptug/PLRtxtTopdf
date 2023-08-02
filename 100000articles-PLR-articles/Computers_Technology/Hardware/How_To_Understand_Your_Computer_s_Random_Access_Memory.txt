@@ -1,0 +1,60 @@
+Title: 
+How To Understand Your Computer's Random Access Memory
+
+Word Count:
+713
+
+Summary:
+Learn the most used types of RAM or Random Access Memory used in most computers.
+
+
+Keywords:
+computers, software,hardware,pc repair, computer training software, computer training, computer maintenance,pc tips,pc help,computers, pc training courses
+
+
+Article Body:
+Copyright 2006 Otis Cooper
+
+The System Memory is more commonly called RAM or Random Access Memory. This is the memory used by the computer to hold programs and data.
+
+This data is lost once the computer is turned off.Because demands by powerful software have skyrocketed, system memory requirements have been accelerating at an alarming pace.
+
+Random Access Memory is mounted directly onto the motherboard and transfers data by use of address and data buses. Each data bus consist of a number of circuits.
+
+In 1985, Intel had the 386 processor with its 32 bit bus and the Pentium processor came along in 1993 with a large 64 bit bus. RAM memory is made using DRAM Chips.
+
+RAM chips are large rectangular shaped and made with memory cells with support logic that reads and writes data. These chips must be continously refreshed, that is, data is constantly sent to allow the cells to hold data.
+
+Information being transferred between the CPU Chip and RAM memory is called a memory cycle. During the late 90s, the DIMM chip was the standard RAM Chip. So just what is this DIMM chip? Let's talk about the different Ram memory chips used in the computer.
+
+Static RAM is a type of RAM that holds its data without being refreshed, for as long as power is supplied to the circuit. This is contrasted to dynamic RAM (DRAM), which must be refreshed many times per second in order to hold its data contents.
+
+TYPES OF RANDOM ACCESS MEMORY CHIPS
+
+SIMM or Single Inline Memory Modules came on the scene in the early 90s. The SIMM chips first came with 30 pins. And then the 72 pin SIMM which had 32 bit data paths or buses.
+
+DIMM or Dual Inline Memory Module replace the Simm chips. These chips had 168 pins as compared to the 72 pin Simm variety. The data bus of the 30 pin chip was 8 bits while the 72 data bus can send data on the 32 bit data bus.
+
+DIMMs also come in a smaller form factors suitable for use in notebook computers. These SO DIMMs or Small Outline DIMMs are available in both 32-bit wide/72-pin and 64-bit wide/144-pin form factors.
+
+RIMM came in 1999 and the connectors for this new chip fits in the same sockets as the DIMM chips. They have 184 pins as compared to the Dimm which have 168 pins
+
+The RIMM chip was to come along when DRDRAM OR Direct Rambus DRAM: a totally new RAM architecture, was introduced. A single Rambus Channel has the potential to reach 500 MBps in burst mode; a 20- fold increase over DRAM.
+
+Computers will have DRAM for their main system memory, instead of SRAM, even though DRAMs are slower than SRAM. The reason that DRAMs are used is that they are cheaper and take up much less space. To build a 64 MB core memory from SRAMs would be very expensive
+
+All computers will contain a Memory Controller which,as its name implies, control the memory.It generates signals to regulate the reading and writing of information to and from the memory. The system chipset is normally where the memory controller is integrated.
+
+And just what are the chipsets? Well,they are like the traffic cops for all chips on the motherboard. They keep in check such data transfer from and to the CPU, data buses, printer, video card, and nearly all other devices.
+
+Data flow is such a critical issue in the operation and performance of so many parts of the computer, the chipset is one of the few components that have a truly major impact on your PC's quality, feature set, and speed.
+
+THE TYPE OF RAM MEMORY IN YOUR PC
+
+How can you know what type of memory is right for your PC. Using a memory configurator is one quick way to solve is problem. Some memory makers will have a memory configurator on their site.
+
+The best way to determine the type of memory you use in your computer is to read the owner's manual. No owner's manual,no problem. Visit your computers motherboard web site should you need assistance.
+
+Another very important thing to considerwhen buying your memory is to be sure it is compatible with your system. And you'll need to decide how much memory you need and consider the price, quality, availability, service, and warranty.
+
+

@@ -1,0 +1,31 @@
+Title: 
+What is slowing your PC?
+
+Word Count:
+322
+
+Summary:
+It’s always the same old story, you buy a brand new PC and everything seems to be working fine.
+
+
+Keywords:
+mobile, wireless, Security, Hardware, firewall, anti virus
+
+
+Article Body:
+It’s always the same old story, you buy a brand new PC and everything seems to be working fine. After six months you find that everything is working a bit slower - applications take a few seconds to open, some windows freeze, and more. After a couple of years it becomes simply unbearable. Have you ever wondered what is slowing your PC? 
+
+Security software, constantly growing and slowing your PC 
+One of the biggest contributors to the constant decrease in the PCs performance is the security software that is trying to protect it. It is widely reported that security software installed on a PC can dramatically reduce its performance. In fact, PC World has recently revealed that one of the top selling security suites “may slow your PC unacceptably”*. 
+
+* PC World UK – May 2007 
+
+How security software slows the PC? 
+Processing by multiple engines – security packages include multiple engines and often these engines were developed by different vendors. These different engines often employ security methods that contradict each other, resulting in conflicts and memory leaks that may even generate blue screens and system errors and may slow your PC dramatically. 
+
+Constant updates – daily security updates make security software an ever growing strain on performance. These security updates include both signatures and new code that is added to the increasingly large footprint. As time goes by, the security software consumes more and more of your PC’s CPU and memory. 
+
+The Solution – Yoggie Pico Offloads Security Tasks 
+Yoggie Pico offloads the security tasks from your PC, freeing your PC resources to maximize performance. Both processing and security updates reside on the Yoggie Pico itself, dramatically saving CPU and memory usage. All the security applications that you will need to completely protect your laptop work harmoniously inside Yoggie Pico. Furthermore, Yoggie Pico’s patented Multi-Layer Security Agent™ coordinates between the different security components to provide early detection of new attacks as they begin their operation.
+
+

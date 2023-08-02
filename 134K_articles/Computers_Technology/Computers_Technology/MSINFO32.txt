@@ -1,0 +1,58 @@
+Title: 
+MSINFO32
+
+Word Count:
+900
+
+Summary:
+Want to know more about your computer? Many software download websites offer all kinds of tools, many of them are freeware or shareware that will help you learn more about how your computer functions or that help you change your settings.
+
+However, most of these tools are already built into windows and you don’t need to download extra software to do these things. In this article I will be discussing one of those tools called MSINFO32.
+
+Go to “start” on your taskbar, then ...
+
+
+Keywords:
+Computer support, support forum, computer help, computer crash, pc support, internet explorer
+
+
+Article Body:
+Want to know more about your computer? Many software download websites offer all kinds of tools, many of them are freeware or shareware that will help you learn more about how your computer functions or that help you change your settings.
+
+However, most of these tools are already built into windows and you don’t need to download extra software to do these things. In this article I will be discussing one of those tools called MSINFO32.
+
+Go to “start” on your taskbar, then to “run”. Type in or copy MSINFO32 into the run box. Click okay. A tool will popup. I’ll go over it with you as you read this article.
+
+Click the plus sign next to “Hardware Resources” Now select Conflicts/Sharing. This shows you the IRQ addresses your computer’s hardware is using. If there are any conflicts, it will tell you here.
+
+Next is “DMA” which according to http://www.x-emi.com/tech_terms.html , DMA is defined as “Direct Memory Access. A technique for transferring data from main memory to a device without passing it through the CPU. Computers that have DMA channels can transfer data to and from devices much more quickly than computers without a DMA channel. This is useful for making quick backups and for real-time applications. Some expansion boards, such as CD-ROM cards, are capable of accessing the computer’s DMA channel.” That explains it better than I could have done.
+
+The next option is “forced hardware”. This is hardware that is not plug in play compatible and where the user manually configures the settings rather than the system doing so automatically. legacy Industry Standard Architecture (ISA) devices are an example of forced hardware. You likely do not have any forced hardware on your system unless you are an advanced user.
+
+Next is I/O which are Input/output settings." These settings refer to sending data to and from devices. Again unless you are a very advanced user, there isn’t much for you to do here.
+
+Now click IRQ. This stands for Interrupt Request and is an electronic request from a hardware device to your CPU. There should be only one device hooked up to each IRQ line; doubling up devices on IRQ lines can lock up your system. Most of your hardware comes with preset settings that do not conflict with other devices.
+
+If you do end up with an IRQ conflict, you can choose the device in “device manager” and change the settings assigning a new IRQ address that is not being used to the problem hardware. Most of the time you should allow a technician to do that for you.
+
+The next choice is “memory”. This is the memory blocks that your hardware uses and again your hardware is usually set up so that it automatically configures this for you.
+
+Click the plus sign by “components” now. Each computer has different hardware, but information about each piece of computer hardware you have is located here. Also, there is a “problem devices” choice as well. Hopefully when you click here it says, “There are no devices with problems on this machine.”
+
+The history option is good for computer techs because it gives them an idea of what has been installed and when along with other important information that can help them fix your computer.
+
+If you click the plus sign next to software environment, you will see several choices. You will find information about the drivers that are installed, software updates, and more depending on what software you have installed.
+
+In this general area you can select Basic Information, Advanced Information, or History for each of the items we have discussed here. It’s a good thing to know how to access your computer’s information if you are getting tech support by phone or in a tech support forum.
+
+Now at the top, go to tools. You will see a “repair Internet Explorer” tab. Don’t go there unless you are having problems with Internet Explorer, but if you are, this will help you make repairs to it. This is also where you can go to add components to Internet Explorer.
+
+Now the DirectX Diagnostic tool. This is a step by step easy to understand wizard that will help you make sure DirectX is working properly on your system or needs to be updated. Run through all the tests for sound and video.
+
+The windows report tool is where you can contact Microsoft support about problems. I don’t know if this actually works anymore or if Microsoft is even listening. Try it out and see.
+
+Most of the other tools I ignore except for the system file checker. This is a handy tool you should run to check if any system files have been changed or damaged since being installed. It’s good to run this about once per month. If it finds damaged or changed system files it will prompt you to ask you what you want to do. Just follow the instructions. You will probably need your operating system CD if you want to replace a system file that has been corrupted.
+
+I hope this article has helped you learn a little more about the computer you use and has helped you to learn that many tools that you need are already built into your computer if you know how to find them.
+
+

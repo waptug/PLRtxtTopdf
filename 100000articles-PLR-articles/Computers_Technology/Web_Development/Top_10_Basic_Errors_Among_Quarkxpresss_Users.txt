@@ -1,0 +1,77 @@
+Title: 
+Top 10 Basic Errors Among Quarkxpresss Users
+
+Word Count:
+1040
+
+Summary:
+If you have recently started using QuarkXPress, you may find yourself making some of the errors outlined in this article. Take a second to read through our top ten beginner pitfalls and spare yourself a little frustration in getting to grips with your new software.
+
+1. Not setting document properties for new projects
+
+Beginners will often create a new project and click OK without paying much attention to the settings in the New Project dialogue.
+
+Quark keeps the setting...
+
+
+Keywords:
+Quarkxpress, desktop publishing, computer tutorials, beginners, dtp, quark express, text box
+
+
+Article Body:
+If you have recently started using QuarkXPress, you may find yourself making some of the errors outlined in this article. Take a second to read through our top ten beginner pitfalls and spare yourself a little frustration in getting to grips with your new software.
+
+1. Not setting document properties for new projects
+
+Beginners will often create a new project and click OK without paying much attention to the settings in the New Project dialogue.
+
+Quark keeps the settings from the last project you created. If these are inappropriate for the document you are about to create, change the page size, orientation, margin and column guides as necessary.
+
+2. Mistaking margins for the edge of the page
+
+Having set margins when creating a new project, many new QuarkXPress users will still feel inclined to position their text and picture boxes inside the margin guides, leaving an extra space. Remember, the blue lines represent the margin guides not the edges of the page. Normally, the edges of your text boxes will need to be positioned on the margin rather then inside them.
+
+3. Overuse of ruler guides
+
+Ruler guides are created by dragging the vertical or horizontal ruler onto the page. As well as providing a visual reference, guides can be used to align elements vertically and horizontally by snapping elements to them like a magnet. For example, if the tops of two text boxes are snapped to the same guide, both boxes will be the same distance from the top of the page.
+
+Guides are extremely useful aids but, if over-used (as often happens with new users), you end up with a page covered in confusing green lines. Consider using the measurements palette as well: entering the same x measurement for two boxes will align their left edges and the same y measurement will align their tops.
+
+4. Not snapping objects to guides
+
+A classic error beginners make when using guides to align objects is as follows. They drag a guide and align it (by eye) with one of the edges of a box then they snap a second box onto the guide. This means that only the second box is actually snapped to the guide.
+
+Remember that both boxes need to be snapped to the guide to get the full benefit from them. Since one of the edges of the original box was used as a reference point for the guide, it will be almost aligned but not quite: it just needs to be moved slightly until it actually snaps to the guide. Position the mouse pointer over the appropriate middle handle of the box until the cursor changes to a pointing finger. Click and drag the handle so that it snaps to the guide. (If necessary, move the handle away from the guide and then back onto it to feel the magnetic snap.)
+
+5. Misuse of automatic text box
+
+The automatic text box feature in QuarkXPress can be activated when creating a new project: you just click on the check-box marked "Automatic Text Box". It allows us to go into something approaching word processing mode. It should be used when creating multi-page documents consisting mainly of text such as a report or book.
+
+Many new users assume that all this feature does is to automatically create a text box on the page for you, saving you the trouble of doing so yourself, not realising that the text box created in this way has one other special property. When it becomes filled with text, QuarkXPress automatically creates a new page containing another automatic text box linked to the box on the first page.
+
+So if you are creating a single page brochure or advert, an automatic text box is a liability since, if it becomes filled with text for any reason (for example, when you are experimenting with typefaces and font sizes), you end up with an extra page being created.
+
+6. Clicking on the text box tool when editing text
+
+Another simple error new QuarkXPress users tend to make, is clicking on the text box tool then trying to edit text. This one is not so serious since it's a non-starter: the only thing you can do with the text box tool is create text boxes. The correct tool for editing text is the Content tool, the second tool on the QuarkXPress toolbar.
+
+7. Attempting to edit text when the Item tool is highlighted
+
+Another popular type of confusion with the QuarkXPress tools is when to use the Item tool and when to use the Content tool. One often sees beginners trying to edit or import text while the Item tool is selected. Like the previous error, it's not such a biggie since sooner or later you will remember that you have to select the Content tool before you access the text inside the box.
+
+8. Highlighting the Item tool when resizing boxes
+
+Another common Item/Content tool error is that new users will often insist on selecting the Item tool when resizing a box: in fact, resizing works fine regardless of whether the Content or Item tool is selected.
+
+9. Creating too many text boxes
+
+QuarkXPress newbies will often create more text boxes than they need to (This box is for my heading, this one is for my subheading, and so on...), forgetting that the format of text can be changed as many times as necessary within the same box.
+
+Separate text boxes need to be created only where the attributes of different blocks of text cannot be accommodated within the same box: for example, a heading spanning two columns above a two column story.
+
+10. Focusing on the box rather than the content
+Beginners in QuarkXPress will often spend a lot of time aligning headings within a text box, for example vertically centring, forgetting that, since the box will not print, all that matters is the position of the text itself on the page.
+
+A good way of curing this one is to get into the habit of pressing F7 (a shortcut for View - Guides). This keystroke toggles the visibility of the QuarkXPress margin and ruler guides as well as the edges of boxes that have no frames. This means that you are always reminded of which elements will actually be visible when the document prints.
+
+

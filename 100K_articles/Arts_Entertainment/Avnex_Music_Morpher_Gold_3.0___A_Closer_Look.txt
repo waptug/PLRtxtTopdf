@@ -1,0 +1,99 @@
+Title: 
+Avnex Music Morpher Gold 3.0 – A Closer Look
+
+Word Count:
+665
+
+Summary:
+Avnex Music Morpher Gold 3.0 is an impressive collection of powerful audio tools.  The built-in Audio Editor is looked at in depth and in detail. Filters and Effects are detailed; DirectX and VST modules are also supported. This all in one audio suite is highly recommended.
+
+
+Keywords:
+Music morpher, audio, audio recording, audio editing, audio morphing,audio filters, audio effects, morph, audio player, audio filters, audio effects.
+
+
+Article Body:
+Of all the features in Avnex Music Morpher Gold 3.0, the Editor contains a truly impressive collection of powerful and versatile audio tools. Let’s take an in-depth look at the various effects and filters built-in to this program.  While most of them can be accessed on the fly in the Music Player and applied real time, these effects are only active during playback.  To permanently alter your audio files you have to open them within the editor.  You can work with one file or multiple files in multi-session mode.
+
+What you can do.  The selection is seemingly endless.  There are 60 major filters and effects to work with. Plus support for Direct X and VST.  That’s just the surface; let’s take a detailed look at the power contained within these modules.  If you are familiar with basic audio terms, most of these modules will be familiar to you, but you may not have encountered such depth and precision available to you in one program.  Here’s the detailed list of the AVnex Music Morpher Effects Library:
+
+Voice Morphing
+o	Cher Modification - 10 presets 8 controls 
+o	Frequency Morpher - 11 presets and a graphic interface
+o	Robot Voice - 9 presets 2 sliders 
+o	Root Formant Mover - 8 presets 2 sliders
+o	Tempo Morpher - 11 presets one slider
+o	Voice LPC Pitch Changer - 6 presets one slider 
+o	Voice Morpher - 16 presets 3 sliders
+o	Voice Extractor  - 3 presets7 sliders
+o	Voice Remover  - 3 presets 4 sliders
+o	Voice Extractor  - 5 sliders 
+o	Voice Remover - 5 sliders
+
+Equalizers
+o	2 order equalizer - 17 presets 10 sliders graphic control
+o	4 order equalizer - 17 presets 10 sliders graphic control
+o	Graphic Equalizer - 13 presets 1 slider graphic control with 2 scales
+o	Linear Phase Equalizer - 17 presets 10 slides graphic control
+
+Filters
+o	Low Bass Filter - 16 presets 3 slides graphic control
+o	High "        " - 6 presets 3 slides graphic control
+o	Band  "      " - 8 presets 4 slides graphic control
+o	Band Reject Filter - 7 presets 3 sliders graphic control
+o	FIR Bass Filter - 16 presets 3 sliders graphic control 
+
+Volume
+o	Amplitude Morpher - 8 presets graphic control 2 scales 2 curves
+o	Auto Loudness - 12 presets 2 sliders
+o	Change Channel - 9 presets 2 sliders
+o	Constant - 2 settings
+o	Dynamics Morpher - 8 presets 2 sliders graphic control 
+o	Fade In - 4 types 1 slider
+o	Fade Out - 4 types 1 slider
+o	Invert - 3 presets 2 settings
+o	Limiter - 16 presets 2 sliders
+o	Multiband Dynamics - 8 presets compression ratio/threshold graph
+o	Normalize - 6 presets 2 sliders
+o	Volume - 15 presets 2 sliders
+
+Echo and Reverb
+o	Complex Delay - 14 presets 7 sliders
+o	Delay - 22 presets 5 sliders
+o	Mega Reverb - 15 presets 5 sliders
+o	PingPong - 12 presets 7 sliders
+o	Resonance - 6 presets 6 sliders
+o	Reverberation - 10 presets 7 sliders 3 line controls
+o	Stick Channels - 17 presets 9 sliders
+
+Surround
+o	Pseudo Surround 12 presets 3 sliders
+o	Surround - 24 presets 2 sliders
+
+Miscellaneous 
+o	Beat Tracking - 50 presets 2 sliders import capable
+o	Chorus - 15 presets 4 sliders 5 options
+o	Chorus Plus - 11 presets 8 sliders
+o	Detonation - 14 presets 7 sliders
+o	Distortion - 5 presets 4 sliders
+o	Envelope Morpher - 10 presets 2 sliders graphic control
+o	Flanger - 8 presets 5 sliders sine/feedback control
+o	Hardcore Beat - 8 presets 7 sliders
+o	Karaoke - 4 presets 1 slider
+o	Music by Voice Morpher - 4 sliders file input option
+o	Noise Reduction - 9 presets 2 sliders
+o	Rhythm to Noise - 7 presets 24 sliders each with 4 waveform settings linear and log scales 
+o	Spectral Peak Enhancer - 6 presets 3 sliders
+o	Squeak - 8 presets 5 sliders
+o	Tremolo - 7 presets 5 sliders
+o	Vibrato - 3 presets 3 sliders
+o	Vibrato Plus - 10 presets 2 sliders time/offset graph
+o	Wave - 16 presets 5 sliders 6 waveforms
+o	Wah Wah Filter - 10 presets 6 sliders 2 scales band filters
+
+Have you ever seen a more comprehensive list of audio tools?  This module alone sets Music Morpher Gold head and shoulders above the competition.  Besides the ability to play almost any audio file and to morph them on the fly, beyond the amazing variety of audio tools, you can also burn CDs, organize your audio files, rip audio CDs, create covers and liner notes for your CDs, and capture/record from any input device. Truly this is a masterpiece of audio software that will provide you with the means of fulfilling any of  your audio dreams.  Logon to www.audio4fun.com to download a trial version; you won’t be sorry.
+
+BIO:  
+Wayne Rice is a freelance journalist, copywriter, photographer and artist.  He currently resides in the United States.
+
+

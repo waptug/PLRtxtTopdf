@@ -1,0 +1,16 @@
+Using Subdomains—Benefits and Drawbacks
+
+Most businesses don’t like to use subdomains because they feel like they give them a disadvantage in many areas, such as having a prefix name before your web-site, being ignored by bots and index spiders in search engines and all in all, it just doesn’t look right. So let’s check our facts on subdomains.
+
+A subdomain is substitute or second-level of a domain. A regular domain looks as follows: www.jamesbrown.com . A sub domain looks like this
+
+http://bravenet.jamesbrown.com. Subdomains do not have www on the front of them. All subs start with "http://subdomain/maindomain.com pattern of identification.
+
+Subdomains rank efficiently well. Search engine spiders and bots are not prejudiced when it comes to the ranking of subdomains and regular domains. As long as your site has the right SEO keywords and has been optimized, whether you have a subdomain or regular domain name doesn’t make a difference at all.
+
+Let’s pretend that you site has a lot of categories in it. If you were to submit to a search engine, you could submit each subdomain as its own individual category and still get a good ranking.  Each subdomain would be looked at by search engines as a new site with its own index or home page. You may want to try creating subfolders on the subdomain to get around this so that search engines can read the folder as one set of site information.
+
+People worry about their subdomain getting banned if the main domain name is banned. If the main domain is banned, it will have an effect on the subdomain. You see this happen often in adult content sites that have violated certain agreements that they have signed with a provider that does not want a domain used for adult material.
+
+Again, there is nothing wrong with using a subdomain. If you want to develop each subdomain as its own entity, then by all means, do so.  If not, get yourself a main domain name and use that as a certified landing page.
+

@@ -1,0 +1,34 @@
+Title: 
+The Value Of An Oracle Database
+
+Word Count:
+328
+
+Summary:
+There are some very large, very powerful companies out there that have saved quite a bit of money using an Oracle database. Will your company be one of those? Or, will you simply overlook this opportunity? In order to know if in fact an Oracle database will help you, perhaps you have to know a little more about it. Also, you need to realize the differences that are out there in various versions of the Oracle database. Gathering this information will help you make a sound deci...
+
+
+Keywords:
+Oracle DBs
+
+
+Article Body:
+There are some very large, very powerful companies out there that have saved quite a bit of money using an Oracle database. Will your company be one of those? Or, will you simply overlook this opportunity? In order to know if in fact an Oracle database will help you, perhaps you have to know a little more about it. Also, you need to realize the differences that are out there in various versions of the Oracle database. Gathering this information will help you make a sound decision about the use of this product in your business. 
+
+First, realize that the Oracle database is available to be used and can be benefited from by virtually any size of business. Large corporations, medium sized companies, and even small organizations can all benefit here. What makes it nice to everyone as well is the lower prices that are currently being offered on Oracle database systems. There is no doubt that the introductory price is something to turn heads. 
+
+The system we will mention here is the Oracle Database 10g Products. These are, believe it or not, the first databases designed for grid computing in the industry. Your options are many: 
+
+• Enterprise Edition: Packed full with the highest level of performance and scalability. You will find reliability in OLTP as well as in decision support, and management activities. 
+
+• Standard Edition: Clustering support is provided with this 4 processor version. 
+
+• Standard Edition One: Same great stuff with a 2 processor version that is perfect for the entry level. 
+
+• Personal Edition: Perfect for an individual 
+
+• Lite Edition: Great option for managing mobile database applications. 
+
+While the features of each of these Oracle database options are many, it makes sense for each and every business out there to find out how well these products can serve their basic needs. Take a moment to see what they can do for you and you may just be impressed with the options that are available to you in Oracle database.
+
+

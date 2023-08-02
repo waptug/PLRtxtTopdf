@@ -1,0 +1,43 @@
+Title: 
+Creating a Wireless Desktop
+
+Word Count:
+1045
+
+Summary:
+Create a wireless desktop with the use of wireless technologies such as keyboards and mice. Plus Wireless networking, printers, speakers and headphones removes the need for wires on your PC. Have a clean desktop, have a wireless desktop.
+
+
+Keywords:
+wireless, desktop, speakers, mice, keyboard, printer, network, networking
+
+
+Article Body:
+We live in an age of technology and as such we are always looking for ways to make life easier or ways to make things look better. In the home or office (or even the home office) making things look better involves getting rid of clutter. This is where the wireless desktop comes into play. No wires means less clutter and because when using Bluetooth wireless devices line of sight is not needed, you can use your desk space to its optimum with no worries.
+ 
+There is more to the wireless desktop than you might think as well. You will all be aware that you can get a wireless keyboard and mouse. But wireless technology and Bluetooth in particular stretches much further than that. Your mobile phone if a recent one will probably have Bluetooth technology built into it. This means that you can easily connect it to your PC. Companies such as Logitech offer software that really gets your mobile phone and your PC working together. Synchronization is just one aspect of this, but how about being able to type an SMS text message on your keyboard and send it without having to touch your phone. This is all possible with the power of Bluetooth. Communication with your mobile phone is not the only method of contact with Bluetooth. You can also get Bluetooth headsets that work with Microsoft Messenger so you can add an easy chat functionality to your desktop. As new products come on the market Bluetooth becomes more and more popular. Peripheral devices such as Printers and Scanners can now be found.
+
+<b>The Wireless Keyboard and Mouse</b>
+
+This is the first device that you will probably buy for your wireless desktop. This is the basic starting point and probably the most effective. The keyboard and mouse wires cannot be hidden away from sight as they have to be straight in front of you. plus limiting the mouse wire can mean limiting the mouse movement as well. So A wireless keyboard and mouse will give you a better looking desktop as well as freedom to move your keyboard where you want it. You can have it on your lap or anywhere else in range. Having a wireless mouse will also help in gaming. Most wireless mice are just as responsive as corded ones and your wire wont snag at that vital moment when online gaming.
+
+<b>Wireless Printers</b>
+
+While printers are not being produced as wireless as yet. The idea is very much being worked on. Currently what you can by for your USB connected printers is a two small connecters that plug into your printer and USB port which connect together like a wireless network. Its almost a wireless USB connection if you like. I doubt that is how it will be described though. The advantages of the wireless printer as well as the lack of wires behind your PC is the range can be increased as well as you being able to place your printer in a place where a USB cable would be unsuitable to travel. A second advantage would be that connecting your printer to a wireless network for sharing will be much easier.
+
+<b>Wireless Networking</b>
+
+I think the biggest advantage of wireless technology has to be Wireless Networking. While Bluetooth technology is does not have the range in which to be affective at networking computers together. RF technology is still used however and is very easy to setup. For a simple network (peer to peer) on two computers all you need is two wireless networking cards setup to the same channel. More complex networks can also be setup using a server and workstations. Anything you can do with a wired network you can do with wireless technology.
+
+While we keep saying that the main advantage of wireless technology is that you don't have wires lying around everywhere, this is more true than ever when we are talking about wireless networking. When your computers are likely to be located in different room, the last thing you want is for wires to be laid around your home or office being an eyesore. Plus should you wish to move your computer at anytime, you don't have to re-route the wires connecting your network together. 
+Security on Wireless networks is set by adding a name for your network which all computers on that network must be assigned to connect to, plus then you can add a password to keep unwanted intruders out from your files. Software firewalls are also recommended on wireless connections (as well as wired) just for added security against unwanted virus' or Adware/Spyware.
+
+<b>Wireless Headphones / Microphone</b>
+
+Wireless headphones are readily available from many manufacturers. These are really one of the most practical uses of wireless technology behind the networking. Wireless headphones allow you to freely listen to your music, game or whatever noise your PC is making anywhere in your room without the restriction of wires. Even if your wires are long enough they will still be a little dangerous stretched across the room. And we all know you like to dance around your room listening to your favourite tracks. A set of wireless headphones could save you a few quid on broken items that your headphone wires have snagged on and brought crashing down to the floor :).
+
+<b>Wireless Speakers</b>
+
+Wireless speakers are poking out of the woodwork and those of you that have a 5.1 or above sound system will just how many wires are involved in that setup. Not only do you have connection to the computer but each speaker is connected to the sub / power box and and you also have the volume control to deal with. At time of writing this the US seem to have a decent supply of wireless speakers where as only a few can be found in the UK. I am very sure that wireless speakers will become a lot more popular in the UK over the next couple of months. Wireless speakers will remove loads of wires from the back of your computer. Using a 5.1 wireless system will allow you to place your speakers in the perfect position without any restrictions or ugly wires running along your walls or floor.
+
+

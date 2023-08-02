@@ -1,0 +1,56 @@
+Title: 
+Cisco CCNP Certification:  Using The BGP Command “Update-Source”
+
+Word Count:
+316
+
+Summary:
+Knowing how to use logical interfaces to create BGP connections is an important skill for both the CCNP exams and the real world.  Learn how to use this important command from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+ccna,ccnp,free,tutorial,recertify,icnd,intro,pass,exam,router,switch,cisco,bsci,cit,bcran,configure,ebook,chris,Bryant,ccie,12933,advantage , bgp, update-source
+
+
+Article Body:
+When you start preparing for your CCNP exam, particularly the BSCI exam, you're introduced to Border Gateway Protocol (BGP) configurations. BGP is unlike any protocol you learned during your CCNA studies, and even the similarities are a little bit different!
+
+BGP forms neighbor relationships, much like EIGRP and OSPF do. The interesting thing with BGP is that potential neighbors, or "peers", do not need to be directly connected and can use their loopback interfaces to form the peer relationships. 
+
+It may well be to your advantage to use loopbacks to form peer relationships rather than the actual interface facing the potential neighbor. This can be done because BGP uses static neighbor statements rather than any kind of dynamic neighbor discovery process. 
+
+Consider a router that has two paths to a BGP speaker. The interfaces are numbered like this:
+
+Router1: Serial0, 172.1.1.1 /24, Serial2, 179.1.1.1 /24, loopback0, 1.1.1.1 /32.
+
+Router2: Serial0, 172.1.1.2/24, Serial2 179.1.1.2/24, loopback0, 2.2.2.2 /32.
+
+We could configure Router1 like this:
+
+router bgp 200
+
+neighbor 172.1.1.2 remote-as 200
+
+In this case, BGP would automatically use 172.1.1.1 as the source for the TCP connection that has to be set up with the neighbor before updates can be exchanged; this address is known as the best local address. However, if the remote peer's serial0 interface is shut down or goes down for another reason, the peer relationship would be lost even though Router2 is still available.
+
+Instead of using one of the physical interfaces, we can use the loopbacks on each router to establish the TCP-based peer connection. The configurations would look like this:
+
+Router1:
+
+router bgp 200
+
+neighbor 2.2.2.2 remote-as 200
+
+neighbor 2.2.2.2 update-source loopback0
+
+Router2:
+
+router bgp 200
+
+neighbor 1.1.1.1 remote-as 200
+
+neighbor 1.1.1.1 update-source loopback0
+
+In this case, losing one of the physical connections does not necessarily mean the BGP peering is lost; as long as the routers have a valid path to each other's loopback addresses, the BGP peer relationship will stay in place. And better yet, we avoid the dreaded “single point of failure
+
+

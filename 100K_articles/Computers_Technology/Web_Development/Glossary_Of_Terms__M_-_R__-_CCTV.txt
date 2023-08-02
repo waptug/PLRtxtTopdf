@@ -1,0 +1,173 @@
+Title: 
+Glossary Of Terms (M - R) - CCTV
+
+Word Count:
+1577
+
+Summary:
+MAGNIFICATION RATIO
+The ratio between the focal length of a lens and the focal length of a standard angle lens. Indicates the magnification of the image when compared to an image from a standard angle lens.
+
+MANUAL IRIS
+Type of lens that requires manual focusing.
+
+MATRIX SWITCHER
+Advanced type of switcher in which a signal from any input can be switched to any number or combination of outputs. Generally used in larger and more complex systems the matrix will usually al...
+
+
+Keywords:
+security consultant,security consultancy,security services,security solution,security design
+
+
+Article Body:
+MAGNIFICATION RATIO
+The ratio between the focal length of a lens and the focal length of a standard angle lens. Indicates the magnification of the image when compared to an image from a standard angle lens.
+
+MANUAL IRIS
+Type of lens that requires manual focusing.
+
+MATRIX SWITCHER
+Advanced type of switcher in which a signal from any input can be switched to any number or combination of outputs. Generally used in larger and more complex systems the matrix will usually also incorporate a range of additional advanced features.
+
+MICROWAVE TRANSMISSION
+A method of transmitting signals using a microwave frequency link. Not affected by adverse weather but requires direct line of site. A licence may be required to operate a microwave frequency system.
+
+MODEM
+Derived from the term Modulate-Demodulate. A modem is used to convert between analogue and digital signal to then transmit and receive the signals over the PSTN network.
+
+MOIRÉ PATTERN
+An unwanted effect that appears in the video picture when a high frequency pattern is looked at with a CCD camera that has a pixel pattern close (but lower) to the object pattern.
+
+MULTIPLEX VIDEO RECORDING
+The condensed recording of more than one video signal on a single videotape, or hard disk drive.
+
+MULTIPLEX
+The concept of transmitting several signals on a single channel.
+
+MULTIPLEXER
+A device that combines a number of signals into one. Often used in CCTV to describe a device that is primarily used to multiplex several video signals into one for the purposes of recording or microwave transmission. It can also refer to a fibre optics multiplexer which combines a number of video signals into one in order to transmit all of them via a single fibre cable.
+
+N/C AND N/O ALARMS
+Refers to Normally Closed and Normally Opened contacts. It is usually used to describe alarms in CCTV.
+
+NA
+Numerical Aperture. A measure of the angular acceptance of light incoming into a fibre optics cable, in the form of a cone. It is expressed as the square root of the difference of the squares of the indices of the core and the cladding.
+
+NBS
+National Bureau of Standards (USA).
+
+ND FILTERS
+Neutral Density filters are optical filters that attenuate the light a number of times. This attenuation is equal for all the wavelengths therefore it does not change the colour balance of an image, hence the term neutral.
+
+NIT
+A photometric unit for measuring luminance. One nit is equal to one candela per square metre of a projected surface area.
+
+NOISE
+An unwanted signal produced by all electrical circuits working above the absolute zero. Noise cannot be eliminated but only minimised.
+
+NTSC
+National Television System Committee, an American committee that set the standards for colour television as used today in USA, Canada, Japan and a few other countries.
+
+O/P
+Output. Objective. The very first optical element at the front of a lens.
+
+OCULAR
+The very last optical element at the back of a lens (the one closer to the CCD chip).
+
+OSCILLOSCOPE
+(Also CRO, from "Cathode Ray Oscilloscope"). An electronic device that can measure the signal changes versus time. A must for any CCTV technician.
+
+PAL
+Stands for Phase Alternating Line, which describes the colour phase change in a PAL colour signal.
+
+PAN AND TILT HEAD
+(P/T head). A motorised unit permitting vertical and horizontal positioning of a camera and lens combination. Usually 24 VAC motors are used in such P/T heads, but also 110 VAC, ie. 240 VAC units can be ordered.
+
+PAN UNIT
+A motorised unit permitting horizontal positioning of a camera.
+
+PHOT
+A photometric light unit for very strong illumination levels. One phot is equal to 10,000 luxes.
+
+PHOTODIODE
+A type of semiconductor device in which a PN junction diode acts as a photo sensor.
+
+PHOTO-EFFECT
+Also known as photoelectric effect. This refers to a phenomenon of ejection of electrons from a metal whose surface is exposed to light. Photon. A representative of the quantum nature of light. It is considered as the smallest unit of light.
+
+PHOTOPIC VISION
+The range of light intensities, from 105 lux down to nearly 10-2 lux, detectable by the human eye.
+
+PINHOLE LENS
+A fixed focal length lens, for viewing through a very small aperture, used in discrete surveillance situations. The lens normally has no focusing control but offers a choice of iris functions.
+
+PIXEL
+Derived from picture element. Usually refers to the CCD chip unit picture cell. It consists of a photo sensor plus its associated control gates.
+
+PLUMBICON
+Thermionic vacuum tube developed by Philips, using a lead oxide photoconductive layer. It represented the ultimate imaging device up to the introduction of CCD chips.
+
+POLARISING FILTER
+An optical filter that transmits light in only one direction (perpendicular to the light path), out of 360° possible. The effect is such that it can eliminate some unwanted bright areas or reflections, such as when looking through a glass window. In photography, polarising filters are used very often to darken a blue sky.
+
+POTS
+Plain Old Telephone Service, ie. the telephone service in common use throughout the world today. Also known as PSTN.
+
+PRESET POSITIONING
+A function of a pan and tilt unit, including the zoom lens, where a number of certain viewing positions can be stored in the systems’ memory (usually this is in the PTZ site driver) and recalled when required, either upon an alarm trigger, programmed or manual recall.
+
+PRINCIPLE POINT
+An optical term that refers to one of the two points that each lens has along the optical axis. The principle point closer to the imaging device (CCD chip in our case) is used as a reference point when measuring the focal length of a lens.
+
+PSTN
+Public Switched Telephone Network usually refers to the "plain old telephone" service. Also known as POTS.
+
+PTZ SITE DRIVER
+(PTZ site receiver, or decoder). An electronic device, usually a part of a video matrix switcher, which receives digital, encoded control signals in order to operate pan, tilt, zoom and focus functions.
+
+QUAD COMPRESSOR
+(Also split screen unit). Equipment which simultaneously displays parts or more than one image on a single monitor. It usually refers to four quadrants display.
+
+RAID
+Redundant Arrays of Independent Disks. This a technology of connecting a number of hard drives into one mass storage device, which can be used, among other things, for digital recording of video images.
+
+RAM
+Random Access Memory. An electronic chip, usually known as "memory", holding digital information while there is power applied to it. Its capacity is measured in kilobytes.
+
+RANDOM INTERLACE
+A term describing a camera that has a free running horizontal sync as opposed to a 2:1 interlace type which has the sync locked and therefore has both fields in a frame interlocked together accurately.
+
+REMOTE CONTROL
+A transmission and receiving of signals for controlling remote devices such as pan and tilt units, lens functions, wash and wipe control and similar.
+
+RETMA
+Former name of the EIA association. Some older video test charts carry the name "RETMA Chart".
+
+RF SIGNAL
+Radio frequency signal that belongs to the region up to 300GHz.
+
+RG-11
+A video coaxial cable with 75 Ohms impedance and much thicker diameter than the popular RG-59 (of approximately 12 mm). With RG-11 much longer distances can be achieved (at least twice the RG-59), but it is more expensive and harder to work with.
+
+RG-58
+A coaxial cable designed with 50 Ohms impedance, therefore not suitable for CCTV. Very similar to RG-59, only slightly thinner.
+
+RG-59
+A type of coaxial cable that is most common in use in small to medium size CCTV systems. It is designed with an impedance of 75 Ohms. It has an outer diameter of around 6 mm and it is a good compromise between maximum distances achievable (up to 300 m for monochrome signal, and 250 m for colour) and good transmission.
+
+RMS
+An abbreviation for Root Mean Square. All AC voltages are measured with multimeters that show the RMS value of the signal (not the peaks). For a sine wave signal such as the mains, the RMS value happens to be 1.41 times (square root of 2) below the peak values.
+
+ROM
+Read Only Memory. An electronic chip, containing digital information that does not disappear when power is turned off.
+
+RS-232
+A format of digital communication where only two wires are required. It is also known as a serial data communication. The RS-232 standard defines a scheme for asynchronous communications, but it does not define how the data should be represented by the bits, ie. it does not define the overall message format and protocol. It is very often used in CCTV communications between keyboards and matrix switchers, or between matrix switchers and PTZ site drivers. The advantage of RS-232 over others is in its simplicity and use of only two wires.
+
+RS-422
+This is an advanced format of digital communication when compared to RS-232. The basic difference is in the need for four wires instead of two as the communications is not single-ended as with RS-232, but differential. In simple terms, the signal transmitted is "read" at the receiving end as the difference between the two wires without common earth. So if there is noise induced along the line, it will be cancelled out. The RS-422 can drive lines of over a kilometre in length and distribute data to up to 10 receivers.
+
+RS-485
+This is an advanced format of digital communications compared to RS-422. The major improvement is in the number of receivers that can be driven with this format, and this is up to 32.
+
+

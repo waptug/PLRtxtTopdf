@@ -1,0 +1,114 @@
+Title: 
+How To Choose The Best Gaming Laptop
+
+Word Count:
+1319
+
+Summary:
+Choosing a good quality gaming laptop can be a hard task. So many different brands and makes of laptops to consider - not to mention all the different configurations and factors to deal with - Dual Core, Graphics Cards, RAM, Processors... this article cuts thru all the techno jargon and shows you how to choose the best gaming laptop.
+
+
+Keywords:
+gaming laptops,gaming notebooks,gamers laptop,best gaming laptop,
+
+
+Article Body:
+Copyright 2006 Titus Hoskins
+
+The gaming laptop is coming of age! It is steadily increasing in popularity as performance quality goes up. Gamers now regularly consider laptops or notebooks when searching for that perfect gaming machine.
+
+With each new generation of notebooks we are seeing some novel breakthroughs: dual core notebooks, PCI Express, Sonoma Chipset, increased storage, increased RAM, faster CPUs, better battery life and better wireless connections including a Cellular Modem. All welcome news for gamers and notebook lovers alike.
+
+Generally, gamers are a very demanding group, they know their computers and they know what they want in their computers. Most gamers like to order their gaming laptop with their own specs and configurations. In that light, if you closely examine the main points gamers consider when configuring or building their Dream Machine - you will have a good blueprint for the best gaming machine.
+
+Since notebook technology changes every two years or so, it's probably wise to purchase a laptop that can be easily upgraded as new products come on line. So consider the upgradable factor in any notebook that you plan to buy.
+
+Now, lets look at some of these key gaming factors:
+
+GRAPHICS
+
+You must have the best/latest/fastest Graphics on the market. DUH!
+
+Serious gamers are concerned with graphics, obsessed would probably be a better word. And rightly so! Graphics or the quality of the graphic chipset in your notebook computer will be your first area of consideration and it will greatly determine the gaming performance of your PC.
+
+Go with the latest Graphic Chipset and also check to see if you can upgrade your Graphics Card on the particular machine you're thinking about buying. Many machines allow this.
+
+Here are some Graphic Chipsets that are highly rated: ATi Mobility Radeon 9700, ATI's Mobility FireGL V3200 or NVIDIA GeForce 7900GT.
+
+ATi Mobility Radeon 9700 is a high quality Graphics Card or visual processing unit (VPU) present in many next generation notebooks. It will give you higher performance at a lower power level, saving battery power.
+
+It makes your notebook computer capable of many functions: 3D games, wide-screen HDTV, dynamic presentations, mobile video editing studio and graphic processor.
+
+Many notebooks now come with integrated graphics, where components interact and are sometimes shared, especially memory. If you want a notebook computer for 3D games - check the amount of video RAM - this is memory that's dedicated to graphic or video applications.
+
+Other common graphic chipsets are:  STMicro, NVIDIA, 3D Labs, Matrox, Trident S3 and SIS.
+
+
+
+RAM
+
+Get the largest amount of RAM possible. DUDE!
+
+RAM  or random-access memory will determine how much graphics your notebook computer will be able to handle. It's best to get the largest amount possible on your machine or what you can afford.
+
+It's generally agreed that you need at least 256MB for Windows XP and Mac OS X. You will only need 128MB for other operating systems in Windows or Mac.
+
+RAM or the amount of RAM on your notebook computer is extremely important if you want to handle heavy graphic files or want to play games on your notebook.  The more RAM you have, the more applications you will be able to handle. Some notebook now come with up to 2GB of DDR2 533MHz RAM!
+
+DDR2 SDRAM - is a new standard that can boost conventional SDRAM memory up to speeds well over 200MHz and beyond. For example, the IBM ThinkPad T43, thanks to the Sonoma Chipset or platform has 533MHz DDR 2 SDRAM.
+
+This is much better than standard SDRAM which tops out around 150-166MHz and DDR SDRAM which starts at 200MHz and goes up to around 400MHz.    Video RAM or VRAM is special memory that's used by video adapters on your notebook. This is RAM that is dedicated to handling the visuals and graphics on your notebook computer. This is helpful if you want to play a lot of the latest 3D video games on your notebook.
+
+It is somewhat different from ordinary RAM because it can be accessed by two different devices at once - enabling screen updates while the video processor processes new data. VRAM provides better graphics but is more expensive than ordinary RAM.
+
+
+
+SPEED
+
+You need the fastest computer money can buy. Period!
+
+In order to get the maximum performance from your ultimate gaming computer you must have the fastest speed you can get or afford. Your ultimate PC must be able to process and handle the latest 3D video games with ease. There is nothing as annoying as your PC freezing up in the middle of some major gaming action!
+
+Therefore, your Processor's speed is very important.
+
+CPU or Central Processing Unit, you probably know it as the processor! It's the heart or rather the brain of your notebook or computer. It does all your computer's data processing and applications. Since it does most of the work, it's usually the most expensive part of your notebook computer.
+
+Go with SATA!
+
+SATA is a type of hard drive and stands for Serial Advanced Technology Architecture. It was developed by a whole group of companies including Seagate, Intel, Maxtor, Dell and others. SATA transmit data in a serially (in a single stream) as opposed to PATA or Parallel ATA which is commonly referred to as an IDE hard drive.
+
+Serial ATA hard drives uses less power and are ideal for notebook computers, they are also more advanced than PATA hard drives which uses multipe streams of data - go figure! But Serial Technology carries data in a single stream and unlike PATA is not limited to a particular clock speed, Serial transfers data packets almost 30 times faster than parallel.
+
+If top performance in your notebook is one of your goals, go with a SATA hard drive.
+
+Intel Pentium M processors are commonly found in a lot of notebooks and laptops. When in doubt also go with a Pentium!
+
+The speed of microprocessors is measured in MHz.      MHz is short for megahertz. One MHz equals one million cycles per second. The speed of processors, usually known as clock speed, is measured in megahertz (MHz) or these days in gigahertz (GHz).
+
+The higher the clock speed, the faster the computer will process applications and data. It determines how powerful your notebook computer will be. Processor speeds for notebooks or laptops are steadily increasing, not quite the same as a desktop but the gap is narrowing quickly. Speeds of 3.4GHz or more.
+
+Don't forget to ask or check the hard drive speed! A 7,200rpm hard drive is faster than a 4,200rpm or 5,400rpm  and usually gives better performance.
+
+DISPLAY
+
+You need the sharpest, brightest display screen or all the above points are moot!
+
+Display quality is also extremely important to your gaming experience. Make sure the resolution and display quality of your notebook computer can handle the graphics for 3D Gaming.
+
+What to keep in mind...
+
+SVGA Resolution. Put simply, computer images are made up of dots, the more dots you have - the better the image. SVGA Resolution is made up of 800 x 600 dots.
+
+Many notebook computer have XGA (1024 by 768 dots) or SXGA (1280 x 1024 dots), these resolutions will give a higher quality image. WXGA stands for widescreen XGA.
+
+TFT Active Matrix Display.  TFT stands for thin-film transistors and many high-end notebook computers use (TFT) active matrix liquid crystal displays.
+
+If display quality is your main reason for buying a notebook, it's best to give it the 'old eye test' and check out the image quality first-hand and decide for yourself. Panasonic, Toshiba, Sony, and others are known for their high quality monitors - this quality is also present in their notebook display screens.
+
+So when buying your perfect Gaming Notebook Remember This:
+
+Graphics + Ram + Speed + Display = Perfect Gaming Notebook
+
+Consider all of the above factors before you buy or config your perfect gaming machine. Chances are high that you will get a top-notch quality Gaming Notebook that will give you hours and hours of pure gaming bliss!
+
+

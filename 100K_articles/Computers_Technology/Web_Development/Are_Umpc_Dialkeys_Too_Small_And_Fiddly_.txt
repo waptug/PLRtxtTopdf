@@ -1,0 +1,40 @@
+Title: 
+Are Umpc Dialkeys Too Small And Fiddly?
+
+Word Count:
+811
+
+Summary:
+The people of today are raving over the Ultra Mobile Pc.  They provide you with many of the features that you would expect from a laptop such as internet connectivity and the ability to watch movies or connect with your peers from anywhere so long as there is Internet connectivity.  These tiny computers are useful in the extreme. However, their small size gives rise to a number of problems.  
+
+One of the problems inherent to UMPCs is the issue of not having the traditional ...
+
+
+Keywords:
+keyboards, input devices, content protection
+
+
+Article Body:
+The people of today are raving over the Ultra Mobile Pc.  They provide you with many of the features that you would expect from a laptop such as internet connectivity and the ability to watch movies or connect with your peers from anywhere so long as there is Internet connectivity.  These tiny computers are useful in the extreme. However, their small size gives rise to a number of problems.  
+
+One of the problems inherent to UMPCs is the issue of not having the traditional keyboard.  The touch screen makes it easy to tap out your emails with your fingers or with the provided stylus. However, even this is not without its problems.  The screens are only seven inches on a typical UMPC, and this means that there is very limited space in which to fit in a keyboard.  
+
+The space constraints may be hard to handle.  The software designers could choose to design a keyboard utility that covers up the screen underneath, making it hard to see what you are actually doing, or can design a keyboard utility that does not hide the screen but which can be hard to use because the available keys will be small.  
+
+Since the brilliant designers at Microsoft know that no one really likes to have to use a stylus to operate their PCs (even their tiny computer), DialKeys is a standard installation on UMPCs.  The program was developed by a company called Fortune Fountain Ltd. It is an overlay program with a split keyboard that is designed to allow the UMPC user to even type with his thumbs.  
+
+Using thumbs only to type on a standard QWERTY keyboard layout is odd enough. However, the DialKeys application takes it one step farther by completely overhauling the QWERTY keyboard.  The application displays as two quarter-circles, one in each lower corner of the screen, allowing you to type with your thumbs without twisting and turning your hand rather unnaturally.  This allows you to type without changing the way that you hold the device. 
+
+Unfortunately for many, especially many men, the DialKey application could be a hassle if you have large fingers, just like many typing solutions.  The unique layout of the keyboard on the screen also makes it a little bit harder to use a stylus, which can be bothersome if one is trying to type in a rush.  If your fingers hit the keys well, however, the DialKeys program has plenty of options and features to help you find it extremely functional and interesting.  
+
+One of the great things about DialKeys is that it is, to some extent, customizable.  For example, you can change the color of the DialKeys application from black to white and back again.  But this is not just to change the look.  Switch back and forth to help alleviate the twin troubles of dark screens at night and glare from the sun during the day.  Switching back and forth means that you can do away with both the problems.  
+
+One other way of modifying DialKeys for your UMPC is to change the opacity of the keyboard the way it shows up on the screen.  This allows you to see what is going on under the keyboard, and while it can be distracting for some people, it many might be celebrating this feature.  
+
+One cool feature of DialKeys is that there are no multi-function keys for which you would normally use the Shift key to change the meaning.  Instead there are three different sets of keys, including the normal letters keypad, the numbers keypad, and a special punctuation keypad with lots of extra symbols and bits of punctuation to help you communicate effectively.  
+
+It might take some time to get used to the keyboard layout for DialKeys, but once this becomes a habit, you realize that it is one of the quicker and better onscreen keyboards available as long as you do not need to use the number, punctuation, or command features too often.  For those who need more than the basics to hand when typing, however, it can be a pain to switch between the screens in order to find the necessary characters.  
+
+Getting the DialKeys set up to your standards is vital in order to exploit it to the full.  If the color or opacity are not working for you, then you will not get all that much out of your UMPC and will find the DialKeys application harder to use and harder to appreciate.  The DialKeys application may be a bit of a challenge when you are starting out, but it is much quicker than learning how to type in the first place, and worth learning.  Some face no troubles and go on to touch-type with the DialKeys application, meaning that the opacity can be turned way down.  The DialKeys application has some glitches but is overall a great buy.
+
+

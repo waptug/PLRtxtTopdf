@@ -1,0 +1,35 @@
+Title: 
+Choosing the Right Forex Software For You
+
+Word Count:
+323
+
+Summary:
+Choosing an EA to automate your forex trading.
+
+
+Keywords:
+PointBreak, Forex EA, trading, software
+
+
+Article Body:
+You might be looking for a charting platform, or a trading platform. You could also be looking for an automated trading program, or a signal service. You are most probably looking for some form of assistance to help with your trading. This is really the holy grail for a lot of traders who do not have the time or the inclination to sit in front of a computer 16 hours a day. I have done that for a couple of years and done my 'chart-time', now its time to let the computer take care of it for me.
+
+The best charting and trading platform is MT4, this allows you to also create custom indicators and expert advisors allowing you to auto-trade your account. Some people have created truly excellent Expert Advisors, and its like having your own forex trading guru sat at your computer 24/6, never getting tired, grumpy, hungry or anything else for that matter. 
+
+Provide a stable internet connection and power, and the EA will handle everything else for you. The problem is selecting the correct one, as there are so many out there.
+
+Some criteria you should apply, when judging an EA are;
+
+- Whether they will give you a free trial
+- Their FORWARD tested history as well as their backtested history
+- What modelling quality their backtests are run on (90% is the best available)
+- Whether they offer a money back guarantee should the EA fail to perform for you 
+
+Markets change, and so do the performances of EA's. The goal is really to find one that can perform consistently over different market conditions. The best we have seen yet in the market is the PointBreak EA. This was used by a private trading group by over a year before being recently released to the public.
+
+PointBreak Expert Advisor (Very Aggressive Trading) has resulted 49.76% since October 2007. 
+
+This is the most aggressive setting available, the more conservative settings give smaller returns but correspondingly smaller drawdowns.
+
+

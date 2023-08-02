@@ -1,0 +1,180 @@
+Title: 
+10 Tips when using electronic forms
+
+Word Count:
+1326
+
+Summary:
+No tool will turn a bad form into a good one, and automating a bad form simply collects bad data more quickly – or alienates your users. 
+
+Following these ten tips will make sure your new forms are a success.
+
+
+Keywords:
+forms,electronic,e-form,eform
+
+
+Article Body:
+Background to electronic forms
+
+You've decided you need electronic forms or have a feeling they should be implemented.
+
+"An electronic form" is a transaction between a user and the form provider. The form can be pre-filled with data from a backend database system before it is presented to the user. When the form is submitted to the provider the data is saved to be used in a business process.
+
+The most common reasons for using electronic forms are:
+
+1. Cost savings by avoiding re-keying of data
+2. Faster customer service resulting in better customer satisfaction
+3. Comply with a government or industry regulation.
+
+No tool will turn a bad form into a good one, and automating a bad form simply collects bad data more quickly – or alienates your users.
+
+Following these ten tips will make sure your new forms are a success.
+
+1. Choose the right approach
+
+Deciding which form format to use depends on what it will be used for.
+
+If your form is very short, such as a two-box login form, then we suggest an HTML form.
+
+You may be required to comply with regulations such as Section 501 or similar where your target users could be blind or disabled. HTML forms are typically more user friendly when complying to such regulations.
+
+PDF forms are likely to be the best approach if:
+
+- There is some advantage to your users in keeping the layout of an existing paper form, such as if they are likely to be copying from paper to screen.
+
+- The form previously existed only on paper and now you want to make it electronic.
+ 
+2. Skills Availability
+
+Creation of an electronic form and its deployment needs specific skills. Most of the time it is found that companies struggle with a skills shortage and work overload to implement technology even after buying the necessary computer hardware and software.
+
+Creating an electronic form requires different skills:
+
+- Working with software installation and databases.
+
+- Ability with words and understanding of business processes.
+
+- Ability to design field names, preferably with some knowledge of how the fields will be used in the database.
+
+- Working with field lengths, descriptions and validations.
+
+- Understanding of business processes; ability to find and correct errors; working with word processors.
+
+- Working with the web.
+
+Most organizations find that they have these skills available but not necessarily in one person. For example, there may be someone who is good with databases, the web, and validations, and someone else who is good with word processors and understands the business processes.
+
+You’ll get the best results, quickly, if you identify people with the right skills to work together from the start.
+ 
+3. Check that each form has the basics
+
+Make sure that each form has these essential pieces of information: 
+
+- A logo, crest, or something else that identifies who issued the form.
+
+- A title that says what the form is for.
+
+- A note at the end saying what to do with it when it is filled in.
+
+- Contact details for how to get help with the form.
+ 
+4. Adapt the form for on-screen completion
+
+Remove instructions and formatting that is only relevant to paper: For example:
+
+- “write neatly in black ink”, or “use CAPITALS”.
+
+- “please tick the box” (can’t do it on-screen – say “please choose” instead).
+
+- “use a separate sheet if more space is needed” (can’t do it on-screen – consider offering an “add another page” button instead).
+
+- ruled lines, underlined spaces and boxes.
+
+Think about where to put the SEND or SUBMIT button. The best place is usually at the end of the form.
+
+Decide whether you really need a button that throws away all the user’s input. If you think that your users will definitely want to do this, then create a button that clearly states “THROW AWAY ALL MY ANSWERS”.
+ 
+5. Edit the instructions
+
+Most forms have far too many words.
+
+Aim to cut half of them.
+ 
+6. Establish rules for frequent questions
+
+If you’re only working with one form then skip this tip.
+
+Most of us have to contend with lots of forms. If you compare a selection of them, you’ll find that there are some questions that come up frequently. 
+
+For example:
+
+- Personal details such as name, address, telephone and email address.
+
+- Declarations and consents.
+
+- Requests for dates such as the start date of a service.
+
+- Official information such as a reference number from a bill.
+
+Your work will be quicker, and it will be easier for your users, if you establish some standards for how you ask for these repeated questions. For example:
+
+- Decide on the order that you ask for names e.g. title, first name and last name.
+
+- Decide whether to ask for an address in a single multi-line block or whether to split it up into three or four lines.
+
+- Decide whether to ask for the postcode first (and consider using an address lookup product) or last in the address.
+
+- Decide if you need a portal model of personalization for forms whereby the user gets a pre-filled form with basic details already filled for him automatically.
+
+- Cut your declaration to the absolute minimum that your lawyers will agree to, and then use it consistently. 
+
+- Work out how many characters you will accept in standard questions such as names. These will become your field lengths when you automate the form.
+
+It saves time if you make a 'template' form that has the basic information and your most frequently asked questions set up in it. You can use the 'template' feature in Word, or just have a basic starting document that you copy for each form.
+ 
+7. Manage the forms in their life cycle
+
+Forms can change over a period of time due to various reasons. It can be a legal reason, usability reason or a specific business reason. 
+
+Make sure you have a simple to use strategy to manage the versions of each form published.
+ 
+8. Think about the business reasons for validation
+
+There are three possible levels of validation:
+
+- Strict - the computer will not allow the user to proceed until correct data is entered.
+
+- Soft - the computer warns the user that the data is missing or incorrect, but the user can proceed.
+
+- None - there is no warning and the computer accepts any input.
+
+Think about the business reasons for each validation. Paper forms allow users to enter whatever they think they need to fulfill the purpose of the form. This means that if their particular answer happens to be unexpected, they can still fill in the form and proceed.
+
+If you have strict validation, then you may lose some users whose circumstances are a little different to whatever you anticipated.
+
+Soft validations are the most challenging to program, but can deliver the best user experience because users find out about genuine slips but can still enter data where their answer doesn’t quite fit with your pre-defined ideas.
+
+Opting for no validation is the easiest to program, but may confuse your users if they inadvertently make minor errors.
+ 
+9. Tidy it up
+
+Forms that look tidy are easier to fill in. 
+
+Check that you have used capitals consistently. Sentence case (like this) is easiest to read. Title Case Like This Is The Next Best Choice. ALL UPPER CASE LIKE THIS IS HARDEST TO READ – AVOID IT.
+
+If you decide to put colons after your questions, then make sure that you have them for every question.
+
+Try to make all the boxes line up neatly, both horizontally (in line with the questions) and vertically. 
+
+Run a spell checker and a grammar checker.
+ 
+10. Test it with real users
+
+Ask some real users from the target audience to try your form. Watch them as they fill it in, and ask them to tell you what they think about it as they work through it. 
+
+Watching a real user work on your form is the single best way of finding out whether it is successful.
+ 
+For detailed information on electronic forms and their implementation, visit http://www.primeapple.co.uk
+
+

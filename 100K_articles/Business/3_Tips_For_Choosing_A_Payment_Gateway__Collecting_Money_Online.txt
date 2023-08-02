@@ -1,0 +1,34 @@
+Title: 
+3 Tips For Choosing A Payment Gateway: Collecting Money Online
+
+Word Count:
+453
+
+Summary:
+As a consumer, when you check out of your local convenience store, you may swipe your credit card through a point-of-sale device and your gas, coffee, and donut are paid. But what if you are the retailer and your business is online? It’s not like you have a card-swiping device at every customer’s PC! There must be a way for you to process that information. Essentially, that is the job that a payment gateway does for online retailers. Roy Banks, president of http://Authorize.n...
+
+
+Keywords:
+ecommerce,business,online,internet,website,webstore,gateway,payment,secure,merchant,credit,estore
+
+
+Article Body:
+As a consumer, when you check out of your local convenience store, you may swipe your credit card through a point-of-sale device and your gas, coffee, and donut are paid. But what if you are the retailer and your business is online? It’s not like you have a card-swiping device at every customer’s PC! There must be a way for you to process that information. Essentially, that is the job that a payment gateway does for online retailers. Roy Banks, president of http://Authorize.net, a leader in the payment gateway industry, describes his company’s function as “the digital version of a hardware point of sale terminal.”
+
+What is a Payment Gateway?
+Payment gateways allow online merchants such as eStore owners or auction sellers to accept credit card payments over the internet. They authorize the cardholder’s credit—that is, they check to ensure that the customer has enough money on their credit card to cover the charges. They then place a hold on that amount so the buyer can’t turn around and spend that same money elsewhere before it gets transferred to the retailer’s merchant account. Banks describes this as “the technology…necessary to consummate a payment transaction.”
+
+A Payment Gateway is NOT a Merchant Account.
+Many people confuse merchant accounts with payment gateways but they are not the same. Merchant account services act, for the most part, as a liaison between your business bank account and the payment gateway. When a customer orders a product from your online business their card is processed via the payment gateway. The money is then moved over to the merchant account service. The merchant account service then moves those newly captured funds to your business bank account.
+
+3 Tips for choosing a Payment Gateway:
+
+1. Is it PCI-compliant? That means that the company’s security has been audited by a third party and found to be up to industry standards. Since payment gateways store all your customers’ credit card information (sparing you the stress), it also means you can sleep better at night, knowing your customers’ valuable information is safe and sound.
+
+2. Good customer support. ‘Nuf said.
+
+3.Lastly, it is important that the payment gateway you choose be integrated to the third-party solutions you are planning to use. That means things like store front platforms and shopping carts—you want them to be compatible with your gateway.
+
+Payment gateways will not only allow you to collect the monies from your sales, many also offer an array of security features, some of which will help you avoid becoming a victim of fraudulent orders! In the end, they will make your ecommerce business a less-stressful, more pleasant experience—for both you and your customers.
+
+

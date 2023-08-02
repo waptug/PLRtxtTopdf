@@ -1,0 +1,60 @@
+Title: 
+Security Issues For Online Businesses
+
+Word Count:
+470
+
+Summary:
+Shared SSL vs. Standard SSL
+
+Shared SSL
+If you use your hosting company’s shared SSL, your checkout page's URL will appear as follows:
+_https://secure.yourhostingcompanysdomaindotcom/andsomemorerandompathhere
+
+Standard SSL
+If you purchase your own SSL Certificate from a CA such as VeriSign, your checkout page's URL will appear as follows:
+_https://www.yoursitedotcom/yourcheckoutpath
+
+Social Engineering
+
+Social engineering is a deceptive practice to manipulate peop...
+
+
+Keywords:
+business success, business advice, how to succeed online, ebusiness, business help
+
+
+Article Body:
+Shared SSL vs. Standard SSL
+
+Shared SSL
+If you use your hosting company’s shared SSL, your checkout page's URL will appear as follows:
+_https://secure.yourhostingcompanysdomaindotcom/andsomemorerandompathhere
+
+Standard SSL
+If you purchase your own SSL Certificate from a CA such as VeriSign, your checkout page's URL will appear as follows:
+_https://www.yoursitedotcom/yourcheckoutpath
+
+Social Engineering
+
+Social engineering is a deceptive practice to manipulate people into revealing confidential information. Criminals have been known to trick people into disclosing personal information, passwords, credit card numbers and other sensitive information. Social engineering is one of the most dangerous crimes web surfers and online businesses face today. It is a low-tech crime, but it can hurt some of the most sophisticated companies.
+
+Pretexting
+
+This technique is commonly used to trick a consumer or business into divulging sensitive information. Individuals use this method to obtain phone and utility records, banking records, addresses, credit card numbers, user names and passwords, e-mail addresses, and other confidential information. Bases on the information collected, the criminal can establish an even greater authority.
+
+Many U.S. companies ask for a social security number, mailing address, phone number, mother’s maiden name, or date of birth to authenticate customers. All of which can be easily obtained.
+
+Pretexting is frequently used to impersonate colleagues, authorities, bank, tax authorities or anyone who could have a right-to-know in the mind of the target. The pretexter is armed with prearranged answers to possible questions that the target may ask.
+
+Voices over IP programs are popular among pretexters because they provide an easy platform for untraceable phone calls. The lack of a traceable phone number makes the pretexter less vulnerable to being caught.
+
+Phishing
+
+Phishing is a subcategory of social engineering where attackers deceptively obtain sensitive information, such as credit card numbers, usernames, and password, by camouflaged as a trustworthy entity in an electronic communication. It is likely that you have received phishing e-mails in the recent past. Some of the most common phishing attacks involve recognized names such as PayPal, eBay, Amazon, and various banks.
+
+Phishing is normally carried out through e-mail. Instant messaging is another common vehicle for attacks. The key to deceiving people through phishing is to make a link in an email appear to belong to a legitimate company while the link really points to the site controlled by the criminal. A common trick is to make the anchor text for a link appear to be a valid URL when the link actually goes to the phishers' site.
+
+Phone phishing is the same principal with a low-tech twist. Instead of e-mail, attackers use the phone to contact their victims. They might leave a message pretending to be calling from a legitimate business such as a bank or long distance provider, leaving a phone number that terminates at the phisher location.
+
+

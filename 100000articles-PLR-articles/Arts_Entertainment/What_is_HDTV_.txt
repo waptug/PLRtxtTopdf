@@ -1,0 +1,49 @@
+Title: 
+What is HDTV?
+
+Word Count:
+581
+
+Summary:
+Some satellite TV providers, such as Dish Network, offer HDTV receivers with their packages. But many people don’t know what it means to have HDTV. Here is some insight.
+
+
+Keywords:
+Dish Network, Satellite TV, Cable TV, Satellite, What is HDTV
+
+
+Article Body:
+Some satellite TV providers, such as Dish Network, offer HDTV receivers with their packages. But many people don’t know what it means to have HDTV. Here is some insight.
+
+High Definition TeleVision is what HDTV literally means. But high definition compared to what? In order to answer this question, we need to know a bit about the original analog TV system.
+
+Analog TV
+30 images per second (in Europe 25) are shown by normal analog TV sets. It does this by writing image lines horizontally, 525 lines in one image (In Europe 625) on the screen. The number of pixels on one line is about 500. This would be a definition of 500 pixels per line by 525 (or 625) lines. Compared to modern computer monitors this is really bad. Even the lowest resolutions monitors have higher resolutions (640 x 480) than an analog TV.
+
+HDTV - High Definition TeleVision
+HDTV is high resolution Digital TeleVision (DTV) combined with Dolby Digital Surround Sound (AC-3). There are 18 different formats defined for Digital TV of which 6 are considered to be HDTV.
+
+The difference between Progressive and Interlaced is not difficult. It has to do with how one image is built up. With interlaced technology the odd lines are shown first and then the even lines are shown. The lines are shown in this order: 1,3,5,….521, 523, 525, 2, 4, 6,…. 522, 524, 1, 3, etc. This means that every 1/60 of a second a half image is shown. This often results in flickering, which can be tiring for the eyes.
+Progressive technology manages to show a whole image every 1/60 of a second, resulting in a much smoother picture.
+
+How Is HDTV Better?
+Normal TV has a resolution of about 210.000 pixels. An HDTV screen has a resolution of upto 2.000.000 pixels, which gives up to 10 times more picture detail.
+
+The aspect ration of normal TV is 4 x 3 (4/3 times wider than high). An HDTV screen has an aspect ration of 16 x 9, which is also known as wide screen.
+
+The Future of HDTV
+The FCC (Federal Communications Committee) has mandated that all TV stations in the USA have to be able to broadcast HDTV programs by the year 2006. The mandates of the FCC do not have an impact on just the broadcast companies, but also on cable companies and consumers.
+
+Broadcast companies have to invest on new equipment like cameras, editing equipment, etc.
+
+Cable companies have to convert all of their equipment, including receivers at the homes of their clients.
+
+Consumers may have to buy new equipment, like a top-box to convert digital signals back to analog signals, or even buy a whole new TV set. 
+
+HDTV is the future, and a really big step forward. We once started with simple black and white TV, then moved to color TV, and wide screen TV. But all those systems were still based on the same signals as the original black and white TV used. When color TV was introduced it was not possible to force the complete population to throw away their black and white TV-sets and buy a color TV set. Therefore a color TV signal still needed to be understandable for a black and white TV. This prohibited the improvement of picture quality until the age of Digital TV.
+
+The need to satisfy older TV sets no longer exists and the much higher quality HDTV is available via Satellite TV Systems, including Dish Network.
+
+For more free and helpful information on Satellite TV, how to find the best deal, and how to set it up, visit <a href="http://www.dish-network-satellite-tv.ws/">http://www.dish-network-satellite-tv.ws/</a>
+
+

@@ -1,0 +1,56 @@
+Title: 
+Proactive Software And The Business Of The Future
+
+Word Count:
+807
+
+Summary:
+The Internet has combined with evolution of corporate data, processes and communications to create the basis for a revolution in corporate organization. Businesses are becoming increasingly modular, doing what they do best and outsourcing the rest. The organization is increasingly turning toward project teams which can be assembled when necessary and dispersed when projects are completed. To facilitate this, procedures and systems are being developed to control and support co...
+
+
+Keywords:
+proactive,software,and,the,business,of,the,future
+
+
+Article Body:
+The Internet has combined with evolution of corporate data, processes and communications to create the basis for a revolution in corporate organization. Businesses are becoming increasingly modular, doing what they do best and outsourcing the rest. The organization is increasingly turning toward project teams which can be assembled when necessary and dispersed when projects are completed. To facilitate this, procedures and systems are being developed to control and support collaboration. The result? New opportunities for remote workers and virtual offices, with leaner, task focused and ultimately a more efficient organization, essentially unlimited access to resources and personnel around the globe.
+
+The New Office of the Future
+
+At the heart of the new business organization is the virtual business or virtual office. The virtual business can span geographical boundaries and provide instant and flexible collaboration to efficiently develop products and services with minimal supporting overhead. In this "office of the future", remote workers are linked in a dispersed infrastructure that is supported by software that supports and controls collaboration. Individuals share data and applications over a distance, transmit data of all types easily and efficiently, and the workgroup can meet together to exchange information and views using a variety of different techniques, including videoconferencing, shared whiteboards, teleconferencing, instant messaging, and a variety of asynchronous correspondence and mail capabilities.
+
+Supporting the office of the future is a wide and growing range of collaborative software tools that provide communications, project coordination, data sharing, and application access.  The base for this communication is, of course, the Internet, which has been speeding as higher bandwidth technologies are rolled out. These large pipes enhance the opportunities for collaboration.
+
+Always on, anywhere, any time provides the office of the future a number of advantages to both staff and business. To sketch in some of these:
+
+* Any time - flexile working hours, with improved scheduling for business, and more efficient performance from remote workers.
+
+* Any place - flexible work location making it possible to employ people who work at home or in different parts of the country, or even across the globe.
+
+* Any competent task group - flexibility of project staffing, making it possible to make most efficient use of available personnel,
+
+* Wider skill application - particular specialists may contribute to various projects rather than being dedicated to a single operation at one time in one place.
+
+* Amorphous organization - making it possible to create workgroups as needed to handle new projects or new support activities without the upheaval associated with different times and places.
+
+* Scalability and security - incorporating these characteristics in the modular systems and network infrastructure. Modules can be easily grown or combined, and security is integral to both policy and supporting IT infrastructure.
+
+Management Implications
+
+To gain these advantages, the virtual business requires careful planning. Special requirements include:
+
+* A need to keep track of employees’ work, which may not be immediately visible as supervisors may not in the same place or even time zone.
+
+* Need to provide and maintain adequate communications, including sufficient bandwidth for extended communications requirements of collaboration, and special communications tools to support collaborative work without the noise of the communications methods swamping the useful work.
+
+* Tools to support the virtual organization, including communications and management applications. Management requirements are often overlooked, but are the making or the breaking of the virtual organization.
+
+* Implementation of the components of the virtual organization without overspend. This requires careful planning and selection of appropriate systems. There is no one size fits all solution, and whatever infrastructure is working today there will be a need to change and adapted to future both operational requirements and meet today’s budget.
+
+Management is a significant component of this new working environment and helps to bring all of the pieces together. Management tools need to be able to aid in project organization as well as being fitted into the collaboration infrastructure. Coordination applications need to be accessed by all workers on teams and within an organization. Management tools also need to fit organizational budgets and provide sufficient flexibility and scalability to successfully manage projects of varying size and complexity, providing security features to ensure the rules of the collaboration are controlled updated and followed. Distributed infrastructure and application aid collaborations between organisations but bring with them the need to ensure sensitive information can only be accessed by those authorised.
+
+Conclusion
+
+The virtual organization supported by control and collaboration technologies is becoming an increasingly visible phenomenon. As hotter competition forces a higher competitive response on us all it is likely to grow in importance as the performance and cost advantages become increasingly apparent. With lower operational expenses and higher performance on offer few can choose not to consider the option. Management of the virtual organisation is more demanding; it requires effective and accessible support and control tools. ProWorkflow from ProActive Software can help make the virtual organisation a reality for your business.
+
+

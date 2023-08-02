@@ -1,0 +1,26 @@
+Title: 
+Database And Document Management Systems
+
+Word Count:
+345
+
+Summary:
+Different business organizations use different types of software to manage their documents. This software performs the function of creating, full text indexing, controlling the different versions of documents, retrieval, and so on.
+
+
+Keywords:
+Document Management Systems, Electronic Document Management Systems, Document Management System Software, Database And Document Management Systems
+
+
+Article Body:
+Different business organizations use different types of software to manage their documents. This software performs the function of creating, full text indexing, controlling the different versions of documents, retrieval, and so on. 
+
+The vital component of any document management software system is the inherent database management technology that classifies and tracks the documents created and stored. The database system locates and retrieves the requested document from the archives or from the documents under its control on the basis of query submitted to it. 
+
+The database management system prevents unauthorized persons from accessing the information. Only users with passwords have access to the entire database or a portion of it. Any addition made to the data is carried out without altering the existing database. The system is also designed to filter out duplicate copies of the records. 
+
+For all documents created and stored, the database system generates a host of information about the documents. This information is maintained separately from the document itself. The information includes the name of the author who has created the document, the date of creation, the last occasion on which it was accessed and the subsequent changes made to it. The system also maintains information on the main topics or subjects contained in the documents, as well as details of documents that are relevant to the document requested for. 
+
+The database system has to be reliable and must have a high level of operational efficiency in managing large volumes of text-based documents, images, sound and video. The database may be either centralized or distributed, depending upon the data management software system installed in an organization. A centralized database, which stores document profile information in a single database, offers quick and efficient searching but faces the risk of losing information in case of failure or corruption in the document profile repository. In a distributed data base system the information is dispersed and stored at various points based on the company’s network or on the disk structure. This minimizes the risk of losing all the information, in case of failure or corruption.
+
+

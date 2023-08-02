@@ -1,0 +1,52 @@
+Title: 
+It's A Binary World - How Computers Count.
+
+Word Count:
+763
+
+Summary:
+Many have cursed their computer for taking things too literally! It's easy to blame the computer when something goes wrong.
+
+You get to the checkout at the market, and the item you bought 'on special' comes up at the full price. The manager has to be called to fix it up, and what does he say?
+"We've been having problems with the computer, it gets the wrong price on some things."
+
+You put in a list of addressess to your Word processor, and print off party invitations for ...
+
+
+Keywords:
+
+
+
+Article Body:
+Many have cursed their computer for taking things too literally! It's easy to blame the computer when something goes wrong.
+
+You get to the checkout at the market, and the item you bought 'on special' comes up at the full price. The manager has to be called to fix it up, and what does he say?
+"We've been having problems with the computer, it gets the wrong price on some things."
+
+You put in a list of addressess to your Word processor, and print off party invitations for next week. Then you find that today's date has been inserted in the signature block - by the computer!
+
+Maybe you have heard the expression 'Garbage in Garbage out"? Someone, at some point instructed the computer to do what it did, It didn't decide to screw you up deliberately. Computers can only do what they are told, they are more logical than Spock and they take everything literally.
+
+We are going to look at why they are so pedantic!
+
+The world around us has many aspects which work in the same way as a computer. There are many examples of opposites, for instance Up and Down, Left and Right, Forwards and Backwards. A light may be On or Off, maybe it's Night or Day. Yes or No? You can think of many others. This system of two possible states is called a Binary System, if it's not one, it must be the other.
+
+A computer uses the Binary System to perform all its functions, the basic unit, originally a vacuum tube, then a transistor, then a chip, is used thousands of times over to make the total unit. The light being On or Off which we mentioned above is controlled by a switch. In the computer this switch is a transistor, which is either On or Off.
+
+Now we get to the Math! Don't worry, it's very simple Math! In fact it's so simple we only count up to 1. That's right, we can only have two states so we count from 0 to 1. (That's another thing computers are pedantic about, they insist on starting at zero).
+
+The Binary system is a Number System. You are familiar with the Decimal system which has 10 numerals 0 to 9 (think like a computer 0 comes first). You can make up all sorts of number systems for whatever purpose you want. You probably know about a dozen (12) and have also heard of a half dozen. If you've used your computer much you may have come across the Hexadecimal system. This one has 16 'numerals' 0-9and A-F. Another number system used by computer people is the Octal system which has 8 numerals, 0-7.
+
+Ok so how do we count with only 0 and 1. Simple, in exactly the same way you count in decimal. The first ten numbers are OK, 0-9, but what next? We start again but add in a 1 making 10 or "one, zero". This gets us to "one, nine" and we go to "two, zero", and so on up to "nine, nine" then we again add a 1 to make 100 - "one, zero, zero."
+
+If you've followed me so far you are ready for the Binary sequence, it's much simpler. Starting off at zero we have 0,1 - and that's it. We follow the same rule and add in a 1, making "one,zero". Next come "one, one"; then "one, zero, zero"; -"one, zero, one"; etc. These are equivalent to Decimal 0,1,2,3,4,5. How does this relate to computers? That's next.
+
+In our computer we have transistor switches, as described above. For the math example we just looked at, we need 3 switches. These each represent a Binary Digit, or Bit. To represent a Decimal 1, these switches would be OFF,OFF,ON or 001. For a Decimal 5 we would have ON,OFF,ON, or 101. By extension you can see that with 4 switches we could go to 1111 or 15 Decimal.
+
+Another point to note is that each binary digit, or bit, has a value. Just as in Decimal we have units, tens, hundreds, etc. in Binary the values are 1,2,4,8,16,32,64,128 etc. etc. The binary code 1111 mentioned above is thus 1+2+4+8=15. If you wanted to work out what binary 100101100 was in decimal, you could add up the individual values. In fact people who work on the basic machines need to know "machine code"! To them 1111 would be F in Hexadecimal or 17 in octal.
+
+This probably seems a very long-winded way to work out numbers, until you remember that these 'switches' can operate at nanosecond speed or 1,000,000,000 times per second, large calculations become possible.
+
+Thats probably enough to digest in one go. Next time we will look at how a computer adds and multiplies.
+
+

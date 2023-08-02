@@ -1,0 +1,32 @@
+Title: 
+Cisco CCNA Certification:  How And Why Switches Trunk
+
+Word Count:
+469
+
+Summary:
+To become a master network administrator and earn your CCNA, you’ve got to understand not just why Cisco switches trunk, but how.  Learn the important details in this free tutorial from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+ccna,ccnp,free,tutorial,pass,switch,isl, dot1q, trunk, port,exam,router,switch,cisco,bsci,cit,bcran,configure,ebook,chris,Bryant,ccie,12933,advantage
+
+
+Article Body:
+Your CCNA studies are going to include quite a bit of information about switches, and for good reason. if you don't understand basic switching theory, you can't configure and troubleshoot Cisco switches, either on the CCNA exam or in the real world. That goes double for trunking!
+
+Trunking is simply enabling two or more switches to communicate and send frames to each other for transmission to remote hosts. There are two major trunking protocols that we need to know the details of for exam success and real-world success, but before we get to the protocols, let's discuss the cables we need.
+
+Connecting two Cisco switches requires a crossover cable. As you know, there are eight wires inside an ethernet cable. In a crossover cable, four of the cables "cross over" from one pin to another. For many newer Cisco switches, all you need to do to create a trunk is connect the switches with a crossover cable. For instance, 2950 switches dynamically trunk once you connect them with the right cable. If you use the wrong cable, you'll be there a while!
+
+There are two different trunking protocols in use on today's Cisco switches, ISL and IEEE 802.1Q, generally referred to as "dot1q".  There are three main differences between the two. First, ISL is a Cisco-proprietary trunking protocol, where dot1q is the industry standard.  (Those of you new to Cisco testing should get used to the phrases "Cisco-proprietary" and "industry standard".)  If you're working in a multivendor environment, ISL may not be a good choice.  And even though ISL is Cisco's own trunking protocol, some Cisco switches run only dot1q.
+
+ISL also encapsulates the entire frame, increasing the network overhead.  Dot1q only places a header on the frame, and in some circumstances, doesn't even do that.  There is much less overhead with dot1q as compared to ISL.  That leads to the third major difference, the way the protocols work with the native vlan.
+
+The native vlan is simply the default vlan that switch ports are placed into if they are not expressly placed into another vlan.  On Cisco switches, the native vlan is vlan 1.  (This can be changed.)  If dot1q is running, frames that are going to be sent across the trunk line don't even have a header placed on them; the remote switch will assume that any frame that has no header is destined for the native vlan.
+
+The problem with ISL is that is doesn't understand what a native vlan is.  Every single frame will be encapsulated, regardless of the vlan it's destined for.
+
+Switching theory is a big part of your CCNA studies, and it can seem overwhelming at first.  Just break your studies down into smaller, more manageable parts, and soon you'll see the magic letters "CCNA" behind your name!
+
+

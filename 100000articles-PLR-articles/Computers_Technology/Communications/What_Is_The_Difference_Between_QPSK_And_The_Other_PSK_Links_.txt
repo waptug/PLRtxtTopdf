@@ -1,0 +1,23 @@
+Title: 
+What Is The Difference Between QPSK And The Other PSK Links?
+
+Word Count:
+355
+
+Summary:
+QPSK, other wise known as Quadrature Phase Shift Keying, is an algorithm for information transfers from a computer or server to the internet. This information enables the user to take information from the primary computer and upload it or stream it to the internet with ease. The QPSK link is not prone to degrading and therefore can be used frequently and for long periods. This makes it possible to spend more time uploading or streaming information and less time repairing or creating alternative links.
+
+
+Keywords:
+QPSK,PSK
+
+
+Article Body:
+QPSK, other wise known as Quadrature Phase Shift Keying, is an algorithm for information transfers from a computer or server to the internet. This information enables the user to take information from the primary computer and upload it or stream it to the internet with ease. The QPSK link is not prone to degrading and therefore can be used frequently and for long periods. This makes it possible to spend more time uploading or streaming information and less time repairing or creating alternative links.
+Phase Shift Keying relates to phase shifting and modulation by the use of numbered states. This is the section of the phrase that indicates its use. Phase shift keying means that the information can be shifted from one location to the other in a safe and effective manner. This information can be photographic, sound, documentary or any thing else that one wishes to upload onto the internet. There is no limit as to what one can load onto the internet using QPSK, including entire websites.
+
+The Q, or Quadrature, indicates the size and amount of information that can be passed through the Phased Shift Keying process. The larger the number, say an 8PSK, the faster but more prone to degradation the process is. Binary would indicate that it is able to handle 2 states and therefore 1 bit per character. Quadrature means that it is able to handle 4 states and therefore handle 2 bits of information at a time. A step higher than Quadrature is 8 which indicate 8 states of information and therefore 4 bits of information.
+
+Much like the road ways, the higher the number of bits and states that the link must carry, the higher the degrading process and the less amount of time that the link will be able to go without repair or replacement. QPSK is a compromise between durability and speed that often works out the best for all involved. The QPSK is considerably faster than the BPSK or Binary Phase Shift Keying system, but does not lack the length of duration, although it comes close. QPSK lacks the speed in information shifting that 8PSK has but it does last longer.
+
+

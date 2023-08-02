@@ -1,0 +1,40 @@
+Title: 
+Data Recovery/Datenrettung & Securing Data On Computers
+
+Word Count:
+560
+
+Summary:
+Data recovery or Datenrettung is the process by which the data is recovered from damaged or inaccessible storage media. Data recovery is done from storage media like CD큦, DVD큦, Floppies, Hard disks, Magnetic tapes etc. There are two reasons due to which the data becomes inaccessible. They are logical damage and physical damage to the storage media.
+
+Physical damage to storage media can occur in many ways. Magnetic tapes can break, get crumpled or dirt may settle on the ta...
+
+
+Keywords:
+datenrettung,data recovery,datenrettung software,data recovery software,computer datenrettung
+
+
+Article Body:
+Data recovery or Datenrettung is the process by which the data is recovered from damaged or inaccessible storage media. Data recovery is done from storage media like CD큦, DVD큦, Floppies, Hard disks, Magnetic tapes etc. There are two reasons due to which the data becomes inaccessible. They are logical damage and physical damage to the storage media.
+
+Physical damage to storage media can occur in many ways. Magnetic tapes can break, get crumpled or dirt may settle on the tapes. CD큦 and DVD큦 can have scratches or the metallic layer may get damaged. Magnetic heads in hard disks can crash or motors may fail. The floppy is notorious for failing frequently due to bending, overheating, cold, dust etc.
+
+There are other reasons like fires, electrical surges etc that can cause data to become inaccessible or lost. There are many methods by which data can be recovered from magnetic media or optical media. The methods most commonly used are Magnetic Force Microscopy (MFM), Scanning Probe Microscopy (SPM), Magnetic Force Scanning Tunneling Microscopy (STM) etc.
+
+In these methods a sharp magnetic tip is placed closed to the surface to be analyzed. It interacts with the stray magnetic field. An image of the data is generated and then repairs are carried out on logical damage and thus the data is recovered. Many companies carry out data recovery.
+
+Logical damage is the damage to the file system. It is not physical but a software problem and also tells us that we need to be cautious and have a quality system for data recovery, datenrettung. It generally occurs due to power cuts, system crashes etc preventing file system structures from being written resulting in file system being left in an inconsistent state.
+
+Logical damage is more common than physical damage. This may cause strange behavior like infinitely recurring file directories, loss of data, system crashes, hard disks reporting negative space etc. The end result is that the operating system cannot mount the file system.
+
+Most operating systems come with repair facilities like, Linux has fcsk utility, Mac has disk utility and Windows has chkdisk facility. There are other specialized programs available which have better repair facilities than the operating systems.
+
+There are also other systems called journaling file systems like NTFS, EFS (used in Windows XP), ext3 and xfs which can be reverted back to their earlier consistent state. These file systems reduce the amount of data loss.
+
+Data back up is the best way to prevent loss of data and it큦 the most common system for data recovery, datenrettung. The simplest method is to keep data on drives on which the operating system is not loaded. The other method is to write data on magnetic tapes, CD뭩 or DVD큦 or have online backup.
+
+Backups are very important for databases. Data backup is of 3 types. Full backup means backing up all data. Incremental backup means backing up of only the files that have changed. Differential backup is a mixture of these two. There is another method called continuous data protection in which when data is written to a disk, it is also written to another computer in a network.
+
+Most private persons with a computer do nothing in advance, they just use their computers. Too late, when an incident has happened they learn about data recovery or datenrettung.
+
+

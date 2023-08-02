@@ -1,0 +1,56 @@
+Title: 
+Affiliates, How To Become An Article Marketer
+
+Word Count:
+570
+
+Summary:
+If you're at all familiar with Article Marketing, then you know that the main thrust behind your articles is the bio box or resource box. This is where you put a link to a significant website that you're trying to promote. 
+
+But that can be a real problem when you're attempting to promote a pr
+
+
+Keywords:
+affiliate marketing,affiliate,marketing,affiliate links,managing affiliate links,article marketing,articles,bio boxes,resource boxes,how to become an article marketer
+
+
+Article Body:
+If you're at all familiar with Article Marketing, then you know that the main thrust behind your articles is the bio box or resource box. This is where you put a link to a significant website that you're trying to promote. 
+
+But that can be a real problem when you're attempting to promote a product that isn't your own. 
+
+Affiliate links can be long and rather ugly, not to mention obvious. So it becomes pretty difficult to get your readers to see you as an expert when your links have all those "=", "?" and long arrays of numbers and codes in it. 
+
+To add to the problem, most of the article directories now strip out html coding in both the article body and the bio box and hyperlink your URL instead. 
+
+So hiding your long affiliate link behind some coded text is pretty much out of the question too. Which leaves you to post your articles with your affiliate link hyerlinked in your bio box. And as you probably know, it's awfully hard to hide something that's neon blue against a background of black and white.
+
+There are, however,a few things you can do to hide the fact that you're promoting an affiliate product. Some of them have some potential drawbacks, but when you're desperate, anything is better than nothing. 
+
+1. URL Shrinkers:
+
+Pros: These are usually free to use and can quickly change any link to a much smaller, cloaked link. You just have to paste your long affiliate link in the box and click one button to get a mini link that will take visitors to the same site. 
+
+Cons: Your new URL will have the link shrinker's domain name. If they are a popular service you might find your links timing out when their servers get over worked. 
+
+Seasoned marketers usually know what a shrunken URL means (affiliate link).
+
+2. PHP Script Rerouters:
+
+Pros: Allows you to create alternate links directly on your own domain. Good for Article Marketing because they usually have you place the script in a folder named "recommends" or something similar. So your link looks like . . . 
+
+"yourdomain.com/recommends/theirproduct"
+
+Cons: You have to manually tweak php files and upload them to your server. Then you have to have a system where you can keep track of all your real affiliate links, what you've renamed them and where they are on your server.
+
+3. Desktop Link Management Programs:
+
+Pros: You fill in a few lines on a form, click a couple buttons and your new links are created and uploaded to your server for you. Your real affiliate links are stored in the system along with the name and location of your rerouted links. Plus you're able to easily modify the whole process. 
+
+You can create hundreds of links for one product, which is a big plus for article marketing because if you use an article submission program you can load all your different links into different bio boxes, which solves the html code stripping problem in the directories.
+
+Cons: They don't come free. There's a price to pay for ease, speed and efficiency. Prices vary, but expect to pay at the lowest around $40.
+
+In any event, there are ways to successfully turn an Affiliate Marketer into a high powered Article Marketer. Affiliate links don't have to look like affiliate links anymore, which opens things up for Affiliate Marketers to use this highly effective marketing venue.
+
+

@@ -1,0 +1,46 @@
+Title: 
+Top 5 Tech FAQs For Windows Newbies
+
+Word Count:
+795
+
+Summary:
+So! You’ve got your brand new computer all set up after hours of reading instructions, looking at diagrams and trying to figure out which wires, connectors and ports go where. And now that you’re ‘up and running’, the last thing you want to do is read more complicated directions to learn how to maneuver through your Windows-based programs.
+
+Well, not to worry. The basics are very easy and once you familiarize yourself with just a few simple steps, you’ll be rockin’ and roll...
+
+
+Keywords:
+
+
+
+Article Body:
+So! You’ve got your brand new computer all set up after hours of reading instructions, looking at diagrams and trying to figure out which wires, connectors and ports go where. And now that you’re ‘up and running’, the last thing you want to do is read more complicated directions to learn how to maneuver through your Windows-based programs.
+
+Well, not to worry. The basics are very easy and once you familiarize yourself with just a few simple steps, you’ll be rockin’ and rollin’ in no time! Following are the top five top technical questions that most Windows ‘newbies’ (wink, wink) are seeking help with and guidance for each.
+
+Find and Open A Program
+
+Every window-based operating system works in the same basic way. Once you’ve turned on your computer, you will see a ‘Start’ button in the bottom left corner of your monitor screen (you’ll see the ‘Windows’ icon to the left of the word ‘start’). Using your mouse, left click on that start button and a pop-up window will appear. At the bottom of that pop-up window, on the left, you will see the word ‘Programs’. Without clicking your mouse, slide down to ‘Programs’ and then left-click once. All of the programs installed on your PC will appear in that new window. Slide your mouse over whichever program you want to open and left-click your mouse once. That will launch the program for you!
+
+Close, Minimize or Maximize a Window
+
+Closing a window is probably one of the easiest things you’ll ever do. Once you’ve launched a program and the window is open, look to the top, right of your program window and you will see a red box with a white ‘x’ inside it. Left click that red box and your program will close. If you have a file open within the window that you haven’t saved yet, the program will prompt you and ask whether or not you want to save your file.
+
+To the left of that little red box, you will also see two more boxes; one will have an empty square inside it and the other contains a ‘dash’ at the bottom. These are your maximize and minimize options. The minimize button allows you to keep the program open but get it out of the way, which is particularly helpful if you have more than one program open at the same time. Just left click once on the ‘dash’ button and your program will minimize itself to the bottom of your monitor screen. To restore the program back up into your view, click the window at the bottom of your screen that has the file name your were working on inside it.
+
+To increase your viewing area, you may want to ‘maximize’ a window. Clicking on the button directly to the left of the ‘close’ button will maximize your program window to the full dimensions of your monitor screen. Clicking it again will restore it back to its initial size.
+
+Saving Files Your PC
+
+Say you’ve created a document in Word. There are two ways to save your file and these techniques are also the same basic methods used for just about every program ever created.
+
+1) There is a little icon (picture) of a diskette in the toolbar at the top of every document window. Left-clicking on that diskette will automatically save your documents. This is a good way to go if you’ve already saved your file into a desired folder on your computer and want to also ‘save as you go’ so you don’t lose any of your content if the program were to freeze or your system were to crash.
+
+2) At the top of every document window is a toolbar with the word ‘File’ on the very left end. Left-click on ‘File’ and an options window will appear. Slide your mouse down to ‘Save’ and left-click once. A new window titled ‘Save As’ will open. At the bottom of the ‘Save As’ window will be a white box with the words ‘File Name’ to the left. Type in the name of your document, click the ‘Save’ button to the right of that title window and you’re done.
+
+NOTE: If you want to save your files into the ‘My Documents’ folder that comes equipped with every Windows system, click on the ‘My Documents’ icon in the left of the ‘Save As’ window before entering the name of your file.
+
+Don’t be afraid to click on your toolbar buttons or pull-down menus to learn about each of their uses (you’ll want to make sure you save your file first though). Trial and error is one of the best ways to learn so go for it!
+
+

@@ -1,0 +1,28 @@
+Title: 
+Of Computers And The Medical System
+
+Word Count:
+345
+
+Summary:
+Computers and technology have long played a role in the medical system. In more recent years, however, computers have started to become an increasingly relied upon method for helping to keep patient records straight and for keeping people healthy. In fact, the use of computer sciences combined with the information sciences in the medical field has become so prevalent that a term has been developed to describe this merging of fields: health informatics.
+
+Health informatics, ...
+
+
+Keywords:
+
+
+
+Article Body:
+Computers and technology have long played a role in the medical system. In more recent years, however, computers have started to become an increasingly relied upon method for helping to keep patient records straight and for keeping people healthy. In fact, the use of computer sciences combined with the information sciences in the medical field has become so prevalent that a term has been developed to describe this merging of fields: health informatics.
+
+Health informatics, also referred to as medical informatics, focuses primarily on the use of computers and information science to help acquire, store, and retrieve information in both biomedicine and health in general. This may involve communication amongst and between medical facilities and professionals, retrieving current information regarding treatment methods for certain disorders, and even helping medical professionals diagnose a disease. It may also involve the sharing of patient information amongst specialists in order to give the patient the best treatment possible.
+
+With the use of computers in the medical system becoming increasingly common, the United States congress passed the Health Insurance Portability and Accountability Act (HIPPAA) in 1006. This act set forth certain regulations and guidelines regarding keeping track of medical records with specialized software. The primary goal of the act was to maintain patient privacy while still allowing medical professionals to take advantage of the conveniences technology provides.
+
+Since then, the Certification Commission for Healthcare Information Technology (CCHIT) was formed through the United States Department of Health and Human Services. This non-profit organization has developed a set of standards regarding electronic health records and the networks that support them. Those vendors that meet these standards receive certification through the organization. In 2006, the organization certified 22 electronic health record products that have been approved for use.
+
+Computers are playing an increasingly important role within the medical field. With their help, medical professionals are capable of providing more effective and efficient care to their patients. With the many standards, guidelines, and regulations set forth through government bodies and organizations, the practice is likely to become even more widespread while simultaneously protecting the rights of patients.
+
+

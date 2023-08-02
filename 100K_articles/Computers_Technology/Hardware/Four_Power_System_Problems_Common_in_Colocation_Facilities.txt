@@ -1,0 +1,33 @@
+Title: 
+Four Power System Problems Common in Colocation Facilities
+
+Word Count:
+612
+
+Summary:
+To make sure that the power system at a colocation facility is robust enough to handle both power and equipment failures, two words should be remembered: capacity and redundancy.
+
+
+Keywords:
+colocation,colocation service provider,san diego colocation
+
+
+Article Body:
+The primary factor that determines uptime for servers in a colocation facility is power. Power outages will knock a network offline and even damage hardware such as motherboards, memory, and hard drives. Despite how intrinsic power is to keeping businesses connected to their networks, only 2% to 3% of colocation facilities have the right power systems in place. The other 97% of facilities most commonly lack <i>redundancy</i>, multiple units carry the energy load even if one unit fails, or have units that are running above <i>capacity</i>, so a unit failure will cause the other units to overload and fail. Every part of the power system – uninterruptible power supplies (UPS), transfer switches or circuit breakers, generators, and power distribution units (PDU) – should be redundant and running below capacity. 
+
+<b>Problem 1: Non-redundant Power Grids</b>
+Multiple PDUs connected to separate power grids and multiple UPSs should be designed into the colocation facility to offset a power grid failure. Colocation facilities with redundant power grids can connect customer servers to different grids at the same time, so that even if one goes offline, the other will work, keeping the network running without interruption. 
+
+<b>Problem 2: Non-redundant UPSs</b>
+The UPSs supply power during an outage until the generator can come online; if the UPSs do not turn on immediately at the time of failure, then the network will go down. Even with high quality UPSs, failures are common, so it is critical for there to be multiple redundant UPS units in an “n+1” configuration – all of the necessary UPSs, plus an extra. Functionally, this means that each UPS runs sufficiently below capacity to handle a unit failure without the other units overloading. If there are two UPSs, then each unit must run below 50%, so that if one fails, the other can continue without overloading. If there are three units, each must run below 66%; four units, below 75%. The current load is shown on the display on the front of the UPS.
+
+<b>Problem 3:  Transfer Switch Failures</b>
+Most colocation facilities use mechanical transfer switches, which are not as dependable as circuit breakers, to switch power from the electric utility to the generator. These switches are one of the most common places the power system fails. Without redundant switches to transfer power at the same point, a transfer switch failure will mean that a network goes down.
+
+<b>Problem 4: Insufficient Generator Capacity</b>
+Generators supply power during an outage. To run without overloading, the generator must have capacity to run 1.5 times the total building load. Ideally, a colocation facility should have a redundant backup generator in case the primary generator fails, and the facility should have a process in place for switching power between generators. Having multiple generators is not the same as having redundant generators. One of the most common generator problems with colocation facilities is that the facility started out with a small generator and added generators as it grew. This creates multiple points where power has to be transferred during an outage, increasing the likelihood that a network will go down. As a practical consideration, the generators must be well-maintained, tested monthly, and fully supplied with fuel. 
+
+<b>Points to Consider</b>
+Fewer than one in twenty colocation facilities have the best power systems in place despite the fact that power systems have the most impact on network uptime. Without well-maintained and redundant components running below capacity at every part of the system, network performance as well as server performance and equipment lifetime will suffer. To make sure that the power system at a colocation facility is robust enough to handle power and equipment failures, two words should be remembered: capacity and redundancy.
+
+

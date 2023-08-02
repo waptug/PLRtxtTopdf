@@ -1,0 +1,27 @@
+Title: 
+Proxy.com
+
+Word Count:
+309
+
+Summary:
+A Proxy is a software program that resides in-between a client computer and a server. All communication between the client and the server are routed through the proxy. The proxy software can reside either on a dedicated computer, sandwiched between the client and the server, or exist in the client computer itself. The proxy acts like a filter that sifts all communication that occurs between the client and the server.
+
+
+Keywords:
+Proxy.com
+
+
+Article Body:
+A Proxy is a software program that resides in-between a client computer and a server. All communication between the client and the server are routed through the proxy. The proxy software can reside either on a dedicated computer, sandwiched between the client and the server, or exist in the client computer itself. The proxy acts like a filter that sifts all communication that occurs between the client and the server.
+
+
+Proxies are widely used in the corporate environment to control the internal computer network’s communication with the outside world. The entire data flow is constricted through the proxy for security and policy implementation purposes. Any data that violates company policy or poses a threat to the internal network’s security is immediately filtered. Proxies are also used in educational institutions and public facilities like libraries for the very same purpose.
+
+
+Proxies can be used for a wide variety of purposes. Based on their functions, they are called by different names. A proxy that is used for monitoring and filtering content, as explained earlier, is known as a Content Filtering Proxy. On the other hand, a proxy that transmits all communication without altering the contents of the traffic is known as a Gateway.
+
+
+A Caching proxy is one that maintains a cache of frequently requested information. It is basically used to reduce bandwidth usage and to speedup the network. When a client requests a piece of information, the proxy normally passes that request to the server and relays the response from the server back to the client. But if the same piece of information is requested repeatedly, the proxy maintains a copy of that information in its cache and directly sends that information to the client instead of sending a request to the server. This speeds up response time and also reduces the bandwidth requirement of the entire network.
+
+

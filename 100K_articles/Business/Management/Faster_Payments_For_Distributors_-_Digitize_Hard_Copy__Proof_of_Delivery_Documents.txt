@@ -1,0 +1,46 @@
+Title: 
+Faster Payments For Distributors - Digitize Hard Copy, Proof of Delivery Documents
+
+Word Count:
+626
+
+Summary:
+Distributors can resolve disputed invoices faster and improve cash flow, when converting hard-copy, proof of delivery documents into a digital format.
+
+
+Keywords:
+hard-copy, proof of delivery, payment disputes, scanning, shipping, unstructured documents, forms processing, disputed invoice, MRO supply, 
+
+
+Article Body:
+Each day, a typical distributor ships hundreds of products to its customers. For each delivery, tow copies of the receipt are provided -  one is left with the customer, while the second, a “proof of delivery” copy, is signed by the recipient and retained by the driver.
+
+In some cases, at the delivery point, shipment notations are handwritten on the document and include corrections of quality, condition of goods, the printed name of the recipient’s phone number and department. 
+
+The document is then returned to the distributor’s office for filing, and oftentimes, filed manually. So far, so good.
+
+But, then a couple of weeks pass and the invoice for goods comes due. Curiously, it remains unpaid-prompting the credit department to call the customer for payment. The customer disputes the invoice, claiming that payment will not be made until a proof of delivery is provided.
+
+So, the distributor hunts down the signed proof of delivery document and provides it to the customer. Days later, the customer remits on the invoice. All’s well that ends well, right?  Wrong. If the distributor is cash starved, the DSO is affected by these disputed sums. Often, lines of credit are hampered and the rates distributors pay for credit lines increase.
+
+But what if the proof of delivery document hadn’t been located? What if it has been misfiled, lost, or damaged? These things do happen occasionally, and when they do it can negatively affect average days outstanding – and the bottom line. 
+
+There is a better way.
+
+Unstructured documents (that is documents that are not generated from a billing and inventory management system) or documents that are hand modified once generated from a billing and inventory system pose a great challenge for control and management.
+
+Proof of delivery receipts, signed sales tax forms, customer purchase orders, customer fax releases/orders, customer-provided specifications, and request for quotation are critical documents in the distribution trade. 
+
+Digitizing these hard copy documents – via multifunction devices that automatically scan and convert documents- can save an organization time, reduce losses, improve productivity and speed cash flow.
+
+For example, delivery personnel returning from a route can scan proof of delivery documents into a multifunction document processing system that routes the paperwork to a designated folder. A document imaging system can post process the file, capture the shipping document number, shipping date,  invoice number, and customer purchase order seconds after  the document is routed. Once processed, the entire organization has access to the documents.
+
+Digitized proof of delivery documents can then be stored in a network folder and indexed by the distributor’s invoice number. In advanced implementations, proof of delivery can be forwarded to a client with a matched invoice and a copy of their purchase order, completing the three-way payment approval match.
+
+All hard copy documents can be captured and tied to a specific transaction. Systems are available that can be implemented to capture documents relating to title to goods and group them in a searchable document library. These systems track documents at the point of print. A database captures and catalogs document content. Once printed, cycled, and scanned, documents are captured and combined electronically with other non-structured documents. All valuable working papers can then be organized by customer, supplier and employee. 
+
+Incoming faxes can also be captured, organized and automatically processed as part of the strategy. Faxed orders can be routed to different departments simultaneously-to sales, customer service, and credit – enabling faster shipments and improved business controls for distributors.
+
+A decade ago, systems that processed documents were not practical for small-to-midsize distributors – but today’s technologies make it possible for virtually any size distributorship. For under $4000, two strategies can be readily deployed: the capture of proof of delivery copies and the automation of inbound faxes.
+
+

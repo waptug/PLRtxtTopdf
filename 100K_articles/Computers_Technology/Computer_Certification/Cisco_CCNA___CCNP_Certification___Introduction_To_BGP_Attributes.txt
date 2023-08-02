@@ -1,0 +1,45 @@
+Title: 
+Cisco CCNA / CCNP Certification:  Introduction To BGP Attributes
+
+Word Count:
+368
+
+Summary:
+BGP is one of the most complex topics you’ll tackle in your CCNP studies, but if you break it down to the fundamentals, you’ll pick it up quickly.  Chris Bryant, CCIE #12933, has written this free BGP tutorial on BGP attributes to help you do master BGP and pass the exams!
+
+
+Keywords:
+ccna,ccnp,free,tutorial,pass,exam,router,switch,cisco,bsci,cit,bcran,configure,ebook,chris,Bryant,ccie,12933,advantage , bgp, attribute
+
+
+Article Body:
+BGP is one of the most complex topics you'll study when pursuing your CCNP, if not the most complex. I know from personal experience that when I was earning my CCNP, BGP is the topic that gave me the most trouble at first. One thing I keep reminding today's CCNP candidates about, though, is that no Cisco technology is impossible to understand if you just break it down and understand the basics before you start trying to understand the more complex configurations.
+
+BGP attributes are one such topic. You've got well-known mandatory, well-known discretionary, transitive, and non-transitive. Then you've got each individual BGP attribute to remember, and the order in which BGP considers attributes, and what attributes even are... and a lot more! As with any other Cisco topic, we have to walk before we can run. Let's take a look at what attributes are and what they do in BGP.
+
+BGP attributes are much like what metrics are to OSPF, RIP, IGRP, and EIGRP. You won't see them listed in a routing table, but attributes are what BGP considers when choosing the best path to a destination when multiple valid (loop-free) paths exist.
+
+When BGP has to decide between such paths, there is an order in which BGP considers the path attributes. For success on the CCNP exams, you need to know this order. BGP looks at path attributes in this order:
+
+Highest weight (Cisco-proprietary BGP value)
+
+Highest local preference (LOCAL_PREF)
+
+Prefer locally originated route.
+
+Shortest AS_PATH is preferred.
+
+Choose route with lowest origin code. Internal paths are preferred over external paths, and external paths are preferred over paths with an origin of "incomplete".
+Lowest multi-exit discriminator (MED)
+
+External BGP routes preferred over Internal BGP routes.
+
+If no external route, select path with lowest IGP cost to the next-hop router for iBGP.
+
+Choose most recent route.
+
+Choose lowest BGP RID (Router ID).
+
+If you don't know what these values are, or how they're configured, don't panic! The next several parts of this BGP tutorial will explain it all. So spend some time studying this order, and in part II of this free BGP tutorial, we'll look at each of these values in detail. Keep studying!
+
+

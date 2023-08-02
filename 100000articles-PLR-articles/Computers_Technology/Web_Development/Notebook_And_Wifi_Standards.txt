@@ -1,0 +1,48 @@
+Title: 
+Notebook And Wifi Standards
+
+Word Count:
+773
+
+Summary:
+Every modern notebook is Wi-Fi enabled, allowing internet access from any part of the globe. But while using your wireless notebook, you should be aware of Wi-Fi standards, hotspots, and how to effectively use this technology to make the optimum use of your notebook.
+
+The 802.11g Wi-Fi standard is the latest standard, which your notebook follows when you are online. The Wi-Fi alphabet spaghetti consists of protocols like 802.11, 802.15, 802.16, and 802.20. However, for most...
+
+
+Keywords:
+notebook, budget notebook, laptop, WiFi
+
+
+Article Body:
+Every modern notebook is Wi-Fi enabled, allowing internet access from any part of the globe. But while using your wireless notebook, you should be aware of Wi-Fi standards, hotspots, and how to effectively use this technology to make the optimum use of your notebook.
+
+The 802.11g Wi-Fi standard is the latest standard, which your notebook follows when you are online. The Wi-Fi alphabet spaghetti consists of protocols like 802.11, 802.15, 802.16, and 802.20. However, for most notebook users 802.11 would be sufficient with added `a`, `b`, or `g`. 
+
+There are protocols like `e`, `h`, `i`, and `n` that are waiting in the wings to make their entry. Nevertheless, as of now, 802.11g is the only protocol that one needs to think when it comes to wireless connectivity. The latest Wi-Fi standard is the 802.11g and offers connection speeds up to 54 Mbps in the 2.4 GHz radio bands, which is five times more than the previous standard 802.11b. It is more stable, more secure, and backward compatible.
+
+Almost all notebooks that are manufactured today are 802.11g Wi-Fi standard ready. This standard is also designed to replace the older Wired Equivalent Privacy or WEP by specifying the Wi-Fi Protected Access or WPA. The WPA will function as an interim solution, until the next standard, the 802.11i network security standard is implemented with a new algorithm called Temporal Key Integrity Protocol, which shall be much more secure and reliable. 
+
+However, until the new standard is implemented, the 802.11g is to be followed. There are only two disadvantages with this notebook Wi-Fi standard, that firstly, since it is a new standard, it may not perform as promised; and secondly, with fast emerging latest technologies, it may become obsolete by newer standards before you have the time to benefit from it.
+
+Few tips for a secure Wi-Fi experience:
+
+1 - You should raise the level of your laptop settings. Raise the security settings of software applications like Microsoft Outlook and Internet Explorer. Update them frequently to ensure latest protection from hackers and viruses. You should keep the encryption feature always on to ensure safest browsing with Wi-Fi.
+
+2 - Along with the software, you should also consider updating to better hardware. Hackers have always found 802.11a and 802.11b very easy to hack. However, 802.11g is harder to crack and you should consider upgrading your hardware to a `g` card. An 802.11g is backward compatible with IEEE 802.11b, thus 802.11g can leverage the widespread, international adoption of IEEE 802.11b in products from laptops to PDAs. A personal firewall, such as ZoneAlarm or BlackICE can significantly add up to the security level of your notebook.
+
+3 - Whenever you are using your notebook at a Wi-Fi hotspot, make it a point not to send data. While you are surfing, do not type your credit-card number, expiration date, passwords, bank account numbers, etc. Sensitive data are the goldmines for hackers, and they will swipe your bank account before you can finish saying, ` I have been a victim of online identity theft!`
+
+4 - Consider not staying online while working. If the risks outweigh the benefits, then it would be better to stay offline; at least until the new 802.11i standard is not implemented. Even then, the security can be breached, albeit with difficulty. If you do not need Wi-Fi to implement your work, then stay switched off. If you need the Wi-Fi just to send and receive files, then stay connected for only that period. Rest of the time, stay offline.
+
+Precautions to take at a public Wi-Fi hotspot:
+
+Whenever you are in public domain, you need to take precautions, as it is free for all. The Wi-Fi hotspots are available to any and every person, and anybody can be connected. Besides online thefts, there is also the risk of offline thefts.
+
+While in a public hotspot, do not be so absorbed with your notebook, that you fail to notice the people around you. There are persons who are in the business of stealing notebooks, from public hotspots. And they do not operate as individuals but as a gang.
+
+Also, while you are online at a public hotspot, follow simple rules like encrypting files before transferring or emailing them; making sure you are connected to a legitimate access point; and file sharing is turned off. Basic precautions like password protecting your notebook, updating your system regularly, and using anti-virus software should be strictly followed. For further online security, consider using a personal firewall, a virtual private network (VPN), and web-based email with secure http (https).
+
+Having a good Wi-Fi experience directly translates into a satisfying Internet experience. With the above suggestions being implemented, you are guaranteed to have a pleasant online time with your notebook.
+
+

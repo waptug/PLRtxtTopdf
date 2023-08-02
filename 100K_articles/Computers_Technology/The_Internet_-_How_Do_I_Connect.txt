@@ -1,0 +1,54 @@
+Title: 
+The Internet - How Do I Connect
+
+Word Count:
+667
+
+Summary:
+Guide to various ways of connecting to the Internet.  Discusses dial-up and broadband services and gives recommendations on what type of service is needed based on your needs.
+
+
+Keywords:
+broadband, dial up, internet service providers, cable internet conneciton, satellite internet connection, internet, isp
+
+
+Article Body:
+If you own a computer – and in today’s world who doesn’t – sooner or later, you will want to have access to the Internet.
+
+The Internet for some is the Holy Grail of the modern age, and not having access to it is seen in some quarters as sacrilege.
+
+But how do you connect to this Holy Grail – the Internet?
+
+You need an Internet Service Provider or ISP who will give you access and you need to decide between dial-up service which uses a regular telephone line, and broadband service which, very often comes in the form of Cable, Digital Subscriber Line (DSL), Satellite or T1 connections.
+
+Do not get thrown off by all the computer talk.  The option really is yours to decide on the type of service you need especially if you are working within a budget.
+
+You must first determine what you will be using the Internet to do.  If you will be checking email and accessing the Internet occasionally, then, you may need to consider dial-up service.  
+
+Dial-up service is cheap with a couple of disadvantages.  It uses a telephone line to dial-in to the ISP’s network and when the connection is made, you are not able to take or make calls.
+
+With dial-up service, you need to make sure that the ISP offers local numbers where you are located because you do not want to incur any long distance charges which can be expensive and unnecessary.
+
+Additionally for dial-up, you will need to ensure that you have the right hardware to interface with the ISP’s network.  You will need a modem for this service and these are not very expensive today.
+
+If you have determined that dial-up service is not for you, then your choice is going to be one of the following: Cable, Satellite, DSL or T1.
+
+Cable can be a good option because of its speed and the fact that you can receive a bundle of services at discounted rates depending on the provider you choose.
+
+Some cable providers will have special pricing packages on Internet service if you sign-up for regular cable TV service as well.  They will even give you, free of charge, antivirus software to protect you computer from being infected by viruses.
+
+For a cable connection to work, you will need a network card and a cable modem.  If you have a modern computer, a network card may already be installed as these are now being included as standard components in computer systems in recent years.  You can buy a cable modem or your ISP may include one with the plan you choose.
+
+Another option, DSL uses a telephone line for Internet access.  Your local telephone company may offer this service or you may be able to obtain service from an independent provider who does not offer regular telephone service.  Just check with providers in your area to see what is available.
+
+DSL, like cable, is faster than dial-up, and like cable, actual connection speeds will vary depending on your location and how many persons are actually connected at the same time. You may want to verify how many persons in your area are being serviced by the same ISP to assist you in your decision making as to which provider to choose.
+
+Satellite and T1 connections can be expensive but may be the option available to you depending on where you are located.
+
+If you have to use a satellite connection, bear in mind that you will need satellite equipment for the system to work and you must have an unobstructed view of the southern sky.
+
+One very important point to consider if you will be using a broadband connection is that your computer will always be connected to the Internet unless you turn your system off.  You will therefore need to protect your system by installing a firewall and antivirus software.
+
+Ultimately, the final decision is yours.  The good thing is you have choices so do some research before you buy.
+
+

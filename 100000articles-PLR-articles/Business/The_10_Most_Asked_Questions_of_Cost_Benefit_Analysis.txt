@@ -1,0 +1,124 @@
+Title: 
+The 10 Most Asked Questions of Cost Benefit Analysis
+
+Word Count:
+1337
+
+Summary:
+It may be challenging to learn about Cost Benefit Analysis quickly. However, if you review the questions and answers listed below you will gain a little more understanding since these are commonly asked questions and the answers are based on wide experience.
+
+
+Keywords:
+cost, costs, benefit, benefits, cost benefit analysis, cost benefit, analysis, decisions, decision
+
+
+Article Body:
+When dealing with decisions using Cost Benefit techniques it is very important to follow the proven principles. The health of your company and your reputation depend on it. If these rules are not followed then your decisions could be flawed.
+
+Let's start, shall we?
+
+Question #1. Is this technique suitable for the small business owner?
+
+Yes. The theory works equally as well for small business as it does for big business and government. 
+
+Cost Benefit Analysis is a decision-making technique that assesses the positive outcomes (benefits) as well as the negative outcomes (costs) of different decision alternatives. The trick is to make its implementation easy for the small businessperson. 
+
+Once you have basic knowledge of the theory and can enter data into a spreadsheet then the rest is not too difficult.
+
+Question #2. Is this all I need to make better decisions?
+
+No. Cost Benefit Analysis is a tool to assist in making better financial decisions. It is not an end in itself. However, part of the Cost Benefit process requires that you think widely on all options before making a final decision. This is often where most people fail in their decision-making attempts. 
+
+Cost Benefit Analysis is also very skilful at providing a single viability output for each competing option, making comparisons objective and easy.
+
+Question #3. What do I include as the Costs and the Benefits?
+
+Costs. All costs attributable to the project are to be included. Some of these are listed below:
+
+ - Asset Costs (both Capital and ongoing)
+ - Supply costs for purchased items
+ - Extra administrative effort required to manage project
+ - Delivery costs if to your account
+ - Replacement of assets in future years
+ - Tender preparation costs
+ - Any specialised tooling associated with the project
+
+Revenue. Revenue can only be attributed to a project if it were not received were the project not to go ahead.
+
+Asset Disposal and Residual Values. Some assets may be retired prior to the end of their useful lives or may be salvaged at the end of the project. This value is to be included in the cash flows (less the costs associated with their sale or disposal).
+
+Cost Savings. All cost savings attributable to the project are to be included. Wage and salary cost savings must include their overheads and on-costs.
+
+Question #4. How do I treat non-financial costs and benefits?
+
+Since only cash transactions (both costs and benefits) are included in Cost Benefit models, non-financial costs and benefits are usually described by way of notes. 
+
+If the Benefit Cost Ratio is = to 1 or > 1 then the use of non-financial costs and benefits would not be required since the project is already VIABLE. Normally these non-financial costs and benefits would be included when comparing competing options whose Benefit Cost Ratio is close to each other.  
+
+Question #5. How can I test my assumptions?
+
+You are best placed to make assumptions based on your own experience and judgement. However, you can use a technique to show others how robust your assumptions really are. This technique is called Sensitivity Analysis. 
+
+This technique is important to understand because you have made many assumptions in your analysis. These could have been, for instance, the level of new income generated, the savings generated or the residual value of the asset at the end of the project life. These assumptions are at the heart of your analysis and have contributed to your final Benefit Cost Ratio outcome. 
+
+Since the future cannot be accurately predicted there is a high probability that some of your assumptions may prove incorrect. 
+
+Using this technique will add conviction and weight to your proposal by showing how changes to costs and benefits affect the Benefit Cost Ratio. Do small changes move the project from VIABLE to UNVIABLE?
+
+Question #6. How can I be sure that the project is VIABLE?
+
+You have made your assumptions based on your project knowledge and experience. You have constructed the model that shows the project to be VIABLE. If you have followed the proven principles it should work out OK. Once the project has been authorised it is important to ensure that the assumptions are correct and in fact are deliverable.
+
+To ensure this happens follow up on these items:
+ - Any labour savings must be delivered - re-assign affected resources
+ - Cost savings due to process changes must be acted upon swiftly
+ - Increased revenue from price rises must be implemented urgently
+
+A Post Completion Review undertaken a year from the project's implementation will show you if all or some of your assumptions proved correct. It will also teach lessons on how this could done more successfully next time rather than making the same mistakes again.
+
+Question #7. How can I implement this technique in my company?
+
+There are a number of ways as follows:
+ - Use Cost Benefit Analysis yourself in a pilot project
+ - Convince the CEO of its benefits to the company and use that authority
+ - Use Cost Benefit Analysis in a specific business unit
+
+All of these ways require a thorough understanding of the theory, the reasons for its implementation and the expected payoffs. 
+
+A training program would need to be undertaken so that all those involved understood the technique. 
+
+Question #8. Why does it have to include NPV to account for the time value of money?
+
+Typically the life of the assets, or the decision being made, will have a financial impact over more than 1 year. This is usually 3 - 5 years (computers, software, factory machinery), 20 years for some large electrical equipment and even up to 100 years for underground pipes as used in water and sewer reticulation. 
+
+Inflation, year by year, reduces the buying power of the dollar causing us to spend more each year in dollar terms to purchase the same item. So it is with projects whose life span is more than one year.
+
+Costs and benefits that occur in year 3 or 4 of the project would not have the same impact as if they occurred in year one.
+
+The Benefit Cost Ratio and the final decision regarding VIABILITY could be completely wrong if NPV is not used in the model.
+
+Question #9. Are there any limits to its applicability?
+
+Not really, as long as you are dealing with financial costs and benefits. It has application to large and small decisions, complex and simple, long lived and short lived assets, also profit based and government and charities.
+There are some general limitations:
+
+Subjectivity - It is quite unlikely that two analysts working separately will estimate exactly the same Cost Benefit Ratio number. There are many variables that can be treated slightly differently, some of which are listed below:
+ - Estimation of physical and/or economic life of the asset/project
+ - Estimates of costs/benefits of environmental protection
+ - The choice of discount rates (the rates illustrated above are indicative of a range which could be applicable)
+ - The value of benefits can be different for different groups in society (i.e. the value of a $ to the poor section of the community is different to that of the affluent class)
+
+Political Decision Making - The necessity of making political judgements on the viability of the project (timing of elections, regional loyalties) can sway an outcome. Also decision-makers are not consistent over space and time.
+
+First Round Effects - We would normally only include the effects that are directly attributable to the project going ahead. We would not, for instance, include the increased community agricultural output generally due to a project going ahead. This would only be justified if the sector was originally under-employed. 
+ 
+Question #10. How can this technique actually help me?
+
+There are many ways - some are listed below:
+ - Increases your confidence knowing you have used a proven reliable method. 
+ - Having thought of all the options for solving the problem you can present your proposal knowing you have the answers.
+ - Using this technique will ensure you gain recognition and more opportunities for advancement
+ - Once the company sees the benefits of this technique it may wish you to be the trainer of other staff or the implementation champion - more opportunities for you.
+ - This technique will you save time in project assessment and ranking of competing proposals.
+
+

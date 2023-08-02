@@ -1,0 +1,60 @@
+Title: 
+Cisco CCNP / BSCI Exam Tutorial: Route Summarization
+
+Word Count:
+667
+
+Summary:
+To pass the BSCI exam and earn your CCNP certification, you’ve got to master route summarization.  Learn how to create the summary routes and apply them correctly from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccnp, exam, bsci, video, route, summary, summarization, rip, eigrp, ospf, area, range, address, pass, free
+
+
+Article Body:
+Preparing to pass the BSCI exam and earn your Cisco CCNP? Route summarization is just one of the many skills you'll have to master in order to earn your CCNP. Whether it's RIP version 2, OSPF, or EIGRP, the BSCI exam will demand that you can flawlessly configure route summarization.
+
+Route summarization isn't just important for the BSCI exam. It's a valuable skill to have in the real world as well. Correctly summarizing routes can lead to smaller routing tables that are still able to route packets accurately - what I like to call "concise and complete" routing tables.
+
+The first skill you've got to have in order to work with route summarization is binary math more specifically, you must be able to take multiple routes and come up with both a summary route and mask to advertise to downstream routers. Given the networks 100.16.0.0 /16, 100.17.0.0 /16, 100.18.0.0 /16, and 100.19.0.0 /16, could you quickly come up with both the summary address and mask? All you need to do is break the four network numbers down into binary strings. We know the last two octets will all convert to the binary string 00000000, so in this article we'll only illustrate how to convert the first and second octet from decimal to binary.
+
+100 16 = 01100100 00010000
+
+100 17 = 01100100 00010001
+
+100 18 = 01100100 00010010
+
+100 19 = 01100100 00010011
+
+To come up with the summary route, just work from left to right and draw a line where the four networks no longer have a bit in common. For these four networks, that point comes between the 14th and 15th bits. This leaves us with this string: 01100100 000100xx. All you need to do is convert that string back to decimal, which gives us 100 for the first octet and 16 for the second. (The two x values are bits on the right side of the line, which aren't used in calculating the summary route.) Since we know that zero is the value for the last two octets, the resulting summary network number is 100.16.0.0.
+
+But we're not done! We now have to come up with the summary mask to advertise along with the summary route. To arrive at the summary route, write out a mask in binary with a "1" for every bit to the left of the line we drew previously, and a "0" for every bit to the right. That gives us the following string:
+
+11111111 11111100 00000000 00000000
+
+Converting that to dotted decimal, we arrive at the summary mask 255.252.0.0. The correct summary network and mask to advertise are 100.16.0.0 252.0.0.0.
+
+For the BSCI exam, emphasis is put on knowing how to advertise these summary routes in RIPv2, EIGRP, and OSPF.  For RIP v2 and EIGRP, route summarization happens at the interface level - it's not configured under the protocol. On the interface that should advertise the summary route, use the command "ip summary-address". Here are examples of how the above summary route would be configured on ethernet0 in both RIPv2 and EIGRP.
+
+R1(config-if)#ip summary-address rip 100.16.0.0 255.252.0.0
+
+R1(config-if)#ip summary-address eigrp 100 100.16.0.0 255.252.0.0
+
+The main difference between the two is that the EIGRP command must specify the AS number - that's what the "100" is in the middle of the EIGRP command. Since RIPv2 does not use AS numbers, there's no additional value needed in the configuration.
+
+For OSPF, the commands differ. If you're configuring inter-area route summarization, use the "area range" command.  The number following "area" is the area containing the routes being summarized, not the area receiving the summary.
+
+R1(config)#router ospf 1
+
+R1(config-router)#area 1 range 100.16.0.0 255.252.0.0
+
+If you are summarizing routes that are being redistributed into OSPF, use the summary-address command under the OSPF routing process on the ASBR. 
+
+R1(config)#router ospf 1
+
+R1(config-router)#summary-address 100.16.0.0 255.252.0.0
+
+I speak from experience when I tell you that practice makes perfect on the BSCI exam, especially with binary and summarization questions. The great thing about these questions is that there are no grey areas with these questions - you either know how to do it or you don't. And with practice and an eye for detail, you can master these skills, pass the exam, and become a CCNP. Here's to your success on these tough Cisco certification exams!
+
+

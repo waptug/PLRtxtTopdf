@@ -1,0 +1,73 @@
+Title: 
+Understanding Smtp Error Codes And Smtp Relay Servers
+
+Word Count:
+747
+
+Summary:
+How many times have you been confronted with a cryptic error code when trying to do something simple on your computer like send an email? Has it ever been anything less than frustrating? A typical error message for me might be:
+
+ “Your email could not be delivered – error 552”.
+
+Who knows what this means! SMTP error codes were designed way back in 1982, mainly for other computers to be able to read and understand them. As it is perfectly understandable that human beings a...
+
+
+Keywords:
+smtp2go, smtp mail server, mail relay server, relay server
+
+
+Article Body:
+How many times have you been confronted with a cryptic error code when trying to do something simple on your computer like send an email? Has it ever been anything less than frustrating? A typical error message for me might be:
+
+ “Your email could not be delivered – error 552”.
+
+Who knows what this means! SMTP error codes were designed way back in 1982, mainly for other computers to be able to read and understand them. As it is perfectly understandable that human beings are less inclined to think and communicate in numbers, this guide was written to help you to decode SMTP error codes (and other reply codes) and work out exactly what is going on when you are trying to send emails.
+
+When emails are sent from your computer a protocol called SMTP (Simple Mail Transfer Protocol) is used.  Typically, SMTP works well, providing a means for people to communicate via email but sometimes, as with most things, problems do arise.  Depending on the issue, you might receive an error message or error code identifying the problem. In this article, we wanted to address some of the SMTP error codes you might experience, and exactly what they mean.
+
+First of all it should be noted that every SMTP code is comprised of three digits, for example 451, 500 etc.  While some of these codes may indicate an error, not all of them do.  Each of the three numbers in an SMTP code has a unique meaning.  For instance, the first number tells you if your command was accepted and processed correctly. The values associated with the first digit include:
+
+1: Server accepted the command but no action has been taken yet. A confirmation message is required. Currently, this is not used.
+2: Server has completed the task successfully.
+3: Server understood the request, but for it to be processed additional information is required.
+4: Server was met with a temporary problem. If the command is attempted again without change, it may go through. This is hardly ever used.
+5: Server encountered a fatal error, meaning the command/request cannot be processed at all.
+
+The second digit in SMTP error codes provides more information:
+
+0: A syntax error has occurred.
+1: Indicates an informational reply, for example in response to a HELP request.
+2: Refers to the connection status.
+3 and 4 are unspecified.
+5: Refers to the status of the mail system as a whole and in particular the mail server.
+
+The third and final digit allows for more precise errors to be given.
+
+The list below shows the reply codes that exist, in numerical order, and can be used as a reference.
+
+- 211 – System status, or system help reply.
+- 214 – Help message, only valuable to a human reader.
+- 220 – Service ready.
+- 221 – Service is closing the transmission channel.
+- 250 – Requested mail action okay, completed. (This is what we want to see).
+- 251 – User not found locally, message will be forwarded.
+- 354 – Start email input and end with .. This is normally sent by the SMTP server after the DATA command has been sent by the client.
+- 421 – Service not available so transmission channel is being closed (this may be a reply to any command if the service knows it must shut down).
+- 450 – Requested mail action not taken, which could mean the mailbox is unavailable or busy.
+- 451 – Requested action has been aborted: local error in processing.
+- 452 – Requested action not taken due to insufficient storage on the system.
+- 500 – Syntax error whereby the command given is not recognized.
+- 501 – Syntax error in parameters or arguments.
+- 502 – Command has not been implemented.
+- 503 – Bad sequence of commands.
+- 504 – Command parameter has not been implemented.
+- 550 – Requested action not taken due to unavailable mailbox 
+(mailbox not found, no access, etc).
+- 551 – User is not local. The server then gives a forward address to try.
+- 552 – Requested email action has been aborted due to storage allocation being exceeded.
+- 553 – Requested action not taken because the mailbox name is not allowed.
+- 554 – Transaction failed.
+
+A very common error message encountered when sending emails is “550 relaying mail to user@xyz.com is not allowed” or “550 Mail Relay not allowed". This normally means that your current SMTP server has disallowed you access because you are not currently connected to the Internet through your normal ISP (you might be traveling for example). ISPs do this in order to prevent spammers from hijacking their SMTP servers. A quick and easy solution (and in most cases the only solution) is to use an SMTP server that works from anywhere in the world, such as SMTP2Go at http://smtp2go.com, which has been designed to work from any location.
+
+

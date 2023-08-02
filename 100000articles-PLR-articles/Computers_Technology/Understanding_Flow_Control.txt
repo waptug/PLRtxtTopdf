@@ -1,0 +1,28 @@
+Title: 
+Understanding Flow Control
+
+Word Count:
+319
+
+Summary:
+Flow control is done through a mechanism that will control the amount of flow of data in a network. It is done under defined conditions and is the opposite of congestion control which is used when congestion has happened. There are two types, open loop flow control and closed loop flow control.
+
+The difference in these is simple. Open loop flow control mechanism is used when there is no feedback between the transmitter and receiver. In fact this is the most popular means us...
+
+
+Keywords:
+
+
+
+Article Body:
+Flow control is done through a mechanism that will control the amount of flow of data in a network. It is done under defined conditions and is the opposite of congestion control which is used when congestion has happened. There are two types, open loop flow control and closed loop flow control.
+
+The difference in these is simple. Open loop flow control mechanism is used when there is no feedback between the transmitter and receiver. In fact this is the most popular means used. In closed loop flow control, the mechanism has the ability to report pending network congestions back and forth to the transmitter. It can adapt its activity to the network conditions.
+
+As mentioned, open loop flow is the most commonly used mechanism. But, it does have some problems as well. It has trouble when it comes to maximizing the use of ATM network resources. You will find that there is an over allocation of resources in this type of flow control. Nevertheless, this type of flow control is used thoroughly by CBR, VBR, and UBR services.
+
+Why is any of this important? Well, consider the advancements of technology and you know that there is always something new and more powerful. But, in this case, we are talking about the device that sends and the device that will receive. When the sending device is capable of sending more data than the receiving device can handle, it is necessary to use flow control to help in this. So, it is a necessary mechanism to have and utilize properly.
+
+There are many information portals now devoted to the subject and we recommend reading about it at one of these. Try googling for “flow control info” and you will be surprised by the abundance of information on the subject. Alternatively you may try looking on Yahoo, MSN or even a decent directory site, all are good sources of this information.
+
+

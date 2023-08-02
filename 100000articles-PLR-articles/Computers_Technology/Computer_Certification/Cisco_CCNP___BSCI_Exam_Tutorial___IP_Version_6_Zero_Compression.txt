@@ -1,0 +1,38 @@
+Title: 
+Cisco CCNP / BSCI Exam Tutorial:  IP Version 6 Zero Compression
+
+Word Count:
+309
+
+Summary:
+One of the hardest parts about getting started with Ipv6 is understanding the addressing scheme!  Learn the basics of zero compression from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccnp, exam, free, pass, bsci, ipv6, ip, version, 6, leading, zero, compression, address, router, switch, Bryant, chris, advantage, ccie, 12933, ccna
+
+
+Article Body:
+BSCI exam success is all part of becoming a CCNP, and part of that success is now learning the basics of IP Version 6, or IPv6.  One of the most difficult parts of learning IPv6 concepts is the radically different addressing scheme that IPv6 uses as compared to IPv4. Just look at these sample addresses:
+
+Typical IPv4 address:  129.14.12.200
+
+Typical IPv6 address:  1029:9183:81AE:0000:0000:0AC1:2143:019B
+
+As you can see, IPv6 isn't exactly just tacking two more octets onto an IPv4 address!  
+
+I haven't met too many networkers who really like typing, particularly numbers.  You'll be happy to know there are some rules that will shorten those addresses a bit, and it's a very good idea to be fluent with these rules for your exam.
+
+You remember from your CCNA studies that there's no difference between an upper-case letter and lower-case letter in hexadecimal.  That's one of three basic rules you need to know when working with IPv6 addressing. The other factors deal with all the zeroes you'll run into in IPv6 addresses!  One of these rules is the rule of zero compression.
+
+The rule of zero compression states that if an address contains consecutive fields of zeroes, they can be expressed with two colons.  It doesn't matter if you have two fields or eight, you can simply type two colons and that will represent all of them.  The key here is that you can only do this once in an IPv6 address.  This is referred to as zero compression.  Here's an example:
+
+Original format:  1234:1234:0000:0000:0000:0000:3456:3434
+
+Using zero compression: 1234:1234::3456:3434
+
+Again, you must remember that you can only do this once in an IPv6 address expression.
+
+What if there are zeroes in the address that don't quite fit this rule?  The next part of our IPv6 tutorial will deal with leading zero compression, another tool you can use to shorten these long, long addresses!
+
+

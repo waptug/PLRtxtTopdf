@@ -1,0 +1,108 @@
+Title: 
+Domain Name Transfer Information
+
+Word Count:
+738
+
+Summary:
+So you have a domain name. Now what do you do with it?
+
+Well, the obvious is to get it hosted somewhere. But how do you get it "somewhere"? How does one move their domain from one place to another?
+
+Determine where your domain name is currently hosted
+
+Domain transfers are without a doubt one of the most confusing things to a domain name owner, especially if you've never done it before and you don't have a clue as to where to start. Unfortunately it's a fact and we can'...
+
+
+Keywords:
+Domain Name Transfer Information
+
+
+Article Body:
+So you have a domain name. Now what do you do with it?
+
+Well, the obvious is to get it hosted somewhere. But how do you get it "somewhere"? How does one move their domain from one place to another?
+
+Determine where your domain name is currently hosted
+
+Domain transfers are without a doubt one of the most confusing things to a domain name owner, especially if you've never done it before and you don't have a clue as to where to start. Unfortunately it's a fact and we can't make it easy for you. But we can try to ease it up a bit.
+
+The first thing you need to do is determine where your domain name is currently hosted. To do this you must do a whois search. Go to one of the websites below:
+
+http://betterwhois.com
+http://allwhois.com
+http://completewhois
+
+For this example we will use http://betterwhois.com. Type your domain name in the text box provided.
+
+The who is database gives info about the registrant: administrative contact
+the technical contact and the billing contact, including addresses phone numbers
+and email addresses. This is available to the public.
+
+We want info about http://notreallyadomain.com for this example.
+
+This is what you will see:
+
+Domain names in the .com, .net, and .org domains can now be registered
+with many different competing registrars. Go to http://www.internic.net
+for detailed information.
+
+Domain Name: http://NOTREALLYADOMAIN.COM
+Registrar: TUCOWS, INC.
+Whois Server: http://whois.opensrs.net
+Referral URL: http://domainhelp.tucows.com
+Name Server: http://NS1.NOTREALLYANAMESERVER.NET
+Name Server: http://NS2.NOTREALLYANAMESERVER.NET
+
+Updated Date: 07-jan-2004
+Creation Date: 08-mar-1997
+Expiration Date: 08-mar-2006
+The Registry database contains ONLY .COM, .NET, .ORG, .EDU domains and
+Registrars.
+
+So, in breaking a whois search down:
+
+Domain Name-The domainname you have inquired about
+
+Registrar-The registrar the domain has been registered with
+
+Whois Server-Who is database this info was pulled from
+
+Referral URL-The URL of the Registrar -who you need to contact in order to change the domain from one name server to the other: either by physically talking to them or using control panel access.
+
+Primary Name Server-The nameserver the domain currently resides on
+
+Secondary Name Server-The nameserver the domain currently resides on
+Two nameservers are generally used: if the primary nameserver breaks then the secondary can take over the primary nameserver duties until the primary is fixed.
+
+Updated Date-When the whois record was last updated
+
+Creation Date: When the domainname was created
+
+Expiration Date: When the domain name expires
+
+This domain was registered thru an Opensrs registrar/reseller. Scan the who is database
+you will usually find the Registrar contact info. In this case the info was towards the bottom:
+
+Registration Service Provider: http://Domainmonger.com, service@domainmonger.com
++1.425-821-8032 http://www.domainmonger.com
+
+We would then go to http://www.domainmonger.com
+
+Providing we have our userid and password we could login and change our nameserver info, contact info or any number of functions.
+
+Once we have changed our name server info there is generally a propagation periodnas the internet as a whole updates with new dns information. For a new domain name, you can count on anywhere from 12 - 24 hours. For a domain name that is already in existance, and has already been moved, it can take anywhere from 12 - 72 hours. There is no definitive time, unfortunately.
+
+There have been instances of propagation taking two weeks or more.
+
+Here are some of the different Domain name registrars now available on the net.
+
+Recommendations to keep your domain name maintenence hassle-free:
+
+Never use your domain name as part of your email address on your contact email for your whois record. Use a web-based email like Yahoo or Hotmail. If you experience any kind of issue, you'll be emailed at your contact email, and if it's your domain name and it's broken, you're out of luck.
+
+Use yourself as a technical contact on your whois record. Use a second email address as well. Hosting companies do go out of business, and this could hinder your access should you want to move the domain name.
+
+Keep track of the email addresses you use as contacts, the userids and passwords. Keep track of your domain name - when you ordered it, when it expires. If you let the domain name expire, your website will not be accessible through the domain name. Keep track of any userids/passwords associated with domain name maintenence.
+
+

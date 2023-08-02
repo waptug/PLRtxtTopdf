@@ -1,0 +1,34 @@
+Title: 
+How To Keep Expired Domain Links
+
+Word Count:
+524
+
+Summary:
+Many people are now buying expired domains based on the number of backlinks or the ranking of an expired domain, only to discover that these have mysteriously disappeared a month or so later. Is it that the search engines have black listed the domain, or could you have done something at the beginning to prevent this from happening?
+
+There are several checks you should do before purchasing an expiring domain, to avoid losing all the value after you have purchased your expire...
+
+
+Keywords:
+expired domains, expiring domains, deleted domains, domains
+
+
+Article Body:
+Many people are now buying expired domains based on the number of backlinks or the ranking of an expired domain, only to discover that these have mysteriously disappeared a month or so later. Is it that the search engines have black listed the domain, or could you have done something at the beginning to prevent this from happening?
+
+There are several checks you should do before purchasing an expiring domain, to avoid losing all the value after you have purchased your expired domain.
+
+One of the main reasons that an expiring domain can look attractive is the number of backlinks, but a word of warning - sometimes search engines can treat one domain exactly the same as another - same ranking, same backlinks, same everything. This can come about as a website based on a domain name can have several other domains pointing to this same website. For example, domain.com could be the main domain name, but domain.net may also be pointing at the same website. Depending on how the domains have been set up, some search engines will treat domain.net exactly the same as domain.com.
+
+One way of finding the number of backlinks to a domain is by doing a search on a search engine using the word "link" followed by a colon and then the URL of the domain, eg link:http://www.domain.com
+
+Using our example, if you were to check domain.net and found it had thousands of backlinks and soon to expire, then you may be tempted to purchase the domain name the second it expired. Once purchased you would then go about setting up a website on your new domain expecting the visitors to be pouring in. At this point, domain.net no longer points to domain.com and so any affiliation to domain.com stops. The search engines will no longer treat domain.net the same as domain.com, but will now treat it on its own merits. This normally results on zero backlinks and no ranking. You will have lost all the benefits you hoped to gain from the domain name and need to start promoting your new website from scratch.
+
+To avoid this from happening, after you have done your link search on a search engine you should then visit several of the websites that are listed as linking to your domain and check the links are actually there. You will find that in a surprising high number of cases the links you expect to find are simply missing from these webpages. If this is the case with your chosen domain, then I would suggest ignoring this domain name and finding another.
+
+I have conducted several experiments on expired domains. If the backlinks were real and existed prior to the domain expiring, then in most cases the domain would retain its original ranking. If the backlinks were fake then within a few weeks of obtaining the expired domain all rankings were lost.
+
+There are several services on the internet that can provide data on expiring domains, and some of these include checking to see if search engine rankings are real or fake.
+
+

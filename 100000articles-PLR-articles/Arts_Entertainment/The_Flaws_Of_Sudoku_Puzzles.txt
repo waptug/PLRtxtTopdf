@@ -1,0 +1,26 @@
+Title: 
+The Flaws Of Sudoku Puzzles
+
+Word Count:
+478
+
+Summary:
+Sudoku puzzles have always boasted that it is a brain stimulating game that requires no mathematical skills. In essence, the statement is correct because a player does not really have to add numbers, columns or rows to play Sudoku puzzles.
+
+However, if we look at the game of Sudoku puzzles more closely, we can actually identify some basic reference to concepts that are of purely mathematical nature. For instance, Sudoku games usually have several blocks or squares that are ...
+
+
+Keywords:
+
+
+
+Article Body:
+Sudoku puzzles have always boasted that it is a brain stimulating game that requires no mathematical skills. In essence, the statement is correct because a player does not really have to add numbers, columns or rows to play Sudoku puzzles.
+
+However, if we look at the game of Sudoku puzzles more closely, we can actually identify some basic reference to concepts that are of purely mathematical nature. For instance, Sudoku games usually have several blocks or squares that are already filled up with certain numbers. But what if we start from a totally blank grid, meaning no given numbers at all? The question then will be how many ways can the solution be achieved given the rules set forth by the puzzle game? If we go by the simple 4 by 4 Sudoku grid, there are a total of 576 ways of arranging the numbers 1, 2, 3, 4. in a square or block presentation with each number appearing only once in every row and column. However, Frazer Jarvis of the University of Sheffield was able to come up with 88 valid arrangements for the very same grid and subsequently posted his observations on the Sudoku Programmers Forum.
+
+Clearly, logic is not the only factor at work in Sudoku puzzles. Mathematics is also a key player. Ditto with various rules. Sudoku said it only has one basic rule, but when you sit down and try to solve the puzzle, various rules as well as techniques will crop up that you can find useful as you try to uncover the enigma of the game. While Sudoku's basic rule will help in getting the correct solution, repeated application of this one basic rule can make the game one big bore. Barry Cipra, a mathematician and writer from Northfield, Minnesota, said the Sudoku rules actually have several hierarchies. These rules get more complicated as the puzzle becomes more complex as in the case of 10 by 10, 12 by 12, and 14 by 14 grids. The basic rules, Cipra said, apply only to the standard 9 by 9 grid. Higher levels of the puzzle mean more complex rules. Nevertheless, the fun begins when a player is able to discover patterns that will trigger the application of the rules
+
+The concept of Sudoku puzzles about no mathematics required is thus a bit flawed. What the game actually wants to say is that no arithmetic is really required, meaning no counting of 1, 2, 3, 4, and so on. Sudoku puzzles also say it only has one simple rule, which is, to fill in the grid with numbers ranging from 1 through 9 in such a way that every row and column will have one instance each of the said digits. Again, there is error here, because sticking too rigidly to this one simple rule will not help a player to easily solve the puzzle. Analytical methods, including the discovery of unwritten rules and tactics, are needed to see the game to its logical conclusion.
+
+

@@ -1,0 +1,38 @@
+Title: 
+Business service offerings and liquidity
+
+Word Count:
+541
+
+Summary:
+“Being all things to all people” sounds good, but in most cases it reduces the liquidity of a business.  Business liquidity encompasses the number of prospective buyers, the business valuation, and the amount of time required to market the then close the deal.
+
+
+Keywords:
+finance, mergers, acquisitions, valuations, company valuations, Internet
+
+
+Article Body:
+“Being all things to all people” sounds good, but in most cases it reduces the liquidity of a business.  Business liquidity encompasses the number of prospective buyers, the business valuation, and the amount of time required to market the then close the deal.  
+
+•	The most liquid scenario is a co-located web hosting client base, with no data center, offices, or employees, and only one owner/decision maker.  This type of business can be under contract to be sold within 48 hours.  (Post ‘Letter of Intent’ due diligence, contract preparation, integration plans etc. all take a bit of time.)
+
+•	The least liquid scenario is a web hosting company, which offers design services,   has offices, a data center, and offers related services such as access, marketing services etc.
+
+Valuation Difference:
+Something I have seen many times is the owner/decision maker on the sell side has heard web hosting company valuation formulas and wants to apply that formula to his company.  Inevitably the owner is disappointed when the offer comes up short in their mind, and passes on what actually is a fair valuation.  
+
+Design Services:
+The decision to staff up and start offering web design services to complement the pure play hosting recurring revenue is a huge decision with regards to the effect on business liquidity.  Of course design services can be a natural fit with hosting clients by helping to reduce client churn and up selling existing clients.  However, the value of the revenue and cash flow generated from one-time design jobs is no where near the value of the recurring hosting revenue and cash flow.  
+
+	Negatives of design departments when it comes time to sell:
+•	From the buyer’s perspective, acquiring the entire company and keeping the design efforts going is risky.  It’s 50/50 whether the key design people will stick around after closing … regardless what they or the seller states.  In addition, if you have to replace key people, the new staff will not have the relationships with the client base.   
+•	From the buyer’s perspective, acquiring the entire company then canceling the design efforts is usually a risky decision as well.  There are offices to deal with in addition to staff which needs to be let go … both time consuming and detrimental to the existing client base.
+•	My estimate is for every 20 buyers of a pure play hosting company, there are only 1-2 buyers for hosting design shop combo’s.  
+
+Internet Data Center:
+Investing in an IDC may increase the value of the entire company by an enormous amount over time, but definitely reduces the liquidity in the short run.  Typically smaller web host co-locate in the beginning, then at a later date acquire their own data center.  In turn, the company will then offer space to other smaller host hence creating yet another service offering. 
+
+Owning an underutilized data center reduces the number of one type of buyer … the “cash flow buyer”, yet invites a new category of buyer, the “asset and cash flow buyer”.  The later buyer is looking to both grow through acquisitions and make the swap from co-location to owning the data center.  The less remaining capacity of the data center, the more of a cash flow type deal it will be, hence usually more liquid.
+
+

@@ -1,0 +1,34 @@
+Title: 
+All About Software Engineering And Development
+
+Word Count:
+416
+
+Summary:
+Software engineering, known as SE, is the development, design, maintenance and documentation of software by applying practices and various technologies from fields such as computer science, engineering, application domains, project management, digital asset management and interface design.
+
+The conception, development and verification of a software system is what software engineering is all about. It is necessary to identify, define, realize and verify the resultant softwar...
+
+
+Keywords:
+
+
+
+Article Body:
+Software engineering, known as SE, is the development, design, maintenance and documentation of software by applying practices and various technologies from fields such as computer science, engineering, application domains, project management, digital asset management and interface design.
+
+The conception, development and verification of a software system is what software engineering is all about. It is necessary to identify, define, realize and verify the resultant software’s required characteristics. Necessary testing is required for attributes such as reliability, functionality, testability, maintainability, ease of use, availability and portability. In software engineering, software can be verified to meet these requirements by having design and technical specifications prepared and implemented correctly. The characteristics of the software development process are also important in software engineering. Development itself, development duration and risks in software development are examples of such characteristics.
+
+A computer uses software as part of its system that allows the hardware to operate properly. Software can be system software or application software. System software includes the main operating system and a variety of other utilities that enable the computer and its applications to run. Application software includes the computer programs and relevant documentation responsible for end-user data processing tasks. This kind of software is developed for such tasks as word processing, payroll, inventory and production control.
+
+Software Development
+
+A series of processes undertaken systematically to improve a business through using computerized information systems is what is known as software development. There are two major components to software development, which are systems analysis and design.
+
+Systems analysis is the specification of what exactly the system is required to do, or the main objective. Design is about how to make the system do what is required of it. For system analysis, it is required to study the current system by certain procedures in order to gather and interpret data and facts, identify any problems and use this data to improve the system currently in use. System design refers to the process of developing a new system, concentrating heavily on the technical specifications and other specifications that make the system operations.
+
+Software Development Life Cycle
+
+Software Development Life Cycle, or SDLC, is a sequence of events done by designers, analysts and users to develop and execute an information system. There are a number of stages to this practice, which can overlap. The stages are Preliminary investigation (which is feasibility study), Determination of system requirements (which is analysis), Design of system, Development of software, System testing, System Implementation and System Maintenance in that order.
+
+

@@ -1,0 +1,34 @@
+Title: 
+Deleting A File Doesn't Mean It's Deleted Forever So How Do You Securely Erase Data From A Computer?
+
+Word Count:
+514
+
+Summary:
+It is a common misconception of PC users that once they have dropped a file into the recycle bin and emptied it that that is it, the file is gone for good.
+
+Wrong!
+
+All that happens when you erase a file by either deleting it or putting it into the trash, is that Windows has been told not to recognize the file so you do not see it when you open a folder or your desktop. In fact, it is not erased at all, the data is still there on your hard drive and it will remain there u...
+
+
+Keywords:
+wipe file,wipe disk space,wipe pc,it security,computer,security,privacy
+
+
+Article Body:
+It is a common misconception of PC users that once they have dropped a file into the recycle bin and emptied it that that is it, the file is gone for good.
+
+Wrong!
+
+All that happens when you erase a file by either deleting it or putting it into the trash, is that Windows has been told not to recognize the file so you do not see it when you open a folder or your desktop. In fact, it is not erased at all, the data is still there on your hard drive and it will remain there until the information is over written by some other file or data. Knowing where to look will also lead a snooper to those places in the Windows operating system that a casual user would not normally know about or think to look such as temporary documents or temporary internet files and the cache.
+
+The issue is how do we get rid of files and information that allows you to have a degree of confidence and security that the data has been erased forever?
+
+This becomes particularly acute when you are looking at recycling or trashing an old computer as many people are currently doing with the Windows Vista upgrading that is happening at the moment. Handing over a PC to the local school, charity or selling it on becomes fraught if you have data lurking their that can easily be recovered by a free file recovery program downloaded from the hundreds freely available on the internet. Imagine your credit card information, banking passwords or personal information such as family photographs being recovered in a matter of seconds from your machine?
+
+Your first stop is the internet and simply putting file recovery freeware as a search string in your search engine will throw up a lot of utilities that you can feely use. PCInspector is a good example but there are many more, and here is an overview of the features you can expect. PCInspector will recover deleted files of a wide variety and not just Windows files such as Word, PowerPoint or Excel. You can recover html, xhtml, gif, avi, mp3 files and many more.
+
+Moving onto the commercially available software, Stompsoft have a good range of file recovery software as well as an extremely good file erase package that has been certified to meet the US Department of Defense sanitation standard for data erasure. Typically, the commercial software tends to retail at around the $20-$30 mark but if you are serious about your PC security this is a small price to pay. Commercial software does tend to offer more features than freeware and to be frank, the support you get with commercial software does tend to make the price worthwhile as in many cases you will be looking to use a file delete utility prior to ridding yourself of the PC. Once the machine has gone you are not going to get the chance to go back and repeat a file erase utility in this instance so you need to get it right the first time.
+
+

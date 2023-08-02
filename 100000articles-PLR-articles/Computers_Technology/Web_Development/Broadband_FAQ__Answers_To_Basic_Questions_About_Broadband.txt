@@ -1,0 +1,54 @@
+Title: 
+Broadband FAQ: Answers To Basic Questions About Broadband
+
+Word Count:
+536
+
+Summary:
+* What is broadband?
+
+In the internet world, broadband refers to the process of sending and receiving information at very high speeds through a connection that is always on. With broadband access there is always a corresponding usage fee.
+
+Broadband access also means that you can surf to any website you want faster than with a dial-up process, as web pages load more quickly. Broadband internet can give you the advantage in accessing better quality multimedia files like mu...
+
+
+Keywords:
+broadband, internet, DSL, cable, ADSL, IDSL, HDSL, SDSL
+
+
+Article Body:
+* What is broadband?
+
+In the internet world, broadband refers to the process of sending and receiving information at very high speeds through a connection that is always on. With broadband access there is always a corresponding usage fee.
+
+Broadband access also means that you can surf to any website you want faster than with a dial-up process, as web pages load more quickly. Broadband internet can give you the advantage in accessing better quality multimedia files like music and movies. Downloading programs, files, and email attachments with broadband can be done in minutes instead of hours.
+
+
+* What are the different types of broadband?
+
+There are different types of broadband internet access available but they depend on the location of the subscriber. The most commonly used form of broadband access is the ADSL or asymmetric digital subscriber line. Other types of broadband access are cable modem, satellite, and wireless.
+
+
+* What is DSL?
+
+DSL stands for Digital Subscriber Line, which refers to the kind of technology that uses ordinary phone lines to send and receive information over the internet at higher frequency than normal phone usage. A DSL connection can handle both the data and the voice signals at the same time. Therefore your phone service is not interrupted when you use the internet.
+
+DSL connection speeds depend on the distance between the subscriber and the provider. DSL technologies have two major types: ADSL internet access requires a fast downstream connection but slow upstream connection, and Symmetric DSL requires high speed connections in both directions.
+
+
+* What is cable?
+
+A cable is used in broadband services and refers to the transfer of internet access to subscribers by cable television. Usually, a cable is made up of bundles of different optical fibers that can carry larger amounts of data than telephone line over long distances without affecting signal frequencies.
+
+
+* What are ADSL, IDSL, HDSL, and SDSL?
+
+ADSL stands for Asymmetric Digital Subscriber Line, which has a data rate that ranges from 544 kbps up to 6.1 Mbps in downstream basis, while in upstream basis it goes from about 16 up to 640 Kbps. The distance limit of ADSL for 1.544 Mbps is about 18,000 feet, for 2.048 Mbps is 16,000 feet, for 6.312 is 12,000 feet, and for 8.448 is 9,000 feet. Normally, ADSL is used for internet access, downloading music and video, and local area networking.
+
+IDSL or ISDN Digital Subscriber Line is somewhat an application of a wrong name of DSL modem since DSL is familiar to ISDN information rate and services that to about 144 Kbps. IDSL with its symmetric function is best when traveling up to 6 miles; however, IDSL is not supplied by ADSL providers. With similarity to ISDN, the data increases to 144 kbps by sing control channels.
+
+HDSL or High bit-rate Digital Subscriber Line is the first version of DSL that will be used for wideband transmission within the business place and between communication providers and subscribers. The main feature of HDSL is its symmetrical function, in which the same quantity of bandwidth is accessible in both directions.
+
+SDSL or Symmetric Digital Subscriber Line is the same as HDSL; however, it only has a single line that carries 1.544 Mbps in the U.S. and Canada or 2.048 Mbps in Europe, that flow in each direction on the duplex line.
+
+

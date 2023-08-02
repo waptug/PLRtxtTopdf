@@ -1,0 +1,68 @@
+Title: 
+Get To Know The Components Of The Keyboard
+
+Word Count:
+700
+
+Summary:
+Your computer use output devices such as your Monitor to send data to the computer user.This same user must also use input devices to send data to the computer.
+
+Even though you won't open your keyboard to make any repairs other than to unstuck a stuck key or replace a broken retainer,its a good idea to study every part of your keyboard. If you're blessed enough to have an extra keyboard, take the time to open the case and study each component in great detail.
+
+Some of th...
+
+
+Keywords:
+computer repair,computer upgrades,computer training,software
+
+
+Article Body:
+Your computer use output devices such as your Monitor to send data to the computer user.This same user must also use input devices to send data to the computer.
+
+Even though you won't open your keyboard to make any repairs other than to unstuck a stuck key or replace a broken retainer,its a good idea to study every part of your keyboard. If you're blessed enough to have an extra keyboard, take the time to open the case and study each component in great detail.
+
+Some of the special features of newer keyboards are that they can be Cordless and is often used with such devices as the cordless Mouse.Special keyboards may be used when the user may want have the freedom of movement. The average user will have very little use for the cordless keyboard or mouse.
+
+The keyboard come in layouts which refer to how to keys are arranged.The Alphanumeric Key layout are the letters, numbers,and symbols.This is the most commonly used type the keyboard layout. The QWERTY Layout is the most popular Alphanumeric layout
+
+The keyboard must have power to operate and it get this power from the motherboard.The operation of led indicators let you know the keyboard is receiving power.
+
+Use the right rool,usually a screwdriver to open the case and study the components inside.You will not replace these components but it will boost your understanding of computers when you know every part of every device in your computer.
+
+THE KEYBOARD CASE
+
+Yea,I know,this is going to be exciting to discuss. While there is nothing much to discuss about the case of the keyboard,we don't want to cut corners.
+
+You may have to help someone with their ailing keyboard so you want to be on your toes. With that in mind,let's get hyped up as we begin our keyboard case discussion.
+
+Ready,the keyboard case is almost always plastic. I told you this would be exciting.This case holds the keycaps,the internal controller and other chips.
+
+Keyboard LED Indicators will have a set of three LED indicators. They are used to display the current operation of the keyboard. NUM LOCK, CAPS LOCK,and SCROLL LOCK are the three standard led indications found on most keyboards.
+
+The most popular keys such as the Enter Key and the Space Bar will get used often.These keys may be the ones that will need to be replaced.The springs or clips underneath may give in to wear and tear over time.
+
+INSIDE THE KEYBOARD
+
+As the CPU is the brains of your computer,the brains of your keyboard is the circuitry inside.These circuits and chips process the operation of every keystroke.
+
+The keyboard has its own Microprocessor and ROM or Read Only Memory that the micropressor use to transfer data.
+
+Some keyboards are programmable and uses the EEPROM or Electrically Erasable Programmable Memory, which holds data,acting like a very small hard drive.
+
+CABLES AND CONNECTIONS
+
+Wired keyboards will have a cable that connects to the rear of the computer through a serial connector. There are two types of keyboard connectors.The large 5-DIN connector or Deutsche Industrie Norm was used on the first systems up to the mid 1990s.
+
+The smaller 6-DIN was made by IBM for the PS/2 and later model computers.Each pin provides a special function to transfer data to the computer.
+
+INSTALLING THE KEYBOARD
+
+Unless you've invested in one of those super duper special featured keyboards which will reqiure the installation of software,you simply connect the keyboard to the rear of your computer.
+
+When the system is booted up,the new keyboard will be recognized and you're on your way.Notice the Led indicator lights to verify the keyboard is receiving power.
+
+And that's it.The functions of the keyboard can even be replaced if you have Windows XP.Special features help you should your keyboard decide it want to quit.www.ultimatepcrepair.com/photos.html is where to see all components of your computer.
+
+Gather as much information and data about your system now,while it is still running smoothly.Prepare for computer breakdown before it happens.
+
+

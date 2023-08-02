@@ -1,0 +1,26 @@
+The Quiet Explosion of Cell Phone Limitation Technologies
+
+It is no secret that the explosion of functionality the world of cellular communications is nothing short of phenomenal.  Scarcely a month goes by when something new is added what people can do with their cell phones.  Now cell phones can take pictures, keep your calendar, let you send text messages or emails, surf the internet and do virtually everything except make the toast and burp the baby.  But along with the technological revolution in what cell phones can do, there is another quieter revolution that has as its objective the opposite goal, to stop cell phones from doing what they can do.
+
+It stands to reason when a technology as pervasive as cell phone communications enables virtually every man, woman and child to communicate to virtually anyone virtually anywhere that at some point there would be a need for some controls.  That need has become more and more compelling when it comes to certain types of facilities where it is not only undesirable for cell phones to be operative but in some cases downright dangerous.  Some outstanding examples of where you do NOT want cell phones operational are…
+
+§	Prisons where inmates can use them to plan illegal activities.
+§	Federal buildings to protect classified areas and to restrict terrorist activity.
+§	Religious buildings such as mosques where cell phones can disrupt the ceremonies.
+§	Banks and financial institutions where cell phones could be used for robberies or for terrorism.
+§	Theaters and music halls where you want cell phones turned off during the performance.
+§	Hospitals or airplanes where the operation of cell phones can disrupt machinery.
+
+The problem with securing a building from cell phone operation is that putting up a sign that cell phones should be in use is not getting the job done.  The phones can still be on and used as a homing device or create disruption to sensitive equipment.  So to be effective, the facility needs to have cell phone blocking technology in place to stop the operation of every cell phone that comes inside that facility for the time it is there and then returns operation to that device as soon as it passes out of the facility area.
+
+This is a tough challenge and the technologies that have been developed for the most part bring as many problems as they solve.  There are basically three solutions to the problem.
+
+1.	Alarming.  A device is put in place that can detect the signals coming from user’s cell phones.  When the signal is detected, alarms go off to alert the user that the cell phone should be disabled.  The problem is that this is not that much better than a sign on the wall informing people that cell phones are not allowed.  It depends on compliance and the user can easily turn the phone right back on once inside.
+
+2.	Disruption.  Otherwise known as jamming simply sends out a disruptive signal to jam the cell phone while in the facility.  Jamming is destructive to machinery, dangerous to people and animals and in many countries, illegal to use.
+
+3.	Distraction.  This approach detects the signal that the cell phone is sending to the tower to be recognized and sends a false signal back to the phone so it is distracted and thinks it is in communication with the tower when it is in fact off line.  No calls can come to the phone because the tower doesn’t know its there and no calls can be made because the phone isn’t actually on line.
+
+Of the three, distraction has the best chance of solving the problem permanently.  The business trend to look out for is the rapid expansion of any company that uses the distraction method for cell phone management.  That will be the business that thrives in this market.
+
+PPPPP 645

@@ -1,0 +1,26 @@
+Title: 
+An Understanding Of Moore’s Law
+
+Word Count:
+406
+
+Summary:
+It's plain to see that the computing speed found in the personal computers of today has been steadily picking up steam since the market began. Many wonder when our technology will begin to taper off, but according to a man named Gordon Moore, we're only beginning to tap the potential of what we can do with our computer systems.
+
+Gordon Moore was a co-founder of the popular Intel brand. Aside from this substantial title, Moore is most commonly known due to his assertion of w...
+
+
+Keywords:
+Moore’s Law, Computers, Science, computing speed
+
+
+Article Body:
+It's plain to see that the computing speed found in the personal computers of today has been steadily picking up steam since the market began. Many wonder when our technology will begin to taper off, but according to a man named Gordon Moore, we're only beginning to tap the potential of what we can do with our computer systems.
+
+Gordon Moore was a co-founder of the popular Intel brand. Aside from this substantial title, Moore is most commonly known due to his assertion of what became known as Moore's law. In the April, 1965 issue of Electronics Magazine, Moore put forth his beliefs about semiconductors:
+
+"The complexity for minimum component costs has increased at a rate of roughly a factor of two per year ... Certainly over the short term this rate can be expected to continue, if not to increase. Over the longer term, the rate of increase is a bit more uncertain, although there is no reason to believe it will not remain nearly constant for at least 10 years. That means by 1975, the number of components per integrated circuit for minimum cost will be 65,000. I believe that such a large circuit can be built on a single wafer."
+
+Surely, when he said it, Moore had no idea how significant his assertion was. The statement was taken to heart by a Caltech professor by the name of Carver Mead, who dubbed the belief "Moore's Law". In 1975, Moore stated that he believed his equation would continue to hold true, save the fact that it would take 2 years for a doubling of the computing power. His statement was made based off of what he had seen in the market so far and what he predicted it to do. Making the announcement may have actually helped to push computer scientists to follow and achieve the goal throughout the years. Clearly, the manufacturers have been meeting that goal. Questions arise, however, about the theory's validity in the coming years. Moore himself has stated that the size of the transistors that we are building cannot get much smaller unless we figure out a significant method of changing the process. He still believes that we will continue to progress for the next 10 to 20 years at the same rate, but is curious as to where computing can go from there. At Moore's rate, it would place machines capable of processing 100 gigahertz of information per second in our houses as soon as 10 years from now.
+
+

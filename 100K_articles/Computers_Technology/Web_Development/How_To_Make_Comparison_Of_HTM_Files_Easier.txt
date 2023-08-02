@@ -1,0 +1,28 @@
+Title: 
+How To Make Comparison Of HTM Files Easier
+
+Word Count:
+500
+
+Summary:
+HTML is a widely used markup language for indexing and modifying the content on the web pages. This helps to organize the structure of the text-based information by ordering the whole content as headings, paragraphs, lists, numbered etc. HTML also describes to a large extent the semantics of the text and also has the scope to include embedded scripting language code. HTML terminology also refers to the content of the MIME type text or as XML derived language form.
+
+The proc...
+
+
+Keywords:
+compare HTML files,web page comparison,compare html
+
+
+Article Body:
+HTML is a widely used markup language for indexing and modifying the content on the web pages. This helps to organize the structure of the text-based information by ordering the whole content as headings, paragraphs, lists, numbered etc. HTML also describes to a large extent the semantics of the text and also has the scope to include embedded scripting language code. HTML terminology also refers to the content of the MIME type text or as XML derived language form.
+
+The process of file comparison comprises of comparing of data between different files that are a part of the file system. The main aim of the file comparison is to assist the user in performing several tasks related to networks, file systems and quality control operations. Programs known as 'diff' and 'cmp' implement this task. The approach used in various file comparison techniques is different depending on the technique adopted by the programmer. HTML - Hyper Text Markup Language is language that is used to write the textual portion of a web page.
+
+The comparison of HTML files can be done as means of ASCII content files. The content text editors like Notepad or Simple Text are used to frame HTML files/documents. The frequent process of modifying the web page content can be achieved by means of file comparison. Some examples of file comparison programs comprise of Microsoft File Compare and FileMerge. Some file comparison utilities utilize the longest common subsequence and some use longest increasing subsequence between the files. The HTML file comparison tool compares the two web pages and highlights the differences in the content with respect to the modifications, deletions and additions. The interface to guide through the process of file comparing is quite user friendly and provides frequent and easily navigable options for the same.
+
+The working of the HTML file comparison is marked by an organized step-by-step methodology. The first step involves selection of the file which has to be compared. Afterwards, depending upon on the size of the HTML file, the comparison process takes the requisite time to operate. The end result involves a summary report of the comparison performed. The original web page is displayed along with the deleted, modified and new files. The command line interface also implements the function of file comparison by executing the HTML compare.
+
+The HTML file comparison works on the same lines as that of word processor's revision tracking feature. The similarity to 'diff' incorporates the features of highlighting any modifications in the existing file compared to other file(s). Some well-designed software utilities also enable viewing visual differences between the HTML files in the actual browser window. The fact that the differences in the files are clearly shown and also marked vividly makes the process of HTML file comparison a powerful tool to regulate and elevate the standard of content on various web pages. The File comparison tools also display the HTML code of each file in a side-by-side layout and highlight the changes in different colors.
+
+

@@ -1,0 +1,34 @@
+Title: 
+Choosing The Right DC Power Supply For Your Application
+
+Word Count:
+563
+
+Summary:
+The DC Power Supply is a rather fundamental electronic device, however there are hundreds of DC Power Supply products on the market from dozen of manufacturers. Narrowing down the best product for your application and budget can be a daunting task. This article addresses DC Power Supply differentiators, functions and the applications they are best suited for. The article’s focus is DC Power Supplies used by engineers, manufacturers, quality professionals and electronic hobbyi...
+
+
+Keywords:
+DC Power Supply, DC Power Supplies
+
+
+Article Body:
+The DC Power Supply is a rather fundamental electronic device, however there are hundreds of DC Power Supply products on the market from dozen of manufacturers. Narrowing down the best product for your application and budget can be a daunting task. This article addresses DC Power Supply differentiators, functions and the applications they are best suited for. The article’s focus is DC Power Supplies used by engineers, manufacturers, quality professionals and electronic hobbyists for the purposes of R&D, manufacturing and testing.
+
+Power Supplies can range in price from $50 to $20,000 and the cost is often directly proportional to the amount of power the device outputs. The primary function of a power supply is to regulate output voltage and current. It takes an input power and regulates the output power as to enforce a constant voltage and current. In the case of DC Power Supplies, the input power is converted from alternating current (AC) to direct current (DC). There are two basic types of regulated DC Power Supplies: Linear and Switching.
+
+Linear power supplies can never output a higher voltage than the input source. In theory, a linear power supply that is driven by typical 110V wall outlet could only output 110V, assuming the device were 100% efficient. Realistically, no power supply is 100% efficient because power conversion always results in energy loss, usually in the form of heat dissipation. Therefore, linear power supplies usually output voltage that is significantly less than the input.
+
+Switching power supplies can step-up, step-down or invert the input voltage. Switching power supplies are usually larger, noisier and more expensive than their linear counterparts, however, switching power supplies are typically more efficient.
+
+Choosing the right DC power supply for your application requires definition of some basic design specifications: voltage range, current range, number of outputs, power cleanliness (known as “ripple”) and programmability. In general, the higher the output voltage and the lower the ripple, the more expensive the DC Power Supply. Multiple outputs and programmability features will also add to the cost.
+
+The least expensive DC Power Supplies are ideal for electronics hobbyists and basic electro-mechanical applications where only raw power is required. It is likely that the devices being powered in these applications already have power-conditioning features that eliminate the need for precision input power. Low power, single output, DC power supplies range in price from $50 to $200.
+
+Mid-range power supplies are best suited for non-critical, laboratory projects involving more advanced electro-mechanical applications or basic board-level testing. Mid-range power supplies might have multiple outputs, higher power ratings, lower ripple and precision, digital metering (+/- .001V, +/- .01A). Mid-range DC power supplies can be linear or switching and could range in price from $200 to $1,000.
+
+High-end applications requiring high output voltage, advanced programmability (GPIB PC Interfaces), numerous outputs and very low ripple should budget in excess of $1,000 for their DC power supply. Many laboratory, R&D and testing applications could easily spend $5,000 to $10,000 per power supply.
+
+This article has introduced some basic features and applications of DC Power Supplies. Before making your final purchase, be sure to consult the manufacturer and thoroughly understand all the specifications of a particular product. Choosing the best and most economical DC Power Supply for your application does not have to be a complex and time-consuming task. By identifying your design parameters, you will quickly narrow down product selection to niche class of products from only a few manufacturers.
+
+

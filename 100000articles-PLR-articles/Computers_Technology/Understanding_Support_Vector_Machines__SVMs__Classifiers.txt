@@ -1,0 +1,44 @@
+Title: 
+Understanding Support Vector Machines (SVMs) Classifiers
+
+Word Count:
+1001
+
+Summary:
+The past couple of years witnessed the increased applications of statistical methods in different fields and for different purposes. These differences made the deficiencies of the existing methods apparent. However, it was not until the Internet became a hit in 1990 that the dissatisfaction with the then current statistical methods considerably grew since the methods are proving to be more and more disadvantageous. This eventually incited the diligent search for a more innova...
+
+
+Keywords:
+technology, support vector machines, internet
+
+
+Article Body:
+The past couple of years witnessed the increased applications of statistical methods in different fields and for different purposes. These differences made the deficiencies of the existing methods apparent. However, it was not until the Internet became a hit in 1990 that the dissatisfaction with the then current statistical methods considerably grew since the methods are proving to be more and more disadvantageous. This eventually incited the diligent search for a more innovative statistical approach that can be used in classifying large amounts of information.
+
+In the early 1990s, Vladimir Vapnik along with a group of other mathematicians and scientists developed a new statistical approach that is more efficient particularly in dealing with large classification problems. This new approach was called “Support Vector Machines” (SVM).
+
+What are Support Vector Machines you ask? This is a mathematical procedure that makes it possible to teach a computer to classify large amounts of data. The results are said to be more reliable compared to using the old statistical methods. A support vector machine is an approach for building functions from a set of labeled training data.
+
+To fully understand how a support vector machine works, it is imperative to also understand some basic factors first. Classification is normally associated with training and testing data that is made of certain data instances. Each instance in the training set hold one "target value" (class labels) and numerous "attributes" (features). The main objective of a support vector machine is to create a model that calculates target value of data instances in the testing set that are only given to attributes.
+
+A support vector machine has two main functions. The first one is that it can be a classification function (wherein the output is binary: while the input is in a category). Meanwhile, the second function is that it can simply be a general regression function.
+
+With regards to the classification function of support vector machines, it basically works by searching a hyper surface in the space of possible inputs. This hyper surface will then try to split the positive examples from the negative ones. The split will be selected to have the largest distance from the hyper surface to the nearest of the positive and negative examples. Naturally, this would make the classification accurate for testing data that is near, though a slightly different from the training data. There are numerous ways to train support vector machines and the simplest and fastest method is called “Sequential Minimal Optimization.”
+
+The output of a support vector machine is of an irregular value, and not a subsequent prospect of a class given an input. However, there are recently created algorithms that could map support vector machine outputs into posterior probabilities.
+
+Support vector machines classifier are powerful tools, specifically designed to solve large-scale classification problems that are often encountered when classifying text. For instance if you look in a one of the document that belongs to a large group of documents that is actually a related set, if you consider all the words found in the entire set, you will find more words missing from the document compare to the number of words found in the document. This is classification problem is called the sparse data matrix. Classification problems such as large number of documents along with a large number of words and the sparse data matrix, needs a classification engine that can obtain a much faster and more efficient result.
+
+As with everything else in the market, support vector machine classifier can also be obtained from the Internet nowadays. A quick search in the net will provide you with a various system and method that could help you build fast and efficient support vector machine classifiers that are suitable for different problems, particularly ones that are related to large data classification problems such as classifying pages from the Internet as well as other problems related with sparse matrices and large numbers of documents. Though most method may differ in their make up, they have one common factor and that is all of them utilize a technique called the "kernel trick" in order to apply linear classification techniques to non-linear classification problems.
+
+There are some methods that impose upon the least squares nature of such problems, and use the exact line search in its customary process then uses the conjugate gradient method that is suitable to the problem.
+
+However, support vector machines are not without its share of drawbacks. One problem in support vector machine classifier is the lack of computer memory that are needed for support vector machine handling of the data normally caused by text-intensive problems like the ones found in classifying large numbers of text pages found on the Internet.
+
+One solution that has enhanced the ability of computers to learn to classify such data is called “chunking”. Chunking refers to the process wherein the problem is broken down into more convenient pieces that are within the means of the available computer resources. Examples of chunking decomposition techniques used to decrease such problems for support vector machines are the SMO and SVM Light.
+
+However, there is one disadvantage here though. The speed improvement is only moderate, particularly for designing classifiers like the ones needed for web pages that usually contain the largest and most difficult text problems. Keep in mind that speed is imperative. Therefore a support vector machine classifier design that is considerably faster and with a precision that corresponds to the existing classifier engines is needed in order to decrease the training time of support vector machines.
+
+Regardless of the occasional drawbacks, a support vector machine classifier is still a tremendously powerful method of acquiring models for classification. It provides a mechanism for selecting the model structure in a natural approach that offers a low margin for error and risks. Support vector machines classifier has truly become significant tools in today’s modern society. Is it any wonder why mathematicians and scientists alike are still continuously searching for new ways to further improve these new learning machines?
+
+

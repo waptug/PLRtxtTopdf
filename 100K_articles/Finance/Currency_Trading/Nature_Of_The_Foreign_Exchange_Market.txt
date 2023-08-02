@@ -1,0 +1,32 @@
+Title: 
+Nature Of The Foreign Exchange Market
+
+Word Count:
+316
+
+Summary:
+The Foreign Exchange Market is an over-the-counter (OTC) market, which means that there is no central exchange and clearing house where orders are matched. With different levels of access, currencies are traded in different market makers:
+
+The Inter-bank Market - Large commercial banks trade with each other through the Electronic Brokerage System (EBS). Banks will make their quotes available in this market only to those banks with which they trade. This market is not direct...
+
+
+Keywords:
+forex, currency, trading, technical analysis
+
+
+Article Body:
+The Foreign Exchange Market is an over-the-counter (OTC) market, which means that there is no central exchange and clearing house where orders are matched. With different levels of access, currencies are traded in different market makers:
+
+The Inter-bank Market - Large commercial banks trade with each other through the Electronic Brokerage System (EBS). Banks will make their quotes available in this market only to those banks with which they trade. This market is not directly accessible to retail traders.
+
+The Online Market Maker - Retail traders can access the FX market through online market makers that trade primarily out of the US and the UK. These market makers typically have a relationship with several banks on EBS; the larger the trading volume of the market maker, the more relationships it likely has.
+
+Market Hours
+
+Forex is a market that trades actively as long as there are banks open in one of the major financial centers of the world. This is effectively from the beginning of Monday morning in Tokyo until the afternoon of Friday in New York. In terms of GMT, the trading week occurs from Sunday night until Friday night, or roughly 5 days, 24 hours per day.
+
+Price Reporting Trading Volume
+
+Unlike many other markets, there is no consolidated tape in Forex, and trading prices and volume are not reported. It is, indeed, possible for trades to occur simultaneously at different prices between different parties in the market. Good pricing through a market maker depends on that market maker being closely tied to the larger market. Pricing is usually relatively close between market makers, however, and the main difference between Forex and other markets is that there is no data on the volume that has been traded in any given time frame or at any given price. Open interest and even volume on currency futures can be used as a proxy, but they are by no means perfect.
+
+

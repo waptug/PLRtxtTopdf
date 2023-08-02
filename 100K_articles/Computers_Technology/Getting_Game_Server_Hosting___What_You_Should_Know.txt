@@ -1,0 +1,36 @@
+Title: 
+Getting Game Server Hosting – What You Should Know
+
+Word Count:
+318
+
+Summary:
+Game server hosting is a specialized version of internet hosting, designed to for gamers to use to play games via the internet.
+
+Usually, gamers use a piece of software called a game client to connect to the game server. Many individual game clients may be connected to a game server at once.
+
+There are actually two basic types of gamer servers – listen servers and dedicated servers. Listen servers are mostly used by individual players. For example, you might use a listen ...
+
+
+Keywords:
+games,game server,game hosting
+
+
+Article Body:
+Game server hosting is a specialized version of internet hosting, designed to for gamers to use to play games via the internet.
+
+Usually, gamers use a piece of software called a game client to connect to the game server. Many individual game clients may be connected to a game server at once.
+
+There are actually two basic types of gamer servers – listen servers and dedicated servers. Listen servers are mostly used by individual players. For example, you might use a listen server at a LAN party.
+
+Dedicated servers are generally setup on a remote server (i.e. The server is not in the same locality as the gamers). Usually, this server will be part of a data center, which is a facility which contains many servers for various purposes.
+
+Maintaining a dedicated game server can be very expensive, as a game server usually will require large amounts of bandwidth. (Bandwidth, also called data transfer, is a measure of the amount of data that comes and goes from the server.)
+
+Sometimes a gaming clan will collectively pay for a game server for their use, but often times the best way to get access to a dedicated server is to pay for access. There are many Game Server Providers
+
+Game Server hosting may also come with extra features, such as voice capability. Ventrilo is a good example of this. Ventrilo is a voice communications system that gamers can use to communicate between themselves. Using a headset with microphone, game players can communicate, plan strategies, etc, without taking the time to type.
+
+Another interesting feature available to you with some game server hosting providers is advanced stats. With this feature, you can get advanced statistics on every player on your server. Some servers even allow you to use Google Maps to pinpoint where each user is from, or view a map showing the location of all the players on your server.
+
+

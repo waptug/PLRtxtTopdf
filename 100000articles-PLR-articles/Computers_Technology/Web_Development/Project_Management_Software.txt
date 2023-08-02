@@ -1,0 +1,59 @@
+Title: 
+Project Management Software
+
+Word Count:
+589
+
+Summary:
+Project management software exists in many different levels of sofistication and variety of prices. This article aims to help project managers realize what kind of project management software tools they need and find out how computers can help them in everyday routine.
+
+Before choosing some particular tool you should have a look at the different kinds of projects to manage and corresponding PM skills. It is very important to pick a project management software tool appropria...
+
+
+Keywords:
+project management, planning
+
+
+Article Body:
+Project management software exists in many different levels of sofistication and variety of prices. This article aims to help project managers realize what kind of project management software tools they need and find out how computers can help them in everyday routine.
+
+Before choosing some particular tool you should have a look at the different kinds of projects to manage and corresponding PM skills. It is very important to pick a project management software tool appropriate for you and your organization. The following types of projects and project management software should cover the field broadly, though any categorization is very relative.
+
+Project management software for small projects, usually in single functional area
+
+At this level project managers usually plan and schedule only durations of project subtasks rather than resource capacity or work estimates. They do not need to track a project budget and their project status reports contain only completion date tracking.
+
+Project management software in this situation helps project managers to automate such basic routines like
+
+* planning project flow
+* occasional status reports preparing
+* producing Gantt charts
+
+If your project management tasks are not intended to grow and such functionality is enough, you should not spend a lot of money nor waste your time on long learning curve about features you’ll never use.
+
+Project management software for managing larger projects
+
+Project budget is very important now, therefore we need a project management tool to give us the capability to estimate resources and money at every stage of the project. As more people are getting involved in the project, software should provide the ability to create numerous status reports - from simple total project cost to more sophisticated ones.
+
+As the size of the project grows, the number of project management techniques increases. Requirements for project management software change accordingly. At this level project management software must be able to work not only with the static representation of start and finish dates for each project subroutines, but it needs to be powerful enough to simulate the project and reschedule it every time something changes in project flow.
+
+Project management software for huge multi-project environment
+
+At this high-end level we need project management software that meets a lot of additional requirements. Now we need to roll-up multiple projects and require consistent information for decision-makers. Among the features they need are:
+
+* material resources allocating (including finances)
+* scheduling and tracking a pool of human resources
+* sharing resources between multiple projects
+* sophisticated risk assessment tools
+* detailed project performance tracking
+* creating a detailed project budget. This brings project management software closer to the company’s accounting system
+
+If you need a lot, you have to spend a lot. Project management software for this purpose costs from $400 up to $3000 and even more. Such packages usually have network versions and team communication capabilities.
+
+Categorization above was rather comprehensive over the last years. But modern project management reality changes constantly, therefore we can talk about one more project management software category.
+
+Project management software for managing multiple projects in small and mid-size businesses
+
+It often happens that project managers face the need to manage multiple projects simultaneously, using resources that can be shared between them. But they do not need a huge and extremely expensive project management software tool with thousands of not really needed features. What should they choose? ConceptDraw Project can be the answer. It is a cross-platform (Mac OS X and Windows) project management software tool that allows the project manager to automate project routines - from planning and assigning resources to powerful report generating capabilities
+
+

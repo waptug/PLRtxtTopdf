@@ -1,0 +1,44 @@
+Title: 
+Cisco CCNP / BSCI Certification:  The Local Preference BGP Attribute
+
+Word Count:
+345
+
+Summary:
+Learn how to master the use of the BGP attribute Local Preference and pass the BSCI exam in this free tutorial from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccnp, pass, free, exam, certification, bsci, ccna, bgp, local, preference, attribute, path, chris, Bryant, advantage, weight, routing, egp
+
+
+Article Body:
+When studying for your BSCI exam for the CCNP, you get your first taste of BGP.  One of the major differences between BGP and the other protocols you've studied to date is that BGP uses attributes to describe paths, and to influence the selection of one path over the other.
+
+In this free tutorial, we're going to take a look at the Local Preference attribute and compare it to the Cisco-proprietary BGP attribute "weight".
+
+The Local Preference (LOCAL_PREF) attribute is used to influence how traffic will flow from one Autonomous System (AS) to another when multiple paths exist.  For example, if AS 100 has two different paths to a destination network in AS 200, the LOCAL_PREF attribute can be used to influence the path selection.
+
+The major difference between the Weight and LOCAL_PREF attributes is that when the LOCAL_PREF attribute is changed, that change is reflected throughout the AS.  The new LOCAL_PREF value will be advertised to all other routers in the AS, as compared to the Weight attribute, which is locally significant only.  If you change the Weight for a path on one router in an AS, the other routers in the AS will not learn of the change.
+
+A route-map can be used to change a local preference value.  For example, if you want to change the local preference value to 200 for the path advertisement 10.2.2.0/24 coming in from neighbor 10.1.1.1, there are three steps involved.  First, write an ACL matching the remote network you want to change the local preference for.
+
+R1(config)#access-list 5 permit 10.2.2.0 0.0.0.255
+
+Second, write a route-map setting the local preference to 200.  This will double the default value of 100, and the path with the highest local preference will be the preferred path.
+
+R1(config)#route-map PREFER_PATH permit 10
+
+R1(config-route-map)#match ip address 5
+
+R1(config-route-map)#set local-pref 200
+
+Finally, apply the route-map to routes that are being received from 10.1.1.1.
+
+R1(config)#router bgp 100
+
+R1(config-router)#network 10.1.1.1 route-map PREFER_PATH in
+
+R1 will then advertise this new local preference value to all other routers in AS 100 - all of its iBGP neighbors.
+
+

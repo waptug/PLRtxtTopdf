@@ -1,0 +1,54 @@
+Title: 
+Futures Option Spreads – Delta Neutral Trading
+
+Word Count:
+668
+
+Summary:
+There are many ways to trade futures option spreads. One way is to trade spreads that can profit from time decay. You can sell options which you believe will lose more time value than the options you buy. 
+
+Another way is to buy and sell options based on their deltas. Some of these trades are called delta neutral trades. Delta neutral trades are option trades in which the total delta of all the options is Zero. At the money options have a delta of 50. 
+
+If you buy an at t...
+
+
+Keywords:
+futures options, commodity options, futures trading
+
+
+Article Body:
+There are many ways to trade futures option spreads. One way is to trade spreads that can profit from time decay. You can sell options which you believe will lose more time value than the options you buy. 
+
+Another way is to buy and sell options based on their deltas. Some of these trades are called delta neutral trades. Delta neutral trades are option trades in which the total delta of all the options is Zero. At the money options have a delta of 50. 
+
+If you buy an at the money call, you will have a 
+delta of +50. 
+
+If you sell an at the money call, you will have a 
+delta of -50. 
+
+If you buy an at the money put, you will have a 
+delta of -50. 
+
+If you sell an at the money put, you will have a 
+delta of +50. 
+
+Basically, the deltas will be determined by where you want the market to go. Think of it this way: If you sold an at the money call option, where would you want the market to move to? You would like it to go lower. So, you would have a delta of -50. 
+
+If you look at most at the money options, you will find that they are usually not at 50. That is because they are not exactly at the money. We still refer to these as the at the money options because they are the ones that are the closest to being there. It might have a delta of 47 or 53. 
+
+If you purchased one at the money call and one at the money put, you would be delta neutral. The call will have +50 deltas and the put will have -50 deltas. The total is zero. This is a very simple delta neutral trade. 
+
+Another delta neutral trade is a ratio back spread. An example of this trade would be to sell an option that is at the money and buy a greater number of out of the money options. You might sell one call option at the money (delta -50) and buy 2 call options out of the money (delta +25 each). You would be delta neutral. You would want to put this on for a credit or at even. You can also put it on for a debit but then you would care a little about market direction. 
+
+If you put it on for a credit or even money and the market was lower at expiration of the options, you would break even or earn a small credit. If you put it on for a debit, you would lose the debit amount if the market was lower at expiration of the options. In either case, if the market went sharply higher, you have a chance for unlimited profit, because you have purchased more options than you sold. 
+
+Most traders teach that ratio back spreads should be done in the far months only. This is because you have more time to be correct with a big move. The problem that I have found is that you are giving up too much for the time advantage. The options you buy out of the money are not priced at an advantage compared to the ones at the money. You can look at the theta to see how much each option will lose per day or per week. 
+
+You can also see that in order to have a lot of time left in the trade, the difference in strike prices between the option you sell and the options you buy are too much. It will take a bigger move before you have unlimited profit potential. 
+
+If you are expecting a big move, think differently than the norm and start to look at options that have 20 -40 days left. The options you buy compared to the options you sell, should be priced better. Everything is in relation to something else. 
+
+So the next time you hear someone recommending the same old ratio back spreads, take a look at the difference months to see where the real advantage is.
+
+

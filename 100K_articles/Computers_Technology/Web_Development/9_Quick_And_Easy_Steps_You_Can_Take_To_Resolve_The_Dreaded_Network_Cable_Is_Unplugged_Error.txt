@@ -1,0 +1,72 @@
+Title: 
+9 Quick And Easy Steps You Can Take To Resolve The Dreaded Network Cable Is Unplugged Error
+
+Word Count:
+1015
+
+Summary:
+I am sure you have gotten one of the most annoying errors in existence which is the Network Cable is unplugged error. I will cover the reasons for this error as well as how to quickly solve it in 9 easy steps. I will be as descriptive as possible. That’s just the way I roll.
+
+The most common home configuration is a home router with your computer plugged into it. A router is the little box your internet service provider gave you when you subscribed to their internet service....
+
+
+Keywords:
+network cable is unplugged, network error, network problem, network trouble
+
+
+Article Body:
+I am sure you have gotten one of the most annoying errors in existence which is the Network Cable is unplugged error. I will cover the reasons for this error as well as how to quickly solve it in 9 easy steps. I will be as descriptive as possible. That’s just the way I roll.
+
+The most common home configuration is a home router with your computer plugged into it. A router is the little box your internet service provider gave you when you subscribed to their internet service.
+
+A router has ports in it which resemble telephone ports only they are bigger. A network cable can also be called an RJ-45 cable, LAN cable, Cat5 cable, or straight through cable. So next time you pick one of these puppies you will know what to ask for.
+
+Fix for about 75% of the Network Cable is Unplugged error messages.
+
+Make certain that your network cable is plugged into a port on the router securely. Often I unplug it and replug it in until I hear a little click then I know I am good to go. You would be amazed at how many times that fixes your problem. The next thing to do is reboot the computer.
+
+If this does not fix it just follow the 9 steps below.
+
+9 Troubleshooting Steps to Resolve the network cable is unplugged error.
+
+9 troubleshooting steps I go through to determine the source of the problem and resolve it, often within minutes.
+
+1.Make sure you can see two lights on around the network cable.
+
+On the computer side follow the network cable into your network card which is usually on the back of your computer. The port looks like an oversized telephone port. Notice there are 2 lights on either side of the port. If it is functioning correctly you will see the lights around the cable. The color of the lights will vary but you will definitely be able to notice when it lights up, trust me.
+
+2. Make certain the network cable is plugged in securely to the computer.
+
+If there are no flashing lights there is a problem. But before we go any further make certain the cable is plugged in securely. Just unplug the network cable and plug it in until you hear a click. Did the lights around the cable on the network card come on? If so reboot and you should be good to go. If not read on.
+
+3. Check the router side.
+
+Remember the router is the device that the internet service provider gave you when they setup your account. If you are not sure what the router looks like or where it is contact your service provider. There should be a light on the router where your network cable plugs into it. Check to determine if the network cable from your computer is plugged into the router? If not plug it in. Does the light where the network cable connects come on? If so rejoice and reboot your computer. You should be good to go.
+
+4. Make certain there is power going to the router.
+
+If it is plugged in and there are no lights check and make certain the router is powered up.You should see at the very least a power light. If there is no power then power it up. Does the light where the network cable connects come on? If so reboot and you should be good to go. If the light where the network cable connects doesn’t come on check the cable to make sure it is in securely. Once again just unplug the network cable and plug it back in until you hear a click. Does the light where the network cable connects come on? If so reboot and you should be good to go.
+
+5. Try to get the internet.
+
+If the network card lights are on and the router light where the network cable connects is on try to go to a web page. If you cannot get there then contact your service provider. The service provider is the person who you get your internet service from. Just get an old bill, look them up in the phone book or get on the internet. Tell them what is going on and what you have done to troubleshoot the problem. Also make certain they are not going to charge you for anything prior to talking to them. They shouldn’t especially because in this circumstance it is most likely a result of their equipment or network. Although service providers almost never will admit fault.
+
+6. Make sure both devices are powered up.
+
+If neither light is on. Try a new network cable. If you need to go to the store ask for a Category 5 straight through network cable (most folks just call them Cat 5 cables). Reboot the computer and the router. Believe it or not sometimes that solves everything.
+
+7. Contact the service provider.
+
+If it still doesn't work call your service provider and have them check the router remotely to see if they can fix it. Once again make sure they are not going to charge you.
+
+8. Make certain your network card is functioning.
+
+If the service provider checks your connection and they claim the router is fine the only thing left is a broken network card or a broken router. Since the router is tested by the ISP they will probably send someone out if they cannot see it. Make sure they don't charge you for this service though.
+
+9. Replace the network card.
+
+If your computer is under warranty call the computer manufacturer and tell them what troubleshooting you did and that you think it is a network card. If you are not covered under warranty you can crack open the case in the pc or laptop and replace or add a card. If you are not comfortable you can buy RJ45 interfaces that fit into a usb slot or pcmcia slot.
+
+Anyway I think I covered everything you need to know to fix the network cable is unplugged error. If you have any additional questions please contact me. Thanks.
+
+

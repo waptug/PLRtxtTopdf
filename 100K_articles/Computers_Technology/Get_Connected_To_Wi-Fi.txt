@@ -1,0 +1,42 @@
+Title: 
+Get Connected To Wi-Fi
+
+Word Count:
+542
+
+Summary:
+Wi-Fi, short for wireless fidelity refers to a set of wireless networking technologies more specifically referred to as any type of 802.11 network, 802.11b and 802.11a, dual band. The word Wi-Fi was built by an organization called the Wi-Fi Alliance. They overlook tests that confirm the production. 
+
+A product that undergoes the alliance analyses is given the name “Wi-Fi certified”. In earlier times, the term “Wi-Fi” was used only in place of the 2.4 GHz 802.11b.standard. I...
+
+
+Keywords:
+wifi, wireless lan, wlan
+
+
+Article Body:
+Wi-Fi, short for wireless fidelity refers to a set of wireless networking technologies more specifically referred to as any type of 802.11 network, 802.11b and 802.11a, dual band. The word Wi-Fi was built by an organization called the Wi-Fi Alliance. They overlook tests that confirm the production. 
+
+A product that undergoes the alliance analyses is given the name “Wi-Fi certified”. In earlier times, the term “Wi-Fi” was used only in place of the 2.4 GHz 802.11b.standard. It rapidly gained in fame with access points across the Unites States. 
+
+These standards are generally in used around the world, and allow users that have Wifi capable device, like a laptop or PDA to connect anywhere there is available Wi-Fi access point.
+
+There are three standards referred to signify the speed of connection. Both the 802.11a and 802.11b are the ones capable of 54 MBPS with 802.11a additional capabilities. 
+
+802.11b are the most common of the three standards because it can transmit at 11 Megabits per Second even though the faster WI-Fi standards are quickly changing it. However, all these Wi-Fi standards are fast enough to generally allow a broadband connection. 
+
+Wireless Fidelity is an appearing technology that will probably be as common as electric outlets and phone lines in a few years. It adds great levels of convenience and high level of production for workers whose offices have a Wi-Fi access. 
+
+It is intentionally planned to be use for wireless devices but is now often used for Internet access. You can connect computers anywhere, in or out your home or office without needing wires. They are just connected to the network that uses radio signals. Even travelers can progressively equip Wi-Fi in airports, coffee shops, Internet cafes, malls, and hotels around the world.
+
+How does W-Fi work?
+
+Wi-Fi is the wireless way to handle networking. Wi-Fi allocates a worldwide Internet connection to be transmitted through radio waves. Radio waves are the ones that make Wi-Fi run and exist. They permit Wi-Fi networking occurs between many people. These waves are transmitted from antennae and Wi-Fi receivers are picking them up. The moment a device receives signal within the range of a Wi-Fi network, an Internet connection is produced without a chord and with the use of a Wi-Fi card that reads the signal. The user will be incited with login screen and password if needed once the connection is established between the user and the network. 
+
+How secure is Wi-Fi? 
+
+Wi-Fi maintains and continues to have numerous security issues. Wired Equivalent Privacy (WEP) is used in the physical and data link layers. It was planned to provide wireless security by protecting the data while it travels from one point to the other. Contrasting with the wired LANs, their networks are usually inside the building. 
+
+Even if it is protected by wireless LANs, they are more exposed due to the fact that the data travels over radio waves which are much easier to capture. One of the reasons why WEP is vulnerable, some other corporations do not even change their shared keys for a long time. The keys are too long to be used. With that much time, the key can get into other hands and use it in a wrong motive, which could be disastrous for the corporation.
+
+

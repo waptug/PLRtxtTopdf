@@ -1,0 +1,77 @@
+Title: 
+Option Pricing with Better Trades
+
+Word Count:
+1554
+
+Summary:
+Option pricing is a mystery to most traders. They struggle to comprehend terms like implied  and historical volatility or intrinsic and time value, or the "Greeks" (Delta, vega, theta,  gamma, rho…). These terms are intimidating and my experience suggests that at least half the  folks you hear talking about them do not really understand very much about them.
+
+
+Keywords:
+better trades, bettertrades, investing, investments, finance
+
+
+Article Body:
+Option pricing is a mystery to most traders. They struggle to comprehend terms like implied and historical volatility or intrinsic and time value, or the "Greeks" (Delta, vega, theta, gamma, rho…). These terms are intimidating and my experience suggests that at least half the folks you hear talking about them do not really understand very much about them. It is important to at least be intellectually honest about it and know what you don't know. It is also a good idea to debunk your vocabulary and get what you do know (or think you know) right. And because it is easy to get a head ache from trying to read and comprehend the myriad of equations and models generated from minds of multi-degreed scholars speaking a language only they seem to understand, it is comforting to know you do not have to learn a whole lot about the technical math soup. It is however, mandatory that you gain some working skills in how to recognize and flow with the option prices or you will get whipsawed and shredded by them.
+
+It is not unlike the engineering, manufacturing, physics and computer technology that goes into a modern car. Any 10 year old can start it and drive down the road or off a cliff. The skill to use it correctly is mandatory but the technical wizardry to understand and construct it is not.
+
+So option pricing must be understood in order to trade with any consistency. One major point is that option pricing is not static or consistent. The pricing structure is a moving target because the interaction of the market and the Market Makers constantly adjust the pricing.
+
+Price comes from the floor… Models come from laboratories and do not dictate where the price will go. Rather, they try to predict it.
+
+Historically, the idea of options is not new. Ancient Romans, Grecians, and Phoenicians traded options against outgoing cargoes from their local seaports. Modern techniques derive their impetus from a formal history dating back to 1877.
+
+    * 1877- Charles Castelli wrote a book entitled The Theory of Options in Stocks and Shares.
+    * 1900- Louis Bachelier is recognized for the earliest known analytical valuation for options. His work interested a professor at MIT named Paul Samuelson.
+    * 1955- Samuelson wrote an unpublished paper titled, "Brownian Motion in the Stock Market."
+    * 1956- A. James Boness wrote, "A Theory and Measurement of Stock Option Value". His work served as a precursor to that of Fischer Black and Myron Scholes.
+    * 1969-1973- Fischer Black and Myron Scholes introduced their landmark option pricing model
+
+No one discovered the "mother lode" but rather successive scholars added to the work of predecessors. Black and Scholes were noted with the Nobel Prize because of their leap forward and the remarkable accuracy of their model. Since 1973, other scholars have expanded the Black and Scholes Option Pricing Model.
+
+    * 1973- Robert Merton relaxed the assumption of no dividends.
+    * 1976- Jonathan Ingerson went one step further and relaxed the assumption of no taxes or transaction costs.
+    * 1976- Merton removed the restriction of constant interest rates. The results of this evolution are alarmingly accurate valuation models for stock options.
+
+Ok, you think that is boring you should read some of the papers and equations (I have and it was not fun).
+
+Modern option pricing techniques are among the most mathematically complex of all applied areas of finance but they have reached the point where they can calculate, with alarming accuracy. Most of the models and techniques employed today are rooted in the Black and Scholes model. One notable major advance is the Cox, Ross, Rubenstein binomial model widely used in more volatile stocks. In fact the brainiacs currently have 7-9 different models out there trying to out do each other. Here is the basic idea…
+
+Option Pricing Model: A mathematical model is used to calculate the theoretical or fair value of an option. Inputs to option pricing models typically include:
+
+    * the price of the underlying instrument (stock): Fixed
+    * the option strike price: Fixed
+    * the time remaining till the expiration date: Fixed
+    * the volatility of the stock: Fixed
+    * the risk-free interest rate (e.g., the Treasury Bill interest rate): Fixed
+
+The historical accuracy of the prediction is quite good but short term variations to the price models can and do "Kill" traders on a regular basis. In the long run the models are cool but they are THEORECTICAL and subject to CHANGE!!!!! The difficulty is that the vast majority of option traders do not have the knowledge or even the viewpoint to see the variation when they come. Nor are they able to reflect anomalies in the price structure when they look at an option chain to get a price.
+
+This is one of the reasons I so dislike Prescriptive Option Strategies. The prescription dictates how to make the trade. It dictates buy/sell, strike price and which month. Well that's just fine if the market stays constant and the price structure does not move. Ok… so "hey market, I am going to trade now… could you please just stay calm and act really normal and don't do anything rash until I am through? Thanks, that would be real nice of you." Somehow I don't think it works that way. The real problem with most option traders is that they don't know what they don't know.
+
+For example; today, with the stock at support and moving up it may or may not be a good idea to buy a call option. It may or may not be a good idea to trade the In the Money strike price. It may or may not be a good idea to trade the next month out. The pricing composition will reveal hidden potholes if you can read it. If the prescription can work, great! But if the pricing landscape is significantly off, you may have a prescription for disaster. Ignorance may be bliss but it is expensive.
+
+Market Makers
+
+One major area of misunderstanding is market makers. The market maker takes a risk by pricing and selling an option. The response by the market to the offering causes the market maker to make adjustments to the price. They have two goals… make as many traders as possible and try to make some money on most of the trades. They have two tools to try and make this work; the bid / ask spread and the cost of time. The market maker is taking the risk by entering into a contract with risk. They lay off that risk ASAP by either buying the same option (sell a 45 call and buy a 45 call) or buying stock to deliver in case of exercise. They neutralize their risk and collect a small premium for the transaction. If the buying and/or selling pressure, (coming from brokers and/or traders) starts to change they respond by pricing to meet the market action. They don't know you, or stock you. They need you and don't care if you make money or not. They just want your order flow. Many myths abound about market makers and you need to understand them and their motives. (See last newsletter: "Those Darn Market Makers")
+
+Volatility
+
+Option pricing is most sensitive to volatility. The theoretical option price is derived using a historical volatility, usually 12 months. The model pricing reflects that time frame. Short term option trading and pricing is being done in an environment that is subject to current market whims and conditions.
+
+The current climate can be very volatile and the long-term picture can be quite stable. That throws the pricing model off dramatically, but it is a tip to savvy traders. If the short term is more volatile than the historical, the prices will be pumped up and become expensive and unstable. Extra time value is pumped temporarily into the option to reflect the current conditions (higher perceived volatility). If the price action calms down or stabilizes, the "Fluff" can be drawn back out very quickly. For example, rising prices calm the market and reduce fear and volatility. The typical option trader does not see this and then feels violated and cheated when their stock moves in the direction of their trade and they don't get the expected profit in the option. The market breathes a sigh and the volatility shrinks taking their profit with it.
+
+An irony in the discrepancy between theoretical/fair value and the actual price is that the actual price is feeding the 12 month volatility and constantly adjusting it. Today's erratic volatility will be smoothed into the ongoing, ever-adjusting, 12-month moving volatility number.
+
+Next newsletter, I will introduce the X Factor Options Trading Graph and show you how to put all this stuff into a picture format. Pictures are easy to digest a lot of data (e.g. stock charts). My students often say, "Trading options without X Factor is like trading stocks without a chart".
+
+Options can seem simple as long as you don't learn too much. But they can seem overwhelming if you try to learn too much. There is a happy medium. The ten year old does not have to become a manufacturer to start the car, but he does need some practice and maturing to get behind the wheel. Stay tuned.
+
+See you in the free web seminars and I hope to see you in my "Trades Forge" 2-day trading camp.
+
+
+Ryan Litchfield with Better Trades
+
+

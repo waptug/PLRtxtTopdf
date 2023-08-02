@@ -1,0 +1,40 @@
+Title: 
+4 Things Web Analytics Can Teach You - What Your Traffic’s Telling You
+
+Word Count:
+454
+
+Summary:
+Brick-and-mortar stores often change displays, move goods around, and put impulse items beside checkouts. The reason behind these changes is they’re analyzing customer traffic and studying behavioral patterns to understand how consumers shop. As an online retailer, you need to study your customer traffic as well in order to increase sales.
+
+Listen: Your Customers Are Talking
+
+There are a number of web traffic analytics companies, such as http://OneStat.com and http://Stat...
+
+
+Keywords:
+
+
+
+Article Body:
+Brick-and-mortar stores often change displays, move goods around, and put impulse items beside checkouts. The reason behind these changes is they’re analyzing customer traffic and studying behavioral patterns to understand how consumers shop. As an online retailer, you need to study your customer traffic as well in order to increase sales.
+
+Listen: Your Customers Are Talking
+
+There are a number of web traffic analytics companies, such as http://OneStat.com and http://StatCounter.com, that analyze your customers’ shopping patterns. They follow your customers’ clicks to and through your web pages and provide you with valuable info on how your customers experience your website:
+
+1. You see which keywords bring you, not only the most hits, but also the highest conversion rates. People often find the generic words they use bring them a great deal of traffic, but that traffic averages a shorter stay on the site. The longer people spend on your site, the more likely they are to buy something. Analyzing that data allows you to see which keywords are effective for you.
+
+2. You see the average amount of time users spend on your site. Due to latent conversion, this is a good indicator of how business will be in the coming months. If your users are taking their time, looking at things carefully, that tells you they’re really interested and will likely come back to complete the transaction.
+
+3. You see if your traffic’s leaving as soon as they hit your landing page—if they are, you know you have a problem. As soon as users get there, you want to reinforce to them they’re in the right place. Says John Marshall, founder and CEO of http://ClickTracks.com, “Make sure the keyword the user clicked is associated with, and strongly connected to the copy in that landing page, and throughout the experience… Just paying attention to that could probably get you a 20% to 50% improvement in your conversion rate.”
+
+4. You see where people are exiting your site. This is especially important when you have customers leaving in the middle of checkout. If you see a high rate of users, with full shopping carts, leaving on a particular page, you can pinpoint what’s costing you sales:
+
+• If they’re exiting on the page where you explain shipping costs, you might see your shipping appears higher than your competitors’.
+
+• If they’re leaving halfway through filling out the buyer’s information, you might consider that your buyer questionnaire’s too long.
+
+Web analytics puts you in a position to see what’s working on your website and what isn’t. It’s a way to see where you need to make changes and then measure how effective those changes are.
+
+

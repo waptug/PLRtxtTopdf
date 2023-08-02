@@ -1,0 +1,14 @@
+Switching to a New ISP Provider
+
+What do you do when an ISP providers’ level of service has decreased or the provider has just closed shop? You don’t panic; all you have to do is switch to a new provider. If you know how these ISP services work, then switching over to a new provider will not be as rough or bad as you think. All it takes is having a contingency plan.
+
+There are two components to internet ISP services which include the physical network connection to your SOHO or small office and the connection to network services so you can retrieve email or look at a web-site. Most SOHO businesses, no matter how big or small, will have network integration. This is also called a Wide Area Network. The connection through the network allows you to physically connect to the internet to look at web pages, use instant messaging or manage email accounts or use your email account.
+
+This wide area network connects your computers to the internet. The services that you get out of the network depend on your network configuration. Again, the type of internet service you get should depend on what’s available in your area and how much bandwidth you need for business applications to be run or developing server side applications for your hosting account.
+
+Many people rely on their own mail server or Web-site on their network, while many other business owners rely on their outside hosting providers. 
+
+You should also look at the types of access that you want. Should you consider keeping the same kind of bandwidth, downgrade or upgrade according to company needs? Right now, the hottest access going is DSL transmissions because it uses existing phone wires or cable modem. Cable and Broadband similarities are the same depending on what part of the country that you live in. Any choice that you make is going to be driven by price and availability.
+
+
+

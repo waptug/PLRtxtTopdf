@@ -1,0 +1,32 @@
+Title: 
+Cisco Memory Can Help Stretch Your IT Budget
+
+Word Count:
+501
+
+Summary:
+It makes financial sense to maximize the efficiency of your current network through upgrades, rather than to purchase completely new systems. Here's why.
+
+
+Keywords:
+GBIC, SFP, GLC, GBICs, GBIC modules, Cisco approved memory, third party memory, Cisco hardware, cisc
+
+
+Article Body:
+It's always difficult for a company to plan for future growth. Whether yours is a small- to medium-sized business or a large, global enterprise, many growth challenges remain the same. When it comes to your computer network, for example, you may feel like you need a crystal ball to determine how to prepare for your company's future needs while not spending money needlessly. Often, the question boils down to whether to buy new Cisco hardware or to upgrade your existing equipment with, say, additional Cisco memory. 
+
+Although no single solution fits every enterprise, more often than not it makes financial sense to maximize the efficiency of your current network through upgrades, rather than to purchase completely new systems. Buying a new system is not only a huge financial commitment, but it also typically results in system downtime, debugging, and retraining. Often, you can accomplish your goals through upgrading your existing network while minimizing downtime and stretching your IT budget. 
+
+Even the best in-house IT departments aren't always on the leading edge when it comes to system upgrades. That's why it's a good idea - and a sound investment - to consult with experts who can assist you in determining the current capacity of your equipment. If they have a thorough understanding of memory compatibility and knowledge of Cisco hardware topography, they can then look at your growth targets and make recommendations to achieve network goals in a way that is both cost-efficient and time-efficient. 
+
+There are a number of ways to increase network efficiency without purchasing new equipment. For example, a gigabit interface converter (GBIC) is a cornerstone of high-speed networking. GBIC modules are both economical and easy to install, and can quickly upgrade a network. Essentially, installing GBICs means that you don't have to replace entire boards, and can give you the option of upgrading one, several, or all system modules. 
+
+Similarly, a small form-factor pluggable (SFP) module is a type of transceiver that can be easily upgraded without having to turn off the network. With speeds of up to five gigabits per second, GLC SFPs are a robust network growth solution. 
+
+When it comes to selecting a partner to help you analyze your network needs, make sure to choose a company that is both experienced and reliable. For example, the company should be a leading provider of Cisco-approved memory and third-party memory, and should have a client roster that includes Fortune 500 companies, educational institutions, and governmental departments and agencies. 
+
+You should also look for a company that has Cisco memory in stock, and that the memory they provide is application tested, shipped quickly, and is accompanied by a lifetime warranty. Moreover, the company should have an advance replacement policy, so you can be assured that your network will never be down due to problems with memory. 
+
+Remember that, when it comes to your company's growth, spending money on new equipment isn't necessarily the wisest choice. Maximizing your existing system just may free up the resources you need to overtake your competition.
+
+

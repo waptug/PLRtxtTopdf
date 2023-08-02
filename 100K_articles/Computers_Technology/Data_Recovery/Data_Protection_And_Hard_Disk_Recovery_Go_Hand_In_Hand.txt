@@ -1,0 +1,48 @@
+Title: 
+Data Protection And Hard Disk Recovery Go Hand In Hand
+
+Word Count:
+608
+
+Summary:
+When it comes to hard disk recovery, the best method is to insure that you will never need it. Besides making frequent backups, the following measures will keep your system running smoothly. 
+
+Antivirus Protection
+
+New viruses are invented every day, and system security is a concern for every business. Malicious software can damage your system to the point where it will not even boot up. The latest versions of Windows are the favorite targets of malicious programs such as...
+
+
+Keywords:
+data protection,data recovery, hard disk crash
+
+
+Article Body:
+When it comes to hard disk recovery, the best method is to insure that you will never need it. Besides making frequent backups, the following measures will keep your system running smoothly. 
+
+Antivirus Protection
+
+New viruses are invented every day, and system security is a concern for every business. Malicious software can damage your system to the point where it will not even boot up. The latest versions of Windows are the favorite targets of malicious programs such as spyware and viruses, and it is helpful to use 2 or more antivirus/anti-spyware programs to prevent destruction or theft of your data.
+
+Spyware Scanner
+
+The clues that spyware is on a computer include a barrage of pop-up ads, a hijacked browser,a sudden or even repeated change of your computer’s Internet home page, the appearance of a new toolbar or new screen icons, malfunctioning keys, random error messages, and most of all, sluggish computer performance. Any sytem with access to the internet is prone to this problem, but there is software to block spyware installation. In addition, make sure all employees using the office network do not download from unknown sites, and set your internet browser security at "Medium" or higher. Install individual firewalls to prevent uninvited users from accessing your network. A firewall blocks unauthorized access to your computer and will alert you if spyware already on your computer is sending information out. Purchase an anti-spyware program from a vendor you know and trust. Set it to read on a regular basis, at least weekly and if possible each time you run your computer. Delete any programs the anti-spyware program detects on your computer.
+
+Computer Maintenance
+
+The best way to avoid having to use file recovery software is to be sure that no corrupt data is stored on your computer. Companies like Norton sell disk optimization programs keep your network running at top speed, correct problem files and maximize the available space on your hard disk. Run disk optimization and anti-virus programs at least once a week.
+
+Hard Disk Recovery
+
+There are disk recovery applications specifically geared to recovering files of a certain format, like graphics files as opposed to word document files, and there are general-purpose programs to hunt for any type of misplaced file regardless of the format. There is no program on the market that can guarantee recovery of every lost file, but you are able to increase your chances for recovery by selecting the appropriate program for the file you are trying to save.
+
+Do-it-yourself programs are a lot less expensive than hiring a data retrieval company that specializes in information recovery, and to save money you should at least attempt to utilize of this type of program before calling a professional.
+
+In addition to recovering deleted files, there exists information recovery programs that can restore files after you have formatted the drive, after a power failure, natural disaster, or even files damaged by a computer virus.
+
+RAID
+
+RAID is short for Redundant Array of Independent (or Inexpensive) Disks, a category of disk drives that employ 2 or even several drives in combination to improve data storage fault tolerance and performance. RAID disk drives are frequently installed on servers but can also run on individual computers. Because of the duplication of data, it is possible to recover files from one or another disk when the need arises.
+ 
+As you might expect, RAID disk repair is quite a complicated process. However it is one of the most foolproof methods of data storage because the RAID architecture strategically distributes information randomly across the array. However, this sort of architecture demands the services of a recovery professional.
+
+

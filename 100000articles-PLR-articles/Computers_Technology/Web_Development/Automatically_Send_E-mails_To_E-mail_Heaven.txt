@@ -1,0 +1,50 @@
+Title: 
+Automatically Send E-mails To E-mail Heaven
+
+Word Count:
+473
+
+Summary:
+If you remember last week at AME Computers weekly computer tips we talked about automatically backing up email messages that you consider important enough to back up, and how you can easily send those emails to removal media such as a CD or DVD.
+
+This week we will talked about those spam emails that you do not even want to read and waste time opening. Just the simple fact you open an email can tell the spammer that your email address is live and well and that is all they ne...
+
+
+Keywords:
+
+
+
+Article Body:
+If you remember last week at AME Computers weekly computer tips we talked about automatically backing up email messages that you consider important enough to back up, and how you can easily send those emails to removal media such as a CD or DVD.
+
+This week we will talked about those spam emails that you do not even want to read and waste time opening. Just the simple fact you open an email can tell the spammer that your email address is live and well and that is all they need to keep spamming you. And worst yet if you try to reply thru the “unsubscribe” link that even verifies you email address as active to even give the bad guys more of a reason to keep sending you spam.
+
+One surefire way to keep spammers at bay is to never reveal your real email address. Stop scratching your head and thinking how you not give your real email address. Well it’s very simple, unless it is your bank or and organization the your completely trust with your email address like for example AME Computers, give whoever is asking for the address a Yahoo or Hotmail address, and let Yahoo and MSN worry about the spam all you have to do is check once a month to keep it active and if you get spam, there is a lot less pain involved in having your real email address get on a spammers list.
+
+Ok so let’s get back to the title of this weeks computer tip. There are two advantages to automatically deleting messages one they arrive in your inbox.
+
+1. Accidentally opening something that may cause your computer harm, and verify your email address.
+
+2. You spend a lot less filtering thru your email for messages that you want to read and messages you don’t really care for.
+
+These instructions are for Outlook Express. We use Outlook Express because it comes free with Windows and right it is the most popular free email program.
+
+1. Start your Outlook Express email program
+
+2. Click Tools then Click on Message Rules.
+
+3. A window opens that is tile Message Rules, over in the right hand side click on New
+
+4. Select the conditions that meet the criteria for the message that you want to automatically delete. The first option “Where the From line contains people” usually works best.
+
+5. Click on “contains people” in the last box the Rules Descriptions field.
+
+6. A new window will open titled Select People. Enter the email address that you want to vanquish.
+
+7. The click Add over on the right side. Then click OK and that window will close.
+
+8. One more step, in the Select Action for your Rule filed click the box that says Delete it from server. Click Ok your done.
+
+Just remember how power full this rule is. Have Fun!
+
+

@@ -1,0 +1,42 @@
+Title: 
+Computer Virus Repair
+
+Word Count:
+517
+
+Summary:
+Viruses happen. They've been around for years and unfortunately that doesn't look like changing. They sneak up on you when you least expect them and when your computer defenses are weak. What happens when you need to do a computer virus repair?
+
+Of course, you should be running up to date anti virus software at all times. But since anti virus software involves both computers and software writers, that can be easier said than done. If there's a loophole in a software program...
+
+
+Keywords:
+antivirus, software, virus, virus repair
+
+
+Article Body:
+Viruses happen. They've been around for years and unfortunately that doesn't look like changing. They sneak up on you when you least expect them and when your computer defenses are weak. What happens when you need to do a computer virus repair?
+
+Of course, you should be running up to date anti virus software at all times. But since anti virus software involves both computers and software writers, that can be easier said than done. If there's a loophole in a software program, you can bet that a virus writer will exploit it quicker than the software writer can patch the hole.
+
+Even if you have all your anti virus defenses in place, occasionally a virus will still slip through the net - maybe a scheduled update fails, perhaps the anti virus software company launches a new version that causes your current program to stop getting updates or you've just plain ignored the "you need to update" messages. Whatever the reason, it's irritating when your computer gets taken over by a malicious virus.
+
+So, if you've caught a computer virus, just what do you need to do when you need to perform a virus repair on your computer?
+
+If you're not already running an up to date virus removal program, install one now. Most of the programs around can cure most viruses for you when they detect that you've got a problem. If you've got a boot sector virus you may not be so lucky, but otherwise there's a good chance that they can help.
+
+Unplug your network and internet cables. These will stop your computer from causing damage on your network or to unknown computer users across the internet. Also remember to disconnect your infected computer from your home wireless network before you cause any damage there. There'll be a little icon (probably at the bottom of your screen) that should allow you to do this. Otherwise you'll need to delve around in your Control Panel.
+
+Once your computer is safely isolated, run your anti virus program, following any virus disinfection prompts as they appear. If you're one of the few people in the world who don't have an anti-virus program on your computer, you'll obviously need to download and install a program before you can run this step of the process.
+
+Once that's been done, reconnect your internet connection and if necessary update your anti virus software with the latest virus signatures and then re-run the software. This should trap anything that has crept through your defenses whilst you were running the first virus scan.
+
+With luck, you've now repaired any virus infection you may have had.
+
+Next, make sure you keep it that way.
+
+Get Windows Security Center to advise you when there problems with your virus repair software. If you're running XP or Vista, you'll find the Security Center in your Control Panel (or just search Help and it will point you in the right direction).
+
+Check your virus repair software settings. Make sure that the virus signatures are regularly updated so that you keep any potential future infection safely out of harms way.
+
+

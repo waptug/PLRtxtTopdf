@@ -1,0 +1,56 @@
+Title: 
+Are computer viruses  spread by the media?
+
+Word Count:
+832
+
+Summary:
+Summary: Could the mass media hype about computer viruses actually make the problem worse? 
+
+If you believe what you hear in the media, there are an awful lot of viruses going around. No, I'm not talking about the make-you-sick kind of virus, though they get plenty of airtime, too. I'm talking about the kind of virus that enters via your internet connection rather than your nasal passages.
+
+
+Keywords:
+computer , computer tips
+
+
+Article Body:
+If you believe what you hear in the media, there are an awful lot of viruses going around. No, I'm not talking about the make-you-sick kind of virus, though they get plenty of airtime, too. I'm talking about the kind of virus that enters via your internet connection rather than your nasal passages. 
+
+What the mainstream media often don't tell you--at least, in most radio and television newscasts and in the crucial headlines and opening paragraphs of newspaper articles-- is that many of these "viruses" are not viruses at all. 
+
+What Computer Viruses Really Are 
+
+The main reason the mainstream media always are in alarm over viruses is that they tend to call any malicious computer program a virus. In reality, there are at least eleven distinct types of malicious software, or malware, commonly affecting computers today. The most common of these are worms, Trojans, and spyware. 
+
+So, what's the difference between computer viruses and the other types of malware? The difference is that computer viruses are just about the only ones that regularly shut down computers and cause other obvious damage. The most common of the other kinds of malware--worms, Trojans, and spyware--are usually only detectable with a special scan. 
+
+The Real Danger of Computer Viruses 
+
+If the other types of malware are so unobtrusive that they can only be detected with a special scan, then what's to worry about? For starters, these programs are called malicious for a reason: they are designed to cause some kind of damage, if not to your computer, then to someone else's. 
+
+Worms are most famously used to damage, destroy, or disrupt other computer networks than the one on which the host computer is located. For instance, worms have been used by website owners to shut down rival websites by sending overwhelming numbers of requests to the computer that hosts that website. Worms have also been used to send out viruses to other computers, often without infecting the host machine--after all, what would it benefit the worm to shut down its host computer? 
+
+Trojans, in turn, are often used to insert worms and other malware on your computer, even if the Trojan itself does no damage. 
+
+But even if you don't care what happens to anyone else, you should still be concerned about one kind of malware: spyware, a kind of malware that, true to its name, collects data from your computer and sends it back to a remote host. 
+
+Most spyware is only interested in monitoring your internet usage so it can tell other programs, called adware, what advertising to popup on your computer. However, there are criminal spyware programs that steal financial data, or perform a thorough identity theft. Don't think you have personal or financial data on your computer? Some spyware programs contain a keylogger, which is a program that copies whatever you type, usually in order to snatch passwords. Even if you keep no financial information on your computer, if you ever buy anything over the web, the keylogger would allow its owner to buy stuff using the same information you typed in to buy stuff yourself. 
+
+Why Blame the Media? 
+
+Given the danger of all these different types of malware, isn't it a good thing that the mass media are becoming hysterical about it? And can't they be forgiven the sloppy reporting of calling Trojans, worms, spyware, and other malware "viruses"? 
+
+No, no, no. 
+
+This is a classic case of bad reporting doing more damage than no reporting at all. In this case, the damage bad reporting has done is to promote a common myth that goes something like this: "The only malicious software is a virus. Viruses damage your computer. Therefore, if my computer is working OK, my computer has no malicious software. I only need to scan my computer for problems when there is a sign of problems." 
+
+Thanks to this myth, many people complacently let their antivirus software go months out of date, not wanting to be bothered with scheduling an automatic update. Just as bad, many people don't have any extra software to combat the other types of malware that may not be covered by antivirus software. 
+
+In fact, it's not uncommon for people who have found malware on their computers after a scan to say, "but I never had malware on my computer before!" But how would they have known if they had never scanned! 
+
+Until the biggest mainstream media--and especially television--start educating the public about the need to have their computers automatically scanned at least daily, the world will continue to have major, drawn-out problems with malware that could have been wiped out as soon as soon as the anti-malware software makers discovered it. 
+
+And until that day, the mainstream media will have many more opportunities to run hysterical stories about "viruses," thereby forcing them to sell more newspapers and broadcast to even larger audiences of people who suck at the information trough yet somehow never become full.
+
+

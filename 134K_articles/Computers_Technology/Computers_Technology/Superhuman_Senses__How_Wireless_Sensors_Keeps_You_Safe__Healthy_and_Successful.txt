@@ -1,0 +1,59 @@
+Title: 
+Superhuman Senses: How Wireless Sensors Keeps You Safe, Healthy and Successful
+
+Word Count:
+777
+
+Summary:
+Knowing the truth about wireless sensors excites some people, and scares others. The truth of the matter is within a 24 hour period the human race deploys thousands of new sensors into the world. Some are old-hat sensors like burgular alarms and smoke detectors. But, others extend and supercharge our senses in ways that seem ripped out of the pages of your favorite comic book. Come explore and learn how wireless sensors keeps you safe, healthy, and successful.
+
+
+Keywords:
+wireless sensors, sensor networks, smart dust, motes, sensor applications, zigbee, superhuman senses, Now possible, Bruce Kasanoff,
+
+
+Article Body:
+<b> You have superhuman senses, but you don’t know it yet.</b>
+
+You can detect the presence of a tiny speck of anthrax in a vast public space, or count the fish in a 4,000 square mile area. You can hear a gunshot hundreds of yards away and use your super-powerful vision to zoom in on a criminal as he tries to escape. You can look in the eyes of a person you’ve never met, and tell me her identity.
+
+Best of all, with every passing day, your superhuman senses grow stronger. You acquire new ones, too. No, you didn’t get bitten by a radioactive spider or exposed to gamma radiation. You’re not a mutant X-Man.
+
+You are just lucky enough to be alive during the birth of a new class of computers, called sensors. They are multiplying faster than chocolate stains at a nursery school birthday party.
+
+In the time it took me to write this far, the human race deployed thousands of new sensors into the world. Some are old-hat sensors like burglar alarms and smoke detectors. But others extend and supercharge our senses in ways that seem ripped out of the pages of your favorite comic book.
+
+If a tree grows in the forest and no one is there, does it make a noise? Sensors are being added to forests – often to study the behavior of wild animals – and the answer is a resounding yes.
+
+Sensors called drifters have been floating on ocean currents for several years now, sending back information not only to researchers but also to elementary school classrooms. In the process, we are learning immense amounts about our oceans and climate.
+
+Thanks to sensors, Air Force pilots in Colorado Springs now control drone planes that run bombing missions in Afghanistan; the pilots’ biggest problem is coming home to a normal family life at 5 pm, after operating in a war zone.
+
+Sensors extend your senses to the very little, and the very distant. They can detect pathogens at the molecular level, and monitor the Earth – or other planets – over vast distances. Pictures from satellites show the impact of human development on places such as Mexico City, Las Vegas and the Amazon.
+
+Never before have you – or any other human – been able to see in such detail how our world changes from one day to the other, or one year to the next.
+
+<b>Four big changes are impacting the growth of your new superhuman senses: </b>
+<ol>
+<li>1. Sensors are increasingly becoming wireless, which means they can operate almost anywhere</li>
+ <li>2. We are figuring out how to get sensors to use very small amounts of power, or even to generate all the power they need from their environment (i.e. solar power, or power from natural vibrations) </li>
+<li>3. Sensors are shrinking rapidly</li> 
+<li>4. Sensors are being networked together</li>
+</ol>
+ <b>Altogether, these changes mean that sensors will literally be woven into the fabric of our world.</b>
+
+Think of a new Internet of sensors, which will extend your senses in ways that are difficult to imagine. Do you know where your children are right now? Soon, your answer will always be yes.
+
+In fact, it’s already a mistake to think that Google only searches web pages. Through the web, you can already access millions of sensor readings, from radar screens and satellite imagery to sensor data from nature preserves such as Great Duck Island
+
+If you have ever read a comic book, you know that gaining superhuman powers will change your life. Peter Parker didn’t come home with new spider powers and go on with life as usual. These powers turned his life upside down.
+
+Likewise, these new powers will change the course of human history. Quickly.
+
+Sensors will reveal the truth about our history, environment, interactions, and universe. Just look at NBC’s Olympic coverage, and you’ll get an idea what I mean. They can now superimpose one ski racer’s run over his competitor, so you can see precisely when and how one racer got the edge. No more vague generalities; we can now see 1/100ths of a second differences between two performances.
+
+Knowing the truth excites some people, and terrifies others. Just ask Superman what it’s like to have x-ray vision. Sometimes it’s pretty depressing to know the truth.
+
+Take a moment and look around. In less time than it will take the Yankees to win another World Series, sensors will be in your clothing, walls, pets, vehicles and body. Of course, you may be an early adopter, in which case all of these are already true.
+
+

@@ -1,0 +1,43 @@
+Title: 
+Hedging – What Is It, And It’s Uses In Risk Management
+
+Word Count:
+997
+
+Summary:
+Hedging, understanding the benefits for a risk management solution
+
+
+Keywords:
+genuineCTA.com, CTA, hedge, fund, market, risk, trader, trading, futures, commodity, advisor, broker, derivative, derivatives, investment, investing, analyst, hedging, exchange, currency, equity, Canada, Toronto, bonds, financial, online, options,
+
+
+Article Body:
+The second of a two part article….
+Before I discuss the use of hedging to off-set risk, we need to understand the role and the purpose of hedging.  The history of modern futures trading begins in Chicago in the early 1800’s. Chicago is located at the base of the Great Lakes, close to the farmlands and cattle country of the U.S. Midwest making it a natural center for transportation, distribution and trading of agricultural produce. Gluts and shortages of these products caused chaotic fluctuations in price. This led to the development of a market enabling grain merchants, processors, and agriculture companies to trade in contracts to insulate them from the risk of adverse price change and enable them to hedge.
+
+The first commodity exchange was the creation of the Chicago Board of Trade, CBOT in 1848.  Since then, modern derivative products have grown to include more than the agricultural industry.  Products include Stock Indices, Interest Rates, Currency, Precious Metals, Oil and Gas, Steel and a host of others.  The origins of the commodity and futures exchange was created to support  hedging.  The role of speculators is beneficial as they add trading volume and important volatility to what would otherwise be a small and illiquid market place.  
+
+A bona-fide hedger is someone with an actual product to buy or sell.  The hedger establishes an off-setting position on the futures or commodity exchange, thereby instituting a set price for his product.  Someone buying a hedge is known as being “Long” or “Taking Delivery”.  Someone selling a hedge is known as being “Short” or “Making Delivery”.  These positions known as “Contracts” are legally binding and enforced by the exchange.
+
+Entering your trades either for speculation or hedging is done through your broker.  Commodity Trading Advisor, Genuine Trading Solutions President Dwayne Strocen, states that “Commodity and Futures exchanges are distinct from Stock Exchanges, although they operate using the same principals.  They are regulated by different agencies such as the Commodity Futures Trading Commission who are responsible for regulation of retail brokers in the USA as well as Commodity Trading Advisors such as us.”
+
+Now let’s view some real life examples of hedging or mitigation of risk by using exchange traded derivatives.
+
+Example 1:  A mutual fund manager has a portfolio valued at $10 million closely resembling the S&P 500 index.  The Portfolio Manager believes the economy is worsening with deteriorating corporate returns.  The next two to three weeks are reports of quarterly corporate earnings.  Until the report exposes which companies have poor earnings, he is concerned of the results from a short term general market correction.   Without the privilege of foresight, he is unsure of the magnitude the earnings figures will produce.  He now has an exposure to Market Risk.
+
+The manager thinks of his options.  The greatest risk is to do nothing, if the market falls as expected, he risks giving up all recent gains.  If he sells his portfolio early, he also risks being wrong and missing further rally’s.  Selling also incurs substantial brokerage fees with additional fees to buy back again later.
+
+Then he realizes a hedge is the best option to mitigate his short term risk.  He begins by calling his CTA (Commodity Trading Advisor) and after consultation places an order to sell short the equivalent of $10 million of the S&P 500 index on the Chicago Mercantile Exchange “CME”.  Now his result is when the market falls as expected, he will off-set any losses in the portfolio with gains from the Index hedge.  Should the earnings report be better than expected, and his portfolio continues upward, he will continue making profits.
+
+Two weeks later the fund manager calls his CTA and closes the hedge by buying back the equivalent number of contracts on the CME.  Regardless of the resulting market events, the mutual fund manager was protected during the period of short term volatility.  There was no risk to the portfolio.
+
+Example 2: An electronics firm ABC has recently signed an order to deliver $5 million in electronic components of next years model to an overseas retailer located in Europe.  These components will be built in 6 months for delivery two months after that.  ABC instantly realizes they are exposed to two risks.  1. the rising and volatile price of copper in 6 months may result in losses to the firm.     2.  the fluctuation in the currency could easily add to those losses.  ABC being a young firm cannot absorb these losses in view of the highly competitive market from others in the field.  Losses from this order would result in lay-offs and possibly plant closures.
+
+ABC telephones their CTA and after consultation places an order for two hedges, both for an expiry in 8 months, the date of delivery.  Hedge #1 is to buy long $5 million of copper effectively locking in today’s price against further price increases.  ABC has now eliminated all price risk.  The risk of plant closures is greater  than the lure of increased profit should copper price fall.  After all, ABC is not in the business of speculating on copper prices.  
+
+Hedge #2 is to sell short the equivalent of Euro Currency vs US Dollars.  Since ABC is effectively accepting EC in payment, a rising US dollar and a weak EC would be detrimental and erode profits further.  The result of the hedge is no risk and no surprises to ABC in either copper or currency levels.  A risk free transaction and full transparency is the result. In 8 months with the order completed and the customer accepting delivery, ABC notifies the CTA to close the hedge by selling the copper and buying back the Euro Currency contacts.
+
+Many examples exist to demonstrate the mitigation of risk to an institution or financial portfolio.  Dwayne Strocen states that new products are constantly created and available on both over-the counter and exchange traded markets.  If would be wise to consult with a qualified Commodity Trading Advisor or broker to discuss the analysis for an on-going risk management solution or a one time only hedge.
+
+

@@ -1,0 +1,108 @@
+Title: 
+Cisco CCNA / CCNP Certification Exam Tutorial: Dialer Watch
+
+Word Count:
+596
+
+Summary:
+Dialer Watch is an important topic on your Cisco certification exams, but there are common errors you must avoid in order to pass the exams.  Learn all about Dialer Watch from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+cisco, ccna, ccnp, dialer, watch, isdn, pass, free, exam, certification, router, switch
+
+
+Article Body:
+Dialer Watch is a vital part of your CCNA and CCNP studies, particularly for the BCRAN exam, but it's one of the most misunderstood technologies as well. To help you pass the CCNA and CCNP certification exams, here's a detailed look at Dialer Watch.
+
+Dialer Watch allows you to configure a route or routes as "watched" when the watched route leaves the routing table and there is no other valid route to that specific destination, the ISDN link will come up. In the following example, R1 and R2 are connected by both a Frame Relay cloud over the 172.12.123.0 /24 network and an ISDN cloud using the 172.12.12.0 /24 network. The routers are running OSPF over the Frame cloud, and R1 is advertising its loopback of 1.1.1.1/32 as well as an Ethernet segment, 10.1.1.0/24, via OSPF. R2 has both of these routes in its OSPF table, as shown below.
+
+R2#show ip route ospf
+
+1.0.0.0/32 is subnetted, 1 subnets
+
+O 1.1.1.1 [110/65] via 172.12.123.1, 00:00:07, Serial0
+
+10.0.0.0/24 is subnetted, 1 subnets
+
+O 10.1.1.0 [110/128] via 172.12.123.1, 00:00:08, Serial0
+
+We want R2 to place a call to R1 if either the loopback or Ethernet networks leave R2's routing table, but we don't want to have to depend on interesting traffic. That dictates the use of Dialer Watch. 
+
+First, configure the list of watched routes with dialer watch-list. Only one of the watched routes needs to leave the routing table for the ISDN link to come up. In this example, R2 will watch both routes from its OSPF routing table.
+
+Be careful with this command. The entries here need to match exactly the routes and masks being watched. Dialer watch-lists use subnet masks, not wildcard masks.
+
+R2(config)#dialer watch-list 5 ip 10.1.1.0 255.255.255.0
+
+R2(config)#dialer watch-list 5 ip 1.1.1.1 255.255.255.255
+
+Configure the dialer watch-group command on the BRI interface, AND frame map statements for the watched routes. As with dialer-list and dialer-group, the group number referenced in the dialer watch-group command must match the number assigned to the dialer watch-list.
+
+The Dialer Watch configuration will not work without frame map statements for each watched route. I repeat this because this is the step a lot of people leave out.
+
+R2(config)#interface bri0
+
+R2(config-if)#dialer watch-group 5
+
+R2(config-if)# dialer map ip 1.1.1.1 255.255.255.255. name R1 5557777 broadcast
+
+R2(config-if)# dialer map ip 10.1.1.0 255.255.255.0 name R1 5557777 broadcast
+
+To test Dialer Watch, the Serial0 interface on R2 will be shut down. Since we're running OSPF, the route table will be updated almost immediately and the ISDN link should come up right after that.
+
+R2(config)#int s0
+
+R2(config-if)#shut
+
+
+01:12:47: %OSPF-5-ADJCHG: Process 1, Nbr 1.1.1.1 on Serial0 from FULL to DOWN, N
+eighbor Down: Interface down or detached
+
+
+01:12:47: %LINK-3-UPDOWN: Interface BRI0:1, changed state to up
+
+01:12:48: %SYS-5-CONFIG_I: Configured from console by console
+
+01:12:48: %LINEPROTO-5-UPDOWN: Line protocol on Interface BRI0:1, changed state
+to up
+
+01:12:49: %LINK-5-CHANGED: Interface Serial0, changed state to administratively
+down
+
+
+01:12:50: %LINEPROTO-5-UPDOWN: Line protocol on Interface Serial0, changed state
+to down
+
+01:12:53: %ISDN-6-CONNECT: Interface BRI0:1 is now connected to 5557777 R1
+
+Within five seconds, the ISDN link is up. show dialer verifies that Dialer Watch is the reason the line was brought up.
+
+R2#show dialer
+
+BRI0 - dialer type = ISDN
+
+Dial String Successes Failures Last DNIS Last status
+
+5557777 2 0 00:00:11 successful
+
+0 incoming call(s) have been screened.
+
+0 incoming call(s) rejected for callback.
+
+BRI0:1 - dialer type = ISDN
+
+Idle timer (120 secs), Fast idle timer (20 secs)
+
+Wait for carrier (30 secs), Re-enable (15 secs)
+
+Dialer state is data link layer up
+
+Dial reason: Dialing on watched route loss
+
+Time until disconnect 108 secs
+
+Connected to 5557777 (R1)
+A final note regarding Dialer Watch ... it will not work with RIP, but will with all our other dynamic IGPs (IGRP, EIGRP, OSPF).
+
+

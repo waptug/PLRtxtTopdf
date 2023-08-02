@@ -1,0 +1,58 @@
+Title: 
+Cisco CCNA Exam Tutorial:  Five ISDN Details To Remember
+
+Word Count:
+495
+
+Summary:
+ISDN is a highly-detailed topic on the CCNA exam.  Learn five common ISDN errors and how to avoid them from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+cisco, ccna, exam, isdn, bri, pass, free, tutorial, status, bri, interface, dialer, profile, ppp
+
+
+Article Body:
+CCNA exam success depends on mastering many technologies that are new to you, and few exam topics have more details than ISDN.  ISDN isn't just for your CCNA exam studies, though.  While ISDN is dismissed by many, the fact is that there are many small and mid-size networks out there that use ISDN as their backup to frame relay.  Some of these companies have spoke networks that use ISDN to connect to their hub as well, so it's a great idea to know ISDN configuration and troubleshooting for your real-world career as well as passing the CCNA.  With that in mind, let's take a look at five common ISDN errors and how to avoid them.
+
+With dialer map statements, remember that the phone number you put in the dialer map is the phone number of the remote router, not the local one.  Look at it this way - if you want to call a friend on your cell, you don't pick up your cell and dial your own number!
+
+Speaking of dialer map statements, don't forget the all-important broadcast option at the end of the command:
+
+R1(config-if)#dialer map ip 172.12.21.1 name R2 broadcast 5555555
+
+The router will accept that command without the "broadcast" option, but routing protocol updates and hellos would not be able to travel across the line.  (This command is also needed in frame relay map statements to allow broadcasts and multicasts to be transmitted.)
+
+PAP is PPP's clear-text authentication scheme, and clear text is a really bad idea.  But if you do have to configure it, don't forget that PAP requires additional configuration -the ppp pap sent-username command.
+
+R1(config-if)#ppp pap sent-username R1 password CISCO
+
+Must set encapsulation to PPP before using PPP subcommands
+
+R1(config-if)#
+
+The error message we got while configuring the sent-username command is another important reminder - by default, a BRI line is running HDLC, not PPP.  Since HDLC doesn't allow us to use either PAP or CHAP, we'll need to set the link to PPP with the encapsulation ppp command.
+
+R1(config-if)#encapsulation ppp
+
+R1(config-if)#ppp authentication pap
+
+R1(config-if)#ppp pap sent-username R1 password CISCO
+
+But before we configure any of this information, we should configure the ISDN switch-type.  Why?  Because without the switch-type configuration, it doesn't matter that we avoid the other four errors - the line will not come up.  Configure the switch-type with the "isdn switch-type" command, and then verify it with "show isdn status".
+
+R1(config)#isdn switch-type basic-ni
+
+R1#show isdn status
+
+Global ISDN Switchtype = basic-ni  (output of this command cut here for clarity)
+
+If you forget this part of the configuration, the output of show isdn status wastes no time in reminding you!
+
+R1#show isdn status
+
+ **** No Global ISDN Switchtype currently defined ****
+
+ISDN is an important part of your CCNA studies, and this knowledge still comes in handy in production networks as well.  Keep studying, notice the details, run those debugs, and you'll be a CCNA before you know it!
+
+

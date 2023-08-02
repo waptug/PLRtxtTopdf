@@ -1,0 +1,36 @@
+Title: 
+IT Audits: The Next Step
+
+Word Count:
+334
+
+Summary:
+After Your IT audits, you need to go into planning mode. Create a spreadsheet with tasks and when they're do to facilitate continued business after IT audits.
+
+
+Keywords:
+IT-audits, IT audits, IT audit, IT-audit
+
+
+Article Body:
+With most of your clients, once the relationship is established and IT audits are complete, you should move into a project plan mode where you set up a spreadsheet and organize it on a monthly basis.
+
+During IT audits, you’re going to find that some things have to be done this month; some can wait until next month, and many things should be added to a wish list. 
+
+Wish Lists Defined
+
+The wish list things are going to be those things that either have to be done because there’s a vendor or regulatory agency driving it, or there’s a product that’s becoming obsolete and won’t be supported anymore.  Whatever the reason,  a bunch of wish list projects will need to be done at a certain date.
+
+Your best bet, and their best bet, is for you to keep track of the wish list items as if you were their full-time IT manager. Put the tasks down by month. That’s your future revenue stream.
+
+How to Organize Tasks. 
+
+After IT audits, your first priority should be organizing tasks. It is as simple as setting up an Excel spreadsheet and putting a couple columns in there like Month, Task, Estimated Labor Cost, Estimated Product Cost for software peripherals, hardware, and a column if you need to bring in an outside contractor or vendor.
+
+Let’s say they have an old Citrix server and they know that it needs to be upgraded because it hasn’t been touched in three or four years. If you don’t have a lot of expertise on metaframe, knowing that the project is coming up would give you plenty of time to go out and look for a specialty contractor in your area who does have Citrix metaframe expertise and is certified.
+
+Keeping organized helps you to plan ahead with their ideas in mind.
+
+Copyright MMI-MMVI, Computer Consulting Blog. All Worldwide Rights Reserved. {Attention Publishers: Live hyperlink in author resource box required for copyright compliance}
+
+

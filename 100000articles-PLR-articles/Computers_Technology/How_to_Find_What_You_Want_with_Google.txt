@@ -1,0 +1,79 @@
+Title: 
+How to Find What You Want with Google
+
+Word Count:
+961
+
+Summary:
+Did you know you can make Google find what you're looking for even more accurately than it normally would? Learn how to pinpoint exactly what you're searching for on Google - quickly and easily.
+
+
+Keywords:
+google, search engines, ask jeeves, yahoo, msn, altavista
+
+
+Article Body:
+Most people who search on the internet have a favorite search engine. In fact, the majority of internet users choose Google.<br><br>
+
+Do you fall into this category? If so, are you taking advantage of everything Google offers?<br><br>
+
+If an internet search means you go to www.google.com and simply type 2 or 3 words into the search box, hoping to find what you're looking for, you aren't even scratching the surface.<br><br>
+
+<b>How Can You Get Better Results?</b><br><br>
+
+Google is the number one search engine for good reason - their results are generally the most accurate. Even so, there are ways to pinpoint what you're looking for even more effectively.<br><br>
+
+You have two options when it comes to fine-tuning your searches - you can use the Google Advanced Search screen or you can use "modifiers" in the main Google search.<br><br>
+
+<b>Option 1: Google Advanced Search</b><br><br>
+
+When you go to www.google.com, there is a little "Advanced Search" link to the right of the main search box. If you click on that, you'll get the much more detailed Google search, where you can make very specific requests.<br><br>
+
+The first four sections, highlighted in blue, are some of the most important. Here you can specify any of the following:<br><br>
+
+<ol>
+<li>All of the words - this will give you results with all of your search words, but not in any particular order. They can also be anywhere on the page.</li>
+<li>The exact phrase - this will give you results with exactly the phrase you enter. The phrase must appear on the page exactly the way you enter it.</li>
+<li>At least one of the words - this will show results with any one or more of your search words on the page.</li>
+<li>Without the words - this will give you results that don't include your search terms at all.</li>
+</ol>
+
+These four sections can be used independently or combined to work together.<br><br>
+
+For example, you could search for the exact phrase 'free virus software' without the words 'trial' or 'tryout' if you're looking for free virus software but don't want trial versions that will expire after a short time.<br><br>
+
+As another example, you could use option #3 (at least one of the words) if you're looking for something but don't know exactly how to spell it. Put a few possible spellings in and it will find pages with any one or more of those spellings.<br><br>
+
+The rest of the sections on the Advanced Search page are pretty self-explanatory. One that I will point out is the Domain option. You can specify a website and either search for something only on that site, or anywhere but that site.<br><br>
+
+If you've found an interesting website that doesn't have a search function of its own, you can use this to limit Google to searching that site for whatever you're looking for. In fact, the Google search is often better even if the site does have its own search function.<br><br>
+
+You can also use it to find other references to something you might have read on a particular website. If you search for it and exclude the site you saw it on, you'll find other references to it that you can cross-check.<br><br>
+
+<b>Option 2: Using Modifiers</b><br><br>
+
+Modifiers will let you use all the advanced features without having to go to the Advanced Search page every time. These modifiers can just be entered in the standard Google search box to get the same results as the advanced options.<br><br>
+
+There are quite a few different modifiers that can be used, but some of the most useful are as follows:<br><br>
+
+Putting "" around a phrase will search for the exact phrase. Searching for free antivirus software will show you pages with those three words anywhere on the page. Searching for "free antivirus software" shows you pages that contain that exact phrase.<br><br>
+
+Putting a - before a word is the same as the advanced option "without the words." So, to use the example used earlier, searching for "free virus software" -trial -tryout will show pages with that exact phrase, not including the other two words.<br><br>
+
+Using site: followed by the domain name of the website you want to search will only return results from that particular website. For example, searching for "virus protection" site:computer-help-squad.com will only return results from the www.computer-help-squad.com website.<br><br>
+
+Again, these can be combined so -site: will return results from any site except the one you specify.<br><br>
+
+<b>How to Figure Out the Modifiers</b><br><br>
+
+The easiest way to see how to use modifiers in your searches is to try some searches with the Advanced Search page and see how Google formats them.<br><br>
+
+Using our example again, if you enter 'free antivirus software' in the "with the exact phrase" box and the words 'trial' and 'tryout' in the "without the words" box, the search that Google runs looks like this:<br><br>
+
+"free virus software" -trial -tryout<br><br>
+ 
+If you play around a bit with the advanced searches, you'll see how Google formats them for you. Next time, you can just enter them yourself in the standard search box instead of going to the Advanced Search page.<br><br>
+
+Once you get the hang of these options in Google, you'll find that your searches get even more accurate because you can filter out the stuff you don't want.
+
+

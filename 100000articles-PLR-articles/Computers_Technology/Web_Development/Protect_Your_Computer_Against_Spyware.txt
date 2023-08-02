@@ -1,0 +1,26 @@
+Title: 
+Protect Your Computer Against Spyware
+
+Word Count:
+316
+
+Summary:
+Everyone has heard of the need for antivirus and anti-spyware programs, but some people still don’t realize what spyware is, or why it’s so dangerous. Spyware is not the same as a computer virus. Viruses corrupt files and destroy data. Spyware generally keeps track of where you go online, and sends this information to advertising agencies who then use the data for various purposes. It can also change your home page, slow down computer performance, and the more dangerous types...
+
+
+Keywords:
+Spyware
+
+
+Article Body:
+Everyone has heard of the need for antivirus and anti-spyware programs, but some people still don’t realize what spyware is, or why it’s so dangerous. Spyware is not the same as a computer virus. Viruses corrupt files and destroy data. Spyware generally keeps track of where you go online, and sends this information to advertising agencies who then use the data for various purposes. It can also change your home page, slow down computer performance, and the more dangerous types log your keystrokes for possible password and credit card number gathering schemes. 
+
+Perhaps the most insidious thing about spyware is that it is often installed without our knowledge – free programs online can sometimes be the culprit, but spyware is also sometimes downloaded and installed simply by visiting certain websites that exploit security problems in various browsers. 
+
+Preventing the spread of spyware is an important aspect of computer security. Spyware and other unwanted software can invade your privacy, liter your machines with pop-up windows and even make your computer crash. Just as we should keep passwords safe, we should also take steps to ensure that our passwords aren’t compromised in the first place. There are several anti-spyware programs on the market, both paid and free. One of the best places to search for reputable software is a site like download.com. 
+
+However, even the best anti-spyware program won’t do much if it’s not kept up-to-date and run regularly. As part of computer security, spyware should be updated once every 24 hours, and your computer should be scanned once a day, with a full scan once a week just to be on the safe side. Also stay away from questionable websites that try to get you to download and install software that you are unsure about. 
+
+With a little effort, it’s possible to keep your confidential data safe and your computer spyware free.
+
+

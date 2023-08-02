@@ -1,0 +1,26 @@
+Title: 
+fastcgi acceleration for your web hosting
+
+Word Count:
+290
+
+Summary:
+Enabling FastCGI in your cpanel will improve your website loading speed. Not many hosting provider are offering this features. Where to find one, and what is the pros and cons to it.
+
+
+Keywords:
+web hosting, best hosting, web, internet
+
+
+Article Body:
+FastCGI was come to my attention since two months ago, when my web hosting company is offering this fastcgi features in its cpanel control panel. And I am allow to enabled or disabled it easily. Furthermore, the fastcgi had been upgraded again and with much more cache control options. All these are designed to boost your websites proformance.
+
+If your shared hosting websites is getting 10,000-300,000 pageview each days, its time to consider enabling the fastcgi. Or you are running script that require fastcgi instead of cgi, eg. RoR. You will need to enable fastcgi. It utilized the server cache to store the php executable, and storing them them at memory even after your page is finish loaded. When second visitor request the same page, the cache is called and page is show to user. The server will not need to reprocess all php executable and regenerate the page, it will call the page from cache system. The idea of fastcgi is quit simple, buffering the page and act like a proxy server. 
+
+There is disadvantage of the use of cache. As the page content is not regenerated, the old content will be show to user. If your website is running dynamic content, fastcgi might not suitable for you. It work the best for static content, that is not changing from time to time.
+
+Second issue is that not all script is supported in fastcgi. For example, I faced some error 500 (server side error) when enable fastcgi for my wordpress blog. You have to try fastcgi on your script. If it doesn’t work, you have to disabled it.
+
+If you look for hosting with fastcgi, there is few hosting provider like bluehost and hostmonster hosting are currently offering fastcgi feature.
+
+

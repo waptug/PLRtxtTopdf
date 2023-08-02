@@ -1,0 +1,34 @@
+Title: 
+Cisco CCNP / BSCI Tutorial:  Comparing OSPF and ISIS Hellos
+
+Word Count:
+320
+
+Summary:
+In preparing for your BSCI exam and your CCNP certification, you quickly learn that OSPF and ISIS are similar in operation but have many differences.  Learn the details of one importance difference from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccnp,bsci,exam,free,pass,certification,tutorial,ospf,isis,hello,level,link,state,protocol,router,switch
+
+
+Article Body:
+While studying to pass the BSCI exam and preparing to earn your CCNP certification, you'll quickly notice that while OSPF and ISIS are both link-state protocols, there are a lot of differences between the two.  One major difference is the way the two protocols handle hello packets.
+
+Hello packets are imperative to keeping OSPF and ISIS adjacencies alive.  Since they are both link-state protocols, neither of them will send updates at any specified time.  Hello packets are the only method by which routers running OSPF and ISIS can see that a neighboring router is still available.
+
+OSPF gives us some great options when it comes to keeping routing table size down via the use of stub and total stub areas, but to OSPF, a hello packet is a hello packet.  ISIS routers are capable of sending two different types of hellos - Level 1 and Level 2.
+
+ISIS routers are classified as Level 1 (L1), Level 2 (L2), and Level 1-2 (L1-L2).  By default, Cisco routers are L1-L2 routers; this means that every ISIS-enabled interface will send out both L1 and L2 hellos.  
+
+If one of the interfaces is forming only an L1 or L2 adjacency, there's no reason to send out hellos for the other adjacency type.  For example, if R1 is forming an L1 adjacency with R2 via its ethernet0 interface, there is no reason to allow the router to transmit L2 hellos.  To hardcode a router interface to send only L1 or L2 hellos, use the isis circuit-type command.
+
+R1(config)#interface ethernet0
+
+R1(config-if)#isis circuit-type level-1
+
+Note: To configure this interface to send only L2 hellos, the full command is "isis circuit-type level-2-only", not just "level-2".
+
+This configuration would prevent L2 hellos from being transmitted out ethernet0.  While this does save router resources and prevents unnecessary bandwidth usage, there is also no way an L2 adjacency can be formed - so double-check your network topology before using this command!
+
+

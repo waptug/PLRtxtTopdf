@@ -1,0 +1,38 @@
+Title: 
+Discover the 2-Stroke Model Airplane Engine
+
+Word Count:
+692
+
+Summary:
+A clear explanation of the inner working of the most popular 2-stroke model engine and why it dominates the market. What happens where and when and why these little monsters are models of efficiency and reliability.
+
+
+Keywords:
+model airplane engine, model airplane
+
+
+Article Body:
+Copyright 2006 Bravos Direct
+
+Ever wondered how that little motor on the front of your model airplane delivers such amazing power?
+
+Model airplane engines come in many shapes and sizes from many manufacturers.  By far the most common for the moment is the 2-stroke 'glow' engine though the modern electric motor is making rapid inroads as it gains in popularity.
+
+The 2-stroke model airplane engine is an internal combustion engine burning 'glow' or 'nitro' fuel consisting mostly of alcohol with nitromethane to help combustion and castor oil for lubrication of the metal parts.  There are also 4-stroke glow engines that work on the 4-stroke principle.  While these two types of model airplane engine produce the same result, and use the same fuel, they accomplish this goal in very different ways and have different characteristics. For the moment we're just going to consider the 2-stroke engine.
+
+RC model airplane engines working on a two stroke principle means that there is fuel ignition on every second stroke of the piston in the cylinder. When the piston is on its down stroke down the cylinder, fuel and air will enter the combustion chamber between the top of the piston and the cylinder head. When the piston reaches the bottom of its stroke and starts to rise again it then compresses the fuel/air mixture in the rapidly shrinking volume of the combustion chamber. The fuel/air mixture is ignited by the glow plug just as the piston reaches the end of it's upstroke. The glow plug is so called because it contains a platinum wire that continues to glow from the heat of the last fuel ignition.  The new explosion forces the piston back into the next down stroke.
+
+This sounds very simple but the clever part is that the upper, combustion chamber part of the cylinder above the piston and the crankcase below the piston are connected not only by the cylinder bore but also by a transfer port which enables gases to move from the crankcase to the combustion chamber.  By careful design, the inlet valve for taking in fresh fuel/air mixture, the exhaust valve for expulsion of exhaust gases and the transfer port which allows movement of the fuel/air mixture from the crankcase to the combustion chamber are always open or closed at the right time by the wall of the piston as it travels up and down the cylinder bore.
+
+The down stroke is created by the rapid expansion of the exhaust gases after the fuel/air mixture ignites.  Both the exhaust port and the transfer port are opened as the piston descends in the cylinder bore while the fuel/air inlet is closed.  The downward movement of the piston now compresses the fuel/air mixture drawn into the crankcase on the previous upstroke which now rushes up the transfer port into the combustion chamber and helps force out the exhaust gases from that space - and the cycle begins again.
+
+As the speed of this cycle increases, the power output of your RC model airplane engine is increased. Due to it's simplicity the 2-stroke engine can operate to high RPM and high power outputs.  Unfortunately, this also means high noise levels.
+
+The 2-stroke engine in all it's forms is a very elegant engineering solution.  The piston takes the place of 3 mechanical valves, a timing mechanism and a fuel pump - thereby keeping the weight down and reliability up.  In addition, the glow plug combustion method allows the battery to be removed after starting  thereby dramatically reducing the weight so it is easy to see why the glow 2-stroke has been so popular for so long.
+
+The 2-stroke glow engine is only one of a number of choices you can make for your model airplane engine.  Where outright power and speed are the primary requirement it has little competition and the simplicity and high volume production has led to highly reliable and cost effective engines being developed.  Noise is really the only negative consideration.
+
+So for your next project balance the cost, maintenance, exhaust noise level, and weight in order to choose the right sort of model airplane engine for your project.
+
+

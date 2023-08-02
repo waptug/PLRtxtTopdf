@@ -1,0 +1,76 @@
+Title: 
+The OSI Reference Model and TCP/IP architecture
+
+Word Count:
+436
+
+Summary:
+The OSI Model was developed by the International Organization for Standardization in order to provide a standard for computer networking. In 1984 the organization accepted the model as an international standard documented in ISO 7498.
+
+
+Keywords:
+iso, iso/osi, reference model, tcp, IP, udp
+
+
+Article Body:
+The model represents a standard for connecting network systems. The model does not specify the ways in which the individual systems are connected but serves as a description of its layers, functions and services.
+	
+	The OSI Model consists of seven layers, each of which, as was already stated, receives the services of the layer below and provides services to the layer above.
+
+1.	Physical layer
+2.	Data Link layer
+3.	Network layer
+4.	Transport layer
+5.	Session layer
+6.	Presentation layer
+7.	Application layer
+
+
+Description of the individual layers
+
+Physical Layer
+
+	The Physical layer comprises the lowest layer of the OSI model. Its function is to establish, terminate and manage either a point-to-point connection or a point-to-multipoint connection, to effectively distribute the communication resources to the users and to convert the digital data into signals transmitted by the medium.
+
+
+Data Link Layer 
+
+	The Data Link layer provides the link between two adjacent network entities, establishes transmission parameters and signals those errors in the physical layer that it cannot correct. The Data Link layer arranges bits into frames and identifies them with MAC addresses. The MAC provides the basis for the local device(s) connection whereby it creates the domain for unicast and broadcast transmission.
+	Bridges and switches operate at this layer.
+
+
+Network Layer
+
+	The Network layer provides functional means of transferring data from a source to a destination (at variable lengths) via one or more networks while maintaining the quality of service requested by the Transport layer. The Network layer performs routing functions using the services of routers that operate here. 
+	Routers work with a hierarchical addressing scheme. The most widely known protocol of the network layer is the Internet Protocol (IP). 
+
+
+Transport Layer 
+
+The Transport layer provides data transfer between end users. The main transport layer protocols are TCP and UDP.
+
+	TCP 
+"	a reliable data transfer protocol
+"	Flow control protocol regulates receiving of data packets and prevents the TCP receiver from overflowing
+"	Windowing - after certain amount of data packets have been labelled as received (the amount is given by transmission specifications), the sending end user may request transfer of additional data
+
+     UDP 
+"	an unreliable data transfer protocol
+"	used by network applications that do not require the whole of data packets to be received by the receiving host (Internet radios, online games, streaming videos, etc.)
+
+
+Session layer
+
+	The Session layer coordinates data transfer between cooperating session layers.
+
+
+Presentation layer
+
+	This layer is responsible for formatting of the data for application entities. Its functions are code and alphabet encrypting, graphic arrangement modification, etc.
+
+
+Application Layer
+
+	The Application layer provides the application entities with the access to the communication system and thus enables their cooperation.
+
+

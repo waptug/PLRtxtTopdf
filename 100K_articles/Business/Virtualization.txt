@@ -1,0 +1,23 @@
+Title: 
+Virtualization
+
+Word Count:
+348
+
+Summary:
+Virtualization is a process set into motion by a software. It is a technology that is changing the very way IT professionals are using computer hardware. Virtualization is a technique that saves IT companies, and almost all establishments that use computer servers, a lot of money, time and man hours. Virtualization is software that ‘virtually' creates multiple servers out of one single, physical server in a rack.
+
+
+Keywords:
+Virtualization 
+
+
+Article Body:
+Virtualization is a process set into motion by a software. It is a technology that is changing the very way IT professionals are using computer hardware. Virtualization is a technique that saves IT companies, and almost all establishments that use computer servers, a lot of money, time and man hours. Virtualization is software that ‘virtually' creates multiple servers out of one single, physical server in a rack. 
+
+When you hear of an IT professional speaking about virtualization, you will probably wonder at the very word that he or she is constantly using. The term ‘virtual' denotes something that is almost there, or something that is not there. This is exactly what the new technology is deemed to change. When you ‘virtualize' a server you are actually making one server do the work that would normally require a number of servers to accomplish. This is a software that allows multiple server software to run on one physical server and the clients or users who are connected to the server will never be any the wiser of the change. They will still think that they are being serviced by multiple servers, if ever they did know that there were multiple machines running various software or data they are remotely accessing and using. 
+
+So why is ‘Virtualization' Necessary? 
+It is a known fact that a server seldom utilizes a hundred percent of the resources installed in it. The processor itself rarely exceeds 20 percent of its capacity when it runs its software, and the same can be said about the memory and disk space in the server. The server will allow access to and serve client computers connected to it through the network and since the server has been configured to run a particular program the full 100 percent of its potential is not utilized. This leads to a lot of wastage in the form of electricity and investment in hardware because businesses have to invest in additional servers and most of all peripheral and support equipment for the networks. This equipment includes the power hungry switches or hubs for the network cables.
+
+

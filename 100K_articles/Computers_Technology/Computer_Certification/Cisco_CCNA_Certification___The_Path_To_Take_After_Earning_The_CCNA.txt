@@ -1,0 +1,22 @@
+Title: 
+Cisco CCNA Certification:  The Path To Take After Earning The CCNA
+
+Word Count:
+242
+
+Summary:
+After earning your CCNA, your work’s not over!  Before choosing the next certification you want to earn, read this important article from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccna, ccnp, exam, free, pass, tutorial, certification, cisco, Bryant, advantage, bgp, redistribution, security, ccsp
+
+
+Article Body:
+Once you earn your CCNA certification, you've got quite a few exciting choices ahead of you!  The majority of CCNAs go on to pursue another Cisco certification, and this is a wise decision.  The more you know, the more valuable you are in today's IT market.
+
+A question I'm often asked by new CCNAs is "Which certification should I go after next?"  Often, these new CCNAs have their eye on the Cisco Certified Security Professional (CCSP) certification.  While adding a security certification to your resume is an excellent idea, I strongly recommend that new CCNAs acquire their Cisco Certified Network Professional (CCNP) certification before pursuing their security certifications.  The CCNP requires you to pass three or four exams (depending on the path you choose) that will demand a further mastery of some subjects you studies to earn your CCNA as well as several important topics that you haven’t seen yet.
+
+The CCNP builds on the foundation of networking knowledge you built when you earned your CCNA, and your CCNP study will add greatly to your skills and resume.  There are some common technologies that you'll see in many networks - BGP and route redistribution among them - that you don't learn about in your CCNA studies.  By pursuing your CCNP, you'll also learn much more about OSPF, switching, and refine your troubleshooting skills.   These are skills that will pay off in your current job as well as any future job hunting you do.
+
+

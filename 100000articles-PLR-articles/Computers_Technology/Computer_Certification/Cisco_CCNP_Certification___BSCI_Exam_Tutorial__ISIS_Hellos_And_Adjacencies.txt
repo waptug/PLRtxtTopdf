@@ -1,0 +1,43 @@
+Title: 
+Cisco CCNP Certification / BSCI Exam Tutorial: ISIS Hellos And Adjacencies
+
+Word Count:
+459
+
+Summary:
+ISIS hellos differ from OSPF, and so do the adjacency types.  Learn these crucial differences and pass the BSCI exam with Chris Bryant, CCIE #12933.
+
+
+Keywords:
+cisco, ccnp, bsci, exam, certification, isis, router, type, hello, adjacency, L1, L2, L1/L2, ccna
+
+
+Article Body:
+In my last ISIS tutorial, I mentioned that while ISIS and OSPF are both link state protocols, their actual operation differs greatly. To pass the BSCI exam and earn your CCNP, you'll need to know these differences! Today, we'll take a look at ISIS Hello types and the adjacency types that form through the use of these Hellos.
+
+Hello packets have been mentioned several times with ISIS, and with good reason. Hello packets are the heartbeat of OSPF and ISIS when heartbeats are no longer heard from a neighbor, that adjacency will be dropped. A major difference between OSPF and ISIS is that OSPF has one type of Hello packet, where ISIS actually has three!
+
+An ES Hello (ESH) is send by all End Systems, and all IS devices listen for this Hello. This is how a router (IS) discovers a host (ES).
+
+An IS Hello (ISH) announces the presence of an IS. An IS Hello is sent by all IS devices, and End Systems listen for these hellos.
+
+An IS-to-IS Hello (IIH) is used by an IS to discover other ISes and to form adjacencies with them. 
+
+An interesting side note: A router will send an IIH to another router on the link to form or maintain an adjacency, but it will still send an ISH as well in case there are end systems located on that segment. 
+
+ISIS and OSPF both create and maintain adjacencies with the Hello packet. Let's take a look at the rules regarding ISIS adjacencies as well as the adjacency types.
+
+L1 and L2 Hellos are different messages, so an L1 router must exchange Hellos with another L1 router to form an adjacency, just as L2 routers form adjacencies with L2 routers. L1 routers can only form an adjacency with an L2 router if one of the two routers involved is actually an L1/L2 router. 
+
+L1 routers must be in the same area in order to form an adjacency. The Hello timers, as well as the MTU, must match between the interfaces used to form the adjacency.
+
+That's a lot of L1, L2, and L1/L2, isn't it? Let's review the adjacencies each router type can form:
+
+L1: Can form adjacency with any L1 in the same area and any L1/L2 in the same area.
+
+L2: Can form adjacency with any L2 in any area, and with an L1/L2 in any area.
+
+L1/L2: Can form adjacency with any L1 in the same area, L1/L2 in any area, and L2 in any area.
+Knowing the similarities and differences regarding ISIS and OSPF is vital for CCNP exam success.  Take your time, master the fundamentals, and before long the magic letters “CCNP” are behind your name and on your resume!
+
+

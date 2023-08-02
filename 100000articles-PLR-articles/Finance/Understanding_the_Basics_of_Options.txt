@@ -1,0 +1,44 @@
+Title: 
+Understanding the Basics of Options
+
+Word Count:
+755
+
+Summary:
+Options can be used for a variety of strategies but, most importantly, options allow you to control blocks of stock very cheaply while confining your risk to the cost of the option itself. Options used this way with good directional methods and systems can yield huge profits when used properly.
+
+
+Keywords:
+option trading, stock trading, stock market
+
+
+Article Body:
+Copyright 2006 Billy Williams
+
+Options are a misunderstood investment tool but once understood by an individual investor it can be a very versatile investment tool.  Options can be used to protect your portfolio, and they can help you pick up huge profits by controlling the stock of a company very cheaply. Plus, options offer strictly limited risk. If an option trade goes the wrong way, you won't lose more than your initial investment plus commissions.
+
+So what are options?  Options are a type of investment that gives you the right to buy or sell an underlying security at a certain price for a specified amount of time.
+
+In other words, options give you the right to bet on the direction of a stock, but you are limited to that bet for a certain period – usually from 1 month to as long as 3 years depending on the option selected. Lets go thru some a couple of examples with different scenarios so that you can see how options can lead to magnified returns with low risk.
+
+Say you believe that the demand for gas in the refinery industry will send Valero’s stock higher. Earnings for the stock come out in June, and you're betting the market is going to be very surprised at how the company exceeded their earnings estimate for that quarter.
+
+In this case, you'd look to buy "call options" on Valero. Call options are a bet that the underlying stock price will go up. Put options, on the other hand, bet that the underlying security's price will go down.
+
+A smart move is to give yourself a little time to make sure that you're right about the trade, but not too much time that it is cost-prohibitive for you to make the trade. Options are referred to as "wasting assets" because they lose value the longer you hold onto them.
+
+Also, the longer the time before the option expires, the more premium you will pay. Premium is the price you pay for the option. An expensive option has a high premium; a cheap one has a low premium. Option premiums are determined by the market, just like stocks.  And options are traded on an exchange, just like stocks.
+
+One other important fact, options expire on the third Friday of the month. So, if Valero's earnings are scheduled to be announced in the last week of June, you'd want to buy an option that expires the next month. So, you'd probably want to buy a July call option on Valero, giving you enough time for the stock to rise and for your position to be profitable. In options language, when a position is profitable, it's called "in the money." Conversely, an unprofitable trade is "out of the money," and a break-even trade is "at the money."
+
+What price would you pay for the option so that it's "in the money" when you sell it? Say Valero's stock is currently trading for around $60. You think that it will jump by about 10% when its earnings news hits the market. That means you think the stock will rise to $66.  You look up the strike prices offered on Valero July Call options and see that there is a $60 strike and a $65 strike.  So, you buy the Valero 60 July Call option.
+
+In this example, $60 is your strike price, the price at which your option would let you buy or sell the underlying stock.
+
+Not many people are with you on that bet, so the option is cheap, around $1. You can only buy options in lots of 100. So, you'd pay $100 per option contract. If you buy 5 contracts, your premium would be $500. That $500 controls 500 shares of stock. Think about it. If you were to buy 500 shares of Valero stock at $60, you'd spend $30,000 to control the same amount of shares using options – that's leverage!
+
+Another advantage to investing in options is that you can never lose more than you invest in an option. If the trade doesn't go your way, you only lose the amount you paid for the option and any commissions related to the trade. But if the trade goes your way, the leverage in options allows you to multiply your profits with just a small move in the underlying stock price.
+
+Options can be used for a variety of strategies but, most importantly, options allow you to control blocks of stock very cheaply while confining your risk to the cost of the option itself.  Options used this way with good directional methods and systems can yield huge profits when used properly.
+
+

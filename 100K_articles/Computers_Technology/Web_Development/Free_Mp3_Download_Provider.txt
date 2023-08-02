@@ -1,0 +1,50 @@
+Title: 
+Free Mp3 Download Provider
+
+Word Count:
+525
+
+Summary:
+Almost everything is available in the Internet nowadays, articles, news, books, softwares, applications and the most downloaded MP3 song provider. Downloading free MP3 in the internet requires you to install a file-sharing software. One of the infamous MP3 file sharing software is LimeWire. LimeWire is a peer-to-peer file-sharing client for the Java Platform, which uses the Gnutella network to locate and share files. Released under the GNU General Public License, Limewire is ...
+
+
+Keywords:
+Free MP3 Download Provider
+
+
+Article Body:
+Almost everything is available in the Internet nowadays, articles, news, books, softwares, applications and the most downloaded MP3 song provider. Downloading free MP3 in the internet requires you to install a file-sharing software. One of the infamous MP3 file sharing software is LimeWire. LimeWire is a peer-to-peer file-sharing client for the Java Platform, which uses the Gnutella network to locate and share files. Released under the GNU General Public License, Limewire is free software. It also encourages the user to pay a fee, which will then give the user access to LimeWire Pro.
+
+Here's a quick reference to its features and system requirements:
+
+Written in the Java programming language, LimeWire is able to run on any computer with Java Virtual Machine installed. Installers are provided for Microsoft Windows, Mac OS X, and Linux. Support for Mac OS 9 and other previous version was dropped with the release of LimeWire 4.0.10. It offers the sharing of its library through Digital Audio Access Protocol. As such, when LimeWire is running, any files shared will be detectable on the local network by DAAP-enabled devices (eg. iTunes).
+
+* Ease of use - just install, run, and search.
+
+* Ability to search by artist, title, genre, or other meta-information.
+
+* Elegant multiple search tabbed interface.
+
+* "Swarm" downloads from multiple hosts help you get files faster.
+
+* iTunes integration for Mac and Windows users.
+
+* Unique "ultrapeer" technology reduces bandwidth requirements for most users.
+
+* Integrated chat.
+
+* Directly connect to a computer.
+
+* Browse host feature--even works through firewalls.
+
+* International versions: Now available in many new languages.
+
+* Automatic local network searches for lightning-fast download.
+
+System Requirements: Must have the Java2TM Runtime Environment, v.1.3.1 (JRE), 64 MB RAM
+
+LimeWire is must-have software of MP3 enthusiast. It provides unlimited downloads and most specially, it is for free. Another way to download free MP3 is the use of µTorrent software. µTorrent is BitTorrent software that allows you to download from torrent files. It is Micro-Sized Yet Feature Filled. Most of the features present in other BitTorrent clients are present in µTorrent, including bandwidth prioritization, scheduling, RSS auto-downloading and Mainline DHT (compatible with BitComet). Additionally, µTorrent supports the Protocol Encryption joint specification (compatible with Azureus 2.4.0.0 and above, BitComet 0.63 and above) and peer exchange. Resource-Friendly, µTorrent was written with efficiency in mind. Unlike many torrent clients, it does not hog valuable system resources - typically using less than 6MB of memory, allowing you to use the computer as if it weren't there at all. Additionally, the program itself is contained within a single executable less than 220 KB in size. µTorrent also has support for localization, and with a language file present, will automatically switch to your system language. If your language isn't available, you can easily add your own, or edit other existing translations to improve them. Actively Developed and Improved, the developer puts in a lot of time working on features and making things user-friendlier.
+
+It can be used to download single mp3 files but it can also be used to download albums or song collection of artists. µTorrent is for free and you can download it at its official website. A detailed guide on how to use µTorrent is also available at their website.
+
+

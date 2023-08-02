@@ -1,0 +1,39 @@
+Title: 
+Tunecab - Media Converter For Protected Files
+
+Word Count:
+162
+
+Summary:
+TuneCab is media converter for DRM-protected or unprotected
+files for playing on PCs, mobile phones, MP3 players, MP4 players and iPods, PDAs,
+PSPs and other devices. It converts music, films, video clips, audio books to
+commonly used formats such as MP3, AAC, WAV audio, MPEG4, DivX movie etc, has YouTube
+Ripper plugin and CD Ripper.
+
+
+Keywords:
+Tunecab, converter, convert, audio converter, video converter, drm-converter, wma to mp3, itunes to mp3, rax to mp3, wma to ipod, drm-protected, convert audiobooks, avi to mpeg, m4v to divx, rip youtube, cd ripper, convert rax, convert aac, m4p to mp3, convert itunes, convert protected files, remove drm, download youtube
+
+
+Article Body:
+TuneCab is a tool for converting any kind of audio and video
+data to commonly used formats.It uses unique technology which gives a capability to convert any kind of protected and unprotected data to regular audio and video formats which can be played on
+dozens of compatible devices.
+
+TuneCab Ultra Video version 3.3.2 represents extremely high conversion speed with up
+to 50x in a batch mode without losses quality of converted files. The number of
+input formats has risen to 50 formats.
+TuneCab is still easy to install and use with a very handy and clear user interface.
+It lets you choose the compression level and it preserves ID3 tags for artist,
+album, title names etc. A batch mode and the drag&drop function for folders and files allow to convert and unprotect large files collections with just 1-click.
+
+System Requirements:
+
+Vista x32, Windows XP x32 or Windows 2003 x32
+256 Megabyte RAM
+Microsoft\'s MediaPlayer 9 or higher installed
+
+Web Site: http://www.tunecab.com
+
+

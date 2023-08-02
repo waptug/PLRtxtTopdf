@@ -1,0 +1,72 @@
+Title: 
+Cisco CCNA / CCNP Certification Exam:  Same Command, Different Results
+
+Word Count:
+396
+
+Summary:
+As a CCNA and CCNP, you've got to be ready for the unexpected.  In the field, sometimes you can use the same command on two different devices and get very different results.  Learn why, and how to handle this situation, from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+ccna, ccnp, bsci, bcran, free, exam, tutorial, span, tree, protocol, router, switch, ios, 5000
+
+
+Article Body:
+As a CCNA or CCNP, one thing you've got to get used to is that change is constant. Cisco regularly issues new IOS versions, not to mention the many different kinds of hardware they produce! While it's always nice to have "the latest and the greatest" when it comes to routers, switches, firewalls, etc., we have to be prepared for the fact that not all our clients are going to have that latest and greatest! 
+
+For instance, there are still quite a few Catalyst 5000 switches out there humming away, and if you're used to working on IOS-driven switches like the 2950, the same command can have dramatically different results.
+
+Let's say you're going to examine the spanning tree protocol (STP) setup of a new client. You're used to working with newer 2950 switches, and you've always run show span on those switches to display spanning-tree information. Then, you run show span on a Catalyst 5000 - and something like this shows:
+
+switch (enable) show span 
+
+Destination : Port 6/1 
+
+Admin Source : Port 6/2 
+
+Oper Source : Port 6/2
+
+Direction : transmit/receive 
+
+Incoming Packets: disabled 
+
+Learning : enabled 
+
+Multicast : enabled 
+
+Filter : - 
+
+Status : active 
+
+Total local span sessions: 1
+
+What's going on here? 
+
+The command show span on a 5000 will not show spanning tree stats - instead, what you're going to see are statistics relating to Switched Port ANalyzer (SPAN). Surprise!
+
+Consider an example where you're used to running show span on 5000 switches to see SPAN information. When you run that on a 2950, you know now what you're going to get - spanning tree information! On a 2950, you'll need to run show monitor session, followed by the SPAN session number.
+
+SW1#show monitor session 1
+
+Session 1
+
+---------
+
+Type : Local Session
+
+Source Ports :
+
+Both : Fa0/1
+
+Destination Ports : Fa0/2
+
+Encapsulation : Native
+
+Ingress: Disabled
+
+As a CCNA and CCNP, this is one of those things you just have to get used to. Commands are going to be different, sometimes radically so, between models. That's why you need to be adept with both IOS Help and Cisco's online documentation site. IOS Help is easy, but the online doc site take a little getting used to. Once you learn how to navigate that site, a world of Cisco knowledge is at your fingertips. 
+
+Besides, when you sit for the CCIE lab exam, that will be the only friend you have! And a valuable friend it can be - you're just going to have to trust me on that one. :)
+
+

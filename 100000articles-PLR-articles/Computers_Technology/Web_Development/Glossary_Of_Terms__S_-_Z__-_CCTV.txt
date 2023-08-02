@@ -1,0 +1,123 @@
+Title: 
+Glossary Of Terms (S - Z) - CCTV
+
+Word Count:
+1189
+
+Summary:
+S/N RATIO
+Signal-to-Noise ratio is calculated with the logarithm of the normal signal and the noise RMS value.
+
+SCENE ILLUMINATION
+The average light level incident upon a protected area. Normally measured for the visible spectrum with a light meter having a spectral response corresponding closely to that of the human eye and is quoted in lux. Scotopic Vision levels are illumination levels below 10-2 lux, thus invisible to the human eye. Silicon. The raw material of which ...
+
+
+Keywords:
+security consultant,security consultancy,security services,security solution,security design
+
+
+Article Body:
+S/N RATIO
+Signal-to-Noise ratio is calculated with the logarithm of the normal signal and the noise RMS value.
+
+SCENE ILLUMINATION
+The average light level incident upon a protected area. Normally measured for the visible spectrum with a light meter having a spectral response corresponding closely to that of the human eye and is quoted in lux. Scotopic Vision levels are illumination levels below 10-2 lux, thus invisible to the human eye. Silicon. The raw material of which modern semiconductor devices are made.
+
+SIMPLEX
+In general, it refers to a communications system that can transmit information in one direction only. In CCTV, simplex is used to describe a method of multiplexer operation where only one function can be performed at a time, eg. either recording or playback individually.
+
+SKIN EFFECT
+The tendency of alternating current to travel only on the surface of a conductor as its frequency increases.
+
+SLOW SCAN
+The transmission of a series of frozen images by means of analog or digital signals over limited bandwidth media, usually telephone.
+
+SMEAR
+An unwanted side effect of vertical charge transfer in a CCD chip. It shows vertical bright stripes in places of the image where there are very bright areas. In better cameras smear is minimised to almost undetectable levels.
+
+SMPTE
+Society of Motion Picture and Television Engineers. Spectrum analyser. An electronic device that can
+show the spectrum of an electric signal.
+
+SPECTRUM
+In Electromagnetics, spectrum refers to the description of a signal’s amplitude versus its frequency components. In optics, spectrum refers to the light frequencies composing the "white light" which can be seen as rainbow colours.
+
+SPG
+Stands for Sync Pulse Generator. A source of synchronisation pulses.
+
+SPLIT SCREEN UNIT
+(Quad compressor). Equipment which simultaneously displays parts or more than one image on a single monitor. It usually refers to four quadrants display.
+
+S-VHS
+Super VHS format of video recording. A newer standard proposed by JVC, preserving the downward compatibility with the VHS format. It offers much better horizontal resolution up to 400 TV lines. This is mainly due to the colour separation techniques, high quality video heads and better tapes. Sync. This is short from synchronisation pulse.
+
+TBC
+Time Base Correction. Refers to the synchronisation of various signals inside a device such as a multiplexer or a TBC Corrector.
+
+TDG
+Short for time and date generator.
+
+TELEMETRY
+Remote controlling system of, usually, digital encoded data, intended to control pan, tilt, zoom, focus, preset positions, wash, wipe and similar. Being digital, it is usually sent via twisted pair cable, or coaxial cable together with the video signal.
+
+TERMINATION
+This usually refers to the physical act of terminating a cable with a special connector, which for coaxial cable is, usually, BNC. For fibre optic cable this is the ST connector. It can also refer to the impedance matching when electrical transmission is in use. This is especially important for high frequency signals, such as the video signal, where the characteristic impedance is accepted to be 75 Ohms.
+
+TIME LAPSE VCR
+(TL VCR). A video recorder, most often in VHS format, that can prolong the video recording on a single tape up to 960 hours (this refers to a 180 min tape). This type of VCRs are very often used in CCTV systems. The principle of operation is very simple - instead of having the video tape travel at a constant speed of 2.275 cm/s (which is the case with the domestic models of VHS VCRs), it moves with discrete steps which can be controlled. Time Lapse VCRs have a number of other special functions very useful in CCTV, such as external alarm trigger, time and date superimposed on the video signal, alarm search and so on.
+
+TIME LAPSE VIDEO RECORDING
+The intermittent recording of video signals at intervals to extend the recording time of the recording medium. It is usually measured in reference to a 3 hr (180 min) tape.
+
+TIME MULTIPLEXING
+The technique of recording several cameras onto, usually, one time lapse VCR by sequentially sending camera pictures with a timed interval delay to match the time lapse mode selected on the recorder.
+
+UHF SIGNAL
+Ultra high frequency signal. In television it is defined to belong in the radio spectrum between 470 MHz and 850 MHz. Unbalanced signal. In CCTV, this refers to a type of video signal transmission through a coaxial cable. It is called unbalanced because the signal travels through the centre core only, while the cable shield is used for equating the two voltage potentials between the coaxial cable ends.
+
+UPS
+Uninterruptible power supply. These are power supplies used in the majority of high security systems, whose purpose is to back-up the system for at least 10 minutes without mains power. The duration of this depends on the size of the UPS, usually expressed in VA, and the current consumption of the system itself.
+
+VDA
+Video Distribution Amplifier. A device that provides multiple outputs from one video signal such that interference to one output will not affect others.
+
+VERTICAL SHIFT REGISTER
+The mechanism in CCD technology whereby charge is read out from the photo sensors of an Interline Transfer or Frame Interline Transfer sensor.
+
+VHF
+Stands for Very High Frequency. A signal encompassing frequencies between 30 and 300 MHz. In television, VHF Band I uses frequencies between 45 MHz and 67 MHz, and between 180 MHz and 215 MHz for Band III. Band II is reserved for FM radio from 88 MHz to 108 MHz.
+
+VHS
+Stands for Video Home System, as proposed by JVC, a video recording format that is most often used in homes, but also in CCTV. It has its own limitations due to the concept itself, the speed of recording, the magnetic tapes used and the colour separation technique. Most of the CCTV equipment today supersedes VHS resolution.
+
+VIDEO EQUALISATION CORRECTOR
+(Video Equaliser). A device which corrects for unequal frequency losses and/or phase errors in the transmission of a video signal. Video frame store. A device which enables digital storage of one or more images for steady display on a video monitor.
+
+VIDEO IN-LINE AMPLIFIER
+A device providing amplification of a video signal.
+
+VIDEO MATRIX SWITCHER
+(VMS). A device for switching more than one camera, VCR, video printer and similar, to more than one monitor, VCR, video printer and similar. Much more complex and more powerful than video switchers.
+
+VIDEO MONITOR
+A device for converting a video signal into an image.
+
+VIDEO MONITOR
+A device for converting a video signal into an image.
+
+VIDEO PRINTER
+A device for converting a video signal to a hard copy printout. It could be a monochrome (B/W) or colour. They come in different format sizes. Special paper is needed.
+
+VIDEO SIGNAL
+An electrical signal containing all of the elements of the image produced by a camera or any other source of video information.
+
+VIDEO SWITCHER
+A device for switching more than one camera to one or more monitors manually, automatically or upon receipt of an alarm condition.
+
+VITS
+Video Insertion Test Signals. Special shaped electronic signals inserted in the "invisible" lines (in the case of PAL, lines 17, 18, 330 and 331) that are used to determine the quality of reception.
+
+VLF
+Very Low Frequency. Refers to the frequencies in the band between 10 and 30 kHz.
+
+

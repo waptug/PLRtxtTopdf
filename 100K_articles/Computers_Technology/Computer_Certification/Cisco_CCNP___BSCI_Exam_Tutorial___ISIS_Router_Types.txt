@@ -1,0 +1,30 @@
+Title: 
+Cisco CCNP / BSCI Exam Tutorial:  ISIS Router Types
+
+Word Count:
+338
+
+Summary:
+One of the many ISIS details you must master for CCNP and BSCI exam success - ISIS router types.  Learn how they work and interact from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccnp, exam, bcmsn, pass, certification, isis, router, types, L1, L2, L1/L2, adjacency, hello, Bryant, advantage, ccie, 12933
+
+
+Article Body:
+To pass the BSCI exam and earn your CCNP, you've got to know ISIS inside and out.  There are many similarities between ISIS and OSPF, but one major difference is that ISIS has three different types of routers - Level 1 (L1), Level 2 (L2), and L1/L2.
+
+L1 routers are contained in a single area, and are connected to other areas by an L1/L2 router.  The L1 uses the L1/L2 router as a default gateway to reach destinations contained in other areas, much like an OSPF stub router uses the ABR as a default gateway.
+
+L1 routers have no specific routing table entries regarding any destination outside their own area; they will use an L1/L2 router as a default gateway to reach any external networks.  ISIS L1 routers in the same area must synchronize their databases with each other.
+
+Just as we have L1 routers, we also have L2 routers.  Anytime we're routing between areas (inter-area routing), an L2 or L1/L2 router must be involved.  All L2 routers will have synchronized databases as well.  
+
+Both L1 and L2 routers send out their own hellos.  As with OSPF, hello packets allow ISIS routers to form adjacencies.  The key difference here is that L1 routers send out L1 hellos, and L2 routers send out L2 hellos.  If you have an L1 router and an L2 router on the same link, they will not form an adjacency.
+
+An ISIS router can act as an L1 and an L2 router at the same time; these routers are L1/L2 routers.  An L1/L2 router can have neighbors in separate ISIS areas.  The L1/L2 router will have two separate databases, though - one for L1 routes and another for L2 routes.  L1/L2 is the default setting for Cisco routers running ISIS.  The L1/L2 router is the router that makes it possible for an L1 router to send data to another area.
+
+In the next part of my ISIS tutorial, we'll take a more detailed look at those ISIS hellos!
+
+

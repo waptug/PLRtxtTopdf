@@ -1,0 +1,57 @@
+Title: 
+The Emerging Role of the Business Analyst
+
+Word Count:
+1421
+
+Summary:
+This article discusses the history and growing demand for the Business Analyst role. The significant increase in demand for the Business Analyst is forcing organizations to train their existing staff for this role.
+
+
+Keywords:
+business analyst, business analysis, business analyst training, requirements analysis, project management, product manager
+
+
+Article Body:
+Software application development has only been around since the late 1970s. Compared to other industries and professions the software industry is still very young. Ever since organizations began to use computers to support their business tasks, the people who create and maintain those "systems" have become more and more sophisticated and specialized. This specialization is necessary because as computer systems become more and more complex, no one person can know how to do everything. 
+
+One of the "specialties" to arise is the Business Analyst. A Business Analyst is a person who acts as a liaison between business people who have a business problem and technology people who know how to create solutions. Although some organizations have used this title in non-IT areas of the business, it is an appropriate description for the role that functions as the bridge between people in business and IT. The use of the word "Business" is a constant reminder that any application software developed by an organization should further improve its business operations, either by increasing revenue, reducing costs, or increasing service level to the customers.
+
+<b>History of the Business Analyst Role</b>
+
+In the 1980s when the software development life cycle was well accepted as a necessary step, people doing this work typically came from a technical background and were working in the IT organization. They understood the software development process and often had programming experience. They used textual requirements along with ANSI flowcharts, dataflow diagrams, database diagrams, and prototypes. The biggest complaint about software development was the length of time required to develop a system that didn't always meet the business needs. Business people had become accustomed to sophisticated software and wanted it better and faster.
+
+In response to the demand for speed, a class of development tools referred to as CASE (Computer Aided Software Engineering) were invented. These tools were designed to capture requirements and use them to manage a software development project from beginning to end. They required a strict adherence to a methodology, involved a long learning curve, and often alienated the business community from the development process due to the unfamiliar symbols used in the diagrams.
+
+As IT teams struggled to learn to use CASE tools, PCs (personal computers) began to appear in large numbers on desktops around the organization. Suddenly anyone could be a computer programmer, designer and user. IT teams were still perfecting their management of a central mainframe computer and then suddenly had hundreds of independent computers to manage. Client-server technologies emerged as an advanced alternative to the traditional "green screen," keyboard-based software.
+
+The impact on the software development process was devastating. Methodologies and classic approaches to development had to be revised to support the new distributed systems technology and the increased sophistication of the computer user prompted the number of software requests to skyrocket.
+
+Many business areas got tired of waiting for a large, slow moving IT department to rollout yet another cumbersome application. They began learning to do things for themselves, or hiring consultants, often called Business Analysts, who would report directly to them, to help with automation needs. This caused even more problems for IT which was suddenly asked to support software that they had not written or approved. Small independent databases were created everywhere with inconsistent, and often, unprotected data. During this time, the internal Business Analyst role was minimized and as a result many systems did not solve the right business problem causing an increase in maintenance expenses and rework.
+
+New methodologies and approaches were developed to respond to the changes, RAD (rapid application development), JAD (joint application development), and OO (object oriented) tools and methods were developed. 
+
+As we began the new millennium, the Internet emerged as the new technology and IT was again faced with a tremendous change. Once again, more sophisticated users, anxious to take advantage of new technology, often looked outside of their own organizations for the automation they craved. The business side of the organization started driving the technology as never before and in a large percentage of organizations began staffing the Business Analyst role from within the operational units instead of from IT. We now have Marketing Directors, Accountants, Attorneys, and Payroll Clerks performing the role of the Business Analyst.
+
+In addition, the quality movement that had started in the 70s with TQM, came into focus again as companies looked for ways to lower their cost of missed requirements as they expanded globally. The ISO (International Standards Organization) set quality standards that must be adhered to when doing international business. Carnegie Mellon created a software development quality standard CMM (Capability Maturity Model). Additionally, Six Sigma provided a disciplined, data-driven quality approach to process improvement aimed at the near elimination of defects from every product, process, and transaction. Each of these quality efforts required more facts and rigor during requirements gathering and analysis which highlighted the need for more skilled Business Analysts familiar with the business, IT, and quality best practices.
+
+<b>Future of the Business Analyst Role</b>
+
+Today we see Business Analysts coming from both the IT and business areas. In the best situations, the Business Analyst today has a combination of IT and business skills. Each organization has unique titles for these individuals and the structure of Business Analyst groups is as varied as the companies themselves. However, there is a core set of tasks that most Business Analysts are doing regardless of their background or their industry.
+
+<b>The Business Analyst role becomes more critical as project teams become more geographically dispersed.</b>
+Outsourcing and globalization of large corporations have been the driving factors for much of this change recently. When the IT development role no longer resides inside our organizations, it becomes necessary to accurately and completely define the requirements in more detail than ever before. A consistent structured approach, while nice to have in the past, is required to be successful in the new environment. Most organizations will maintain the Business Analyst role as an "inhouse" function. As a result, more IT staff are being trained as Business Analysts.
+
+<b>The Business Analyst role will continue to shift its focus from "Software" to "Business System."</b>
+Most Business Analysts today are focused on software development and maintenance, but the skills of the Business Analyst can be utilized on a larger scale. An excellent Business Analyst can study a business area and make recommendations about procedural changes, personnel changes, and policy changes in addition to recommending software. The Business Analyst can help improve the business system not just the business software.
+
+<b>The Business Analyst role will continue to evolve as business dictates.</b>
+Future productivity increases will be achieved through re-usability of requirements. Requirements Management will become another key skill in the expanding role of the Business Analyst as organizations mature in their understanding of this critical expertise. The Business Analyst is often described as an "Agent of Change." Having a detailed understanding of the organization's key initiatives, a Business Analyst can lead the way to influence people to adapt to major changes that benefit the organization and its business goals. The role of a Business Analyst is an exciting and secure career choice as U.S. companies continue to drive the global economy. 
+
+<b>Training for the Business Analyst</b>
+
+The skill set needed for a successful Business Analyst is diverse and can range from communication skills to data modeling. A Business Analyst's educational and professional background may vary as well--some possess an IT background while others come from the business stakeholder area.
+
+With backgrounds as diverse and broad as these it is difficult for a Business Analyst to possess all the skills necessary to perform successful business analysis. Companies are finding that individuals with a strong business analysis background are difficult to locate in the marketplace and are choosing to train their employees to become Business Analysts in consistent structured approaches. First, organizations seeking formal business analysis training should examine vendors who are considered "experts" on the field with a strong focus on business analysis approaches and methodologies. Second, you will want to examine the quality of the training vendor's materials. This may be done by researching who wrote a vendor's materials and how often they are updated to stay abreast of industry best practices. Third, matching the real-world experience of instructors to the needs and experience level of your organization is critical to successful training. Business analysis is an emerging profession and it is critical that the instructors that you choose have been practicing Business Analysts.
+
+

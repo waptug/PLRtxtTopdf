@@ -1,0 +1,30 @@
+Title: 
+Techniques For Integrating Hibernate Into Legacy Java Code – Part 1
+
+Word Count:
+796
+
+Summary:
+If you're like me, you spend a lot of time dealing with legacy code that, for whatever reason, does not take advantage of modern methodologies and libraries. I've taken over Java projects that contain hundreds of thousands of lines of code and not a single third-party jar other than a JDBC driver! One of the most common examples of this is the implementation of the data access layer. These days, the de facto methodology involves Hibernate and DAOs, usually managed by Spring....
+
+
+Keywords:
+java, hibernate, spring, eclipse
+
+
+Article Body:
+If you're like me, you spend a lot of time dealing with legacy code that, for whatever reason, does not take advantage of modern methodologies and libraries. I've taken over Java projects that contain hundreds of thousands of lines of code and not a single third-party jar other than a JDBC driver! One of the most common examples of this is the implementation of the data access layer. These days, the de facto methodology involves Hibernate and DAOs, usually managed by Spring.
+
+This article will detail the steps I recently took to covert a large application from custom-written data access to Hibernate and Spring using the refactoring facilities in Eclipse. The key with this refactorization is to get the existing business logic code (Struts Actions, JSPs, Delegate classes, Business Service classes, etc.) to access the datastore using Hibernate, managed by Spring, without manually changing any of that code directly. Part 1 will include creating the Hibernate data object classes, DAOs, and refactoring the existing code to work with these newly created types. Part 2 will conclude the project with integration of the Hibernate DAOs and wiring everything up with Spring.
+
+First of all, we need to create our Hibernate model and DAO classes. Obviously, since we're dealing with a legacy application and data structure, we will want to use a bottom-up approach to building our data access layer. This just means that we're going to generate the Java code and appropriate Hibernate config files from the existing database. There are many tools freely available to make this process very painless. I recommend an Eclipse Plugin for creating and maintaining the Hibernate artifacts (Google “Hibernate Eclipse Plugin” to get started). The structure and requirements for creating Hibernate classes and config files are well documented elsewhere, so I won't go into detail here. However, in this particular project, the Hibernate DAO lifecycles are managed by Spring, so the DAO classes should all extend HibernateDAOSupport.
+
+Now we have java classes (POJOs) which map to our database tables, but none of the existing code uses these new data object classes. This is where the refactoring tools of Eclipse comes in really handy. For example, say we have a legacy class called AccountInfo which corresponds to the ACCOUNT database table. Right-click the class and select Refactor -> Extract Interface. On the dialogue box, call the new interface IAccount and make sure you select “Use the extracted interface type where possible.” Choose the other options according to your preferences. Click OK and kick back while Eclipse changes every occurence of AccountInfo references to IAccount references and recompiles. Of course, do this with each object model class.
+
+If you never realized why OOP languages are so great, you're about to. Now we're going to refactor the code so that all of the existing legacy can be hooked into the new Hibernate model classes instead of the legacy ones. Continuing with the AccountInfo example, create a new class – you'll probably want to create a new package for this step – called Account that extends the Hibernate POJO for Account and implements the new IAccount interface.
+
+This next part is the most time-consuming, but really isn't that bad. At this point, the newly created class will probably contain a bunch of empty methods containing only TODO comments. This is because the IAccount interface most likely defies a bunch of methods that are not implemented in the Hibernate Account POJO. To deal with these, we basically want the new Account class to delegate to its generated superclass whenever necessary to satisfy its contract as an IAccount type. As a real world example from the application I was working on, the legacy AccountInfo class defined a getter/setter pair for a property called username, whereas the corresponding column in the ACCOUNT table was actually LOGIN_NAME. To deal with this, you would simply implement the get/setUsername methods in Account to delegate to get/setLoginName (from its superclass). I also had to translate between various data types quite a bit. For example, the legacy code would define many properties as Strings even though the corresponding piece of data in the database was defined as an INT or TIMESTAMP. Again, do this with each object model class.
+
+To finish up the data model layer, edit the appropriate Hibernate and Spring configuration files to refer to these new object model classes. The application now has the ability to map database records to Java objects via Hibernate, and the legacy code which refers to these classes has not required any editing by hand. To finish up this refactorization project, we need to hook in the Spring-supported Hibernate DAOs in a similar way. In Part 2 of this article, I will discuss refactoring the legacy code to read, write, and update data using Hibernate and Spring.
+
+

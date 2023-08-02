@@ -1,0 +1,30 @@
+Title: 
+5 Features Your Web Host Must Have
+
+Word Count:
+558
+
+Summary:
+It is important that your web host has all the greatest features and technologies. However, you may not be aware of what you should look for in a web host. They all say they are the best, most reliable, etc. but how do you decipher who is really telling the truth? How do you find out what is really important when choosing a web host? In this article you will find the 5 things your web host must have. When you are researching a web host and you come across one that does not ha...
+
+
+Keywords:
+
+
+
+Article Body:
+It is important that your web host has all the greatest features and technologies. However, you may not be aware of what you should look for in a web host. They all say they are the best, most reliable, etc. but how do you decipher who is really telling the truth? How do you find out what is really important when choosing a web host? In this article you will find the 5 things your web host must have. When you are researching a web host and you come across one that does not have these 5 things just click away to find one that does have what you need. 
+
+5 Features Your Web Host Must Have –
+
+1.	Greatest Control Panel: The control panel is the place you will be visiting most often, so it should be easy to use, have all the features you need, etc. You can find a great control panel with cPanel, which provides one of the best control panel user experiences among all of the others. CPanel offers more than 42 different icons, 50 of the most used PHP scripts, shopping carts, forums, and even a WordPress blog – one of the best blog hosts out there. cPanel also provides an easy to use layout and navigation so when you do use it you can forget about frustration. 
+
+2.	On 24-7: Your web host should be working for you around the clock. This will keep your website up and running 99.9% of the time, and the server should be able to locate and repair any problems as soon as they appear. It is rare that a server could become inactive, but if/when it does happen, you do not want it to happen to your website. That could mean lost sales, lost visitors, and maybe even lost customers for life. No one wants that. The web host should be working all of the time – no exceptions. It should constantly monitor your website at least every few minutes for problems, check your server load and RAM, and be able to let administrators know immediately so they can instantaneously fix the problem. Your web host should also provide a fire wall to keep your website safe from hackers, viruses, and anything else that could effect your website. 
+
+3.	An Outstanding Server: If you want to avoid regular problems and too much downtime (all that can be avoided) you need to find a web host with a reliable server. The web host’s server should have multiple hard drives, good RAM, the latest CPUs, the best power supply, quality motherboards, a great cooling system, and a testing system for all new servers. 
+
+4.	Linux Servers: No, you do not need windows servers. You should get a web host that uses Linux only. You don’t need to have Linux on your own computer to have a web host that uses Linux. Linux has been shown to be more reliable and able to handle larger loads than other server operating systems. It is even better at virus protection and has a better uptime than others. 
+
+5.	Free Features: Your web host should provide you with a variety of free features, or features that you can use for a small fee. These features should include things that you can use for your website such as graphics, blogs, paid pages, sub domains, interesting facts to add to your website, forums, and more.
+
+

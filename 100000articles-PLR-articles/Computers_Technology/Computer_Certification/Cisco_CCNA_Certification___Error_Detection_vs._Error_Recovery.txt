@@ -1,0 +1,26 @@
+Title: 
+Cisco CCNA Certification:  Error Detection vs. Error Recovery
+
+Word Count:
+267
+
+Summary:
+One of the keys to passing the CCNA is noticing and knowing the details of each technology.  Learn the vital details of error detection and error recovery in this free tutorial from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccna,free,exam,pass,certification,icnd,intro,error,detection,recovery,frame,segment,tcp,fcs,crc,transport, layer,data,link
+
+
+Article Body:
+Passing the CCNA, Intro, and ICND exam is all about knowing and noticing the details.  (Which makes perfect sense, since becoming a master networking administrator or engineer is also about noticing the details!)  One such detail knows the difference between error detection and error recovery.  While the terms are sometimes used interchangeably, they are not the same thing. 
+ 
+Error detection is just that - error detection only.  Two common error detection methods are found at the Data Link layer of the OSI model, the FCS (Frame Check Sequence) and CRC (Cyclical Redundancy Check).  A mathematical equation is run against the data in the frame, and the result is sent along with the data.  The receiver runs the equation again, but this time.  If the result is the same, the frame is considered valid; if the result is different, the frame is considered corrupt and is discarded.
+
+Note that the FCS and CRC do nothing in regards to retransmission.  They are strictly error detection schemes.
+
+For an example of error recovery, we look to the Transport layer, where TCP runs.  TCP performs reliable delivery, and the reason we call it "reliable" is that TCP uses sequence numbers to detect missing segments.  If the sender determines from the sequence numbers that the remote host did not receive transmitted segments, the sender will retransmit the missing segments.
+
+The key to keeping the terms straight in your head is to remember that while both error detection and error recovery both detect problems, only error recovery does anything about it. It's also worth reading an exam question twice when you see either term!
+
+

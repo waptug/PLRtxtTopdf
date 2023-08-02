@@ -1,0 +1,46 @@
+Title: 
+Good Computer Maintenance - Part One
+
+Word Count:
+595
+
+Summary:
+Normally we think of maintenance as a chore, something we have to do to keep things running smoothly and prevent problems down the road, whether with our car, house, or computer.  But with a PC, maintenance can actually be fun ... approached from the right perspective.
+
+
+Keywords:
+computer maintenance, computer cleaning, utilities, automated maintenance, PC cleaning
+
+
+Article Body:
+Normally we think of maintenance as a chore, something we have to do to keep things running smoothly and prevent problems down the road, whether with our car, house, or computer.  But with a PC, maintenance can actually be fun ... approached from the right perspective. 
+
+Automatic Updates
+
+The "joy" of computer maintenacne takes many forms.  These days, automation is the byword.  Operating systems such as Microsoft Windows and Symantec's Norton Interenet Security let you automatically keep crucial parts of your computer system up to date.  It's fun to watch the technology keep tabs on itself. 
+
+The security vulnerablilites of Windows are legion, and this forces you to download patches and updates if you want to minimuze your exposure to hackers seeking to break into your system over the Internet.
+
+You can run Windows Update periodically through Microsoft Internet Explorer, which automatically detects which versions of Windows components you currently have installed and, by checking with Microsoft's site, which have newer versions.
+
+Or, if you are running Windows XP Home Edition, you can automate things even further by directing Windows to check for "critical updates" by itself at the frequency and time of your choosing.  From the Control Panel, go to System and click Automatic Updates to specify your settings.
+
+Website Updates
+
+You can keep your other software up to date by periodically checking the Websites of the respective manufacturers.  Typically, by pulling down the program's Help menu, you will quickly be directed to the site.  But the Website VersionTracker (www.techtracker.com/products) does something similar with multiple programs, for free, whether you have a Windows PC or a Mac.  The ad-supported site has 30,000 programs in its database.  Pay versions, starting at $24.95, automatically alert you when new updates of programs that you're using become available.
+
+Using Utilities
+
+Staying up to date is crucially important these days in keeping the bad guys away from your computer and those using it.  A good utility suite for this is Norton Internet Security (www.symantec.com), which combines such crucial tools as a firewall, anti-virus program, porn-blocker, spam filter, spyware detector, and pop-up ad blocker. If you use the program, make sure you let its LiveUpdate feature automatically keep your virus definitions and other components up to date.
+
+Symantec's other utility suite, Norton SystemWorks, is less useful, and if you need system tools more powerful than those provided by Windows itself, a better package overall is V Communications' SystemSuite (www.v-com.com).
+
+SystemSuite includes tools for preventing and recovering from hard disk crashes, recovering accidentally erased files, completely uninstalling programs you no longer need, and completely shredding sesitive files.  It also has an excellent file manager, PowerDesk, that makes quicker work of copying, moving, deleting, and otherwise manipulating files than Windows Explorer.
+
+With today's large and fast hard drives and more efficient operating systems, one maintenance task that's no longer as necessary is disk defragmenting.  When working with files over time, they invariably wind up stored in places at different locations on your hard disk.  Running a defragmenter gathers up the pieces and places them together in one contiguous location.
+
+Recent testing by the computer magazine PC World, however, showed that defragging no longer improves performance the way it used to.  It still makes sense to defrag once in a while, though unless it's for a network file server, there's usually no need to buy a separate program for this beyond what comes with Windows itself.
+
+So in all ... even automated maintenance can be fun in that it is automated and can leave you more time for other endevours.
+
+

@@ -1,0 +1,36 @@
+Title: 
+Knowing Your Cell Phone
+
+Word Count:
+604
+
+Summary:
+No one doubts that cell phone (cellular) is one of the most used consumer electronics worldwide. But have you ever asked yourself how does a cell phone work? What is a cell phone?
+
+The amazing fact about a cell phone (cellular) is that it is a radio - a very special one. The gurus in the line are Bell (1876), Tesla (1880) followed by Marconi and Bose (late 19th century). It is known that the concept of cell phone was produced by Bell Laboratories with the permission of FCC ...
+
+
+Keywords:
+cell phone, telephone, cellular, celular
+
+
+Article Body:
+No one doubts that cell phone (cellular) is one of the most used consumer electronics worldwide. But have you ever asked yourself how does a cell phone work? What is a cell phone?
+
+The amazing fact about a cell phone (cellular) is that it is a radio - a very special one. The gurus in the line are Bell (1876), Tesla (1880) followed by Marconi and Bose (late 19th century). It is known that the concept of cell phone was produced by Bell Laboratories with the permission of FCC (Federal Communication Commission), and had everything to do with broadcasting and sending a radio message out over the airwaves.
+
+In cell phone technology cells divide the city, allowing for the facility to be frequently reused throughout the city. Millions can simultaneously avail of it.
+
+In devices that are half-duplex (walkie-talkies and CB radios) two communicators use a single frequency. This means that at a single point of time only one can talk. On the other hand a cell phone (cellular) being a full duplex tool has two frequencies: one for talking and the other for listening. Thus a real-life conversation can take place. Cell phones (cellular) glide through 1,664 channels whereas the walkie-talkie group has to be content with only 40. The walkie-talkie and the CB radio respectively reaches out to 1 mile and 5 miles but the cell phones, because of their ability to switch from cell to cell can cover incredible distances, even while driving at top speed. Each cell is approximately 10 square miles.
+
+The cells are usually depicted as hexagons. The unique frequency tiers avoid all possibilities of cross connections. Generally a carrier of cell phone can avail of 832 radio frequencies in a city. Each cell phone (cellular) uses 395 voice channels (per carrier), that is 56 voice channels per cell. It means 56 persons can simultaneously say hello on the phone. In digital transmission technology the number of channels increases even further. For each cell phone 168 channels is available.
+
+The distinctiveness about cell phones (cellular) is their low-power transmitters. Most use 2 strengths: 0.6 watts and 0.3 watts. In comparison it is 4 watts for CB radios. The advantage of this is that it can be frequently reused consuming less power. Cell phones are battery operated. The lower the power the smaller the battery. This makes the set handy and light.
+
+For cellular technology a city requires a good number of base stations. This can run into some hundreds of towers. But because of the huge number of users costs per head remain very low. Each carrier has one center called MTSO or Mobile Telephone Switching Office. Its work is to see to all the connections.
+
+Cell phones (cellular) each have codes, which enable identification of the phone, its user and its server. When someone tries to reach a phone the first thing is to locate the SID (system identification code) on the control channel, that is find out if the phone is within range or not. A message relays no-service when it is out of range. But when the SID is received then the next step is to find out whether the call is within its own home zone or not. The phone also tracks the location of the phone called on a database. Thus the MTSO knows the cell of the called number and caller. Communication is transmitted through the control channel and it is this link that activates the phone being called and calling.
+
+These are the facts of a cell phone (cellular) as explained for a layman. It is always advisable to know at least the basics of a cell phone since it has become an integral part of our life.
+
+

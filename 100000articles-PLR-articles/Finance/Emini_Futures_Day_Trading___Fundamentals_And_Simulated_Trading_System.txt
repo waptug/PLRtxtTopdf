@@ -1,0 +1,33 @@
+Title: 
+Emini Futures Day Trading : Fundamentals And Simulated Trading System
+
+Word Count:
+519
+
+Summary:
+Fundamental Analysis
+Fundamental analysis is a methodology for analysis of a company as a viable stock that you want to hold for long term. Fundamental analysis is more widespread in the world of investing since you are going to hold your companies for 10 to 20 years, you do not wish that your companies go bankrupt the next day. Some of the common ratios used are P/E ratios (price earnings ratios) which measures the relative price of the stock to the earnings of the company,...
+
+
+Keywords:
+emini, S&P 500, futures, nasdaq 100, day trade, day trading, simulated trading system, fundamentals
+
+
+Article Body:
+Fundamental Analysis
+Fundamental analysis is a methodology for analysis of a company as a viable stock that you want to hold for long term. Fundamental analysis is more widespread in the world of investing since you are going to hold your companies for 10 to 20 years, you do not wish that your companies go bankrupt the next day. Some of the common ratios used are P/E ratios (price earnings ratios) which measures the relative price of the stock to the earnings of the company, the EPS (earnings per share), the debt equity ratio and tons of other ratios. 
+
+Although I have spent considerable time studying such ratios I discovered that you do not really need such information to be successful in day trading. I repeat, fundamental analysis plays a marginal role in day trading. In fact, most of the time, I don't follow it at all. If you still have reservations about ignoring fundamental analysis, I recommend trading ETFs (exchange traded funds) such as QQQQ which mirrors the movement of the NASDAQ 100. In essence, you are actually trading the index like a normal stock. Indexes usually have a huge number of stocks in them, making them less susceptible to company specific news. However if you are paranoid, then you might still want to follow the news of the major companies in the index. 
+
+here is no lack of information and no end to analysis. Knowing the fundamentals might seem cool when you discuss company so and so over a cocktail party, but it will not help you rip money off Wall Street in day trading. Being able to remove fundamental analysis from the decision making process is also one of the reasons why I recommend trading Emini index futures.
+
+Paper Trading: Don't Ever Underestimate it!
+Paper trading refers to trading with virtual money, you do not use real money. You jot down in your notebook when you bought at what price and why. When you sell, you record in your notebook again why you sold and calculate the profit or loss associated with the trade. 
+
+If you cannot make money by paper trading, you can forget about making money in real trading. Always test a new trading idea with paper trading first before using real money. Also start with paper trading after a long period of break, to help you get back in touch with trading. 
+
+Although there is very little difference between paper trading and real trading in Emini, real trading is subjected to slippage and psychological factors come into play when you are using real money. Do not underestimate the impact of psychological factors on your trading. After you have a reasonable method and money management techniques, it is the psychological factors which will determine whether you make a profit or loss. 
+
+Some traders have created software to paper trade. You hit the buttons like you are doing real trading but only virtual money is involved and no real cash is used. The system will record down the time, price, symbol and the position opened or closed. This saves you the trouble of keeping a paper record.
+
+

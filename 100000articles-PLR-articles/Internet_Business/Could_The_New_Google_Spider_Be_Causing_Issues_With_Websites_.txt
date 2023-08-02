@@ -1,0 +1,74 @@
+Title: 
+Could The New Google Spider Be Causing Issues With Websites?
+
+Word Count:
+800
+
+Summary:
+Around the time Google announced "Big Daddy," there was a new Googlebot roaming the web. Since then I've heard stories from clients of websites and servers going down and previously unindexed content getting indexed.
+
+I started digging into this and you'd be surprised at what I found out.
+
+First, let's look at the timeline of events:
+
+In Late September some astute spider watchers over at Webmasterworld spotted unique Googlebot activity. In fact, it was in this thread: h...
+
+
+Keywords:
+Google Spider, Internet,Internet Marketing,Googlebots,Googlebot,spidering,spiders,crawlers
+
+
+Article Body:
+Around the time Google announced "Big Daddy," there was a new Googlebot roaming the web. Since then I've heard stories from clients of websites and servers going down and previously unindexed content getting indexed.
+
+I started digging into this and you'd be surprised at what I found out.
+
+First, let's look at the timeline of events:
+
+In Late September some astute spider watchers over at Webmasterworld spotted unique Googlebot activity. In fact, it was in this thread: http://www.webmasterworld.com/forum3/25897-9-10.htm that the bot was first reported on. It concerned some posters who thought that perhaps this could be regular users masquerading as the famous bot.
+
+Early on it also appeared that the new bot wasn't obeying the Robots.txt file. This is the protocol which allows or denies crawling to parts of a website.
+
+Speculation grew on what the new crawler was until Matt Cutts mentioned a new Google test data center http://www.mattcutts.com/blog/good-magazines/#comment-5293. For those that don't know, Matt Cutts is a senior engineer with Google and one of the few Google employees talking to us "regular folk." This mention happened in November.
+
+There wasn't much mention of Big Daddy until early January of this year when Matt again blogged about it asking for feedback. http://www.mattcutts.com/blog/bigdaddy/
+
+Much feedback was given on the accuracy of the results. There were also those that asked if the Mozilla Googlebot (known as "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" in your visitor logs) and Big Daddy were related, but no response was made.
+
+Now I'm going to begin some of my own speculation:
+
+I do in fact believe the two are related. In fact, I think this new crawler will eventually replace the old crawlers just as Big Daddy will replace the current data infrastructure. http://www.textlinkbrokers.com/blogs/comments/310_0_1_0_C/
+
+Why is this important?
+
+Based on my observations, this crawler may be able to do so much more than the old crawler.
+
+For one, it emulates a newer browser. The old bot was based on the Lynx text based browser. While I'm sure Google added features as time went on, the basic Lynx browser is just that – basic.
+
+Which explains why Google couldn't deal with things like JavaScript, CSS and Flash.
+
+However, with the new spider, built on the Mozilla engine, there are so many possibilities.
+
+Just look at what your Mozilla or Firefox browser can do itself – render CSS, read and execute JavaScript and other scripting languages, even emulate other browsers.
+
+But that's not all.
+
+I've talked to a few of my clients and their sites are getting hammered by this new spider. It has gotten so bad that some of their servers have gone down because of the volume of traffic from this one spider!
+
+On the plus side, I have clients who went from a few hundred thousand indexed pages to over 10 million in just a few weeks! Literally since December, 2005 there's been a 3500% increase in indexed pages over an 8 week period! Just so you know, this is also the client's site that went down because of the huge volume of crawling happening.
+
+But that's still not all.
+
+I have another client which uses IP recognition to serve content based on a person's geographic location. If you live in the US you get American content and pricing; if you live in the UK you get UK content and pricing. As you may imagine, the UK, US, Canadian and Australian content is all very similar. In fact about the only thing noticeably different is the pricing aspect.
+
+This is my concern – if the duplicate content gets indexed by Google what will they do? There's a good chance that the site would be penalized or even banned for violation of the webmaster quality guidelines set forth by Google here: http://www.google.com/webmasters/guidelines.html#quality
+
+This is why we implemented IP recognition – so that Googlebot, which crawls from US IP addresses only sees one version of the site.
+
+However, a review of the server logs shows that this new Googlebot has been visiting not only the US content but also the content of the other sections of the site. Naturally, I wanted to verify that the IP recognition was working. It is. This leads me to wonder then; can this browser spoof its location and/or use a proxy?
+
+Imagine that – the browser is smart enough to do some of its own testing by viewing the site from multiple IP addresses. If that's the case then those who cloak sites are going to have problems.
+
+In any case, from the limited observations I've made, this new Google – both the data center and the spider – are going to change the way we do things.
+
+

@@ -1,0 +1,22 @@
+Title: 
+UMTS
+
+Word Count:
+412
+
+Summary:
+UMTS (Universal Mobile Telephone Service) is a third generation (3G) cellular technology, which provides data speeds up to 2 Mbps making portable videophones a reality. UMTS was developed and standardized by ETSI (European Telecommunications Standard Institute) within the ITU's IMT-200 framework. The technology is optimized to allow state of the art, very high-speed multimedia services such videoconferencing, full motion video, and Internet access.
+
+
+Keywords:
+UMTS
+
+
+Article Body:
+UMTS (Universal Mobile Telephone Service) is a third generation (3G) cellular technology, which provides data speeds up to 2 Mbps making portable videophones a reality. UMTS was developed and standardized by ETSI (European Telecommunications Standard Institute) within the ITU's IMT-200 framework. The technology is optimized to allow state of the art, very high-speed multimedia services such videoconferencing, full motion video, and Internet access.
+UMTS features the support of several leading telecommunications operators and manufacturers. Universal Mobile Telephone Service has attempted to create an opportunity to build a market for highly customized and user-friendly mobile access to the information society. The intention of UMTS is to create and extend the capability of today's mobile, cordless and other satellite technologies by providing more data capability, capacity, and an increased and greater range of services. This is achieved by using an innovative radio access scheme and an enhanced and ever evolving core network.
+UMTS offers a wide range of tele-services and bearer services. Tele-services include services such as speech or SMS. Bearer services provide the capability for transferring information from one point to another. Universal Mobile Telephone Service also has the ability to negotiate and renegotiate the characteristics of a bearer service at a connection establishment or session and during connection or ongoing session. Both connectionless services and connection oriented services are provided for Point to Multipoint and Point to Point communication.
+UMTS's bearer services features various QoS parameters for maximum transfer delay, bit error rate, and delay variations. Also offered byUMTS are data rate targets that include 144 kbits satellite and rural outdoors, 384 kbits urban outdoor and 2048 kbits indoor and low range outdoor. UMTS network services feature various QoS classes for four types of traffic such as: Streaming class which included video on demand, multimedia, and web casts, Conversational class which included voice, video gaming, and video telephony, Background class which included SMS, downloading, and email, and finally Interactive class which included network gaming, database access, and web browsing.
+Universal Mobile Telephone service also boasts a VHE or Virtual Home Environment. VHE is a concept that has been developed for personal service environment portability across network boundaries and between various terminals. Personal service environment ensures that wherever the user is located or whatever network or terminal the user may be using, they are getting the same User Interface customization, personalized features, and services. UMTS ensures location based services and improved network security, making it attractive for users as well as highly efficient for them to use.
+
+

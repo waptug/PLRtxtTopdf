@@ -1,0 +1,28 @@
+Title: 
+Text Search Engines - How Does It Work
+
+Word Count:
+525
+
+Summary:
+Search engines are a common thing that is used whenever the internet is accessed. The most common search engines are free ones like: Google Search and Yahoo! Search. These engines are called internet search engines. They work on the principle of looking for keywords in different articles or files all over the World Wide Web. There are also search engines in your own personal computers. Most of the time they are general search engines and they are capable of looking for all so...
+
+
+Keywords:
+text search engine,searching text,find text
+
+
+Article Body:
+Search engines are a common thing that is used whenever the internet is accessed. The most common search engines are free ones like: Google Search and Yahoo! Search. These engines are called internet search engines. They work on the principle of looking for keywords in different articles or files all over the World Wide Web. There are also search engines in your own personal computers. Most of the time they are general search engines and they are capable of looking for all sorts of files, from documents to music and pictures. These search engines can easily be converted into text search engines by specifying the category that you want to search in.
+
+This type of search engine is most of the time helpful, but it does have its failings. For example, search engine operating on Microsoft Outlook are unable to look up files that are attached documents to emails. For these kinds of searches, you need the help of some Text Search Engine Software that can do them faster and much more meticulously than the regular search engine that your computer is equipped with.
+
+A text search engine is a sub type of the general search engines. Instead of searching for everything that comes up as relevant to the keywords entered, text search engine - as the name imply, focuses on the searching computers and other file storage systems for text that correspond to the data entered by the user. A text search engine works by not only looking up the titles of the files that you search through, but it looks at the document's whole body of text. This way, if you do not have the exact title of the document you are looking for, you can just look up some keywords that are present in the searched article.
+
+A more in depth look on the workings of a Text Search Engine reveals Preprocessing, indexing, stemming and more. These procedures help make built in search engines as well as downloaded ones work. Most of these programs need to take root before they can function efficiently. Taking root involves the program breaking down into desired units that are easily retrievable. It then proceeds to Isolate and tag document pieces. It moves on to the process of indexing documents by identifying those that can be considered to fall into the same category.
+
+It then deletes any STOP WORDS, stop words are terms that are deemed to be of little value to the search. If not removed, these stop words can considerably slow down the search process. After these procedures, the program proceeds to index the terms and makes itself ready for use.
+
+Some downloadable Text search engines include: DtSearch Desktop Spider, Lucine, HotBot Desktop, Blinkx, NEO Pro, and others. These text search engines work well and quickly because they have been programmed for such jobs. When you are attempting to look up files in a Microsoft Outlook, any of these search engines would do great. There are also text search engines that are available for download, two of these programs are Lookout Desktop as well as Google Desktop. These programs will search your computer efficiently and quickly.
+
+

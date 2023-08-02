@@ -1,0 +1,32 @@
+Title: 
+The 46.3% Marginal Bracket
+
+Word Count:
+479
+
+Summary:
+Despite the new tax rate reductions of the Jobs and Growth Tax Relief Reconciliation Act of 2003, the top marginal tax bracket for many retirees is a whopping 46.3%.  Why?  Because Social Security benefits are subject to income tax.  Those affected are Social Security recipients who have the good
+
+
+Keywords:
+retirement, tax, investment, 401k, help, advice, financial planning, Ohio, IRA
+
+
+Article Body:
+Despite the new tax rate reductions of the Jobs and Growth Tax Relief Reconciliation Act of 2003, the top marginal tax bracket for many retirees is a whopping 46.3%.  Why?  Because Social Security benefits are subject to income tax.  Those affected are Social Security recipients who have the good fortune (misfortune?) to be subject to both the 25% income tax bracket and the 85% inclusion rate for Social Security benefits.    
+
+Here's how it works.  First, you must understand how Social Security benefits are taxed.  The income tax formula begins with the calculation of combined income.  For all practical purposes, combined income equals adjusted gross income (not including Social Security), plus municipal income, plus one half of the taxpayer's Social Security benefit.
+
+So far, so good.  If a married couple’s income is under $32,000 ($25,000 for a single taxpayer), Social Security benefits are not taxable.  If combined income is between $32,000 and $44,000 (or $25,000 and $34,000 for a single person), the taxable amount of Social Security equals the lesser of one half of Social Security benefits or one half of the difference between combined income and $32,000 ($25,000 if single).  Up until now, it’s not too complicated.
+
+Here's where the real fun begins.  If the taxpayers' combined income is over $44,000 ($34,000 if single), the taxable amount of Social Security equals: the lesser of (1) 85% of the benefit, or (2) the sum of 85% of combined income over $44,000 ($34,000 if single) plus the lesser of $6,000 ($4,500 if single) or the amount of Social Security taxable under the old rules.  Nobody ever said new tax laws created tax simplification.
+
+Here's how we come up with that 46.3% bracket.  In order to illustrate an increase in the marginal tax, you have to compute taxable income.  Taxable income, as we all know, is net of allowable deductions and exemptions.  The standard deduction (that many retired people claim), personal exemptions and the tax brackets are all adjusted annually for inflation.
+
+Assume Hank is over 65, files single, utilizes the standard deduction, and has total 2006 adjusted gross income (exclusive of Social Security benefits) of $39,000 and receives $21,900 in Social Security benefits.  That makes his income $49,950 (39,000 + (21,900 x .5)).  He exceeds the threshold, so taxable Social Security equals the lesser of (1) $18,615 (85% of $21,900), or (2) the sum of $13,558 (($49,950 - $34,000) x 85%) and $4,500.  Since $18,058 is less than $18,615 the taxable amount of his Social Security benefits equals $18,058.
+
+That makes his final adjusted gross income $57,058 ($39,000 plus $18,058).  After he takes his 2006 standard deduction of $6,400 ($5,150 + $1,250 for age 65 or over) and a personal exemption of $3,300, his taxable income is $47,358.  That puts him in the 25% marginal tax bracket.  If Hank's income goes up by $10 of taxable income he will pay $2.50 in taxes on that $10 plus $2.13 in tax on the additional $8.50 of Social Security benefits that will become taxable.  Combine $2.50 and $2.13 and you get $4.63 or a 46.5% tax on a $10 swing in taxable income.  Bingo...a 46.3% marginal bracket.
+
+Check with your financial planner or tax advisor about how changes in your investments and income can affect your overall tax picture.
+
+

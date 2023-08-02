@@ -1,0 +1,101 @@
+Title: 
+Finding The Right Expense Management Solution For Your Company
+
+Word Count:
+1269
+
+Summary:
+In recent times, initiatives such as the Sarbannes Oxley Act in the US have dramatically raised the profile of compliance within the corporate world. As a key element of any corporate compliance policy, expense management has shared some of the limelight. As a result, an Expense Management Solution (EMS) is now critical to any business concerned with corporate compliance. But what is an Expense Management Solution (EMS)? Does your company need one? And where do you find a goo...
+
+
+Keywords:
+expense management solution,ems,expense management
+
+
+Article Body:
+In recent times, initiatives such as the Sarbannes Oxley Act in the US have dramatically raised the profile of compliance within the corporate world. As a key element of any corporate compliance policy, expense management has shared some of the limelight. As a result, an Expense Management Solution (EMS) is now critical to any business concerned with corporate compliance. But what is an Expense Management Solution (EMS)? Does your company need one? And where do you find a good one? Just as importantly, how do you successfully implement and integrate an Expense Management Solution (EMS) into your corporate environment. This article sheds some light on these issues. 
+
+What is an Expense Management Solution (EMS)? 
+
+The term “expense management solution” has been used to describe quite different commercial products and services. In the context of this article, an expense management solution is defined as a technology based system that processes:
+
+(i) transaction records received from a credit card issuer (detailing employee use of corporate credit cards0; and 
+
+(ii) cash reimbursement claims originated by an employee. 
+
+In practice the target application is Travel and Entertainment expenditure. A robust Expense Management Solution (EMS) will also support procurement (pCard) activities as part of a broader strategy of effectively managing lower value, high volume business-to-business transactions. 
+
+The three core steps of any expense management process are:
+ 
+1. the acceptance/input of validated source data; 
+2. the application of predetermined rules of handling expense records; and 
+3. the posting of transactions to a corporate repository such as an ERP system. 
+
+What is the purpose of an Expense Management Solution (EMS)? 
+
+The objectives of an expense management solution implementation should include the following:
+ 
+1. to automate the preparation, submission, approval, and auditing of travel & entertainment claims, thus improving the productivity of account holders and reducing the time and cost of accounts staff; 
+
+2. to support the implementation of a standardized best practice method of managing high volume expenses through the use of corporate credit cards; and 
+
+3. to increase the transparency and enhance the governance of financial transactions conducted on behalf of the enterprise. 
+
+Sources of Expense Management Solutions 
+
+Australian and international organizations now have access to a range of quality expense management solutions which are well suited to driving down administration cost whilst meeting corporate compliance requirements. There are essentially three sources of “expense management solutions”:
+ 
+1. ERP systems; 
+2. systems offered by card issuers; and 
+3. best-of-breed solutions. 
+
+Each will have their own merits and will suit organizations in different circumstances. 
+
+Enterprise Resource Planning (ERP) Systems
+ 
+ERP sourced expense management has the attraction of being fully integrated within the financial suite of software, therefore offering a standard look and feel to all users of the ERP. With ERP sourced expense management functionality, the ERP supplies the core software, and the enterprise needs to customize and configure the system to reflect its own structures and rules regarding the management of staff expenses. If you're considering the option of using their ERP for expense management, you need to be conscious of a number of factors, including:
+
+• the actual functionality available within their specific installed ERP system; 
+• the backlog of work on the ERP system accumulated for the IT department; and 
+• the deployment time and the cost of the project (which will usually be substantial). 
+License costs can be an issue if an enterprise if your company has not paid a license fee that will cover all card account holders and cash claimants. 
+
+Card Issuer Systems
+
+Some card issuers promote “expense management” solutions which can range from a computer generated report through to an online system with some embedded workflow concepts. The attraction of card issuer expense management solutions is that they are offered as part of a card deal, sometimes (apparently) for free. If you're considering a card issuer expense management solution, you need to know:
+
+• will you be 'locked in' to the card issuer?; and 
+• will you be able to configure the expense management solution to adequately reflect internal requirements? 
+
+Best-of-Breed Solutions
+ 
+Best-of-breed expense management solutions from specialist providers can be relatively seamlessly interfaced to an organization's internal systems such as HR and ERP, but will not present a common look and feel to the ERP system. You would usually choose a best-of-breed expense management solution if you want:
+
+1. your company to be independent of a particular card issuer; 
+2. to achieve a fast implementation; and/or 
+3. to configure the solution to its own unique rules and policies of expense administration.
+ 
+Best-of-breed expense management solutions are typically deployed as either an ASP (Application Service Provider) or self hosted solution. Although exceptions are common, small to medium enterprises tend to appreciate the lower up-front cost of an ASP expense management solution, and larger enterprises are attracted to the control available through a self-hosted expense management solution. ASP expense management solutions are typically paid for on a per statement per month basis, and self-hosted expense management solutions have a range of options available from up-front license fees to monthly license rentals. 
+
+Overcoming the Cultural Resistance to Expense Management Solutions 
+
+Some Finance Directors still have an aversion to corporate credit cards. It's not uncommon to hear a finance director say “if I give everyone a card, they'll spend us broke!” 
+
+However, the benefits of an Expense Management Solution are apparent as soon as the Finance Director considers the difficulties of controlling the expenditure behavior of thousands of employees using a manual system of reimbursements which is largely based around a set of uncoordinated spreadsheets. Basic activities such as enforcing travel policies, calculating tax implications, reconciling, posting to a chart of accounts at a detailed level and auditing, are so difficult as to be more honored in the breach than the observance... 
+
+Viewed from a different perspective, a company with revenues of $700m $50m in EBITDA, and $20m in annual employee business expenses, can make a dramatic impact on its bottom line using an expense management solution without increasing revenue. If automation reduces these expenses by only five per cent in the first year, the savings alone have the same impact on the bottom line as $14m in new revenue. It isn’t surprising that the return on investment of an expense management project is often achieved within its first 12 months of operation. 
+
+Expense Management Solutions also play a vital role in Fraud Control. “Fraud” in this context takes many guises, not all of which are the sort that land perpetrators in court. Information taken from our own customer experience and from publications of the USA Association of Certified Fraud Examiners identify the top four categories of fraud:
+ 
+1. Mischaracterized expenses 
+2. Overstated (exaggerated) payments 
+3. Fictitious expenses 
+4. Multiple reimbursements 
+
+Research in the USA has pointed to as much as 1% of company revenues being lost to employee expense mismanagement. Expense Management Systems will not, in their own right, eliminate this but they are a vital tool in creating an environment that drives down the level of mismanagement. 
+
+Conclusion 
+
+Over the past 18 months, our company has observed a change in motivation for expense management projects. Whereas formerly expense management solutions were an exercise solely in the reduction of administration costs, now governance is equally a driver to implement technology based controls around high volume expenditure. The Sarbannes Oxley (SOX) act in the USA has captured the attention of any enterprise active in the USA. However, inside or outside the USA, the senior executives must warrant that their company has implemented adequate financial controls that prevent fraud and give a true and correct record of the enterprise’s financial activities. As a result, the Corporate Travel Manager who pitches a proposal on expense management to the senior executive team currently finds a willing audience.
+
+

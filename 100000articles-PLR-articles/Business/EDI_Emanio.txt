@@ -1,0 +1,32 @@
+Title: 
+EDI Emanio
+
+Word Count:
+513
+
+Summary:
+Electronic Data Interchange is the inter-organizational, computer-to-computer exchange of business documentation in a standard machine-processable format, by Emanio.
+
+
+Keywords:
+EDI Mapping, EDI Software, Emanio
+
+
+Article Body:
+EDI is short for Electronic Data Interchange. It is a trade exchange system that replaces common business forms and documents such as purchase orders, invoices, shipping documents, etc., with a computer-based communications and records keeping system.
+
+Another definition of <a href="http://www.emanio.com/">EDI</a>: “Electronic Data Interchange is the inter-organizational, computer-to-computer exchange of business documentation in a standard machine-processable format.”
+
+There are a number of key points in this definition that makes EDI very different from other forms of paper or electronic communications. Firstly, EDI happens between companies, it is cross enterprise. While the growth in the use of computers and other advanced technologies has been tremendous during the past decades, the same trend is beginning to happen between companies. While the technology of EDI can be used internally within an organization, by definition EDI is organization to organization.
+
+EDI happens between computers. The purpose of EDI is not to eliminate paper, but rather to eliminate the time and the data entry associated with paper. It is generally accepted that 70 percent of one computer’s business data output becomes a second computer’s data input. In a paper environment without EDI this means that the same information is being entered, in different processes, into both computers. With EDI, the computers are linked such that duplicate data entry does not take place.
+
+The purpose of EDI is to improve the flow and management of business information. Any information that, today, is on a business form of any kind, is appropriate for EDI. EDI is currently being used for all of the most common business transactions such as purchase orders, invoices, quotes, bills of lading, status reports, receiving advices; and also for some very specific transactions such as residential mortgage insurance applications, healthcare claim payments, and material safety data sheets.
+
+Because EDI is computer-to-computer communication, rather than person–to-person communication, the data being exchanged in EDI must be understandable to a computer. This means the data must be in some pre-established, structured format, thus allowing the data to be “read and understood” by the computer without human interpretation.
+
+As stated earlier, the purpose of EDI is to improve information management. EDI accomplishes this by reducing non-value added time and eliminating redundant data entry. The basic functioning of EDI, as compared to a paper-based system is illustrated in the paragraph below.
+
+In the basic EDI transaction that would be shown in a figure, the buyer’s computerized purchasing system creates an order on a paper form. The paper purchase order is delivered through some manual system to the supplier. When the order is received by the supplier, an order entry clerk abstracts information from the purchase order and enters it into an order entry system. With EDI, on the other hand, the data moves directly from the buyer’s computer to the seller’s computer, without any delivery or processing delays. In EDI, the transformation to a paper format, the interpretation of that paper format by an order entry clerk, and the re-entering of the data are functions that are no longer necessary.
+
+

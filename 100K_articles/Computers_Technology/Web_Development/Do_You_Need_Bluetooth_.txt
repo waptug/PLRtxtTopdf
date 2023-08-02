@@ -1,0 +1,46 @@
+Title: 
+Do You Need Bluetooth?
+
+Word Count:
+589
+
+Summary:
+When buying any digital electronic device, whether a cellphone, PDA, or notebook computer, it is important to check the specifications to ensure that it will serve your purposes. Bluetooth is becoming an increasingly popular offering in personal electronics, but do you need it?
+
+What Is Bluetooth?
+
+Bluetooth is a wireless PAN (Personal Area Network) transmission protocol standard. In layman’s terms, Bluetooth is a technology that enables a device to communicate and share ...
+
+
+Keywords:
+bluetooth,laptops,laptop,computers,computer,notebook computers,notebooks
+
+
+Article Body:
+When buying any digital electronic device, whether a cellphone, PDA, or notebook computer, it is important to check the specifications to ensure that it will serve your purposes. Bluetooth is becoming an increasingly popular offering in personal electronics, but do you need it?
+
+What Is Bluetooth?
+
+Bluetooth is a wireless PAN (Personal Area Network) transmission protocol standard. In layman’s terms, Bluetooth is a technology that enables a device to communicate and share data with other Bluetooth capable devices – cellphones, headsets, PDAs, notebook computers, desktop PCs, computer peripherals, printers, cameras, and others – through radio wave transmission (so there is no need for wires) at a range of around 1, 10, or 100 meters, depending on the class of your Bluetooth device (Class 1 has the longest range and Class 3 the shortest).
+
+If a device has a Bluetooth chip, it can communicate with other devices that have a Bluetooth chip. Users can share pictures, movies, datasheets, documents, and all sorts of information among them as long as their devices are in range (they do not need to be in direct line of sight). For instance, a Bluetooth-capable digital camera can communicate with a Bluetooth-capable printer for direct printing. Likewise, a Bluetooth-capable cellphone can be connected to a Bluetooth-equipped headset so that a person can take and make hands-free telephone calls.
+
+Bluetooth can be used for internet connectivity as long as a Bluetooth-enabled computer is in range of a Bluetooth modem. Bluetooth devices can also form a small wireless network (called a piconet) of up to 8 devices. For security, devices can be paired and transmissions encrypted. So that it causes only minimal interference, Bluetooth periodically changes frequency channels.
+
+Bluetooth uses the same radio frequency that 802.11 Wireless Networking does, but it is much simpler than 802.11 technology, negating the need for complex network configurations. Bluetooth also has lower power consumption, making it more economical, though its range is shorter.
+
+You Need Bluetooth
+
+If you wish to have an extremely basic home network, Bluetooth is for you. There are no wires to trip you and there are no complex configurations like network permissions or addresses to deal with. Piconets are temporary, so a new device can immediately join or leave a Bluetooth network with nothing more than a simple device discovery. It is important to note, however, that piconets are no substitution for a traditional home network (whether through Ethernet or 802.11 Wireless), which are much more reliable and offer much more full-bodied security options.
+
+If you have a notebook computer, there is a good chance you will want to have Bluetooth connectivity so that you can take advantage of the many Bluetooth-equipped peripherals, thereby eliminating the need for bulky wires. You can also easily synchronize data between your handheld devices and your notebook computer. Moreover, if you are fond of sharing data with other handheld device users, you definitely need to have Bluetooth for easy and convenient data sharing.
+
+You Don’t Need Bluetooth
+
+It is important to note that Bluetooth can present a security risk if you store sensitive information on your Bluetooth-enabled device. If you are traveling with sensitive information on your computer, cell-phone, or PDA, it is wise to disable Bluetooth temporarily to prevent data theft or exploitation. Please also note that some corporations and government entities disapprove of Bluetooth and similar convenience-based additions, so please check with your employer if you intend to use your Bluetooth-enabled notebook for business.
+
+This article may be republished freely as long as this copyright notice and box of resource links are included at the bottom.
+
+Copyright © 2007 MALIBAL, lLc
+
+

@@ -1,0 +1,24 @@
+Title: 
+What is RAM
+
+Word Count:
+349
+
+Summary:
+RAM operates much like a human being's short-term memory. Much like the human brain RAM is able to draw upon the computer's long term memory for information. This is often necessary when short term memory becomes full. Most computers come equipped with at least 256 million RAM bytes plus the hard disk which has the capability of holding 40 billion bytes.
+
+
+Keywords:
+Ram, memory
+
+
+Article Body:
+Anyone who works as their own tech geek on their computer system may be highly concerned about what is ram? It is a very important piece of a computer system. It is Random Access Memory which is the location where the application programs, the operating system, and data presently in use are stored. This way the computer's processor has the ability to reach them momentarily when needed. RAM is head and shoulders above the other various types of storage inside a computer system. It's even faster than floppy disk, hard disk, or CD-ROM. The information stored in RAM is only accessible for the length of time that a computer is begin run. Information previously stored in RAM disappears when a computer is shut down. When the computer is turned back on, information from hard disk is retrieved to bring RAM back to the forefront again. RAM is much like main memory that is accessible by programs.
+
+How Does it Work?
+RAM operates much like a human being's short-term memory. Much like the human brain RAM is able to draw upon the computer's long term memory for information. This is often necessary when short term memory becomes full. Most computers come equipped with at least 256 million RAM bytes plus the hard disk which has the capability of holding 40 billion bytes. Data is placed on a magnetized area that resembles a record. Computer printers also hold bytes of RAM as well. Each byte of RAM has the ability to be ascertained separately without the other bytes being accessed.
+
+Types of RAM
+RAM comes in dual forms. DRAM which is Dynamic Random Access Memory and SRAM which is Static Random Access Memory. DRAM is the most typical of the two types. DRAM requires refreshing at a rate reaching in the thousands each second. DRAM's times for accessing information are 60 nanoseconds. SRAM is more costly, but does operate at a much quicker pace than DRAM. The interlocking of a capacitor and a transistor produces a memory cell. This is one bit of data. Also, SRAM allows access at times as quick as 10 nanoseconds.
+
+

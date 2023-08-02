@@ -1,0 +1,50 @@
+Title: 
+Network Hardware Basics
+
+Word Count:
+771
+
+Summary:
+Even a basic knowledge of networking is a major asset in today's world. Even if you don't want to get into the details of the subject, the ability to connect your computer to other computers, a router or a peripheral will save you a lot of headaches.
+
+
+Keywords:
+networking, hardware
+
+
+Article Body:
+Even a basic knowledge of networking is a major asset in today's world. Even if you don't want to get into the details of the subject, the ability to connect your computer to other computers, a router or a peripheral will save you a lot of headaches. It is also a good idea to have a basic knowledge of the equipment you need and what it does. In this article we look at the basic building blocks of a computer network and explain what the various pieces of hardware do.
+
+Of course, any network will need at computers. If you are very new to the subject a good first lesson would be to attempt to connect two computers either by ethernet cable or wirelessly so that they can share information. If you can do this, you have created your first network.
+
+However, when you add more computers, printers, scanners and other peripherals, as well as an internet connection, things get a lot more complicated. The average home network will have most or all of these components and business networks get infinitely more complex. So, here is a basic overview of the hardware needed to build a network.
+
+Cable or wireless?
+
+The most basic requirement of any network is that the various components are connected to each other. Here, there are two choices. Cable or wireless. Ethernet cable remains the fastest of the two and remains an important building block of most networks, especially large business network where high data transfer speeds are essential.
+
+That said, the next generation of wireless is set to close the gap on ethernet cable in terms of speed, and offer a much greater range. Already, wireless is favored in smaller networks because it spares the expense and the mess of ethernet cables, and is easier and cheaper to maintain.
+
+Modems
+
+Although networks can exist without being connected to the internet, it is rare in today's world. And for a network to connect to the internet a modem is required. Most modern home or small business networks will use a cable/ADSL modem. These usually provide speeds of up to 10 Mbps by ethernet. However, in reality, very few internet service providers can provide a connection that even comes close to this speed. Ethernet modems are the norm these days, although USB modems do exist and dial-up modems are still used, though rarely for networks.
+
+Routers
+
+A router is essential for all networks as it provides the connection between the Local Area Network (LAN), which is the home or small business network, and the Wide Area Network (WAN), usually the internet. A lot of home network will use a combined modem, router and switch which will allow the network to connect to the internet and allow any computers and peripherals on the network to communicate with each other. In very large business networks the router (or sometimes a gateway is used) and switch will be individual hardware devices.
+
+Switches and hubs
+
+There is often a lot of confusion about the difference between switches and hubs. Both allow computers and devices within a network to communicate with each other, but there are some significant differences between them. Of the two, switches are by far the better, and more expensive, option. Switches are essential for larger networks because they make the transfer of information much more efficient.
+
+When a switch receives data from a computer or peripheral it can determine which device/s on the network on the network the data is intended for, and will only send it to its intended destination. This will not be noticed on a small home network but can make a big difference on larger networks.
+
+A hub is a simpler device that can connect anywhere between four and 24 devices. The data will pass through the hub but it the hub will not interfere with the data in any way. Therefore, data sent through a hub will be sent to, and can be accessed by, all devices on a network.
+
+Firewalls
+
+Hardware firewall devices are not really necessary for home networks. The firewall software on your individual computers' operating systems' firewalls, and the security options provided by your router, should be more than enough to protect your network.
+
+However, for business networks that are storing large amounts of sensitive information a good hardware firewall is essential. All information from outside the network must pass through this before reaching the network's main switch. If properly configured by a network professional this should provide all the security a business needs. Further software firewall protection within the network is also an option to secure the network further.
+
+

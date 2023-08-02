@@ -1,0 +1,36 @@
+Title: 
+How A File Shredder Can Help You Keep Your Data Secure
+
+Word Count:
+518
+
+Summary:
+Nowadays, computers seem to be everywhere. They have truly revolutionized almost every aspect of modern society, by performing certain tasks much faster and much more efficiently. Because of their great effectiveness and inherent versatility, computers have been adapted for use almost everywhere conceivable. Offices, schools, and homes have all found their own uses for computers.
+
+As computers become more and more commonplace, digital storage of data also becomes more and m...
+
+
+Keywords:
+file shredder,file wiping,file security
+
+
+Article Body:
+Nowadays, computers seem to be everywhere. They have truly revolutionized almost every aspect of modern society, by performing certain tasks much faster and much more efficiently. Because of their great effectiveness and inherent versatility, computers have been adapted for use almost everywhere conceivable. Offices, schools, and homes have all found their own uses for computers.
+
+As computers become more and more commonplace, digital storage of data also becomes more and more the norm. Digital data is what computers can understand and use, and can be stored in a variety of media, such as a computer’s built-in hard disk drive, or removable devices such as CDs and flash drives. Digitizing data has the benefit of making it much easier to work with, organize, and disseminate, using computers.
+
+With this new type of data storage also come issues about keeping data secure. In response, some programs have implemented the possibility of protecting files and directories with passwords.
+
+On the other hand, when files or data are deleted, sometimes it may be the case that their contents are not supposed to be recovered. This is actually not the case when ordinary file deletion is performed! When a file is deleted, it does disappear from its directories, and appears to have vanished completely, as desired. However, it is actually not overwritten on the hard disk itself, and the data remains on the disk, available to be recovered by prying eyes.
+
+In fact, there exist utilities to do just that: recover deleted data, thought to be lost. While this may be a good capability to have, sometimes data just needs to vanish, without any trace. For instance, when selling or transferring a computer, deleting any and all personal or confidential information might become necessary.
+
+Physically destroying the hard disk drive or otherwise rendering it unusable is of course an option, but is not always practical. This is especially true when only a particular file needs to be deleted, and not the entire hard disk.
+
+This is where the use of a file shredder comes in. A file shredder is a program that, as its name implies, is able to permanently delete (or “shred”) a file, directory, or collection of files and directories. This is done by actually overwriting the data on the surface of the hard disk, thus removing the traces of the file that may have been used to recover its contents. Some file shredders perform this overwriting process several times to ensure that, indeed, nothing of the previous information remains.
+
+The data on the disk corresponding to the file or files to be shredded are overwritten with randomly generated data, to mask it. Data recovery after a file has been shredded is still possible, in theory, but in practice it becomes very difficult. Thus the use of a file shredder represents an adequate security measure for most applications.
+
+There are both free and paid file shredders available, with varying degrees of sophistication and user-friendliness. With the many choices on the market, there is sure to be a file shredder program appropriate to any particular situation and required level of security.
+
+

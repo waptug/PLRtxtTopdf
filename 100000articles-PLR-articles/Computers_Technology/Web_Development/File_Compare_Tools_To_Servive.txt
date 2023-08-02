@@ -1,0 +1,38 @@
+Title: 
+File Compare Tools To Servive
+
+Word Count:
+505
+
+Summary:
+If you've ever been working with files in your software program and suddenly realized the data changed in a way you hadn't planned, it is often due to an error in data entry, coding or even programming files. In the past, in order to find out where the difference, error or change had occurred, you would need to do a line by line, or sometimes word by word comparison of before and after files in order to correct the problem.
+
+This process can be very time-consuming, especial...
+
+
+Keywords:
+file compare,compare tool,diff tool
+
+
+Article Body:
+If you've ever been working with files in your software program and suddenly realized the data changed in a way you hadn't planned, it is often due to an error in data entry, coding or even programming files. In the past, in order to find out where the difference, error or change had occurred, you would need to do a line by line, or sometimes word by word comparison of before and after files in order to correct the problem.
+
+This process can be very time-consuming, especially where there are lines of programming code which must be reviewed individually or pages of mathematical formulas which must be checked.
+
+Another tedious and time consuming task is maintaining mail or email lists. If you have marketing lists from two or more different sources and there are similarities but not exact agreement, in the past a manual review name by name to look for duplicates was the commonest way to clean up a mailing list.
+
+If someone made changes to a document without recording the changes, the clean up could take days, depending upon the length of the original document. Looking for difference both in terms of additions and deletions is a tedious task which requires a great deal of concentration if done manually.
+
+By using a file compare tool, all of these onerous manual comparisons can be done quickly and easily by the software program. Some of the software is shareware, others are attached to specific software programs such as Excel, and still others are purchased software suitable for comparison of specific types of files.
+
+Because comparison is often accompanied by merging tasks or editing tasks, a good file compare tool that combines all three potential corrections is very beneficial to anyone working with data.
+
+Even the most organized computer user will eventually find themselves in a situation where there are duplicate files of different dates on the computer. There can be extremely unwelcome results when editing or additions are done to an older file. A file compare tool which identifies duplicate files and allows you to clean up and remove unwanted duplicates is just one of the types of file compare tools that are available.
+
+Some software programs such as Excel for example, have compare features built right into the programming. Using this software allows you to compare two Excel spreadsheets, ranges of cells, or Excel files and places the results on a third spreadsheet with identification of added material, deleted materials and changed data.
+
+Another file compare tool is SwiftCompare. It's not limited just to one product such as Excel Compare. With SwiftCompare and other like it, you can manage source code, verify data, keep folders in sync, restore corrupt data and more.
+
+Many shareware applications have been written and made available to make it easy to check programming in binary code as well as in plain English. A file compare tool used with a word processing program is great for determining where words have been changed, added, or deleted in a product in transition.
+
+

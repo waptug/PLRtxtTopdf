@@ -1,0 +1,38 @@
+Title: 
+The Past And Present Of Computers
+
+Word Count:
+633
+
+Summary:
+Computer (computador) is an appliance which can manipulate data in accordance with a list of instructions. It is a type of data processing system.
+
+Today the computer (computador) has become indispensable in every household and comes in numerous physical forms. The first modern day computer was developed in the mid-20th century, though the concept of computer (computador) and various similar machines existed before. It actually started in 1837, when `The Analytical Engine`,...
+
+
+Keywords:
+computer, desktop, notebook, laptop
+
+
+Article Body:
+Computer (computador) is an appliance which can manipulate data in accordance with a list of instructions. It is a type of data processing system.
+
+Today the computer (computador) has become indispensable in every household and comes in numerous physical forms. The first modern day computer was developed in the mid-20th century, though the concept of computer (computador) and various similar machines existed before. It actually started in 1837, when `The Analytical Engine`, the first fully programmable mechanical computer, was designed by Charles Babbage.
+
+The Earlier versions were huge and bulky and used up a whole room. The device EDSAC (Electronic Delay Storage Automatic Calculator) was one of the very first computers that could implement the stored program architecture. In comparison to them, modern computers (computador) have tiny integrated circuits and are much better in terms of capacity and speed as well as accuracy. Today`s tinier version can even fit in your wrist watch and are powered from the watch battery. Personal computers can be found in almost every house today and in various forms. They are in fact the icons of the information age.
+
+What makes computers (computador) highly versatile and distinguishable from other appliances is that it can be programmed. A calculator can only calculate, just like a washing machine can only wash, but a computer can be programmed to do any kind of job. Software programs are a list of instructions that can be stored and executed by the computer.
+
+A general computer (computador) has four major sections, the arithmetic and logical unit or ALU, the control unit or CU, memory and the interface for input and output devices. These parts of computer are interconnected by busses. The ALU, control unit, registers, and the interface for input and output devices are collectively known as the central processing unit or CPU. The Early CPUs used to be composed of different separate components, however since the 1975; the CPUs are being constructed on a single integrated circuit, the microprocessor.
+
+The ALU is for arithmetic and logical operations of the computer while the control unit is for directing the various parts of a computer (computador). Its job involves reading and interpreting the instructions of the programs one by one and converting them into control signals for operating other parts of the computer.
+
+The earlier version of computer (computador) used Magnetic core memory but today it has been replaced by the semiconductor memory. The main memory of Computer is divided in two parts, RAM or random access memory and ROM or read-only memory. RAM can be written and read anytime through CPU commands. On the other hand, ROM is pre-loaded with software and data that never changes, and it can be only read by the CPU.
+
+I/O is hardware by the means of which a computer(computador) can receive information from the outside world and also sends back results. Common input devices are the keyboard and mouse. While common output devices include monitor and printer. There are some devices that serve as both input and output devices like Hard disk drives, optical disc drives, floppy disk drives etc.
+
+Internet has literary changed our lives. Today people can search all types of information on various subjects, advertise their company or products pass information to a large group of people and do much more merely by a few clicks of the mouse. Whether you want to search a new home or compare prices of the latest mobile or fill up your college form or read the latest Harry Potter book, everything can be done on the Internet through your computer.
+
+With increase of computers (computador) and its uses, an increasing number of professions involving computers have also developed. Computer-related professions include Electrical engineering, Nanoscale engineering Telecommunications engineering, Software engineering, Web design, Desktop publishing and Optical engineering.
+
+

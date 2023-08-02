@@ -1,0 +1,22 @@
+Title: 
+Spaceway 3 Satellite Internet
+
+Word Count:
+504
+
+Summary:
+HughesNet is the leader in Satellite Internet connectivity in the United States. It has 325,000 customers and the number is growing everyday. To meet customer’s expectations HughesNet has launched the Boeing built Space3 satellite into space. The Ka- band satellite was launched by the Ariane 5 ECA launcher from Kourou, French Guiana on 14th of August 2007. The spacecraft will maneuver in a circular orbit at a height of 22,300 miles above the equator at 95 degrees West longitu...
+
+
+Keywords:
+Satellite Internet, hughesnet, hughes net, hughes, wildblue
+
+
+Article Body:
+HughesNet is the leader in Satellite Internet connectivity in the United States. It has 325,000 customers and the number is growing everyday. To meet customer’s expectations HughesNet has launched the Boeing built Space3 satellite into space. The Ka- band satellite was launched by the Ariane 5 ECA launcher from Kourou, French Guiana on 14th of August 2007. The spacecraft will maneuver in a circular orbit at a height of 22,300 miles above the equator at 95 degrees West longitude. Hughes will start using the satellite for commercial purposes in 2008. The Space3 satellite was designed and developed by Hughes because there was a need for commercial satellite to fulfill growing customer expectations. It has features such as onboard traffic switching and routing capability. Other advanced features include 10Gbps overall capacity, fast packet switching and dynamic beam forming. The satellite will help Hughes to launch bandwidth-on-demand satellite services with site-to-site, single hop networking of high performance ground terminals. The single hop communication between satellite terminals will eliminate the need for routing traffic through a central hub earth station. The Ka-band spectrum will help in high speed services for IP data and multimedia applications. The satellite has a digital processor, downlink phased array antenna, microwave switch matrix and flight hardware and software.
+
+In the next couple of months Boeing along with Hughes will complete on orbit testing of the systems. It will also complete deployment of the satellite’s 132-foot solar arrays. An overall satellite checkout and systems acceptance testing will also be completed during this period. After completing all tests Hughes will put the satellite into commercial operation providing high-end satellite Internet connectivity to clients across America and Canada.
+
+Hughes mission statement of ‘Connect to the Future’ through Satellite based Internet services can be partly achieved by the launch of the Spaceway 3 satellite. Like many other first’s to it credit Hughes will be able to offer high-end Satellite Internet services to customers and will move ahead of it competitor Wildblue. The Satellite Internet market has enough space to grow and the technology is being accepted by people across the length and breadth of the country. Customers in rural areas who do not get access to broadband and cable modem facilities will benefit greatly once Hughes puts the Spaceway 3 satellite into commercial use. The expected date of the start of commercial operations of the satellite can be anytime in the early part of 2008. HughesNet is a communication filed with the SEC has stated that Spaceway 3 can help address a US$ 26 billion per year market in North America. Apart from this HughesNet can offer services in Canada and Puerto Rico. The existing customers of Hughes are offered service using the conventional Ku-band satellite systems. They would need to change their existing equipment to receive services from the Ka-band Spaceway 3 satellite. There are licensing issues which Hughes needs to sort out before the commercial operation starts in early 2008. Once that is done customers can expect Satellite Internet connectivity with speeds that are comparable with any other technologies and no downtime of services
+
+

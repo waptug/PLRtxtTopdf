@@ -1,0 +1,26 @@
+Title: 
+I Thought It Was An Innocent Download!
+
+Word Count:
+523
+
+Summary:
+It all started out as a fairly normal day, even though I was getting ready to go on a great vacation. I was really excited about the trip that was about to go on and had packed about a week earlier so that I wasn't rushed around at the end. I was just moving around the house doing some last-minute things when I decided that it would probably be a good idea if I were to back up my hard drive before I left. I really haven't been paying as much attention to my backups as I shoul...
+
+
+Keywords:
+computer security,trojan,spyware
+
+
+Article Body:
+It all started out as a fairly normal day, even though I was getting ready to go on a great vacation. I was really excited about the trip that was about to go on and had packed about a week earlier so that I wasn't rushed around at the end. I was just moving around the house doing some last-minute things when I decided that it would probably be a good idea if I were to back up my hard drive before I left. I really haven't been paying as much attention to my backups as I should, so I went online to download a program to help me to move all of my files to my external hard drive. I downloaded the program and set it to transfer all of the files from my C drive over to my external. As soon as I finish transferring the files I turned my computer off and left for vacation.
+
+A week later I returned from vacation refreshed and ready to get back to work. I turned on my computer and walked away to put some things into the laundry. When I returned to my computer I realized that it hadn't started up at all. No matter what I tried I could not get Windows to load and that's when I realized that the backup program I had downloaded contained a Trojan horse virus.
+
+I don't know how familiar you are with Trojan horse viruses, but they are small programs that are loaded in with other programs or pictures. They really don't do any harm when you download them to your hard drive. Once you activate the program that you downloaded, however, the Trojan horse virus becomes active as well. In this particular case it immediately went and erased some vital system files that prevented me from starting Windows normally. But this isn't all that the Trojan horse viruses can do to your computer.
+
+A Trojan horse virus, once it becomes active on your computer, can take many different forms. It can do tricky things to you such as opening your CD tray or causing your cursor to disappear. It can also open up a port on your computer and allow other malicious programs to enter in. These other programs can do everything from stealing passwords and personal information to taking control of your computer and locking you out of it entirely. In the case of my computer, it had corrupted files enough that I was unable to start it at all. To me this was devastating as I use my computer for work every day.
+
+Although it took me quite a few days, I was able to successfully restore my computer. I lost a lot of data in the meantime as I needed to format the hard drive and reinstall Windows and all of my programs. Fortunately for me, my computer was in need of being formatted and cleaned anyway. I ended up with a much smoother running machine in the process. The moral of the story? Be cautious of any download and if you don't completely trust the file then don't run it.
+
+

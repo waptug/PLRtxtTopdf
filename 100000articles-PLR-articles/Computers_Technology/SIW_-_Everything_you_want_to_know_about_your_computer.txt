@@ -1,0 +1,31 @@
+Title: 
+SIW - Everything you want to know about your computer
+
+Word Count:
+230
+
+Summary:
+SIW (System Information for Windows) is a tool that gathers detailed information about your system properties and settings. A utility that includes detailed specs for Hardware, Software and Network as well as real-time monitors for CPU and Memory Usage.
+
+
+Keywords:
+System Information, Asset Management, software inventory, hardware inventory, PC Audit, Software license compliance, password recovery, lost password, behind asterisks, Portable Freeware, Installed Software, Hotfixes, Product Keys, licenses, Serial Numbers, currently active Network Connections, SIW
+
+
+Article Body:
+SIW (System Information for Windows) performs computer configuration analysis and diagnostics.
+ SIW can create a report file (CSV, HTML, TXT or XML), and is able to run in batch mode (for Asset Management, PC Audit, Software Inventory and Hardware Inventory, Software license compliance).
+ SIW gives detailed information about your computer properties and settings, detailed specs for: 
+ * Software: Operating System, Installed Software and Hotfixes, Processes, Services, Users, Open Files, System Uptime, Installed Codecs, Licenses.
+ * Hardware: Motherboard, Sensors, BIOS, CPU, chipset, PCI/AGP, USB and ISA/PnP Devices, Memory, Video Card, Monitor, Disk Drives, CD/DVD Devices, SCSI Devices, S.M.A.R.T., Ports, Printers.
+ * Network: Network Cards, Network Shares, currently active Network Connections, Open Ports.
+ * Tools: Password Recovery, Reveal lost passwords hidden behind asterisks, Product Keys and Serial Numbers (CD Key), MAC Address Changer, Shutdown / Restart.
+ * Real-time monitors: CPU, Memory, Page File usage and Network Traffic.
+ SIW is a standalone utility that does not require installation (Portable Freeware) - one less installed program on your PC as well the fact that you can run the program directly from an USB flash drive, from a floppy, from a network drive or from a domain login script.  
+ 
+Platform:  
+Microsoft Windows 98/Me/NT4/2000/XP/Server 2003/Media Center/Tablet PC/Windows 2003 Server R2/Windows Server 2003 x64/Windows XP x64/Windows Vista/ Vindows Vista x64 / WinRE / Bart PE / Winternals ERD Commander  
+
+Homepage: http://www.gtopala.com
+
+

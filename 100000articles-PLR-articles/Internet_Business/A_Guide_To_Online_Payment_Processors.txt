@@ -1,0 +1,66 @@
+Title: 
+A Guide To Online Payment Processors
+
+Word Count:
+965
+
+Summary:
+‘Free’ Accounts or Merchant Accounts? 
+
+Anyone who does business online (and actually takes money from other people) must, at some point, bite the bullet and choose a credit card processing company – this can be quite an expensive decision. 
+
+There are effectively two different ways of going about this; you can either go for the free accounts or the specific merchant accounts. 
+
+But what is there to distinguish the two? After all they both allow you to accept a payment ...
+
+
+Keywords:
+credit card processing, stormpay, paypal
+
+
+Article Body:
+‘Free’ Accounts or Merchant Accounts? 
+
+Anyone who does business online (and actually takes money from other people) must, at some point, bite the bullet and choose a credit card processing company – this can be quite an expensive decision. 
+
+There are effectively two different ways of going about this; you can either go for the free accounts or the specific merchant accounts. 
+
+But what is there to distinguish the two? After all they both allow you to accept a payment from a credit card holder right? 
+
+Well yes, they both allow you to accept payments from people with credit cards – but there are some underlying and fundamental differences that you should be aware of. 
+
+Lets have a look at merchants accounts (ICann, WorldPay or 2Checkout – just as examples), when you register with one of these guys you will have to provide information relating to your business and prove that you are actually a registered business. 
+
+You will also have to pay a setup fee, from personal experience I know that this can be in the order of several hundred dollars, you will also pay a yearly subscription or support fee – again this is typically a couple of hundred dollars a year. 
+
+You might think that this is OK – but don’t forget you are also paying a percentage of the transaction value, this can be anything up 4.75%. 
+
+From this information alone we can see that for the little guy this is quite a high cost – especially if you’re just starting out and you don’t even know if your product/service is going to take off. 
+
+There are also other things that you need to be aware of when looking at professional merchant accounts, for instance 2Checkout will, from time to time try and actually call your customers (a selection of) and verify that the goods have arrived – if they can not do this then they will potentially refund ALL currently held sales. 
+
+I mention this as I was made aware of 2CO’s operating policy (this morning) by one of my fellow online marketers – this guy lost $5,000 because 2CO phoned the wrong person and lets face it, once you’ve delivered the products and given a refund how many people are going to say ‘Yes, here are my credit card details again’ – not very likely – and then cancelled the merchants account without so much as saying sorry. 
+
+So in other words make sure you read the fine print – there is typically stuff in there which is not really in your interest. 
+
+Anyway, that’s enough about merchant accounts, now lets consider the free accounts – and the first thing to be aware of is that there is no such thing as ‘free’. With the free accounts you typically don’t pay a setup charge or even a yearly charge – you do however pay a percentage of the transaction value, this can be anything from 1.5% up to 4%. 
+
+The two main suppliers of free accounts are PayPal and StormPay. It should be noted that although they both provide pretty identical services there are advantages and disadvantages associated with each of them. 
+
+For example, StormPay typically charge slightly more per transaction then PayPal – however PayPal charge more to get your money out then StormPay. PayPal is also VERY quick to respond to allegations of foul play (whether it exists or not) and typically very slow to do anything about it (besides locking your account). 
+
+PayPal also has some bizarre habits when it comes to money laundering rules, for instance my younger brother plays on Ebay and makes a few dollars here and there – nothing suspicious about that right (especially seeing as Ebay owns PayPal) but for some reason when his balance went past $50 they locked his account for a couple of weeks and sent him mails requesting proof of ID and wanting an explanation of where the money had come from. 
+
+No such problems with Storm pay, they validate you when you sign up by effectively linking you to your credit card to your address – any suspicious transactions are followed on a more gentlemanly basis. As of the time of writing I have not heard of anyone using Storm Pay having their account locked for questionable reasons. 
+
+In terms of signing up for the service StormPay is by far the quickest and in terms of market saturation is also on the up and up (PayPal is the established norm but StormPay is catching up quickly). 
+
+One thing to remember no matter which type of payment processor you use is that if a customer demands a refund 9 times out of 10 they’re going to get it – unless you can satisfy your processor that you have done everything that they require (so for PayPal if you’re sending tangible goods you need proof of postage that identifies what you’ve sent and in the case of allegations of ‘no delivery’ proof that it has been received – and then there’s still no guarantee that they’ll rule in your favor). 
+
+One important distinction between payment processors will relate to geography, i.e. where in the world they accept payments from. Most of the free services do not accept payments from central Africa or south East Asia, this is purely to do with level of fraud (Just think Nigeria). 
+
+To summarize, for the brand new business who has little or no client base and has no idea if their offering is going to be picked up by the market it is better to start with a free account, my personal recommendation being Storm Pay. If your business later grows and requires specific merchant account functionality then you can always upgrade or pick one from the market. 
+
+If you would like a StormPay account use the following link: http://www.stormpay.com/?2430996
+
+

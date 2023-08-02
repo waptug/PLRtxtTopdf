@@ -1,0 +1,54 @@
+Title: 
+How To Add A USB 2.0 Hub To Your Computer
+
+Word Count:
+647
+
+Summary:
+Digital and video Cameras, scanners, mp3 players, and just about every other electronic device are designed to be connected to your computer.
+
+And all new computers make it simple to connect these devices with the use of the USB or Universal Serial Bus port. But with the many devices you may have,you can still run short of these ports.
+
+If you find your computer using all of its USB ports, you can get your hands on a USB Hub. This hub contains several usb ports. So rather...
+
+
+Keywords:
+computer repair,computer upgrades,computer training,software
+
+
+Article Body:
+Digital and video Cameras, scanners, mp3 players, and just about every other electronic device are designed to be connected to your computer.
+
+And all new computers make it simple to connect these devices with the use of the USB or Universal Serial Bus port. But with the many devices you may have,you can still run short of these ports.
+
+If you find your computer using all of its USB ports, you can get your hands on a USB Hub. This hub contains several usb ports. So rather than unplugging one device to plug in another, a usb hub allows you to connect multiple devices.
+
+To setup a usb hub on your computer you need to be sure your system allow you to connect the hub. If your computer was made before 1997 it most likely won't support a USB.
+
+Check your computer to see if there is a usb port available. http://www.ultimatepcrepair.com/photos.html have photos showing what USB ports look like and where they should be found in any computer.
+
+You should consider the reason you want to purchase a USB hub. This will help in deciding the type of usb hub you want to purchase. And research the device you want to connect, as not all devices can be connected to USB hubs.
+
+The two types of USB hubs are the Self Powered which draws power from an external power supply and the bus powered hub which is inserted in an expansion slot and draws power from the motherboard.
+
+Some devices that use large amounts of power work poorly with bus powered hubs. A scanner for example, will wotk much better connected to a self powered USB hub.
+
+When connecting a device to the USB hub, see what version of usb it may be. USB 1.0 was the first version released and today the fast version is the usb 2.0 All USB 2.0 hubs are backward compatible. This allows them to run the slower USB 1.0 devices.
+
+The price of a hub 2.0 hub varies from about $25.00 to $65.00 and comes in several brands. The price depends on the number of ports you want on the hub.
+
+INSTALLING YOUR NEW USB HUB
+
+Its always a good practice to backup your files before you work in your computer.Remove the hub from its packing and carefully inspect it for damaged and be sure all components are present. Stop and carefully read the hub manual for instructions such as turn the computer off first or that you must install the software before connecting the hub to the computer.
+
+If you have a powered hub, plug the power cord in an outlet and connect the usb cable from the usb hub into an open USB port. With the hub connected place the cdrom that come with the hub and install the software onto the hard drive.
+
+Set the USB hub in a location where you can easily connect your scanner,modem,or other devices. Remember that your computer only runs at the highest usb speed.If your hub is a USB 2.0 but your computer only supports USB 1.0 then the 1.0 connection will be your max speed.
+
+If your USB hub is self powered,install the card in an empty expansion slot by removing the system unit cover, removing the retaining screw and cover from the slot, firmly slide the card in the slot, and use the retaining screw to secure it to the motherboard.
+
+Start your computer and your operating system should recognize the new device. Install any software that came with the hub.You may need to install a device driver to allow the computer to communicate with the hub.
+
+Its that easy and why not make it something fun to do. Learn as you go and be in the state of mind to enjoy your task. You will look forward to perform other tasks in the same state of mind.
+
+

@@ -1,0 +1,22 @@
+Arcade Games and their systems
+When it came to the first arcade games, you will find that they were designed with logic and were made for competition. There wasn’t any A.I system at the time. 
+
+Heuristic algorithms have been used in the arcade games. Scripting was the common method of controlling an NPC in the game. 
+
+Then there is path finding, which was another common A.I. system. It was used at the time for strategy games.  ‘Path finding’ works by calculating how to get an NPC from one place to another after considering the terrain and obstacles.
+
+There were games known as Quake and Pursuit that displays enemy action and will store it in a particular pattern. The space invaders further refined this movement, by adding in-game events which were dependent on the hash functions.
+
+This resulted in more varied and complex enemy movements.
+
+Then Pac-Man became incorporated these types of technologies and then they ended up improving the game by adding different personalities for each ghost. 
+
+Although the ghost movements in Pac-Man felt random, it was a cleverly scripted and well disguised action.
+
+Getting powered by Rubber Banding, the 1990’s saw the beginning of finite state machines and arcade racing games. 
+
+If the computer controlled the opponents “fall behind”, they received a superb boost allowing them to catch up.
+
+The system basically will enable a player to catch up if they simple fall a little bit behind. They were difficult to play and to get a handle on it. The arcade shooting games should ideally have a large rule base which is basically the list of NPC options like attack long range, call for help, flee etc.
+
+The trick to use to a random factor so that you can display some intellect, but also create something that is fun. The random factor will help the game take off and become very popular. 

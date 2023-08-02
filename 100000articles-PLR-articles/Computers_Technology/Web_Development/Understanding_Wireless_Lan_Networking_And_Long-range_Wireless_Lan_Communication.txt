@@ -1,0 +1,46 @@
+Title: 
+Understanding Wireless Lan Networking And Long-range Wireless Lan Communication
+
+Word Count:
+696
+
+Summary:
+Understanding wireless and wireless LAN networking enable you to properly plan and design the effective deployment of wireless networks be it home-networking or using outdoor long-range WLAN for rural internet connectivity.
+
+Wireless networking allows computers and peripherals to communicate using radio frequency (RF) transmissions rather than over conventional network cabling. Using wireless Ethernet adaptors, any device capable of being used on a regular computer network ...
+
+
+Keywords:
+
+
+
+Article Body:
+Understanding wireless and wireless LAN networking enable you to properly plan and design the effective deployment of wireless networks be it home-networking or using outdoor long-range WLAN for rural internet connectivity.
+
+Wireless networking allows computers and peripherals to communicate using radio frequency (RF) transmissions rather than over conventional network cabling. Using wireless Ethernet adaptors, any device capable of being used on a regular computer network can be accessed over a wireless connection for task ranging from file and printer sharing to multimedia and internet access.
+
+Wireless Ethernet Technology is outlined by a set of standards called IEEE 802.11. Although other wireless technologies and protocols exist, the term wireless is generally used in reference to the IEEE 802.11 standards.
+
+The communication protocols for wireless networking are defined by the Institute of Electrical Engineers (IEEE) 802.11 standard, which incorporates the 802.11a, 802.11b and 802.11g protocols (although other standards are in progress). The most widely used of these is 802.11b (Wireless-B), which is more reliable than the faster 802.11a (Wireless-A) standard, and is more cost-effective to produce and operate as well. Wireless-G or 802.11g, is a newer protocol that is becoming more widely adopted by vendors as it is capable of speeds up to 54Mbps rather than the 11Mbps of 802.11b devices.
+
+It is no longer rare to find devices that support all three standards, but generally, Wireless-G is designed to be backwards compatible with Wireless-B devices. Thus Wireless-B and Wireless-A devices will not work with each other, and neither are they compatible with Wireless-G devices.
+
+Some manufacturers offer models with dual-band (Wireless A & G/B) auto-switch mode for greater communication flexibility. Network planners can plan their network deployment by using a combination of Wireless-B,G or A.
+
+Wireless 802.11 standard utilizes the license-free radio frequency bands around the 2.4GHz and/or 5GHz ranges. The 802.11b and 802.11g protocols use the 2.4GHz band whereas 802.11a uses the 5GHz band. Wireless-B is by far the most popular standard, with the newer Wireless-G (802.11g) and Wireless-A (802.11a) closing in fast.
+
+Wi-FI or Wireless Fidelity is a certification program established by the Wi-Fi Alliance to ensure interoperability of wireless devices. Originally, the term Wi-Fi was intended to be interchangeable with 802.11b, but more recently it has broadened to cover any 802.11 network.
+
+WLAN or Wireless Local Area Network, is a computer network –or part thereof- that incorporates wireless devices. In a WLAN network, a conventional LAN set-up can be extended to include wireless devices using an access point. Although wireless networks can be completely independent of conventional network, WLAN usually forms part of an existing wired network.
+
+Wireless Transmission ranges vary greatly and lowering the bandwidth will increase the coverage area, a standard 802.11b or 802.11g device will typically have a range of about 30m indoor and up to 120m line-of-sight outdoors. The main reason for the variance between indoors and line-of-sight coverage is that walls and other objects do impede the wireless signal. Because wireless transmissions are actually low frequency radio waves, they will pass through walls and other solid matter relatively easy. As distance increases, the throughput decreases. This is because lower signal strength result in dropped packets and result in a general decrease in network efficiency.
+
+Understanding the technology in wireless and wireless LAN/WAN networking allows the planner the flexibility of using wired and wireless networks. There are areas that wired networks can not go owing to distance, terrain or topography thus if the planner has knowledge on wireless LAN networking, the simpler, faster and easy it is to deploy an effective wireless network.
+
+Understanding how wireless LAN works will also help you plan deployment of a rural wireless internet access service. Wireless LAN is a very cost-effective solution for much needed internet connectivity requirements in far, remote villages. WISP is a good and potential business in remote areas.
+
+Either you use commercial "off-the-shelf" WLAN gadget, tweak and improve its performance by using higher-gain outdoor antenna or buy a true-outdoor long-range Wireless LAN. For assured network performance, service-quality and less network downtime, we recommend using the latter.
+
+The goal is to reach people yearning to start their own home-based business even in remote regions thru cost-effective internet business and long-range wireless communication solutions.
+
+

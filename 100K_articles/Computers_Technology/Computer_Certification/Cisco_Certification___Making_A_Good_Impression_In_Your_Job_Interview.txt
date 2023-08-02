@@ -1,0 +1,40 @@
+Title: 
+Cisco Certification:  Making A Good Impression In Your Job Interview
+
+Word Count:
+397
+
+Summary:
+Chris Bryant, CCIE #12933, tells CCNAs how to make a great impression in their next job interview - and what mistakes to avoid!
+
+
+Keywords:
+ccna, ccnp, free, pass, exam, cisco, certification, computer, mcse, ccie, chris, bryant
+
+
+Article Body:
+Okay, you did it!  You earned your Cisco Certified Network Associate certification.  
+
+Now what?
+
+People who pass the CCNA exam fall into one of three categories.  You may be just entering the IT field you may be working on the LAN side and want to move to the WAN side (that's where I was when I passed the CCNA), or you may already work on the WAN side of the network, and you want to move up the ladder.
+
+One way or the other, you're going to have to face the dreaded job interview.  Some CCNAs do really well in interviews, and some don't.  I've been on both sides of that interview, and I have a few pointers for you to be one of those who do well and get that job.
+
+Be confident, but not cocky.  The CCNA is a great certfication to have it's where we all start.  Do not walk into the interview thinking you know everything because you have a CCNA.  (I'm a CCIE and am the first to admit I certainly don't know everything.)  
+
+Answer questions confidently if you don't know the answer, that's no sin.  If you prepared for your CCNA the right way -- getting hands-on experience and understanding tougher topics like binary math and NAT -- you'll be fine.
+
+Do not stop studying the day you pass the exam.  Knowledge that you don't use quickly becomes forgotten.  It's okay to take a day or two off and celebrate, but you have to get back to work after that.  Keep reviewing your CCNA topics, and get started on your first CCNP exam.  I've seen too many newly-minted CCNAs who quickly forgot everything they learned for the exam because they stopped studying right after they passed.  
+
+Prepare for the interview like it's another CCNA exam.  Because it is.  Except there won't be any multiple choice.
+
+Start preparing for the interview BEFORE you take the exam.  How do you do that?  Study for the exam the right way.  Get some hands-on experience, either in a class or on your own rack of equipment.  Get a quality Cisco education.  Ask questions of those already in the field.    By doing these things now, you'll come across as a quality candidate on the big day.
+
+Good luck!
+
+Chris Bryant
+
+CCIE (TM) #12933
+
+

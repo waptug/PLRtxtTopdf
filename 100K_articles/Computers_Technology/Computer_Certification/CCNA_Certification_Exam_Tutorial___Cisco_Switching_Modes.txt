@@ -1,0 +1,30 @@
+Title: 
+CCNA Certification Exam Tutorial:  Cisco Switching Modes
+
+Word Count:
+334
+
+Summary:
+An often-overlooked part of CCNA studies is learning the different modes a Cisco switch can run.  Learn these vital exam details from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+ccna, pass, exam, free, tutorial, switching, store, forward, fragment, free, cut, through, bytes
+
+
+Article Body:
+To pass the CCNA exam and earn this important certification, you’ve got to know switching inside and out.  While you’re learning all the basic switching theory, make sure to spend some time with the one of three switching modes Cisco routers can use.
+
+Store-and-Forward is exactly what it sounds like.  The entire frame will be stored before it is forwarded.  This mode allows for the greatest amount of error checking, since a CRC (Cyclical Redundancy Check) is run against the frame before it is forwarded.  If the frame contains an error, it is discarded.  If there’s no problem with the frame, the frame is then forwarded to its proper destination.
+
+
+While store-and-forward does perform error checking, the delay in processing the frame while this error check is run results in higher latency than the other modes you’re about to read about.  The latency time can also vary, since not all frames are the same size.
+
+Cut-through switching copies only the destination MAC address into its memory before beginning to forward the frame.  Since the frame is being forwarded as soon as the destination MAC is read, there is less latency than store-and-forward.  The drawback is that there is no error checking.
+
+There is a middle ground, fragment-free switching.  Only part of the frame is copied to memory before it is forwarded, but it’s the first 64 bytes of the frame, not just the destination MAC.  (Why?  Because if there is a problem with the frame, it’s most likely in the first 64 bytes.)  There is a little more error checking than cut-through, but not as much latency as with store-and-forward.  
+
+Note that the latency of both cut-through and fragment-free is fixed; these modes always look at the first six or 64 bytes, respectively.  Store-and-forward's latency depends on the size of the frame.
+Learning the similarities and differences between these modes is an often-overlooked part of CCNA studies.   Spend some time studying this important CCNA topic – you’ll be glad you did!
+
+

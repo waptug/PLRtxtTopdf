@@ -1,0 +1,50 @@
+Title: 
+First Step To Eliminates Computer Slow Down – Registry Cleaning
+
+Word Count:
+495
+
+Summary:
+Microsoft Windows based computer will gradually slow down from time to time. The biggest issues are caused by registry growing. Registry growth is unavoidable because of:
+
+1. Uninstalled programs don’t clean up the registry.
+2. Too many information stored in the registry instead of database.
+3. Temporary information not cleans up.
+4. Too many programs installed.
+
+Window Registry was first introduced in Windows 95, it was design to replace the old .ini file, which allow...
+
+
+Keywords:
+registry,registry fix,registry clean,registry repair,registry cleaner,registry tune,speed up
+
+
+Article Body:
+Microsoft Windows based computer will gradually slow down from time to time. The biggest issues are caused by registry growing. Registry growth is unavoidable because of:
+
+1. Uninstalled programs don’t clean up the registry.
+2. Too many information stored in the registry instead of database.
+3. Temporary information not cleans up.
+4. Too many programs installed.
+
+Window Registry was first introduced in Windows 95, it was design to replace the old .ini file, which allows not just 2 levels of grouping in settings, but unlimited levels of tree settings! Microsoft likes complexity, they think of simplicity as outdated technology, which still widely use in other operating system, like UNIX and Linux.
+
+Because of the Advance technology, windows’ user has to upgrade their computer to process the registry information! And this is bad news for me, because I am just like others, cannot afford to upgrade the computer every single year! The cheapest way is to do regular maintenance on registry.
+
+Until .NET platform become popular (3/5 years down the road), we still need to rely on this bad design architecture, and we have learn how to live with it – Use some registry cleaning tools.
+
+I remember my first registry cleaner was from Norton utility. That was the old days where Norton utility was the only few proper tuning tools for windows! Nowadays we have over hundreds types of registry cleaning tools; some are pure registry cleaner, some are subset of a larger toolset.
+
+I prefer to use more professional registry cleaner, larger toolset doesn’t provides a very effective cleaning. The ideally best registry cleaning tool must be able to identified unwanted registry entry, safely remove identified items and able to optimize and compress the registry to its’ minimum!
+
+If your personal computer is slowing down, first thing you should do is to uninstall all unused, unnecessary and unwanted software from your operating system, try to keep your window software as less as possible (Not to say you can’t have more), and focus on the tools that you really need.
+
+Secondly, you should use one or few proper registry cleaning tools to tidy up the registry, eliminates all unused settings, information in the window registry, but remember to backup the registry first! Most registry cleaning tool will provides backup function for restore, if the cleaning “too much” and cause unstable behavior to the software or window operating system.
+
+Never, ever use a registry cleaner without backup function! (Unless you want to backup manually every time before cleaning)
+
+After cleaning up the window registry, you should restore 30% or more of your computer performance. If you still feel that the system is slow, you might be infected by virus or spyware, scan your computer with Anti Virus and Anti Spyware Software.
+
+If you want to regain more speed, better startup and shutdown, free up your memory and unleash the power of your window, you should visit my web site for more information and tools on how to speed up your slow computer.
+
+

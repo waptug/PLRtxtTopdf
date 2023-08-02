@@ -1,0 +1,109 @@
+Title: 
+Blowers
+
+Word Count:
+1387
+
+Summary:
+Manufacturers, suppliers and exporters of blowers and boosters like air blowers, gas blowers, water cooled blowers, dry vane pumps, vacuum boosters, acoustic hoods, aqua and expo series blowers.
+
+
+Keywords:
+air blowers, gas blowers, water cooled blowers, aqua series blowers, expo series blowers, dry vane pumps, vacuum boosters, acoustic hoods
+
+
+Article Body:
+MECHANICAL VACUUM BOOSTERS:-
+
+Mechanical Vacuum Boosters are dry pumps that meet most of the ideal vacuum pump requirements. They work on positive displacement principle and are used to boost the performance of water ring /oil ring /rotating vane /piston pumps and steam or water ejectors. They are used in combination with any one of the above mentioned pumps, to overcome their limitations. Vacuum booster pumps offer very desirable characteristics which make them the most cost effective and power efficient option.
+
+The major advantages are:-
+
+(a) Can be integrated with any installed vacuum system such as Steam Ejectors, Water Ring Pumps, Oil Sealed Pumps, Water Ejectors, etc.
+
+(b) The vacuum booster is a Dry Pump as it does not use any pumping fluid. It pumps vapor or gases with equal ease. Small amounts of condensed fluid can also be pumped.
+
+(c) Vacuum boosters are power efficient. Very often a combination of Vacuum Booster and suitable backup pump results in reduced power consumption per unit of pumping speed. They provide high pumping speeds even at low pressures.
+
+(d) Boosters increase the working vacuum of the process, in most cases very essential for process
+performance and efficiency. Vacuum Booster can be used over a wide working pressure range,
+from 100 Torr down to 0.001 Torr (mm of mercury), with suitable arrangement of backup pumps.
+
+Everest ...................... Leaders in Vacuum Booster Technology Boosters for Vacuum Process © Everest Transmission January, 2005.
+
+(e) It has very low pump friction losses, hence requires relatively low power for high volumetric
+speeds. Typically, their speeds, at low vacuums are 20-30 times higher than corresponding vane
+pumps / ring pumps of equivalent power.
+
+(f) Use of electronic control devices such as Variable Frequency Control Drive allow to modify
+vacuum boosters operating characteristics to conform to the operational requirements of the prime
+vacuum pumps. Hence they can be easily integrated into all existing pumping set up to boost their
+performance.
+
+(g) Vacuum boosters don't have any valves, rings, stuffing box etc., therefore, do not demand regular maintenance.
+
+(h) Due to vapor compression action by the booster, the pressure at the discharge of booster (or inlet of backup pump) is maintained high, resulting in advantages such as low back streaming of prime pump fluid, effective condensation even at higher condenser temperatures and improvement of the backup pump efficiency.
+
+The Table below gives a rough estimate of how the boosters enhance the working vacuums of the processes when installed in combination with various types of industrial vacuum pumps currently used in the industry. They can effectively replace multistage steam ejectors, resulting in considerable steam savings and reduced loads on cooling towers. Mechanical Vacuum Boosters are versatile machines and their characteristics depend largely on backing pump. Various types of backing pump can be used, depending upon the system requirement and ultimate vacuum needs.
+However, the final vacuum is governed by the suitable selection of the backing pump and booster
+arrangement. The table below gives a broad range of vacuum achieved with various backing pumps combinations.
+
+Vacuum Pump Expected vacuum Vacuum on installation Range of Booster (single stage)
+Single Stage Ejector 150 Torr 15 - 30 Torr
+Water Ejector 100 Torr 10 - 20 Torr
+Water Ring Pump 40 - 60 Torr 5 - 10 Torr
+Liquid Ring Pump 20 - 30 Torr 2 - 5 Torr
+Piston Pumps 20 - 30 Torr 2 - 5 Torr
+Rotary Piston Pumps 0.1 Torr 0.01 Torr
+Rotary Vane Oil Pump 0.01 - 0.001 Torr 0.001 - 0.0001 Torr.
+Everest ................ Leaders in Vacuum Booster Technology Boosters for Vacuum Process © Everest Transmission January, 2005.
+
+For example, if a process is using water ring Pump, the estimated working vacuums would be of the order of about 670-710 mmHg gauge (90-50 mmHg abs.), largely depending on the water temperature and pump design. When a Booster is installed prior to the water ring pump, in series, the vacuum levels of the order of 5-10 Torr can be easily achieved. In a Multi-Stage booster installation, vacuum levels of the order of 0.5 Torr & better can easily be expected. Mechanical Boosters offer a completely dry pumping solution and do not add to any vapor load, unlike steam ejectors, and therefore, do not require large inter stage condenses. At low vacuums, higher pumping speeds are required to maintain the through-put, since the specific volume increases with the increase in vacuum. Vacuum boosters enhance the pumping speeds by about 3-10 times depending upon the selection by virtue of which one can expect higher process rates and through-puts. The drawbacks of steam ejector system such as sensitivity to motive fluid pressures and discharge pressure are overcome easily by the Mechanical Boosters, since the volumetric displacements/pumping speeds are insensitive to the inlet & outlet working pressures.
+
+Typical Booster Installation
+(1) Evaporator (2) Gauge (3) Condenser (4) Mechanical Booster
+(5) backup Pump
+
+Everest ................. Leaders in Vacuum Booster Technology Boosters for Vacuum Process © Everest Transmission January, 2005.
+
+Calculating the Pump Capacity: -
+Based on the fundamental gas laws PV= RT, an expression can be derived for Volumetric Flow Rates required for pumping different vapors/gases. Based on the Mass flow rates one can estimate the pump capacity required.
+
+V = R . Tgas / P Q1/M1 + Q2/M2 ............. Qn/Mn
+Where V = Inlet Volume flow rate m3/hr.
+R = Universal gas Constant, 83.14 mbar m3/ Kgmol x ºK
+Tgas = Gas/Vapor abs. Temp, in ºK
+P = Process Absolute Pressure in mbar
+Q1, Q2, Q3 = Gas / Vapor flow rate, in Kg/hr.
+M1 , M2 ,M3 = Molar mass, in Kg/mol. of gas /vapor.
+
+Booster Operation:
+Power Constraints restrict the total differential pressures across the booster. This demands to ensure the total differential pressure across the Booster must not exceed the rated limits. This can be ensured by any of the following means:-
+
+1.) Manual method:- Initially the fore pump is switched on until the required cut in pressure is achieved and there-after the booster is switched on.
+2.) Auto method:- Installation of mechanical By-pass arrangement across the booster or hydro kinematic drive or Variable Frequency Drive (VFD). In this arrangement, the booster and fore pump can be started simultaneously from atmosphere.
+
+Advantages of using Electronic Variable Speed Control Device
+Electronic A.C Variable Frequency Control Drives are most preferred devices used to regulate the
+Booster speed to match the varying load conditions of the process. These drives enhance the overall performance of the Boosters and offer various advantages for the trouble free operation.
+
+The major advantages are: -
+1. Booster can be started directly from atmosphere.
+Everest ................... Leaders in Vacuum Booster Technology
+Boosters for Vacuum Process © Everest Transmission January, 2005.
+2. No need for separate pressure switch, by pass line or offloading valves.
+3. Considerable savings in power.
+4. Prevents over-heating of Boosters.
+5. Protects the Booster against overload and excessive pressures.
+6. Offers complete protection to motor against over voltage, under voltage, over current,
+Over-heating, ground fault.
+7. Eliminates the needs of separate starter and overload relays for the Motor.
+8. Automatically adjusts the speed of Booster between low and high range set giving high
+pumping speeds with relatively low input power.
+
+The Electronic Variable Frequency Control Drive is a microprocessor based electronic drive which is specially programmed to meet the demands of the Booster allowing it to operate directly from atmosphere along with suitable fore pump. Conventionally, Boosters can be started only after achieving fore vacuum in the range of 30 - 100 Torr, as they are not recommended for direct discharge into the atmosphere. Use of Pressure Switch, Hydro kinematic drive and by pass valves is necessary to prevent the overloading of the Booster. However with the installation of Electronic Variable Frequency Control Drive all the conventional methods can be bypassed since the drive is programmed to regulate the Booster speed automatically, keeping the load on motor within permissible limits. This allows the Booster to start simultaneously with backup pump. When the backup-pump and Booster are started the drive reduces the Booster speed to the pre-set levels and as the vacuum is created the Booster speed picks up, reaching the final pre-set speed, giving most optimum performance over the entire range. Since all the parameters are easily programmable, one can adjust the booster pumping speeds to match the system requirements easily and quickly. The drive limits the current to the motor and safeguards the motor against over voltage, under voltage, electronic thermal, overheat ground faults. i.e. protects the motor against all possible faults.
+External computer control over all aspects of booster performance is possible via RS485 serial interface built into the drive electronics. This enables the Booster to be integrated into any computer-controlled operating system.
+
+To know more about this site visit this site: <a href="http://www.everestblowers.com>http://www.everestblowers.com</a>
+
+

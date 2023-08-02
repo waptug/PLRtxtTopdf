@@ -1,0 +1,46 @@
+Title: 
+How Safe Is Safe?
+
+Word Count:
+709
+
+Summary:
+There has been an increasing amount of emphasis in recent times on the subject of keeping the information on your computer safe. The terms Back-Up, Archive, Data Storage and Security being mentioned frequently, but what is all about?
+
+
+Keywords:
+DVD, USB, CD, pen drives, zip disk, floppy disk, archive, data storage, hard drives, back-up
+
+
+Article Body:
+There has been an increasing amount of emphasis in recent times on the subject of keeping the information on your computer safe. The terms Back-Up, Archive, Data Storage and Security being mentioned frequently, but what is all about?
+
+In simple terms, people are increasingly holding more and more information on their computers, be it photos, personal data and finance, business data, accounts, contacts, addresses and much more. 
+
+What everyone needs to understand is that the information held on your computer is a very vulnerable entity and can be very easily and completely lost, either by component failure, malicious acts or theft. If loss of the information you keep on your computer would cause you distress, then you need to take steps to ensure it is kept safe and that you would be able to continue even if your computer was stolen.
+
+The only definite way of safeguarding against the many different kinds of threats is to have a copy of the valuable information and keep it away from the computer, this is commonly referred to as back-up. In case of loss, the information can then be restored to a computer from the safe back-up copy. A back up consists of an exact copy of this important data, kept on a separate storage medium such as a CD / DVD or an external tape or hard disk drive.
+
+Naturally, a back-up is only as good as the last time that you actually made a back-up copy, so it is common practice to create a new back-up frequently and overwrite the old copy. How frequently you do this depends on how often your valuable information changes, the more changes, the more frequent the back-up. A back-up can be performed manually by simply copying the data you wish to back-up to your chosen media, or the process can be automated by using specialist back-up software programmes. Back-up software allows you to select the data that needs to be backed-up, when to make the back-up and where to copy the backed-up data to, this set up can then be memorised by the back-up software. Backing-up your data then becomes a relatively quick and simple process.
+
+Many confuse back-up with "archiving". Archiving is where you transfer data, which is important enough to keep, but no longer required (e.g. old photos, old accounts) to an external, safe storage medium for future reference. The archived data is then removed from the computers main hard drive to free-up space.
+
+Whether backing-up or archiving, there is a choice of media you can record your copy on to:
+
+Floppy or Zip Disk
+A Floppy or Zip Disk drive provides a simple solution. The downside to this method however, is very limited recording space and not a particularly reliable or long-term solution.
+
+Recordable CD or DVD
+If you have a CD or DVD recordable drive, this is a better longer-term solution with more space. The downside is that the recording process can be a pain as you cannot just drag and drop and that you need CD's or DVD's to record on.
+
+This type of backup can be cumbersome, time consuming and sometimes frustrating, depending on the software and the quality of disks used.
+
+When using this method of backup, remember to check the disk you have transferred your data to, to make sure your computer can read the disc ok in future.
+
+USB Pen Drives
+Also known by various other names USB Pen Drives are an excellent low cost solution for smaller back-up purposes being easy to use and they are also great for transferring data from one computer to another.
+
+External USB Hard Drives
+For most users the best storage solution for back-up and archiving purposes is the USB external hard drive, being reliable, easy to install (just plug in to your USB port) and easy to use (just drag and drop your files to be backed-up). USB External Hard Drives are available in pocket or desktop sizes and storage capacities from a few Gb to 250Gb + offering a huge amount of recording space. Being a plug in device they can be easily disconnected and kept separate from your computer and out of harm's way. Some external USB Hard Drives like Iomega come packaged with back-up software too.
+
+

@@ -1,0 +1,48 @@
+Title: 
+It's FRL on purpose, folks!
+
+Word Count:
+735
+
+Summary:
+FRL is an acronym for Filter, Regultor and Lubricator, devices used to “condition” the compressed air from a compressor before it gets to your application be that through an air valve to air cylinders, powering air tools and so on.
+
+
+Keywords:
+Filter, Regulator, Lubricator, FRL, compressed air, air compressors, air treatment, air preparation
+
+
+Article Body:
+FRL is an acronym for Filter, Regulator and Lubricator, devices used to “condition” the compressed air from a compressor before it gets to your application be that through an air valve to air cylinders, powering air tools and so on.
+
+When called in to troubleshoot a complaint from a client that their compressed air filter, regulator or lubricator wasn’t working, the first response is to ask the symptoms. Common complaints are, “the regulator is not working, and it’s leaking oil”, or “my air filter fills up too quickly”. Have you ever had these problems?
+
+The acronym FRL is placed in this order deliberately.
+
+These air treatment units, whether they are an assembly (combination FR + L) or a number of single components - Filter + Regulator + Lubricator -  installed in a row, must always be installed with the Filter first, the Regulator next, and the lubricator last.
+
+The filter must 'see' the air coming from the compressed air supply line first, as it’s the defense against compressed air-borne water and particulates. If you think about it, you would want the filter to remove contaminants and free water from the compressed air before that air gets to more sensitive down-stream components, including the regulator and the lubricator.
+
+The regulator is installed after the filter to ensure that the air getting to the regulator is as clean as that type of compressed air filter will allow, thus increasing the life span and mean-time-between-failures for the regulator. 
+
+The regulator’s purpose is to regulate a lower pressure to the downstream application. Some folks are of the opinion that the regulator can be used to “dial-up” the pressure. This is true, as long as it's understood that the pressure that’s being selected is at a level below the upstream supply pressure. You cannot use a regulator to increase the pressure downstream higher than the supply pressure upstream of that regulator.
+
+Compressors are usually cyclic, meaning that the air pressure in the lines from them varies according to where the pressure is in the compressor receiver. When the air pressure in the compressor receiver falls to the low level set point, the compressor will kick in, and bring the pressure in the receiver up to the high level set point, at which point the compressor will stop. This cycle repeats, sometimes quite quickly, depending on the compressed air demand in the shop. A regulator will dampen the pressure swings from the system as the compressor kicks on and off, ensuring that your application, if the regulator pressure is set at the correct level, will see a constant, steady pressure.
+
+If the regulator is incorrectly installed, upstream from the filter instead of after it, not only is the regulator not protected from air-borne water and particulates, it will negatively affect the flow of air to the filter, decreasing its effectiveness.
+
+The lubricator’s purpose is to provide a steady, metered stream of the appropriate lubricant to the downstream application, be that an air tool, or an air valve / cylinder combination.
+
+The lubricator is installed last in the FRL series to ensure that the lubricant has ready access to the components desired to be lubricated though many modern pneumatic circuits may not need a lubricator at all, what with the high cycle type lubricants that are commonly used by air actuator manufacturer's.
+
+If the lubricator is incorrectly installed after the filter and before the regulator, the lubricant flow will negatively affect the operation of the regulator. The regulator may be over lubricated to the point where it doesn’t work properly. This may be the cause of the “lubricator’s all gummed up and not working properly” complaint. Most compressed air regulators are relieving type, and if the lubricator is "feeding" lubricant to the regulator, lubricant will wick from the relieving port, hence the "regulator's leaking oil" complaint.
+
+If the lubricator is installed upstream from the filter and the regulator, the lubricant stream from the lubricator will simply be intercepted by the filter, and not get downstream to the application at all. Thus the filter is “filling up too quickly” complaint.
+
+In the absence of the lubricator, the correct installation if filter first, then regulator.
+
+If the unit you have is a combined filter regulator, it’s internally plumbed to have the air filtered through the filter ‘half’ before the compressed air gets to the regulator.
+
+Remember, it’s FRL on purpose!
+
+

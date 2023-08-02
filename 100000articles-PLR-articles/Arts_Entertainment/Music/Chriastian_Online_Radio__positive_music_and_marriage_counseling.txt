@@ -1,0 +1,78 @@
+Title: 
+Chriastian Online Radio, positive music and marriage counseling
+
+Word Count:
+2014
+
+Summary:
+The principles of sound absorption have been around for hundreds of years. Medieval churches used ash-filled pots embedded in the walls to absorb sound. These evolved into today's concept of sound-absorbing panels, commonly called "acoustical panels."
+
+
+Keywords:
+Christian online radio, online music, positive music, marriage counseling
+
+
+Article Body:
+The basic construction of an acoustical panel includes a sound-absorbing substrate material and a covering of cloth, vinyl, or other material. The first acoustical panels used in "talking picture" theaters employed wood fiber as the sound-absorbing material. Today's acoustical panels use substrates that are more efficient at absorbing sound and meet modern safety standards. Some panels use two or more substrate layers in one panel to provide special properties. The most widely-used panel consists of a fiberglass board substrate and cloth cover, usually referred to as a POP—a "Plain Old Panel."
+
+How They Work
+Acoustical panels control sound by selectively absorbing sound waves, thereby reducing echoes and re-echoes. All of the various substrates absorb sound by trapping it in a labyrinth of fibers or open cells within the material. As sound travels through this maze, it loses energy due to both the travel and the direction changes within the material. Strictly speaking, the energy of the sound wave is converted to heat within the substrate. However, this heat is hardly noticeable or measurable and will not have any effect on a facility's heating or cooling levels. The acoustical material is, however, essentially the same material as used for building insulation and, if enough of an exterior wall is covered with panels, may contribute some insulating value.
+
+Echo! Echo! Echo!
+To paraphrase a popular southern comedian, "If you miss the Sunday sermon and can come in on Wednesday and still hear it, you may need acoustical panels." The choir director may love a room like this but the congregation will get a headache from "ear strain" trying to understand the minister. Some sanctuaries prove so annoying that the discussion of how to fix them must be held in the lobby.
+
+The problem can be excess reverberation time—a measure of how rapidly a sound decays in the room. Reverberation time can be estimated by initiating a loud noise—a loud clap, tipping over a folding table, or slamming a hymnal shut—and timing its decay. With this information and the spatial volume of the room, the existing sound absorption in the room can be calculated.
+
+The basic formula for measuring sound absorption is the Sabine formula, a simple algebraic equation named for the man who developed it a hundred years ago. The Sabine equation is used with the desired reverberation time to yield the necessary absorption for that room. The difference between the necessary absorption and the existing absorption indicates the degree of requirement for acoustical panels. So, with a loud impact noise and a good stopwatch, absorption requirements can be estimated with reasonable accuracy.
+
+There are, of course, several factors that keep this from being too simple. First, if there is already absorption on the wall that will be covered or removed, the panels will not change the acoustical characteristics of the room by their full rated value as they would over hard plaster. Second, if the reverberation is not particularly high and clarity is a problem, the answer may be diffusion of sound, rather than absorption. The difference is that while absorption reduces reverberation by controlling reflected sound, diffusion lowers the perceived sound level by scattering (diffusing) sound over a wide area. Diffusion can help achieve a space that is not too dry for the choir, nor too reverberant for the minister's message. (A full discussion of diffusion is reserved for another article.) A third consideration is that absorption characteristics depend on the sound frequency. Some acoustical problems must be resolved by addressing absorption or diffusion of selected frequencies.
+
+One common use of acoustical panels is to eliminate stray reflections from stage monitors, especially where feedback is a problem. They are also used on side walls to avoid slap-back and side-to-side flutters. Panels prevent coloration of the main sound source by eliminating reflections that recombine with the direct sound to reinforce or cancel certain frequencies. Without reflection control, the sound heard by the audience can be very different than that intended.
+
+Built-In Acoustics
+Before building a new worship space, it is vital to involve an acoustician along with the architect. In the acoustics world, there is a saying: "Architects have vision; but you don't hear with your eyes." Thinking about acoustics first rather than last will allow the installed sound system to be effective with less signal processing (and the attendant distortion) and at less cost. It will certainly be more economical than replacing or upgrading the sound system in attempts to fix acoustical problems.
+
+A room is acoustically "active" or, in a sense, "alive." A dip in frequency response is not cured with a peak equalizer, pumping more energy into that frequency. The room will absorb the new energy and the electronic correction will not be a complete cure. Eventually, extreme electronic compensation will cause undesirable audible effects. Whatever the acoustical needs of the room are, it can safely be said that the budget for acoustical control materials will be significantly less than the cost of the second and third failed sound systems.
+
+Types of Panels
+While well-made standard acoustical panels from various manufacturers may have more similarities than differences, there are many variations on the theme; some proprietary and some patented. The most obvious differences are the quality of workmanship and what is included in the pricing.
+
+"Do you want tires with that car?" is a phrase that translates well to the acoustical panel business. Ask what is included. Are edges square or shaped? Are they hardened? Is mounting hardware included? How are they packed: cardboard carton or wooden crate? What does freight cost?
+
+For acoustical panels, the package often weighs more than the product, especially with cellular Melamine (foam) panels. This can bring about the specter of the dreaded "dimensional weight," where freight is charged by volume rather than by weight. By personal experience, I've found it painful to learn that someone has shipped a box of lightweight foam by air at a shipping cost greater than the value of the product.
+
+Here is a sampling of the panel choices available:
+
+POP. The "Plain Old Panel" made of a fabric covering over a sound-absorbing, high-density fiberglass board. The fabric covering is acoustically transparent. There are other variations with at least one manufacturer using mineral fiber (mineral wool) in place of fiberglass. The fiberglass board is often mistakenly called "703," the model number for one supplier's original acoustical fiberglass. The original "703" fiberglass boards were of lower density than commonly used today. Most fiberglass board used in acoustical panels is six to seven pounds per cubic foot.
+
+Flat diffusion panel. POP with a membrane below the fabric surface. The membrane has a pattern of holes that varies reflection and absorption over the panel surface. The result is a scattering effect of the sound. This is an interesting item for a confined space but less necessary for a sanctuary where a traditional diffuser can be used to greater advantage for sound and, with custom wood finishes, for appearance as well.
+
+Barrier sandwich. Two POPs with a layer of heavy vinyl in between to block sound passing through the acoustical panels. (Absorbing panels prevent sound reflection but do little to block penetration through walls from room to room or inside to outside.) This item has been used to replace composite foams in machinery enclosures. The barrier sandwich can be made into a removable insert for framed glass partitions to provide additional isolation when conflicting events are on opposite sides of the window. For permanent installations, standard panels with separately supplied barrier may be more effective for sound and budget.
+
+High impact surface. POP with a 1¼8-inch layer of high-density fiberglass below the fabric. These are particularly useful in fellowship halls or gymnasium applications to avoid the craters created by wayward basketballs in softer fiberglass surfaces. A side effect of the high impact surface is its improved absorption in the lower frequencies, more than twice the absorption at 125 Hz for a one-inch panel.
+
+Tackable. Handy for the church classroom, tackable panels allow pushpins without destroying the underlying acoustical material. Of course, too many hard hanging items will block the acoustical effect or, at least erode high frequency performance.
+
+Cellular Melamine. The "foam" alternative: a white foam-like product that has become popular as a substrate for acoustical panels. Cellular Melamine should not be confused with polyurethane foam, which is restricted in use by fire codes. When selecting fabric cover colors, keep in mind that cellular Melamine is very white and will affect the perceived fabric color. It also conforms easily to curves, with the ability to bend around curved surfaces without the need to "score" the back surface.
+
+Panels with images. Custom or stock images printed on acoustically transparent fabric. Recent improvements in computer printing and acoustically transparent fabrics allow hi-resolution photographs to be used in addition to artwork and graphics printed by conventional means.
+
+Stretch wall. Raw acoustical panels are mounted to the wall, then fabric is stretched over the panels. These custom on-site installations are useful for covering contoured or irregular surfaces.
+
+Full-, half- and quarter-round. A flat panel made to conform to a curve. By creating a trapped air cavity of varied depth behind a one-inch panel, absorption is extended well into the bass frequencies. One manufacturer patented a device that is tunable by the addition of a membrane over half of the surface. These devices are useful where low frequency energy is a problem and panels four-inches thick or greater are impractical.
+
+Substrate and Fabric Choices
+The basic fiberglass board comes from three suppliers of insulation. Board may vary in density between six and seven pounds per cubic foot and in color: pink, yellow or marbled. Fiberglass density may affect stability of the panels.
+
+The color of the substrate is important because it can "tint" the color of the fabric covering. For example, a yellow substrate can produce a desirable vintage off-white or be totally wrong for a room that needs a white as bright as that of a toothpaste ad. It is always best to get a sample of the recommended acoustical panel in advance. To avoid having the substrate color enhance or discolor the finish, a panel may be under-wrapped with a scrim material to block the color below the fabric. Scrims are usually white but are available in black when that produces a better effect as with an image panel.
+
+Acoustical wall panels can usually be made to blend with the sanctuary interior using the 48 standard colors available to all panel manufacturers. Custom fabrics can be used but usually at additional cost. When choosing custom fabrics, make sure they are acoustically transparent or have known sound absorbing properties of their own. Also make sure the fabric is made of synthetic fibers so it will not be affected by moisture and temperature changes. Fabrics should also be visually non-directional: color and texture should appear the same from all angles.
+
+Some manufacturers make panels to custom shapes and sizes. Again, this will usually involve extra costs. Panels have been made in the shapes of wild animals, spaceship interiors, corporate logos, art deco theater shapes, and much more. Conforming an acoustical panel to the curves of a church window is possible. However, as with all custom work, accurate drawings and descriptions are essential.
+
+Advanced planning for acoustics (before building) can save much time, effort, and money later. Acoustical panels can be part of a planned sound-control strategy for a new building, or as solutions to sound problems in existing rooms. With the principles of acoustics well developed over the past 100 years, it is possible to predict acoustic results and costs in advance. There is every reason to expect to get it right the first time.
+
+Nick Colleran is a member of the Acoustical Society of America, past president of the Society of Professional Audio Recording Studios (SPARS), and former president of the Virginia Production Services Association (VPSA). Nick is currently active in acoustical design for houses of worship, new acoustical products and performance venues.
+<br><a href="http://www.submitsuite.com/products/article-submitter.htm">This article was published using Article Submitter</a>
+
+

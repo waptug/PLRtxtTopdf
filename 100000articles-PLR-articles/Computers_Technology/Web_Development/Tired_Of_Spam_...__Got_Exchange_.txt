@@ -1,0 +1,50 @@
+Title: 
+Tired Of Spam?...  Got Exchange?
+
+Word Count:
+887
+
+Summary:
+Most network administrators are apt to here this complaint at least once a week. "I've been getting a lot of junk email lately, isn't there anything you can do to stop it?".
+
+Well before you might have thought you were lost in the water without spending thousands on some 3rd party software like Symantec Mail Security or some like product. Which most likely doesn't fit in your budget this quarter. So I'm here to introduce to you a way to nearly eliminate all spam from your o...
+
+
+Keywords:
+spam,microsoft,exchange
+
+
+Article Body:
+Most network administrators are apt to here this complaint at least once a week. "I've been getting a lot of junk email lately, isn't there anything you can do to stop it?".
+
+Well before you might have thought you were lost in the water without spending thousands on some 3rd party software like Symantec Mail Security or some like product. Which most likely doesn't fit in your budget this quarter. So I'm here to introduce to you a way to nearly eliminate all spam from your organization. As long as you are running Exchange that is.
+
+First so that you have a better understanding how this works I'm going to tell you a little about spammers and how they evade detection. There are actually a couple of methods. Either they are running their own server and just sending spam from it, this is highly unlikely. Or they could be relaying off of some poor system administrator who doesn't know how to disable his SMTP server from being an open relay, most common. Lastly they could just be using a server on the net that actively allows people to send emails via SMTP anonymously and freely.
+
+Well systems engineers out there have gotten smart and created what today is called Spam blacklists. A list can be found of all the spam blacklists on google directory.Basically if your server has been caught sending spam you will get added to this list. You may not even know it! However, you will soon start to tell when people come up to you "Hey I just tried to send email to John Doe and it wouldn't go through." Most likely you are on one of these blacklists. You can search for your email server's ip address from a spam database lookup like the one found on DNS Stuff.
+
+But now to the fun stuff. Exchange allows you to filter who can connect to your server via SMTP. It's called connection filtering. And it's very easy to configure. This can literally cut down on about 98% of your spam.
+
+First thing you need to do is go to the Message Delivery properties in Exchange system manager. Once there go to the connection filtering tab.
+
+The second step in this process is to actually add the servernames of the blacklist providing servers. Once again these can be found in the google directory. I personally only use the top three servers on the list because if you add them all it can be very processor intensive on your server and some of the smaller providers results may not be as accurate. Once you click the add button you will be able to add the servers. This window is very self explanatory. You basically just add the name of the server found on the google blacklist directory. From here you can also type custom messages as to what you want to return to the sending SMTP server for denying the connection. The variables for the custom messages are as follows.
+
+%0 - connecting IP address
+%1 - rule name of the Connection Filter
+%2 - the RBL provider
+
+Once you setup your custom error codes which are optional you can choose which types of blacklisted servers you want to block. You can do this by clicking on the return status code radio button. If you want to deny all servers listed on the blacklist then you can leave the default radio button selected. Or you can choose which custom blacklisted servers you want to block. Here are the options that you have to choose from.
+
+127.0.0.1 - Blocklist
+127.0.0.2 - Known Open Relay
+127.0.0.4 - DialUp IP Address
+
+Congratulations you have now successfully configured rules to block message deliver. There is just one last step in the process you must apply these rules to your virutal SMTP server(s) interfaces. So lastly go to the properties of your Default SMTP Virtual Server. Under the general tab click on the advanced radio button. Once here click on the edit radio button. Here check Apply intelligent mail filter and Apply connection filter. Now restart your SMTP service and you are denying connections to viagra, enhancements, and stocks right and left.
+
+To just top off blocking spam out of your network there is one more step you can take. Download service pack 2 for Microsoft Exchange. This service pack contains the intelligent mail filter. This will allow you to block out messages based on their SCL rating(likeliness to be spam). The higher the SCL rating the better chance the message is spam. The settings for this feature can be found once again on the properties of the message delivery. Once in there click on the intelligent mail filter tab.
+
+Personally I like to set my message's to be rejected if the SCL is higher than 7. If it is between 5 and 7 I just tell Exchange to send it to the junk email folder of the clients. This way if the message turns out to be a false positive the user still gets the message it is just inconveniently placed in their spam folder. You can play around with these settings and adjust them according to what works best for you and your organization.
+
+I would like to end this article by saying congratulations spam is no longer your #1 enemy. Now you can get back to worrying about other problems in your network.
+
+

@@ -1,0 +1,36 @@
+Title: 
+How on Earth do Companies and Organisations lose Data?
+
+Word Count:
+1065
+
+Summary:
+Has your company suffered data loss?  There are many reasons for this most of which are not acceptable.  The concept of data backup is easier than you think.  To learn how simple, affordable and automated you backup solution could be, read this......
+
+
+Keywords:
+data backup, offsite backup, internet backup, remote backup, online backup, backup, online backup
+
+
+Article Body:
+Browsing the web I became engrossed with the concept of data backup and data loss. There is almost an almost unlimited amount of information covering subjects such as how to keep computer and server data secure, how to back-up data, how to restore data, how to replicate data, who will remove your backup tapes to an remote location, which companies can restore data from corrupt disks. With all this information and data technology available I keep asking myself the same question over and over again, how and why is data terminally lost?
+
+Much information on one web site does tend to contradict information on another site, but after all, most companies with sites of this nature are trying to sell you their solution so you will never get an overall unbiased picture, but there is one underlying fact which we can not get away from, a fact that is stated on most sites and the following fact that I totally agree with is, “Data is the lifeline of all companies and organisations; if data is terminally lost then the chances of a company trading efficiently or even surviving after 2 years of the disaster not at all good”. There are various statistics relating to this fact, but it is accepted that 50% to 70% of companies will go out of business within 1 year if data is lost. It is also acknowledged that everything within a business can be replaced, desks, chairs, buildings, even people can be replaced, everything but the data. Imagine, you sit on a chair and it breaks, you buy another one, you get the picture but imagine the consequences of data loss, you don’t know who your customers are, you don’t know who owes you money, you don’t know who you owe money to, you don’t know what orders you have to ship or who you are supposed to be visiting. Dire times are ahead.
+
+Taking all of the above into account I go back to the original question, if people, companies or organisations understand the true value and importance of their data, how do they manage to lose it? Data loss is totally unnecessary and unacceptable! I honestly feel most IT administrators do have the best intentions when it comes the preservation of data. In my experience data loss stems from only a few sources, human error, lack of resource or lack of planning. Total data loss should never occur when hardware fails.
+
+Human error – I forgot to take the tapes offsite when fire or flood struck offsite tape removal company incorrectly labelled your tapes, I did not test the tape prior to backup and consequently my data was not backed up, I forgot to backup! I did not put my tapes in a secure safe and they were stolen overnight. My backup server crashed in the middle of a backup. The web is littered with stories like this; they are almost a comedy of errors. Responsibility for data backup cannot ever be placed upon the shoulders of one person or one team of people, if there is room for human error, then you have a flaw within you backup system.
+
+Lack of resources – If you work for a corporate, your backup and restore system will have probably cost many hundreds of thousands of pounds. You will enjoy an automated disk to disk system replicated to a second remote location. Even though you are replicating to an offsite location, for added security, you will most likely use this second site to backup to tape. This replicated infrastructure is way out of budget for small to medium enterprises backup to tape is still not a cheap task, by the time you have purchased a tape drive, server to fit the drive into, tape media and the backup software you will have spent at least £3,000, plus backing up to tape in the conventional way is still prone to the same potential human errors. The humans that make the error also have to be paid, if a backup solution is not automated then you will have to employ someone to take care of this, I would prefer my staff to be carrying out more proactive, revenue generating tasks.
+
+Lack of planning – probably a harsh way of putting it, a lack of understanding potential disasters may sound more forgiving. It all amounts to the same thing, but a lack of planning was recently highlighted in the UK when the Bunsfield oil terminal exploded. Companies who backed up to tape and secured said tapes in a fire and water proof safe were cruelly exposed when their building collapsed as a result of the explosion, backup tapes could not be recovered for weeks as they were in the safe under hundreds of tonnes of rubble. Their ability to trade was rendered impossible. Most companies feel that this situation will never happen to them, but let’s put this situation into context, Bunsfield is only the fifth largest and one of over 40 oil terminals and depots in the UK all of which are near major towns and cities, so it could happen to you. This case is one of many where buildings have been destroyed and data has been lost as a result.
+
+If you are still with me you will notice I have only mentioned reasons for and ways of losing data. The rapid growth of cheap high speed internet connectivity and consequently the greatly reduced cost of highly secure, fully automated offsite backup solutions is the reason I ask “how can companies and organisations lose data?”
+
+Offsite backup, also known as remote backup, online backup, is a solution that ticks all the boxes for a small to medium companies with limited budget and resource. Why is this the case I hear you ask? If you deal with a reputable company, remote online backup is cost effective, solutions start at around £25 per month, totally automated therefore requires no human intervention resulting in no human error and your data will always be available as it will be replicated between two data centres. To summarise you have an enterprise class backup solution at your disposal for less than the cost of a low end tape drive.
+
+To find out more information about secure offsite data backup solutions, please visit
+<a href="http://www.perfectbackup.co.uk/" style="color: blue; text-decoration: underline; text-underline: single">
+www.perfectbackup.co.uk</a>
+
+

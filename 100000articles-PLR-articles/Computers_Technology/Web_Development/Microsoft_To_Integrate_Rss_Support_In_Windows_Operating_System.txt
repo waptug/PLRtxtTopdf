@@ -1,0 +1,48 @@
+Title: 
+Microsoft To Integrate Rss Support In Windows Operating System
+
+Word Count:
+1003
+
+Summary:
+Last year Microsoft Corporation shocked the world when they revealed their intention to build RSS (Really Simple Syndication) support in the latest version of the Microsoft Windows operating system, which is under the code-name “Longhorn.” The announcement was fittingly made in Seattle at last years celebration of Gnomedex 5.0, an annual conference for avid technology buff and industry influentials that concentrates on RSS, blogging, podcasting and other new media models.
+
+...
+
+
+Keywords:
+Internet, RSS, Technology, Internet Business, Microsoft
+
+
+Article Body:
+Last year Microsoft Corporation shocked the world when they revealed their intention to build RSS (Really Simple Syndication) support in the latest version of the Microsoft Windows operating system, which is under the code-name “Longhorn.” The announcement was fittingly made in Seattle at last years celebration of Gnomedex 5.0, an annual conference for avid technology buff and industry influentials that concentrates on RSS, blogging, podcasting and other new media models.
+
+With the RSS functionality of Longhorn, it will make it easier for end users to discover, view and subscribe to RSS feeds. Furthermore, it will also make it easier for the developers to incorporate the rich capabilities of RSS into their applications.
+
+Additionally, Microsoft also introduced Simple List Extensions. This is a set of extensions to RSS, which can be used to make it possible for web sites to publish “lists” like of photo albums, music playlists and top 10 lists as RSS feeds. This specification will be made freely available through the Creative Commons license, the same license under which the RSS 2.0 specification was released.
+
+If you are wondering what the deal with RSS, well it’s simple. It makes things much simpler for both the users and applications developers. By adding RSS features throughout “Longhorn” Microsoft will be making it easier for the broad group of users and developers to take advantage of RSS.
+
+For example, while browsing the Web, “Longhorn” users will be able to easily discover RSS feeds through an illuminated icon and to read the feed even though they are still in the Web browser. Also, subscribing to an RSS feed will be as simple and easy as adding a Web site to their “favorites.”
+
+Another advantage to having RSS features in the Windows “Longhorn” platform is that it will allow application developers to easily employ the capabilities of RSS in their applications. Let’s take this as an example. A business user who is about to attend a conference will be able to subscribe to the conference’s event calendar. They can then use a “Longhorn” RSS-enabled calendar application to view the events in the RSS feed from within their calendar application. Another example is that business managers will be able to subscribe to sales data that notifies them through a line-of-business application when new deals have been closed.
+
+Exactly what is included in this RSS support in the “Longhorn” platform? There are three vital features. The first one is the common RSS feed list. This core feature of Windows maintains a common list of the user’s subscriptions across all applications. This will enable users to subscribe to a feed once and have all RSS-enabled applications able to access the common list to view the subscriptions.
+
+Another feature is the common RSS data store. This feature will provide a single location where applications can access content that has been downloaded to the PC through RSS. This would include text, pictures, audio, calendar events, documents and almost everything else. All applications will have access to this content in order to create rich user experiences.
+
+Lastly, there is the RSS Platform Sync Engine. Now, this feature will automatically download data and enclosures for use by any application. The engine is especially designed for efficiency, using idle network bandwidth whenever possible in order to limit the effect on the user’s Internet experience. Developers may use the platform in order to obtain RSS data without the need to manage details like synchronization schedules or subscriptions.
+
+It was mentioned before that Microsoft has also developed the Simple List Extensions. What is this you ask? Well, this is a set of enhancements to RSS to help Web sites publish lists of content that users can subscribe to, like top 10 songs from a music site, a wish list from an online retailer or a user’s ranking of favorite videos.
+
+Since RSS is mainly designed for subscribing to time-based feeds, it only seems logical to have a Simple List Extensions. This expands the scope of RSS in two significant ways. First is that it boost RSS to capture information vital in representing lists like ordering of items. With the help of these extensions applications may become aware of changes in a list, for instance when an item has changed position or has taken off from the list altogether.
+
+Secondly, it allows publishers to embed useful information about the list itself. For instance, an online retailer can supply additional information about each item in a list such as price, sales rank, average customer rating and type of merchandise. The extensions allow richer flexibility and capability for sorting and ordering. Thus, it makes it possible for users to easily sort their friends’ wish lists by sales rank or popularity.
+
+Web sites that create lists using the Simple List Extensions will also find it quite beneficial. How so? Let’s say a music site will be able to deliver a daily top-10 tracks list to help drive increased sales. This is quite difficult to accomplish today, since it requires significant work for both content providers and RSS solutions. Already shopping sites are enthusiastically voicing out their excitement and support for Longhorn.
+
+A lot of people believe that RSS is indeed the key to how the public will use the Internet in the future, which is delivering important information automatically. Microsoft recognizes this, which is why they are investing heavily in RSS for Windows “Longhorn” to make it easy for users to discover, read and subscribe to RSS feeds as well as enable developers to deliver powerful, smart applications that act on the information on behalf of the user.
+
+Microsoft was founded way back in 1975. For more than three decades now they remain a worldwide leader in software, services and solutions. The company is dedicated to helping people and businesses realize their full potential by providing them with innovative technology. Windows, Windows Media and MSN are just among the many brainchild of this global leader. Today, Microsoft remains true to its promise by introducing their latest breakthrough – Longhorn!
+
+

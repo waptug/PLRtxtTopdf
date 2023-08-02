@@ -1,0 +1,27 @@
+Title: 
+MySpace Countdown Generator
+
+Word Count:
+70
+
+Summary:
+Our MySpace Countdown Generator lets you create an attractive countdown clock for important events in your life, such as your birthday!
+
+
+Keywords:
+myspace countdown generator,countdown clock
+
+
+Article Body:
+Our MySpace Countdown Generator lets you create an attractive countdown clock for important events in your life, such as your birthday!
+
+To use our MySpace Countdown Generator:
+
+    * Enter the message you want displayed
+    * Set the date of your event
+    * Choose colors for your banner
+    * Select a skin for your banner
+    * Click the button in the lower left corner
+    * Copy the HTML source code and paste it into your MySpace page
+
+

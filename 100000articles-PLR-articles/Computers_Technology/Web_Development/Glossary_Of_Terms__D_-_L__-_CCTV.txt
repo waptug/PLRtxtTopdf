@@ -1,0 +1,257 @@
+Title: 
+Glossary Of Terms (D - L) - CCTV
+
+Word Count:
+1763
+
+Summary:
+DARK CURRENT
+Leakage signal from a CCD sensor in the absence of incident light.
+
+DARK NOISE
+Noise caused by the random (quantum) nature of the dark current.
+
+DECIBEL (DB)
+A logarithmic ratio between two electrical signals or values. Usually refers to power, but can also be used for voltage and current.
+
+DC
+Direct Current.
+
+DE-MULTIPLEXING
+The process of separating different video, audio, or data signals, which were multiplexed at source.
+
+DEPTH OF FIELD
+The di...
+
+
+Keywords:
+security consultant,security consultancy,security services,security solution,security design
+
+
+Article Body:
+DARK CURRENT
+Leakage signal from a CCD sensor in the absence of incident light.
+
+DARK NOISE
+Noise caused by the random (quantum) nature of the dark current.
+
+DECIBEL (DB)
+A logarithmic ratio between two electrical signals or values. Usually refers to power, but can also be used for voltage and current.
+
+DC
+Direct Current.
+
+DE-MULTIPLEXING
+The process of separating different video, audio, or data signals, which were multiplexed at source.
+
+DEPTH OF FIELD
+The distance between the nearest and furthermost object in a scene which appear in sharp focus. Depth of field varies depending on the f-stop and focal length of a lens. Depth of field increases when the f-stop is greater, the focal length shorter or the distance to the object is increased.
+
+DIELECTRIC
+An insulating (non-conductive) material. Found between the inner core and outer shield of a co-axial cable.
+
+DIGITAL SIGNAL
+An electronic signal, which is represented by binary numbers, and that, can be processed by a microprocessor, or stored in an electronic memory.
+
+DOME
+Term used to describe a type of camera housing made of smoked glass or plastic usually containing a pan and tilt head and used for discreet surveillance.
+
+DOS
+Disk Operating System. A software package that makes a computer work with its hardware devices such as hard drive, floppy drive, screen, keyboard, etc.
+
+DSP
+Digital Signal Processing. Refers to an electronic circuit capable of processing digital signals.
+
+DUPLEX
+A system that is capable of handling two channels of information simultaneously. In CCTV, duplex is used to describe a multiplexer that can record in multiplex mode whilst simultaneously displaying multi-screen pictures.
+
+DWELL TIME
+When relating to video switchers this is the time that a picture remains on a monitor before being replaced by the next picture.
+
+EAS
+Electronic Article Surveillance. System used in retail stores to prevent shoplifting by attaching tags to the merchandise, which activate an alarm when passed through detectors. These systems are often interfaced with CCTV systems.
+
+EBU
+European Broadcasting Union.
+
+EIA
+Electronics Industry Association. American Association that sets the standard for video broadcast in the USA and Canada (525 lines, 30 frames per second).
+
+ELECTRON BEAM
+A concentrated flow of electrons in a nominated direction.
+
+EMI
+Electro Magnetic Interference. Interference caused by an item of electrical equipment radiating electro magnetic frequencies.
+
+ENG CAMERA
+Electronic News Gathering camera usually refers to CCD cameras in the broadcast industry.
+
+EPROM
+Erasable and Programmable Read Only Memory. An electronic chip used in many different security products, which stores software instructions for performing various operations.
+
+ERGONOMICS
+The study of man, machine and the working environment to achieve maximum efficiency.
+
+FIBRE OPTIC
+A very efficient method of transmitting video and telemetry signals over long distances using a light beam transmitted along a fibre optic cable constructed from high density Silica Glass.
+
+FIELD
+Half of a single frame, consisting of either the odd or even lines. In a PAL system this is 312.5 lines.
+
+FIELD OF VIEW
+The height and width of view that can be seen through a lens.
+
+FIXED LENS
+A lens with a pre-determined fixed focal length. Normally has a focusing control and a choice of iris functions. Available in a range of sizes to suit different applications.
+
+FLY BACK PERIOD
+The time taken for a signal to move from the end of a field, frame or line to the start of the next field frame or line. Also called the retrace period.
+
+FOCAL LENGTH
+The distance between the optical centre of a lens and the focal point.
+
+FOCUSING RING
+Ring on the outside of a lens to allow adjustment to obtain correct focus.
+
+FOOT-CANDELA
+Unit of Illuminance. 1 Foot-candela =1 Lumen of light incident on 1sq ft of surface area.
+
+FRAME
+Basic unit of a motion picture, made up of 2 fields or 625 lines (in a PAL system).
+
+FRAME INTERLINE CHIP
+A type of CCD imaging device, which is expensive to manufacture and is currently used in broadcast quality cameras. This type of chip overcomes many of the shortcomings of the existing CCD chips used in CCTV cameras.
+
+FRAME STORE
+An electronic device used to capture and digitally store a video image. Can be a stand-alone unit or incorporated in other equipment such as fast scan transmitters or video motion transmitters.
+
+FRAME SWITCHER
+A basic form of multiplexer, which can be used to record multiple cameras on a single VCR.
+
+FRAME TRANSFER
+A type of CCD Imaging device in which the pixels have a dual role of sensing the light and transferring the charge. This can result in picture smearing, which is a major shortcoming of this device.
+
+GALVANOMETER
+In CCTV this term refers to a method of operating an auto iris lens. The changing light level causes a change in the current induced into a minute coil, which in turn causes movement in the Iris diaphragm.
+
+GAMMA CORRECTION
+A method of correction used in cameras to balance the brightness seen by a camera to that of the monitor.
+
+GEN-LOCK (EXTERNAL SYNC)
+A method of synchronising a number of cameras in a system to ensure that they all produce fields at the same time. This is used to prevent picture “bounce” when switching between cameras and can improve the overall quality and update time of recordings when using switchers or multiplexers.
+
+GROUND LOOP CURRENT
+In CCTV this term refers to a current that is produced in a cable as a result of a difference in earth potential existing at each end of the cable. The result of this is noise (interference) introduced in the signal.
+
+GROUND LOOP INSULATOR
+A transformer with no direct connection between the inputs and outputs, used to eliminate Ground Loop Currents.
+
+GUI
+(Graphical User Interface). A term used to describe the interface between a computer screen and the user. Now used in CCTV Systems to describe features such as touch screen control of systems and equipment.
+
+HARDWIRED
+Refers to a method of controlling CCTV equipment by using multi-cored cable run between the controller and device to be controlled. Only used where the distance between controller and controlled device is short.
+
+HERTZ
+The unit of measurement for frequency in a signal. 1 Hertz = 1 cycle per second.
+
+HOMING SWITCHER
+Term used to describe a sequential switcher with only one output.
+
+HORIZONTAL RESOLUTION
+The number of vertical lines that can be resolved in a picture.
+
+HORIZONTAL SHIFT REGISTER
+Part of the CCD image device to which the charge from the pixels is transferred line by line. This charge is then converted into an analogue video signal.
+
+ILLUMINANCE
+The amount of light, which falls onto a given surface area. Measured in lux.
+
+IMAGING DEVICE
+A vacuum tube or solid state device in which the vacuum tube light sensitive face plate, or solid state light sensitive array, provides an electronic signal from which an image can be created.
+
+IMAGE INTENSIFIER
+A devise used to intensify light through the use of light sensitive phosphor screens. Used to intensify camera performance under low light conditions.
+
+IMPEDANCE
+The total opposition to current flow in an a.c. electrical circuit. Measured in Ohms.
+
+INDEX OF REFRACTION
+The ratio between the angle of incidence to the angle of refraction of light. Index varies depending on the density of the medium. The denser the medium, the higher the index.
+
+INFRARED LIGHT
+Light produced at the red end of the spectrum. Not visible to the naked human eye.
+
+INFRARED ILLUMINATOR
+Light source, which emits light in the infrared part of the spectrum. Used to illuminate scenes to provide views at night from infra sensitive monochrome cameras.
+
+INFRARED TRANSMISSION
+Method of transmitting signals using an infrared beam. Allows CCTV signals to be transmitted where cables cannot be run. Signals can be degraded over long distances or in adverse weather conditions.
+
+INTERFERENCE
+Effect caused by the introduction of unwanted electrical signals into an electrical circuit. In CCTV this results in “noise” in the signal or picture, which disrupts the picture.
+
+INTERLACING
+The process of combining odd and even fields to form a frame.
+
+INTERLINE TRANSFER
+A type of CCD imaging device in which the charge is processed according to the amount of light falling on the sensors and then transferred immediately. This is the most common form of imaging device used in current CCTV systems.
+
+IP RATING
+Index of protection that refers to the level of protection provided by equipment housings, against the ingress of dust or moisture.
+
+IRIS
+The part of a lens that is used to control the amount of light that passes through the lens and onto the imaging device.
+
+ISDN
+(Integrated Services Digital Network). Telecommunications network that is capable of transmitting digital signals at speeds of up to 128kb/sec.
+
+LAN
+(Local Area Network). Means of connecting a number of computers to enable communication between each device connected to the network.
+
+LASER
+(Light Amplification by Stimulated Emission of Radiation). In CCTV this source of exceptionally pure light can be used to transmit signals along fibre optic cables, providing very high quality signal and data transmission.
+
+LED
+(Light Emitting Diode). A semiconductor that produces light when stimulated by an electric current. In CCTV these are used as the light source in some fibre optic transmission systems, and as light the light source for illuminating scenes for use with Monochrome cameras.
+
+LENS
+An optical device for focusing light onto the imaging device in a camera.
+
+LENS CALCULATOR
+A calculator used to calculate the most suitable lens to provide an image of a given scene when used with a specific camera.
+
+LENS HUNTING
+A problem encountered when an auto iris lens opens and closes alternatively because it is unable to find the correct level.
+
+LENS MOUNT
+See C-mount or CS-mount.
+
+LENS WHEEL
+See Lens calculator.
+
+LIGHT SENSOR
+A device that is activated when a preset amount of light is present on the sensor. Used to switch on/off infrared illuminators.
+
+LINE
+The basic unit of a frame or field containing the charge, which is proportional to the light falling at various points on the scanning line.
+
+LINE-LOCKED
+Refers to a method of synchronising cameras to a common AC frequency.
+
+LOOPING SWITCHER
+Refers to a type of switcher where signals are looped through the switcher without being affected by the operation of the switcher itself.
+
+LUMEN
+Unit of light measurement of light radiation. 1 Lumen = amount of light emitted by a light source of 1 Candela.
+
+LUMINANCE
+Brightness. In CCTV refers to the part of the video signal that contains information about the scene brightness.
+
+LUMINOUS FLUX
+The rate of flow of light.
+
+LUX
+Unit of illumination. 1 Lux = the amount of uniform light falling onto a surface of 1sq metre. Measured in Lumens per square metre.
+
+

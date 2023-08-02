@@ -1,0 +1,24 @@
+Title: 
+Understanding Duplicate Content Issues
+
+Word Count:
+320
+
+Summary:
+The issue of duplicate content most often creates great controversy. The past several years have found spammers in an intense need for content to which they frequently attempt to scrape it from legitimate sources distorting the words and reorganizing the text in. This has brought on an array of duplicate content issues which have perpetrated their own set of penalties. 
+	
+Google has its own method for finding duplicate content. Google defines the thought that if you think y...
+
+
+Keywords:
+
+
+
+Article Body:
+The issue of duplicate content most often creates great controversy. The past several years have found spammers in an intense need for content to which they frequently attempt to scrape it from legitimate sources distorting the words and reorganizing the text in. This has brought on an array of duplicate content issues which have perpetrated their own set of penalties. 
+	
+Google has its own method for finding duplicate content. Google defines the thought that if you think you’ve seen it before then you probably have. It has a system which applies documentation comparison.  Google takes precautions to recognize the original works created. They pay close attention to such things as where they first saw the content, the reputation of the domain, the location of links attached to the site, history involved in scraping if applicable, and page rank. 
+	
+Other factors come into mind in the area of duplicate content. Web page owners are sometimes concerned that page with large code and HTML elements will possibly be mistaken for duplicate. This is not the case. Google has no interest in code, they’re concern is content. Google recognizes unique portions of a page and rarely notices navigation elements. If using license contact its best to use meta name variations. It’s really unknown what percentage of duplication is found to be a violation and warrants page removal. In this case, original content is the best guarantee that the life of your site won’t be interrupted. In regards to your own protection and rights its expected to use logic in your actions. A small duplication here or there should not be confronted with violation cause. However, ,in cases of evident consistent usage of your content you may file an infringement request with Google or other sources such as Yahoo. In short, your page rate or rank will be better suited with original content unseen by other sources on the net.
+
+

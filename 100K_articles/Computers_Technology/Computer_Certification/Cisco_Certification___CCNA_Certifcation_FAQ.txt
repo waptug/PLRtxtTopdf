@@ -1,0 +1,56 @@
+Title: 
+Cisco Certification:  CCNA Certifcation FAQ
+
+Word Count:
+383
+
+Summary:
+Chris Bryant, CCIE #12933, answers several common questions CCNA candidates have.
+
+
+Keywords:
+ccna, ccnp, free, pass, exam, cisco, certification, computer, mcse, ccie, chris, bryant
+
+
+Article Body:
+When you start your CCNA studies, a lot of questions come to mind!  Here are the five most common questions CCNA candidates have, answered by Chris Bryant, CCIE #12933.
+
+Q. What exams do I have to take to get my CCNA?
+
+A. The CCNA (Cisco Certified Network Associate) certification offers two paths. You can take the one-exam path by taking the 640-801 CCNA Composite exam. If you want to break it up into two parts, you can take the Introduction To Cisco Networking Technologies (INTRO 640-821) and the Interconnecting Cisco Networking Devcies (ICND 640-811) exams.
+
+Q. Chris, which path do you recommend?
+
+A. I generally recommend the two-exam path, particularly for those CCNA candidates that haven't taken a Cisco exam before. The Intro exam offers you a little more time and allows you to become comfortable with the Cisco exam engine, particularly the simulator questions. Let's face it, the CCNA single exam covers a lot of material, from basic networking to OSPF to router on a stick. Most candidates are better off breaking this huge amount of material into two distinct parts.
+
+Don't get me wrong, I've had plenty of students and customers pass the CCNA composite. It can be done!
+
+Q. Do I have to recertify my CCNA, or is it mine forever after I pass?
+
+A. One way Cisco protects the value of its certifications is to enforce strict recertification policies. When you earn your CCNA, you must recertify within three years. 
+
+Q. How do I recertify my CCNA? 
+
+A. There is a lot of confusion out there on this question. The latest information from Cisco is that you recertify your CCNA by doing any of the following three things:
+
+1. Pass the current CCNA Composite or ICND exam.
+
+2. Pass any 642-level professional level exam or any Cisco Qualified Specialist exam, not including Sales Specialist exams.
+
+3. Pass any CCIE written exam. 
+
+Q. How do I register for the CCNA exam?
+
+A. You can take the CCNA exam at any Prometric or VUE testing center. To find a Prometric testing center near you and register online, visit www.2test.com . For a VUE site, register at www.vue.com .
+
+Q. Can you give me a braindump for the exam?
+
+A. Boy, do you have the wrong guy!  :)
+
+To your success,
+
+Chris Bryant
+
+CCIE #12933
+
+

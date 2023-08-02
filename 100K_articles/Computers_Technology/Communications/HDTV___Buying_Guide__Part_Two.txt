@@ -1,0 +1,34 @@
+Title: 
+HDTV:  Buying Guide, Part Two
+
+Word Count:
+986
+
+Summary:
+In my first article I wrote how there's never been a better time to buy a high definition (HD) television, and I had just preordered the Samsung HLS-5087W 50 inch rear projection DLP unit.  The Samsung was delivered last Thursday and here's a summary of my initial reaction.
+
+
+Keywords:
+HDTV, HD, TV, DVD, satellite TV, plasma, technology, consumer technology
+
+
+Article Body:
+In my first article I wrote how there's never been a better time to buy a high definition (HD) television, and I had just preordered the Samsung HLS-5087W 50 inch rear projection DLP unit.  The Samsung was delivered last Thursday and here's a summary of my initial reaction.
+
+First let me give some background on preparing for the new HD television.  I'm a satellite TV subscriber and needed to upgrade my DirecTV hardware to be HD-compatible.  So last month I logged on to http://www.directv.com and ordered the HD upgrade package.  For $200 DirecTV came out and replaced my old satellite dish with a new 5-LNB oval HD dish.  The HD package included the lease of DirecTV's new H20 HD receiver, and also included installing a new UHF antenna on my roof to receive other-the-air (OTA) HD local broadcasts.  The new dish and receiver were required for HD reception since DirecTV is transmitting local HD broadcasts in the new MPEG-4 compression format instead of the older MPEG-2 standard.  Since HD material requires much more bandwidth than standard definition video, satellite and cable providers will be migrating to the new MPEG-4 standard over time and DirecTV is leading the way for now.
+
+I was now all set to receive HD programming as soon as Samsung HLS-5087W arrived with one exception - an HDMI cable to output the digital video/audio signal from the H20 to the Samsung.  I'm a big believer in investing in high quality cables for analog connections between audio/video components.  But HDMI is a digital interface that transmits a stream of 0's and 1's.  So either it works or it doesn't.  I therefore bought a $20 HDMI cable on the Web instead of investing $90 or more for a Monster cable that I thought would yield exactly the same audio and video quality.  One great thing about HDMI is that it carries both video and audio signals (in uncompressed, digital form) so you can easily reduce the cable clutter behind your home theater system.
+
+Now everything was all set - I just needed the new Samsung to be delivered.  I ordered the television from Crutchfield, which has a great reputation for customer service, is an authorized Samsung online retailer, and offered the television with no tax or shipping charges.  The delivery guys brought the television into my living room, took it out of the box and placed it on my home theater stand.  I connected the power cable, connected the HDMI cable form the H20 to the Samsung, turned on the power, modified the TV display type on the H20 from 4:3 to 16:9 and amazingly the new television just worked, right out of the box!
+
+I was quickly in HD nirvana - watching local broadcasts in full 1080i and Dolby Digital 5.1, as well as premium services such as HBOHD and the various HD channels that are part of DirecTV's HD package.  But how would the 150 DVDs I own (most of which I trade via Peerflix) look on the new HD Samsung?  I first had to bring up the menu on my Panasonic DVD recorder/player and activate 480p output over the component cables that I connected to the Samsung.  Most DVD players sold in the last three years can output a progressive signal (the "p" in 480p) over component cables instead of the normal interlaced picture transmitted on composite and S-video connections.  480p is a big visible improvement over 480i and you'll want to make sure you are watching all of you DVDs on a HD television using 480p. 
+
+I chose Shrek as the first DVD to showcase on the Samsung.  Dreamworks did an amazing job with the animation quality of Shrek and thought the DVD would be a good test of the picture quality of a standard definition DVD on a HD television.  So how did it look?  One word sums it up - amazing!  I don't expect I'll be going out to the movies much any more - I'll just wait for the DVD to come out. 
+
+On Saturday night I watched a broadcast of Steve Winwood in HD and Dolby Digital 5.1 on KQED, the local PBS affiliate.  Being a huge Steve Winwood fan, and having seen Winwood on this tour at a local venue in 2005, I was eager to see what kind of audio/video experience the new HD unit could deliver via a local, OTA HD broadcast.  Once again, I was just stunned by the picture quality and quickly went to KQED's web site to see what future Soundstage broadcasts are scheduled.  I'm now eagerly awaiting Garbage's performance premiering next month.
+
+There was one more thing left to do though before I could experience the maximum picture quality from the new Samsung - I needed to calibrate the picture for maximum video quality.  Virtually all televisions sold today ship from the factory with video settings that are far from optimal.  Colors are typically oversaturated, with too warm a tone, and sharpness, brightness and contrast controls that are far from optimal as well.  So I dug out my copy of "Video Essentials: Optimizing Your Audio/Video System" DVD and spent a half hour adjusting the color, brightness, contrast and sharpness controls.  The HLS-5087W has numeric display of each of these settings, which is a nice touch for those of us who go through the trouble of tweaking every setting possible for maximum picture quality.  It was hard to believe that I could improve upon the quality of the Samsung's picture out of the box, but fine-tuning the picture settings resulted in a much more "film-like" appearance of movies from both my DVD player and H20 receiver.
+
+I'm looking forward to watching the season premiere of HBO's Entourage series in full HD glory tonight.  It's also going to be difficult holding off purchasing a HD DVD source with HD-DVD and Blu-ray players and titles now starting to appear.  But I'll talk about that in my next article.
+
+

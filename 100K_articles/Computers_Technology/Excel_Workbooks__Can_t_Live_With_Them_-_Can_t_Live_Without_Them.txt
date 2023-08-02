@@ -1,0 +1,30 @@
+Title: 
+Excel Workbooks: Can't Live With Them - Can't Live Without Them
+
+Word Count:
+421
+
+Summary:
+Those who regularly use advanced features to create Excel workbooks understand the program's limitations. But help is available!
+
+
+Keywords:
+Excel, Chart, PivotTable, PivotChart, Formatting, Analysis, spreadsheet, template, Xcelerator, Excel workbooks
+
+
+Article Body:
+Excel.... When it comes to spreadsheets, it's the only game in town. For basic formatting, calculations, and the rare chart or two, it has all the functionality most users need. However, those who regularly use advanced features to create Excel workbooks understand the program's limitations. The hair pulling starts when you have to repetitively perform virtually the same formatting and analysis steps on new data for the same fields and continues when you discover that there is virtually no re-usability for the work you perform in Excel. Each time, it's almost like starting from scratch.
+
+But what if there were products that could streamline the creation of workbooks, so that what usually takes hours could be accomplished in mere minutes? Imagine a world where you could format data on an ad hoc basis or new data for the same fields on a repetitive basis in a way that would create formatted worksheets, a PivotTable, and a PivotChart utilizing more Excel formatting and analysis features than you could ever implement manually? It would be a world of sheer bliss. 
+
+After looking at all of the products on the market, there's one that stands out above all others: Xcelerator. In essence, it transforms Excel from a cumbersome necessity into a fast, powerful, easy-to-use report writer. By automating Excel's most frequently used features, it completely eliminates repetitive, mechanical, and time consuming manual formatting tasks. The best part of all is that the program never touches the original data, whether it's manually maintained Excel data, data extracted from databases, or data imported into Excel from other applications. 
+
+If you find yourself constantly formatting new data for the same fields, Xcelerator's workbook creation and formatting process is completely automatic. Because it creates templates, it literally takes less than one minute and produces new, identically formatted Excel workbooks every time. 
+
+Although Xcelerator isn't a substitute for a thorough understanding of Excel's features and capabilities, it does streamline every step of creating Excel workbooks. But it goes beyond simply making a more efficient mousetrap because it has a number of powerful features that are exclusive to Xcelerator, such as mixing multiple subtotal types at each subtotal level and dragging the field contents of non-breaking and non-totaling fields to any subtotal level. 
+
+As if that wasn't enough, the program also allows you to print out charts and tables with headers and footer, making it ready for presentation. 
+
+Although Excel workbooks have their inherent limitations, products like Xcelerator tear down those walls and keep you from tearing your hair out!
+
+

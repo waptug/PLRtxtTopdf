@@ -1,0 +1,30 @@
+Title: 
+How To Protect Yourself From Computer Viruses
+
+Word Count:
+376
+
+Summary:
+It’s a dangerous internet out their kids. There are many unscrupulous individuals who work hard every second of their waking lives to destroy your computer, erase your hard drive and steal your bank details (you better lock up your daughters too).
+
+What can you do to combat these nefarious evildoers? If you have a computer, and I presume you do, there are two things you must have in your armory. They are: a virus scanner and a firewall. These two items are you sword and shi...
+
+
+Keywords:
+virus, computer, spyware, malware, badware, internet, firewall
+
+
+Article Body:
+It’s a dangerous internet out their kids. There are many unscrupulous individuals who work hard every second of their waking lives to destroy your computer, erase your hard drive and steal your bank details (you better lock up your daughters too).
+
+What can you do to combat these nefarious evildoers? If you have a computer, and I presume you do, there are two things you must have in your armory. They are: a virus scanner and a firewall. These two items are you sword and shield in the ongoing battle of good against evil. But, how do you use them to protect yourself?
+
+First things first, if you don’t have a firewall, go get one. There are many free ones out there that will do the job. Make sure the one you get can block both incoming and outgoing connections from your computer. If you are unfortunate enough to receive a piece of software which is up to no good on your system, the firewall will alert you when it tries to use the internet to contact it’s mother ship. If you are ever in doubt about the aims of software when they’re trying to access the internet, just block them, you can always unblock later when your web browser stops working.
+
+The sword will be our trusty virus scanner. Once again, there are many free ones around that will do quite nicely. They will sit there on your machine, tirelessly scanning your storage areas for nasty bits of code you may not know about, but are there to cause mayhem and untold damage. When found, the scanner will work magic to delete the infected items and remove the source before the damage becomes too great.
+
+Another tool that virus-free knight shouldn’t be without is the spyware scanner. This handy utility can be fired up once a week to perform a scan to check whether any devious miscreants have slipped through and are ruining our web viewing experience with annoying pop-ups.
+
+So, you see, it’s quite easy to protect yourself. There are decent programs out there, produced by people in shiny castles, which will help you sleep at night. And, best of all, they’re so cheap they’re free!
+
+

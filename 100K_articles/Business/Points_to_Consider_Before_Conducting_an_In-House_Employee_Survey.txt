@@ -1,0 +1,59 @@
+Title: 
+Points to Consider Before Conducting an In-House Employee Survey
+
+Word Count:
+1466
+
+Summary:
+For many years I worked in the corporate environment in large organizations. These organizations had substantial Human Resource and Information Technology departments. When it came to running an employee survey it was only natural that they should use these vast resources. Typically response rates to employee surveys were less than 25%. These response rates were considered to be the norm and aside from a few comments lamenting the low response rate, no one paid much attention.
+
+
+Keywords:
+
+
+
+Article Body:
+For many years I worked in the corporate environment in large organizations. These organizations had substantial Human Resource and Information Technology departments. When it came to running an employee survey it was only natural that they should use these vast resources. Typically response rates to employee surveys were less than 25%. These response rates were considered to be the norm and aside from a few comments lamenting the low response rate, no one paid much attention. 
+
+Today I am on the other side of the fence. I have worked with corporate clients for the past nine years providing various kinds of employee surveys. Recently, I had the opportunity of speaking with HR staff from several organizations. These organizations were scouring the internet to collect questions so that they could create their own employee survey. Once they assembled these questions they were planning on running their own survey process in-house.
+
+At first blush this does not sound like an unreasonable approach. However, I asked the HR staff to consider the following.
+
+Privacy and Confidentiality
+
+One of the most significant issues from an employee&#8217;s perspective regarding employee surveys is privacy and confidentiality. It has been our experience that most employees have a low comfort level knowing that their responses to a survey are contained in their company&#8217;s computers. Despite a company&#8217;s best efforts to ensure that unauthorized access to the survey data is protected, the fact remains that it is company staff that are working with the data and conducting the analyses. Confidentiality has already been breached. Under these circumstances there are many opportunities for abuses.     
+
+Several years ago Entec was faced with a situation where the company president said that he was prepared to move forward with an employee survey but since he was paying for the survey he wanted the database as well as the survey report we were going to prepare. We had no choice but to walk away from this project. We could not provide unequivocal assurances to the employees that their privacy and confidentiality would be secure.          
+
+These concerns can be significantly minimized when employees are advised that a third party will run the complete survey process. For example, in the pre-survey communications, Entec advises employees that there is a firewall between the organization and Entec Corporation. No employee can access our computers. No employee or company official will see or have access to our database. Any special requests by senior managers or anyone else in the company to look at the data is flatly rejected. Incidentally, this has happened a couple times over the past nine years. Privacy and confidentiality are serious matters and they cannot be compromised. Employee surveys are a two edged sword. On the one hand employees welcome an opportunity to provide feedback. On the other hand they will not participate or they will not provide honest answers if they feel in the slightest that their privacy can be compromised.
+
+Response Rates
+A high response will raise the statistical validity of the results. A high response rate generates a large database. A large database can be used to prepare data cuts that drill deep into the organization providing meaningful results. A small database can only be used to prepare a superficial analysis that will not be able to point directly to specific improvements that need to take place. Therefore obtaining a high response rate is vitally important in any employee survey. For example, the Entec survey process has resulted in response rates between 82%-95%. This is well above average and it allows for detailed analysis. Data shows that company-run employee surveys typically garner a response rate of 30% or lower. 
+
+Survey Construct
+
+Developing the questions, the scoring algorithm and organizing the questions are all separate parts of creating an employee survey. At Entec we followed the principle that question organization drives the effectiveness of the analyses phase. Therefore if we wanted the analyses phase to lead clearly to recommendations for follow up implementation, the questions had to be organized in a way that reflects the outcome we were seeking. This thinking was responsible for the employee engagement modeling that Entec conducted as a first step in the survey design process. When the modeling was completed, the survey questions were placed inside the appropriate parts of the model. The section on Reliability and Validity below describes this process in more detail. The fact remains that there is a particular ordering to the questions. This ordering drives the analysis which in turn allows us to provide clear recommendations for follow up implementation.   
+
+Survey Analysis
+
+The nature of the survey analyses is just as important as the questions that are asked. The survey analysis is more than the provision of percentages. The analysis must provide an interpretation of the statistics. For example, how do the answers from one question or set of questions relate to the answers of another question or set of questions? Some questions are much more important than other questions as they relate to employee motivation and performance.  
+
+For example, in one company, the statement &#8220;There is little to no office politics and gossip&#8221; statistically linked with the following leadership statements: &#8220;Takes appropriate action with people who under perform&#8221;, &#8220;Resolves conflicts fairly and appropriately&#8221; and &#8220;Leads by example and action&#8221;.  This type of analysis identified other leadership behaviors that appeared over and over again as being behaviors that were important to the culture of this particular organization. The analysis led to identifying priority leadership behaviors that had the greatest impact on best practices. Therefore the HR department had a concise set of behaviors that needed to be coached on a priority basis. The survey report also provided an evaluation of how well all those in the company with supervisory responsibility rated against these behaviors. 
+
+These same statements do not necessarily link with the same behaviors in all organizations. They vary somewhat depending on the company&#8217;s culture. Considering the example of office politics, research has shown that a high level of office gossip is typically associated with a toxic workplace. In this example, this type of analysis gives the company the knowledge and comfort that they are pursuing the right actions to minimize gossip and therefore improve performance.
+
+Reliability and Validity
+
+Anyone can gather questions and create a survey. However this raises a question. How will you know that the questions are valid and reliable? In other words, if an organization creates its own survey, do they have the internal skills and are they prepared to conduct the necessary reliability and validity testing to ensure the survey will produce meaning results. 
+
+Nine years ago Entec Corporation spent one whole year developing a series of surveys. The process involved a number of steps. The first step was assembling an eclectic group of professionals comprising expertise in strategic management, organizational development, leadership, psychiatry and behavioural psychology. This group developed models and questions based on these models. These were tested with many focus groups in several business sectors and than pilot tested. Reliability analyses were conducted. Principle component analyses were conducted. The various surveys were pilot tested and analyzed again and the surveys amended. This iterative process continued and continues to this day in order to ensure the clients receive surveys that will produce the best possible results. 
+
+Conclusions
+
+If a person feels sick, are in pain and are running a fever they can do one of two things. They can either take their temperature or they can go to the doctor. If they take their temperature their intervention options for regaining good health are severely limited because they do not have enough information. If they go to the doctor and undergo a battery of tests they will receive valuable information and an intervention plan from their doctor. 
+
+Conducting an employee survey is the same. Organizations are complex human systems. Using an untested employee survey, untested survey process and simple analysis will produce results that are similar to taking the temperature. Taking the temperature severally limits your ability to identify specific actions for performance improvement. This in turn acts as a de-motivator. Employee expectations are raised by employee surveys. When the post-survey process fails to show any meaningful movement, employee cynicism sets in and productivity drops. 
+
+If you decide to conduct a survey run comprehensive diagnostic will render results that will point to meaningful follow up implementation. The organization will receive the information it needs to move forward and to achieve its objectives. The survey questions, the survey structure, the survey process, and the survey analyses and interpretation are key factors in generating meaningful results from an employee survey. The complex nature of employees&#8217; perceptions and expectations limit an organization&#8217;s ability to effectively apply all of the necessary steps they need to follow in order to conduct a successful employee survey
+
+

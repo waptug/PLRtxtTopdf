@@ -1,0 +1,24 @@
+Title: 
+How do I record and create MP3s from home?
+
+Word Count:
+540
+
+Summary:
+There used to be no substitution for a good recording job done in a professional recording studio. Now with the rising popularity of digital PC recording and the low cost of recording software, many people are re-thinking the idea of home recording.
+
+
+Keywords:
+downloadable music, mp3, free mp3 downloads, download free music, music lyrics, message boards, music mp3, internet radio, music videos
+
+
+Article Body:
+There used to be no substitution for a good recording job done in a professional recording studio. Now with the rising popularity of digital PC recording and the low cost of recording software, many people are re-thinking the idea of home recording. Plus with the ease of MP3 distribution, and the many sites that offer free web hosting and the ability to upload and download free music, the difficulty of promoting and distributing your band’s MP3s has been made very easy. The questions at hand are, what do I need to begin recording at home, how do I turn my recordings into MP3s, and what do I do with said MP3s after I am done creating them?
+
+Home recording on a PC requires just a couple of things; a computer, recording software (i.e. Pro Tools, Cakewalk, Cubase), and a digital soundcard. If you will be recording multiple tracks from multiple sources at the same time, you might want to invest in a mixer as well. (This is assuming that your sound card only has one audio input) This will allow you input more than one instrument/microphone to your computer at the same time. Install your recording software and sound card drivers. Plug your mixer into your sound card, plug your instruments into your mixer and you’re ready to begin recording. The recording process may be a little different depending on what software you are using, but most decent software comes with a good instruction manual which you can consult if you are having problems. After recording, you will want to mix all tracks down to a stereo audio .wav file.
+
+Now that we have our recording done and our .wav file in hand, we’ll want to convert it to an MP3 file. If you will be burning your tracks to CD, you won’t need to convert it to an MP3 file. But for distribution for music downloads on the web, the smallest, best quality, most universally accepted format will be an MP3 file. You can take your .wav file and export it as an MP3 through whatever audio recording program you use. Most recording software offers that option, but keep in mind that you might need to mess with the output settings to get the best quality MP3 out of your program. Another option is to use a stand-alone .wav to MP3 converter. If you go to download.com and search for “.wav to .mp3 converter”, you will be presented with a good list of programs that do just that. I have had good results using both methods, so it’s really up to you.
+
+Once you have your MP3 files, you can set-up your own website and offer free music downloads. Or you can go to one of the many sites that offer free web hosting for musicians, so that the musicians will have a place to offer downloadable music MP3s, music videos, and music lyrics. Sites like, <a href="http://www.dfjams.com">DiskFaktory Jams</a> and Section Z are both free and have other tools for musicians to access, like message board forums and internet radio stations. Once you have your recording done, the possibilities are endless!
+
+

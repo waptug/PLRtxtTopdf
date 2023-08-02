@@ -1,0 +1,43 @@
+Title: 
+Backup Tape Usage and Replacement Schedule
+
+Word Count:
+362
+
+Summary:
+During the tape backup process, the tape backup media is moved across read/write heads, alignment rollers and drive rollers. Each pass through the tape drive wears away a small amount of the oxide coating used to store the data. A worn tape may backup and verify without error only to fail when a file needs to be restored.
+
+
+Keywords:
+Backup Tape Usage, data storage, data managment, data protection, database storage
+
+
+Article Body:
+Backup Tape Usage and Replacement ScheduleDuring the tape backup process, the tape backup media is moved across read/write heads, alignment rollers and drive rollers.  Each pass through the tape drive wears away a small amount of the oxide coating used to store the data.  A worn tape may backup and verify without error only to fail when a file needs to be restored.    The trick is to maximize the use of the tape without allowing it to wear out. 
+
+
+Our recommended backup tape usage and replacement schedule is derived from input from hundreds of users, tape and drive manufacturers' recommended replacement schedules, and years and years of monitoring tape life and backup integrity.  
+
+In short..It works.
+
+The schedule includes, at any time, 12 tapes.  The tapes are labeled as follows:
+
+1) Monday                                 5) Friday 1                  9)  Quarter 1
+
+2) Tuesday                                 6) Friday 2                 10) Quarter 2
+
+3) Wednesday                             7) Friday 3                 11) Quarter 3
+
+4) Thursday                                8) Friday 4                 12) Quarter 4
+
+The Monday through Thursday tapes are used as expected.  On Fridays, one of 4 tapes is used.  The Friday 1,2,3 and 4 tapes are used consecutively so that you always have a backup more than 1 week old.  We have witnessed situations where a virus has infected a network, and corrupted files.  Only going back to a pre-infection backup allows rebuilding of such files, and it often takes a few days to detect or identify such infections.
+
+The quarter 1,2,3 and 4 tapes are used at the end of each of your fiscal quarters.  These tapes are usually tapes close to the end of their service life.  This will be the last use for this tape.
+
+This rotation schedule requires purchasing four new tapes each year.  At the time of purchase, the tapes are rotated into different roles.  Each Friday tape is set aside awaiting a quarterly backup role.  Monday to Thursday tapes are advanced to Friday 1, 2, 3, and 4 roles.  4 new tapes are introduced into the Monday - Thursday roles.
+
+This schedule involves using each tape 66 times.  We have found this to be a reasonable life expectancy for most backup tapes.  The schedule gives you several levels of protection should a loss or corruption occur.
+
+Keep in mind the tapes need to be kept warm and dry and at least the weekly and quarterly tapes off site.
+
+

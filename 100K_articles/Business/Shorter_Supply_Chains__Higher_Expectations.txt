@@ -1,0 +1,58 @@
+Title: 
+Shorter Supply Chains, Higher Expectations
+
+Word Count:
+1178
+
+Summary:
+The past few years have seen some dramatic changes in parcel shipping methods. Most of those changes have been driven by impatience, manifested in what the industry calls "the shortening of the supply chain." It is an interesting phrase, summing up a wide variety of customer attitudes and business strategies.
+
+
+Keywords:
+conveyor system, distribution planning, sortation conveyor, material handling equipment, supply chain
+
+
+Article Body:
+The past few years have seen some dramatic changes in parcel shipping methods. Most of those changes have been driven by impatience, manifested in what the industry calls "the shortening of the supply chain." It is an interesting phrase, summing up a wide variety of customer attitudes and business strategies.
+
+To the consumer, shortening the supply chain means an unwillingness to accept the term "out of stock" or delays in order processing, and a reluctance to endure lengthy delivery times.
+
+To the seller, who must somehow meet these higher customer expectations, a shorter supply chain means reducing inventory turns, "crossdocking" as much product as possible and having complete inventory on hand at all times. Since the inception of the "dot-com" era, merchants have promised 24-hour product delivery, in-stock inventories, and on-line order tracking. This level of service is not only the norm, it is now the minimum acceptable offering.
+
+Keeping both the consumer and the seller happy is the responsibility of the parcel shippers, who now must perform at unprecedented service levels and at constantly reduced costs. Luckily, distribution technology is not in place to support these lofty goals.
+
+Designing a parcel distribution center to satisfy current industry demands requires a thorough review of new processes and technologies. Fortunately, the goals, at least, are clear: to route product through the distribution center as rapidly as possible, with the greatest level of accuracy and at the lowest possible cost.
+
+Old methods and systems are simply not capable of handling the current myriad of products and order sizes in an efficient or cost-effective manner. The new generation of efficient distribution centers, on the other hand, handle more product faster and cheaper than ever before, with greater levels of accountability and increased order visibility to the client. Of course, you can't just throw out all the old systems and purchase some "everything for everybody" off-the-shelf system to solve all your problems. It would be nice if it was that easy, but it's not.
+
+<b>Available New Technologies</b>
+
+Most truly efficient distribution centers are designed from the bottom up. A clean slate is the best starting point, but if you are not this fortunate and must adapt a dated operation to current standards, a modular implementation of current technologies and practices will work almost as well.
+
+One important caution must be voiced: current software systems rely on technologically advanced material handling equipment and sophisticated hardware to reach industry standard performance levels, and all of the components truly go "hand in hand." In other words, you can't just plug new software into an outdated system. Transforming a basic manual operation into a highly automated and extremely productive automated operation may require multiple systems upgrades at the same time.
+
+<b>Software.</b> Current WMS (Warehouse Management) systems are more comprehensive than ever, supporting a myriad of automated processes with "best practice" methodology. A host of "second tier" WMS suppliers such as Radio Beacon and Softeon have developed extremely cost effective solutions that are technologically advanced, offer modular implementation based on client needs, and support the most complex distribution scenarios. Choosing the correct software systems provider is a critical-path decision when enabling current distribution processes.
+
+Inside the Distribution Center, systems technology manages material movement through the facility. One recent example is Voice Recognition transaction software. The May Company, A major retailer in the United States, began incorporation of this technology in their distribution centers in the 1990's. At the time, this was cutting edge and truly experimental. Now, Voice Recognition systems regularly manage processes such as receiving, putaway and picking with tremendous improvements in accuracy and efficiency.
+
+<b>Product Identification.</b> The latest production identification technology, RF ID, lets users program a chip the size of a pencil tip or smaller with data capability that surpasses barcode scanning for receiving, inventory management and shipping carton identification, and will be a WAL-MART requisite by 2005 for major vendors. The Massachusetts Institute of Technology had developed a test lab specifically for the application of RF ID technology in commerce.
+
+<b>Unit Sortation.</b> For those operations that perform true "fulfillment" (fulfilling orders through the picking of individual units) the material handling world had now engineered systems for all demand levels. "Pick to light" and "Put to light" systems are the software driven equivalents of manual picking, and systems are commonly available. Better yet, low cost and moderate rate unit sortation systems exist from numerous suppliers. Unit sortation is now cost justifiable even by the most aggressive corporate ROI formulas.
+
+<b>Order/Carton size.</b> The elevation in customer service levels has created a trend toward more frequent, but smaller orders. This phenomenon has generated a larger quantity of small, lightweight cartons which must be handled somehow. The conveyable minimum size and weight of cartons had changed, and equipment suppliers have responded to meet the demand.
+
+Older mechanical conveying systems had minimum carton weight parameters which are now unrealistic. A handful of suppliers have developed electronically controlled accumulation conveyors which essentially have no minimum weight requirement. The most sophisticated conveyors of this type feature low voltage, independently powered rollers for ease of maintenance and low cost operation. This technology was pioneered by the Versa conveyor company for the USPS over a decade ago, and remains the standard for carton handling.
+
+
+<b>Carton Sortation.</b> Increased facility throughout has affected outbound carton sortation technology as well. Most system designers realize that the ability to sort cartons at high rates begins with the ability to merge product rapidly and feed the sorter at high rates. Systems suppliers such as Intelligrated have developed ultra high rate product handling solutions utilizing high-speed carton sortation systems that operate in synergy with extremely efficient merge technology. The result is a "plug and play" back end distribution system that will deliver high rates with anticipated product handling accuracies.
+
+
+<b>Pre-owned equipment opportunities.</b> In this time of reduced corporate capital expenditures, there is one encouraging piece of news. There are places where a bargain can be found, where relatively new technology can be purchased for less than you might think.
+
+Near the beginning of this article, I mentioned the pressures on sellers and distribution centers alike to meet escalating customer expectations. Well, not everyone was careful about the promises they made, or successful in meeting those expectations. The result is that there are a number of defunct dot-com enterprises that have abandoned millions of dollars in distribution systems, and their losses may be your gains. Find the right partner for this second-market mechanization and you could save hundreds of thousands (even millions) of dollars. It is a "right time, right place" opportunity.
+
+<b>Conclusion</b>
+
+In conclusion, accommodating a shortened supply chain requires engineering a comprehensive and cost effective distribution strategy, including the adoption of moderately complex information systems and relatively sophisticated material handling technologies. This is a market requirement. You have no real choice if you expect to remain competitive. The good news is that there is little real risk, since the process involves proven technology with compelling and guaranteed returns.
+
+

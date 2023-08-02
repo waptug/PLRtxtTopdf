@@ -1,0 +1,42 @@
+Title: 
+Software Review: Products For Creating Better Excel Workbooks
+
+Word Count:
+531
+
+Summary:
+Data Presentation Products offers a suite of solutions for generating Excel workbooks in a fraction of the time it usually takes while creating Excel workbooks that are better suited to viewing, printing, and analysis.
+
+
+Keywords:
+Excel, Chart, PivotTable, PivotChart, Statistics, spreadsheet, EZ-Format, Xcelerator, EZ-Chart, EZ-Stat, Excel workbooks
+
+
+Article Body:
+Microsoft Excel offers a variety of features and tools to create spreadsheets and workbooks, but like most software, it has limitations. That's why Excel users look to other developers to come up with innovative solutions that make creating and manipulating Excel workbooks less time-consuming and more efficient.
+
+Data Presentation Products offers a suite of solutions for generating Excel workbooks in a fraction of the time it usually takes while creating Excel workbooks that are better suited to viewing, printing, and analysis. The five tools are called EZ-Format, EZ-Chart, EZ-Pivot, EZ-Calc, and EZ-Stat; together, they are offered in a product called Xcelerator. In essence, these products free users from the time-consuming aspects of implementing Excel's features, thereby allowing them to utilize more of Excel's powerful features in significantly less time. 
+
+EZ-Format
+
+EZ-Format has a wide variety of features. For example, it subtotals and totals Excel lists containing no totals, column totals, or subtotals, all without every modifying the original Excel list. Similarly, the software also formats manually created Excel subtotals or replaces them subtotals created with EZ-Format. This is an incredible timesaver, as evidenced by the fact that manually-created subtotals necessitate 79 mouse clicks, while EZ-Format only requires seven mouse clicks. 
+
+EZ-Chart
+
+Like EZ-Format, EZ-Chart has numerous timesaving features. It can, for example, create reusable EZ-Chart formats from any user-customized Excel chart. It only takes four clicks to create identical Excel charts from any data containing the EZ-Chart formats preset fields. And, except for hiding and revealing rows of data, there are no modifications to the Excel data being charted. An added bonus is that chart data and embedded charts are horizontally centered for printing. 
+
+EZ-Pivot
+
+EZ-Pivot allows you to create PivotTables, PivotCharts, and Drills in literally seconds. Unlike Excel, you can create PivotTables from subtotaled and filtered data. Likewise, you can format PivotTables and PivotCharts, as well as customize Drill worksheets - actions you can't perform with Excel. Plus, you can convert Excel-created PivotTables to EZ-Pivot formatted PivotTables in only two mouse clicks. 
+
+EZ-Calc
+
+EZ-Calc is the perfect solution for creating eight types of calculated fields: aging periods; reformatted dates; Excel formulas; running totals; percentages; extracted text; conditional negatives; and calendar dates to fiscal information. You can create "Current through 90+" agings in as few as three mouse clicks, and can age as of today or as of a specific date. And, because they categorize data and reduce the number of data points, aging period fields are perfect for the X-axis in PivotCharts and the column field in PivotTables. 
+
+EZ-Stat
+
+EZ-Stat is most likely the fastest way to calculate statistics for Excel data. With only two clicks, you can create "Quick Stats" for any single data value or for all data values that include count, sum, average, minimum, maximum, standard deviation, and median. Best of all, exported Quick Stats are formatted and printer-ready. EZ-Stat also allows you to create "Full Stats" for combinations of up to for fields, say, for each unique occurrence of state, region, product line, and date. Like the other products, EZ-Stat never modifies the original Excel list data. 
+
+Data Presentation Products' suite of software takes the pain out of creating Excel workbooks - and does a better job in the process!
+
+

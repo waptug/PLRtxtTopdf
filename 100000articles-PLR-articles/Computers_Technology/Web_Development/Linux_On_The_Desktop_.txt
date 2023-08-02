@@ -1,0 +1,30 @@
+Title: 
+Linux On The Desktop?
+
+Word Count:
+579
+
+Summary:
+Linux is an "open source" operating system originally developed by a engineer from Finland named Linus Torvalds.  Linux was released under an early version of the GNU "General Public License", or GPL, by which any user that wanted to work with Linux was free to do so.  Though it has evolved considerably over the years, it has yet to eclipse the popularity of Microsoft's Windows operating system at the consumer and small business level- which is dominated by "desktop" computer...
+
+
+Keywords:
+website hosting, linux, desktop, operating system, business, market
+
+
+Article Body:
+Linux is an "open source" operating system originally developed by a engineer from Finland named Linus Torvalds.  Linux was released under an early version of the GNU "General Public License", or GPL, by which any user that wanted to work with Linux was free to do so.  Though it has evolved considerably over the years, it has yet to eclipse the popularity of Microsoft's Windows operating system at the consumer and small business level- which is dominated by "desktop" computer sales.
+
+Sun, IBM and HP all have produced servers that utilize Linux - and it is in the server - database environment that Linux has thrived since its inception. The two major software companies that have produced successive versions of Linux software are Novell and Red Hat, both of which have taken an open source (free) operating system and equipped it with a variety of software packages tailored to various requirements, in order to create proprietary products.
+
+While Linux based systems drive some cell phones and can be found in ordinary PCs, the primary competition between Red Hat and Novell has been in the "enterprise space," that segment of the software universe which focuses on linking business users to databases. Now, Red Hat has announced its intention to move into the "business desktop" market with a new series of adaptations.  According to Red Hat, "This will be a more comprehensive offering that will target markets like the small and medium-sized business [SMB] sector and emerging markets. Part of this strategy is to get the desktop more to the masses than our existing client is getting today."
+
+In the war of press releases, Novell claims to have made these strides already, and that what Red Hat is defining as desktop functionality is really an expansion of business functions - which Novell claims to have achieved already. And indeed, a spokesman for Red Hat notes that the company has "no plans to go and sell this offering at Best Buy... [for]...the mass consumer market. Customers will be able to download it and get a Red Hat Network subscription on the Web for it, which is what we feel is the distribution wave of the future anyway..."
+
+So how do home users that venture into the Linux world feel about it? Many of them who have blogged about it feel that it's the greatest operating system out there but it is not ready for mass consumption simply because too many ancillary software elements and computer appendages aren't adapted for it. One self described "geek" who uses Linux, Windows Vista AND XP finds Linux to be a great operating system for browser use, but a simple task like hooking up a printer to a Linux driven PC can be a real challenge. 
+
+He adds, "If you're accustomed to watching DVDs, Windows Media or QuickTime files on your computer, then you're in for a challenge. Most Linux distributions (at least the major ones anyway) don't include this functionality by default because the codecs (software that displays the various encoded video file formats like Windows Media) aren't free. In many cases they're downright illegal. The same situation exists with MP3, arguably the most popular format for audio (notably audio you rip from your CD collection)."
+
+It's a great operating system, but plug-and-play functionality for home computers isn't there yet. And neither Red Hat nor Novell have any intention of invading the home consumer "space." For now, they're content to battle it out by expanding their business-based products.
+
+

@@ -1,0 +1,32 @@
+Title: 
+Using Fiber Patch Cables
+
+Word Count:
+432
+
+Summary:
+Fiber patch cables are the backbone of the fiber optics industry. These fiber patch cables are strands of optically pure glass as thin as human hair. These cables carry information via mode of transmission of light. Short patch leads usually made with stranded wire are flexible patch cables. The fiber patch cables are used to plug one piece of equipment into another.
+
+They have various uses in all kinds of industries. Fiber patch cables are used in medical imaging, mechanic...
+
+
+Keywords:
+fiber cables,fiber optic tester,fiber optic light source,fiber cable,lc fiber,fiber patch cables
+
+
+Article Body:
+Fiber patch cables are the backbone of the fiber optics industry. These fiber patch cables are strands of optically pure glass as thin as human hair. These cables carry information via mode of transmission of light. Short patch leads usually made with stranded wire are flexible patch cables. The fiber patch cables are used to plug one piece of equipment into another.
+
+They have various uses in all kinds of industries. Fiber patch cables are used in medical imaging, mechanical engineering, LAN applications, cable TV networks, telephone lines, etc. Fiber patch cables have revolutionized the total network industry of telephones, cable, internet, audio applications, etc. The fiber patch cables offer accurate signal transfer which is totally distortion free. Thus due to these cables the audio or video transmission is completely distortion free and crystal clear. Since these fiber patch cables use light as a mode of transmission there is no hazard of electric interferences or any tampering.
+
+Fiber patch cables are used to two nearby components with fiber connectors. Fiber patch cables come with their respective connectors. They can be an ideal and easy replacement of copper cables because they use the same RJ45 connector as copper patch cables. 
+
+Fiber patch cables are available in simplex, duplex, multimode, single mode with STST, STSC, SCSC connectors. Fiber patch cables are of two prominent types – single mode and multimode. Single mode fiber patch cables are used in long-distance high capacity voice applications like telephone transmission or long distance gigabit networking. These fiber patch cables can use 9/125 micron bulk fiber cables and connectors at both ends. 
+
+Multimode fiber patch cables are used in computer industry which is standard for data applications like local area network, wide area network, etc. Fiber patch cables in multimode are available in 50µm and 62.5µm. SC, ST, LC, FC, MT-RJ, E2000 and MU connectors have polished ceramic ferrules for precision and durability. The SC and LC duplex fiber patch cables come equipped with a clip to maintain polarity.
+
+ST to ST fiber patch cable gives unlimited bandwidth at high speeds over long distances. These fiber patch cables are ideal for connections between fiber patch panels, hubs, switches, media converters and routers, etc. Fiber patch cables provide higher speeds and increased bandwidth, compared to conventional twisted-pair copper cable. These fiber patch cables are compatible with all standard fiber optic equipment and connectors. Ceramic connectors of these fiber patch cables ensure low signal loss and high reliability along with total immunity to electrical and electromagnetic interference.
+
+Fiber patch cables are the most opted solution these days for the networking and broadcasting industry.
+
+

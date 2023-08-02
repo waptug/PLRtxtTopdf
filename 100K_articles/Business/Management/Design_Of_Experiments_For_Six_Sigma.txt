@@ -1,0 +1,32 @@
+Title: 
+Design Of Experiments For Six Sigma
+
+Word Count:
+616
+
+Summary:
+One of the valuable tools in the Six Sigma toolbox is Design of Experiments. Design of Experiment (DOE) is a structured technique that helps to uncover relationships often hidden inside mountains of data. Within the structure of a Six Sigma project, Design of Experiments is a structured approach to identifying the factors within a process that contribute to particular effects, then creating meaningful tests that verify possible improvement ideas or theories.
+
+Most of us are...
+
+
+Keywords:
+Design,Experiments,Six,Sigma,identifying,statistical,testing,methodology,variation,quality,process,
+
+
+Article Body:
+One of the valuable tools in the Six Sigma toolbox is Design of Experiments. Design of Experiment (DOE) is a structured technique that helps to uncover relationships often hidden inside mountains of data. Within the structure of a Six Sigma project, Design of Experiments is a structured approach to identifying the factors within a process that contribute to particular effects, then creating meaningful tests that verify possible improvement ideas or theories.
+
+Most of us are familiar with the concept of experimentation within the fields of science and medicine. Experiments can be designed and conducted for any process in any field not just testing physics equations or new drugs or medical procedures. Design of Experiments is a formal statistical methods required to ensure that the testing or piloting of any new improvement ideas maximize the informational potential of the trial and ultimately the return to the business. The basic principles of cause and effect and interaction of factors operate everywhere, including manufacturing and service organizations. Design of Experiments is an organized method for determining the relationships between factors that affect a process and the variable outputs of that process. It also serves to verify if a cause and effect relationship really does exist and to identify the vital few causes of variation.
+
+In short, Design of Experiments within Six Sigma is a performance improvement methodology that uses sophisticated statistical techniques to understand and control variation, thus improving predictability of business processes. Experimental methods are used to quantify previously undefined factors and interactions between factors. This is accomplished through crafting planned experiments where controlled changes of factors will determine which factors have the largest impact on quality characteristics. Though the systematic observance of the experiments and statistical measurements of the results, useful data can be assembled and analyzed to understand the relative importance of different factors to overall process variability.
+
+The basic concepts of Design of Experiments are factors, levels, and responses. A factor is an independent variable. In a planned experiment, the factors are deliberately varied in a predetermined manner. A level is a state of the factor that is deliberately varied. Levels can be discrete (present/absent) or numeric. Experimentation is typically done at two, or occasionally three levels for every factor; each separate level constituting an experimental run. The responses, literally the results of the experimental runs, are measured at each run of each factor-level combination. The response can also be discrete or numerical values. 
+
+An efficient experimental design varies the multiple factors in an intelligent and controlled sequence. Response data can then be collected in an intelligible way.
+
+Combining all factors and their levels can become too large and expensive of a task, so informed deductions must be made as to which factors will generate the most pertinent data that will provide enough information for confident results. The sequence of runs in the experiment must be randomized. Randomization is crucial to give all external factors an equal chance to affect every run of the experiment. A non-randomized experiment stands a great risk of external factors acting in a systematic manner, adding noise to the response. Multiple sets of experimental runs, called replication, will provide more data and greater confidence in evaluating the results. If the budget allows, conducting more replications is desirable.
+
+Successfully designed experiments will show the relationship between the change in level of each of the factors and the change in response. Once these relationships are understood, they can be used to find "what's best" solutions to process improvement and variation reduction. Design of Experiments is a crucial part of the Six Sigma methodology. It will allow you to see into the heart of the process and what really drives it.
+
+

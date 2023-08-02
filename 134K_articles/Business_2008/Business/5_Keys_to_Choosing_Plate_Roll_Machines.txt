@@ -1,0 +1,72 @@
+Title: 
+5 Keys to Choosing Plate Roll Machines
+
+Word Count:
+1109
+
+Summary:
+Between diminishing factory orders and increasing labor and energy costs, companies that use plate metal in their fabricating processes are finding their profit margins increasingly pinched.
+
+Yet, manufacturers must still invest in new production equipment -- whether to replace obsolete equipment or to take advantage of new business opportunities -- in order to remain competitive.
+
+
+Keywords:
+industrial, metalworking, plate rolls
+
+
+Article Body:
+Between diminishing factory orders and increasing labor and energy costs, companies that use plate metal in their fabricating processes are finding their profit margins increasingly pinched.
+
+Yet, manufacturers must still invest in new production equipment -- whether to replace obsolete equipment or to take advantage of new business opportunities -- in order to remain competitive.
+
+Manufacturers must make careful assessments when evaluating the addition of new plate-rolling equipment. Debt capital is still available to purchase new machinery, but paying back the loan will not yield a satisfactory return on investment unless the equipment adds value to the production. Unfortunately, many buyers end up purchasing equipment that lacks the capability and flexibility to meet production volumes and tolerances, simply because they don't understand all available options and considerations.
+
+In an effort to help manufacturers optimize plate rolling operations, 5 key considerations are offered in order to choose a proper plate bending machine. 
+
+1. Factor in the properties of the material to be rolled
+
+Even though drawings call for a plate to be rolled down to the same dimensions, a tougher material will require a much higher-rated rolling machine. In absence of such considerations, defects will result and the manufacturer will end up with excessive scrap.
+
+Today's steel is much stronger and requires more strength to bend. Thanks to detailed classifications by the American Society of Mechanical Engineers, countless varieties of steel abound: A36, A516 grade 70, Hardox 400/500 series and AR 200/300 series, for example. And these different steels require varying pressures to roll. 
+
+A metal's temper and yield strength must be matched with the customer's application to correctly determine the specifications of the plate roller. This is especially important since steel characteristics have changed drastically over the past couple of decades. What was once known as mild steel no longer exists.
+
+2. Work with an equipment dealer that is willing to discuss your specific plate-rolling needs
+
+Customers must know the correct questions to ask, in order to get the correct answers. Each manufacturer faces unique challenges, and through systematic querying an astute sales representative can determine exactly what equipment will work best for their process.
+
+Manufacturers must also carefully consider whether they wish to roll conical or parabolic shapes to take advantage of a broader market. Hydraulically operated four-roll machines are ideal for this type of work by eliminating surface scarring, thereby decreasing the need for grinding the lamination (bullnosing) on the minor diameter edge of a cone.
+
+Accurate conical rolling is further achieved through features such as torsion bar parallelism, as opposed to electronic systems or proportional value systems that merely maintain a theoretical balance. Finite parallelism allows the machine to be adjusted to its full conical tilt and back to parallel in only five seconds.
+
+Customers need to discuss issues such as inside diameters, material type, tolerances and the desired shape of the finished product. As an example, some products, such as those found in the pressure vessel industry, demand a maximum of 1 percent out-of-round on their diameters or they are considered defective. By using an underpowered plate roller, too much of a barrel effect can render such a product useless and quickly erase any potential profit margin.
+
+Matching plate-rolling equipment to the specific needs of a manufacturer requires attention to detail. It is imperative that the dealer you work with is willing to sit down with you and discuss the specific needs of your business. There are many issues that need to be addressed, many of which a purchasing manager may not initially foresee.
+
+3. Stay within ideal operating parameters of the machine
+
+It is recommended that manufactures identify what material and what thickness represent their highest volume of work. Then (a company) can deliver a machine that will camber to that specification, thus conserving valuable production hours and eliminating large amounts of scrap.
+
+Quality rolling machines are usually cambered at 50 percent of the full-rated value of the machine. Hence, a 1-inch machine is cambered to roll 1/2-inch plate at a nearly perfect edge.
+ 
+Disregarding this important fact can result in out-of-spec product that the customer will not accept. Problems most commonly arise when rollers attempt to push the upper limits of their plate roll. If 5/8-inch plate is rolled through a 1-inch-rated machine, a small degree of barrel effect will likely occur. This may or may not be an acceptable margin for error.
+ 
+However, when plate thickness approaches the upper end of a machine's rating, then severe defects can occur. Unless corrected with a shim, it will not be sellable. Conversely, when very thin material is rolled through a machine rated for very thick plate, the finished product may come out tighter in the center than at the ends. Again, time consuming shimming is necessitated to correct for this "hourglass" effect.
+
+4. Carefully consider bending diameters
+
+The tighter the diameter, the more bend pressure required. For instances where thick material must be rolled into tight inside diameters (ID), the diameter of the top roll and the layout of the machine can make the difference between a product whose cylindrical edges meet and one that won't close.
+
+As a rule of thumb, most machines can roll plate at 1 1/2 times the upper roll diameter. Hence, given a 10-inch-diameter top roll, inside diameters as tight as 15 inches can be obtained. However, new machines that incorporate planetary guides are able to keep approximately 50 percent more area of the plate under bend-pressure during the rolling operation, thereby achieving ratios of 1.1 times the upper roll diameter. This creates a 30 percent advantage on tight diameters. 
+
+All machines achieve precise measurements at 50 percent of the full-rated value. Therefore, given a 1.1 roll geometry, a 3/8-inch machine with a 10-inch top roller can consistently roll 3/16-inch plate to 11-inch ID without any barrel defect.
+
+5. Incorporate both side and vertical supports to prevent unwanted bends
+
+Adequate support requires both side and vertical roller-supports, as designed by the manufacturer of the plate-rolling machine. Once employed, plate rolling becomes a one-man job instead of two. This frees up valuable manpower that can be re-routed to other jobs.
+
+When rolling a cylinder, once the inside diameter is more than 200 times greater than the thickness of the material, the weight of the material becomes sufficient to bend the cylinder as it exits the top roll and gets further away from the machine. Without proper support, unwanted radii result.
+ 
+Purchasing a machine with both side and vertical roller supports easily solves this problem.Some manufacturers attempt to skimp on this ancillary equipment by resorting to "makeshift" support such as a forklift or overhead crane. However, this shortcut ties up the use of equipment that can best be utilized elsewhere. Because it cannot adequately support the material, unforeseen bends can still appear.
+
+

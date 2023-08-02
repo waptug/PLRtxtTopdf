@@ -1,0 +1,24 @@
+Title: 
+Define Radius Server
+
+Word Count:
+364
+
+Summary:
+Radius, Remote Authentication Dial In User Service is a networking concept which is used to provide access to users to services which require logging in, generally with a username and password. This protocol uses servers to store information in the form of a list of user names or passwords. So, when a user wants to log onto for example, the internet, he enters his user name and password and submits them. The data is sent to the RADIUS server and checked against a list of existing users and their respective passwords. If the username and password entered by the user matches the one on the list, then the user is granted access to the internet.
+
+
+Keywords:
+Radius, Server
+
+
+Article Body:
+Radius, Remote Authentication Dial In User Service is a networking concept which is used to provide access to users to services which require logging in, generally with a username and password. This protocol uses servers to store information in the form of a list of user names or passwords. So, when a user wants to log onto for example, the internet, he enters his user name and password and submits them. The data is sent to the RADIUS server and checked against a list of existing users and their respective passwords. If the username and password entered by the user matches the one on the list, then the user is granted access to the internet. 
+ 
+This protocol is widely used by Internet Service Providers (ISPs) as well as large companies, corporations, educational institutions and other organizations to regulate and manage access to the internet as well as to internal networks. Normally these authentications protocol is carried out by devices like the modem, Digital Subscriber Lines (DSLs) automatically. 
+ 
+The most important functions of the RADIUS server can be summarized as AAA or Authentication, Authorization and Accounting. The first two 'A's refer to allowing a user access to a network. If we look in detail at our previous example, we will come to know that a RADIUS server may return any one of three responses to the login request – "Nay" which means that access to the user is denied under all circumstances, "Challenge" which means that the user is asked for additional information before access is granted, and "Yea" which grants to the user, access to the network.
+ 
+Accounting refers to the billing function carried out by RADIUS. It refers to the situations in which the users' time or activities are monitored and logged. This is especially useful for those who run on postpaid internet which is calculated either by Data Transfer or by time. The RADIUS server receives a command to start billing when the user logs on and later to stop billing, when the users logs off. RADIUS servers nowadays, can also access databases stored remotely to check details. Communication between the user and the server is nowadays done through highly encrypted, reliable channels.
+
+

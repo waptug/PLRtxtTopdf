@@ -1,0 +1,50 @@
+Title: 
+Understanding Cell Phone Frequency Bands
+
+Word Count:
+564
+
+Summary:
+Perhaps you’re a businessman who needs to stay in touch with you’re clients even if you’re traveling from one side of the world to another or maybe you’re just someone who wants to be updated of all the news and hips around. So, you’re looking for a perfect phone that suite your needs, are you not? But what type of frequency band will you consider?
+
+In the US, GSM services use two frequency bands while there are also two different frequency bands that were used by them else...
+
+
+Keywords:
+cell phone, technology, satellite, mobile phone, gps, business
+
+
+Article Body:
+Perhaps you’re a businessman who needs to stay in touch with you’re clients even if you’re traveling from one side of the world to another or maybe you’re just someone who wants to be updated of all the news and hips around. So, you’re looking for a perfect phone that suite your needs, are you not? But what type of frequency band will you consider?
+
+In the US, GSM services use two frequency bands while there are also two different frequency bands that were used by them elsewhere in the world. Considering this dilemma, some of the notable mobile phone manufacturers like Nokia, Siemens, Ericsson and Motorola developed a phone that can work on all four frequency bands commonly called as quad-band phones.
+
+So what about this frequency band? Let us try to understand more about it.
+
+Cellular phones use radio waves to transmit conversations. These radio waves can be at different frequencies. Consider this interesting record of different frequencies used by different types of radio services.
+
+GSM cell phones use frequencies within four different frequency bands.
+
+•850 MHz  (824.2 - 848.8 MHz Tx; 869.2 - 893.8 MHz Rx)
+
+•900 MHz  (880-2 - 914.8 MHz Tx; 925.2 - 959.8 MHz Rx)
+
+•1800 MHz (1710.2 - 1784.8 MHz Tx; 1805.2 - 1879.8 MHz Rx)
+
+•1900 MHz (1850.2 - 1909.8 MHz Tx; 1930.2 - 1989.8 MHz Rx)
+
+Although 850 and 900, 1800 and 1900 are seemingly close figures, a phone that works in one frequency band unfortunately can not work in the frequency band next to it unless added as a specific extra frequency band. To contrast, when you have your FM radio tuned to a radio station at 98.1 MHz, you can obviously never hear what is happening on another radio station at 98.3 MHz unless you retune your radio. You got it? This is actually how the phone frequency band works.
+
+Formerly, the US only used 1900 MHz for its GSM cell phone service. But in the passing years, there has been a growing amount of GSM service on the 850 MHz band simply because this type of service is usually been used in rural areas, since it has better range than the 1900 MHz band. However, it was also been used in city areas especially when the cell phone company has spare frequencies unused in the 850 MHz band and no remaining frequencies to use in the 1900 MHz band.
+
+On the other hand, when the US started to use GSM, a few other countries with very close links to the US chose to copy the US and use the same frequencies that US used. In fact, almost without exception, all international countries that use the non-US international frequency bands have 900 MHz service.
+
+So which frequencies are needed when traveling internationally?
+
+If you intend to use your phone only internationally, you need to decide if you'll be using the phone in countries that use the international frequencies or in countries that use the US frequencies, or in both. Nevertheless, in all common bands, 900 MHz was used internationally and the 1800 MHz will only give expanded coverage in countries that also have 900 MHz.
+
+However, if you intend to use your phone only in the US, you just need to get a dual band phone that has both 850 MHz and 1900 MHz. A single band phone with only 1900 MHz will give almost as good coverage anyway.
+
+Summing up, if you intend to use your phone in both the US and internationally the best solution is to get a quad-band phone that will work on four bands which is the 850/900/1800/1900 MHz bands.
+
+

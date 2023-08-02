@@ -1,0 +1,60 @@
+Title: 
+How to Run a Successful Conference Call
+
+Word Count:
+1194
+
+Summary:
+These days with more and more of us working from home, working on the road, and generally dealing with multiple suppliers, contractors and business partners in locations all over the world, the conference call is supplanting the face-to-face meeting. Here are some tips on getting the most out of your conference call...
+
+
+Keywords:
+conference calls meetings business agenda notes effective
+
+
+Article Body:
+<p style="text-indent:20pt;">These days with more and more of us working from home, working on the road, and generally dealing with multiple suppliers, contractors and business partners in locations all over the world, the conference call is supplanting the face-to-face meeting. Here are some tips on getting the most out of your conference call...</p>
+
+<strong>Tip One: Send Out an Agenda</strong>
+
+The key to an effective meeting is an agenda - this applies to any kind of meeting, not just a conference call. With a conference call, always make sure you have the instructions on how to access the conference call at the top of the agenda, preferably in a box or with some other text decoration to make it stand out.
+
+Another option is to send a meeting request from within your calendar application, whether it be Microsoft Outlook or Apple's iCal, or some other scheduling tool. The meeting request is sent as a specially formatted email, so you can add attachments just like with a regular email. Attach the agenda, and repeat the instructions on how to connect to the conference call in the body of the email.
+
+Most conference service providers require participants to dial a special number (which may be different depending on where the user is, or it may be a national number), then enter a conference "room" number, followed by a security code or PIN. Make sure all the necessary details are included on the agenda and the meeting request.
+
+If the conference call is a regular status update, ensure you also send out the meeting notes from the previous call, since the first item on the agenda should be chasing people up for the actions they've agreed to be responsible for.
+
+<strong>Tip Two: Take Care of Housekeeping</strong>
+
+At the beginning of the call, call off the roll and ensure everyone is on the call. Introduce any newcomers to the rest of the group and invite them to spend a couple of minutes describing themselves and their role on the call. If anyone is missing from the participants list, immediately call them (preferably on their mobile) to get them onto the call as soon as possible. If they can't get on the call within a couple of minutes, proceed without them. Nothing detracts from a good conference call more than making everyone wait at the beginning.
+
+Next, ensure everyone has a copy of the agenda, and that they can all hear one another OK. If you are not going to be the one taking notes, make sure everyone is clear who is. This serves two benefits: firstly, the person taking notes is going to be careful and accountable, and secondly, a single set of meeting notes will be distributed after the call. If this is not made clear, you may end up with several versions, which is both redundant and confusing.
+
+Finally, lay out the rules for interaction on the call. Because it's audio-only, the usual cues we use to indicate that we wish to take a turn at speaking are not present. Therefore it's worth stating at the outset what the rules will be. These can be as simple as "Please make a note of any questions and we'll deal with them in turn after each agenda point", or as sophisticated as listing the order of speaking of the participants, and asking each participant only to speak at their particular time. This last is called "round table" conferencing, and is particularly effective once people are used to it. It has the dual effect of keeping all participants engaged, and speeding up the time it takes to get through each point.
+
+Clearly it's unrealistic to expect people to stick to the interaction rules for the duration of the call, but laying them out at the outset will help ensure things run quickly and smoothly.
+
+<strong>Tip Three: Turn Off Speakerphone</strong>
+
+Unless you have a majority of participants all in one room together, you should turn off speakerphone. Speakerphone and conference calls are a bad combination, unless you have a high-quality dedicated speakerphone. In order to prevent <a href="http://en.wikipedia.org/wiki/Audio_feedback" title="Audio Feedback at Wikipedia">audio feedback</a>, speakerphones automatically mute the speaker when a sufficiently loud sound is heard at the microphone. Unfortunately, few speakerphones do this particularly well, and often the speaker will mute because of its own output feeding back into the microphone. This means annoying dropouts and missed words and sentences. 
+
+Because it's a conference call, often these dropouts can go on for some minutes before someone has the opportunity to pipe up with "We missed all that!" Needless to say, having to constantly repeat yourself can be very time consuming and irritating for all the non-speakerphone participants.
+
+Even if you're in the same room as someone else, it can sometimes be an improvement to use two handsets rather than use speakerphone.
+
+<strong>Tip Four: Send Out Meeting Notes</strong>
+
+You should ensure everyone on the conference call gets a copy of the meeting notes no later than the following morning, while the call is still fresh in everyone's minds. 
+
+There are many helpful guides on the web for effective note-taking, but in essence:
+<ul><li>Don't try to write down absolutely everything; just the items where an action needs to be taken</li><li>Keep track of who has agreed to be responsible for each action</li><li>Keep track of the deadlines for each action item</li><li>Don't forget to note the time and date of the meeting and who was present</li></ul>
+If the conference call is a regular status update, ensure you note in the meeting notes the time and date of the next meeting. If possible, deadlines for action items should correspond to the dates of status meetings so that the notes can be quickly scanned (or even sorted) for items that need to be chased up in a given meeting.
+
+<strong>Tip Five: Keep it Brief</strong>
+
+Studies have shown that people start to suffer a number of unpleasant side-effects after holding a telephone receiver to their ear for longer than about an hour. In any event, forty minutes is about the limit of most people's concentration span.
+
+If you find the call is starting to drag on beyond an hour, it's a good idea to wrap things up and continue either later that day, or preferably the following day. If you find this is a regular occurrence, it may be an indicator that you need to revisit the agenda, or possibly split the group up into separate, more focussed groups. A particular time-waster is having engineers and businesspeople on the same conference call. A better way to handle this is to have three shorter meetings - one with just the engineers, one with the businesspeople, and one with single representatives from each group to present the results and take any feedback to the next department meeting. With practice, you can keep the length of each meeting down to around twenty minutes.
+
+

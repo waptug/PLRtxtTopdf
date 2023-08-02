@@ -1,0 +1,48 @@
+Title: 
+Combining Subscribe Button With A Help Button
+
+Word Count:
+1038
+
+Summary:
+Most sites, especially blogs have feeds associated with them, but Internet users do not know what a feed is or how to use it. You’ve probably seen the little orange button with white writing (XML,RSS, Feeds, Syndicate This Site) on a web page or blog post. If you are a non-techie, you must have wondered what this little button is for. To ensure that Internet users know what a feed is, Dave Winer, RSS creator, advocates the use of one simple and universal button Subscribe, whi...
+
+
+Keywords:
+internet, online marketing, online business
+
+
+Article Body:
+Most sites, especially blogs have feeds associated with them, but Internet users do not know what a feed is or how to use it. You’ve probably seen the little orange button with white writing (XML,RSS, Feeds, Syndicate This Site) on a web page or blog post. If you are a non-techie, you must have wondered what this little button is for. To ensure that Internet users know what a feed is, Dave Winer, RSS creator, advocates the use of one simple and universal button Subscribe, which leads to feeds rather than using XML, RSS, Feeds, etc. Some web developers even combines the Subcribe button with a Help button that will lead web users to an explanatory page about subscribing and RSS.
+
+About RSS, XML, Syndicate This Site Link
+
+A button or a link that says Syndicate This Site, RSS, XML simply means that the article title, a link and a brief description for each new page or post are available for you to use on your site or to access through a newsfeed reader program.
+
+RSS is a text-based format specified in XML (Extensible Markup Language). XML is useful in describing, sharing and transmitting data across the Internet. XML defines data and HTML displays that data. The RSS abbreviation is used to refer to the following standards – Really Simple Syndication, Rich Site Summary, RDF (Resource Description Framework) Site Summary.
+
+RSS feeds provide a list of items. Usually each item contains a title, summary, a link to the full version of the content and a link to a URL of the site. For the internet user, the ability to subscribe to content using RSS means that he gets content without having to browse from site to site and also of not having to worry about spam. The content goes to a newsfeed reader. He can choose whatever content he wants to subscribe to. For the content providers, RSS can help drive traffic to their sites by making it easy for users to be updated with new pages or blog posts.
+
+A lot of sites include any one of the RSS, Syndicate This Site buttons. Clicking one of these buttons will take you to a broken page full of codes. Just copy the URL that appears in the address bar of the page or blog and use that URL to subscribe to the site in your newsfeed reader. The newsfeed reader will inform you when there is new content from a site you subscribed to.
+
+When a site has an RSS feed, it is said to be syndicated. Syndication is a method through which web publishers and bloggers make their content available in a format that software can read. A newsfeed reader or news aggregator is software designed to subscribe to sites through syndication. A newsfeed reader automatically compiles latest contents of your sites that are RSS enabled. You can now view the sites’ updates in your newsfeed reader.
+
+For example, you have several favorite travel websites. Rather than logging on to each one of these travel sites for fresh updates, you can just subscribe to their new contents (feeds) in your newsfeed reader software. A click of the RSS button will display a list of the headlines of all new entries from all the travel sites you subscribe to. Clicking the headline link will show a brief description for the entry and a link to the full version. You get to only read the entries that interest you.
+
+You can install a newsfeed reader on your computer and have easy access to it on your desktop. You can also use an online newsfeed reader. Some of the more popular ones are FeedDemon for Windows, NetNewsWire for Mac OS X and Bloglines (web-based, free).
+
+Once you’ve installed a newsfeed reader, you can then subscribe to feeds. Feeds are names given to sources of information utilized by newsfeed readers to obtain new contents and updates they display. Feeds are technically similar to web pages. However, web pages are written in HTML (Hypertext Markup Language, standard language with which all web pages are built) readable by humans. Conversely, feeds are intended to be read or processed by software. Feeds are based on XML technology. Newsfeed readers allow you to subscribe to feeds in different methods. Most web pages or blog posts have a little orange button that says XML,RSS, Syndicate This Site.
+
+Feeds are very useful. They notify Internet users of updates from favorite sites without visiting them one by one. Feeds also allow users to read fresh contents from one convenient location.
+
+Subscribe Button with Help Button – User Friendly
+
+If you have RSS feeds, you definitely would like visitors to your site to subscribe to them. This way your site doesn’t get buried in oblivion. You also want to make it easy for them to subscribe to your feeds. A Subscribe button together with a Help button will be very beneficial and at the same time user friendly to your visitors.
+
+Instead of the terms XML, RSS, Syndicate This Site, you can just use Subscribe. It is a very simple word that visitors understand compared to XML, RSS, etc. The Subscribe button is a universal RSS subscription button that lets your visitors add your RSS feeds to the newsfeed reader easily. Visitors will just click the Subscribe button on your site and they are given the go signal to select the newsfeed reader where they want to add your RSS feed. A Subscribe button makes subscription to RSS feeds easy. You can also monitor how many visitors subscribe to your feeds. Visitors will have a satisfactory online experience and thus increase visitor loyalty. However, some visitors may not understand what the Subscribe button means. This is where the Help button comes in handy.
+
+Vis a vis the Subscribe button, clicking the Help button will display links to pages with in-depth information about feeds and subscribing. The pages include basic information on feeds, newsfeed readers, links to further readings and tutorials.
+
+Make it a point that the Subscribe and Help Button are displayed prominently on your site to draw visitors’ attention to your RSS feeds and give them convenient access to websites and blogs (the media sources).
+
+

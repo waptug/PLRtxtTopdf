@@ -1,0 +1,140 @@
+Title: 
+How to Select and Implement an ERP System
+
+Word Count:
+2213
+
+Summary:
+ERP is a term that is widely used yet probably not well understood. It stands for Enterprise Resource Planning and although it was initially targeted to manufacturing companies, today it encompasses any product that can be used across an enterprise. When implemented effectively, ERP enables companies to break down traditional organizational silos, replacing them with a tightly integrated horizontal structure in which strategy, organizational structure, process and technology are closely aligned.
+
+
+Keywords:
+erp, management systems, project management
+
+
+Article Body:
+WHAT IS ERP?
+
+ERP is a term that is widely used yet probably not well understood. It stands for Enterprise Resource Planning and although it was initially targeted to manufacturing companies, today it encompasses any product that can be used across an enterprise. When implemented effectively, ERP enables companies to break down traditional organizational silos, replacing them with a tightly integrated horizontal structure in which strategy, organizational structure, process and technology are closely aligned. Applications can include financial, distribution, manufacturing, human resources, payroll, and project costing.
+
+There is a lot of confusion between an accounting system and ERP. In the past, an accounting system was limited to just financials, but that has changed over the last few years and it’s now hard to distinguish between an accounting system and an ERP system. The difference between them is a matter of degree as can be seen in the following chart.
+
+
+Criteria	
+Accounting System	ERP
+Enterprise-wide	Maybe	Yes
+Scalable	Partially	Yes
+Fees	Low to Medium	High
+Ratio of Implementation Fees : License	< 1 > 1
+Customization capabilities	Depends	Extensive
+Functionality	Depends	Extensive
+Technology Platform	Single	Multiple
+ 
+Analysis
+Start with an understanding of Critical Success Factors (CSFs)
+CSFs are defined as those things that you must do well in order to be successful. You can use CSFs as a way to determine whether a requirement is really critical. If a requirement can't be mapped directly to a CSF, then it's not critical. 
+
+Define measurements of success
+Before starting any project, you should know how to measure success in terms of saving money by streamlining operations, increasing revenues, increasing market share... Measurements of success act as a motivator for staff during the implementation, help keep the project on track and focus effort on attaining important business objectives. 
+
+Understand existing business process and seek opportunities for business process improvement
+Until you have understood the existing business process, you are not ready. Employees may not know that what they are doing is atypical. Roll up your sleeves and talk to the people who do the work. Remember the devil is in the details. Along the way, your value add may be in identifying ways to improve business process.
+
+Don't be ambiguous in the definition of requirements
+The more ambiguous the requirement, the more interpretation in whether a particular vendor meets the requirement. You need to be precise so that you can compare apples to apples.
+
+Don't waste time on basic functionality
+Systems have matured to the point where the basics are done well. Focus only on the requirements that are unique or could vary by vendor.
+
+Manage scope, budget and timing
+Project management is the key factor in predicting success of any project. Project management includes management of scope, budget and timing. Rather than using the school of hard knocks, you should consider working with a structured methodology such as published by the Project Management Institute (PMI).
+
+Get employee involvement
+Recognize the significant amount of employee knowledge and the potential contribution of the employees. Unfortunately, the knowledge is typically in the heads of the employees and care must be taken to include their input. At the same time, you are effectively including them in the process and securing their buy-in for the process.
+
+Assign an internal champion
+An internal champion should be allocated to the project. Even the most difficult projects can become successful when you have an internal champion who is ready to do whatever it takes to get the job done. It is best to assign the internal champion at the beginning of the system selection project to ensure their commitment and agreement with the system selected.
+
+Manage the risks	
+Seek out potential risks, their impact, and their likelihood of occurring. Encourage all interested parties to develop strategies to mitigate the risks. Every organization has at least 1 naysayer, who can cause a lot of problems, but who is also very knowledgeable. The naysayers must be included in the risk management process. By getting their input early, you can avoid problems and you effectively limit their negativity.
+
+Ensure management buy-in
+Communicate scope of project and get sign off at critical steps along the way. Management should develop or ratify the measurements of success. 
+ 
+Vendor Selection
+Identify potential vendors
+You would be amazed at how many vendors want your business. Start with a buyer's guide such as the one published on the CAmagazine web site which you can access from the menu on the left. You will notice in the buyer's guide that the vendors are split into Tiers. The largest companies are usually best served by Tier One and Tier Two vendors. Smaller companies are generally served better by the other vendors partly because of smaller investment, but also because of less complexity. Tier One products generally have a lot of flexibility but it takes more time to set-up, train and operate.
+There is typically more risk associated with vertical and custom vendors. However, the benefits could outweigh the potential risks. To obtain lists of potential vendors:
+•	use internet searches 
+•	contact your accountant 
+•	contact colleagues 
+•	contact consultants 
+•	contact industry associations 
+•	look at trade journals for articles and advertisements 
+•	attend trade shows 
+
+Find a good reseller
+The reseller or Value Added Reseller (VAR)/implementer can make a big difference. Often, companies selecting new systems spend a lot of time analyzing the product and the vendor but not enough time analyzing the capabilities of the VAR. The VAR could have been assigned by the vendor, and the VAR may not be the best choice. The vendors have a methodology for assigning leads to their partners/VARs that is not well-understood. You could be getting the next VAR on a list. Once a VAR is assigned, the vendors are reluctant to introduce another VAR, as it can lead to VARs competing with each other for the same prospect. So do some pre-screening of the VAR. Better yet, get the VAR's name from someone you know. 
+
+Issue a Request for Proposal (RFP)
+An RFP is a good tool to communicate your needs uniformly to vendors and to create a short list of vendors. Ask vendors to answer questions related to cost, technology, customer base, developer and implementer qualifications, and similar customers. Have the vendors respond to each requirement with a number such as "7" in current release and quoted in estimate, "6" in current release, "5" available in 6 months, "4" minor modification or workaround, "3" third party, "2" available in a year, "1" major modification or workaround, "0" not available. By extending the priority of each requirement times the vendor response, and then summing the results, you get a score that will give you an indication of closeness of fit for each vendor. 
+
+Attend demonstrations
+The vendors should now know your Critical Success Factors and key requirements, and should be given an agenda so that time is allocated properly. You should attend no more than 4 demonstrations, and limit the time to 2-3 hours. Ask each attendee to identify major strengths and weaknesses, as well as score (-10 to +10) how well they did for each topic on the agenda as well as indicate its importance (1 to 10).
+
+Call references
+You will be amazed at how much you learn and how little some of the vendors know their customers. Have a checklist of questions to ask such as our checklist that can be obtained by clicking here. Tell the reference a little about yourself before asking any questions so that they have a level of comfort with you.
+
+Prove that the system will work for you
+Prepare a script that contains sample transactions that should be processed through the entire system. The script is a day in the life at your company will contain the most important business processes with sample documents and reports. You could ask 1-2 vendors to prepare a proof of concept. This is a time consuming task for the vendors as well as for you in attending the demonstration. But you are only focusing on the vendors most likely able to win your business.
+
+Negotiate the price and the contract
+It's a buyer's market. You will get a minimum of 10% off the first quote. Many of the vendors offer competitive pricing when they know they could lose to a competitor who could offer a reasonable solution at lower a price.
+
+Know the Total Cost of Ownership (TCO)
+You need to understand all the costs including license fees, implementation, support, hardware, networks and communications before making a decision. There should be no surprises later. Click here for more about TCO.
+
+Do a Boardroom Pilot
+You need to work with the system to understand the many options. You may think that a customization is required until you better understand the various workarounds. The vendor has an idea of the customizations, but has probably not created a specification or given you a firm quote. Use the boardroom pilot as a way for the vendor to understand your requirements and for you to better understand the system before signing a contract and purchasing the software. You will need to pay the vendors for their time. You should get a fixed price as one of the deliverables of the boardroom pilot.
+
+Implementation
+Business Case Foundation
+Don't forget what you should have known during the selection process. You should have already understood Critical Success Factors (CSFs). CSFs are defined as those things that you must do well in order to be successful. As well, you should have defined measurements of success. Before starting any project, you should know how to measure success. Measurements of success act as a motivator for staff during the implementation, and help keep the project on track and focused on CSF's. Even if you have not done it for system selection, it's not too late.
+
+Business Process Improvement
+Don't assume that your existing business process is the best way to get the job done. Even worse, don't insist on modifying the new system to do exactly what was done before. First, ensure there is an understanding of existing business process. Roll up your sleeves and talk to the people who do the work. Ask them to tell you how much time is spent on activities. It may not seem serious if 1 person wastes 15 minutes per day - but what does it cost if there are 10 people doing the same thing throughout the year? Assuming a rate of $25/hour and 1,800 hours or work per year, that little problem has cost the company $112,500 for the year. 
+
+Project Management
+Project management is a key factor in predicting success of any project. Project management includes management of scope, budget and timing. Rather than using the school of hard knocks, you should consider working with a structured methodology such as published by the Project Management Institute (PMI). A good project manager has support of upper management, and can be tough. If the project manager wants to please everyone, he/she is not the right person. 
+
+Internal Champion
+An internal champion must be allocated to the project. Even the most difficult projects can become successful when you have an internal champion who is ready to do whatever it takes to get the job done.
+
+Employee Involvement
+You need their involvement for many reasons. Without it, you could risk missing critical business process that only they know about. And just as important is the psychological component. People are often threatened by change. By getting them involved, they are more likely to be supportive.
+
+Best People
+You want your best people involved in the implementation. They have the confidence of their colleagues, know the business well, and usually have the right attitude. The implementation is going to take time. You must reduce their normal workload.
+
+Risk Management
+Seek out potential risks, their impact, and their likelihood of occurring. Encourage all interested parties to develop strategies to mitigate the risks. Every organization has at least 1 naysayer, who can cause a lot of problems, but who is also very knowledgeable. The naysayers must be included in the risk management process. By getting their input early, you can avoid problems and you effectively limit their negativity.
+
+Communicate
+Don't keep people in the dark. Communicate formally, informally and frequently. 
+
+Train the Trainer
+This is a good way to cut training costs, and force employees to know the system. The best way to learn a subject is to teach it.
+
+Extensive Prototyping
+There are many options in the setup of a new system including setup options, conversion, integration, and customization. An iterative process is required until the prototype is completed. It may take a few times before you get it right. Take a small, representative sample of transactions through the system including reports and controls. Don't go live before everyone is ready.
+
+Beware of Customizations
+Customizations can bite. The first bite is that it slows down the implementation and the costs soar. The second bite occurs when you want to upgrade to the newest release. This is not to say that some customizations are warranted and have a compelling business case.
+
+Phased in approach
+There is also what is called the big bang theory, when you do it all at once. I think it got its name because everyone shot each other. Small and mid sized businesses especially don't have the manpower to do it all at once. 
+
+Post Implementation Review
+Learn from your mistakes and there's always room for improvement.
+
+

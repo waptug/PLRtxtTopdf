@@ -1,0 +1,30 @@
+Title: 
+How to Put Video on your Website: Processing and Uploading
+
+Word Count:
+422
+
+Summary:
+It's time to start using video files on your webpages. It will help you rank well in search engines and will enhance the quality of your website's usability. By far the most time consuming and difficult factor, when you want to put video on your website, is the process of digitizing the video. Let's talk about some key concepts for processing video files before uploading them to your server.
+
+
+Keywords:
+video,website,quality,editing,software,sound,bandwidth,processing,uploading,audio,compression,images,server,videos,clips,movie,resolution,size,transitions
+
+
+Article Body:
+It's time to start using video files on your webpages. It will help you rank well in search engines and will enhance the quality of your website's usability. By far the most time consuming and difficult factor, when you want to put video on your website, is the process of digitizing the video. Let's talk about some key concepts for processing video files before uploading them to your server.
+
+First you need to find a high quality video to process. The higher the quality the better. Consider the size of the movie. Don't go for a full screen with best resolution. You don't want your website's visitors wait for ages before the video is ready to be viewed. Look for small, clear images that will still look good with compression. 
+
+Processing the video requires specific software and some editing skills but anyone can learn some basic editing procedures. There are expensive sophisticated software packages for video editing like Adobe Premiere or AfterEffects. Ok, Premiere is by far the most professional editing tool out there but it's among the most expensive tools too. (Look at my bio for a much cheaper quality software).
+
+The above software packages will let you do whatever you want with the video files. Add several clips, slice them, insert static images, use filters and transitions, sync up audio files are some of the features that these packages offer.
+
+Now let's talk about an element that is neglected by many people who use video on their websites. This element is sound. It's better to edit the sound of your video separately using an audio editing software. This way you can have a better idea of what people will actually hear when they watch your video file. Poor sound quality will definitely affect the quality of your video.
+
+After processing your video file and paying special attention to your video's sound quality you need to take a final step before putting the video file on your website. And that final step is compression. Again, what you need is a video compression software that will let you balance the image and sound quality along with some other quality and size parameters.
+
+And now the easiest part. Uploading your video on your web server. Make sure you have enough disk space on your server. Also make sure you are allowed to use enough bandwidth because video files are real bandwidth consumers. For example let's say you have a 1 mb video file. You will only need 200 visitors to exceed a 200 mb bandwidth limit!
+
+

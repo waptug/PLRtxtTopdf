@@ -1,0 +1,80 @@
+Title: 
+Computer Data Backups: Test Now or Cry Later
+
+Word Count:
+1054
+
+Summary:
+Use the computer data backup tips in the articles to help you become a more IT-aware small business owner. And remember, when it comes to computer data backups, "Test Now or Cry Later". The choice is yours.
+
+
+Keywords:
+computer data backups, computer data back-ups, backup your computer, backup data
+
+
+Article Body:
+If you're like most small business owners, your computer data backups are one of those things that you rarely pay attention to. Computer data backups are kind of like flossing your teeth and eating low-fat, high-fiber foods… everyone knows what they're supposed to do… but how many REALLY do these things religiously?!?
+
+Unfortunately when it comes to your computer data backups however, complacency can be very dangerous. Of course, it's always a good idea to have a local computer service company that you can rely on for advice on selecting and maintaining your computer data backups. But, unless you're prepared to put a full-time PC support person on your company's payroll, it's really important that you get some basic understanding of the major issues with computer data backups.
+
+So here's a compilation of some really crucial tips on computer data backups that I've put together, after nearly 15 years of helping small businesses protect their valuable computer data files. 
+
+Test your computer data backups regularly and monitor their log files. 
+
+To be effective, computer data backups must be highly automated to ensure that jobs are launched consistently and correctly, but your computer data backup system also needs to be watched over diligently to make sure it continues to function reliably. 
+
+Unfortunately, monitoring the computer data backup system generally isn't a priority until something goes wrong. By then it's too late…. Like the article title says, “Test Now or Cry Later!”
+
+People have a strong tendency with a computer data backup system to set it and forget it. Automation clearly has many benefits, but a totally hands-off approach can be very dangerous if no one is overseeing your computer data backup process. 
+
+Test and Then Test Again: VERY Important with Computer Data Backup Systems
+
+With any newly installed computer data backup system, don't assume everything works correctly right out of the box. Even more important, don't take for granted that your backup system will continue working indefinitely. You need periodically to restore some folders and files from your backup media to validate that your computer data backup system still works.
+
+If your automated computer data backup routine is configured to include a verify run with each backup job, testing a sample restore job monthly should be adequate. However, if you have an extremely low tolerance for risk, you may want to simulate a sample restore job once a week.
+
+The Hazard of Moving Parts and Open Design with Computer Backup Systems
+
+Why do you need to take these precautions if you're purchasing a reliable, business-class computer data backup system to start with? Typically, a tape drive or other backup device is one of the few components in a PC or server that still have moving parts.
+
+As a result, it's more prone to mechanical failure. In addition, because a backup device generally is open, as opposed to the sealed design of a hard drive, it's easy for the inside of the computer data backup system device to attract a significant dust buildup in a relatively short period of time.
+
+Sample Restore Jobs and Cleaning Tape Heads of Computer Data Backup Systems
+
+Testing a tape for a sample restore job is also a great time to clean the heads of the backup drive if your backup system requires this kind of maintenance.
+
+Restoring a few hundred megabytes (MB) of data to a scratch directory and running a head-cleaning tape should take no more than 15 to 30 minutes.
+
+When running a test restore job, always restore the data to an alternate server folder path, so as not to disrupt the use of any shared folders.
+
+Building a Computer System Backup and Restore Procedure Checklist
+In times of crisis, the most crucial issue becomes how quickly you can get the data back onto your system, undamaged. So, as you build your computer data backup system, be sure to document your test procedures into handy checklists.
+
+This documentation also can be great for cross-training and crucial for avoiding panic during an emergency. Be sure you have a hard copy of this documentation next to your system and stored off-site with your backup media.
+
+Watching the Log Files of Your Computer Data Backup System
+
+In addition to running test restore jobs, you must inspect your computer data backup system log files daily. When the backup system is first installed, take time to get familiar with the way log files look when everything is working. This way, if something goes awry, you'll be better prepared to pinpoint the nature of the problem immediately.
+
+As network operating system (NOS) suites and backup software have become more sophisticated, it's now possible to monitor backup system log files remotely and more proactively. In most cases, the backup system log files are just plain text (.txt) files.
+
+Many third-party tools and utilities, as well as those included with Microsoft BackOffice Small Business Server (SBS) and Microsoft BackOffice Server, can automatically e-mail or fax a backup system log file at a preconfigured time.
+
+Automatically and Remotely Monitoring Tape Backup Log Files
+
+Many computer consultants have their small business clients' log files automatically e-mailed to them daily, so the consultants proactively can watch out for potential problems with the computer data backup system.
+
+However, don't think this proactive monitoring is limited to professional consultants. If your company has one or more branch offices you support from a centralized location, you also can use a similar method to monitor backup system health in remote locations.
+
+For greater flexibility, you can set up an e-mail alias so the computer data backup system log file automatically is sent to you, your second-in-command and perhaps an external computer consultant - so you are all kept in the loop. Also, this way, monitoring continues even when you're out of the office or on vacation.
+
+The Bottom Line
+
+If your small business depends greatly on its computer systems, backing up your data is not optional… and it is not something that can be casually brushed to the back burner.
+
+Use the computer data backup tips in the articles to help you become a more IT-aware small business owner. And remember, when it comes to computer data backups, "Test Now or Cry Later". The choice is yours.
+
+
+Copyright MMI-MMVI, PCSupportTips.com. All Worldwide Rights Reserved. {Attention Publishers: Live hyperlink in author resource box required for copyright compliance}
+
+

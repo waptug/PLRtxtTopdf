@@ -1,0 +1,80 @@
+Title: 
+My Troubles With Wordpress Themes
+
+Word Count:
+571
+
+Summary:
+Google didn't like my blog. It wouldn't index much beyond the front page. Why, why, why?
+
+
+Keywords:
+wordpress, SEO, blog, blogging, search engine optimization
+
+
+Article Body:
+It all began in the late 90's. I wanted to put some news on my website. A diary. A list of forthcoming events. I started with simple HTML. One page, with sections for every post. Simple.
+
+Then I heard about 'blogs' and 'blogging'. Being smart, I picked Wordpress, the most popular software. How clever, I thought. If you get the WYSIWYG editor going, anyone can put up a web site. Very democratic.
+
+This encouraged my to post my outermost thoughts; on politics, London, and personal gripes. As a webmaster, I watched to see Google index them. "Here we go", I thought, "soon, my jewels of extrospection will belong to the ages".
+
+Except Google didn't like my blog. It wouldn't index much beyond the front page. Why, why, why?
+
+Duplicate content? I set it to put only one post per page. 
+
+No improvement.
+
+I looked at what Google was indexing. Then I looked at the blog HTML. Soon, all became clear.
+
+In sum: 
+
+- Wordpress was still duplicating my content, and <BR>
+- It had no proper META tags, and <BR>
+- There was a lot irrelevant HTML, and <BR>
+- The layout obscured the content. 
+
+I had a quick search on Google to find search engine optimisation tips. There is a plugin 'head META description' ( http://guff.szub.net/plugins/ ). But I didn't use that, oh no. 
+
+For some reason, I got the notion that a complete theme would be the ticket. I tried modifying an existing one myself. Better, but not perfect. Google was starting to index more pages, but they all had the same title. My missives to an uncaring world were being ignored.
+
+So I got someone else to do one, based on my criteria, which were:
+
+- Grab a META 'title' from the blog post 'title'; <BR>
+- Grab a META 'description' from the blog 'excerpts'; <BR>
+- Put a ROBOTS 'noindex' tag in non-content pages. <BR>
+
+But that wasn't enough. For best SEO results you need to configure Wordpress brutally. You have to be _mean_ to it. You have to _man_ enough.
+
+I did a bit of research and came up with to following tips. 
+
+WARNING: They are extreme. If you already have good rankings, making radical changes to your URLs may affect them. In my case: 
+
+- Moving my blog http://www.ttblog.co.uk to the root web directory, <BR>
+- MOD_REWRITING its URLs, and  <BR>
+- Removing a 301 redirect, 
+
+... caused my PageRank to go to 0. BUT, page indexing was unaffected. 
+
+This was temporary, as Google saw it as 'suspect' behaviour. I had radically changed my site.
+
+Here are the tips, for real _men_, who can look in the face of internet death and laugh:
+
+1. Activate permalinks by going to 'Options/Permalinks'. You may have to enable Apache MOD_REWRITE on your web account. 
+
+1a. Shorten the permalinks code to just the %postname% variable. Don't bother with the date codes. This keeps your URLs short. 
+
+2. Point your blog in the uppermost directory possible. http://www.ttblog.co.uk is better than http://www.ttblog.co.uk/wordpress/
+
+So a typical post would look like  <BR>
+http://www.ttblog.co.uk/Im-hard-as-nails-me/  <BR>
+rather than  <BR>
+http://www.ttblog.co.uk/wordpress/2006/08/03/Im-hard-as-nails-me/  <BR>
+
+3. Then install an SEO'd theme.
+
+My blog posts are now being indexed beautifully. The Google 'site:' command returns all my posts, and little else. 
+
+For my next challenge, I take on Windows XP, and turn it into an operating system.
+
+

@@ -1,0 +1,36 @@
+Title: 
+What is SS7?
+
+Word Count:
+411
+
+Summary:
+Signaling System 7 is an operating system that is designed to function on a public switched telephone network.
+
+
+Keywords:
+SS7
+
+
+Article Body:
+Signaling System 7 is an operating system that is designed to function on a public switched telephone network. The essential function of SS7 is make use of the data is used to set up and manage telephone call transmissions when more than one network is involved between the point of origin and the point of termination. The signaling data that is utilized by SS7 is housed in digital packets.  
+
+How Does SS7 Work?
+
+SS7 makes use of a signaling method that is known as out of bond signaling. This means that the data within the digital packet is forwarded making use of a dedicated channel other than the public switching network.  For example, SS7 could be utilized to carry a phone signal from a local switch, convert to a data stream that is routed across the Internet, and terminates at a distant local switch near the receiver of the phone call. It is this ability to convert and route the signal through something other than the traditional phone switches that gives the method all its appeal. 
+
+Does SS7 Work With International Calling?
+
+Yes.  In fact, the use of SS7 is one of the factors that makes the whole concept of Voice over Internet Protocol possible. Because SS7 can be used to convert a standard digital phone signal into an audio stream that can travel across the Internet, it is possible to place international calls with ease. The voice clarity is almost identical to that of a standard wired call, and in some cases may even be a little better.  
+
+What Else Can SS7 Do?
+
+SS7 is compatible with a wide range of telephony services that many people have come to rely upon. Call forwarding and wireless roaming are two examples of how SS7 can be utilized.  
+
+SS7 also can help to provide caller identification information, establish a three-way conference call, and make use of toll free and freefone numbers as well. This can make the ability to capture billing information easier than ever, which means more detail for subscribers as well as simplifying the billing process for the service provider. 
+
+Can I Tell If My Call Is Routed Using SS7?
+
+Probably not. Unless you are technologically savvy, chances are you will notice no difference at all. In some cases, there may be an extra second while the switching takes place, but as long as the Internet transmission is strong, the sound quality will be as good as making a call across town.
+
+

@@ -1,0 +1,34 @@
+Title: 
+Car Stereo Wiring 101
+
+Word Count:
+637
+
+Summary:
+I have come across a lot of car stereo systems over the past 10 years or so.  There are so many "techniques" to installing head units.  Everyone has their own opinion of what is right and wrong when wiring up a system, but just because it works doesn't make it right.
+
+
+Keywords:
+automotive, auto, car, stereo, audio, mobile, wiring, install, installation
+
+
+Article Body:
+I have come across a lot of car stereo systems over the past 10 years or so.  There are so many "techniques" to installing head units.  Everyone has their own opinion of what is right and wrong when wiring up a system, but just because it works doesn't make it right.
+
+I asked Majestic Modifications what their opinion was on the subject.  How do they install so many units and always get it right?  
+
+First, if applicable, always use the harnesses.  The aftermarket wiring harness will usually take the guesswork out of the installation.  These harnesses attach to the vehicle's factory wiring harness and gives you a color coded installation.  You just attach red to red, yellow to yellow, etc.  But is that all an installer should know?
+
+Starting with your digital multimeter, find the power sources in the harness.  One source will be continuous 12 volts, the other will be the ACC (ignition) 12 volts.  These two will go with the yellow and red wires from the aftermarket head unit's harness.  They are labeled accordingly.  It is usually a good idea to attach the ground wire to the frame of the dash.  A lot of head units come with a connector for this already attached to the ground wire.  Secure these in place with some solder and shrink tubing.  Slip the shrink tubing over one of the wires to be connected and move it out of the way.  Connect the wires and dab a little solder on the wires.  Let cool and then slide the heat shrink tubing over the connection.  Heat with a heat gun/hair dryer to shrink the tubing to fit. 
+
+You can try to look on the internet for the wiring colors, but good luck.  They will tell you the "typical" wire colors, but chances are it will be different.  You can try two techniques to find the right wires.  Clip the rest of the wires from the factory harness.  You can test the speakers with a good 9 volt battery to see which speakers are which.  Two wires connected to the same speaker will make it pop.  Note which speaker makes the pop and attach it to that speakers wiring from the head unit.  I like to turn the unit on and make sure the wires are the right polarity.  A reverse wired speaker will not have as good a sound as a properly wired one.  Continue the technique until all the speakers are connected.  
+
+The other way you can trace the speakers down is to turn on the head unit, but be VERY careful to not cross any wires.  Start with a pair of wires, and attach them one at a time until you get sound.  Note which speaker it is and attach it to that speaker's wires from the wiring harness, taking not of polarity.  Continue until all the wires are in place.  Zip tie the wire together and neatly tuck them behind the head unit.  
+
+Be sure you have a good ground wire connection.  Be sure that RCAs or signal wires are running away from any power wires or sources, and are not run parallel to them. 
+
+If you want a neat trick, you can attach the 12 volt acc to the illumination wire, and you will be able to turn the unit on with your parking light switch.  Take note, that anytime the unit is on, the dash panel lights will be on too, but you won't notice them in the daytime.  The illumination wire is used to turn the factory radio lights on at night.  
+
+Not having the wiring harness for your vehicle is not a do or die situation.  If you can get the harnesses, save the hassle and time and use it.  If you find yourself in a bind, then follow the steps above and get it installed correctly.
+
+

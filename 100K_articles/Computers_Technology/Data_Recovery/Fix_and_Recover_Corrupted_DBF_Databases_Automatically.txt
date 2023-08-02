@@ -1,0 +1,32 @@
+Title: 
+Fix and Recover Corrupted DBF Databases Automatically
+
+Word Count:
+447
+
+Summary:
+DBF Recovery recovers damaged and corrupted DBF files completely automatically. You can be a professional database manager or a complete novice - DBF Recovery will repair the broken database regardless of your experience.
+
+
+Keywords:
+dbf repair, database recovery, dbf recovery, repair database, repair dbf file, fix database, fix dbf
+
+
+Article Body:
+Heavy-load workstations and busy environments are home to most database applications. A system crash or a power failure can easily damage an open database, causing loss of data and corrupted database structures. Once the problem is fixed and the workstation rebooted, the corrupted database will fail to open.
+
+What would you do when pressured to get the database up and running right away? Reach for a backup just to discover it's a week old, or attempt to recover the database, risking causing irreparable damage to what's still left?
+
+Don't panic! If your database uses DBF files, your chances to get back all of the original data are extremely high if you use the right tool. Even if you don't know anything about the internal structure of DBF files, you still can get it fixed easily and automatically.
+
+DBF Repair tool by www.dbf2002.com/dbf-recovery/ recovers damaged and corrupted DBF files completely automatically. You can be a professional database manager or a complete novice - DBF Recovery will repair the broken database regardless of your experience. With DBF Recovery, you simply select the corrupted file, and the program does the rest completely automatically.
+
+Why paying for DBF Recovery instead of just using any of the numerous recovery tools that claim to repair your database in a matter of minutes? While DBF Recovery may not be as fast and as cheap as its freeware competitors, it does a much better job in correctly repairing the corrupted database structures and data records. Unlike many free database repair tools, DBF Recovery does not limit its operation to just the headers. The newly developed database recovery engine automatically detects the exact file format and database that created a DBF file, and thoroughly analyzes and repairs the structure of the database as well as all data records, resulting in the most comprehensive and quality recovery.
+
+Have more corruption in supporting files? DBF Recovery fixes memo-files such as DBT and FPT in addition to DBF.
+
+While new database administrators will certainly appreciate the unprecedented level of automation and the ease of use provided by DBF Recovery, expert users will enjoy the advanced features that provide even more automation to the database recovery process. Comprehensive command line parameters and batch mode support allow using DBF Recovery to process multiple databases automatically, or to fix certain database files on Windows startup.
+
+Novice database users and advanced system administrators will appreciate the time savings provided by DBF Recovery. Supporting all DBF databases, including Dbase III and IV, FoxPro and Visual FoxPro, DBF Recovery is the perfect choice for a concerned database administrator. Download a free evaluation version of DBF Repair and rescue your DBF databases after corruption!
+
+

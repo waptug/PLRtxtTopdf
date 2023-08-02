@@ -1,0 +1,31 @@
+Title: 
+Basics of RGB and CMYK for ink jet printing at home
+
+Word Count:
+800
+
+Summary:
+Knowing and understanding the basics of RGB versus CMYK color space will help when it comes to at home ink jet printing.  Getting the right print out starts with knowing what color space your image is made of.
+
+
+Keywords:
+Photo, CMYK, RGB, printing, inkjet, printer, image, color, convert, graphic
+
+
+Article Body:
+In the world of home ink jet color printing, there is some confusion concerning CMYK color and RGB color.  Many photo enthusiasts don't realize what kind of color space their digital cameras output and are confused when it comes to printing images off of their home ink jet printers.  They hit print and wonder why the printed image looks different from what they see on their monitor.
+
+CMYK is the color description representing printed material, short for the colors Cyan, Magenta, Yellow, and Black.  Mixing these 4 colors together in different amounts give you the millions of colors that reproduce the colors in printed material.  These are actual inks used in printing the images you see in color magazines and books.   RGB is the color description for images viewed on your computer monitors, short for Red, Green, and Blue.  RGB color is actually light, and mixing different levels of these light colors
+creates the millions of colors that come from your computer monitor.  All websites and nearly everything you see on your computer monitor is RGB unless the images have been converted to the CMYK color space.
+
+When you print your images on your ink jet printer from your computer, your printer prints the image using CMYK inks.  Viewing your image in RGB and then printing it out in CMYK may not yield the results you want.  Programs such as Adobe Photoshop will convert your image from RGB to CMYK or vice versa.  Some printers require the image to be CMYK before you can print the image correctly.  Some printers don't print the image correctly if the image being printed is in RGB space.  
+
+A good reason for printing with a CMYK image is to see your image in CMYK color before printing.  When an image is converted to CMYK from RGB, there may be some color changes that are noticeable in the image.  The reason for this is because many colors in RGB cannot be reproduced using CMYK inks.  That is why it is always a good idea to convert your image to a CMYK color space before printing.  You could notice significant color changes to your image, especially in the very intense color areas of your image.  Some of these intense color areas may appear less intense or very dull once converted.  With photo editing software, you can go in and fix these trouble color areas to your liking.
+
+Many ink jet printers on the market today actually print directly from an RGB color image.  And converting the image to CMYK may cause it to print incorrectly.  You will need to determine what color space your ink jet printer supports.  The packaged software usually will give you a hint regarding color spaces.  If there is no option to convert the color space from RGB to CMYK, most likely, the printer will print directly from an RGB color source.  Usually, the higher end ink jet printers deal with the CMYK color space as consumer level enthusiasts don't even know these color spaces exist.  New higher end ink jet printers, however, are now printing directly from the RGB color space as there is a wider spectrum of color that can be reproduced in RGB  compared to CMYK color.  
+
+If you visit the website, Instantimagers.com, the 'Framers' and 'DVD Cover & Disc Art' designs are provided in both RGB and CMYK color spaces.  Comparing the RGB and CMYK images side by side, you'll notice there are color differences.  This is due to some RGB colors not being available as a CMYK converted color.  Both versions are provided because not all printers are alike.  Some tend to print better with one color space.  Many of CMYK printed designs have been manipulated further after conversion to match more closely the colors from the RGB color space as many of the colors in some designs did not covert seamlessly.
+
+If all this seems confusing, not to worry.  The key thing to remember is to print using RGB color if your printer and software support it.  Let the software and the printer worry about getting the colors right.  If you are more experienced with photo color correction and want more control over the color of the image, print in CMYK.  You'll actually be manipulating and printing the image in the color space your ink jet printer's inks are using.  You will be able to see the limits of the CMYK printing color spectrum right on your monitor.  Getting color right with RGB and CMYK is totally different from calibrating your printer to match the colors on your monitor.  That is actually the second step in getting the best color out of your prints.  Understanding the difference between RGB and CMYK is the first step in getting the best print outs on your home ink jet printer.
+
+

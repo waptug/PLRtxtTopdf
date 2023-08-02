@@ -1,0 +1,32 @@
+Title: 
+Cisco CCNP / BSCI Exam Tutorial:  Not All Static Routes Are Created Equal
+
+Word Count:
+264
+
+Summary:
+Static routes seem easy enough to configure, but you better know the details to pass the BSCI exam!  Learn these details from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+ccnp, bsci, exam, cisco, certification, static, route, ip, command, ad, distance, prefix, interface
+
+
+Article Body:
+As a CCNP candidate, as a CCNA, and in getting ready to pass the BSCI exam, you may be tempted to breeze through your static route studies, or even skip them! That's because static routes are easy enough to configure, and as long as you remember the syntax of the ip route command, you're in good shape. 
+
+But there's one vital detail regarding static routes that many exam candidates miss. That's because many CCNA and CCNP books say "the administrative distance of a static route is 1", but that is not quite accurate.
+
+You know from your CCNA studies that the ip route command is used to create a static route, and that you have the option of configuring a local exit interface or a next-hop IP address at the end of the command. However, the administrative distances are not the same. The AD of a static route that uses a local exit interface is zero! (That's because the router considers a static route with a local exit interface to actually be a directly connected network.) The AD of a static route with a next-hop IP address is 1. 
+
+Therefore, if the router has the following two ip route statements to consider...
+
+Router(config)#ip route 172.1.1.1 255.255.255.255 fast0
+
+Router(config)#ip route 172.1.1.1 255.255.255.255 210.1.1.1
+
+... the prefix lengths are the same, so the static route using the local exit interface fastethernet0 will be preferred due to its lower AD, and will be installed into the routing table.
+
+Keep the details in mind on the job and in the exam room, and you’re on your way to CCNP exam success!
+
+

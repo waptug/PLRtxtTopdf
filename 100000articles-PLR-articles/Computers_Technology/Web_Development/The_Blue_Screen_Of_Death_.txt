@@ -1,0 +1,40 @@
+Title: 
+The Blue Screen Of Death!
+
+Word Count:
+813
+
+Summary:
+Microsoft  Corporation © calls it a system stop error.  Most computer users call it terrifying.  Programmers call it the Blue Screen of Death (BSOD).  Causes of the blue screen vary and while the blue screen details information on memory locations in your computer that are probable causes, often they are only symptoms.
+
+The recommended course of action starts with writing down the information on the blue screen and then restarting your computer.  More often than not the com...
+
+
+Keywords:
+bsod, blue screen of death
+
+
+Article Body:
+Microsoft  Corporation © calls it a system stop error.  Most computer users call it terrifying.  Programmers call it the Blue Screen of Death (BSOD).  Causes of the blue screen vary and while the blue screen details information on memory locations in your computer that are probable causes, often they are only symptoms.
+
+The recommended course of action starts with writing down the information on the blue screen and then restarting your computer.  More often than not the computer will start right back up and act as if nothing ever happened.  The users then franticly back-up everything they can as fast as possible, the first time.
+
+If your BSOD experiences starts after installing new hardware and/or software there is a good chance the new stuff is at fault.  No Problemo, just uninstall or reinstall following the directions this time and the problem is all gone, maybe.  If you don’t see a blue screen again you are golden.  
+
+Most blue screen of death experiences fall in the technical realm of head scratchers.  Also known as the FIIK syndrome (Frack If I Know, for you  Battlestar Galactica fans).  My most recent BSOD experience fell in the FIIK category.  In the past I have had memory  blue screen of death issues.  A bad sector on the hard drive and a memory module that aged poorly.  Both are fairly easy to fix.  
+
+For the hard drive the old reliable check disk utility ferreted out the culprit and marked the bad sector.  For the memory bug, well I had to bite the bullet and buy a new memory module.  This new one was a lot cheaper and larger than the old one, so it was less painful.
+
+Unfortunately, my latest BSOD was not one, but a series of BSOD’s.  This would be called a reoccurring FIIK situation.  During the battle, I minimalized the laptop.  Deleting every seldom used program.  Virus scanning was a daily chore with QQROB, a seemingly docile little bug discovered and chased all over the hard drive.  I managed to corner QQROB during a concerted search and destroy effort and deleted the rascal.  Or so I thought.  QQ is a sneaky little rapscallion that must have tucked itself into a cozy little corner of memory or the hard drive.  Finally, I gave in to QQROB and just let the virus software block the little … devil.
+
+Just yesterday morning I awoke and fired up the little HP laptop to check my Spam, I mean email.  My computer was stuck in a infinite loop.  It would start and just as it was time for the operating system to kick in, my once trusty HP defaulted to the select boot device drive and quickly restarted.  While I am sure there is a computer guru that could have repaired this minor problem, I personally had had enough.  
+
+Falling back on my vast knowledge of MSDOS, I used a system CD disk that I had created to load the basic command. com on my ailing computer and repartitioned my hard drive.  This a very quick and effective method for destroying everything on your hard drive.  This would not be recommended if you have information on the drive you are fond of.  I was much more concerned with killing the little QQROB…. Bugger, than saving any data.
+
+Certain that QQROB was a thing in my past, I blew the dust off the system recovery CD’s and started to reinstall everything on the old HP.  With the condition of the recovery disk set, this proved to be more of a challenge than I anticipated.  Toothpaste does seem to be very effective in removing various types of crud that seems to attract itself to the business side of CD’s.  After a lot of polishing and about 600 entries of “r” for retry instead of abort or fail, my little HP is back in action.  While everything on the laptop works, it does have a bit of a retro look with AOL 6.0 and a desktop full of cutting edge software advertisements like Microsoft Money 2002.
+
+The moral of this little story is never leave anything on your computer you cannot live without unless it is backed up!  The second moral would be to store your system restore disk in an area other than the general CD/DVD storage area.  Some, not so computer literate members of your family may try to play the recovery disks in aging CD players. 
+
+One last note; on-line back-up of photos in a variety of free sites is an excellent idea.  Don’t tell anyone but saving other information as attachments to an email to yourself, saved on your email provider’s site is a good idea too.  I learned this little trick after a hurricane storm surge proved to be a little more than my typical archiving methods could handle.  Have a lovely blue screen free day.
+
+

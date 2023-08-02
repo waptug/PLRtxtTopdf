@@ -1,0 +1,36 @@
+Title: 
+Keeping Your Mobile Sales Team Organized
+
+Word Count:
+570
+
+Summary:
+Keeping a mobile sales team properly organized is a bit little juggling; you need to keep your eye on the ball, several of them, at all times. However, unlike a lone juggler, today's manager and his sales force in the field, can keep track of what's going on through dedicated computer programs that offer synchronization of data from multiple sources. These programs are known as customer relationship management programs, or CRM.
+
+One of the most efficient customer relationsh...
+
+
+Keywords:
+CRM, Goldmine, ACT!, Software
+
+
+Article Body:
+Keeping a mobile sales team properly organized is a bit little juggling; you need to keep your eye on the ball, several of them, at all times. However, unlike a lone juggler, today's manager and his sales force in the field, can keep track of what's going on through dedicated computer programs that offer synchronization of data from multiple sources. These programs are known as customer relationship management programs, or CRM.
+
+One of the most efficient customer relationship management programs is the GoldMine® Product Suite from FrontRange Solutions Inc. This suite has a number of component modules, each designed for specific tasks. The GoldSync component is the key to efficient contact management. It is capable of performing automated synchronization. This means that important information on customers can be updated throughout an organization regardless of where any of the members may be located.
+
+The mobile sales team of an organization will probably spend most of their time working in the field, or at home. From time to time, though, they may require to be temporarily back in the office. The office team, by and large, will be permanently based in the office. It has always been a serious challenge for any manager to ensure that all parts of the team have instant access to the most up to date customer data available. This is especially so considering how widely dispersed the mobile sales team might be at any given moment.
+
+FrontRange Solutions' Goldmine® software and its GoldSync component in particular solves this dilemma. Unlike other Internet-based CRM programs, GoldSync allows a field operative to input data from anywhere, and at anytime of the night or day, and not only while connected to the Internet. This is because the software is desktop based, residing on the local machine and not on a remote server. Only when it is necessary to send and receive information to or from the database is it essential to go online.
+
+The level of security provided by GoldSync is impressive. There are no less than three levels of synchronization security. These operate through the use of a serial number, a site ID and optionally the validation of a user password can also be employed.
+
+The GoldSync administration center is where remote Goldmine users and their sites can be managed. The interface is in a familiar Windows Internet Explorer style. From here, contact information can be distributed to individual GoldMine users and sites. In order to control what content is sent where, filters can be set up. This can avoid any possible conflict between individual territories.
+
+The advantage of using GoldMine® software is simply that a manager and the mobile sales team receives the same benefits and convenience, whether they are on the road or in the office.
+
+GoldMine® software is not the only customer relationship management solution available. ACT!® by Sage Software also operates to a high standard for anyone with customers and contacts who is in need of better organization. ACT!® offers features and benefits similar to the Goldmine® Product Suite.
+
+Other CRM programs can be web based through a web page interface. This means that mobile sales team users and office management must be connected to the Internet in order to use it. For the office staff this is usually not a problem. For the individual in the field, however, this may represent an unacceptable inconvenience, especially if he or she is frequently on the move.
+
+

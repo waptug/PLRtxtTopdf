@@ -1,0 +1,73 @@
+Title: 
+Cisco CCNP / BCMSN Exam Tutorial: Changing Root Bridge Election Results
+
+Word Count:
+487
+
+Summary:
+To become a CCNP, you've got to master the details of STP and root bridge elections.  Learn this vital information from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+ccnp, bcmsn, stp, root, bridge, election, spanning, tree, secondary, vlan, priority, default, 32768
+
+
+Article Body:
+Your BCMSN and CCNP studies will include mastering the details of Spanning Tree Protocol (STP). While you learned some of these details in your CCNA studies, quite a bit of it may be new to you. Before going on to the intermediate and advanced STP features, let's review the root bridge election process and learn how to change these results.
+
+Each switch will have a Bridge ID Priority value, more commonly referred to as a BID. This BID is a combination of a default priority value and the switch's MAC address, with the priority value listed first. For example, if a Cisco switch has the default priority value of 32,768 and a MAC address of 11-22-33-44-55-66, the BID would be 32768:11-22-33-44-55-66. Therefore, if the switch priority is left at the default, the MAC address is the deciding factor.
+
+Switches are a lot like people - when they first arrive, they announce that they are the center of the universe! Unlike some people, the switches will soon get over it. BPDUs will be exchanged until one switch is elected Root Bridge, and it's the switch with the lowest BPDU that will end up being the Root Bridge.
+
+If STP is left totally alone, a single switch is going to be the root bridge for every single VLAN in your network. Worse, that single switch is going to be selected because it has a lower MAC address than every other switch, which isn't exactly the criteria you want to use to select a single root bridge.
+
+The time will definitely come when you want to determine a particular switch to be the root bridge for your VLANs, or when you will want to spread the root bridge workload. For instance, if you have 50 VLANs and five switches, you may want each switch to act as the root bridge for 10 VLANs each. You can make this happen with the spanning-tree vlan root command.
+
+SW1(config)#spanning-tree vlan 1 ?
+
+forward-time Set the forward delay for the spanning tree
+
+hello-time Set the hello interval for the spanning tree
+
+max-age Set the max age interval for the spanning tree
+
+priority Set the bridge priority for the spanning tree
+
+root Configure switch as root
+
+
+In this example, we've got two switches, and SW1 has been elected the root bridge for VLANs 10, 20, and 30. We'll use the spanning-tree vlan root command on SW2 to make it the root bridge for VLANs 20 and 30.
+
+SW2(config)#spanning-tree vlan 20 root primary
+
+SW2(config)#spanning-tree vlan 30 root primary
+
+SW2#show spanning vlan 20
+
+VLAN0020
+
+Spanning tree enabled protocol ieee
+
+Root ID Priority 24596
+
+Address 000f.90e2.1300
+
+This bridge is the root
+
+SW2#show spanning vlan 30
+
+VLAN0030
+
+Spanning tree enabled protocol ieee
+
+Root ID Priority 24606
+
+Address 000f.90e2.1300
+
+This bridge is the root
+
+SW 2 is now the root bridge for both VLAN 20 and 30. Notice that the priority value has changed from the default of 32768.
+
+In the next CCNP / BCMSN tutorial, we'll take a look at more STP features.
+
+

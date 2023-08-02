@@ -1,0 +1,30 @@
+Title: 
+Muiltimeters or Test Lights? Does It Matter?
+
+Word Count:
+430
+
+Summary:
+I have been to a lot of car audio shops that use test lights, and not as many that use digital multimeters. Is one really "better" than the other for finding power sources?
+
+
+Keywords:
+car audio installations, automotive, auto accessories, car parts, car stereo, troubleshooting
+
+
+Article Body:
+I have been to a lot of car audio shops that use test lights, and not as many that use digital multimeters. Is one really "better" than the other for finding power sources?
+
+Absolutely! A test light looks like a screwdriver with a sharp pointed end, and consist of a small bulb and a grounding wire or cable. It works by grounding the bulb, and once it comes in contact with a power source, it will complete the circuit and light the bulb. This is the easiest way to test power because the bulb either lights up for power or doesn't if their isn't any power.
+
+The problem with using this type of testing on todays vehicles is the complexity of some of the circuits inside the dash. When you complete the test light circuit on a "hot" wire, you essentially create a small "arc" of electricity that can short some of the more sensitive equipment such as an air bag sensor or relay. I have actually seen one installer blow the airbags out of a new BMW M3 by testing wires with a test light. In most cases, it won't cause any harm, but when it does the cost can be very high.
+
+I highly recommend using a digital multimeter to test circuits. The are very accurate and can tell you a lot of useful information such as voltage, amps, and ohms, all of which are essential to know when building a good sound system.
+
+These multimeters work a little differently than a standard test light. They typically have a battery on board to power the meter, so they don't pull power from the power source, reducing the tendencies to "arc" the power source. They are generally safer to use on sensitive systems than their test light counterparts for this reason.
+
+Digital Multimeters are a great tool for car audio installers, as they can help track down problems in the system. They are also a must have when installing any other 12 volt auto accessories. A test light will light up under power, but wont tell you if you are getting the proper voltage and amps. With a multimeter, you can start at the component taking readings, and work your way backwards until you find the component that is not functioning properly.
+
+Multimeters range from about $10.00 to over $100.00, and depending on your level of work and how accurate you need to be, you can find one that will work for you. They are a great investment, and will save a lot of headache when you are problem solving a system.
+
+

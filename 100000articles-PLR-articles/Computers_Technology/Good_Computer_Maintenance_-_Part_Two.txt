@@ -1,0 +1,42 @@
+Title: 
+Good Computer Maintenance - Part Two
+
+Word Count:
+490
+
+Summary:
+In our last part of discussion of good computer maintenance, we will discuss backing up, some free stuff, and cleaning tips.  All great bits of advice for proper care of your computer.
+
+
+Keywords:
+computer maintenance, computer cleaning, Spybot, WinPatrol, PC cleaning
+
+
+Article Body:
+In our last part of discussion of good computer maintenance, we will discuss backing up, some free stuff, and cleaning tips.  All great bits of advice for proper care of your computer.
+
+Back It Up
+
+One maintenance task that is still crucial is backing up your data, particularly if it is business or financial related.  At the very least, manuallly copy such data to a recordable CD or DVD disc when it changes.  More sophisticated options include using the more automated backup tools that come with Windows, a stand alone backup program for networks such as the well regarded Dantz Retrospect Professional (www.dantz.com), or a Web backup system such as the excellent IBackup (www.ibackup.com).
+
+Free Stuff
+
+One really interesting maintenance task is checking to see who is spying on you.  If you download a lot of software, one or more programs may be peeping at your Web surfing habits, which could be slowing you down.  Such behavior naturally riles people, and good spirited entrepreneurs offer free software to weed out the sneaks.  The best overall stand alone program for this is Patrick M. Kolla's Spybot Search and Destroy (www.safer-networking.org).
+
+Another fun, and free, software maintenance program is WinPatrol (www.winpatrol.com).  Among other things, it shows you all the programs that load automatically every time you load Windows, letting you disable any you do not want running that may be slowing you down, regardless of whether you use Windows XP, NT, 2000, ME, 98, or 95.
+
+Cleaning Tips
+
+Clean your monitor if it becomes smudged.  But stay away from glass cleaners ... they can remove a monitor's anti glare finish.  Use isopropyl alcohol or distilled water along with a lint free cloth.  Wet the cloth first, then the monitor.
+
+Periodically open up your computer's case to clean out dust.  Every couple of years or more frequently if your PC is in a dusty area.  This will help prevent heat build up, which can shorten the life of system components.
+
+Use either a portable vacuum cleaner or compressed gas duster.  To minimize static discharge, avoid older vacuum cleaners and brush attachments, and prevent the metal of any vacuum cleaner from touching your PC.  After vacuuming the inside of your PC, vacuum the grille in front and your keyboard.
+
+Before working inside a PC, ground yourself ... turn off your computer, leave it plugged in, and touch an unpainted metal surface inside the PC.  Your PC should be plugged into a three pronged grounded outlet, preferably on a dedicated circuit.  Do not move a PC or connect or disconnect its cables while it is on unless they are plugged into a univeral serial bus port.
+
+If your mouse starts misbehaving, take it apart and clean it.  Shake out dust, or use a cleaning swab or compressed gas.
+
+Finally, it is best not to smoke around your PC.  Cigarette smoke can coat the innards of your PC with tar, shortening its life.
+
+

@@ -1,0 +1,48 @@
+Title: 
+Staff or Employee Scheduling Balances Several Requirements
+
+Word Count:
+548
+
+Summary:
+Staff or employee scheduling or rostering relates employees, workplaces and work times. A workplace schedule lists the employees who will work there at different times. The times might be specific hours, dates, weeks or even months.
+
+
+Keywords:
+Time and Attendance, time, attendance, Employee Scheduling, Absence Management, Rostering, workforce management, workforce scheduling
+
+
+Article Body:
+Staff or employee scheduling or rostering relates employees, workplaces and work times. A workplace schedule lists the employees who will work there at different times. The times might be specific hours, dates, weeks or even months.
+
+A workplace can be retail store, manufacturing facility, head office, or even an external place for field sales persons. The key idea is that there should be clarity of who will work where and when. This would help the employee to know what is expected of him or her. And managers would know where an employee is expected to report for work on a given day and time.
+
+Rostering employees is not as simple as it might seem. You cannot just create an employee schedule by selecting any employee and including him in the roster. You have to balance a number of things, such as employee vacation plans, skill requirements for work being scheduled, employee unavailability owing to sickness, and so on.
+
+<b>Different Kinds of Employee Schedules</b>
+
+Employee rosters are typically created in a grid form with columns and rows.
+
+There are daily schedules where employees are typically listed in chronological order based on the scheduled times they will report for work.
+
+Weekly and monthly schedules list employees in the first column and dates (or days of the week) in the headings of the other columns. Against each employee under each date the scheduled working hours for that employee are indicated. In this kind of schedule, the employees are listed in alphabetical order for ease of finding a particular employee.
+
+<b>Who Creates Employee Schedules?</b>
+
+In smaller organizations, the owner himself or the manager of the employee creates the work rosters. In larger organizations, there could be a scheduling specialist in the HR department responsible for creating employee and workplace schedules.
+
+In these days, scheduling or rostering software is used for efficient employee scheduling. In addition to timesavings, rostering software can alert the person preparing the workplace schedule when there is a conflict between employee vacation time, sick time or compensation time with work time.
+
+Employee scheduling software can also accommodate differing requirements such as flexible working hours, optimizing worker, equipment and vehicle utilization, and better control over field personnel.
+
+The key benefit of using rostering software is that it can work extremely fast compared to humans, and at the same time consider many factors before scheduling each employee to a workplace at a particular time. Humans would find it impossible to handle this kind of complexity and produce timely employee schedules without causing problems with the scheduling.
+
+A rostering software can also revise an already prepared employee schedule quickly if it becomes necessary, as when a scheduled employee reports sick.
+
+The software can additionally accumulate the schedules in a database and analyze them for various purposes. The analysis can also help current scheduling by looking at each employee's work history so far.
+
+<b>Conclusion</b>
+
+Preparing a staff or employee schedule or roster involves balancing several requirements. For example, the scheduled work time must not conflict with an employee's scheduled vacation time. Similarly, if an employee is absent sick, the person cannot be scheduled until he or she is back. A rostering software can handle the complexity involved in employee scheduling and produce dependable schedules in short time.
+
+

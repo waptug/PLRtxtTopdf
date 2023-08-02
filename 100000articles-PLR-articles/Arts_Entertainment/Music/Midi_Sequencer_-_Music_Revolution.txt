@@ -1,0 +1,58 @@
+Title: 
+Midi Sequencer - Music Revolution
+
+Word Count:
+807
+
+Summary:
+This has been my own method for many years and continues to be the method I use to construct backings for my live work.
+Next - we'll look more closely at midi playback using midi hardware modules or midi software i.e. VSTi's - Virtual Studio Technology Instruments.
+Note - VST and VSTi - are Steinberg trademarks.
+
+Contact email - mako@sawfishaudio.com 
+All Rights Reserved. 
+P.S. - for any webmasters or article sites, this article guide may be reprinted as long as the whole article stays intact.
+Denis Hillman (c) 2006.
+www.sawfishaudio.com
+http://www.sawfishaudio.com/midi_sequencer.htm
+
+
+Keywords:
+midi,midi music,midi playback,midi playback device,midi playback hardware,midi recording,midi recording 
+
+
+Article Body:
+Discovering the music revolution and why midi's part in it has become mainstream for the industry and  essential for many composers and musicians.
+
+Midi Sequencer
+
+The first thing to understand about midi sequencers is that they make no sound of their own. True, some later  hardware units come with onboard sounds that the sequencer will use, but when midi sequencers originally came  to market they were a stand alone application (both hardware and software units) and it was necessary to plug  the midi output of the unit into the midi in of the desired sound module (there were dozens of them; DX7  (keyboard), TX7 (module) various Roland units (Sound Canvas, MT 32), Korg, and many others.
+
+The sequencer's role is to capture, accurately, the digital midi events produced by a midi keyboard or other  type of midi controller such as a guitar to midi converter or Yamaha's EWI - a midi wind instrument. The  instrument sends out data in 7 bit packets (7 bits allows counting to 128) and tells the receiving unit what  type of data is coming, note on, the note number to play, the midi channel it's on, the velocity of the note  and, note off.
+
+Over the past years its become more common for designers to use note duration (instead of using key on/key off  protocol) as this helps prevent "stuck notes", an unfortunate experience, especially in a live environment,  where the sound module hasn't received the "note off" and continues to play one or more sounds.
+
+-----------------------
+
+There are many midi sequencers available from low cost to expensive. I began with Steinberg's Pro24 many years  ago using Atari computers and continued throughout Cubase's era until Cubase SX2. I had no end of problems  with Cubase when I moved to the PC platform and so began a search for something that would work for me. In the  end I came across SAWStudio and the Midi Workshop and, after testing these for a few months, discovered that  this combination was rock solid as far as locking audio to midi and vice versa.
+
+I ended up going with SAWStudio + MWS combo and continue to be impressed by how well this setup works - also  at this point I must make mention of SAWStudio's excellent sound quality, something missing from my previous  experiences. With an install size of just 1.4 meg - a full working environment can be put onto a USB memory  stick. SAWStudio's use of computer resources is so low that I have successfully used a Celeron 400 equipped  desktop computer to run a full-on theatre restaurant show with music and sound effects, plus running the light  show with 3 light controllers chasing midi commands from the Midi WorkShop.
+
+That was fun stuff :)
+
+-----------------------
+
+So - back to the story of the midi-music revolution. First we'll take the example of a 4 piece band. If the  musicians are hot players and work well together, it's best to record them direct to tape or disk. What if  they're not so great live but have many excellent ideas? Should they sink back into the darkness just because  they, so far, haven't developed their playing skills to a high degree? I don't think so - and if it were the  case, there would be a hell of a lot of music that would never have come to our attention.
+
+Let's say the 4 piece band play well, but the drummer's kit sounds like a collection of rubbish tins. We could  have the band play live and "replace" the drum sounds later (probably keeping the cymbals), or we could  program a drum track with some great sounds and have the band follow the track.
+
+Maybe we find we need to add some brass later. No problem - play it live to disk or tape; or add another midi  track and play the notes into the track.
+Playing the notes into a midi track allows for much flexibility later at the mixing stage as notes can easily  be shifted anywhere you desire, and sounds can be altered, to suit blending into the mix, or to be wildly  different.
+
+Looking at another area - scoring music for film or TV - we see midi has all but replaced traditional  orchestral recording.
+Certainly nothing compares with a well recorded live orchestra but, as costs skyrocket, only big budget movies  are able to afford such productions leaving most of the production work these days to composers utilizing very  large midi systems.
+These composers will have thousands of top quality samples to draw from and may even augment their midi  composition with live strings or various other live instruments - but the basis of their composition will be  midi instruments.
+
+Another area is the lone musician. This scenario is where one person is composing and producing songs whereby  he/she might compose the whole backing using midi instruments and then, perhaps, record themselves singing  and/or playing guitar along with the backing.
+
+

@@ -1,0 +1,49 @@
+Title: 
+Computer Consulting Services: Protecting Client Data
+
+Word Count:
+392
+
+Summary:
+Computer consulting services who convert their clients to a dedicated server can sell them by the benefits. Password security, data protection and avoiding accidental reboots are all possible with a dedicated server installed by computer consulting services.
+
+
+Keywords:
+computer-consulting-services, computer consulting services
+
+
+Article Body:
+As a provider of computer consulting services, you should communicate to your clients that a dedicated server generally can enforce strong user passwords. This means your clients can:
+
+•	Force users to change passwords at predetermined intervals
+•	Prevent recycling of previously-chosen passwords
+•	Eliminate the use of blank passwords
+•	Enforce selection of passwords that are a mixture of both letters and numbers, as well as upper and lower case characters
+
+Protection Against "Accidental" Reboots
+
+When a PC is used in a peer-to-peer network as both a server and a workstation, sooner or later the server will get rebooted accidentally - no matter how careful the server’s primary user is.
+
+Let your computer consulting services clients know that whether the peer-to-peer server gets rebooted as a result of installing a new piece of software, or a buggy application with memory leaks causes system crashes, sooner or later their employees will be livid when the server goes down without warning.  
+
+This will likely cause corrupted data files and lost hours of collective work in progress. A dedicated server system is a simple way to prevent this enormous potential problem. 
+
+Centralized File Protection
+
+With a peer-to-peer network, servers tend to sprout up throughout your computer consulting services clients’ office as multiple end users set up file and printer shares on their own PCs.
+
+With a client/server network, files are centrally protected from data loss and corruption resulting from hardware faults, accidental deletion, power problems, hacking, sabotage, and virus threats. 
+
+Don't Forget Back Up Solutions
+
+As their computer consulting services provider, communicate to your clients that conversely in a peer-to-peer network environment, with decentralized file storage, they should consider how crucial data files will be backed up.
+
+Will data backup be a manual process? Will an external tape backup drive get passed from user to user (requiring each end user to take initiative)? 
+
+The Bottom Line about Computer Consulting Services
+
+When providing computer consulting services, have clients consider how often antivirus definitions will get updated on each server. And don’t forget to think about whether each peer-to-peer server has a UPS (battery backup unit) capable of unattended shutdown if power is lost, when no one is around to manually and safely shutdown the "server".
+
+Copyright MMI-MMVI, Small Biz Tech Talk. All Worldwide Rights Reserved. {Attention Publishers: Live hyperlink in author resource box required for copyright compliance}
+
+

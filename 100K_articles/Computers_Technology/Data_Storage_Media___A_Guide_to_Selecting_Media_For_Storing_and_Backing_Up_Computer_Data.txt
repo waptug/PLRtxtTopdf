@@ -1,0 +1,227 @@
+Title: 
+Data Storage Media – A Guide to Selecting Media For Storing and Backing Up Computer Data
+
+Word Count:
+1703
+
+Summary:
+Not so long ago computer data was backed up onto floppy disks. These days there is a bewildering range of different media options available for storing and backing up computer data. This article explains the differences between them so users can select the most appropriate for their needs.
+
+
+Keywords:
+computer data storage, media, backup, flash memory, zip drives, compact disks, cd, dvd
+
+
+Article Body:
+Data, or information stored on your computer, can either be held on fixed disk drives inside the computer or on removable media such as CD's that can be inserted and removed.  Removable media can be used to transfer files between computers or to backup the data already existing on fixed disk drives. There are three types of removable media: Magnetic, Optical and Flash. 
+
+Magnetic Storage  
+
+Magnetic Storage: Hard disks, floppy disks and digital audiotape are examples of Magnetic storage. They operate through a read/write head, which creates and reads magnetic impressions on the disk.
+
+The downside… 
+
+•	The magnetic impression only lasts for around five years
+•	The capacity of most removable magnetic disks is too low for many types of files
+
+
+Optical storage  
+
+Optical Storage holds information in digital form that is written and read by a laser. All CD and DVD devices are examples of this.
+
+The upside…  
+
+•	Increased capacity: one Optical disc can store the same amount of data as over 500 diskettes 
+•	 Durability: they last up to seven times as long as Magnetic forms of storage 
+
+
+
+Flash Memory (Solid-State Removable Storage) 
+
+Solid-state memory (or Flash memory) is a high-performance plug-and-play storage device that contains no moving parts. It is found in digital cameras, video game consoles and digital audio players. You can use it in the form of USB Flash Drives to transfer or backup data. Flash memory is small, light and fast.
+
+
+Backup 
+
+Backup is the copying of files onto portable media so that if your computer crashes, data won’t be lost in oblivion. Backup is usually routine in large businesses but is often neglected by individual users. Some suggest backing up data files and duplicating your hard drive weekly. It takes around 45 minutes to backup a 500-megabyte hard disk.
+
+There are two options- Local or Internet backup. The following is a list of Local backup options. Most of these also double as devices used to transfer data between computers.  
+•	Diskettes
+•	Zip Drives
+•	CD's
+•	DVD's
+•	Flash Drive
+
+
+Internet Backup 
+
+Another backup option is sending your files to an Internet site for safekeeping. If your computer crashes you can simply download them from the site. Here are a few examples of such sites: 
+
+Backup Defender- www.backupdefender.co.nz
+My Backup- www.mybackup.co.nz 
+
+N.B. The author does not recommend or endorse any of the above service providers.
+
+
+Diskettes and Zip Drives
+
+Diskette
+
+A Diskette is a 3.5-inch removable magnetic disk. The older version, the floppy disk, is 5.25 inches square and flexible. Copying to a diskette is quick and economical.
+
+Ideal for…
+
+•	Those who use their PC for personal finance - the diskette enables you to retrieve checkbook balances etc.
+•	Projects that need to be continuously backed up such as a film script, as it is a cheap alternative.
+
+Not so good for…
+
+•	Some newer computer and laptop models that do not have a diskette or floppy drive installed.
+•	Large amounts of data as diskettes don’t have a great storage capacity
+
+
+Zip Drives
+
+A Zip drive is a small, square shaped magnetic disk that is ideal for backing up your PC. The 100-megabyte size holds the equivalent of 70 floppy diskettes. They also come in a 250-megabyte size
+
+Ideal for…
+
+•	Duplicating your entire disc drive 
+•	Archiving 
+•	Storing graphic images or other large files  
+•	 Transferring large files
+•	Keeping certain data separate from files on your hard disk  
+
+
+The downside…
+
+•	They seem to be a fleeting technology - most computers do not have a Zip Disc drive installed and opinion varies on how long they will be around for.
+
+
+Compact Disks
+
+There are different standards of CD's that have different capabilities. Just to confuse us they are recognized by seemingly similar acronyms; CD-R, CD-RW, CD+RW, DDCD and E-CD. 
+
+CD-R
+
+CD-R (Compact Disc - Recordable) is a CD that can be recorded to only once. It usually holds 74 minutes of audio or 650 MB of data, although newer versions hold up to 80 minutes of audio (700 MB of data). If your PC has CD burning software and a compatible CD-R or CD-RW drive, the CD-R can be used in the same way as a diskette. However unlike a diskette it cannot be deleted or overwritten. Look out for CD-Rs that have an additional protective layer which make them less susceptible to damage caused through scratching.
+Ideal for…
+
+•	Making music CD's
+•	Storing photos
+•	Storing permanent data
+
+
+Not so good for…
+
+•	Transferring files as they can only be used once
+
+
+CD-RW/CD+RW
+
+A CD-RW (Compact Disc Rewritable) and CD+RW can be recorded onto as many times as desired. Data can be overwritten and erased. Other than this, the CD-RW is identical to the CD-R. If it wasn't for their finite durability CD-RW’s and CD+RW’s could be reused endlessly.
+
+Ideal for…
+
+•	Transferring files
+•	Holding temporary data
+
+Not so good for…
+
+•	Holding important permanent files-in case they are accidentally deleted 
+
+Double Density CD (DDCD)
+This disc has a much greater storage capacity than an average CD-R or CD-RW.
+
+
+Ideal for… 
+•	Backing up
+•	Storing archival data
+
+Enhanced CD
+Enhanced CD (E-CD) is an audio CD with CD-ROM data added. CD-ROM data is added in the space not taken by audio. Recording artists can use this to include videos, lyrics, interviews or promo material. The E-CD can be played on a CD player but to view additional material you need access to a multimedia-capable device, such as a CD-i player, DVD-ROM, or CD-ROM drive.
+
+
+Bridge Disks
+A CD-Bridge disc holds extra information on a CD-ROM XA track. The disc can be played on either a CD-i player attached to a television, or a CD-ROM XA drive attached to a computer. Software such as Photo or a Karaoke CD player can provide lots of fun with the Bridge Disk.
+
+DVD (Digital Versatile Disk): More than movies
+
+Although DVD's have become more associated with video, they can also hold audio and computer data; hence their name Digital Versatile Disk. Like the CD, a DVD is a 120-mm by 1.2mm thick disk. However the DVD has more tracks than a CD so holds far more data. CD's have an unvarying storage capacity of 750MB, whereas DVD's store up to 17GB.
+
+A range of acronyms is also used to distinguish between the different types and capabilities of DVD's available. These include DVD-ROM, DVD-R, DVD-RW, DVD+RW and DVD-Audio. 
+DVD-ROM
+
+DVD-ROM (Digital Versatile Disc - Read Only Memory) is similar to a movie DVD, but is designed for computers. The DVD-ROM stores data in the same way that the CD-ROM does and is used in the DVD-ROM drive of your PC. 
+
+
+The upside…
+
+•	Larger storage space – hold more data than a CD
+•	Can be filled with nearly everything; video, music or computer specific data
+•	A base speed of 1.32 megabytes/sec
+
+
+The downside…
+
+•	Many older computers do not have a DVD-Rom drive installed
+•	Can be recorded on only once
+
+
+DVD-Audio
+
+DVD-Audio (DVD-A) is designed for audio data and high-quality music. Its storage capacity is seven times that of a CD and provides at least twice the sound quality. Like the Enhanced CD, DVD-A can contain other data, providing the listener with extra information such as lyrics or images. DVD-A is predicted by many to replace the standard audio CD in the music industry.
+
+DVD-R 
+
+Like the CD-R, the DVD-R (Digital Versatile Disc-Recordable) can be recorded on once.
+
+
+The upside… 
+
+•	A DVD-R can contain an assortment of information; video, text, audio and computer data 
+
+•	A DVD-R can be played on your normal DVD video player but remember, if you have additional data not of the same format e.g. video and audio together, you will need a DVD-ROM or Multimedia player of some kind 
+
+•	A DVD-R is read at the same speed as commercially made DVD's
+
+
+DVD-RW and DVD+RW
+Similar to the CD-RW, a DVD-RW or DVD+RW (Digital Versatile Disc – Rewritable) can be recorded on, rewritten and erased multiple times. Other than this they are identical to the DVD-R.
+DVD minus and plus are just different versions with the same functionality.
+
+The Future of CD/DVD Storage
+
+The majority of the technology industry predicts that soon DVD’s, with their larger storage capacity and faster access time, will replace CD’s. DVD-ROM drives are likely to be sold with new computer systems in the way that CD-ROM drives once were. However we are always on the cusp of newer technologies, such as the HD-ROM.
+
+HD-ROM (High Density-Read Only Memory)
+
+HD-ROM uses a more precise particle beam to write data. This enables information to be written on more durable materials such as metal so storage is virtually permanent. HD-ROM has hundreds of times the storage capacity of the CD-ROM. 
+
+
+Flash Drives
+
+A Flash drive is a small portable memory stick that holds anywhere from 1Mb to 1GB of data. It is surprisingly lightweight and is often worn around the neck or carried as a funky key chain. They are compatible with any PC that has USB port and with Mac OS 9 and OS X, Windows 2000 and XP or Linux 2.4.17. 
+
+
+The upside…
+
+•	Durable - more so than CD's or DVD's
+•	No need for batteries or a separate power source  
+•	Convenient - your computer should recognize the additional drive as soon as you insert it into the USB port 
+•	Ideal for backup
+•	Larger storage capacity then many other portable devices
+•	More portable than ZIP drives, CD's and Diskettes
+•	Quick transfer rate (approx. 1Mb/sec)
+•	Edit, rewrite, delete as many times as desired 
+•	Help desk personnel can use Flash Drives as a portable toolkit that includes system updates and recovery tools.
+
+
+The downside…
+
+•	More expensive than other portable devices
+•	Viruses - The portability and compatibility of the Flash Drive increases the chance of spreading viruses. In many cases viruses carried by a Flash Drive will not be detected as most antivirus software is reactive and only recognizes known viruses
+•	Theft - a Flash Drive can make it easier for data to be stolen from an unlocked PC  
+•	Little Security - the size and weight of the Flash drive makes it very easy to misplace.  Most have little or no security features and data is accessed easily. Some Flash Drives do have built in security; either a password or in some cases a finger print system - but this comes at a price.
+
+

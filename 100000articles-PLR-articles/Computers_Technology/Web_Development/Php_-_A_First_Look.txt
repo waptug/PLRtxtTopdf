@@ -1,0 +1,31 @@
+Title: 
+Php - A First Look
+
+Word Count:
+452
+
+Summary:
+PHP: Hypertext Processor is a server-side web programming language that blends seamlessly with HTML. PHP can run on both Unix and Windows servers, which makes it more accessible than its Windows counterpart, Active Server Pages (ASP). Most full-service web design firms will have at least one PHP guru.
+
+PHP uses are widespread, and can include any kind of server functionality that takes user’s input and displays or manipulates the input. Some pertinent examples of such work ...
+
+
+Keywords:
+php script, php scripts, php
+
+
+Article Body:
+PHP: Hypertext Processor is a server-side web programming language that blends seamlessly with HTML. PHP can run on both Unix and Windows servers, which makes it more accessible than its Windows counterpart, Active Server Pages (ASP). Most full-service web design firms will have at least one PHP guru.
+
+PHP uses are widespread, and can include any kind of server functionality that takes user’s input and displays or manipulates the input. Some pertinent examples of such work are message boards, auction sites, shopping carts, and more. This synopsis is meant to serve only as a gateway to other works; although the main goal is to give a reader enough information so they can make educated decisions about what their web developer should do. For those looking to get into PHP, there are many free tutorials and primers out there:
+
+http://www.4webhelp.net/tutorials/php/basics.php, is a pertinent example
+PHP generally uses the mySQL database system. MySQL is a server-side system that is included on many Unix, and some Windows servers.
+
+Once a user knows the basics of PHP and its capacities, he can work with plenty of open-source scripts. Without having to actually build a script from scratch, one can get a fully functional website with a custom design (assuming the designer has HTML/graphics knowledge). Two of the most popular open-source (free) scripts for PHP/mySQL are PHPBB and osCommerce. PHPBB is forum software that is fairly common. It has all the main features of a message board and can have mods (modules) added for more features. OsCommerce is a shopping cart script that has support for many payment gateways, including some free ones like Paypal. The great thing about scripts like these is that they have a full community of developers – both beginners and professionals – that are there to help with installation and modification.
+
+However, if a user doesn’t feel that he’s ready to take the plunge and work with PHP code, most web design firms are more than willing to work with open-source scripts. Others even have their own pre-made, or can work from scratch for an upgraded fee. Sometimes, an open source script simply won’t suffice because a user needs something tailored to his needs. Larger-scale online business and e-treps require capabilities that may be out of the reach of osCommerce.
+
+To conclude, PHP is a server-side scripting language that offers widespread capabilities for web developers looking to interact with their viewers. It may take years to master a technology like this, but there are plenty of great deals out there for pre-made scripts or from-scratch technologies. This story served as an introduction to PHP, later articles will go into further detail.
+
+

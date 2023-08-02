@@ -1,0 +1,26 @@
+Title: 
+How to replace a power supply
+
+Word Count:
+206
+
+Summary:
+A bad or failing power supply can cause many problems such as your computer rebooting itself randomly or not coming on at all. Here we will explain how to replace the power supply and what to look for in a new one.
+
+
+Keywords:
+Power supply, random reboots, computer not starting
+
+
+Article Body:
+The power supply is the component that powers your devices in your computer. It powers things like the hard drive, CDROM and CPU. There may come a time when you have to replace it.
+
+Symptoms of a power supply going bad can include random reboots, random crashes the computer not starting at all.
+
+When replacing your power supply there are a couple of thing to take into consideration. The most important thing to do is to get the right one for your computer. Your computer will most likely use the ATX form factor. You also need to make sure you get a power supply with enough power for your computer's hardware. 300-400 watts is sufficient for most computers. Make sure the power supply has enough power connections and the right types of connections.
+
+Replacing the power supply is a pretty easy job. Make sure you unplug the power cord first! Then you can open the case and take the power connections off of the devices and motherboard. Then you can take out the four screws on the outside back of the case and pull the power supply out from the inside. To install the new one just do the opposite. 
+
+
+
+

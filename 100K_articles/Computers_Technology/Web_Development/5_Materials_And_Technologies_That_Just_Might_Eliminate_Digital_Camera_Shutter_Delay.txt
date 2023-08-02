@@ -1,0 +1,98 @@
+Title: 
+5 Materials And Technologies That Just Might Eliminate Digital Camera Shutter Delay
+
+Word Count:
+957
+
+Summary:
+Bob pushed the shutter release button and…NOTHING HAPPENED. The football passed into his son's hands and the actual photo he took was one of a cheerleader's pom-pom. Bob missed the touchdown too. He resisted an insane urge to slam the camera to the ground and jump on it.
+
+This was his first digital camera, and Bob had just experienced an unpleasant surprise. He had used film cameras all his life, but when his Yashica went into the shop a friend loaned him a digital camera. ...
+
+
+Keywords:
+digital camera, digital camera shutter delay, digital camera review, camera digital rating
+
+
+Article Body:
+Bob pushed the shutter release button and…NOTHING HAPPENED. The football passed into his son's hands and the actual photo he took was one of a cheerleader's pom-pom. Bob missed the touchdown too. He resisted an insane urge to slam the camera to the ground and jump on it.
+
+This was his first digital camera, and Bob had just experienced an unpleasant surprise. He had used film cameras all his life, but when his Yashica went into the shop a friend loaned him a digital camera. He naively decided to take some action shots and discovered the most maddening "feature" of digital cameras – the shutter delay.
+
+MADDENING AND FRUSTRATING
+
+Articles on this subject have attributed shutter delay to:
+
+1. The camera's focus system
+
+2. The time it takes the camera to digitally process the image
+
+3. Reaction time of the photographer
+
+Numbers one and three are lag times that most people using digital cameras are accustomed to. Most have used a film camera and know it needs a few milliseconds to focus.
+
+The no-brainer solution is to reduce the aperture of the lens to increase depth of field, or aim the camera at the object you wish to be in focus and depress the shutter button half way in order to "tell" the camera what to focus on, then move the camera to center the image and depress it the rest of the way.
+
+As far as human reaction time, well, it hasn't really changed much for users of film cameras, and people experienced in taking action shots usually get what they want.
+
+So let's look at number 2, the time it takes to process the picture.
+
+TIME TO DO THE PROCESSING
+
+Processing the picture (so the camera can be ready for the next one) comes in several steps to move it from the image sensor to flash card storage:
+
+1. Color corrections. The camera has to examine each and every Charge Couple Device (CCD) element on the photo sensor. It adds green, blue, and red to achieve the right color balance. For a 3 mega pixel camera, the processor has to make 9 million calculations.
+
+2. Sharpening. This boosts the contrast by detecting and sharpening edges.
+
+3. Compression. This process converts the 12 to 14 bits of each CCD sensor to 16 bits by "padding" the information and compressing it to 8 bits. This compresses the file size to 9 megabytes.
+
+These steps require a tremendous amount of computational time. No wonder Bob missed his shot!
+
+CATCHING THE ACTION
+
+There are two ways of capturing action:
+
+1. The "consecutive mode". If the camera has this mode, you can take a series of rapid shots moving through the event. This requires a camera with a large ‘buffer" to hold photos for processing.
+
+2. Anticipating shots by depressing and holding down the shutter release prior to the event. This requires an ability to predict the future, something most of us don't possess.
+
+THE FUTURE OF FASTER SHOOTING
+
+Obviously this would all be simplified if micro processing were faster. Even with large buffers, the speed in which data is transmitted to the processor is prohibited by the rate at which data is conveyed from the CCD. Micro processing speed is the next bottleneck.
+
+Faster clock rates and data transfer speeds would reduce or even eliminate "shutter lag" time. There are several technologies in the wings that offer hope:
+
+1. Nanotube and nanowire technologies.  These are both the offspring of "nanotechnology", the ability to make tiny machines at the "nano" level, a billionth of a meter in size rather than a millionth of a meter (micrometer) and offer hope for a 500 GHz clock rate or more.
+
+2. DNA Yes, you heard me right. Computing based on DNA strands in which information is stored and processed.
+
+3. Other materials
+
+• Gallium Arsenide with much a faster speed has been used for years for military purposes.
+
+• Silicon-Germanium chips increase the transfer of light signals to silicon. These traditionally have worked best at ultra cold temperatures, but many computer simulations have shown that they may be made to approach 1000 GHz (1 THz) at room temperature.
+
+• Indium-antimonide. Much faster than silicon
+
+•Optical transistors. A glass material known as chalcogenide becomes a switch as its refracting properties are changed. No need to translate those photons into anything else.
+
+• Coated Viruses. The latest research involves coating viruses with a conducting material. Much higher speeds at the molecular level can be obtained. This will give a new meaning to the term "computer virus".
+
+4. Parallel Processing. As we've noticed lately with the war between Intel and AMD over the number of parallel processors crammed into a CPU, digital camera processing would benefit from parallel processors handling the focussing, sharpening and squeezing.
+
+5. Improvement in instructional efficiency by reducing the lines of code would make the whole process more efficient.
+
+HOLD ON AND WAIT FOR THE FUTURE
+
+The REAL solution to this maddening shutter delay appears to be in the material the processor is constructed of, as well as advancements in the software.
+
+But we've got awhile to wait for it. Although a few alternate materials have been around for awhile, everything else is still in the research and development phase. Even when it finally trickles out of the labs, it will probably make your future digital camera cost around $10000 - $15000.
+
+Quite a price tag for the ability to take pictures as fast as a film camera! Still…
+
+Except for the lag, the digital camera has it all over film cameras, once the photo is captured by the memory card. The new technology will be worth the wait.
+
+Digital camera owners are known for their ability to wait…as they desperately punch the shutter release trying to grab the fleeting smile of their new baby, or the football that lands in his hands eighteen years later, when he scores the winning touchdown.
+
+

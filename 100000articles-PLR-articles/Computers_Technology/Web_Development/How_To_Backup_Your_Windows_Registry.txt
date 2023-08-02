@@ -1,0 +1,42 @@
+Title: 
+How To Backup Your Windows Registry
+
+Word Count:
+461
+
+Summary:
+To put it simply, a windows registry is basically just a huge database of records. This database stores every single hardware & software configuration, settings on your computer. It is organized in a hierarchical model and can contain hundreds of thousands of entries.
+
+You usually will not need to fix or clean the windows registry when your computer is new. However, after a period of time depending on the usage of your computer, you may need to perform some registry cleanin...
+
+
+Keywords:
+backup, windows registry, pc slow, computer slow, pc crash, repair windows registry, BSOD, slow pc
+
+
+Article Body:
+To put it simply, a windows registry is basically just a huge database of records. This database stores every single hardware & software configuration, settings on your computer. It is organized in a hierarchical model and can contain hundreds of thousands of entries.
+
+You usually will not need to fix or clean the windows registry when your computer is new. However, after a period of time depending on the usage of your computer, you may need to perform some registry cleaning to remove unnecessary and obsolete entries.
+
+The windows registry grows in size primarily because of new hardware and software programs being installed on the computer. Even a simple plugin for your internet explorer such as flash or quicktime is recorded in the windows registry.
+
+There are some software programs and drivers that do not remove the entries from the windows registry when it is being uninstalled. As a result, they become obsolete and taking up memory space on your computer.
+
+The windows registry contains thousands of entries which can be difficult to understand and sometimes unreadable and I would recommend not to clean the windows registry manually unless you know what you are doing.
+
+I recommend using a registry cleaner to do the job such as error doctor as it do it faster than a human can.
+
+Nevertheless, whether you are cleaning the windows registry manually or using a software, you must back up the registry first before cleaning. It is actually a good idea to backup the windows registry periodically, the same thing you do with your backup.
+
+To backup your registry in windows XP/2000, click on ‘start’, click on ‘run’ and type in ‘regedit’. The windows registry will open. Then click on ‘File’ and select ‘Export’. Another windows will open and you can specify the name and the location to save the registry.
+
+There are 2 important points to note here. Make sure the file type is set to ‘Registration Files (*.reg)’. You do not want to want to save as txt as you will not be able to import the registry file in the event that your windows registry is corrupted.
+
+The second point is to click on the radio button ‘All’ in the export range options at the bottom of the windows. You want to backup the entire registry file, not just part of it.
+
+It is also recommended you backup the registry file to another computer or to a diskette or CD. Sometimes when the windows registry is corrupted, you may not be able to boot into windows at all.
+
+The windows registry is one of the most critical files on your computer, so make sure you backup a copy and only edit or remove an entry in the registry if you know what you are doing.
+
+

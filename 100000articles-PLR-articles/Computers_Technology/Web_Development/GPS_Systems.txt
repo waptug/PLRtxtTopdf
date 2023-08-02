@@ -1,0 +1,46 @@
+Title: 
+GPS Systems
+
+Word Count:
+663
+
+Summary:
+Are you one of those people who would rather drive around town for hours than stop and ask for directions? If so, a Global positioning system, or GPS, could be the perfect tool for you.
+
+A GPS is an operational navigational system that employs the use of navigational satellites. In other words, it tracks an individual's location or provides direction, all by using an existing satellite system. GPS units are also capable of providing real time reference on earth, or within i...
+
+
+Keywords:
+
+
+
+Article Body:
+Are you one of those people who would rather drive around town for hours than stop and ask for directions? If so, a Global positioning system, or GPS, could be the perfect tool for you.
+
+A GPS is an operational navigational system that employs the use of navigational satellites. In other words, it tracks an individual's location or provides direction, all by using an existing satellite system. GPS units are also capable of providing real time reference on earth, or within its orbit.
+
+The satellite navigation system was implemented and first used by the United States of America's Department of the Defense. Later, the system was adopted for use by other countries including Europe (Galileo) and Russia (GLONASS). In the United States, any US citizen may use the navigational system, free of charge.
+
+The satellite navigational system is primarily divided into three segments:
+
+* Space: As the name suggests, the space segment works from outer space. It operates through a GPS satellite constellation, located in an Intermediate Circular Orbit.
+
+* Control: The control segment of a satellite navigational system is comprised entirely of control stations that are located on earth. These terrestrial control stations are scattered at locations around the world. These control the flight paths of the various GPS satellites, and synchronize the atomic clocks in the satellite. Ground stations also monitor the uploading of data through the satellite transmissions.
+
+* User: The satellite navigational system is mainly made up of civilian and military GPS receivers.
+
+A GPS is technically comprised of 24 satellites, the minimum number of satellites in a constellation. These satellites orbit around six orbital planes, twice in every twenty-four hour period. Each satellite carries an atomic clock, which continuously transmits precise time to the ground observatories located in the Earth. Additionally, the satellites send electronic messages to the earth. These messages may include data on precise time based upon the onboard satellite clocks, or information on their own orbital systems.
+
+It's not necessary for the user to be equipped with the precise clock, however a good short term clock may be required in order to receive the satellite transmissions best used in determining the exact location on earth.  Different satellites employ various sequencing modes, allowing the transmission of messages to be received by the user from satellites using similar frequencies.
+
+The primary GPS system was created to provide control over the military forces in the United States. This allowed for improved command capability, as well as the targeting and manipulation of missiles, smart bombs and other forms of ammunition. The satellites are also able to detect nuclear detonators.
+
+Civilian users can also access the GPS system through their GPS receivers and GPS system software. Many cities in highly urbanized countries have improved the lives of their citizens where access is available to the free worldwide GPS Standard Positioning Service. The transportation sector has greatly benefited from the system, as many planes, ships and cars employ GPS systems for navigation. Hikers, glider pilots, mine truck drivers and everyday travelers enjoy access to the GPS system through low cost GPS receivers, ranging in price from $100 to $200. GPS receivers that are more precise are widely used by land surveyors for measuring land surface area, locating boundaries and surveying markers.
+
+Time code generators also rely on the GPS system to acquire accurate time for precisely recording events in real time. Developers are also working on specially created GPS systems that will help visually impaired individuals.
+
+Another, more trendy use of GPS receivers is the widely popular hobby of Geocaching. Children and adults use hand held GPS receivers to navigate designated sites and locate hidden objects. There are countless Geocaches hidden all over the world, with coordinates available on Geocaching websites.
+
+The GPS system has brought both excitement and simplicity to the lives of countless people, all over the world. Despite the complexity of the system, anyone with a GPS receiver can use the service, free of charge. So now you'll have no excuse for getting lost.
+
+

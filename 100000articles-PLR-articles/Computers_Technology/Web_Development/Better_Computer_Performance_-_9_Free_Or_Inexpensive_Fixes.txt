@@ -1,0 +1,56 @@
+Title: 
+Better Computer Performance - 9 Free Or Inexpensive Fixes
+
+Word Count:
+695
+
+Summary:
+Poor computer performance by your Windows-based machine can sneak up on you gradually. You may find its performance deteriorating increasingly until one day you realize you must fix it or buy a new one. Signs of poor performance can include applications running very slowly, programs closing or freezing up suddenly, and a generally slower response time to OS (operating system)-related commands. I have compiled 9 fixes for you here that you can leverage right now to greatly imp...
+
+
+Keywords:
+better computer performance, improved computer performance, registry, registry cleaner
+
+
+Article Body:
+Poor computer performance by your Windows-based machine can sneak up on you gradually. You may find its performance deteriorating increasingly until one day you realize you must fix it or buy a new one. Signs of poor performance can include applications running very slowly, programs closing or freezing up suddenly, and a generally slower response time to OS (operating system)-related commands. I have compiled 9 fixes for you here that you can leverage right now to greatly improve your computer's performance.
+
+Fix #1: Download and run MS Service Pack 2:
+
+Every operating system requires patches and upgrades by its maker from time-to-time, with Microsoft XP being no exception. While Service Pack 2 was released in 2002, some people with older systems are still not running it: make sure your computer is. You can download it FREE from Microsoft's Web site.
+
+Fix #2: Run the Disk Cleanup utility:
+
+Your computer likely has a number of unused and unneeded files that take up valuable space on your hard drive and slow performance. Run your FREE, built-in Disk Cleanup utility to automatically remove these files. Find it by going to: Start | Programs | Accessories | System Tools | Disk Cleanup and following the prompts.
+
+Fix #3: Defragment your hard drive:
+
+Over time, your computer will store files in an increasingly inefficient manner on your hard drive, affecting file retrieval times and other performance factors. To fix this, you need to defragment your hard disk drive. To do this for FREE, just go to: Start | Programs | Accessories | System Tools | Disk Defragmenter. First, highlight the drive you want to clean up (e.g., C drive) and choose Analyze. Once complete, choose Defragment. Note that the defragmentation process could take up to an hour or more, so do this during a time when you can step away from your computer.
+
+Fix #4: Run an anti-virus tool:
+
+Computer viruses are malicious programs that drastically affect your computer's performance, either all at once or insidiously over time. You can stop a virus attack by installing and running anti-virus software which performs regular scans, locates the offending viruses and quarantines them.
+
+Fix #5: Clean your registry:
+
+Your computer's registry is a tool that most non-computer specialists never see but which is vitally important to computer operations. Your registry stores settings and options for your hardware, operating system, and other software. Unfortunately, given its fundamental role in the performance of your system, your registry is often the target of attack or infection. To thoroughly and automatically clean your registry, run a regular registry scan using a registry cleaning tool. I recommend RegCure, which recently found 1,626 problems with my registry (ugh!), is cheap and easy to use.
+
+Fix #6: Run anti-spyware software:
+
+Spyware is computer software that installs itself in your computer and performs a number of unwanted functions, including monitoring your computer usage and interfere with your control.
+
+It represents a real threat and has become a significant problem in recent years. Fortunately, fixes are easy to find and include a number of free and inexpensive anti-spyware programs. Try SpyBot Search & Destroy. Get it FREE online.
+
+Fix #7: Increase your computer's memory:
+
+Today's applications require more and more memory (RAM) to run. If your computer is more than two years old or if you selected the minimal memory option upon purchase, you might benefit from adding another 1 GB or more to your computer. Check online or at your local computer dealer for pricing.
+
+Fix #8: Clean your hard drive:
+
+More comprehensive than the Disk Utility tool introduced above, cleaning your hard drive with professional cleaning software is a great way to improve performance. Try CCleaner for FREE by doing an online search.
+
+Fix #9: As a last resort, re-format your hard drive:
+
+If after trying all of the above items and your computer still performs poorly, a last resort is to completely reformat your hard drive. Warning: proceed with caution since this action will erase your entire hard drive, including your operating system (OS)! If you decide to take this route, consult an online tutorial for how-to steps. At minimum, remember two things: be sure to back up all of your files and applications and retain a copy of your OS on CD so that you can re-install it later.
+
+

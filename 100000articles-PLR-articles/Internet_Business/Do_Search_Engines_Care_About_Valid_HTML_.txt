@@ -1,0 +1,34 @@
+Title: 
+Do Search Engines Care About Valid HTML?
+
+Word Count:
+542
+
+Summary:
+Like most web developers, I’ve heard a lot about the importance of valid html recently. I’ve read about how it makes it easier for people with disabilities to access your site, how it’s more stable for browsers, and how it will make your site easier to be indexed by the search engines.
+
+So when I set out to design my most recent site, I made sure that I validated each and every page of the site. But then I got to thinking – while it may make my site easier to index, does th...
+
+
+Keywords:
+valid html, seo, search engines
+
+
+Article Body:
+Like most web developers, I’ve heard a lot about the importance of valid html recently. I’ve read about how it makes it easier for people with disabilities to access your site, how it’s more stable for browsers, and how it will make your site easier to be indexed by the search engines.
+
+So when I set out to design my most recent site, I made sure that I validated each and every page of the site. But then I got to thinking – while it may make my site easier to index, does that mean that it will improve my search engine rankings? How many of the top sites have valid html?
+
+To get a feel for how much value the search engines place on being html validated, I decided to do a little experiment. I started by downloading the handy Firefox HTML Validator Extension (http://users.skynet.be/mgueury/mozilla/) that shows in the corner of the browser whether or not the current page you are on is valid html. It shows a green check when the page is valid, an exclamation point when there are warnings, and a red x when there are serious errors.
+
+I decided to use Yahoo! Buzz Index to determine the top 5 most searched terms for the day, which happened to be “World Cup 2006”, “WWE”, “FIFA”, “Shakira”, and “Paris Hilton”. I then searched each term in the big three search engines (Google, Yahoo!, and MSN) and checked the top 10 results for each with the validator. That gave me 150 of the most important data points on the web for that day.
+
+The results were particularly shocking to me – only 7 of the 150 resulting pages had valid html (4.7%). 97 of the 150 had warnings (64.7%) while 46 of the 150 received the red x (30.7%). The results were pretty much independent of search engine or term. Google had only 4 out of 50 results validate (8%), MSN had 3 of 50 (6%), and Yahoo! had none. The term with the most valid results was “Paris Hilton” which turned up 3 of the 7 valid pages. Now I realize that this isn’t a completely exhaustive study, but it at least shows that valid html doesn’t seem to be much of a factor for the top searches on the top search engines.
+
+Even more surprising was that none of the three search engines home pages validated! How important is valid html if Google, Yahoo!, and MSN don’t even practice it themselves? It should be noted, however, that MSN’s results page was valid html. Yahoo’s homepage had 154 warnings, MSN’s had 65, and Google’s had 22. Google’s search results page not only didn’t validate, it had 6 errors!
+
+In perusing the web I also noticed that immensely popular sites like ESPN.com, IMDB, and MySpace don’t validate.  So what is one to conclude from all of this?
+
+It’s reasonable to conclude that at this time valid html isn’t going to help you improve your search position. If it has any impact on results, it is minimal compared to other factors. The other reasons to use valid html are strong and I would still recommend all developers begin validating their sites; just don’t expect that doing it will catapult you up the search rankings right now.
+
+

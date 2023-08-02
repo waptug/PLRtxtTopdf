@@ -1,0 +1,38 @@
+Title: 
+Benefits Of Digital Linear Tape Drives
+
+Word Count:
+691
+
+Summary:
+In our world where data is power, large companies put a high priority on their data back-up and data storage. Unfortunately, this kind of data storage is typically very expensive and impractical for the small home PC user. Luckily, with the introduction of two new formats of digital storage that are now available, there is a solution. With the DLT or Digital Linear Tape and the LTO or Linear Tape Open, the need for data storage has far exceeded past levels (as compared to pre...
+
+
+Keywords:
+dlt drive quantum sales sdlt,dlt drive quantum repair sdlt,dlt tape drive,dlt drive,40 80 compaq dlt drive driver tape
+
+
+Article Body:
+In our world where data is power, large companies put a high priority on their data back-up and data storage. Unfortunately, this kind of data storage is typically very expensive and impractical for the small home PC user. Luckily, with the introduction of two new formats of digital storage that are now available, there is a solution. With the DLT or Digital Linear Tape and the LTO or Linear Tape Open, the need for data storage has far exceeded past levels (as compared to previous had 8mm or DDS backups). 
+
+1. Recent Boost In Performance
+
+The Digital Linear Tape or DLT systems have been available for use to everyone since 1985, and recent increases in both speed and capacity has given this technology a new lease on life. In fact, they have been the leading technology in the past several years for small to medium-sized systems. The only competitors for DLT were DDS or DAT tapes. The advantage of DLT tapes above these two leading competitors is that the tape heads had a tendency to drift that meant technicians had to constantly monitor them to ensure storage. Unlike DLT reliability that is based on a straight up and down recording mode.
+
+2. Super DLT
+
+A newer version with higher capacity and improved features is called Super DLT (SDLT). Super DLT uses a new recording format, but it also maintains a limited form of backwards compatibility with previous iterations of DLT. It incorporates the ability to read older tapes, although it cannot write to them. This means it would probably be quite useful in allowing organizations to maintain their present archives in a useable form. This would mean that there can be a very big saving both in time and money for companies because older tapes don't have to be re-recorded onto newer ones. 
+
+4. Tremendous Boost In Speed And Capacity
+
+With the introduction of Super DLT earlier this year, the capacity has soared as much as 110 gigabytes on one cartridge, at a speed of 10 megabytes per second. A tremendous boost in performance was seen with the speed of backup doubled, and capacity more than doubled, the technology is now capable to handle large systems and networks that DLT previously couldn't handle. Competing technologies can offer very fast backups, but the tapes themselves contain very little data - hundreds of megabytes as opposed to the hundreds of gigabytes that DLT offers. 
+
+5. Linear Tape Open
+
+Another technology that has recently emerged that is comparable, if not a bit more advanced than DLT is LTO or Linear Tape Open. A consortium product from Seagate, IBM and Hewlett-Packard. LTO can put 100 gigabytes on a cartridge and can store data at speeds up to 15 megabytes per second. But there are a lot who still prefer to use the more known and reliable Super DLT. There are very cautious system administrators who don't wish to try LTO, one technician even said that DLT is a more than acceptable choice: Thirty million cartridges and a million tape drives can't be wrong. Of course, LTO can’t be totally neglected. Of course, Super DLT uses a good deal of new technology as well, so even though LTO is a completely new technology, it has able to pave a nice pathway for it that may help establish itself for future preference.
+
+6. Long Life
+
+These kinds of storage media are guaranteed to last for 30 years of data retention under very specific environmental conditions; however, mishandling can easily damage these storage devices for example, dropping or improper packaging during shipment may easily damage or destroy the device’s capability to store data properly. With today's ever increasing demands for storage capacity because of our need to protect and store our data, it is possible that there is going to be more pressure on hardware developers to produce a lot more faster and bigger storage and backup devices to back up, store, protect and retrieve important data be it business or personal. Now both medium and small size users are given a choice: Super DLT, based on generations of thorough development and refinement, or LTO, a new technology from a high-powered and stable group of advance technological companies.
+
+

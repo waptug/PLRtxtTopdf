@@ -1,0 +1,73 @@
+Title: 
+Cisco CCNA / CCNP Certification:  OSPF E2 vs. E1 Routes
+
+Word Count:
+504
+
+Summary:
+When preparing for CCNA and CCNP success, you’ve got to know the many details of OSPF.   Learn about these two vital OSPF route types and how they differ from each other in this free tutorial from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+ccnp, bsci, ospf, asbr, e1, e2, route, difference, bryant, 12933, ccna, icnd, intro, pass, exam,free
+
+
+Article Body:
+OSPF is a major topic on both the CCNA and CCNP exams, and it's also the topic that requires the most attention to detail.  Where dynamic routing protocols such as RIP and IGRP have only one router type, a look at a Cisco routing table shows several different OSPF route types.
+R1#show ip route
+Codes: C - connected, S - static, I - IGRP, R - RIP, M - mobile, B - BGP
+       D - EIGRP, EX - EIGRP external, O - OSPF, IA - OSPF inter area
+       N1 - OSPF NSSA external type 1, N2 - OSPF NSSA external type 2
+       E1 - OSPF external type 1, E2 - OSPF external type 2, E - EGP
+In this tutorial, we'll take a look at the difference between two of these route types, E1 and E2.
+Route redistribution is the process of taking routes learned via one routing protocol and injecting those routes into another routing domain.  (Static and connected routes can also be redistributed.)  When a router running OSPF takes routes learned by another routing protocol and makes them available to the other OSPF-enabled routers it's communicating with, that router becomes an Autonomous System Border Router (ASBR).  
+Let's work with an example where R1 is running both OSPF and RIP.  R4 is in the same OSPF domain as R1, and we want R4 to learn the routes that R1 is learning via RIP.  This means we have to perform route redistribution on the ASBR.  The routes that are being redistributed from RIP into OSPF will appear as E2 routes on R4:
+R4#show ip route ospf
+
+O E2    5.1.1.1 [110/20] via 172.34.34.3, 00:33:21, Ethernet0
+
+     6.0.0.0/32 is subnetted, 1 subnets
+
+O E2    6.1.1.1 [110/20] via 172.34.34.3, 00:33:21, Ethernet0
+
+     172.12.0.0/16 is variably subnetted, 2 subnets, 2 masks
+
+O E2    172.12.21.0/30 [110/20] via 172.34.34.3, 00:33:32, 
+Ethernet0
+
+O E2    7.1.1.1 [110/20] via 172.34.34.3, 00:33:21, Ethernet0
+
+     15.0.0.0/24 is subnetted, 1 subnets
+
+O E2    15.1.1.0 [110/20] via 172.34.34.3, 00:33:32, Ethernet0
+
+E2 is the default route type for routes learned via redistribution.  The key with E2 routes is that the cost of these routes reflects only the cost of the path from the ASBR to the final destination; the cost of the path from R4 to R1 is not reflected in this cost.  (Remember that OSPF's metric for a path is referred to as "cost".) 
+In this example, we want the cost of the routes to reflect the entire path, not just the path between the ASBR and the destination network.  To do so, the routes must be redistributed into OSPF as E1 routes on the ASBR, as shown here. 
+R1#conf t
+
+Enter configuration commands, one per line.  End with CNTL/Z.
+
+R1(config)#router ospf 1
+
+R1(config-router)#redistribute rip subnets metric-type 1
+
+Now on R4, the routes appear as E1 routes and have a larger metric, since the entire path cost is now reflected in the routing table.
+O E1    5.1.1.1 [110/94] via 172.34.34.3, 00:33:21, Ethernet0
+
+     6.0.0.0/32 is subnetted, 1 subnets
+
+O E1   6.1.1.1 [110/100] via 172.34.34.3, 00:33:21, Ethernet0
+
+     172.12.0.0/16 is variably subnetted, 2 subnets, 2 masks
+
+O E1    172.12.21.0/30 [110/94] via 172.34.34.3, 00:33:32, Ethernet0
+
+O E1    7.1.1.1 [110/94] via 172.34.34.3, 00:33:21, Ethernet0
+
+     15.0.0.0/24 is subnetted, 1 subnets
+
+O E1    15.1.1.0 [110/94] via 172.34.34.3, 00:33:32, Ethernet0
+
+Knowing the difference between E1 and E2 routes is vital for CCNP exam success, as well as fully understanding a production router's routing table.   Good luck in your studies!
+
+

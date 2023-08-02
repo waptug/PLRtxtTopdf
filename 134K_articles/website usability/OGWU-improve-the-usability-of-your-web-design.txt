@@ -1,0 +1,51 @@
+Achieving Better Website Usability
+
+Websites are intended to be seen and use by Internet surfers. Not many people realize the wideness of the range of the users of the Internet. 
+
+A website’s usability is one of the key determinants of its success in fulfilling its main goal, whether it is made for information dissemination, business or communication. Usability is all about the relationship between a website and its users. Websites should be seen as tools which will allow its users to do their tasks and help them achieve results. 
+
+The issue of usability is very pertinent and is treated with much attention today. There have been moves (including legal ones) that aim to push web development towards usability. There are many people who are affected with some kind of disability or impairment which hinders them from fully enjoying the different aspects of life including the use of the Internet. The Internet, with it’s continuous development towards the better, has been a great instrument in providing people, especially those with impairments to be able to have avenues for accessing information, communicating and transacting. This is why the issue of website usability is a much talked about issue.
+
+Usability is important because it can be the difference between accurately performing a task or not, between enjoying the whole process or being very frustrated. Usability is also important for the developers since it can be one of the key factors in determining the success of a system. It is also important for businesses which thrive in the Internet because a low level of usability will definitely drive the customers away. Most importantly, it is important for people who have impairments because they are the most vulnerable group in terms of accessing the different avenues that the Internet provide.
+
+Components of Usability
+
+A website’s usability is one of the key determinants of a website’s popularity. A recent survey revealed that the “ease of use” with regards to websites makes 74% of website visitors want to come back.
+
+There are different components of usability. These are:
+
+-Efficiency
+This refers to how easily the users can perform their tasks after they have had a general feeling for the website.
+
+-Learning curve
+Can the structure of the website easily be learned by the users?
+
+-Over-all perception
+Is the website pleasant to the eyes and can easily be accessed by people viewing it?
+
+A website that is usable will be able to deliver a lot of benefits not only to the viewers but also to the developers. Here are some of the most important benefits that can be achieved by improving the usability of a website.
+
+-user satisfaction
+-productivity and success
+-avoidance of long-term costs of development
+-improved competitiveness of the website
+
+Now, we go to the ways on how to the basic concepts that should be kept in mind in developing websites to achieve usability.
+
+1) Give information about the website
+
+Many website developers forget the importance of putting some information about the website because they assume that people will be able to figure that themselves. Many people will be giving negative feedback if they don’t get what they want (or what they think they want) from the website. A portion of the homepage can be used to relay this information or a separate section “about the site” can be added.
+
+2) Provision of a sitemap
+
+Many people are not very familiar on navigating through the different layers of a website and therefore they result to the sitemap to be able to find what they are looking for. Sitemaps provide a skeleton image of the whole site and cramp the pertinent sections into one single page.
+
+3) Loading time
+
+If people are to be asked to choose between a good-looking site which takes too much time to load and a basic site which loads quickly, most of the time, the second one will win. The use of large flash programs, graphics and the inappropriate placing of too much information should be avoided to improve the usability of a website.
+
+4) Quality content and readability
+
+People visit website to be able to gather information and they will leave immediately if the content are either: of poor quality or has poor readability. Make sure that the contents are written well and are structured to be easily read.
+
+These are just some of the ways on how a developer can improve the usability of his website. The development of websites is pushing forward to usability and every single website should take this in mind.

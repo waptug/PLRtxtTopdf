@@ -1,0 +1,76 @@
+Title: 
+How To Properly Install A New Motherboard
+
+Word Count:
+903
+
+Summary:
+The motherboard is the most expensive computer component so be sure to treat and handle it with great care.There are a few things you should do to ensure no motherboard damage occur as you prepare for the installation.
+
+Be sure you have a clean,well lit,and level work place.Relax your mind and make this task both fun and educational.You will need such tools as a phillips screwdriver,maybe some needle nose pliers and the manual that came with the board.
+
+Most importantly y...
+
+
+Keywords:
+computer repair,computer upgrades,computer training,software
+
+
+Article Body:
+The motherboard is the most expensive computer component so be sure to treat and handle it with great care.There are a few things you should do to ensure no motherboard damage occur as you prepare for the installation.
+
+Be sure you have a clean,well lit,and level work place.Relax your mind and make this task both fun and educational.You will need such tools as a phillips screwdriver,maybe some needle nose pliers and the manual that came with the board.
+
+Most importantly you must remove any and all electrical static discharge from your body and clothes.Static electricity is a big problem and will quickly damage chips on your new board.
+
+PREPARING FOR THE INSTALLATION
+
+Preparing to work on your system envolves work area,lighting, and much more.One great danger is the chance of electrical static charge.But this will be no problem when this static buildup is properly removes.
+
+Remove this danger by grounding yourself.Touch the metal case of the system unit or better yet,touch a door nobt in your work area to remove all electrical static charge.
+
+Set down and carefully read your user's manual and familiarize yourself with your new motherboard and its layout.Taking this time will boost your motherboard installation performance ike you never thought.
+
+Study your new motherboard and keep the box it came in.Remove it from its protective wrap very carefully and without damaging the wrap.This is done just in case you need to return the motherboard.
+
+You may need to return the motherboard if you made any mistakes in the purchase.Does the holes of your new motherboard line up with the holes in the case?If there are any reason to return the board,you can simply put it back in the box to return.
+
+Make the installation of your new motherboard fun and prepare well.Go to www.ultimatepcrepair.com and click on the photos page to familiarize yourself with all of the components in the cmputer.Follow these procedures as a guildline to install your new motherboard.
+
+REMOVING THE OLD MOTHERBOARD
+
+First Turn on your computer and access your cmos setup. This is done as the computer counts its memory.Press the combination of keys to access your bios.once inside your bios,select "Standard CMOS Setup" and write down all information about your computer's drives.
+
+Make sure you get the density of your floppy drives and the type of hard drive you have. Once you have this, turn off and unplug the computer and remove the case.
+
+Second Study your system unit layout and you may want to take notes as your remove components and connections so that it will be easier when it comes to re-installing these components or connections.
+
+Go about unplugging the wires that are connected to your old motherboard.Remember to label any and all connections to make re-installing them easier later.Here's where its very important to take awhile to study your old and new boards before disconnecting anything.
+
+Third Carefully disconnect all drives and label the connectors if needed.Remove the drives and set them out of the way in a safe place.Place all small screws in a cup or something where them won't get lost.
+
+Carefully grasp the motherboard and give it a gentle tug upwards to be sure on connections,screws,or other devices are not interferring with the board's removal.
+
+Once you are certain there are no obstruction for the board to be removed,lift the board out of the system unit.Look to see if such components as the memory need to be installed onto the new motherboard.
+
+INSTALLING THE NEW MOTHERBOARD
+
+Installing the new motherboard is the reverse order of removing the old motherboard.Be sure you remove all electrical static discharge from you body and clothes.Inspect the new board for damage and to be certain it is the right motherboard for your computer.
+
+Carefully align the new motherboard with the system unit case and secure the board.Be careful not to secure the screws too much.Install the CPU chip if it is not installed on the board from the manufacturer.
+
+Connect the large power connector from the power supply the the motherboard connector.Take care in not forcing the connector which may bend a pin.
+
+Install RAM Memory into their sockets and check to be sure they are puched in completely.Re-connect all other devices such as controllers,expansion cards and finally the drives.
+
+Check the sound,and videos cards for proper installation. Did you install your internal modem,or scanner adapter card? Connect the leads to the On-Off switch as well the hard drive indicator.
+
+After all connections and components are installed,stop and go back to check again,and then,check some more.Replace the system unit cover once you know all is well.
+
+Your system should now be ready to go.The motherboard may come with a cdrom containing device drivers and other software utilities that may be required to be installed.
+
+Now try turning on the computer and if the POST completed without a hitch,you're there.If you experience problems,go back and check all connections and devices.
+
+Ita that easy to install or upgrade not only the motherboard,but nearly every other component in the system unit.Get busy understanding your computer now and save big on future PC repair costs.
+
+

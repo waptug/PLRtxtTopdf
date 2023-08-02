@@ -1,0 +1,30 @@
+Title: 
+Cisco CCNP / BCMSN Exam Tutorial:  Dynamic VLANs and VMPS
+
+Word Count:
+331
+
+Summary:
+To pass the BCMSN exam, you’ve got to know the basics of dynamic VLANs and VMPS.  Learn the basics from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccnp, bcmsn, pass, exam, training, vmps, dynamic, vlan, network, port, assignment, free, host, mac, address, switch
+
+
+Article Body:
+Knowledge of Dynamic VLANs and VMPS is important in your efforts to pass the BCMSN exam and earn your CCNP, and it's also a great skill to have for your networking career. 
+
+As a CCNA and CCNP candidate, you know how and why to configure static VLANs. Static VLANs can be a powerful tool for reducing unnecessary broadcast and multicast traffic, but if hosts are moved from one switch port to another, you've got to make those changes manually on the switch. With Dynamic VLANs, the changes are made - how else? - dynamically.
+
+The actual configuration of dynamic VLANs is out of the scope of the BCMSN exam, but as a CCNP candidate you need to know the basics of VMPS - a VLAN Membership Policy Server.
+
+Using VMPS results in port VLAN membership changes being performed dynamically, because the port's VLAN membership is decided by the source MAC address of the device connected to that port. (Yet another reason that the first value a switch looks at on an incoming frame is the source MAC address.) 
+
+In my home lab network, I've got a host connected to switch port fast0/1 that resides in VLAN 12. What if we had to move Host 1's connection to the switch to port 0/6? With static VLANs, we'd have to connect to the switch, configure the port as an access port, and then place the port into VLAN 12. With VMPS, the only thing we'd have to do is reconnect the cable to port 0/6, and the VMPS would dynamically place that port into VLAN 12.
+
+I urge you to do additional reading regarding VMPS. Use your favorite search engine for the term configuring vmps and you'll quickly find some great official Cisco documentation on this topic.
+
+To review, the VLAN membership of a host is decided by one of two factors. With static VLANs, the host's VLAN membership is the VLAN to which its switch port has been assigned. With dynamic VLANs, it is dependent upon the host's MAC address.
+
+

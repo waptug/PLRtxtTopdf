@@ -1,0 +1,32 @@
+Title: 
+Extranets: Better than email for group collaboration
+
+Word Count:
+364
+
+Summary:
+Companies prefer using an  extranet  over email to communicate with their team members, clients, and suppliers for document sharing.
+
+
+Keywords:
+intranet, extranet
+
+
+Article Body:
+Companies increasingly prefer using an extranet over email to communicate with their team members, clients, and suppliers for document sharing because it ideally suits the groups engaged in collaboration; whereas, email is best-suited for one-to-one communication only. Generally email programs are ineffective to prioritize messages and attachments. In an email, everything arrives in the same place and in the same order in which it was sent. Whereas, with an extranet, all project related documents are automatically captured in a folder dedicated to the particular project.
+  
+For instance, if a company intends to send a power point presentation to a specific group engaged in a particular task through email, it has to break the presentations into small parts with each section attached to a separate email. The sections do not arrive at the same time, which could create confusions for everyone involved.  However, with an extranet all these presentations can be sent at the same time, all intact, automatically filled into a single project folder with all the other related materials. 
+
+Moreover, extranets generate automatic email alerts, informing the recipients that the presentations are available; they also provide a comment function that allows each user to share their point-of-view.
+
+Extranets can handle large files
+
+Additionally, an extranet can handle any size of document for document sharing purposes. With e-mail, however, there is a risk of large attachments not passing through the company firewall. An extranet assures that important documents get to the right place, ready for instant response, and puts related documents and messages together. Thus, the budget, schedule, strategic plan, power point presentation, notes, and comments - all appear on the same page. There is no sorting required through a long list of unrelated emails.
+
+Although an email is electronic and instantaneous, it is not a project management tool and does not offer many collaboration functions, whereas an extranet supports the concepts of an organization, workflow, and security. Therefore, extranets can effectively organize a company’s marketing, external and internal communications.  
+
+A secure environment
+
+In addition, many extranets are secured with 128-bit SSL encryption. Email, on the other hand, can be accessed by anyone and does not protect the confidentiality of a company’s information.
+
+

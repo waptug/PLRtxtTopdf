@@ -1,0 +1,40 @@
+Title: 
+UPS - How To Rate A UPS?
+
+Word Count:
+505
+
+Summary:
+The UPS is rated in kVA or for smaller models VA, this is basically the product of the UPS rate output voltage and current. However due to the nature of the electrically complex load that uninterruptible power supplies are required to support manufacturers often derate the UPS. It is often stated for example that a 20kVA UPS has a power factor of 0.8, i.e. 20kVA at 0.8PF, this will give the true output rating in kW and we have the following equation for a typical 20kVA 3 phas...
+
+
+Keywords:
+uninterruptible power supplies,diesel  generators, load bank
+
+
+Article Body:
+The UPS is rated in kVA or for smaller models VA, this is basically the product of the UPS rate output voltage and current. However due to the nature of the electrically complex load that uninterruptible power supplies are required to support manufacturers often derate the UPS. It is often stated for example that a 20kVA UPS has a power factor of 0.8, i.e. 20kVA at 0.8PF, this will give the true output rating in kW and we have the following equation for a typical 20kVA 3 phase input, 3 phase output UPS: -
+
+20000 x 0.8 (kW) /3 (power per phase) / 230 (output voltage) = output current per phase which in this case would be 23A maximum.
+
+Uninterruptible power supplies with ratings of 10kVA and below the output power factor is often stated as being 0.7. Therefore a 10kVA single phase input; single phase output UPS at 0.7PF would have a maximum output current capacity of 30A. Manufacturers have many different ways of calculating there power factor rating, some state 0.9, 0.95,0.99 etc. only by carefully comparing their methodology can the true factor be calculated. The figures themselves shouldn't be taken on face value without further investigation.
+
+General
+
+During normal operation the UPS system will provide a 'clean supply' to its load; 'clean supply' can be clarified by describing the operation of the UPS. The utility mains supply from the local electricity supplier can be distorted by the load that it is experiencing, e.g. if there are a number of motors be stopped and started due to a manufacturing process spikes of extremely high voltages can be produced. These can have an adverse effect on delicate computer equipment.
+
+Also as large numbers of the computer equipment are made overseas these days the power supplies associated with these equipments may not be designed to accept the voltage ranges experienced in this country. Typically voltages can be as high as 260V, 230V being the nominal supply, this is especially prevalent during the summer months where there can be a high demand for air conditioning and the local sub station transformer taps are raised to cope with demand, then, when the demand is lower during the night the supply voltage will increase.
+
+Conventional UPS systems operate in the following way and can be broken down into a number of building blocks for clarity of description.
+
+Mains Input
+
+With UPS systems greater than 6kVA there is normally provision for two separate utility mains inputs, for maximum security they should be separately protected by fuses or circuit breakers. One input is used for the rectifier/charger and hence the inverter, the other is used for the reserve supply, which the load will be switched to in the case of controlled switching or in the event of an inverter failure or an overload condition.
+
+Should you require a Diesel Generator as standby power protection then this needs to be rated at least twice the size of the UPS System.
+
+PowerContinuity Means Business Continuity
+
+For further information regarding uninterruptible power supplies please visit our website at http://www.powercontinuity.co.uk
+
+

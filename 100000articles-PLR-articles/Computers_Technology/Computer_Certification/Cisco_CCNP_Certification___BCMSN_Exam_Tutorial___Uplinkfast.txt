@@ -1,0 +1,48 @@
+Title: 
+Cisco CCNP Certification / BCMSN Exam Tutorial:  Uplinkfast
+
+Word Count:
+559
+
+Summary:
+Uplinkfast is an important topic on your CCNP exams and in real-world networks.  Learn the fundamentals from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+cisco, ccnp, certification, exam, pass, bcmsn, uplinkfast, switch, root, bridge, port, failure, ccie
+
+
+Article Body:
+You remember from your CCNA studies that when a port goes through the transition from blocking to forwarding, you're looking at a 50-second delay before that port can actually begin forwarding frames.   Configuring a port with PortFast is one way to get around that, but again, you can only use it when a single host device is found off the port.  What if the device connected to a port is another switch?
+
+A switch can be connected to two other switches, giving that local switch a redundant path to the root bridge, and that's great - we always want a backup plan!  However, STP will only allow one path to be available, but if the available path to the root switch goes down, there will be a 50-second delay due to the STP timers MaxAge and ForwardDelay before the currently blocked path will be available.
+
+The delay is there to prevent switching loops, and we can't use PortFast to shorten the delay since these are switches, not host devices.  What we can use is Uplinkfast.
+
+The ports that SW3 could potentially use to reach the root switch are collectively referred to as an uplink group.  The uplink group includes the ports in forwarding and blocking mode.  If the forwarding port in the uplink group sees that the link has gone down, another port in the uplink group will be transitioned from blocking to forwarding immediately.  Uplinkfast is pretty much PortFast for wiring closets.  (Cisco recommends that Uplinkfast not be used on switches in the distribution and core layers.)
+
+Some additional details regarding Uplinkfast:
+
+The actual transition from blocking to forwarding mode takes about three seconds.
+
+Uplinkfast cannot be configured on a root switch.
+
+Uplinkfast is configured globally.  You can't run Uplinkfast on some ports or on a per-VLAN basis - it's all or nothing.
+
+The original root port will become the root port again when it detects that its link to the root switch has come back up.  This does not take place immediately.  The switch uses the following formula to determine how long to wait before transitioning back to the forwarding state:
+
+( 2 x FwdDelay) + 5 seconds
+
+Uplinkfast will take immediate action to ensure that the switch upon which it is configured cannot become the root switch.  First, the switch priority will be set to 49,152, which means that if all other switches are still at their default priority, they'd all have to go down before this switch can possibly become the root switch. Additionally, the STP Port Cost will be increased by 3000, making it highly unlikely that this switch will be used to reach the root switch by any downstream switches.
+
+And you just know there's got to be at least one option with this command, right?  Let's run IOS Help and see.
+
+SW2(config)#spanning-tree uplinkfast ?
+
+  max-update-rate  Rate at which station address updates are sent
+
+When there is a direct link failure, dummy multicast frames are sent to the MAC destination 0100.0ccd.cdcd. The max-update-rate value determines how many of these frames will be sent in a 100-millisecond time period.
+
+Mastering the details of UplinkFast, BackboneFast, BPDU Guard, and Loop Guard are vital to your success on the CCNP exams, and one or more of these features are in use on almost every network in the world.  Learn these features for success in both the exam room and the real world!
+
+

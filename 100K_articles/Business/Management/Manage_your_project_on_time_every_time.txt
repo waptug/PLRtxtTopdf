@@ -1,0 +1,71 @@
+Title: 
+Manage your project on time every time
+
+Word Count:
+1612
+
+Summary:
+In introduction to some of the most important best practices which will enable you to plan and manage your projects on time and within budget.
+
+
+Keywords:
+project management
+
+
+Article Body:
+As both an active project manager and a  project management trainer, people often ask me what are the fundamental aspects to successful project management. Whilst there have been many great books written on the subject, I always summarise what I believe to be the best practices at the heart of good project management.  
+
+Define the scope and objectives
+
+For any project to be successful you need to understand what the project is supposed to achieve. Suppose your boss asks you to organise a campaign to get the employees to donate blood. Is the aim of this to get as much blood donated to the local blood bank? Or, is it to raise the profile of the company in the local community? Deciding what the real objective is will help you to determine how you go about planning and managing the project.  
+
+The project manager also needs to define the scope of the project. Is the organisation of transport to take staff to the blood bank within the scope of the project? Or, should  staff  make their own way there? Deciding which activities are within the scope or  out of scope of the project has a big impact on the amount of work which  needs to be performed during the project.  
+
+An understanding of who are the stakeholders is also crucial if you  are going to enlist their support and understand what each person expects to be delivered from the project. Once you've  defined the scope and objectives, you will need to get the stakeholders to review them and agree to them as well as agreeing who should be on the list of stakeholders.  
+
+Define the deliverables
+
+To achieve the desired outcome from the project, you must define what things (or products) are to be delivered by the end of the project. If your project is an advertising 
+campaign for a new chocolate bar, then one of the deliverables might be the artwork for a newspaper advert. So, you need to decide what tangible things are to be delivered and document in enough detail what these things are. At the end of the day, someone will end up doing the work to produce the deliverable, so it needs to be clearly and unambiguously described.  
+
+Once you have defined the deliverables, you will need to have the key stakeholders review the work and get them to agree that this accurately and unambiguously reflects what they expect to be delivered from the project. Once they have agreed, you can begin to plan the project. Not defining the deliverables in enough detail or clarity is often a reason why projects go wrong.  
+
+Project planning
+
+This is the time when you define how you will achieve the desired outcome of the project embodied within the objectives and definition of deliverables. Planning requires that the project manager decides which people, resources and  budget are required to complete the project. You will need to decide  if you will break up your project into manageable phases, decide which products will be delivered in each phase, and decide the  composition of your project team. Since you have already defined the deliverables, you must decide what activities are required to produce each deliverable.  
+
+You can use techniques such as Work Breakdown Structures (WBS) to help you to achieve this. You will need to estimate the time and effort required to complete each activity, dependencies between related activities and decide on a realistic schedule to complete the activities. It's always a good idea to involve the project team in estimating how long the activities will take since they will be the ones actually doing the work. Capture all of this into the project plan document. You also need to get the key stakeholders to review and agree to this plan.  
+
+When developing the project plan, a project manager is often under pressure to produce a plan which meets the (unrealistic) expectations of some of the stakeholders. It is important here that the project manager comes up with a realistic schedule - one which he/she thinks is realistic to achieve. You will be doing nobody a favour if you succumb to pressure and agree to deliver the project in a totally unrealistic schedule. 
+
+Communication
+
+Even the best made project plans are useless unless they have been communicated effectively to the project team. Everyone on the team needs to know exactly what is expected of them, what their responsibilities are, and what they are accountable for. I once worked on a project where the project manager sat in his office surrounded by big colour print outs of his latest plans. The problem was, nobody on his team knew what the tasks and milestones were because he hadn't shared the plan with them. Needless to say the project hit all kinds of problems with people going off and doing the activities which they deemed important rather than doing the activities assigned by the project manager.  
+
+Tracking and reporting project progress
+
+Once your project is underway and you have an agreed plan, you will need to constantly monitor the actual progress of the project against the planned progress. To do this, you will need to get reports of progress from the project team members who are actually doing the work. You will need to record any variations between the actual and planned cost, schedule and scope. You will need to report any variations to your manager and key stakeholders and take corrective actions if the variations get too large.  
+
+There are lots of ways in which you can adjust the plan in order to get the project back on track (rearrange the order of tasks, assign tasks in parallel if the variation is small, or add more staff to the project or reduce the scope if the variation is very large).  
+
+All projects require the project manager to constantly juggle three things: cost, scope and schedule. If the project manager increases one of these, then one of the other elements will inevitably need to be changed as well. So, for a project which is running behind schedule to recover so it can be delivered to it's original planned schedule, the budget might be increased by employing more staff (although this invariably never achieves the desired result of reducing the time left to complete the project), or the scope will need to be reduced. It is the juggling of these three elements - known  as the project triangle - that typically causes a project manager to tear their hair out in frustration!  
+
+Change management
+
+All projects change in some way. Often, a key stakeholder in the middle of a project will change their mind about what the project needs to deliver. On projects of longer duration, the business environment has often changed since the start of the project, so assumptions made at the beginning of the project may no longer be valid. This often results in the scope or deliverables of the project needing to be changed. If a project manager simply accepted all of these changes into the project, the project would inevitably be delivered late (and perhaps would never ever be completed) and  would inevitably go over budget.  
+
+By managing changes, the project manager can make decisions about whether or not to incorporate the changes immediately or in the future, or to reject them. This increases the chances of project success because the project manager controls how the changes are incorporated, can allocate resources accordingly and can plan when and how the changes are made. Not managing changes effectively is often cited as a major reason why projects fail.  
+
+Risk management
+
+Risks are any events which can adversely affect the successful outcome of the project. I've worked on projects where some of the risks have included: staff lacking the technical skills to perform the work properly, hardware not being delivered on time, the control room being at risk of flooding in a major thunderstorm and many others. Risks will vary from project to project but it is important to identify  the main risks to a project as soon as possible and to plan  the actions necessary to avoid the risk, or, if the risk cannot be avoided, to at least mitigate the risk in order to lessen its impact if it does occur. This is what is known as risk management.  
+
+Do you manage all risks? No, because there could be too many to manage, and not all risks have the same impact. So a simple way is to identify as many risks as you can, work out how likely each risk is to occur on a scale of 1 to 3 (3 being the worst), estimate its impact on the project on a scale of 1 to 3 (3 being the worst), then multiply the two numbers together. The result is the risk weighting. A high risk weighting is the most severe risk. Just manage the top ten risks i.e. the ones with the highest risk weighting. Constantly review the risks and constantly be on the lookout for new risks since they have a habit of jumping up at unforeseen moments.  
+
+Not managing risks effectively is also often cited as a major reason why projects fail.  
+
+Summary
+
+So, in a nutshell, these best practices are the main things that I would  expect all project managers to do. They are applicable on all projects big or small. Project management is not rocket science.  Applying best practices on your project cannot guarantee that your project comes in under budget, on time and exceeds  all the expectations of the stakeholders, but applying them will  certainly give you a much better chance of delivering your project successfully than if you don't apply them on your project.
+
+

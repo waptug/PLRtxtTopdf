@@ -1,0 +1,24 @@
+Title: 
+Server Virtualization
+
+Word Count:
+287
+
+Summary:
+of the hardware you already have instead of investing in more hardware and increasing the risk of a breakdown, which means you will have to pay technicians to come in and set the fault right. If you have a need for an entire rack of servers to service a range of clientele with data or software, you should begin to consider ‘server virtualization'.
+
+
+Keywords:
+Server Virtualization
+
+
+Article Body:
+of the hardware you already have instead of investing in more hardware and increasing the risk of a breakdown, which means you will have to pay technicians to come in and set the fault right. If you have a need for an entire rack of servers to service a range of clientele with data or software, you should begin to consider ‘server virtualization'. 
+
+The term ‘server virtualization' is something of a paradoxical terminology. Imagine having to work on a ‘virtual server' many people, not familiar with IT terminology, will wonder how you can use a ‘virtual' machine. To them virtual would mean something that should be, but it not. However, to a computer savvy person the term ‘virtual server' may not come through as such a confusing term. After all they are used to dealing with ‘virtual assistants' all the time. 
+
+What Can Server Virtualization Achieve? 
+
+In two simple words, savings and efficiency, what more can an entrepreneur want and desire? Server virtualization is a technology that all businesses using multiple servers should invest in, and the earlier the better. Server virtualization reduces the need to have multiple servers running in a rack simultaneously and service different clients on a network. Given that no single server utilizes the full potential of the hardware installed only means that a lot of resources is wasted. Not only is the server wasting its hardware resources by under-utilizing them, it is also wasting electric power by itself and through the switches that are connecting the servers to the network. Anyone familiar with networking will acknowledge the fact that network switches guzzle electric power. Server virtualization does away with all the unnecessary hardware and saves on investment as well as running costs.
+
+

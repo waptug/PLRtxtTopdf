@@ -1,0 +1,22 @@
+Google and PageRank-Search Engine Optimization's Dream Team
+      
+On September 7 1998, two Stanford University students, Larry Page and Sergey Brin, co-founded Google, a company they started as part of a research project in January 1996. On August 19, 2004 Google had its first public offering, the one point six-seven billion dollars it raised gave it a net worth of twenty-tree billion dollars. As of December 31, 2006 the Mountain View, California based internet search and online advertising company Google Inc. had over ten thousand full time employees. With a 50.8% market share, Google was the most used internet search engine at the end of 2006.
+
+When Larry Page and Sergey Brin began creating Google it was based on the hypothesis that a search engine that could analyze the relationships between the different websites could get better results then the techniques that already existed. In the beginning the system used back links to estimate a websites importance causing its creators to name it Backrub.
+
+Pleased with the results the search engine had on the Stanford University's website the two students registered the domain google.com on September 14, 1997. A year after registering the domain name Google Inc was incorporated. 
+
+Google began to sell advertisements associated with keyword searches in 2000. By using text based advertisements Google was able to maintain an uncluttered page design that encouraged maximum page loading speed. Google sold the keywords based on a combination of clickthroughs and price bids. Bidding on the keywords started at five cents a click.  
+
+Google's simple design quickly attracted a large population of loyal internet users. 
+
+Google's success has allowed it the freedom to create tools and services such as Web applications, business solutions, and advertising networks for the general public and its expanding business environment.  
+
+In 2000 Google launched its advertising creation, AdWords. For a monthly fee Google would both set up and then manage a companies advertising campaign. Google relies on AdWords for the bulk of its revenue. AdWords offers its clients pay-per-click advertising. AdWords provides adverting for local, national, and international distribution. AdWords is able to define several important  factors in keywords when and ad is first created to determine how much a client will pay-per-click, if the ad is eligible for ad auction, and how the ad ranks in the auction if it is eligible.
+
+By following a set of guidelines provided by Google, webmasters can ensure that Google's web crawlers are able to find, index, and rank their websites.
+
+Google offers a variety of webmaster tools that help provide information about add sites, updates, and sitemaps. Google's webmaster tools will provide statistics and error information about a site. The Google sitemaps will help webmasters know what mages are present on the website.
+
+The major factor behind Google's success is its web search services. Google uses Page Rank for its search engine optimization program. Page rank is a link analysis algorithm that assigns a numerical weight to every single element of a hyperlinked set of documents, like the World Wide Web. Its purpose is to measure the relative importance within the set. PageRank is a registered trademark of Google. Stanford University owns PageRank's patent. 
+

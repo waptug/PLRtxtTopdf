@@ -1,0 +1,50 @@
+Title: 
+Microsoft To Conquer Localized Media Delivery Problems
+
+Word Count:
+1019
+
+Summary:
+From the time that commercial paid advertisements and other media content came into being, it inadvertently led to an increase in the demand for more highly targeted and effective marketing campaigns on the Internet.
+
+But the Internet is constantly evolving and with all the changes that went on, it is a wonder how the marketing industry is going to cope. Fortunately, most search giants are diligently working on ways to resolve that issue. Take for example Microsoft who rece...
+
+
+Keywords:
+Internet, SEO, Internet Business, Technology, Internet Marketing
+
+
+Article Body:
+From the time that commercial paid advertisements and other media content came into being, it inadvertently led to an increase in the demand for more highly targeted and effective marketing campaigns on the Internet.
+
+But the Internet is constantly evolving and with all the changes that went on, it is a wonder how the marketing industry is going to cope. Fortunately, most search giants are diligently working on ways to resolve that issue. Take for example Microsoft who recently expressed its hope to develop localized media directory. This is a system that advertisers can use in order to create a more localize content, which they can send to various websites.
+
+Before, advertisers only used one approach in terms of providing advertisements on a website and this is to try to determine the subject matter of a page. After that they tried to provide advertising suitable to that content. However, most advertisers nowadays are more interested in sending advertising that will go to an audience in a certain area or region.
+
+Advertisements that were subjected to content can be targeted to specific geographical locations by looking at the IP address of a visitor. However, this kind of approach more often than not results in serving the visitor with advertisements based upon the location of the owner of the IP address. One problem that may result from that is when a visitor uses a large ISP, which is actually located some distance away from where he or she is viewing a site from.
+
+So a logical alternative would be to try to collect some geographical location information from the visitor themselves. Here you would have to rely upon a user of a personalized web service to provide you with that information. An example of this information is a phone number, zip code, or something else that can tell where they are located at.
+
+But then not everyone feels comfortable providing that type of information of information online. What with all those horror stories about identity theft, which abounded the web? Chances are you will have a hard time fishing out information. Another drawback here is that the information might not be that credible? Why, well somebody might have supplied that information in order to get something like information about local weather and once they move they will not bother to change the information that they previously supplied.
+
+So what do you do? Well, another to go about delivering ads based upon location would be to try to comprehend the location of the site. That is, if there is one associated with it and served yellow pages styled ads on that page. There is a patent application assigned to Microsoft, which was released recently. The said patent look at various ways to display ads related to what it believes is the location of a site.
+
+The patent which was entitled, System and method for automatic presentation of locality-based content on network site was invented by Microsoft data mining analyst Li Li. It was filed on September 23, 2004 and was published March 23, 2006.
+
+According to the patent’s abstract the invention is associated to the field of network services. To be more precise it is basically a proposal for automatically filtering and delivering locality-based advertisements or other media to Web or other networked sites that display a local nature or connection. An interesting aspect here is that it may allow the user to view ads and other content which may be similar to an online "yellow pages" experience, where advertisements and other content are automatically grouped according to region or area.
+
+The type of information that may be looked for upon a site may include postal or zip codes, telephone numbers, town or state names, call out signs for radio or television stations, as well as other geographic indicators.
+
+This type of information would be collected by program instead of being done manually as before. Also, this information would be accumulated in a content server. Then it would be matched with advertisements or other content, which will eventually be served to the visitor of a site.
+
+Examples of some of the types of advertisements and content that may be served were described in the patent. Some of the examples cited may include listings of local television and radio programming, as well as advertisements or promotions for groceries, restaurants, flower shops, car dealerships, real estate services, and so on.
+
+The location of a website can also be ascertained with the use of other techniques. This may include a look at the behavior of users, for instance the clicking of business name, telephone number or other links.
+
+So is there really a need for this so-called Microsoft invention? Indeed there is. You see, although web pages or services that are capable of tracking user inputs in order to generate localized content still rely on detecting inputs or behavior from the user side. Due to that dependency, if a user chooses not to submit their ZIP code, telephone number or any identifying information, it will no longer be possible to generate localized ads or content to the user. Also, even if it did manage to generate localized ads or content there is no way to ensure their accuracy. And this is just one example of the various problems associated in localized media delivery.
+
+If Microsoft will be able to successfully develop this patent then that would be another breakthrough under their belt. Just imagine a way to address all the ongoing issues and problems in localized media deliver, that one will be thoroughly appreciated by the marketing industry. If indeed there is a way then Microsoft will find it. After all, they did not gain the title of a worldwide leader in software, services and Internet technologies for nothing.
+
+Microsoft was founded way back in 1975. For more than three decades the company had consistently provided the public with a wide range of products and services. These products and services are especially designed to help people succeed in their respective businesses by providing innovative software and programs. Among the company’s famous trademarks are Windows Media, Windows and MSN.
+
+

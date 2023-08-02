@@ -1,0 +1,51 @@
+Title: 
+Playing Both Directions for Better Trades
+
+Word Count:
+1012
+
+Summary:
+When I first began trading back in the '90's, I was very fortunate. I had begun trading at  time when the market was headed almost straight up. My first strategy was writing covered  calls which blended with a rising market in such a way that I almost never lost.
+
+
+Keywords:
+better trades, bettertrades, investing, investments, finance
+
+
+Article Body:
+When I first began trading back in the '90's, I was very fortunate. I had begun trading at  time when the market was headed almost straight up. My first strategy was writing covered  calls which blended with a rising market in such a way that I almost never lost. Think about  it ... When most stocks are rising and the options are rich with premium, it's very easy to  buy a stock at $9, sell a $10 call for $1.50, then just sit back and allow your stock to be  called away from you for some very nice profits, indeed!
+
+Now, that was a good thing, because I had burned my bridges I HAD to make a go of it! As I  reflect on those times, I'm really thankful for my very good run of LUCK! This could have  turned out disastrously! The perspective of time (not to mention some unforgettable  experiences) has allowed me to learn that no market, good or bad lasts forever and the only  constant is change. Under such I conditions, I learned to 'roll with the flow', adjusting my  strategies to match market conditions
+
+Changing Markets
+
+One of my greatest concerns has been how to deal with a changing market insofar as the  strategies are concerned. Which ones work in a rising market ... What do you choose when the  market turns down? I'm sure there are several books in THAT area, so I want to focus on  something we trade in the AfterHours Trading Lab. If you're not familiar with that, understand  that in the evenings, I meet with other traders and we set up trades we will put into play the  next morning on their way to work. The AfterHours Lab concentrates on both medium term (30-90  days) and long term (over 90 days) trades. These trades provide stability for our daily cash  flow (from the trades done in the morning Short Term Trading Lab), and Net Worth Growth, our  "getting rich' account, respectively. I want to look for a moment at the medium term trades.
+
+Medium Term Trades
+
+As I explained earlier, my favorite medium term strategy has long been the covered call. This  strategy enabled me to manage my fiscal affairs by setting up trades designed specifically to  'mature' at a predetermined date 30, 60 or 90 days out into the future, giving me cash I could  count on to help overcome any slow periods of daily cash flow. As the premium began to dry up,  I found writing covered calls more and more difficult. I began to look specifically for those  stocks which were volatile, yet more or less predictable which could be used to temporarily  replace covered calls as my medium term strategy of choice. Let me share with you what I've  started to do.
+
+Stock Movement
+
+Let's look for a stock which moves a lot. I have my Chart Navigator system provide this by  automatically calculating the average daily range of stock for the last month or so. I will  then look only at the stocks which have at least $1.50 or more movement each day. In the  trading labs, we've become so familiar with this concept of ADR that we find it 2nd nature to  just toss the ones with small daily movements on most of our strategies. But its not enough to  simply recognize stocks that move a lot. You have to have some idea of WHICH way they're most  likely to move and THAT is the 'fly in the ointment', especially in an uncertain market! So we  further narrow this search of high volatility stock to only those stocks which move within a  somewhat predictable range, much as a 'channeling' stock. Here, for example, you see a stock  trading between $32 and $42, presently resting in the middle of the channel. The average daily  movement of the stock is around $2.40 or so.
+
+
+Given these facts, let's look for a few more characteristics. First, notice that the stock has  remained close to or within this range for several months. Additionally, each 'oscillation  takes about a month, moving from the top of the channel to the bottom bottom. Bottom line,  this stock is moving a lot but going basically sideways. Now ... let's trade this one ..  medium term. If we can do that regularly, then perhaps we can stop worrying about the  availability of covered call trades!
+
+The Trade
+
+Before you trade a stock, it's generally a good idea to know which way it's going. That's the  challenge! Unless you're in to predicting the future (crystal ball) or using technicals  (highly detailed crystal ball) or have highly placed friends within the company to help  (illegal), you're just guessing! Maybe up... Maybe down ... We KNOW it moves a lot, so it's  probably NOT going to be the same price tomorrow! Hmm... It moves a lot - it MIGHT go up - it  MIGHT go down - it probably WON'T go sideways from $35 ... Eureka! That's it! Trade it BOTH up  AND down. Those are the only two ways it's likely to go (remember the high daily movement).
+
+We know we can't buy the stock AND short the stock (at least not in the same account), so why  not buy a put AND a call?! In this case we might consider buying the $35 put and the $35 call.  Typically referred to as a 'long straddle', the position allows us to profit no matter WHICH  way the stock moves, usually dumping the losing side of the straddle when the movement  direction becomes evident. Not a new idea by any means, the straddle can provide an  opportunity to remove the 'crystal ball' requirement from your trading.
+
+If It's So Great ...
+
+That's great as far as we've gone, but as I said, this one has been around for a while, so if  it's so great, why isn't everyone doing it? The answer lies in the trade's management ...  which we'll get to next newsletter!
+
+If you think that my daily trading labs might be of help to you in sharpening up your trading  skills, please give us a call at my support line, toll free 1-800-743-0360!
+
+Make it a great day!
+
+Bob with Better Trades
+
+

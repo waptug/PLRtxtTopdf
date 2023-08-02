@@ -1,0 +1,94 @@
+Title: 
+Cisco CCNP / BSCI Exam Tutorial:  BGP Adjacency States
+
+Word Count:
+608
+
+Summary:
+To work with BGP and pass the BSCI exam, you've got to know and understand the BGP adjacency states.  Learn the details from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+ccnp, bsci, bgp, adjacency, peer, state, open, opensent, active, free, exam, pass, tutorial, state
+
+
+Article Body:
+To pass the BSCI exam, earn your CCNP certification, and become an outstanding networker, you've got to master the many details of BGP - and trust me, there are a lot of details to master! Before you get into the more advanced features of BGP, you should have the fundamentals down cold, and one of those fundamentals is knowing the BGP adjacency states. This will allow you to successfully analyze and troubleshoot BGP peer relationships.
+
+
+In the following example, a BGP peering is being created between R1 and R3.
+R1(config-router)#neighbor 172.12.123.3 remote-as 200
+
+BGP speakers do not have to be in the same AS to become peers. To verify that the remote BGP speaker has become a peer, run show ip bgp neighbor. 
+
+
+R1#show ip bgp neighbor
+
+BGP neighbor is 172.12.123.3, remote AS 200, external link
+
+BGP version 4, remote router ID 0.0.0.0
+
+BGP state = Active
+
+Last read 00:01:39, hold time is 180, keepalive interval is 60 seconds
+
+Received 0 messages, 0 notifications, 0 in queue
+
+Sent 0 messages, 0 notifications, 0 in queue
+
+Route refresh request: received 0, sent 0
+
+Default minimum time between advertisement runs is 30 seconds
+
+The output here can be a little misleading the first time you read it. The first highlighted line shows 172.12.123.3 is a BGP neighbor, is located in AS 200, and is an external link, indicating that the neighbor is in another AS entirely. The second highlighted line shows the BGP state as Active. This sounds great, but it actually means that a BGP peer connection does not yet exist with the prospective neighbor. Before we continue with this example, let’s look at the different BGP states:
+
+Idle is the initial state of a BGP connection. The BGP speaker is waiting for a start event, generally either the establishment of a TCP connection or the re-establishment of a previous connection. Once the connection is established, BGP moves to the next state.
+
+Connect is the next state. If the TCP connection completes, BGP will move to the OpenSent stage if the connection does not complete, BGP goes to Active.
+
+Active indicates that the BGP speaker is continuing to create a peer relationship with the remote router. If this is successful, the BGP state goes to OpenSent. You’ll occasionally see a BGP connection flap between Active and Connect. This indicates an issue with the physical cable itself, or with the configuration.
+
+OpenSent indicates that the BGP speaker has received an Open message from the peer. BGP will determine whether the peer is in the same AS (iBGP) or a different AS (eBGP) in this state.
+
+In OpenConfirm state, the BGP speaker is waiting for a keepalive message. If one is received, the state moves to Established, and the neighbor relationship is complete. It is in the Established state that update packets are actually exchanged.
+
+So even though the show ip bgp neighbor output indicated that this is an Active neighbor relationship, that’s not as good as it sounds. Of course, the reason the peer relationship hasn’t been established is that we haven’t configured R3 yet!
+
+
+R3(config)#router bgp 200
+
+R3(config-router)#neighbor 172.12.123.1 remote-as 100
+
+Verify the peer establishment with show ip bgp neighbor:
+
+R3#show ip bgp neighbor
+
+BGP neighbor is 172.12.123.1, remote AS 100, external link
+
+BGP version 4, remote router ID 172.12.123.1
+
+BGP state = Established, up for 00:01:18
+
+Last read 00:00:17, hold time is 180, keepalive interval is 60 seconds
+
+Neighbor capabilities:
+
+Route refresh: advertised and received(old & new)
+
+Address family IPv4 Unicast: advertised and received
+
+Received 5 messages, 0 notifications, 0 in queue
+
+Sent 5 messages, 0 notifications, 0 in queue
+
+Route refresh request: received 0, sent 0
+
+Default minimum time between advertisement runs is 30 seconds
+
+Local host: 172.12.123.3, Local port: 179 (BGP uses TCP Port 179)
+
+Foreign host: 172.12.123.1, Foreign port: 11007
+
+The peer relationship between R1 and R3 has been established!
+
+

@@ -1,0 +1,121 @@
+Title: 
+Cisco CCNA Exam Tutorial And Case Study: VLANs and IP Connectivity
+
+Word Count:
+591
+
+Summary:
+Reinforce your VLAN and switching theory knowledge with this case study from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+cisco, ccna, vlan, ping, exam, pass, tutorial, router, switch, Bryant, advantage, chris, 12933, ccie, ccnp, bsci
+
+
+Article Body:
+In this CCNA case study, we'll take some basic switching and trunking theory and put it into action.  We have two routers (R2 and R3) along with two switches (SW1 and SW2).  R2 is connected to SW1 at fast 0/2, and R3 is connected to SW2 at fast 0/3.  Both routers have IP addresses on the 172.12.23.0 /24 network.
+
+For these routers to be able to ping each other, the switches must be able to communicate.  These are two 2950 switches, and they're connected via two crossover cables.   Before we worry about the router connectivity, let's make sure the trunk link is up between the switches with the "show interface trunk" command.
+
+SW2#show interface trunk
+
+Port             Mode         Encapsulation  Status        Native vlan
+
+Fa0/11      desirable         802.1q         trunking           1
+
+Fa0/12      desirable         802.1q         trunking           1
+
+< output truncated for clarity >
+
+The default mode of these switches is for the ports to run in dynamic desirable trunking mode, so we didn't even need to write a configuration to have the trunk form - it's already there!
+
+Show vlan brief reinforces the theory that by default, all switch ports are placed into VLAN 1 (except the trunk ports).
+
+R2 and R3’s Ethernet addresses have already been configured, the trunk line is operational, and both ports are in VLAN 1.  We'll ping R2’s Ethernet interface from R3, and then R3’s Ethernet interface from R2 to verify IP connectivity.
+
+R2#ping 172.23.23.3
+
+Type escape sequence to abort.
+
+Sending 5, 100-byte ICMP Echos to 172.23.23.3, timeout is 2 seconds:
+
+!!!!!
+
+Success rate is 100 percent (5/5), round-trip min/avg/max = 4/4/8 ms
+
+R3#ping 172.23.23.2
+
+Type escape sequence to abort.
+
+Sending 5, 100-byte ICMP Echos to 172.23.23.2, timeout is 2 seconds:
+!!!!!
+
+Success rate is 100 percent (5/5), round-trip min/avg/max = 4/4/8 ms
+
+With pings, exclamation points indicate IP connectivity, and periods indicate no connectivity.
+
+So we've got connectivity! Now let's see if we still have that connectivity when the ports are placed into different VLANs.  Cisco CCNA theory states that devices in different VLANs can't communicate without the intervention of a Layer 3 device, but let's see if that's true by placing R2 into VLAN 23. (VTP is already running on these switches.)
+
+SW1#conf t
+
+Enter configuration commands, one per line.  End with CNTL/Z.
+
+SW1(config)#int fast 0/2
+
+SW1(config-if)#switchport mode access
+
+SW1(config-if)#switchport access vlan 23
+
+SW1(config-if)#^Z
+
+Now that R2 and R3 are in separate VLANs, can they still send pings back and forth?
+
+R2#ping 172.23.23.3
+
+Type escape sequence to abort.
+
+Sending 5, 100-byte ICMP Echos to 172.23.23.3, timeout is 2 seconds:
+.....
+
+Success rate is 0 percent (0/5)
+
+R3#ping 172.23.23.2
+
+Type escape sequence to abort.
+
+Sending 5, 100-byte ICMP Echos to 172.23.23.2, timeout is 2 seconds:
+.....
+
+No, they can’t.   The difference is that they’re now in separate VLANs, and devices in different VLANs can’t communicate unless routing is taking place somewhere.   Here, no routing is taking place, so the pings don’t go through.
+
+Put R3’s switch port into VLAN 23, and try the ping again.
+
+SW2#conf t
+
+Enter configuration commands, one per line.  End with CNTL/Z.
+
+SW2(config)#interface fast0/3
+
+SW2(config-if)#switchport mode access
+
+SW2(config-if)#switchport access vlan 23
+
+R3#ping 172.23.23.2
+
+Type escape sequence to abort.
+
+Sending 5, 100-byte ICMP Echos to 172.23.23.2, timeout is 2 seconds:
+!!!!!
+
+Success rate is 100 percent (5/5), round-trip min/avg/max = 4/4/8 ms
+
+R2#ping 172.23.23.3
+
+Type escape sequence to abort.
+
+Sending 5, 100-byte ICMP Echos to 172.23.23.3, timeout is 2 seconds:
+!!!!!
+
+Now that R2 and R3 are in the same VLAN, pings can go through. This just proves the theory - that inter-VLAN communicate requires a Layer 3 device. Layer 3 switches are becoming more and more popular, but router-on-a-stick is still around - and we'll see how to configure that in our next tutorial!
+
+

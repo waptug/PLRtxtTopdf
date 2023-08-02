@@ -1,0 +1,43 @@
+Title: 
+Outsource Your Intranet? It Makes More Sense Than You May Think.
+
+Word Count:
+321
+
+Summary:
+Hosting an intranet with an Application Service Provider is usually the only way a small company can afford to have one. There are security issues to consider, but most of the time the advantages far outweigh the disadvantages.
+
+
+Keywords:
+hosted intranet, intranet hosting, asp intranet
+
+
+Article Body:
+Until recently, if a company wanted to implement an intranet, they first had to install an internal network. Next they had to install a web server and set it up to host their internal documents. This created an intranet, which is an internal network that uses web-based technology. The difference between an intranet and a traditional company network is that everything on the intranet is accessed through a web browser.
+
+To secure access to the intranet, the company needs to install special software, set up firewalls, and install a VPN server or switch. The equipment could be very expensive and most companies had to hire or train someone to maintain everything. 
+
+As a result, intranets were beyond the reach of smaller companies. However, all of that has changed. There are now a number of service providers that offer hosted intranet solutions, which allows a company to outsource all the hardware, software and maintenance for their intranet.  These service providers are sometimes referred to as intranet application service providers (intranet asp).
+ 
+
+Why Host Outside Your Company?
+
+For smaller companies, cost may be the determining factor.  For larger companies, unless the necessary infrastructure already exists, not having to purchase new equipment and train personnel may make it more cost efficient than doing it themselves.
+
+
+Advantages of a Hosted Intranet
+
+•	Hardware and software do not need to be purchased or installed
+•	Security measures such as authentication, regular backups and disaster recovery are already in place 
+•	Personnel to maintain the equipment do not need to be hired or trained
+•	Many applications are already available from the hosting company
+•	Technical support provided by the hosting company
+
+
+Disadvantages of a Hosted Intranet
+
+•	Data may or may not be more secure than if it was all kept internal to your company
+•	Possible limitations on the software you use and services you can provide
+•	For larger companies, it may be more expensive over the long run than hosting internally.
+
+

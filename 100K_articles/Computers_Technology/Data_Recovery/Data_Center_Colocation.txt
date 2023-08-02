@@ -1,0 +1,29 @@
+Title: 
+Data Center Colocation
+
+Word Count:
+464
+
+Summary:
+Colocation is often abbreviated as ‘colo’. The colocation centres themselves are often referred to as ‘carrier hotels’ because of the number of internet carries that the host, as well as the number of businesses which have their servers located within a colocation centre.
+
+
+Keywords:
+Data Disaster Recovery, Data Backup, Data Backup Service, Data Backup Services, Data Backup and Recovery, Data Backup and Recovery Solution, Data Backup and Recovery Service
+
+
+Article Body:
+Complete control over your web hosting provision!
+
+Each data center has full power backup in case of an outage. Generators, in combination with UPS systems, guarantee maximum availability. Industry-leading Service Level Agreements (SLA) define the level of guaranteed availability, ranging from 99.9% to 99.999%. The configuration of the electrical connection for a client’s equipment depends on his specific requirements.
+
+Data centre collocation industry offers comprehensive approach to information technology, enables businesses to focus on increasing revenue and profit, not managing technology. One can benefit from this experience and gain direct access to the most reliable, widely deployed networks in the world. 
+
+A client’s server will be in good hands with collocation services. Take benefit of such services from our years of experience and quality non stop support. Gain direct access to the most reliable, widely deployed networks in the world. Such data centre eliminates the need for expensive equipment such as generators and UPS's as these are all included in the standard service charge. For the highest availability colocation services you can compare online and choose the right place. Data centre team of professionals offers you fully managed support services including OS installation and configuration to something as simple as a server reboot. With a round the clock on site staff of highly trained engineers and support staff, client’s servers will be backed by the best in server collocation professional services. 
+
+Colocation services are available via some web hosts through the use of their private cages, or you can pay a data centre directly to have your server located in a cage which is run by the data centre itself. Other equipment such as networking equipment and storage equipment can also be colocated within server racks. Colocation hosting has many advantages above ordinary dedicated server hosting, such as the fact that most data centres provide a ‘remote hands’ service if your server needs a task doing such as an OS reinstall which can only be done from the console; also, the connectivity that your equipment receives will probably be better than that you would receive on a dedicated server, the reason being that your equipment is surrounded by your own equipment meaning that you don’t have any other customers around you that could be a burden on your connection speed.
+
+Data Colocation network is wired in a redundant, meshed configuration for maximum uptime. In the event of a failure in any one device the redundant hot-spare takes over automatically within seconds. Not that our equipment is liable to failure in the first place, with redundant PSU's, processing engines and blades.
+In practice, this means your own server is installed in a rack in one of the data collocation centre, taking advantage of our bandwidth and network resilience to connect to the Internet.
+
+

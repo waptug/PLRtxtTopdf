@@ -1,0 +1,24 @@
+Title: 
+Microsoft Certification:  The New MCTS Tracks And Exams
+
+Word Count:
+295
+
+Summary:
+Microsoft is revamping its certification tracks, and one of the new certifications is the MCTS.  Learn what this certification is all about and how to earn it from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Mcse, exam, pass, Microsoft, change, mcts, new, tutorial, free, cisco, ccna, ccnp, ccie, windows, operating, system
+
+
+Article Body:
+Microsoft is revamping its certification tracks, and will eventually retire the familiar MCSE certificatons.  The new certification setup is much like Cisco's, where there are specialist certifications to go along with the more general CCNA, then mid-level certifications such as the CCNP, and then a more-advanced practical exam modeled somewhat after the coveted CCIE certification.
+
+Microsoft's new specialist exams are the Microsoft Certified Technology Specialist (MCTS) exams.  As of March 2006, there were five separate MCTS Tracks.  Three of them deal with .NET Framework 2.0; these are the Web Application, Windows Applications, and Distributed Applications certifications.  Each of these separate certifications requires the candidate to pass two exams.  There is also a one-exam SQL Server 2005 certification, as well as a BizTalk Server 2006 single-exam certification.
+
+The initial question is "Why is Microsoft doing this?"  According to their website, MS feels that IT hiring managers today have a tough time deciding which computer certifications best identify job candidates who best meet their needs.  I know it's easy to take verbal shots at Microsoft (it'll be an Olympic sport one day), but this new series of certs does have appeal for hiring managers, which can only help qualified candidates.  Instead of the more-general MCSE, which does still suffer from the overcertification of NT 4.0 MCSEs back in the day, these more-specific certifications will make it easier for the job candidate to prove that they can do the job - and easier for the hiring manager to make an informed decision.
+
+Microsoft hasn't announced the track that will eventually replace the MCSE, but this track will be revealed with the next client-server Windows release.  It's up to you to stay informed of these changes, so I recommend you visit Microsoft's certification website often.  "I didn't know" isn't much help once a certification expires!
+
+

@@ -1,0 +1,28 @@
+Title: 
+Data Recovery - What To Do When Your Hard Drive Fails
+
+Word Count:
+685
+
+Summary:
+How many times have you experienced that sickening feeling when your hard drive suddenly fails? How many times have you experienced that your hard disk just does not boot and all the data may be gone forever? A hard drive failure is one of the most common problems and worst nightmares faced by computer operators all over the world. Precious data is lost either at home or in big corporate environments. What can be done in these situations? Well, there are certain solutions tha...
+
+
+Keywords:
+data recovery, hard drive data recovery,data recovery expert,laptops,laptop
+
+
+Article Body:
+How many times have you experienced that sickening feeling when your hard drive suddenly fails? How many times have you experienced that your hard disk just does not boot and all the data may be gone forever? A hard drive failure is one of the most common problems and worst nightmares faced by computer operators all over the world. Precious data is lost either at home or in big corporate environments. What can be done in these situations? Well, there are certain solutions that can be performed by you in order to revive your hard drive. We will talk about the solution later. First, let us discuss why a hard drive fails.
+
+Whether the data on the hard drive can be recovered or not depends on the extent of the problem. A hard drive can be damaged due to firmware corruption, electronic failure, mechanical failure or a logical failure. Many times your hard drive may lose data due to the combination of the above mentioned factors. A hard drive may also develop bad sectors due to which the data on those sectors is lost or becomes unreadable.
+
+Firmware refers to the information used by the computer to interact correctly with the hard drive. If the firmware fails or becomes corrupted, then important data on the hard drive is lost. In case of an electronic failure there maybe occur an electrical surge that can knock out the controller board on the hard drive and make it unusable. However data can be recovered by data recovery experts who use special data recovery software. Swapping the controller board with another one can prove to be dangerous as the information on the controller board is unique to the hard drive on which it is fitted. In comparison to electronic failure a mechanical failure can turn out to be worst as data recovery can almost become impossible. Mechanical failure includes head crash and also read/write head failure. Head crash can occur due to physical shock, power surges and movement of the computer. Next come the logical errors. Logical errors have nothing to do with the hardware part. Logical errors can occur due to corruption of the file system on the hard drive or improper entries in the file allocation table.
+
+In case of hard drive failure it is vital to call the data recovery experts. In most cases, the information on the hard drive is important and you cannot bear to lose it. The experts enhance the possibilities of hard drive recovery in the case of failure of hard drive due to software malfunction, virus attacks and other reasons mentioned above. Data can be recovered on any type of operating system including all versions of Windows as well as Apple Macintosh, Novell, Linux, Unix and also on all types of file systems like FAT, FAT32, NTFS, NTFS5, HFS, HFS+, NWFS, EXT2 and EXT3. The experts may take the hard drive to their workshop in order to recover the lost data and then return it to you in a few days. Most of the data recovery experts have their own laboratories that are involved in testing the hard drives and repairing them.
+
+Loss of data is the last thing that you as the customer would ever want. This is where the data recovery experts come into the picture. They cannot extract only data from hard drives, but recover data also from tape drives, cds, dvds and other important storage media. You as the consumer can take up some preventive measures like backing up all your important data at least once a week. Windows has its own feature rich backup program. There are other backup software programs available in the market that can avert a possible disaster.
+
+Besides the concern of recovering your data, another problem is the time it may take for an expert to help. This can be a slow and tedious process. I recommend having a second complete computer source such as a laptop (for portability) that you can continue your work. This way you are never completely down and you can share important data between the two.
+
+

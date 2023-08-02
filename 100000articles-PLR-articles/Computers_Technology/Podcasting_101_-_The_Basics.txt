@@ -1,0 +1,46 @@
+Title: 
+Podcasting 101 - The Basics
+
+Word Count:
+1319
+
+Summary:
+Ever wanted to create your own radio show?  Podcasting is the answer.  Record your own show from home.  Its easy.  This article gets you started.
+
+
+Keywords:
+podcast hosting, audio, home grown radio
+
+
+Article Body:
+Podcasting has the promise of letting anyone produce their own 'Home Grown Radio Show' and getting a huge international audience. Clearly its all about the quality and presentation of the content, which is why those that came from a background in broadcast radio are finding Podcasting to be easier to succeed in than most.
+
+But it doesn't mean that it should be hard for anyone with no background in radio or broadcasting to succeed as well. Its really about what you have to say and offer that makes all the difference.
+
+Now with that all said, a successful radio host typically always has an engineer nearby. They almost become the 'sidekicks' of the show and handle all the technical trickery of making sure the show works. But keep in mind that live radio is all about live reaction and spontaneity. Podcasting takes a lot of the pressure off the recording process because you have all the time in the world to put a great show together.
+
+It is, however, a double-edged sword. Sure you don't need to do 'live' recording. But most podcasters don't have an engineer handy either. They have to double both as the host and the engineer and for those that don't have a background in audio recording, it can be difficult. But its not impossible and too hard to master, as this article will explain.
+
+The process of recording your podcast involves recording your voice for dialog, inserting content (such as audio clips, music, advertising, intros, outtros, etc.) into the show and then producing it all up into one MP3 file that is ready for distribution. The distribution part of it is easy with hosts like CyberEars.com but the recording of the show is left up to you.
+
+So what do you need to get started? Typically the first thing is a decent computer. Not that you have to have the latest, greatest, fastest most powerful system on the planet. Any average home PC will be fine. But as you are going to be dealing with digital audio, keep in mind that it is often memory and hard disk hungry, so don't skimp on RAM or disk storage. I'd suggest having 1-2GB of RAM in your rig, and at least a 120GB hard drive handy. You won't use it all up initially. But as you start to collect your recordings, its best not to be running out of disk space. It'll just slow down your system and turn what should be an enjoyable experience in putting your podcast together into a chore.
+
+You'll need some recording software on the computer. There are free programs out there such as Audacity or you may also find that investing in a commercial program will pay dividends. I like Industrial Audio's ePodcast Creator because it makes the whole process work the way that a Podcast host would want it to work. Their software is available in different 'sizes' to suit the budget and feature needs of customers. Starting at under $100 you can have a program that will not only make the recording process simple, but will allow you real time insertion of audio clips, etc. while you are recording the show (just like how its done on radio) and a full editing suite afterwards to put the MP3 file together.
+
+OK, so we have the computer side of this under control. Now what about the recording part? Well there are plenty of good quality microphones out there that you can use. The problem, however, is that most computers have a low grade MIC IN connector that isn't going to be 'studio quality'. The sound cards that are installed in or on most PCs these days were never designed for professional recording, so you'll find quickly that the audio quality of recordings made directly into the computer is less than desirable. Most people will purchase a high grade microphone and some sort of audio interface designed for high fidelity recording. Those that don't do this have noticeably lower quality podcast recordings.
+
+We would recommend using one of the range of Alesis Podcasting Kits for this. Alesis have bundled all of these items together into kits that comprise of microphones & headphones, microphones, headphones and mixers, etc. to cater for the different needs of different hosts. If, for example, its just you doing the show, the basic Alesis Podcasting Kit product consisting of a microphone, headphone and audio interface (USB) will be fine. However if you intend on doing the show with a partner host, or frequently having guests on your show then you will likely need a mixing board to keep all levels of recordings consistent. Alesis have that covered to with their USB and Firewire Podcasting kits including a 8 or 12 channel mixing board. This might sound like some > $1000 purchase, but its not. Alesis Podcasting Kits start at under $100 for the basic kit, and typically don't exceed $500 for the top of the line system. They are available from most musical instrument retailers or online at places like Sweetwater Sound or Musicians Friend.
+
+As you start to dabble in the art of audio recording, you will encounter a bunch of dials, faders and buttons with strange names on them. Don't be alarmed. But be prepared. Visit your local book store, or Amazon.com to find any books on basic recording techniques and you should be well on your way to recording your podcast.
+
+Once you have all the source material recorded, then you need to 'produce' the show. This means simply putting all the audio clips, recordings and tracks together in such a way where it all flows together. A multi-track editing system such as Audacity is best here. You can overlap and transition from piece to piece to keep the recording lively and interesting for the listener. Then you simply mix (or bounce) it down to a stereo track for the final production.
+
+You are not quite out of the woods yet. The digital audio that you are recording is going to be huge in size. You need to compress it down so that its easily downloadable to an iPod or any other MP3 player. This process is called 'encoding' the audio, but it really means compressing it. The computer will do all the work for you here,but you need to tell it what format file you want. You will need a 44.1khz Sample Rate file (CD Quality). If your audio is more than 1 hour in length, you might want to consider releasing more shows of smaller sizes, or you can compress it even further. The more you compress, the lower the audio quality will be however. And you should always compress to a size that is evenly divisible by 11.025 khz. Why? Because players that will play it, particularly those on the Internet, expect it that way and if you don't they'll try and convert it to a sample rate they can handle normally meaning that your audio will end up sounding like the chipmunks.
+
+Once done, you will have a MP3 file. Then its time to login to your CyberEars.com account, Upload the audio and that's it. It will be automatically syndicated to all of your fans, and available for anyone browsing audio to hear it directly from the CyberEars.com site.
+
+Now this is a basic explanation of the journey from idea to recording that isn't rocket science. But you should expect to invest in some tools, gear and books to make sure you understand what is going on. There is so much material available on the Internet to read that you can't really go wrong. And don't be afraid to ask someone who knows more about this how to do things you don't understand. The podcasting community is just that - a community. Its all about free and open audio for everyone without a lot of radio stations limiting what content can be freely distributed.
+
+Enjoy!
+
+

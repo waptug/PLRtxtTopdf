@@ -1,0 +1,24 @@
+Title: 
+Download Manager
+
+Word Count:
+246
+
+Summary:
+A download manager is for downloading files, as what the World Wide Web is to the Internet. The world wide web is meant strictly to browse Internet pages and various information. Where as a download manager is strictly designed to download and sometimes, depending on the manager you use, even upload files to a server.
+
+
+Keywords:
+download, connections, multiple files, paused a download, resume paused download
+
+
+Article Body:
+A download manager is for downloading files, as what the World Wide Web is to the Internet. The world wide web is meant strictly to browse Internet pages and various information. Where as a download manager is strictly designed to download and sometimes, depending on the manager you use, even upload files to a server.
+
+The good thing about a download manager is the fact that it has a memory, and can remember where a download came from, how big the file was, and how much of the file you have downloaded in case it has to go back and pull that information back at a later date.  When you use Internet Explorer to download files, and  your in the middle of downloading a file and the power goes out. You have to start downloading the files all over again, but not with a download manager.
+
+As said before, a download manager has sort of a built in memory per say. If your power goes out in the middle of a download, once your computer regains Internet access, then the download manager will go right back to where the download left off and continue on from that point.
+
+Also, with a download manager, it puts all the controls right in the users hands. If they are downloading multiple files, the user has the ability to pause certain downloads, to increase bandwidth to the other downloads, and then resume that download when ever the user is ready.
+
+

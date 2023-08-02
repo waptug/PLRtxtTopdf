@@ -1,0 +1,36 @@
+Title: 
+The Advantages Of Anonymous Surfing Software Over Web Based Anonymizers
+
+Word Count:
+394
+
+Summary:
+Each time we search to buy products online, visit chat rooms, log on to use our internet banking, visit our favourite news or financial sites – all this information is logged and stored as our personal surfing history. This is done via our IP address.
+
+This information about all the websites we have visited can be used to construct a profile of our browsing habits and this information is valuable to website owners, marketers or even the authorities. These records are all st...
+
+
+Keywords:
+Anonymous Surfing Software, Anonymous Surfing, best anonymous surfing
+
+
+Article Body:
+Each time we search to buy products online, visit chat rooms, log on to use our internet banking, visit our favourite news or financial sites – all this information is logged and stored as our personal surfing history. This is done via our IP address.
+
+This information about all the websites we have visited can be used to construct a profile of our browsing habits and this information is valuable to website owners, marketers or even the authorities. These records are all stored and held by our Internet Service Providers (ISP's) and can be easily bought and sold to those interested parties.
+
+To protect us from these people, we can surf the internet anonymously either via web based free anonymous surfing tools or by downloading anonymous surfing software. By using either method, no records of our surfing history can be traced back to our IP address.
+
+So which is the better option?
+
+Web based anonymous surfing tools are known as web anonymizers. They are usually free to use and the process is relatively simple. You go directly to the anonymizer website and type in the URL of the website you want to visit. The anonymizer website then redirects you to the site destination, which sees the anonymizer website server as the IP address and not your own IP identity.
+
+A free web based anonymizer is definitely a convenient option if you’re an occasional surfer...however if you surf the internet more than two hours every day, going backwards and forwards to the anonymizer website can be quite tedious.
+
+The biggest problem however with web based anonymizers is that most of them are not enabled with SSL (Secure Socket Layer) or SSH (Secure SHell) encryption. In other words, you cannot connect to banking, shopping and other secure sites which use this technology.
+
+Commercial anonymizers or anonymous surfing software, are systems that you download and install as a client application. This software manages all the details of anonymous surfing for you. As soon as your browser is loaded, our connections are automatically anonymous...and there is no tedious visiting of an anonymizer website.
+
+The main advantage however is that the best anonymous surfing software will be enabled with SSL (Secure Socket Layer) or SSH (Secure SHell) encryption and protect from not only web browsing but from other web based applications such as email, ICQ, IRC etc…
+
+

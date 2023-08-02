@@ -1,0 +1,38 @@
+Title: 
+How To Block Spam Mail
+
+Word Count:
+435
+
+Summary:
+It is impossible that you have never heard of junk mail. But if ever you truly do not know what junk mail is, it is that mail you get that completely irritates you. It is the mail that you never ever wanted to have. It is probably the mail that advertises certain products that you do not even have any idea existed.
+
+If you are one of those who are technologically inclined, surfing on the other Internet, chatting your time away with your buddies through your emails, or playi...
+
+
+Keywords:
+spam blocking,software block spam,blocking spam tips,spam filter tips,get rid spam,remove spam
+
+
+Article Body:
+It is impossible that you have never heard of junk mail. But if ever you truly do not know what junk mail is, it is that mail you get that completely irritates you. It is the mail that you never ever wanted to have. It is probably the mail that advertises certain products that you do not even have any idea existed.
+
+If you are one of those who are technologically inclined, surfing on the other Internet, chatting your time away with your buddies through your emails, or playing various games with your friends who come from different locations, then you should pay attention to this essay.
+
+Identifying Spam
+
+The short term for these junk mails is "spam". Just so you would know, spam has become a huge problem for the Internet to solve. As an avid Internet user, you must help fight spam to keep the World Wide Web completely void of any nuisances. But how can you stop spam?
+
+SCBL, which is an acronym for SpamCop Blocking List, is a powerful tool that fights spam. If you use this blocking list, you will surface with success when it comes to blocking a whole lot of spam. However, just like everything else, SCBL also has disadvantages. It also has a big possibility of filtering or blocking email unpurposedly, the mail that you want to receive.
+
+The SCBL is usually thought of as a part of a specific scoring system. It explicitly whitelists your wanted email senders. If you use this whitelisting procedure, bounces from your system, of which are deemed to hit naïve third parties are avoided.
+
+What Does SCBL Do?
+
+Now you know that the SCBL is a blocking list. But still, you do not know what, exactly, it blocks. The SpamCop Blocking List is a list of different IP addresses, which send email, that have already been reported, to those who utilize SpamCop. SpamCop, in turn, is used to block and filter unwanted email.
+
+It acts as quickly as possible for it is an automatic list of websites that transport mails that have already been reported. This includes automated reports, report sources, and SpamCop user submissions. There is no need for you to worry about delisting certain sites because SCBL automatically delists the aforementioned links when the reports end from being sent.
+
+Blocking spam mail not only gives your inbox more space to enjoy, it also shows that you care more about the cyber world. Spam makes the Internet act slower because of its numerous links. Help make the Internet a better place to spend time in. Block spam mail now.
+
+

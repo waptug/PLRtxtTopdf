@@ -1,0 +1,89 @@
+Title: 
+Why Does a Company’s Uranium Resource Calculations Double?
+
+Word Count:
+1583
+
+Summary:
+Changes in uranium mining methods, and changes in subsequent methods for calculating resources estimates, have led to companies increasing the number of pounds of uranium. This has led to some dramatic spikes in share prices for those uranium companies.
+
+
+Keywords:
+investing, stocks, uranium, mining, oil, gold, utilities, nuclear energy, commodities, bull market, labor shortage, drill rigs, exploration, geologist
+
+
+Article Body:
+Have you ever wondered how a uranium company’s “resource calculation” can increase, sometimes even double? I did and I began making inquiries about this. In February, during a meeting, it was a topic of discussion with William Boberg, Chief Executive of UR-Energy (TSX: URE). I have also had talks with David Miller, President of Strathmore Minerals (TSX: STM; Other OTC: STHJF), and his senior geologist, Terrence Osier. The differences in resources reported by a company, in at least one of the examples found below – Strathmore Minerals’ Church Rock property, is because of the mining methods to be used. The grade-thickness applied to the resource may differ between conventional mining (underground, open pit) versus in-situ solution mining. That can increase the size of the estimated resource.
+
+A Canadian listed mining company can not announce its uranium resource estimate unless it files a document called a National Instrument 43-101 (NI-43-101). You may read in some news releases: These are historical estimates. The NI 43-101 came about after the 1997 Bre-X Minerals debacle. Possibly the worst mining scam in Canadian history, it was preceded and followed by other, lesser mining scams. Canadian regulators instituted measures to prevent a repeat performance. A National Instrument 43-101 means that an independent, qualified person has visited the property, reviewed the historical data, and reaches a conclusion on whether or not the property has merit.
+	
+Some of the oft-repeated grumblings by uranium insiders include, “This isn’t a gold property in an Indonesian jungle.” In fact, they are correct. Many of the properties held by some of the front runners for uranium mining development in the United States have had thousands of exploration drill holes, and hundreds (if not thousands) of delineation drill holes. Using UR-Energy as an example, this company’s Lost Soldier project has had more than 3,700 drill holes within a two square mile area. Historically, New Mexico and Wyoming have been two of the world’s top uranium producing areas. It is probably impossible to correctly estimate the total number of holes that have actually been drilled in these two states. In one geological textbook, Boberg suggested that millions of feet have been drilled in Wyoming. 
+
+Insistence by the Toronto Stock Exchange that companies file a National Instrument 43-101 on their properties has worked out in favor of investors. One case in point is Strathmore Minerals. On January 4th, the company issued a news release announcing an increase in its uranium resource estimate at its Church Rock, New Mexico property. The second sentence read, “The 43-101 report provides a new resource estimate which has increased to 11.8 million pounds of U3O8 from the historically reported 6 million pounds U3O8.”
+
+This begs the question, asked at the beginning of this article: “Have you ever wondered how a uranium company’s “resource calculation” can increase, sometimes even double?” Much of what follows is advanced geological mathematics and may be confusing. Behind all the geometrical calculations, there are a few simple explanations. When a major mining company, such as Kerr-McGee, was establishing a uranium resource estimate, it was because its exploration team needed to prove the value of the project and get approval from its board of directors before investing in capital costs. 
+
+Kerr-McGee used the “Circle Tangent” resource method (don’t fall asleep now; we’ll explain that in a moment). Uranium mining in the 1970s and 1980s was mainly underground mining. Capital costs were well above $100 million for a mine and mill complex. They wanted to ensure they had plenty of uranium to feed that mill.
+
+It should be noted that Kerr-McGee, and other underground operators, used a 6-foot true thickness cutoff combined with a 0.1 percent grade cutoff.  This is 0.6GT.  Six feet was the height of the mining equipment and operator.  Phillips Uranium used 8ft at 0.075 percent, but still 0.6GT, because their equipment was larger.  
+
+When the price of uranium rose in the late 1970s, reports, maps, and resource calculation sheets started to show 6ft at 0.05 percent (0.3GT) on them.  The price went up, the recoverable grade went down.  However, the 6-foot height did not change, just the grade they could economically mine.  
+
+With in-situ recovery, the thickness of the intercept doesn’t matter so much.  A lower grade cutoff can be used. When Strathmore reported an initial cutoff grade of 0.03 percent (standard for ISL operations), their geologists used a 0.3GT cutoff to directly compare with the 6ft of 0.05 percent resource of 10.9 million pounds which Kerr-McGee used in 1979.
+
+Most uranium mining in the United States is likely to be in-situ solution mining (ISL). Another method used to calculate resources in tabular deposits is called the “polygonal” method. Tabular deposits are amenable to ISL mining. Some believe these are far more accurate in estimating uranium resources. Others disagree.
+
+It’s not that there is more uranium on the property, or over the past 20-25 years, more uranium “grew” or floated onto the property. It is that the size of the uranium mineralization has been more accurately described.  As bonus to investors, the stock prices often run higher after such announcements are made. In the case of Strathmore Minerals, the stock price rallied by about 10 percent after the company announced the increase in its resource estimate.
+
+Guidelines
+
+The guidelines for defining the amount of uranium mineralization have to do with geometric patterns. Kerr-McGee used blocks in 1985, according to the company’s guidelines. Kerr-McGee would define an ore body, decide if feasible to mine, and then build the mine. When underground and mining, they would proceed with longhole drilling and find more ore. Below is an excerpt from a Kerr-McGee document, which describes how to construct blocks for a “measured resource.”
+
+“For each surface drill hole intercept of material equal to or above thickness and grade cutoffs, a circle shall be drawn using a radius equal to one-half the horizontal distance to the nearest below cutoff hole which tested the entire thickness of the same sedimentary unit, or a radius of 50 feet, whichever is less.
+
+Although the 50-foot radius is the standard area of influence in New Mexico, this can vary depending on the area. Development in Wyoming, for example, currently uses a 25-foot radius circle for open pit “shallow” intercepts (<250’ depth) and a 35-foot radius circle for underground “deep” intercepts (>250’ depth).
+
+Two or more above cutoff holes may be connected to construct a Measured block by lines tangent to the circles provided that:
+
+The above cutoff intercepts TIE, that is, they are in the same lithologic portion of the same sedimentary unit and at least one foot of the intercepts can be connected with each other by a horizontal line. 
+
+There are no below cutoff holes which tested the same sedimentary unit falling within the Measured block.
+
+
+By comparison, Pathfinder Mines, Ranchers Exploration, the U.S. Atomic Energy Commission, and others used the polygonal method. It was first described in 1966 and is used as an acceptable method for calculating a uranium resource (reference appear at the end of this article). Strathmore Minerals uses the Equi-Distance Perpendicular Bi-Sector Polygonal Resource Method because both David Miller (President) and John DeJoia (vice president of technical services) previously worked for Pathfinder Mines. DeJoia is overseeing the geological and permitting work in Santa Fe for Strathmore’s properties.
+
+This polygonal method is described below in constructing the AOI (area of influence) polygons from surface drill holes:
+
+(1) drill holes are plotted on the map, 
+
+(2) drift direction and distance are plotted, and 
+
+(3) lines are drawn connecting neighboring drill holes (we used the bottom-hole location of the drill holes {i.e. end of drift}). 
+
+(4) perpendicular lines were drawn equi-distant between the connected drill holes,
+
+(5) these perpendicular lines were connected with other perpendicular lines, thus
+
+(6) creating an equi-distance AOI polygon about individual drill holes. 
+
+ (7) the areas for each AOI polygon were determined.
+
+The areas are then applied to an Excel file containing the drill hole data (intercept depths and thickness, grade, etc.) to arrive at the various mineral resources calculated at the desired GT (grade x thickness of 0.1 to 1.0) cutoffs. According to Strathmore Minerals senior geologist Terrence Osier, “For the various resources we reported we used a limited, maximum size to the polygon’s area of influence.” With the Church Rock resource estimates, Osier explained the parameters for limiting the resources were as follows: 
+Measured: 100 ft x 100ft (10,000ft2)
+Indicated: 200ft x 200ft minus the measured resource
+Measured and Indicated: maximum sized polygon of 200ft x 200ft (40,000ft2)
+Inferred: 400ft x 400ft minus the measured and indicated resource.
+
+
+Using the polygonal method, companies are increasing their resource estimates above the historically provided data. Additionally, as the spot price of uranium continues to rise (or at least remains above $40/pound), the quantity of economic uranium mineralization increases. At some point, if spot uranium stabilizes at a much higher level, all of the uranium development companies may have to upwardly revise their resource estimates.
+
+(Editor's Note: Special thanks to Terrence Osier, Strathmore Minerals senior geologist, for providing StockInterview.com with this invaluable data.)
+
+
+REFERENCES
+
+Parker, H.M., 1990, Reserve estimation of uranium deposits, in Kennedy, B.A., ed., Surface Mining, 2nd Edition: Society for Mining and Metallurgy, and Exploration, Inc., Littleton, CO, Chapter 3.4.2, p.355-375.
+Popoff, C.C., 1966, Computing reserves of mineral deposits: principles and conventional methods: U.S. Bureau of Mines Informational Circular IC 8283, 113p.
+Sandefur, R.L., and Grant, D.C., 1976, Preliminary evaluation of uranium deposits. A geostatistical study of drilling density in Wyoming solution fronts, in Exploration for uranium ore deposits, Proceedings of a Symposium, 29 March to 2 April, 1976, by the International Atomic Energy Agency, Vienna, p.695-714.
+
+

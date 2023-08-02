@@ -1,0 +1,26 @@
+Title: 
+An Introduction To Label Printers
+
+Word Count:
+493
+
+Summary:
+Label printers have the ability to print on card stock, self-adhesive labels and other materials. The way they differ from regular printers is that they use special feed mechanisms to handle the tear sheets or rolled stock. Label printers have a tiny sensor that is able to detect notches, perforations or lines between labels, notches or gaps, when using continuous label stock to print on. This keeps the print location from shifting and ensures that the print hits the target a...
+
+
+Keywords:
+label printers,labels,thermal transfer
+
+
+Article Body:
+Label printers have the ability to print on card stock, self-adhesive labels and other materials. The way they differ from regular printers is that they use special feed mechanisms to handle the tear sheets or rolled stock. Label printers have a tiny sensor that is able to detect notches, perforations or lines between labels, notches or gaps, when using continuous label stock to print on. This keeps the print location from shifting and ensures that the print hits the target area by letting the label printer adjust and align the print correctly. Some of the applications where label printers are used include retail price marking, fixed assets management, supply chain management, laboratory and blood specimens and shipping labels; and for all these applications they are able to use many different label materials, such as synthetic polymer materials and paper products.
+
+There are two main label printer types, and these are thermal transfer and direct thermal printers. Label printers that are thermal transfer use heat to transfer the ink onto the label from the ribbon for a permanent print. They transfer images onto labels, using an ink ribbon, with the labels normally having a matt finish. Direct thermal label printers use paper that is heat sensitive, with the printing lasting for up to twelve months before fading starts. Exposure to chemical vapors or direct sunlight often increases the speed of fading. This type of label printing is best for short duration applications, such as printing shipping labels. This type of label printer prints images right onto the label using a thermal print head.
+
+Thermal transfer printers use three grades of ribbon, which are resin, wax and wax/resin. Resin ribbon is chemical resistant, scratch resistant and suitable for synthetic, coated labels. Wax, which is suitable and the most popular for semi-gloss and matte paper labels, has some smudge resistance. The resin/wax label printer ribbon is great for synthetic labels, semi-gloss paper and is very smudge resistant. 
+
+Industrial label printers are used in factories, distribution centers, warehouses and other places, where they need a heavy-duty printer for continuous operation. Desktop label printers are inexpensive and quiet, and work well in businesses where they get light to medium usage. The average roll of stock is less than five inches wide. For medium volume printing, commercial label printers hold rolls of stock up to eight inches wide. Another specialized label printer is an RFID reader, which encodes and prints simultaneously on tags or RFID transponders enclosed in printable synthetic materials or paper. They design label printer applications to automate the labeling processes and you generally find them in warehouses and manufacturing facilities requiring labels for pallets and cases.
+
+This is just a simple introduction to the different types of label printers and their uses. If you are thinking of acquiring one, we recommend that you search for them on internet, where you will be able to get all the information you require before making your choice.
+
+

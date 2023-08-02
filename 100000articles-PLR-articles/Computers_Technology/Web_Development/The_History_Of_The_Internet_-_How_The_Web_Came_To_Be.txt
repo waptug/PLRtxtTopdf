@@ -1,0 +1,34 @@
+Title: 
+The History Of The Internet - How The Web Came To Be
+
+Word Count:
+525
+
+Summary:
+The fundamental idea of the internet first came about in a paper that was published in 1960 by J.C.R. Licklider. In it, he articulated the concept of a wide network of computers, and some of the uses that would arise from such a network. Mr. Licklider had ideas that would shape the powerful tool that we use so frequently in modern times.
+
+2 years later, Licklider was hired by the U.S. Government's Department of Defense. Specifically, he worked in a branch called DARPA. At t...
+
+
+Keywords:
+
+
+
+Article Body:
+The fundamental idea of the internet first came about in a paper that was published in 1960 by J.C.R. Licklider. In it, he articulated the concept of a wide network of computers, and some of the uses that would arise from such a network. Mr. Licklider had ideas that would shape the powerful tool that we use so frequently in modern times.
+
+2 years later, Licklider was hired by the U.S. Government's Department of Defense. Specifically, he worked in a branch called DARPA. At that point, they had 3 terminals in their office, and several men worked together on the technical concepts that would allow them to network the computers.
+
+Although they established some groundbreaking computer protocol, their small network was barely a baby step towards what we have today. Computer scientists around the world worked on their own computer networks, trading ideas and information amongst themselves. Networks grew to be more complex, and to contain more computer terminals.
+
+Eventually, the small handful of network owners began to theorize about what sort of possibilities there would be if every single computer network was interlinked into one giant network. Men from DARPA and Stanford University worked on the problem of how so many individual networks could be merged. Eventually they determined that the key was to establish a universal protocol. In order to be a part of the large network, individuals would have to follow the protocol.
+
+Stanford researcher Vincent Serf wrote the "Specification of Internet Transmission Control Program" - which, coincidentally, was the first known use of the word "internet". It also established guidelines known as the TCP/IP. DARPA's network approved this protocol, and it became the only acceptable way to transfer data within its network. The standards were provided to all of the other major networks at the time, and one by one they converted their machinery to the new protocol. Because of this universal compliance, almost any two networks could be joined, no matter what their type was.
+
+The phrase "The Internet" began to be used in reference to a sort of mainframe of inter-connected networks. They could be easily accessed by any machine using the proper protocol. Data could be easily transferred using existing infrastructure - in fact, countless satellite links and phone routing stations were converted to the TCP/IP protocol to further the information-carrying ability of the internet.
+
+Throughout the 80s, the internet began to grow into a worldwide phenomenon. Naturally, almost every country had its own computer enthusiasts and research programs with their own networks established. Word spread of the universal TCP/IP protocol that was connecting computers across the world, and foreign networks enthusiastically adopted these standards. This globalization only contributed more to the spread of the internet, as brain power from across the world was united to optimize the networks and establish the best methods of data sharing.
+
+To this day, TCP/IP remains nearly universal, being used by every internet-compatible computer as well as a huge number of private networks. We can certainly do more with the network than the pioneers of the 80s, but without their work we could still be sending telegrams instead of emails.
+
+

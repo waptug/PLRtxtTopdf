@@ -1,0 +1,54 @@
+Title: 
+Image Processing & Bar Codes - Selecting The Right Bar Code With Image Binarization
+
+Word Count:
+1216
+
+Summary:
+Documents that are scanned for image processing or storage are often captured at 8 bits per pixel. These are referred to as grayscale images in that 256 levels of gray are able to be represented in the image. The capability to represent shades of gray is required to faithfully capture photographs and graphics but is not normally needed for text. Consequently, scanned images are often binarized. This process involves the selection of a threshold value and then changing all pix...
+
+
+Keywords:
+image processing,barcode,software development tool
+
+
+Article Body:
+Documents that are scanned for image processing or storage are often captured at 8 bits per pixel. These are referred to as grayscale images in that 256 levels of gray are able to be represented in the image. The capability to represent shades of gray is required to faithfully capture photographs and graphics but is not normally needed for text. Consequently, scanned images are often binarized. This process involves the selection of a threshold value and then changing all pixel values below that threshold to black and all pixel values above the threshold to white. This compresses the image by only requiring 1 bit per pixel instead of 8 bits per pixel. For example, an 8.5 inch by 11 inch document scanned at 200 samples per inch, has its storage requirement drop from 3.6 megabytes to 450 kilobytes. Binarization also occurs when documents are transmitted by fax as images are created that are represented with 1 bit per pixel as well.
+
+Given a proper threshold, binarized images that contain text can normally still be read by either human eye or OCR algorithms. Indeed, some OCR algorithms begin the OCR process by binarizing the image as the text is typically dark against a lighter background. However, if bar codes are present within the binarized image, they can by altered enough by the binarization process to cause difficulty for a decode algorithm. The image to the left (http://www.omniplanar.com/_upload/CodePics/Code39-GreyscaleWeb.gif) shows part of the start pattern of a Code 39 linear bar code. The top portion shows the image represented as 8 bits per pixel, while the lower portion shows a binarized version using a threshold of 100. Note that the smooth transitions from white to black in the grayscale image have been transformed into ragged edges that have plus or minus one pixel variability. As a result, the width of each bar or space can vary by plus or minus 2 pixels. Given that the information in linear bar codes is contained in the widths of the bars and spaces, decode problems can result depending on the size and type of the original bar code symbol. The remainder of this article will focus on two issues that should be considered to improve the read rate of binarized bar codes: sample density and symbology type.
+
+Sample Density
+
+Sample density is the number of samples per unit area that an image is captured. Typical sample densities used for document processing range from 200 to 300 samples per inch (dots per inch or DPI). Fax transmission can vary from 100 up to 400 DPI. In bar code decoding, a more important parameter to consider is the samples per module, where the module size is the size of the smallest feature of the bar code. This distance is also referred to as the X dimension. This parameter includes both the sample density of the image capture device along with the size of the bar code being scanned. If a bar code decoding software toolkit requires a minimum of 1.6 pixels per module for linear bar codes in a grayscale image. From above, if the width of a bar or space can vary by 2 pixels after binarization, one can see that problems can exist in the short widths at this low sample density. Consequently, it is recommended that a typical value of 4 pixels per module for bar codes that will be binarized. For a document scanned at 200 DPI, this requires a minimum module size in the printed bar code of .020 inchs or 20 mils. Increasing the samples per module beyond 4 is also recommended for images that will go through multiple binarization processes such as documents that will be faxed multiple times.
+
+Symbology Type
+
+The choice of symbology used to encode data should also be considered carefully.  Linear (or 1D) bar codes can be broadly classified into two distinct groups: wide/narrow codes and multiple width codes. In a wide/narrow code, each bar or space can only be either narrow or wide. The wide to narrow ratio, which gives the size ratio between the two widths, typically ranges from 2 to 3. Popular symbologies that use only 2 widths include Code 39 and Interleaved 2 of 5. Multiple width codes have more than 2 possible choices for the widths of bars and spaces. Popular symbologies that employ more than two possible widths include UPC and Code 128, both of which allow a bar or space to be either 1, 2, 3, or 4 modules. Given the same samples per module, wide/narrow symbologies typically survive the binarization process with higher read rate performance than their multiple width counterparts. This is simply due to the fact that in the presence of edge variation due to binarization, it is easier to determine if a run is X or 3X wide (where X is the length of a module and an assumed wide to narrow ratio of 3) or if it is 1X, 2X, 3X or 4X as is the case with multiple width symbologies. The table below classifies some popular linear symbologies into the two classes mentioned above.
+
+Wide/Narrow
+	
+Codabar	
+Code 39	
+Interleaved 2 of 5	
+Patch Code
+
+Multiple Width
+
+Code 128
+Code 93
+RSS
+UPC
+
+While wide/narrow symbologies are preferred in applications where binarization will occur, they do not normally have as high a data density (data stored per unit width) compared to multiple width symbologies with the same X dimension. This can be an issue where limited space on the document is provided for the bar code symbol.
+
+2D Symbologies
+
+2D (or two-dimensional) matrix symbologies are typically presence/absence codes. They use a regular grid of possible cell positions, and the presence or absence of a cell in a grid location encodes the data. Two-dimensional symbols have much higher data density than 1D codes as information is stored in both dimensions of the symbol. In addition, they normally provide error correction to provide redundancy in case some cell data values can not be determined. When a 2D symbol is binarized with sufficient samples per module (the size of a grid position), they tend to do better than linear codes as the edge information is not as critical: it is the position of the center of the cell that is more important. Decoding software may require a minimum of 2.75 pixels per module in a grayscale image for reliable operation.  If additional samples per module beyond 2.75 is provided, performance continues to improve and is a good choice for images that will undergo multiple binarizations.  A sample density of 5 pixels or more for 2D matrix symbologies gives good read performance after binarization. Popular 2D Matrix codes include Data Matrix, QR Code, and Aztec Code.
+
+PDF417 is often referred to as a 2D symbology. However, it is not a true matrix code. It is a stacked linear code, consisting of multiple rows of short linear codewords. It allows bars and spaces to have up to 6 different widths and as such it can be adversely affected by binarization at lower samples per module.
+
+Summary
+
+In applications where scanned documents containing bar codes are to be binarized, read rate performance can be improved by using linear symbologies that employ only wide/narrow choices for bars and spaces along with at least 4 or more pixels per module. Two-dimensional matrix codes are a good choice when binarization is used with a minimumof 5 pixels per module, and they provide the added benefit of increasing data density of the bar code symbol.
+
+

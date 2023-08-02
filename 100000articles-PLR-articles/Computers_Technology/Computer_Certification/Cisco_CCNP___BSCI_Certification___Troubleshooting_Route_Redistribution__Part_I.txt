@@ -1,0 +1,84 @@
+Title: 
+Cisco CCNP / BSCI Certification:  Troubleshooting Route Redistribution, Part I
+
+Word Count:
+457
+
+Summary:
+Route redistribution looks easy, but there are details you must master to pass the CCNP exams and become a master networker.  Learn how to troubleshoot one common redistribution error from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccnp, bsci, exam, certification, pass, route, redistribution, subnets, ospf, rip, bgp, table, show, ip , route, version, 2
+
+
+Article Body:
+If there's one CCNP / BSCI topic that looks so easy but can lead to a real headache, it's route redistribution.   I'm not even talking about the routing loops and suboptimal routing that can result when route redistribution is done without proper planning - I'm talking about the basic commands themselves.  Leaving out one single command option, or forgetting what else needs to be redistributed when redistributing dynamically discovered routes, can leave you with a routing table that looks complete but does not result in full IP connectivity.
+
+In this free CCNP / BSCI tutorial series, we'll take a look at three common errors in route redistribution configurations, and how to fix them.  We'll use three routers, R1, R3, and R5.  R1 and R5 are in a RIPv2 domain and R1 and R3 are in an OSPF domain.  R1 will be performing two-way route redistribution.
+
+R5 is advertising its loopback, 5.5.5.5/24, into the RIPv2 domain.  R1 sees this route in its RIP routing table:
+
+R1#show ip route rip
+
+     5.0.0.0/24 is subnetted, 1 subnets
+
+R       5.5.5.0 [120/1] via 100.1.1.5, 00:00:01, Ethernet0
+
+For R3 to see this route, route redistribution must be configured on R1.  We'll use the redistribute rip command to do so.
+
+R1(config)#router ospf 1
+
+R1(config-router)#redistribute rip
+
+% Only classful networks will be redistributed
+
+The router immediately gives us a message that "only classful networks will be redistributed".  What does this mean?  Let's go to R3 and see if that router is receiving this route.
+
+R3#show ip route ospf
+
+  < no output >
+
+When we get no result from a show command, that means there's nothing to show.  The only routes that will be successfully redistributed with the current configuration on R1 are classful networks, and 5.5.5.0/24 is a subnet.
+
+To further illustrate the point, a classful network has been added to R5.  This network is 16.0.0.0 /8, and is now being advertised by RIP.  R1 sees this network as classful...
+
+R1#show ip route rip
+
+R    16.0.0.0/8 [120/1] via 100.1.1.5, 00:00:00, Ethernet0
+
+     5.0.0.0/24 is subnetted, 1 subnets
+
+R       5.5.5.0 [120/1] via 100.1.1.5, 00:00:00, Ethernet0
+
+... and R3 is receiving the route through redistribution.
+
+R3#show ip route ospf
+
+O E2 16.0.0.0/8 [110/20] via 172.12.123.1, 00:00:08, Serial0.31
+
+To redistribute both classful and classless networks, the option "subnets" must be added to the redistribute command on R1.
+
+R1(config)#router ospf 1
+
+R1(config-router)#no redistribute rip
+
+R1(config-router)#redistribute rip subnets
+
+R3 will now see both the classful and classless networks being redistributed into OSPF.  (100.1.1.0 is the network connecting R1 and R5.)
+
+R3#show ip route ospf
+
+O E2 16.0.0.0/8 [110/20] via 172.12.123.1, 00:00:20, Serial0.31
+
+     100.0.0.0/24 is subnetted, 1 subnets
+
+O E2    100.1.1.0 [110/20] via 172.12.123.1, 00:00:20, Serial0.31
+
+     5.0.0.0/24 is subnetted, 1 subnets
+
+O E2    5.5.5.0 [110/20] via 172.12.123.1, 00:00:20, Serial0.31
+
+This is one of the most common errors made during route redistribution, but now you know what to look out for!  In the next part of this free CCNP / BSCI tutorial, we'll take a look at another such error.
+
+

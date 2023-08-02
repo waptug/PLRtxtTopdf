@@ -1,0 +1,24 @@
+Title: 
+How To Search Text In Portable Document File (pdf) Documents
+
+Word Count:
+547
+
+Summary:
+So, you want to learn about the options that Adobe has on offer for performing text search your PDF documents. Adobe does offer a number of tools that can help you find exactly what you want. You can search for specific words inside an open PDF file, within a set of PDF files, PDF files available on the Internet, or within a catalog of indexed PDF documents. You can search for words within the text, layers, and fields of a form, signatures, attachments, bookmarks, comments, d...
+
+
+Keywords:
+searh PDF,searching Adobe Acrobat files,find pdf
+
+
+Article Body:
+So, you want to learn about the options that Adobe has on offer for performing text search your PDF documents. Adobe does offer a number of tools that can help you find exactly what you want. You can search for specific words inside an open PDF file, within a set of PDF files, PDF files available on the Internet, or within a catalog of indexed PDF documents. You can search for words within the text, layers, and fields of a form, signatures, attachments, bookmarks, comments, document properties and within almost anything you can imagine. Most of the search options are used by Adobe by default whenever you perform a search while for some you have to use specific tools.  
+
+To search for words within a PDF file, you can use the Search PDF window or a Find toolbar. While basic function performed by the two options is almost the same, there are differences in the scope of the search performed by both. The Find toolbar allows you to search for text within the current PDF document while the Search PDF window allows you to search more areas by providing advanced options for searching in more than one PDF, indexed PDF or PDF files that are online. Search PDF also allows you to search your attachments to specified in the search options. 
+
+You can search for text by using the Search PDF window following some simple steps. To perform a search within a single PDF document, you can first open the PDF document and click on the black binoculars icon. This allows you to perform the basic search. To perform an advanced search, click Use Advanced Search Options. Now to begin searching, type the words, words or parts of a word that you want to search. Now select the search options form the available options by clicking Search Options or specify advanced criteria by clicking Advanced Search Options. Next, click Search. The search results will then appear in the page order with each result bearing an icon to specify its type of occurrence. To open a result item, click an item in the Results list. The occurrence is highlighted and the Back and Forward navigation arrows are enabled that allow you navigate within the results pane. You can keep browsing the results even while the search is being performed by using the keyboard shortcuts. You can stop the search at any time by clicking Stop button that appears under the search results. Doing this will only list the results found till the time you stopped the search. This does not close the search window or delete the occurrences found so far in the search results. Once you stop the search you cannot resume it to search further. For doing this, you will have to start afresh. 
+
+The Advanced Search options available in the Search PDF window allow you to enhance the scope of your search or restrict the scope. It allows you to search for exact words or phrases, any word within a set of words or phrases, all the specified words irrespective of their order, Boolean queries. The Look In menu lets you select the location where you want to search. You can either search within the current PDF, an index or a drive on your computer.
+
+

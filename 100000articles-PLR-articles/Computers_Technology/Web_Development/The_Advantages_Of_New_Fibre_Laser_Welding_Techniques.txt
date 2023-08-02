@@ -1,0 +1,42 @@
+Title: 
+The Advantages Of New Fibre Laser Welding Techniques
+
+Word Count:
+828
+
+Summary:
+A fuel cell is an electro chemical energy conversion device, which produces electricity from external supplies of fuel (on the anode side) and oxidant (on the cathode side). These react in the presence of an electrolyte to produce energy.
+
+Since a typical fuel cell produces less than one volt, in practical application cells are 'stacked' in parallel to create a useful voltage.  Thus a typical fuel cell is made up of many thin sheets, usually of stainless steel, which must b...
+
+
+Keywords:
+fibre laser wedling, laser, fiber lasers, spi lasers, fibre laser, lasers, fiber lasers
+
+
+Article Body:
+A fuel cell is an electro chemical energy conversion device, which produces electricity from external supplies of fuel (on the anode side) and oxidant (on the cathode side). These react in the presence of an electrolyte to produce energy.
+
+Since a typical fuel cell produces less than one volt, in practical application cells are 'stacked' in parallel to create a useful voltage.  Thus a typical fuel cell is made up of many thin sheets, usually of stainless steel, which must be welded together to form the fuel cell stack.
+
+Welding of the plates is by far the most time consuming process involved in the manufacture of fuel cells - there is about one meter of welding required for every single plate in every single fuel cell stack - that is about 400m of welding for each eco-car.   Optimising the welding process offers the opportunity to make significant savings in the cost of production of fuel cells.  
+
+The issues here are all related to the difficulty of achieving a small, clean, reliable weld at viable production speeds using traditional laser welding techniques.  To solve these problems, the leading-edge manufacturers are now looking to fibre laser welding technology.
+
+The key advantages of fibre lasers over other laser technologies are its high beam quality, energy & power stability, giving higher power density and a greater breadth of control, as well as its low total cost of ownership. The high beam quality of the fibre laser enables the beam to be focused to a small spot with a correspondingly high energy density. This enables very fast and efficient processing, yielding welds with a high aspect ratio. Compared with other laser sources, the fibre laser can produce welds with significantly lower heat input resulting in less distortion of the welded plates. The high energy stability, typically +/-0.5%, gives welds of consistent profile and penetration with extremely low levels of weld root porosity.
+ 
+It is recognised that other laser technologies are capable of making such welds, but the fibre laser offers a solution that welds faster with higher quality at a lower operational running cost. "We believe that the cost-performance capability of a standard 200W fibre laser will act as an enabling technology in the battle to drive down production costs of tomorrows fuel cells" said John Tinson.
+
+The fuel cell plate requires a high aspect ratio weld (typically 3:1 or 4:1) in order minimise heat input to the plate and keep distortion to an acceptable level.  The beauty of the fibre laser is that it readily achieves this with spot sizes of less than 200 m.  As a result, distortion of the plates, a potentially cumulative problem when the plates are stacked, can be minimised.
+
+Metallographic analysis of 'key-hole' and high aspect ratio welds often reveals problems with weld porosity, particularly in the root of the weld. In the fuel cell application the integrity of the weld is vitally important and a fully hermetic seal is a prime requirement.  A poor quality weld could lead to serious performance problems over the life of the fuel cell, or even leakage of hydrogen or other fluids. Experience has shown that the fibre laser, with its exceptionally high power density at the work-piece, is particularly good producing consistently reliable, non-porous welds.
+
+Another problem noted by some manufacturers using YAG or CO2 lasers is the possibility of 'humping' of the weld, when the laser is operated at high production speeds.  This is the phenomenon whereby the inherent fluid instability of the melt pool at high weld speed creates a 'hump'.  It is seen as a problem by some manufacturers because it can limit production speed, but it is not a problem with a standard 200W fibre laser, even at speeds of up to five or six metres / minute it can produce over 2,500km of weld per annum.
+
+In a production environment fibre lasers have a reputation from extremely high up times and have no operational consumables, unlike other laser sources such as Nd:YAG lasers that require a  periodic change of flash lamps or CO2 lasers which need supply of consumable gases. Additionally the high electrical efficiency of fibre lasers - up to ten times more efficient in power consumption than Nd:YAG equivalents mean that they offer significantly lower running costs. They can be used for welding 'on demand' unlike some other types of lasers with no need for warm-up, further reducing energy consumption and run through scrap. As fibre lasers are sealed units with no lamps that need changing or mirrors to realign, they have a very low maintenance overhead, yielding savings of thousands of £ per annum per laser. 
+
+Fibre lasers offer fuel cell manufacturers an attractive "green manufacturing" technology, providing high productivity / high integrity welding with low operating costs for this critical application.
+
+Results from leading manufacturers in this field show that fibre laser welding will play a significant role in tipping the balance for fuel cell technology from a 'promising idea' to a serious commercial solution to the world's energy-usage problems.
+
+

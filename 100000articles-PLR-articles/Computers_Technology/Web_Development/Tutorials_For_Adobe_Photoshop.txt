@@ -1,0 +1,40 @@
+Title: 
+Tutorials For Adobe Photoshop
+
+Word Count:
+479
+
+Summary:
+Here are six simple and very important tools you need to know and have to learn before you master photoshop. Starting with the Brush Tool, Pencil Tool, Eraser Tool, Paint Bucket Tool, Gradient Tool, Text Tool each tool has it's own part to play in photoshop
+
+The Brush Tool (B) is suitable for softedged painting or drawing. Draw strokes by clicking and dragging the mouse over the canvas. You can change the brush size and other settings in the options bar at the top of the wi...
+
+
+Keywords:
+photoshop,adobe,tutorials,paint,photography,photoshop 7,photoshop cs,photoshop tips,photoshop tricks
+
+
+Article Body:
+Here are six simple and very important tools you need to know and have to learn before you master photoshop. Starting with the Brush Tool, Pencil Tool, Eraser Tool, Paint Bucket Tool, Gradient Tool, Text Tool each tool has it's own part to play in photoshop
+
+The Brush Tool (B) is suitable for softedged painting or drawing. Draw strokes by clicking and dragging the mouse over the canvas. You can change the brush size and other settings in the options bar at the top of the window.
+
+The Pencil Tool (B) is suitable for hard-edged drawing or painting and has similar options to the Brush Tool for setting its size, opacity, and more. The Pencil Tool is often used for drawing on, and editing individual pixels in, zoomed-in images.
+
+The Eraser Tool (E) removes pixels from the canvas. You can choose between Pencil, Brush, or Block mode from the Mode drop-down menu in the options bar.
+
+The Paint Bucket Tool (G) fills a selection with a flat color. To use the Paint Bucket Tool, click once in the area that you wish to fill. If the chosen area is not within a selection, the Paint Bucket Tool will fill all similarly-colored pixels within the vicinity of the clicked area.
+
+The Gradient Tool (G) fills a selection with a blend of two or more colors, known as a gradient. You can easily create your own gradient, or use any of the preset gradients available in Photoshop.Display the gradient presets and tools by clicking on the small triangle on the righthand
+
+side of the Gradient Tool. Apply a gradient by setting your desired colors, choosing your gradient style, then clicking and dragging the cursor over the area to be filled.
+
+The Text Tool (T), true to its name, creates text layers. This one’s easy to use—just select the Text Tool, click on the canvas, and start typing! You can also click and drag to create a rectangular text area that will force text to wrap within its boundaries.
+
+You can change the font size, color, and other text properties using the options bar along the top of the window. When the Text Tool is active, you can move the cursor outside of the text area. The cursor will change from the “text insert” cursor to the “move” cursor, and you’ll be able to move the text layer around.
+
+It’s worth noting that when the Text Tool is active, you can’t use keyboard shortcuts to access other tools. This may seem like an obvious thing to point out now, but it won’t always be so apparent—especially when your text mysteriously starts spurting strange characters because you’ve been trying to use the shortcut keys!
+
+To finish using the Text Tool, press Ctrl-Enter (Command-Return on a Mac). You can then resume your regular keyboard shortcutting!
+
+

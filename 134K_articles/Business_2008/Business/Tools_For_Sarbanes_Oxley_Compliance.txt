@@ -1,0 +1,42 @@
+Title: 
+Tools For Sarbanes Oxley Compliance
+
+Word Count:
+704
+
+Summary:
+This article discusses several tools for Sarbanes Oxley compliance.
+
+
+Keywords:
+Oxley, Sarbanes, tools, compliance, information, business
+
+
+Article Body:
+The Sarbanes Oxley Act of 2002 (SOX) has set in place some of the toughest corporate governance standards in the world. In light of the ongoing enforcement of such accountability legislation, the need for software solutions to help organizations manage the challenges associated with Sarbanes Oxley compliance is tremendous. There are a number of points to be considered when seeking out Sarbanes Oxley software.
+
+A good Sarbanes Oxley software solution should provide an integrated platform with specific modules designed to meet all of your SOX 302 and 404 needs. Integration points for document management, control monitoring, business intelligence and internal auditing are key. Adopting an integrated architecture reduces the time and effort involved in gathering and reporting on Sarbanes Oxley compliance, risk management, and other governance data.
+
+Such a tool should also help organizations meet additional governance responsibilities including the standards set out in the COSO ERM framework and emerging Basel II requirements. It should identify problems, monitor process performance, assign responsibilities and prioritize action items. It goes without saying that an ideal Sarbanes Oxley software solution should be able to be customized to meet the unique needs of your organization.
+
+Case Study: McDonald’s Corporation
+
+New requirements for internal auditing and operational risk management demand the development of powerful solutions to address the specific needs of Sarbanes Oxley as well as broader governance requirements. This is true as much for mid-market organizations as it is for multinational corporations. 
+
+For example, McDonald's Corporation, the fast-food giant, has been in business for 50 years and is worth a reported $19 billion. With more than 32,000 locations in 120 countries around the world, McDonald's is perhaps the most visible corporate brand. The corporation owns nearly 30 percent of its locations directly, and employs more than 435,000 people. 
+
+As early as 2003, well before the final regulations enforcing the Sarbanes Oxley Act were written, McDonald's executives knew they faced a tremendous challenge in complying with sections 302 and 404 of the law. Its auditors and managing executives would be busy enough just working with local business units to ensure that deadlines were met and correct data gathered. The company needed a proven IT platform to serve as a framework and repository for that crucial compliance work.
+
+McDonald’s knew it wanted to use an industry leading, risk-based framework built on standards from the Committee of Sponsoring Organizations (COSO), since the COSO framework was already well-known and had the support of important regulatory boards such as the Public Company Accounting Oversight Board (PCAOB). The solution needed to be able to be easily bolted onto McDonald's systems and allow SOX project managers to work immediately.
+
+Paisley Consulting, the recognized global leader in corporate governance, enterprise risk management and audit management, offered the proven solution that McDonald's was looking for. Risk Navigator® would let McDonald's Global Sarbanes Oxley team load a standard set of controls into the tool, and then coordinate a global compliance effort where the core team could direct specific business units to focus on specific controls at certain times. 
+
+The Risk Navigator solution was initially phased in starting in the fall of 2003 beginning with a pilot program in Great Britain. Excel spreadsheets were used to load the global standard COSO framework into Risk Navigator for each market. Managers then used the framework to do their documentation and testing. Once the pilot proved successful, McDonald's brought Risk Navigator into its North American and European operations. Asian operations were brought onto the system in 2005, and McDonald's plans to include Latin American locations in late 2006. 
+
+With the global SOX team collaborating with local teams in an ongoing, sustainable effort, an estimated several hundred McDonald's managers use Risk Navigator today in some capacity. Risk Navigator cleared a path for one of the world's most prominent and geographically diverse businesses to comply with a complicated regulatory measure by the required deadline while empowering them to build a global repository of best practices for financial operations. 
+
+Summation
+
+Keeping up with complex regulations such as the Sarbanes Oxley Act and sustaining those compliance activities with constrained time and resources is a daunting task for even the most visible businesses. If you’re looking for a more efficient alternative to first-generation Sarbanes Oxley compliance software, spreadsheets and other manual approaches to Sarbanes Oxley, Paisley Consulting can help.
+
+

@@ -1,0 +1,56 @@
+Title: 
+High Definition DVD – The Format War’s Second Act
+
+Word Count:
+1129
+
+Summary:
+Once again, there is a technology format war looming on the horizon. Many people don’t remember the VHS - Betamax battle that broke out when video players were first introduced, making it possible for people to watch movies at home. This was a case of two non-compatible technologies, each of which was a format for taping full length feature films. Ultimately VHS won out, and the movie companies put out their products in that format – thus dooming Betamax and the product manuf...
+
+
+Keywords:
+website hosting, dvd, format, war, HD DVD, Blu Ray, discs, Sony, Betamax, VHS
+
+
+Article Body:
+Once again, there is a technology format war looming on the horizon. Many people don’t remember the VHS - Betamax battle that broke out when video players were first introduced, making it possible for people to watch movies at home. This was a case of two non-compatible technologies, each of which was a format for taping full length feature films. Ultimately VHS won out, and the movie companies put out their products in that format – thus dooming Betamax and the product manufacturers that had adopted their technology, not to mention the thousands of consumers that had invested in Betamax players. We now find ourselves on the verge of creating a new set of sore losers.
+
+Skirmishes over LCD versus plasma screen HD TV technology are ongoing, but that type of technology contest isn’t as acute because you can watch TV or a movie on either type of screen. Currently, you can also play every DVD available on any DVD player that is in production and on the market. The next generation of DVD players, however, is coming over the horizon in the form of two distinct and incompatible technologies.
+
+Toshiba versus Sony
+
+Toshiba has developed a proprietary technology dubbed high definition DVD (HDDVD) and to support their format has developed alliances with Microsoft and Universal Films, among others. The HDDVD disks will be available in 15GB and two sided, 30GB versions.
+
+By way of comparison, the current DVDs have enough storage for two hours of standard definition (SD) images, while the one-sided 15 gigabyte HDDVD disk can store up to eight hours of high definition (HD) images. The difference between SD and HD is simply twice the number of pixel lines displayed on the screen in the HD format, thus providing a crisper picture. The increased capacity of these disks will also allow for interactive features such as screen-in-screen director’s discussion of movie scenes playing behind him that today’s standard DVDs cannot support.
+
+In the other corner is the Blu-Ray technology developed by Sony, who has lined up support from Apple, Disney and 20th Century Fox. Both formats use blue laser technology, which has a shorter wavelength than red, allowing it to read the smaller digital data "spots" packed a lot more densely onto a standard-size disc. Blu-Ray disks are designed to carry up to 50GB of digital material, which may mean that Sony wins the compression competition.
+
+The Early Rounds
+
+Sony Pictures released the first six films on Blu-Ray disks in June of this year, and have released a few more since. Samsung has a Blu-Ray DVD player in the stores, while Sony’s hardware division has released a Blu-Ray compatible PC. Toshiba has its initial HDDVD player on the market and there are a limited number of titles available in the format, mostly re-releases of previous first-run features.
+
+Sony clearly jumped out to an early lead, with support from Dell, HP, Mitsubishi and a number of other hardware manufacturers. In addition, Sony Pictures also owns Columbia and MGM, giving them an enormous library to work with. Sony will also fold its technology into the PlayStation 3 gaming machine, their proprietary product whose 2nd version rules the roost in the videogame market.
+
+On the Toshiba side of the battlefield, proponents argue that the HDDVD disks will be cheaper to produce and that it will be comparatively easy for disk replicators to retrofit their equipment for production purposes. The HDDVD format also makes production of recordable DVDs much simpler than with the Blu-Ray design.
+
+Further, an alliance with Microsoft will be a formidable edge in this battle, should it turn into a protracted conflict. Microsoft’s operating systems are going to be important cogs in the development of future home viewing systems, as the technology moves closer to merging the functions of computers and televisions. If movie downloads become a commercial success, PC compatibility will be critical for these disks.
+
+The Consumer Issues
+
+One of the reasons that Microsoft aligned with Toshiba’s technology is that HDDVD provides for “mandatory managed copy.” What that means is that unlike with today's conventional DVDs, managed copy allows consumers to make legitimate copies of their HD movies and enjoy this content around the home or across their personal networks. Making this feature mandatory will ensure a consistent consumer experience across all next-generation DVD content.
+
+Then there is the element of iHD, which is the concept of maximizing high definition video for transport across the internet. This is a specific set of video specs which the iHD.org, a group of tech and media companies, is pushing as a cross-platform standard.
+
+The theory is that next-generation HD movies will provide a level of interactive experience well beyond that of today's conventional DVDs. iHD technology is meant to provide a broad foundation to enable new interactivity with standards-based development tools and technologies.
+
+The pitch for this standard is that it will provide consumers with enhanced content, navigation and functionality for HD films. The business reality is that Microsoft plans to implement iHD support in its Windows Vista operating system, which will not only be a significant step towards integrated video and computer systems but will make help drive adoption of the new Microsoft platform.
+
+Duel to the Death Unlikely
+
+There is some indication that all of these conflicting issues may ultimately force a compromise – some sort of merger or unification of the two technologies. Hardware manufacturers are hedging their bets, with the latest wrinkle being that Blu-Ray-aligned Hewlett Packard has requested that mandatory managed copy and the iHD standard be included in Blu-Ray’s feature set. Sony has agreed to include the managed copy feature, but said no to iHD.
+
+The Betamax – VHS battle was a tussle over hardware with the movie companies playing a predominant role, one Sony lost. This time around, there is much more uncertainty about how the next generation of home video will roll out. How will the Web and the PC fit in? Will the movies be delivered via disk or via download? How will the film industry protect its content rights and how can the hardware companies maximize their role?
+
+PCs have become a commodity. If a scenario arises where every household needs a new computer to match up with new video technology, the Dells and HPs of this world stand to win big. If competing technology keeps people from investing in either, every involved business will suffer. If the film and DVD houses have to produce two sets of content and two disks for every film, their margins will grow considerably thinner as well. The tech bloggers seem to be increasingly inclined to believe that unification of some sort is inevitable. The corporations with the most to lose are too smart not to insist on it.
+
+

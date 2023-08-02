@@ -1,0 +1,65 @@
+Title: 
+Audio Books: How To Download Them To Your Mp3 Player Hassle Free
+
+Word Count:
+883
+
+Summary:
+Are MP3-technology portable players only good for playing cool tunes downloaded from the net? Far from it. They offer an alternative and a convenient listening addition to audio books on tape or CD.
+
+What used to take days or weeks of waiting for the mail carrier to deliver your audio books on tape or CD, it now takes no more than a few minutes. You can be listening to your favorite MP3 books straight away. And it’s going to get even better, easier and quicker, judging from...
+
+
+Keywords:
+audio books,MP3 books, books on tape, books on CD
+
+
+Article Body:
+Are MP3-technology portable players only good for playing cool tunes downloaded from the net? Far from it. They offer an alternative and a convenient listening addition to audio books on tape or CD.
+
+What used to take days or weeks of waiting for the mail carrier to deliver your audio books on tape or CD, it now takes no more than a few minutes. You can be listening to your favorite MP3 books straight away. And it’s going to get even better, easier and quicker, judging from the giant advances in audio and web technologies in recent months.
+
+The hard-core audiobook listeners may take a while to “convert” from using tapes and CDs to an MP3 format. The sheer convenience, perfect control and the size choices MP3 players offer, the “change-over period” is likely going to be a short one.
+
+So, if you are a budding MP3 book pioneer and want the latest portable audio technology conveniences, they are waiting here to serve you without having to spend a fortune or extra time to do it right.
+
+To download audio books in MP3 format to your computer and over to your MP3 player, look at the exact steps you need to take to do it quickly and easily.
+
+Just note the following instructions use Windows Media Player - Version 10 as an example.
+Let’s assume you are already good at downloading files from the web onto your computer.
+Let’s also assume that you already own an MP3 player, but don’t know how to do this transfer correctly yet.
+
+1. If you are using an older version of Windows Media Player and need to upgrade, surf over to Microsoft and download it at http://www.microsoft.com/windows/windowsmedia/download. Follow the installation instructions.
+
+2. Download the MP3 books to your computer. It is a good idea to create a separate folder, say in “My Documents” folder and name it “My Audio Books”. It allows you to keep your audio book downloads all in one location. Done it? Good.
+
+3. Now, connect your computer (switched on) to the MP3 player using the USB cable supplied with your player.
+
+4. Once the connection between the two is live, your computer will show that it has found a new piece of hardware. If it doesn't say this, just unplug everything in the above sequence and try again.
+
+5. Is it working now? Okay. Open your Windows Media Player and open the audio book MP3 file you want to copy. This will open your audio book in the main display area of Windows Media Player.
+
+6. Add the audio book to the Sync List of your Windows Media Player.
+
+7. Go ahead and click on the Sync tab on the Windows Media Player. It brings you to a pull-down arrow menu on the left-side box of the Sync tab. Make sure you select the choice "Removable Disk (E)", or the name of your MP3 player as the source where the audio book will be copied to.
+
+8. Do you see a display with the choice to "Start Sync" right now? Great! Go ahead and click on it. Once you’ve done this, the Windows Media Player will let you know that it's sending the audio book to your MP3 player.
+
+9. As soon as the sync (or copying) of the audio book file is complete, you can check to assure it is on your MP3 player. See it there? Excellent. One more step to go.
+
+10. To finish this process properly, ensure you click on your PC's hardware icon (found in your system tray – in the right bottom corner - usually a small icon with a green arrow) to "Safely Remove Hardware".
+
+Don't remove the USB cable until you get a clear signal saying "Safe To Remove Hardware".
+
+Removing the USB cable without following this step may damage both your computer and the MP3 player.
+
+Note:
+Are you using an older version of Windows Media Player? Even so, you can still follow the steps above. The only major difference is that instead of having "Sync", you will have "Copy" in the menu. You can click on it and follow the same steps above to have your audio book copied to your MP3 player.
+
+If you have a portable MP3 player that uses a drag-and-drop file method instead of Windows Media Player synchronization, then the steps are easy to follow. Simply connect your player to the computer as above. Open the player’s window by clicking on its name or on “Removable Disc (for example E or F) under “My Computer” icon.
+
+Then, open the MP3 books folder (the location where you have them saved) in a separate window. Keep both windows open side-by-side. Now, left-click, hold and drag the audio files over to the open window of the portable player. Once you release the left mouse button, there will be a short file-transfer moment. Done? Now, your MP3 books are on your player, ready for you to enjoy listening to it.
+
+So, can you play back the audio book from your MP3 player now? If you have followed the steps, you should hear the audio book playing on your MP3 player. If you have difficulties, you can watch an easy-to-follow video that shows you how to do it at http://www.mybigaudio.com/help.html .
+
+

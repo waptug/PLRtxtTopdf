@@ -1,0 +1,50 @@
+Title: 
+Wireless - The Future Of Connecting To The Internet
+
+Word Count:
+762
+
+Summary:
+Wifi or Wireless Fidelity, allows you to connect to the internet from virtually anywhere at speeds of up to 54Mbps. WiFi enabled computers and handsets use radio technologies based on the IEEE 802.11 standard to send and receive data anywhere within the range of a base station.
+
+
+Keywords:
+wifi, wireless internet
+
+
+Article Body:
+What is WiFi?
+
+Wifi or Wireless Fidelity, allows you to connect to the internet from virtually anywhere at speeds of up to 54Mbps. WiFi enabled computers and handsets use radio technologies based on the IEEE 802.11 standard to send and receive data anywhere within the range of a base station. Wireless is a technology that's inexpensive, easy to use, and practical and yet... it's a technology that's still very young. Here's a quick look at what the future could hold for wireless.
+
+The Radio and the Phone
+
+Wireless networks will always win over wired ones, if for no other reason, simply because it is much cheaper for signals to travel through the air than it is to install and maintain wires. For example... consider that telephones were originally used for sending and receiving news reports. When radio was invented, this stopped almost overnight - why bother going to all that expense when it's free 'over the air'? The same principle applies to computer networking.
+
+Imagine having a choice between a wired Internet connection and a wireless one. The only reason to choose a wired connection would be cost because currently it's cheaper? However, that will change soon. Wireless is also easier. Once the cost gap closes, if given the opportunity, there's no logical reason why anyone wouldn't switch to a wireless connection.
+
+WiMAX
+
+WiMAX is the next generation of wireless. It will use a standard called 802.16. The current standard is 802.11. It's still a work in progress, but the possibilities are exciting.
+
+WiMAX stands for Worldwide Interoperability for Microwave Access and is designed to complement existing wireless equipment... rather than replace it. The big advantage of WiMAX is that it greatly increases range. Rather than being measured in square meters, which is how the current standard is measured in, WiMAX ranges will be measured in square kilometers. Some estimates say the best WiMAX stations will be able to transmit up to 50 kilometers or about 30 miles!
+
+Clearly, this opens an incredibly wide range of possibilities. Wireless access would move from LANs (Local Area Networks) to MANs: (Metropolitan Area Networks) covering a whole town or city with wireless access. The question would no longer be if you could connect via wireless, but what WiMAX network you wanted to connect too.
+
+Other benefits of WiMAX include speed of up to 70Mbps (almost 10 MB per second) and better security. Imagine a future where ordering Internet access is as simple as connecting your existing wireless equipment to the network, opening your web browser and buying a low cost subscription. That's it - done. No more access points, no more routers, no more configuration... just wireless Internet, anywhere and everywhere at broadband speeds. WiMAX is in the process of taking the world by storm.
+
+For the latest news on WiMAX visit the WiMAX Forum (a non-profit industry group set up to promote WiMAX) at http://www.wimaxforum.org. WiMAX has been in development since 2001 and the first WiMAX equipment is expected to hit the market in late 2005 or early 2006.
+
+What is Bluetooth?
+
+Bluetooth is a new standard for short range radio connectivity. It is the new and promising field in the wireless communications standardization activities, which will profoundly affect the operation and applications of electronic gadgets of the future. The most obvious purpose of Bluetooth technology is to replace USB and it's designed to eventually replace almost every wire there is… except power cables. What does that mean? It means that someday your TV could be connecting to your DVD player via Bluetooth or your speakers could connect to your radio with it, and so on and so on.
+
+As you get older, expect to see fewer and fewer wires. I know… people said the same thing about paper but it turns out that people like paper and don't want a 'paperless society'. On the other hand, how many people do you know who have cable or wire fetish? The biggest remaining article is reliable wireless power. When they figure out how to provide reliable wireless power (i.e. better batteries)… look out because the flood gates will really open up.
+
+A Simpler Life
+
+Convenience... the first benefit of wireless technology that comes to my mind. Wires have so many flaws, especially when they go long distances and the overall wireless project is to remove the vast majority of them from our lives. Of course, another nice benefit will be cost because once wireless if up and going full-bore it will cost less than wire based transmission.
+
+My prediction... within 10 years, wireless access will be making everyone's life much easier and it will be the norm. The future is wireless!
+
+

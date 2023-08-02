@@ -1,0 +1,34 @@
+Title: 
+How To Keep Everything Protected
+
+Word Count:
+515
+
+Summary:
+Information technology is rapidly evolving as more and more companies use computers to store important data. Although computers are usually quite reliable, one can't be too careful about stuff that matters. One simple human error can cause the loss of all the important information. Theft or simple loss of equipment can cause a great deal of damage to a firm. To prevent this from happening, companies often use tape back-up to be sure that in case of an emergency they will have...
+
+
+Keywords:
+computer virus,online security,computer data
+
+
+Article Body:
+Information technology is rapidly evolving as more and more companies use computers to store important data. Although computers are usually quite reliable, one can't be too careful about stuff that matters. One simple human error can cause the loss of all the important information. Theft or simple loss of equipment can cause a great deal of damage to a firm. To prevent this from happening, companies often use tape back-up to be sure that in case of an emergency they will have a reliable backup from which to recover the data.
+
+But is tape back-up indeed good enough for protecting your valuable data? Sure, it's a time tested method. Nowadays, however, specialists recommend more modern offsite backup services.
+
+What are offsite backup services and how do they work? It's very simple: you just need an Internet connection – the greater the bandwidth the more data you can store – and your offsite backup service will encrypt your data and transmit it to a safe offline location to be stored. It will take some time at first because you'll have to backup all your info, but the next time a change is made in one of the files, the offsite backup service will only encrypt and send the part that has been changed and not the whole file. And that's a great advantage because it will require far less time and bandwidth. Also, all the backups are made at night, when computers are not used so this will not interfere in any way with your work. You won't even know it's there.
+
+What's the difference between tape back-up and an offsite back-up service and why do specialists recommend the latter?
+
+• First, tape back-up costs more and needs a person dedicated to it. But what happens when that person fails in his job or makes a mistake? Human error may occur any moment, and several companies are known to have had serious problems because of failures happening when they didn't have access to their information. An offsite backup will never require this because it is done automatically.
+
+• Secondly, tape backups are stored in the same building or buildings as the computers. The offsite backup services store the data on several servers far from the place the firm is situated. In fact, that is why they are called 'offsite' in the first place! In case of a fire, storm, or any other natural disaster or human error, this becomes very important.
+
+• Thirdly, offsite backup services provide more protection than any other backup method, using encryption, security keys, passwords and secure-sockets every time the data is transmitted. Often, all this is done at the military grade security level of 128-bit encryption keys.
+
+Dial-up connections can be suitable for small firms or those that need no more than about 500 MB of data backed up. The greater the bandwidth, the larger the amount of data the offsite backup service can protect for you.
+
+The fees for offsite backup are normally per month per computer, but often companies can get better deals on discounts, fixed fees, or customized plans from many offsite backup services.
+
+

@@ -1,0 +1,32 @@
+Title: 
+Housecleaning Your Computer Hard Drive: Wipe Disk Free Space
+
+Word Count:
+490
+
+Summary:
+From the earliest beginnings of computer usage the issue of how to prevent private or sensitive information from being recovered has been discussed.  People used to be careful about putting files of this sort into the recycle bin, then emptying the recycle bin. It has become more apparent now though that is procedure does not prevent the access to any and all information which is  or has been stored on the computer at any time in its history.  
+
+Another method commonly beli...
+
+
+Keywords:
+wipe disk,wipe free space,wipe hard disk
+
+
+Article Body:
+From the earliest beginnings of computer usage the issue of how to prevent private or sensitive information from being recovered has been discussed.  People used to be careful about putting files of this sort into the recycle bin, then emptying the recycle bin. It has become more apparent now though that is procedure does not prevent the access to any and all information which is  or has been stored on the computer at any time in its history.  
+
+Another method commonly believed to eradicate private files is the process of defragmentation.  Then the experts assured computer users that even defragmentation was not enough to permanently remove information from the computer.  In essence the statement has been made that the only truly effective way to permanently destroy the information stored on a hard drive is to completely destroy the drive.  
+
+A brief analogy of how the files on a hard drive are arranged might help to understand the difficulty.  If you had an enormous warehouse filled with file folders in file cabinets and drawers and you had some bit of information in one of those files that you no longer needed.  If you left the material in the file folder yet removed and destroyed the label  then returned the folder to a drawer somewhere in one of those cabinets you would have a somewhat similar situation.  The file folder full of information would still be in the file cabinet, but would be impossible to find without going through each folder.  Now imagine this one step further by imagine the computer files with a map to each one's location contained in the registry, then instead of removing the files, you just remove the reference to them from the registry or map.  The files are still there, right where they were before, the map just doesn't show where that somewhere is. 
+
+On the computer registry, when a file is deleted the space where it is located is changed to available, so eventually the file with no map location identified is overwritten with a new file.  The difficulty is that it may take months or even years of writing files to the hard drive before this particular free space is covered up with another file.  
+
+Even then, more sophisticated file recovery software can find and reconstitute the hidden data, sometimes two or three levels down.  
+
+Changing the magnetic orientation of each bit by overwriting numerous times is known as wiping free disk space.  In fact, it is not taking something away, as would be understand by using the term wiping.  It is actually overwriting the spaces which may or may not have files which were deleted.  The same is true of temporary files which can show a determined expert what sites you have visited and what files you have tried to remove from your computer. 
+
+By using wipe disk software on your computer, you can be sure that your deleted files are not recoverable.
+
+

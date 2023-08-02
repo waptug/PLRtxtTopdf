@@ -1,0 +1,46 @@
+Title: 
+Small Wonders: Single Board Computers
+
+Word Count:
+487
+
+Summary:
+What are Single Board Computers
+
+When most people think of computers, the image of a PC or laptop comes to mind. Some may even recall the football field size computers of the 1960's and 70's before the emergence of the PC. Very few people would picture single board computers , even if there was one sitting right in front of them! A single board computer is the terminology used for a printed circuit board that contains a processor, memory, I/O (input/output) and a clock. Sin...
+
+
+Keywords:
+types of computer, single board computer
+
+
+Article Body:
+What are Single Board Computers
+
+When most people think of computers, the image of a PC or laptop comes to mind. Some may even recall the football field size computers of the 1960's and 70's before the emergence of the PC. Very few people would picture single board computers , even if there was one sitting right in front of them! A single board computer is the terminology used for a printed circuit board that contains a processor, memory, I/O (input/output) and a clock. Single board computers (aka SBC's) resemble the motherboard contained in a typical PC, but include all the elements of a basic computer within it's small design. Since the early 1980's, the technology behind this type of computers has been used in industrial manufacturing and computerized product design to apply basic processing functions for high-tech product features.
+
+Usage of Single Board Computers
+
+Also commonly referred to as embedded computers, single board computers are used in products from airplanes and rocket ships, to toys and high performance athletic shoes. Almost everyone uses single board computers without being aware of their existence. Most products that utilize computer technology (such as fax machines, cameras, cell phones, etc) contain embedded single board computers. While these tiny computers can host a full size operating system such as Windows XP, most SBC's have internal operating systems that take up much less space. Simpler operating systems equal a lower cost per computer. Software for single board computers is generally contained on a flash memory system or ROM chip. Quality indictors for single board systems include processor performance, I/O compatibility, SSD storage and wireless capabilities.
+
+Pros and Cons of Single Board Computers
+
+There are both advantages and disadvantages to using SBC's for industrial and product enhancement. Deciding whether or not to implement single board computer technology is largely a matter of application necessity and cost. Some of the deciding factors on using them include:
+
++ Pro : Current technologies have increased the capability of the single board computer, while reducing its size and cost.
+
++ Pro : Wireless technology has made it possible for easy internet access via SBC.
+
++ Pro : The competitive market has greatly expanding the options and functionalities available for SBC's.
+
++ Pro : Advanced computer technology offers reliability for industrial manufacturers and quality products for vendors using SBC's.
+
+- Con : Incorporation can be costly for high volume products and applications.
+
+- Con : Some applications require customized sizes or I/O functions that are not compatible with standard SBC's.
+
+Single Board Computer Technologies
+
+While all SBC's are built using similar standards, different technologies can be included with individual SBC's. Video capability, Ethernet access functionality and digital computer technologies are just some of the features that can be incorporated into a single board computer. In general, SBC's can be as simple or as complex as an application demands. Additionally, supplemental hardware such as backplanes and mezzanine structures can significantly increase the functionality of a single board computer.
+
+

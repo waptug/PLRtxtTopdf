@@ -1,0 +1,26 @@
+Title: 
+Anonymous Proxy
+
+Word Count:
+327
+
+Summary:
+An anonymous proxy, also referred to as an anonymous proxy server, allows a client to access a file, web page, or some other resources through a server which services the requests of the client through another remote server.
+
+
+Keywords:
+Anonymous Proxy
+
+
+Article Body:
+An anonymous proxy, also referred to as an anonymous proxy server, allows a client to access a file, web page, or some other resources through a server which services the requests of the client through another remote server. For example, when a client accesses a web page through an anonymous proxy, the client talks to the proxy and the proxy talks to the web page, maintaining the privacy of the client, such as his/her IP address. The purpose of such a proxy, or a server, is to protect the privacy of the client from the service and from other individuals who may be logging and inspecting the client’s connection.
+
+Such proxies are commonly used in schools and workspaces, to pass-by potential firewalls and monitoring services in place. Students will often utilize anonymous proxies to access social networking websites deemed and blocked by the school as harming the productivity of the students. Employees of a company may try to circumvent forms of monitoring within a company that may try to track or control which websites its employees are visiting.
+
+Anonymous proxies serve as a wall between the client and the service being accessed. These servers can be used to bypass the restrictions and access these services possibly blocked by the country or some other organization providing the Internet connection, while others may use it solely for the privacy that is possibly guaranteed.
+
+
+Risks Behind Anonymous Proxies
+Because of how anonymous proxies, especially those running on web pages, are designed, all data sent to the proxy servers are unencrypted. Therefore, it is possible that confidential information such as logins and passwords can be recorded by a malicious proxy server. Also, through proxy chaining, some clients could potentially fall as victims to a web page displaying a false security measures, allowing all proxies within these chains to trace the client’s activities. Thus, only trusted anonymous proxies with a clear privacy policy should be used for security sake.
+
+

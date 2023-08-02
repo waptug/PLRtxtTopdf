@@ -1,0 +1,30 @@
+Title: 
+Why Spyware Programs Pose A Risk You Cannot Just Ignore
+
+Word Count:
+602
+
+Summary:
+You're typing on the internet, filling in information for your profiles – for a delivery, you enter your shipping address. At another site, you've entered a password, and entered your credit card number. Going to the Social Security web site to check on your account balance, you enter your social Security Number. Two weeks later, someone is using your credit card with a near perfect match of your data, and your life is upended as you try and clear your good name.
+
+What happ...
+
+
+Keywords:
+Go To My PC
+
+
+Article Body:
+You're typing on the internet, filling in information for your profiles – for a delivery, you enter your shipping address. At another site, you've entered a password, and entered your credit card number. Going to the Social Security web site to check on your account balance, you enter your social Security Number. Two weeks later, someone is using your credit card with a near perfect match of your data, and your life is upended as you try and clear your good name.
+
+What happened? You probably got hit by a spy, or to be more precise a keystroke logger, in this instance. Now, this is nearly a worst case scenario, but even minor spyware problems are endemic and can be a great source of frustration. Spyware programs come from a variety of sources, and all of them try to install themselves on your personal computer without telling you they're doing it. Among the things spyware can do, in addition to keystroke logging, are to track and report what web sites you visit, scan files on your hard drive, look for vital personal information, snoop through applications on your desk top to report what software you use, open TCP/IP ports for other software to install itself, act as a Trojan horse for other software packages, turn your computer into a zombie on a botnet, rifle through your personal contacts in most email programs and come up with a truly alarming amount of personal information about you.
+
+The first spyware ever implemented was a tracking cookie – these were used by online retailers to help you find your way through their sites. Then, they transformed into conduits for stupid and annoying pop up ads, by opening up (or utilizing) ports of your Windows operating system based machines. They've grown more sophisticated and more annoying since then.
+
+Often times, the first clue that someone's been gunked with spyware is that their once smooth, shiny system is now performing like a tortoise wading through glue. Each of those spyware programs takes up CPU cycles and RAM, and most times, you don't even know they're running. They'll also interfere with your web browser plugins and other programs. Most of them are now learning tricks from virus writers and are extremely difficult to remove without digging through the Windows Registry, a place where most sensible users refuse to go.
+
+Some of the more commonly seen spyware programs include Internet Optimizer, which rewrites search engine results, redirects bad links to advertisements, often of an adult nature, and the infamous CoolWebSearch that open up ports for pop up spam when you surf the web. Fortunately, some of these spyware vendors are being watched closely by the United States Congress. 180 solutions, which sells personal information to its clients (and reputedly, to credit card thieves) has been hit with multi-million dollar fines for fraud, due to hijacking affiliate links on advertising click-throughs.
+
+Clearing up spyware is a matter for specialized programs – three of the best are AVG Antispyware (Free to all users), Lavasoft's AdAware (which comes in free and paid versions) and Spybot Search And Destroy (also available in free and paid versions). These programs will regularly scan your computer for spyware and quarantine it, letting you make sure your system hasn't been destabilized by the removal, and then remove it; the process includes some Registry fixing. The trick is that all three of them catch different types of spyware. You'll want to use them in concert, and schedule at least one day every two weeks to do a thorough de-gunking; the first of these will most likely take several hours to run.
+
+

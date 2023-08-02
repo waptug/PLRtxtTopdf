@@ -1,0 +1,57 @@
+Title: 
+Don't Ignore Legal Obligations of The CAN-SPAM Act
+
+Word Count:
+1021
+
+Summary:
+Stay informed to avoid problems by unwittingly sending unsolicited spam to your customers.
+
+
+Keywords:
+advice, small business, commercial email, spam, spammers, CAN-SPAM Act
+
+
+Article Body:
+Most small business owners are not aware that they or an employee may be breaking the law regarding spam.  The advice that follows is intended to help you avoid any financial or legal consequences.
+
+The CAN-SPAM Act of 2003 was signed into law and became effective January 1, 2004.  As a small business owner, you need to be aware of your obligations under this law to avoid serious problems that could cost you time and money.  The law is very specific about the content you must provide in any commercial email advertising piece.  Not surprisingly, many of us are victims of daily assaults with unsolicited junk mail from very obscure sources.  What these spammers are doing is illegal.  Taking time to complain is impractical for many small entrepreneurs, so in most cases we just delete the junk, and go about our business.
+
+On the other hand as a small business owner you are in a different position when sending email to customers.  Your credibility is at risk because you are not obscure, and may be easily identified for criminal prosecution or law suits.  Understand your obligations and what you can or cannot do.  In the US, the FTC, Federal Trade Commission, is the government entity for establishing and monitoring compliance with this law.  Their rules are very specific as follows:
+
+Requirements for Commercial Emailers
+
+The CAN-SPAM Act of 2003 (Controlling the Assault of Non-Solicited Pornography and Marketing Act) establishes requirements for those who send commercial email, spells out penalties for spammers and companies whose products are advertised in spam if they violate the law, and gives consumers the right to ask emailers to stop spamming them. The law, which became effective January 1, 2004, covers email whose primary purpose is advertising or promoting a commercial product or service, including content on a Web site. A "transactional or relationship message" - email that facilitates an agreed-upon transaction or updates a customer in an existing business relationship - may not contain false or misleading routing information, but otherwise is exempt from most provisions of the CAN-SPAM Act.
+
+FTC Facts for Business
+
+The Federal Trade Commission (FTC), the nation's consumer protection agency, is authorized to enforce the CAN-SPAM Act. CANSPAM also gives the Department of Justice (DOJ) the authority to enforce its criminal sanctions. Other federal and state agencies can enforce the law against organizations under their jurisdiction, and companies that provide Internet access may sue violators, as well. What the Law Requires Here's a rundown of the law's main provisions:
+
+- It bans false or misleading header information. Your email's "From," "To," and routing information - including the originating domain name and email address - must be accurate and identify the person who initiated the email.
+- It prohibits deceptive subject lines. The subject line cannot mislead the recipient about the contents or subject matter of the message.
+- It requires that your email give recipients an opt-out method. You must provide a return email address or another Internet based response mechanism that allows a recipient to ask you not to send future email messages to that email address, and you must honor the requests. You may create a "menu" of choices to allow a recipient to opt out of certain types of messages, but you must include the option to end any commercial messages from the sender. Any opt-out mechanism you offer must be able to process opt-out requests for at least 30 days after you send your commercial email. When you receive an opt-out request, the law gives you 10 business days to stop sending email to the requestor's email address. You cannot help another entity send email to that address, or have another entity send email on your behalf to that address. Finally, it's illegal for you to sell or transfer the email addresses of people who choose not to receive your email, even in the form of a mailing list, unless you transfer the addresses so another entity can comply with the law.
+- It requires that commercial email be identified as an advertisement and include the sender's valid physical postal address. Your message must contain clear and conspicuous notice that the message is an advertisement or solicitation and that the recipient can opt out of receiving more commercial email from you. It also must include your valid physical postal address.
+
+Penalties May Be Severe
+
+Each violation of the above provisions is subject to fines of up to $11,000. Deceptive commercial email also is subject to laws banning false or misleading advertising. Additional fines are provided for commercial emailers who not only violate the rules described above, but also:
+
+- "harvest" email addresses from Web sites or Web services that have published a notice prohibiting the transfer of email addresses for the purpose of sending email
+- generate email addresses using a "dictionary attack" - combining names, letters, or numbers into multiple permutations
+- use scripts or other automated ways to register for multiple email or user accounts to send commercial email
+- relay emails through a computer or network without permission - for example, by taking advantage of open relays or open proxies without authorization.
+
+Department of Justice Facts for Business
+
+The law allows the DOJ to seek criminal penalties, including imprisonment, for commercial emailers who do - or conspire to:
+- use another computer without authorization and send commercial email from or through it
+- use a computer to relay or retransmit multiple commercial email messages to deceive or mislead recipients or an Internet access service about the origin of the message
+- falsify header information in multiple email messages and initiate the transmission of such messages
+- register for multiple email accounts or domain names using information that falsifies the identity of the actual registrant
+- falsely represent themselves as owners of multiple Internet Protocol addresses that are used to send commercial email messages.
+
+Conclusion
+
+Fines up to $11,000 per violation should get your attention. Review your commercial email policies, and revise as necessary to make sure you include the 3 most frequently omitted features: identify advertising, your physical address, and an opt-out provision. Continue your review to confirm compliance with all requirements.  Finally, visit the official FTC web site for information on additional rules and press releases that may have occurred since this report was written.
+
+

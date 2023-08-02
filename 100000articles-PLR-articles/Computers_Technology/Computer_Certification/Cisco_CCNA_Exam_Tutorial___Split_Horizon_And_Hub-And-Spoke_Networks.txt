@@ -1,0 +1,144 @@
+Title: 
+Cisco CCNA Exam Tutorial:  Split Horizon And Hub-And-Spoke Networks
+
+Word Count:
+593
+
+Summary:
+Knowing the textbook definition of split horizon isn't enough.  You've got to know how to apply it and disable it.  Learn the details from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Cisco,ccna, pass, exam, split, horizon, eigrp, rip, igrp, interface, routing, update, in, out, same, disable, no, ip, Bryant, advantage, 12933, chris
+
+
+Article Body:
+For CCNA exam success, you had better know what split horizon is, how to turn it off, and when to turn it off.  Knowing when to turn split horizon off is also important in production networks, because it can cause a hub-and-spoke network to have incomplete routing tables on the spokes.
+
+Split horizon exists for a very good reason - routing loop prevention.  The rule of split horizon states that a router cannot send an advertisement for a route out the same interface that it came in on.  Split horizon is on by default on all interfaces running RIP, IGRP, and EIGRP.
+
+In this CCNA tutorial, R1 will serve, as the hub and R2 and R3 will be the spokes.  We'll first configure EIGRP over the 172.16.123.0 /24 network, the network connecting the three routers.
+
+R1#conf t
+
+R1(config)#router eigrp 100
+
+R1(config-router)#no auto-summary
+
+R1(config-router)#network 172.12.123.0 0.0.0.255
+
+R2#conf t
+
+R2(config)#router eigrp 100
+
+R2(config-router)#no auto-summary
+
+R2(config-router)#network 172.12.123.0 0.0.0.255
+
+R3#conf t
+
+R3(config)#router eigrp 100
+
+R3(config-router)#no auto-summary
+
+R3(config-router)#network 172.12.123.0 0.0.0.255
+
+Running show ip eigrp neighbor on R1 shows that adjacencies to R2 and R3 are up.
+
+R1#show ip eigrp neighbor
+
+IP-EIGRP neighbors for process 100
+
+H   Address                 Interface   Hold          Uptime   SRTT       RTO  Q  Seq Type
+
+                                                (sec)         (ms)       Cnt        Num
+
+1   172.12.123.3            Se0/0         11        00:02:45    1         5000  0        1
+
+0   172.12.123.2            Se0/0        161        00:03:01    1          5000  0        1
+ 
+Each router will now advertise its loopback address via EIGRP.
+
+R1#conf t
+
+R1(config)#router eigrp 100
+
+R1(config-router)#network 1.1.1.0 0.0.0.255
+
+R2#conf t
+
+R2(config)#router eigrp 100
+
+R2(config-router)#network 2.2.2.0 0.0.0.255
+
+R3#conf t
+
+R3(config)#router eigrp 100
+
+R3(config-router)#network 3.3.3.0 0.0.0.255
+
+Running show ip eigrp route on each router shows that  R1 has a route for both R2’s and R3’s loopback.  R2 and R3 will only see R1’s loopback address, and not each other’s.  Why?
+
+R1#show ip route eigrp
+
+     2.0.0.0/24 is subnetted, 1 subnets
+
+D       2.2.2.0 [90/2297856] via 172.12.123.2, 00:03:19, Serial0/0
+
+     3.0.0.0/24 is subnetted, 1 subnets
+
+D       3.3.3.0 [90/2297856] via 172.12.123.3, 00:03:04, Serial0/0
+
+R2#show ip route eigrp
+
+     1.0.0.0/24 is subnetted, 1 subnets
+
+D       1.1.1.0 [90/2297856] via 172.12.123.1, 00:03:40, Serial0/0.123
+
+R3#show ip route eigrp
+
+     1.0.0.0/24 is subnetted, 1 subnets
+
+D       1.1.1.0 [90/2297856] via 172.12.123.1, 00:05:17, Serial0/0.31
+
+EIGRP uses Split Horizon by default to prevent routing loops. In this lab, though, it prevents full network reachability.  R2 and R3 both form neighbor relationships with R1’s Serial physical interface.  R2 advertises its loopback address to R1’s Serial interface, as does R3.  Split Horizon does not allow a route to be advertised back out the same interface it was received on.  This prevents R1 from advertising R2’s loopback to R3, or R3’s loopback to R2.
+
+Split Horizon must be disabled to allow full network reachability in this lab.  To do so, run no ip split-horizon eigrp 100 on R1’s Serial interface.  When Split Horizon is disabled, that will cause the neighbor
+relationships to fail, and then reestablish.  Run show ip route eigrp 100 on both R2 and R3. The appropriate route to the remote loopback address will now appear. 
+
+R1#conf t
+
+R1(config)#int serial0
+
+R1(config-if)#no ip split-horizon eigrp 100
+
+10:02:23: %DUAL-5-NBRCHANGE: IP-EIGRP 100: Neighbor 172.12.123.2 (Serial0/0) down: split horizon changed
+
+10:02:23: %DUAL-5-NBRCHANGE: IP-EIGRP 100: Neighbor 172.12.123.3 (Serial0/0) down: split horizon changed
+
+10:02:27: %DUAL-5-NBRCHANGE: IP-EIGRP 100: Neighbor 172.12.123.3 (Serial0/0) ip: new adjacency
+
+10:02:54: %DUAL-5-NBRCHANGE: IP-EIGRP 100: Neighbor 172.12.123.2 (Serial0/0) ip: new adjacency
+
+R2#show ip route eigrp
+
+     1.0.0.0/24 is subnetted, 1 subnets
+
+D       1.1.1.0 [90/2297856] via 172.12.123.1, 00:00:06, Serial0/0.123
+
+     3.0.0.0/24 is subnetted, 1 subnets
+
+D       3.3.3.0 [90/2809856] via 172.12.123.1, 00:00:06, Serial0/0.123
+
+R3#show ip route eigrp
+
+     1.0.0.0/24 is subnetted, 1 subnets
+
+D       1.1.1.0 [90/2297856] via 172.12.123.1, 00:00:12, Serial0/0.31
+     2.0.0.0/24 is subnetted, 1 subnets
+
+D       2.2.2.0 [90/2809856] via 172.12.123.1, 00:00:12, Serial0/0.31
+
+Disabling split horizon should be done with care, but knowing when and where to do so shows that you truly understand how this technology works - and that's a big step on the way to earning your CCNA!
+
+

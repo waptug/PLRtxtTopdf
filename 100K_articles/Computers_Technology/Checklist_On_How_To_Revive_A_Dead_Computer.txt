@@ -1,0 +1,54 @@
+Title: 
+Checklist On How To Revive A Dead Computer
+
+Word Count:
+509
+
+Summary:
+Its not something we like to think about but your computer will fail, if you keep it long enough.It may be a simple problem,such as the floppy drive not reading the disk to a major system crash.Take a look at the checklist on steps you should follow to bring any dead computer back to life.
+
+
+Keywords:
+pc repair, computer training software, computer training, computer maintenance,pc tips,pc help,computers, pc training courses
+
+
+Article Body:
+Copyright 2006 Otis Cooper
+
+Its not something we like to think about but your computer will fail, if you keep it long enough.It may be a simple problem,such as the floppy drive not reading the disk to a major system crash.
+
+Because computers are run by operators,User Error is the most common cause of computer malfunction.When the user is at the computer,he or she may add or delete certain files.Or he/she may remove or exchange certain hardware features.
+
+When we look at user error,we must remember that since we're human,the user error may be easy to solve by simply asking the last user if he/she installed any software,re-configured any software or hardware settings,etc.
+
+A large percentage of computer malfunctions are due to environmental factors such as power surges caused by lightning, resulting in overvoltage.
+
+Another cause for failure may be room temperature being too high or low,as well as dust,dirt,or sunlight.If you're in business and heavily dependent on your computers,such fators as room temperature,sunlight and protection against power surges is of the utmost importance and simply cannot be overlooked.
+
+The most common pc problem is when you can't access your PC at all.When you turn on the power switch,NOTHING HAPPENS.
+
+Here is a quick checklist of troublshooting procedures you should follow if you encounter this problem .We also have videos you can download from the Internet should you need assistance in just how to perform these procedures:
+
+Try the Power Switch a second or third time.If nothing happens..
+
+Check the wall outlet for power.If the outlet has power.
+
+Check the power cord itself from wall to computer.
+
+Check the Power Supply inside the System Unit.
+
+Replace the Power Supply rather than trying to repair it.
+
+If the system make those click noises,but the screen is blank, check the Monitor.
+
+If the monitor proves to be good,check the Video Card,even in a new system.
+
+Another big headache you will most likely encounter if you're a regular user of your computer system,is the fact that Windows will fail to load or the system's POST will fail to run.Download the file below  to learn much more about the  Power On Self Test.Don't forget those preventive maintenance procedures that can be done often to keep your PC running at peek performance.
+
+Running such Windows ultilities as Scandisk,Disk Defragment,and Disk Cleanup will help your computer performing at its best.Using a can of compressed air removes dust that could build to the point of causing a short.
+
+If you get the computer to boot but it does not want to read from the hard drive'the Master Boot Record on the hard drive may be corrupted or even missing.To verify that the master boot record has not been damaged...
+
+Boot from the floppy disk that contains the FDISK program and type the command " fdisk mbr " to restore the master boot record onto your hard drive.
+
+

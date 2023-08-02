@@ -1,0 +1,40 @@
+Title: 
+Wireless Networking:  Do You Need It?
+
+Word Count:
+486
+
+Summary:
+There has been so much hype about wireless networking that it is sometimes hard to get to the important question:  do you need it?  To determine whether your notebook computer needs to have wireless networking capabilities, you need to understand what it is first.
+
+
+Keywords:
+wireless,wlan,wi-fi,802.11g,network,wireless network
+
+
+Article Body:
+There has been so much hype about wireless networking that it is sometimes hard to get to the important question:  do you need it?  To determine whether your notebook computer needs to have wireless networking capabilities, you need to understand what it is first.
+
+WLAN
+
+WLAN stands for Wireless Local Area Network or Wireless LAN.  Wireless network cards use the IEEE 802.11 standard of wireless transmission.  There are other wireless networking standards, such as Bluetooth, but the 802.11 standard is the preferred networking solution.  The Wireless Network interface was developed originally for interfacing among computers connected through a local area network, but it is now also being used for Voice over Internet Protocol (VoIP) and internet access, just like the standard Local Area Network interface.
+
+A Wireless Networking environment has no need for complicated wiring to accommodate data sharing and internet access.  The wireless network uses one or more Wireless Access Points or Wireless Routers to transmit the signal.  An Access Point has an antenna and an Ethernet port, which must be connected to a broadband modem for internet connectivity.  A Wireless Router adds several more Ethernet ports to allow a combination of wired and wireless connections.  The Access Point or Router acts as the radio frequency transmitter and receiver (radio frequency electromagnetic waves are the medium through which data packets are sent and received).  This Access Point interfaces with devices (computers, PDAs, IP Phones, and other Access Points) which use 802.11 wireless adapters.
+
+Wherever there is an 802.11 wireless access point, a wireless networking-capable device can access that network and, generally, the internet.
+
+Do You Need Wireless Networking in Your Notebook Computer?
+
+Whether you need wireless networking depends entirely on you.  Wireless networking capability is always a wonderful feature to have in a notebook computer, but there are scenarios where wireless networking is definitely necessary.
+
+If you want to have a tidy office or home network, wireless networking is for you.  Moreover, if there are many users in your local network or if the number of users is expected to increase, a wireless router is not limited by the number of Ethernet ports on the router.  Please note, however, that a wireless network connection is not as reliable as traditional Ethernet connections, and wireless connections are susceptible to radio wave and electromagnetic interference.
+
+If you are a freelancer, a reporter, or in another position where you frequently travel, Wireless Networking is invaluable.  Wireless Networking is the most widely used form of public internet access all over the world.  With a wireless networking card, you are guaranteed an internet connection, as long as you can find a wireless hotspot.
+
+For interfacing with personal devices like PDAs and cellular phones, Bluetooth is a more common option, but Wireless Networking is absolutely necessary for wireless internet connections.
+
+This article may be republished freely as long as this copyright notice and box of resource links are included at the bottom.
+
+Copyright © 2007 MALIBAL, lLc
+
+

@@ -1,0 +1,46 @@
+Title: 
+Learn How Internet Firewalls Work To Keep Your PC Safe
+
+Word Count:
+672
+
+Summary:
+Keep your computer safe from hackers and other intruders by fully understanding how firewalls operate in the background of your computer.
+
+
+Keywords:
+pc repair, computer training software, computer training, computer maintenance,pc tips,pc help,computers, pc training courses
+
+
+Article Body:
+Copyright 2006 Otis Cooper
+
+Not many of us intentionally leave our cars unlocked or the front of our homes open to strangers. But we often leave our computers wide open to anyone and everyone that may want to snoop.
+
+To get and keep our computers safe from hackers,or anyone wanting to have a look in our computers,we need the aid and assistance of something commonly called Firewalls.
+
+A Firewall can be hardware or software that acts as a gatekeeper to your computer. It does this by monitoring all internet traffic coming in and going out of our computers.
+
+They not only allow the passage of this traffic but inspects all,making sure it is safe and do not contain viruses,any spyware,or other malicious software.
+
+Firewalls control internet traffic in two methods: Packet filtering and stateful inspection. A Packet is a chunk of data and it contains the address of the computer it comes from and a destination address.
+
+Ok,so you're wondering what on earth is an IP Address.Well, it is an idenifier for your computer device.The format of an IP address is a 32-bit numeric address written as four numbers separated by periods. If the Firewall recognizes the Packet and its IP Address,or its Internet Protocol Address,it allows the Packet to pass. The Stateful Inspection method look at the some data in the Packet and compares key chunks of data to a large area that contains known,trusted information.
+
+to see if it is safe or if your computer is expecting the data.It aloso allow safe passage of data if all seems well.The Stateful Inspection method is preferred since it checks the data that have passed through your computer before.
+ 
+ALL ABOUT HARDWARE FIREWALLS 
+Hardware Firewalls are devices that are designed to run software Firewalls.So why are there hardware firewalls,you ask.One big advantage of having a Hardware Firewall is that the computer don't have to do any work. The hardware running the software does all work,thereby leaving the CPU in the computer free to get on with other tasks.The CPU, or Central Processing Unit should be free as much as possible to keep the computer running at peak performance. 
+
+ALL ABOUT SOFTWARE FIREWALLS
+
+WHAT FIREWALL PROTECT YOU FROM 
+There are many creative ways that  people use to access or abuse your computer when its not protected. Smeone is able to connect to your computer and control it in some form. This can range from being able to view or access your files to actually running programs on your computer.Some of the software Firewalls protect your computer from are the following. 
+
+Email Bombs.
+Someone sends you the same e-mail hundreds or thousands of times until your e-mail system cannot accept any more messages. If you spend time on the internet often you will most likely experience this. 
+
+Viruses. 
+This is no doubt the most well known threat.A Virus is a small file which reproduces itself on other computers.Viruses may be harmless to wiping your hard drive clean. Firewalls may not protect you from all viruses.It would be worth your while to invest in good anti virus software as added protection.Once you invest in a Firewall,study its owner's manual to set it up. Once  the Firewall has been installed and setup complete,take a minute to be sure its working.Test the Firewall by going online and visiting a security site.Go to www.grc.com and give their free Shields Up security test a try. If the Firewall pass,you will have the comfort of knowing your PC will have that added protection from someone stealing your credit card information or any valuable information. If you have not invested in a Firewall,won't wait to give one a try. Your critical files and programs will be much safer and you will have the knowledge of being able to install Firewalls on the PC of your friends,enemies,and everyone else in between.
+
+

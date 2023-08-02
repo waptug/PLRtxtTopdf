@@ -1,0 +1,30 @@
+Title: 
+The basics of overclocking your CPU
+
+Word Count:
+322
+
+Summary:
+In the techy world of overclocking, there's more techno babble than you can shake at stick at. Well never fear, let me dispel the jargon and show you the the basics terms overclocking!
+
+
+Keywords:
+How to overclock CPU, overclocking the CPU
+
+
+Article Body:
+In this article I'm going to explain the basics of overclocking your CPU and what you need to look out for.
+
+I understand how difficult is to overclock especially the CPU. Overclocking the CPU is riddled with jargon so if you don't understand the nerdy terms you could be really be putting your PC in danger.
+
+This is because your effectively speeding your CPU beyond the manufacturers specifications. And although you'll get a ton of performance from your PC and your games will play smoother, your CPU is under more stress due the extra heat that the CPU will generate.
+
+So what are the terms you look out for when you go into your Bios? Well first of all you want to find your FSB. FSB stands for Font Side Bus and this is where the majority of you will be overclocking your CPU from. There is another way of overclocking your CPU but this option is only available to the top of the range CPU and these ones can cost of excess of £1000! This way of overclocking is by using the Multiplier.
+
+But to me opting for a $1000 CPU tends to defeat the point overclocking. Anyway, once you've found your FSB option, there should be a 3 digit number next to it. All you do is simply move the number up another ten points and no more.
+
+The reason why you move it no more than that is you don't want to damage your PC. So take little steps when overclocking your CPU. Once you done that, save and quit from bios and head into Windows. 
+
+You now want to run at benchmark, I would recommend on using 3DMark 05 or 06. There is others but these are the ones I personally use. Now simply run the benchmark and you should notice that you have a higher score than what you did before you overclocked your CPU! And that is the basics of overclocking!!!
+
+

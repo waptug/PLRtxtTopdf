@@ -1,0 +1,53 @@
+Title: 
+Windows Registry Cleaner Checklist
+
+Word Count:
+501
+
+Summary:
+Over 92% of computers are infected with Adware and spyware. Such software is rarely accompanied by uninstall utility and even when it is it almost always leaves broken Windows Registry keys behind it. Even if you have an anti-spyware tool your Windows Registry might be broken - developers of those tools are focused on removing Adware and spyware functionality, not every trace of software itself.
+
+Another category of software that is known to leave bits and pieces behind on ...
+
+
+Keywords:
+windows registry,windows registry repair,windows registry scan, repair registry, fix registry,scan
+
+
+Article Body:
+Over 92% of computers are infected with Adware and spyware. Such software is rarely accompanied by uninstall utility and even when it is it almost always leaves broken Windows Registry keys behind it. Even if you have an anti-spyware tool your Windows Registry might be broken - developers of those tools are focused on removing Adware and spyware functionality, not every trace of software itself.
+
+Another category of software that is known to leave bits and pieces behind on uninstallation is games. There are a lot of special installation systems that creates strange files, unique entries in your registry file as well as changes system dll’s to other versions. Once you uninstall the game a lot of the special installation changes it made will be left behind, causing you problems.
+
+You should run an advanced registry cleaner for Windows that allows you to safely scan, clean, and repair registry problems with a few simple mouse clicks on a regular basis.
+
+Problems with the Windows Registry are a common cause of Windows crashes (blue screens) and error messages (memory as well as disk errors). By using a PC tune-up utility, your system will be more stable, your software will run quicker, and your operating system will boot faster.
+
+Registry problems can occur for many reasons, including references left behind after uninstallation; incorrect removal of software; missing or corrupt hardware drivers; or orphaned start-up programs. With a few easy steps, a good registry cleaner will scan your entire registry for any invalid entries and provide a list of the errors found.
+
+You then can choose to clean each item or automatically repair them all after making a backup without the need for a registry editor such as Regedit.
+
+To help people choose a product have we created this short checklist.
+
+A good windows registry clean and repair product should have the following options.
+
+Automatic Scan
+To facilitate your windows registry scan. This is the simplest way to clean up the registry. Automatic Scan is recommended for 'non-technical' users.
+
+Custom Scans
+You customize your search and scan Windows registry for particular types of errors (shared DLLs, missing fonts, invalid start-up entries, etc.).
+
+Manual Cleanup
+After the scan is complete, the program should show you a full list of errors with details, broken down by types and let you fix individual invalid entries or all invalid entries of a certain type.
+
+Backup and Undo
+Before removing an entry from your registry, should an automatic creation of a backup file be done, that can be used to undo the changes. This to avoid changes without backup.
+
+Scheduler
+To schedule the program to scan the registry whenever you start your computer.
+
+Using software like this is not a one time fix. You must run it on a regular basis to keep your registry clean and without errors. This will help the stability and speed of windows.
+
+We have tested a number of registry fix and clean utilities and present our top 3 list on our site for your convenience.
+
+

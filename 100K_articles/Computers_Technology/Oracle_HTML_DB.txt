@@ -1,0 +1,70 @@
+Title: 
+Oracle HTML DB
+
+Word Count:
+487
+
+Summary:
+HTML DB uniquely converts an Oracle database into an online development service, which enables anyone with a Web browser to create reporting and data-entry applications quickly without the need for professional programming skills.
+
+What Is Oracle HTML DB?
+
+· It’s Browser driven.
+· Provides rapid application development.
+· It’s Wizard driven.
+· You can quickly build web applications on the Oracle database for:
+o Reporting
+o Data entry
+· Supported by Oracle 9.0.2.3 or...
+
+
+Keywords:
+oracle html db
+
+
+Article Body:
+HTML DB uniquely converts an Oracle database into an online development service, which enables anyone with a Web browser to create reporting and data-entry applications quickly without the need for professional programming skills.
+
+What Is Oracle HTML DB?
+
+· It’s Browser driven.
+· Provides rapid application development.
+· It’s Wizard driven.
+· You can quickly build web applications on the Oracle database for:
+o Reporting
+o Data entry
+· Supported by Oracle 9.0.2.3 or later.
+· Only needs Oracle HTTP Server.
+
+Browser HTTP Server Oracle DB & HTML DB
+
+HTML DB allows
+
+You can create forms for:
+
+· adding a record
+· adding multiple records at a time
+· updating a record
+· deleting a record(s)
+· viewing a record as read only
+
+It allows you to setup triggers that execute when a particular action is committed by the user. For example, if a user clicks the delete button, some code will execute that will remove a product from the Oracle database, or write that record to another table, so that you have an audit trail.
+
+Data is stored centrally and can be accessed by users from various locations. Users can be given privileges, where they can access only their own data. As an example following is a business scenario.
+
+Business Scenario
+
+Effective project management is the key to completing any project on time and within budget. Within every project there are always multiple issues that need to be tracked, prioritized, and dealt with.
+For example there may be several projects that must be completed on time for Company A to be profitable. Missing deadlines for any of the projects will cause Company A to lose money. The project leads are tracking issues in several different ways. Some individuals are manually tracking issues in notebooks, others are tracking issues in text documents, and other managers are using spreadsheets.
+
+By creating a hosted application in Oracle HTML DB, each project lead can easily record and track issues in one central location. Not only will everyone have access to just the data they need, but having the data stored in one location, will make it easier for management to determine if any critical issues are not being addressed.
+
+Reports
+
+Reports can be produced that allow users to filter report output. This allows the end user to set values that will be queried against to produce a report. These reports can be sorted by any heading on that report and can also be filtered down again. To produce these reports a developer needs to set the reports up and add the SQL queries or PL/SQL code to HTML DB.
+
+Data can be imported from a spreadsheet into HTML DB and put into an Oracle database. All that is required is the database tables need to be setup first.
+
+Reports can also be produced as pie charts, line charts, date reports (a calendar with text on specific dates where for example a support issue arose), bar charts and text output.
+
+

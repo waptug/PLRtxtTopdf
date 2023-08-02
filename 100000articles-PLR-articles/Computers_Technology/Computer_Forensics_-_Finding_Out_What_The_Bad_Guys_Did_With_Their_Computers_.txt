@@ -1,0 +1,26 @@
+Title: 
+Computer Forensics - Finding Out What The Bad Guys Did With Their Computers!
+
+Word Count:
+388
+
+Summary:
+Computer forensics is a lot like the CSI investigation programs on the television.  Using advanced techniques and technologies, a computer forensic scientist will reconstruct a possible crime using the data that one computer systems.  This data may include email trails, files, hidden directories and other related clues.
+
+
+Keywords:
+computer forensics, electronic evidence, data discovery, digital evidence, forensic science, computer investigation, computer evidence, digital investigation
+
+
+Article Body:
+Computer forensics is a lot like the CSI investigation programs on the television.  Using advanced techniques and technologies, a computer forensic scientist will reconstruct a possible crime using the data that one computer systems.  This data may include email trails, files, hidden directories and other related clues.  
+
+Computer Forensics is the scientific study of computers or computer related data in relation to an investigation by a law enforcement agency for use in a court of law. While this technology may be as old as computers themselves, the advances in technology are constantly revising this science.  
+
+While all computer languages are created with ones and zeros, it's much easier to track what was done when, although by whom continues to be problematic.  Forensic science has done well to keep up with the task of tracking and tracing what is done and creation of a timeline in an attempt to reconstruct a possible crime.  Although it's possible to clean and remove data from a hard drive, most people simply think that a delete key really removed the data.  In actuality, the delete key simply removed the file location from an index file and the actual data is still safely on the system.  It's up to the data recovery skills of the forensic computer personnel to capture and restore that data without modification.  
+
+Computer forensics can be used to track emails, instant messaging and just about any other form of computer related communications. This can be necessary, especially in the world where computers and data travel around the world in seconds.  Packet sniffers can literally be placed within a data stream and provide information on what's running through the network in real time.  This is really phenomenal considering the millions upon millions of data packets moving through any individual part of the network.  
+
+Computer forensic science is an interesting niche in the law enforcement field that is seldom considered as a career.  As it's relatively new, the field is considered by many to be wide open for anyone with the initiative to learn the skills. Unlike many computer related jobs, a computer forensic specialist will not be outsourced to a country on the other side of the world.  The confidentiality of the data is just too sensitive to allow it to travel throughout the world just to save a little cash.
+
+

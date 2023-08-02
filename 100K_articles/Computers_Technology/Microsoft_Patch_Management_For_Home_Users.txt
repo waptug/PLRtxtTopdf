@@ -1,0 +1,26 @@
+Title: 
+Microsoft Patch Management For Home Users
+
+Word Count:
+489
+
+Summary:
+With easy access to Broadband and DSL the number of people using the Internet has skyrocket in recent years. Email, instant messaging and file sharing with other Internet users has also provided a platform for faster spreading of viruses, Trojans and Spyware. Being on the Internet without proper protection is like walking in the rain with no umbrella - you're gonna get wet no matter how fast you run. 
+
+With so many computers installed in home offices it becomes critical tha...
+
+
+Keywords:
+
+
+
+Article Body:
+With easy access to Broadband and DSL the number of people using the Internet has skyrocket in recent years. Email, instant messaging and file sharing with other Internet users has also provided a platform for faster spreading of viruses, Trojans and Spyware. Being on the Internet without proper protection is like walking in the rain with no umbrella - you're gonna get wet no matter how fast you run. 
+
+With so many computers installed in home offices it becomes critical that home users install the latest Microsoft patches when they become available. Older operating systems like Windows 98, Windows Millennium, Windows 2000, or Windows XP prior to Service Pack require the user to initiate the process of checking for security patches. Windows XP Service Pack 2 has changed this and the default settings are now notifying the user of available updates automatically. This has increased the level of security in some areas, but there is a very large number of users and computers that do not install security patches or hot fixes provided by Microsoft. 
+
+How should home users actually handle the task of patching their computers? Like businesses home users should do some research about the patches that are being installed. Just installing them and walking away will work for a while, but sooner or later home users will run into an issue that a patch breaks something and eventually renders the system useless. So, what should home users do when new Microsoft patches become available? First of all - patches are usually released the second Tuesday of every month. Often these events are commented in the news and other media. Users should also signup for email alerts or MSN Messenger alerts at Microsoft's security website at http://www.microsoft.com/security to be aware about updates. 
+
+Once patches are available Microsoft recommends to install them immediately. Depending on the confidence level of the user this should be done fairly soon after the patch release. If a users has several systems available it is recommended to test the patches on the least critical system first before updating all machines. Only one machine at a time is recommended to keep track of things and to be able to fix problems. In Windows XP it is also recommended to create a restore point first so that the system can revert back to the existing state before patching. Home users should closely follow the media about virus outbreaks and updates. Waiting a few days with patching a machine can make sense if some critical work is done on the computer an important deadline needs to be kept. Nothing is more annoying than having to fight computer problems with limited time at hand. Speaking of time - never install patches without having enough time at hand. Users should allocate 60 minutes of time just in case. If something goes wrong time pressure is the last thing you want to face when troubleshooting a machine that is down.
+
+

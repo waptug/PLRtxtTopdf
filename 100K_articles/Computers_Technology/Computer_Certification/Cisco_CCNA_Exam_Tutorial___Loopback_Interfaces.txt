@@ -1,0 +1,46 @@
+Title: 
+Cisco CCNA Exam Tutorial:  Loopback Interfaces
+
+Word Count:
+393
+
+Summary:
+Why use loopback interfaces?  Learn the details in this Cisco CCNA tutorial from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+cisco, ccna, certification, exam, pass, how, loopback, interface, 127.0.0.1, ping, pc, reserved
+
+
+Article Body:
+As a CCNA candidate, you most likely have some background in PC hardware and workstation support.  If so, you're already familiar with loopback interfaces, particularly 127.0.0.1, the loopback address assigned to a PC.
+
+When you're learning all about the different physical interfaces for your CCNA exam - serial, ethernet, and BRI, among others - there's one logical interface you need to know about, and that is - you guessed it! - the loopback interface.
+
+What isn't as immediately apparent is why we use loopback interfaces on routers and switches to begin with.   Many of the Cisco router features that can use loopbacks are intermediate and advanced features that you'll learn about in your CCNP and CCIE studies, but these features all come back to one basic concept:  If the loopback interface on a router is down, that means the router is unavailable as a whole.
+
+In contrast, a physical interface being down does not mean the router itself is out of commission.  A router's ethernet port can go down, but the other physical interfaces on that router are still operational.  Since a loopback interface is logical, there's nothing physical that can go wrong with it.
+
+As I mentioned, you'll learn different Cisco router and switch features that utilize loopback interfaces as you climb the Cisco certification ladder.  There's one misconception about Cisco loopback interfaces that you want to get clear on now, though. You’re probably familiar with loopback interfaces on a PC, and may even know that the address range 127.0.0.0 is reserved for loopback addressing.
+
+Note that this reserved address range does not apply to loopbacks on Cisco devices, however.  If you attempt to assign an address from this range to a Cisco loopback interface, you get this result:
+
+R1#conf t
+
+Enter configuration commands, one per line.  End with CNTL/Z.
+
+R1(config)#interface loopback0
+
+R1(config-if)#ip address 127.0.0.2 255.255.255.0
+
+Not a valid host address - 127.0.0.2
+
+R1(config-if)#ip address 127.1.1.1 255.255.255.0
+
+Not a valid host address - 127.1.1.1
+
+The range 127.0.0.0 is reserved for host loopbacks (such as PCs), not routers or switches.  The most commonly used address from this range is 127.0.0.1 – if you can’t ping that on a workstation, that means you can’t ping yourself, which means there’s a problem with the TCP/IP install itself.
+
+Keep these details in mind on the exam and in the workplace, and you’re on your way to CCNA exam success!
+
+

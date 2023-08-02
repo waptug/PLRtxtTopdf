@@ -1,0 +1,28 @@
+Title: 
+Cisco CCNP / BSCI Exam Tutorial: OSPF Router Types
+
+Word Count:
+282
+
+Summary:
+OSPF router types seem easy enough, but there are details you must know in order to pass the BSCI exam. Learn these details from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Bsci, ccnp, exam, ospf, router, type, internal, abr, asbr, redistribution, border, router, pass, ccna, intro, icnd
+
+
+Article Body:
+When you're preparing to pass the BSCI exam on the way to the coveted Cisco CCNP certification, you can be quickly overwhelmed by the sheer amount of BGP and OSPF knowledge you must demonstrate a mastery of.   One set of details that some BSCI and CCNP candidates underestimate are the differences between the OSPF router types.  
+
+An OSPF Internal router has one rule - it must have all its interfaces in a single area.  It does not mean that area has to be Area 0.
+
+An OSPF Backbone router is a router with at least a single area in the OSPF backbone area, Area 0. A router can be both an Internal and Backbone router if all its interfaces are in Area 0.
+
+An Area Border Router has at least one interface in Area 0 and another interface in a non-backbone area.  ABRs are also one of two router types that can perform OSPF route summarization.  (To advertise a summary route from one OSPF area to another, use the area range command on the ABR.)
+
+Finally, an ASBR is an OSPF router that is performing route redistribution by injecting routes from another source into the OSPF domain.   This is the other OSPF router type that can perform route summarization; to summarize routes being redistributed into OSPF, use the summary-address command on the ASBR. 
+
+There are several commands you can use to determine the router types in a given OSPF area.  The command "show ip ospf" will display quite a bit of information regarding the local router, and this includes whether that router is acting as an ABR or ASBR.   To see the routes to the ABRs and ASBRs from the local router, run "show ip ospf border-routers".
+
+

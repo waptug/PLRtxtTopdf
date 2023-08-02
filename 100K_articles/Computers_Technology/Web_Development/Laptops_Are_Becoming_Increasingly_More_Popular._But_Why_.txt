@@ -1,0 +1,40 @@
+Title: 
+Laptops Are Becoming Increasingly More Popular. But Why?
+
+Word Count:
+619
+
+Summary:
+In the Lap of Luxury
+
+Laptops are becoming increasingly more popular, and have evolved so much that some business people and individuals are using them as their only computer. The reasons laptops are popular is that they are portable, they use far less power than desktop computers, and they make less noise. The disadvantages of laptops, however, are that they are usually slower than desktop models, have fewer graphics, and their power to process sound is not as robust. As l...
+
+
+Keywords:
+laptops,laptop,computer,computers,notebook,notebooks,dell,cheap,ibm,software,hradware,internet,onlin
+
+
+Article Body:
+In the Lap of Luxury
+
+Laptops are becoming increasingly more popular, and have evolved so much that some business people and individuals are using them as their only computer. The reasons laptops are popular is that they are portable, they use far less power than desktop computers, and they make less noise. The disadvantages of laptops, however, are that they are usually slower than desktop models, have fewer graphics, and their power to process sound is not as robust. As laptops are upgraded, however, many of these differences are not substantial enough to even be noticeable to the average computer user.
+
+Laptops are generally more costly than desktop computers, although that may not be the cost for much longer. The price of both is falling continually, with the price of laptops dropping more quickly. As of May 2005 more laptops were sold in the United States than desktop computers.
+
+Laptops and desktops are actually quite similar in design, with the same basic software, hardware and operating systems. The basic difference between the two is in how these components are fitted together. Laptops, of course, of necessity, must have more compact components.
+
+Desktop computers have motherboards, hard drives, video cards and their other hardware components assembled together and housed in a large case, commonly referred to as the CPU (central processing unit) or the tower. In a desktop model the keyboard, mouse, monitor, printer and other peripherals are connected to the tower by wire or through the newest technology are connected wirelessly. Each CPU or tower has plenty of extra internal space for additional cards, cables and the circulation of air.
+
+A laptop, of course, is considerably smaller and lighter weight than the smallest tower for a desktop. Neither the mouse, keyboard nor monitors are peripherals, but rather part of the laptop unit itself. There isn’t a lot of extra space for circulation of air or addition of cards. Not only must laptop components be compact but their heat production must be considerably lower than that of desktop components, and they must conserve considerably more power. Thus the additional cost.
+
+The CPU, also called the microprocessor, works with the laptop’s operating system to control the computer. This CPU is the brain for laptops. In a desktop computer a CPU generates a considerable amount of heat, so it must have a fan and a heat sink. The heat sink is made up of plates, channels and radiator fins that work systematically to draw heat away from the processor.
+
+Laptops have CPUs that run at lower clock speeds and voltage. The heat is reduced, and power is not consumed as greatly, but the processor is slower as a result. Most laptops will run faster and at a voltage that is higher when they run on electricity than when they run on batteries.
+
+Laptop processors don’t use pins to mount to their motherboard, which saves room. The two alternatives are for the processors to mount right to the laptop motherboard without any socket, or to use a micro-FCBGA (Flip Chip Ball Grid Array.) The latter replaces pins with balls. The disadvantage of this, however, is that the owner cannot replace or upgrade the processor because it can’t be removed from the motherboard.
+
+Laptops have slow-down, hibernation or sleep modes. These reduce the speed of the CPU when the laptop is not in use. One Macintosh processor actually prioritizes its data to help minimize the drain on its battery.
+
+Some laptops use CPUs made for desktops, but that are designed to run at slower clock speed. Performance is improved in these laptops but they tend to run considerably hotter than other laptops, and their battery life is reduced a great deal.
+
+

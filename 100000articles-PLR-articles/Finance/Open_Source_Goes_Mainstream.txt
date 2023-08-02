@@ -1,0 +1,38 @@
+Title: 
+Open Source Goes Mainstream
+
+Word Count:
+297
+
+Summary:
+An article about the increasing commercial use of open source technology despite copyright issues.
+
+
+Keywords:
+open source software, open source technology, open source products
+
+
+Article Body:
+We lawyers have noticed a trend: in the early days, open source software was seen as renegade stuff, unsuitable for mainstream business. Increasingly, however, businesses are utilising open source technology for a wide range of technology including fundamentals such as the operating software. 
+
+Red Hat is the most recognised commercial open source brand and is seeing significant growth year on year as open source products take off. 
+
+Open source products have been dogged by a reputation for unreliability and for a dubious audit trail for its intellectual property rights. This is a lawyer’s nightmare when it comes to buying and selling companies because of the difficulty in making sure that a user is not unwittingly breaching someone else’s rights. 
+
+Red Hat has nevertheless managed to carve a significant market for its product in the face of this reputation and is now taken as a mainstream provider, used by many organisations large and small. 
+
+Whether you are a company producing open source products or whether you are a company using them, it is essential that all of the implications of using open source are thought through strategically, having regard to the short, medium and long term aspirations of the organisation. 
+
+For users, the relative cheapness of open source products is clearly attractive. However, with the wrong provider, the disadvantages may outweigh the advantages. 
+
+About Kaltons 
+
+We provide you with a different approach to achieving your commercial objectives. 
+We work with market leaders whose sole focus is to help make those objective real. 
+Our unique blend of law, breakthrough business consultancy and technology expertise gives us the edge in understanding your needs and focusing on solutions. 
+Our understanding of your business ensures we meet the needs of your business promptly and cogently. 
+
+
+http://www.kaltons.co.uk
+
+

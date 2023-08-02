@@ -1,0 +1,44 @@
+Title: 
+Cisco Certification:  The Importance Of Building Your Own Home Lab
+
+Word Count:
+379
+
+Summary:
+To earn your CCNA and CCNP, and to be effective on the job, it's more important than ever to get hands-on experience with real Cisco equipment.  Chris Bryant, CCIE #12933, tells you why.
+
+
+Keywords:
+ccna, ccnp, free, pass, exam, cisco, certification, computer, mcse, ccie, chris, bryant
+
+
+Article Body:
+CCNAs and CCNA candidates hear it all the time:  “Get some hands-on experience”.  From my personal experience climbing the Cisco certification ladder, I can tell you firsthand that there is no learning like hands-on learning.   No simulator in the world is going to give you the experience you will get cabling and configuring your own routers.
+
+ 
+
+Whenever I mention this to one of my students, they always say it costs too much.  The truth is, it is cheaper now to build your own CCNA and CCNP lab than it has ever been.  The secret?  Used routers.
+
+ 
+
+The word “used” turns off a lot of people not many of us buy used computers or used servers.   Cisco routers, though, are robust I personally own a Cisco 4000 router that I use as a Frame Relay switch in my lab that I’ve had for about four years, and I’ve never had a problem with it.
+
+ 
+
+The good news for current CCNA and CCNP candidates interested in building their own labs is that used Cisco equipment has never been more plentiful or cheaper.  eBay is a good way to get an idea of what’s out there and what the prices are, but you don’t have to assemble your lab one piece at a time.  Many eBay vendors who sell used Cisco equipment sell ready-made CCNA and CCNP labs for one price, including cables.  I personally recommend www.ciscokits.com for your lab needs, and there are many other vendors as well.
+
+ 
+
+And should you desire to sell your lab after you complete your certification, you can either negotiate a price with the vendor who sold it to you, or you can sell it yourself on ebay.  It’s my experience that 95% of candidates who earn their CCNA go on to pursue their CCNP within one year, though, so don’t sell it too quickly.
+
+ 
+
+In the end, you spend only a few hundred dollars, and you gain invaluable experience and knowledge that will help you both in your certification quest and your job performance.  Having been there, I can tell you that you will learn much more from actually configuring and cabling your own equipment than you ever will from any simulation of the real thing.
+
+ 
+
+Chris Bryant
+
+CCIE #12933
+
+

@@ -1,0 +1,108 @@
+Title: 
+How To Excel In A Technical Job Interview
+
+Word Count:
+846
+
+Summary:
+A technical job interview can make anyone nervous!  Chris Bryant, CCIE #12933, has been on both sides of the interview table, and offers you several tips on how to do your best in this pressure-packed situation.
+
+
+Keywords:
+ccna, ccnp, free, pass, exam, cisco, certification, computer, mcse, ccie, chris, bryant
+
+
+Article Body:
+Ah, the technical interview.  Nothing like it.  Not only does it cause anxiety, but it causes anxiety for several different reasons.
+
+ 
+
+How many people will be asking questions?  From experience I can tell you there’s nothing like walking into a room and seeing nine people on the other side of the table.   
+
+ 
+
+Second, what will you be asked?  You’ll sometimes hear people say the questions they were asked in a technical interview were “easy”, which translated means “they asked me stuff I happened to know”.   Sometimes you’ll hear people say the questions were “hard”, which translated means “they asked me stuff I didn’t know”, or “they asked me about stuff I’ve never even heard of”.
+
+ 
+
+Having been on both sides of the technical interview table, I’d like to share some tips for those being interviewed.  In doing so, I’ll share some of the more memorable interviews I’ve been involved in.
+
+ 
+
+No good interviewer expects you to know everything.  The problem is, you’re not always going to be interviewed by someone who’s good at it.   
+
+ 
+
+Sometimes, the person who’s giving you a technical interview was asked to do it about ten minutes before you showed up.   Maybe they’ve never interviewed anyone before, or maybe they’re just in a bad mood.   I’ve heard of technical interviewers where the interviewer derided an answer, and that’s totally unprofessional.  I’ve had many a job candidate give a bad answer to a question, and my only response was silence followed by moving on to the next question.  If your interviewer mocks any of your answers, you didn’t want to work there anyway.
+
+ 
+
+None of us know everything.   If you’re asked a question you just don’t know the answer to, don’t try to BS your way past it.   This is a good opportunity to tell the interviewer how you would research that particular question.  It’s not about knowing everything, it’s about being able to find out anything.
+
+ 
+
+ 
+
+If your interviewer acts like he/she already dislikes you, that’s because they do.   I once worked with a technician who felt threatened by anyone who applied for a job there, but especially if the applicant had a professional certification and then had the nerve to know what they were doing.
+
+ 
+
+This technician participated in a group technical interview where the applicant was an incredibly bright guy, and had a particular skill that the department really needed.   Problem was, the technician considered himself “the man” when it came to that skill.  Recipe for disaster, right?
+
+ 
+
+The applicant fielded four questions from the rest of us flawlessly, then faced this particular tech for a question.  The threatened tech had a list of questions for the interview, but decided to ad lib.  Big mistake.  He asked a convoluted question that Rube Goldberg would have been proud of.  When he was done, the applicant answered:
+
+ 
+
+“You can’t do what you just described.”
+
+ 
+
+The tech started defending his question, and it became obvious that he hadn’t been able to follow his own question!  The interview went into a bit of a meltdown from there.
+
+ 
+
+Realize right now that there are some unprofessional people out there giving technical interviews.  Be prepared for it, but remain professional yourself.
+
+ 
+
+Be prepared for a practical technical interview.  The best technical interviewers find a way to get you in front of the technology you’ll be working with.  A great way to quickly find out whether you know what you’re talking about is to ask you to actually perform common and perhaps some not-so-common tasks.   We can talk about technology and take all the computer-based exams we want, but it all comes down to performance.  Be prepared to prove you belong on your interview day.
+
+ 
+
+Be professional.    This covers a lot of ground, so let me make a quick list for you.
+
+ 
+
+Show up 15 minutes early.  Nothing makes a technical interviewer more surly than waiting for the applicant.
+
+ 
+
+Dress for success.   The way you look when you walk into a room leads to your interviewer’s first impression of you.
+
+ 
+
+Don’t chew gum during the interview.
+
+ 
+
+Don’t be arrogant.   Look, there’s nothing wrong with having an ego and acting confident.  I do, and you should.  But don’t come into the interview room acting like you’re too good to be there.
+
+ 
+
+Finally, relax.  Easy to say, hard to do?  Not really.  Realize that the majority of interviewers you’ll ever meet are going to be professional about the entire thing.  The world’s not going to end if you miss a question.  If you were not qualified on paper for the job, you wouldn’t be in there.
+
+ 
+
+Do not look upon the interview as something negative.  Rather, look at it as an opportunity to prove you know what you’re talking about.  With the proper mental attitude, your technical interview will be a springboard to the next step in your career!
+
+ 
+
+Chris Bryant
+
+CCIE ™ #12933 
+
+____________________________________________
+
+

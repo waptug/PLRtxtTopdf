@@ -1,0 +1,60 @@
+Achieving Website Usability Through the Use of Frames
+
+The issue of website usability has garnered much attention today. In fact, there have been laws and legal moves against website developers who wouldn’t take into consideration the wide range of people who will be viewing their websites. 
+
+The issue of usability has been founded on the context that there are a lot of people who are disabled or impaired in some way. In America alone, there are 1 out of 5 people who are disabled in one way or another.
+
+The Internet has provided us with ways to communicate, interact, exchange information and do business. It is a pertinent tool in providing much needed avenues for accessing these things especially for people who are disabled. This is why usability has been a pressing issue in terms of website development.
+
+Frames and website usability
+
+One of the ways which can increase the usability of a website is the proper use of frames. Frames basically segment the browser into different portion and each portion is independent from the others. There are two major schools of thought when it comes to the use of frames: one that says frames should not be used and one that says that there are advantages to using frames in website development. 
+
+This article tries to give guidance on the use of frames in website development. The ultimate aim of website development is to make it easier for more people to use the website, whether with the use of frames or without them.
+
+Why not use frames?
+
+There are a lot of negative thoughts when it comes to the use of frames in websites. Here are some of them:
+
+Printing
+
+There have been much complaints about printing web pages that are framed. Internet browsers seem to select the frame to be sent to the printer randomly. The user cannot usually print the frame that he wants because the computer selects the frame which is the focal point of the webpage. 
+
+Downloading
+
+Many newbies in the field of website development employs frames to be able to cut the downloading time of their websites. This can only be achieved if the right ways of presenting the content are achieved. Other contents such as style sheets, images and scripts are recommended to be cached.
+
+
+Linking
+
+Using frames which contains third-party information can raise issues of infringement of copyrights and trademarks.
+
+Bookmarks
+
+Visitors usually cannot mark the particular frame that he wants when using framed websites. The basic structure of frames deviates from the normal structure of unification of the “website.” This can cause problems in bookmarking.
+
+Search engines
+
+Search engines encounter problems when indexing framed sites. This is a result of the frames paradox. The “spiders” of the search engines are drawn to what developers refer to as black hole pages.
+
+Over-all usability
+
+Surfers may become confused with the structuring of a website which uses frames. The provision of multiple scrollbars will definitely add to the problem. If a designer hides the scrollbars, the contents of the website may become inaccessible.
+
+Advantages in Using Frames
+
+There are also some key advantages in using frames. Many people are still lured to use frames in their websites and listed below are some of the explanations why they are inclined to do so:
+
+Ease in designing
+
+One of the key features of the usage of frames in websites is that it makes the job easier for the developer. When a developer employs frames, he is relieved of the task of putting the logos and navigation menu on every single page that he will develop. Frames can contain these information and need not to be copied every time a user clicks another page of the site.
+
+Flexibility
+
+Frames provide a surfer several mini-browsers which he can view all at the same time. This allows for more flexibility in terms of getting more work done or getting more information for a single viewing of the webpage.
+
+Quicker downloads
+
+With the use of frames, different site contents need not be downloaded every time a click is made. This makes downloading much easier because contents that should be re-downloaded need not be downloaded because they are contained in a different frame.
+
+These are just some of the features and perceived disadvantages of the use of frames. They can be used as long as the developer knows how to fully maximize the potential of frames without making them a problem for the surfers.

@@ -1,0 +1,68 @@
+Title: 
+Running Your Own Web Server
+
+Word Count:
+873
+
+Summary:
+This article will cover the basics about running your own web server out of your home. However, before I provide some direction on how to go about doing this I am going to give you the "pain points". I am also going to give you some reasons why running your own web server might not be for you.
+
+Why you don't want to run your own web server?
+
+If you are looking to sell something online you should look at a business web hosting solution. Two reasons. One, you are not going ...
+
+
+Keywords:
+home webserver, running your own webserver
+
+
+Article Body:
+This article will cover the basics about running your own web server out of your home. However, before I provide some direction on how to go about doing this I am going to give you the "pain points". I am also going to give you some reasons why running your own web server might not be for you.
+
+Why you don't want to run your own web server?
+
+If you are looking to sell something online you should look at a business web hosting solution. Two reasons. One, you are not going to be able to harden your server enough to make it secure for conducting business transactions. Second, you need to ensure that your site is available to your customers 24/7/365 or as close to 100% uptime as you can get. With web hosting you can typically get 99% uptime. You are very unlikely to come close to this trying to run your own server. Your uptime will be based on the uptime of your internet service provider. Plus every time you update Windows you will likely need to reboot your machine. And, are you familiar with...
+
+- How to setup and configure a router?
+- The difference between a physical and a software firewall?
+- Do you know how to setup, configure, and secure a web server?
+- Do you know enough about networking to run and maintain a server?
+
+It is certainly within the realm of a fairly technically savvy person to setup and administer their own web server on the internet, but it takes some work, and any claims that it is easy to do should be met with guarded skepticism. This advice is coming to you from someone that ran their own web server on the internet for almost two years.
+
+On the other hand it is pretty easy to (relatively speaking) setup and run a web server against your localhost (127.0.0.1) address. This web server will only be available to you local PC, but can serve as the test platform for your web site.
+
+Some direction on running your own web server
+
+Well, if you have read the last section and are still reading then you are looking for some direction. I am going to be offering information from the perspective that you are somewhat familiar already with the terms I am throwing about. The links I have provided here will go into more detail. Again, setting up and maintaining your own web server is not easy and requires a broad range of technical knowledge.
+
+I will be showing you how to setup the Apache web server on your PC running under Windows. I am running Windows XP - Professional. You can run a web server using Windows XP - Home or Windows 2000. I mention this as any specific guidance I am giving you might vary if you are using something other than XP Professional. Also, I have not tried doing this on any other version of Windows.
+
+Getting the software
+
+You can go directly to Apache and get the webserver. But, what if you want to add blog software, forum software, Php, and other packages that do not come standard with the web server itself? Like I said this stuff is not easy. But wait, I am about to turn you on to one of the most comprehensive web packages available. This web package could probably be installed by your Grandmother without difficulty! All you need to do is download the file (it is a huge 186mb file). Once you download it installation is so simple it is ridiculous. The folks that did this are just brilliant. Most software shops could take a lesson from them in installation and configuration management.
+
+This software comes bundled with blog software, forum software, MySQL database, apache security module and much more. The price is right as well. This site is not really easy to find in the search engines which goes to show that sometimes some of the best stuff on the web is buried quite deep. The url is http://www.devside.net/
+
+Figuring out if IIS (Internet Information Server) is enabled?
+
+I am assuming that you are going to install and use Apache as your web server. As such you need to see if IIS is running on your machine as there might be a port conflict as port 80 is the default port.
+
+Some misc. advice (You may likely need to do a bit more digging to deal with the advice given here.)
+
+Setting up your router
+
+- DO NOT open up your entire DMZ to the internet are you will be toast!!!
+- Only open up port 80 and port 23 (if you plan on letting people download stuff using FTP. Note, they can download files using http which runs on port 80).
+
+Port Forwarding
+- Find a service like ZoneEdit. This is what I use. It is free for low to medium traffic sites.
+
+Your ISP
+
+- Some ISP's block port 80. You can still run your webserver, but it will have to be done on another port (81, 82, etc...)
+- Some ISP's have policies that do not allow their customers to run websites. You should read your internet service agreement for details.
+
+For another decent link to a site with good information on setting up a web server go to http://www.diywebserver.com/
+
+

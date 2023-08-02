@@ -1,0 +1,36 @@
+Title: 
+Blocking Spam Mail Senders
+
+Word Count:
+463
+
+Summary:
+Before you are able to block spam, of course, you have to know what spam is. Spam, actually, can be defined in various ways. But to avoid any complications, spam is any form of junk mail or email that just keeps on advertising. These are the kinds of mail, spam, that just give you headaches everytime you open your inbox.
+
+You did not ask for email about certain products that you do not even know of. You did not request for messages about your horoscope or other love advice....
+
+
+Keywords:
+blocking spam,spam filters
+
+
+Article Body:
+Before you are able to block spam, of course, you have to know what spam is. Spam, actually, can be defined in various ways. But to avoid any complications, spam is any form of junk mail or email that just keeps on advertising. These are the kinds of mail, spam, that just give you headaches everytime you open your inbox.
+
+You did not ask for email about certain products that you do not even know of. You did not request for messages about your horoscope or other love advice. But instead of having some sensible messages in your inbox, you can't anymore due to the fact the spam has occupied most of your inbox space. A spam blocker is exactly what you need.
+
+Spam Assassin, which is brought to the world by TCH, is an effective tool for blocking spam mail senders, especially from a certain server. If you opt to put Spam Assassin in its default mode, it will be disabled when a particular site is setup by TCH. Using this spam blocker assures you of a spam-free email address.
+
+If you want to be more specific in blocking spam mail senders, you can block them by being more particular in the subject line area. Here is a simple step-by-step procedure for you to be able to do this more advanced intervention against spam.
+
+First, you have to select Email Filtering, and then click Add Filter. Once you do that, a drop down box will show. In this first drop down box, you will click Subject.
+
+If there is a first drop down box, there is bound to be a second one, right? Right. Well, in the second drop down box, you must click Contains.
+
+And of course, a third drop down box is deemed to be inevitable. In this last drop down box, you are to type stop spam, or whatever collection of words or phrases it is or are that you want to filter or block. But you must always keep in mind that this field is very case sensitive. By that, what is meant is, when you type in the third drop down box the word obscene, the word ObScENe might not be blocked. This is, indeed, a disadvantage that will be worked on to make spam blocking a less nerve-racking predicament.
+
+After that segment, you are to click Discard, Activate. Then after clicking those two previous separate buttons, click Go Back.
+
+Blocking spam mail senders is not as hard as you might think it is. It is, actually, easier than perceived to be. All you need is more patience to be able to have an effective installation. Once you have blocked these annoying spam mail senders, you are bound to have a smooth time with your email addresses.
+
+

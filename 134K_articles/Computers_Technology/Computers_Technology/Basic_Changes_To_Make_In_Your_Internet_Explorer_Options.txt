@@ -1,0 +1,78 @@
+Title: 
+Basic Changes To Make In Your Internet Explorer Options
+
+Word Count:
+1996
+
+Summary:
+Most people get their computer with Internet Explorer already installed and set to all the default settings. The default settings are what Microsoft calls “recommended settings”. These settings are not always the best for your usage. One size does not always fit all. But how do you change the settings and what do they all mean? I’m glad you asked...
+
+In this article I am going to take you step by step through these settings to explain them to you. Open a new browser window ...
+
+
+Keywords:
+Computer support, support forum, computer help, computer crash, pc support, internet explorer
+
+
+Article Body:
+Most people get their computer with Internet Explorer already installed and set to all the default settings. The default settings are what Microsoft calls “recommended settings”. These settings are not always the best for your usage. One size does not always fit all. But how do you change the settings and what do they all mean? I’m glad you asked...
+
+In this article I am going to take you step by step through these settings to explain them to you. Open a new browser window before you start, so you can follow these steps as you read the article. At the top of your new browser window, click on “tools” then “Internet Options”.
+
+The first tab you will see is the “general” tab. The very first option you have is where to set your home page. Type in http://forum.dugancom.com/. I’m just kidding. That is my website. Pick a website that you want your browser to open to every time you go online. If you have a favorite search engine, put it there. If you have a home page enter that. Hit apply when you have done this and that will be your home page from now on. Anytime you hit the home button at the top of your browser it will automatically go to that page.
+
+The next option you have is to “delete cookies”. There is a lot said about how to manage cookies and what they are for on the Internet. But for the purposes of this article I will just tell you that cookies store information like websites where you want to be automatically logged in rather than having to type in a username and password every time. There are other cookie uses and hopefully I will have time to write about that in another article. If you delete the cookies, you will have to login to websites you use often and it won’t remember your username etc.
+
+The next button says “delete files”. These are the temporary files Internet Explorer stores on your hard drive so if you go back to them they will load faster because the images and other files are already downloaded. Later we will get to another area with a setting that will help you manage this. You can go ahead and delete these files if you want to and every now and then you should.
+
+The next button is called “settings”. Click on that button now. It says, “Check for newer versions of stored pages... “ then gives you several options. Clicking “every visit to the page” will cause pages to load slower because rather than going into the temporary Internet files for cached files, it queries the server for the newest version of any files on that page.
+
+“Every time I open Internet Explorer” means that the first time you visit that website, “this session”, it will check for a newer version of the page. After that, it will refer to the cached page on your hard drive. “Automatically” means you let Internet Explorer manage this for you and that is the recommended setting. “Never” means it will always use the cached version on your hard drive rather than check for newer versions.
+
+I recommend either auto or never, because if you want to check for newer versions of a page all you have to do is push shift and hit the refresh button on your browser tool bar.
+
+The next option in settings is how much space to allow for temporary Internet files. Five to Twenty megabytes is plenty. Internet Explorer tends to override your choice here anyway. Bill knows best I guess.
+
+The next button is “move folder”. Don’t click that. Back away slowly and do not touch that button. It sends nuclear missiles at several minor countries. Seriously, moving the location of your temporary Internet files is not a good idea. The next button, “view files” is pretty boring stuff and you don’t need to do anything here. The same can be said for “view objects”. Those three can all be left alone.
+
+Go ahead and click ok so we can go back to the general tab. You will see the next option is about computer history. Now this is a personal choice. You know how links you have clicked on before are a different color than those that you have not clicked on? Well history remembers that for you so you know which pages you have or have not visited. It also records the history of all the websites you or anyone else on your computer has visited. In your address bar, the drop down arrow that shows you all the websites you have been to is put there by the “history” option. It is also used if you have auto-complete enabled for web addresses you are typing into your address bar.
+
+You can set this for the number of days you want to save history for. If you have kids, you can access these files to see where they are going on the Internet as well. If you are using a computer at work you might want to set this to 1 day. To the right of where you enter the number of days is the button to erase history now. Computer experts can still find your history. This is not absolute.
+
+Next button is “colors”. The best setting is “use windows colors, but experiment if you want to. Next button is “fonts” and if you click on that, it’s pretty self-explanatory. This is not where you choose font size. That is in the “view” part of your browser rather than the “tools” area we are in now. “Languages” is also self-explanatory. “Accessibility” is where you can alter settings if you have special needs.
+
+Ok, now let’s move on to the “Security” tab. “Medium” is the best setting for most users and probably is already set there. Be careful when changing security options that you do not understand. Click “custom level”. Scroll through. If there are things you are absolutely sure about and want to change, then do so. But if you are not sure, don’t change it.
+
+You will see that when we first came to the tab the “Internet” icon was selected in the window at the top. You can also click on “Local Internet” and do the same for your settings there. This is for your local network if you have one. The next icons are, “trusted sites” and “restricted sites”. You can add websites to either area that you wish to allow or disallow no matter what other settings are on your computer. This is one way to block your child from visiting a particular website.
+
+Go to the next tab at the top called “privacy”. Now this is another area where you need to be careful and understand what you are changing before doing so. This is probably already set to “medium” which is fine for most users. The “import” button probably doesn’t apply to you. Click the “advanced” button. Everything here is probably grayed out except the option to check override cookie handling.
+
+Automatic settings mean that you accept both first party and third party cookies. That means you accept cookies from the website you are visiting and from any other websites that the website you are visiting has chosen to set cookies on your hard drive like their advertisers or others who want to track user’s habits.
+
+Click ‘override automatic cookie handling”, then check “block” for the third party cookies and you will block some spyware or adware being placed on your system. If you want to block cookies from a particular website or you want to only allow cookies from specific websites, this is where you add those websites.
+
+Next, we go to the “Content” tab. Again, this is an area that you need to know what you are changing before you change anything. You can click “enable” for content advisor. The first slider bar can be changed to block different types of content. First you can start with types of language you wish to block, then nudity, sex, and violence by clicking the icons in the window and using the slider bar. The “more info” button will help you understand this more.
+
+The “approved sites” tab at the top will let you enter websites that you want to access regardless of the settings you just made with the slider bar. On the “general” tab, you should click allow websites that have no rating because not all websites are rated. You can also check the box that says a supervisor, you, can use a password to access restricted websites.
+
+If you share your computer with your children, this is an option where you can visit restricted websites but they cannot. Be careful when setting this password. If you forget it, you will not be able to make changes to these settings later. If you lose this password, you have to know how to go into the registry to get it removed. Unless you know about rating systems, you don’t need to worry about the two buttons at the bottom of this tab or the “advanced tab”.
+
+Click ok to make any changes you made and to enter a password if you decided you wanted one. If you understand about “certificates” and “publishers” then you don’t need my help here. If you don’t understand them, leave those buttons alone.
+
+Click the “autocomplete” button. This is pretty easy to understand. Autocomplete works to help you not have to type the same information on forms and in your Internet Explorer address bar. You can also clear any previous information here. Click prompt me to save passwords and it will ask you each time you enter a password if you want Internet Explorer to remember your password for this website so you don’t have to type it in every time. I don’t recommend you allow it to remember banking and financial passwords.
+
+“My Profile” is where you can enter information about yourself and use that whenever asked for your profile on a website or it can be automatically accessed by some applications saving you time.
+
+Now, click the “connections” tab. If you are currently connected to the web and reading this article, then it is safe to assume your settings here are correct and you should leave them alone.
+
+Click the “programs” tab at the top. There are drop down menus to help you set the default program for each of the tasks. This is a personal choice that will let you set your default web browser, html editor, and email program.
+
+Now we reach the “advanced” tab at the top. Scary hunh? No, this area is mostly personal choices and your choices don’t have near the serious consequences of your settings in “content”, “privacy”, and “security”.
+
+Most of the choices should be left where they are as the default settings. I will only talk here about the ones you may want to change. Do not check notification for EVERY script error unless you want to be annoyed a lot. Not every script in every webpage is error-free and there will be a lot of popups about them if you check that box.
+
+Notify me when downloads complete if checked will give you a sound when a download is done. Underline links is a personal choice. I leave it set on always so I know when I see a link. The next ones again are a choice of whether you want to use Autocomplete.
+
+You can scroll through the rest of the choices and change the ones you understand. Likely if you don’t understand an option you don’t need to change it anyway. I hope this article has been helpful to you and has helped you personalize your settings rather than have Bill Gates do it for you.
+
+

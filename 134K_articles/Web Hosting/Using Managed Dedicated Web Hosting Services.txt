@@ -1,0 +1,17 @@
+Using Managed Dedicated Web Hosting
+
+Managed dedicated web hosting is for an individual or company that wants storage and bandwidth without the restrictions that you get by choosing a free web hosting service.  If you have a site which you want to have more bells and whistles programmed into it, then managed dedicated hosting is the way to go.
+
+Dedicated services give you more email addresses, sometimes up to 500 addresses. It also has storage to support basic database applications on the server side of the web host. This allows for the development of applications that enable you to store data on the server side also and have queries and other types of program and programming scripts embedded into your web-site.
+
+But the key to these kinds of servers are the bandwidth that’s available to the user. Monthly bandwidth can range from 500 to 1000GB for the user.
+
+That’s good for your basic SOHO business or home office because if you’re running a small audio or flash application or database on your site, this type of hosting service should do just fine. Also, you can assign the other email accounts to co-workers, family members or whoever you want to.
+
+When you are running web applications over 1,000GB, that’s when you should consider steeping up your web hosting package. There are various types of web plans based on the types of internet applications that you are developing for your business. For example, if you are developing online streaming video content for your site, then you might want to go past the 1000GB limit on your account and get more bandwidth.
+
+As a SOHO or company grows, the need for more bandwidth is paramount especially if you have an intranet in your office or you have people accessing the back end of your web-site to load data from various locations.
+
+Dedicated web hosting is what the majority of individuals and small businesses use until they start growing out of their bandwidth. They usually upgrade their web hosting packages and buy more storage and bandwidth.
+
+

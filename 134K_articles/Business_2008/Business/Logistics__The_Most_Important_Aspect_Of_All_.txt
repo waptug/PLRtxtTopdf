@@ -1,0 +1,36 @@
+Title: 
+Logistics: The Most Important Aspect Of All?
+
+Word Count:
+939
+
+Summary:
+Logistics can outweigh almost any other consideration in a military situation,  so always understand the logistics before deciding your strategy.
+
+
+Keywords:
+logistics
+
+
+Article Body:
+Logistics might not seem as romantic and heroic as combat, but the fact is that campaigns can often be won or lost purely on the basis of logistics.  
+
+If you have much knowledge at all of logistics and military history, you will probably find that the more such knowledge you have, the more wars and battles you can think of that would not have been necessary at all if logistics had been better handled.  
+
+To avoid the risk of bringing up any historical controversy I shall use simulated gaming and hypothetical examples rather than using examples from Earth's history.  
+
+Take for example the strategic eXplore/eXpand/eXploit/eXterminate (4-X) game FreeCiv, which is reasonably characteristic of a whole family of games known Civilisation Games.  These are games which offer a wide range of civilisation-building tools but which in practice tend to become shoot-em-ups when played by multiple players.  
+
+When a number of players try to play such a game together the logistics of trying to find enough time for enough players to all play at once tends to be an incentive to go to war.   That is because going to war can be a lot faster than trying to build a civilisation, carefully with attention to detail, and taking full advantage of all the many colourful options that are available for making large cities, full of impressive cultural artefacts.  The difficulties involved in trying to co-ordinate a number of players are logistical difficulties.  Can they all take sleep breaks and meal breaks and breaks to go to work and so on yet still stay co-ordinated?  Usually not.  So the logistics of trying to fit playing time into people's lives tends to lead to a desire for short fast games.  
+
+In the real world, the people enacting these kinds of scenarios tend to be provided for in such a way that their activities are part and parcel of their career.  Volunteers and conscripts might share some of the kind of "lets get this over with so that we can go do something else instead" pressure that players of simulation games often have, but there also tend to be career-military people too who might not only have plenty of time to devote to furthering the objectives, but even have a vested interested in have it take plenty of time.  
+
+Let us put aside the logistics of actually running the simulation and look at the simulation itself and what it is simulating.  There is exponential growth, and that has a powerful logistic effect.  A small economic advantage, a small difference in productivity, tends to have an ever-growing effect.  That is actually typical of 4-X (eXplore/eXpand/eXploit/eXterminate) in general.  You might remember the infamous logistic predictions of Malthus, that although population increases geometrically, resources increase arithmetically.  His argument is essentially about logistics, although it tends to be in the field of economics that he is remembered most vividly.  Economics and logistics are very closely intertwined.  
+
+The reason that I have chosen FreeCiv as my example is that one finds that, even in single-player (against artificial intelligence opponents) mode, a very fundamental logistic problem turns out to be such a fundamental factor that combat is somewhat secondary.  It turns out that the majority of impressive "improvements" that one can build in one's cities is also secondary.  It turns out that the logistics is such that small is better.  It is better to build lots and lots and lots of unimproved cities than to develop your cities.  A player who spawns more cities in preference to improving existing cities gains such a production advantage that bothering to develop one's cities puts one at a disadvantage.  Thus logistics rules.  This simple logistic fact outweighs everything.  It is in fact a fundamental problem of the game, a defect as it were, which causes all of the colourful details and interesting artefacts provided in the way of possible city-improvements to be somewhat of a waste of time, a red herring.  Protagonists whose attraction to the simulation is that it provides a large range of interesting things that one can build, are led astray by their quest to improve their cities and they get wiped out by hordes of "barbarians" infesting the world with huge numbers of puny, undeveloped population-centres.  
+
+I am not at all implying that such a simulation is accurate.  In fact I could easily have chosen an even more abstract simulation as an example because the point I am trying to make is nothing to do with the accuracy of the simulation.  My point is that logistics can be so extremely decisive that whether, and how, one decides to go to combat, and how one conducts one's combats, can become totally secondary.  If you are predisposed in favour of a particular logistical course, such as spending resources on improvements to one's population-centres, you can find yourself following a foredoomed course.  If you are predisposed to go to war, you can likewise be foredoomed because building more and more and more cities can be much more important than building combat units.  
+
+Logistics is so important that you really should thoroughly investigate the logistics of the situation and the factors that affect the situation before jumping ahead into other military considerations such as weaponry and troops and so on.  Get the logistics right and you might be able to get, and stay, so far ahead of any potential opponents that even if they do choose to go to combat they will be foredoomed to lose to you.  In real life that might well lead to their seeking to avoid going to war with you at all.
+
+

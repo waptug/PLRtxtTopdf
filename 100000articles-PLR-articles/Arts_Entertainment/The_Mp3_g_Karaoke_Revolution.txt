@@ -1,0 +1,42 @@
+Title: 
+The Mp3+g Karaoke Revolution
+
+Word Count:
+583
+
+Summary:
+Everything you need to know about the Karaoke MP3+G format.
+
+
+Keywords:
+mp3+g, mp3-g, mp3g, karaoke, history, downloading, software, info
+
+
+Article Body:
+MP3+G is a karaoke file format that was created to allow CD+G karaoke to be played from a personal computer easily and quickly. MP3+G is considered the de facto standard of karaoke on the PC and was created from the combination of the MP3 audio file (the CD audio is converted and compressed to MP3) and a raw CDG file which contains the RW subchannels from the CD+G track. The name MP3+G was first used by Gai Marcos and Steve Gray in late 1997 or early 1998 to describe the format. It was first called MM+G in early 1996 where it was a combination of various audio formats synchronized to a CDG file. MP3 and WMA became the most popular audio format used for karaoke and therefore MP3+G and WMA+G became the most popular formats used. Microsoft first unofficially adopted the WMA+G for use on the XBox for the XBox karaoke product.
+
+The MP3+G format
+
+MP3+G stands for MP3 plus Graphics. MP3+G is derived from the CD+G format and the CD+G disc format invented by Philips. MP3+G is created by extracting the CD-Audio packets from the CD+G disc with a CD-ROM that is capable of also extracting the RW channels from the disc. The digital audio portion is compressed to MP3 (the MP3 format was invented by Fraunhofer Society MP3.) and the RW Channels (CD+G graphics CD+G.) are stored to a CDG file. The player products read each file and synchronize the information to display the interpreted graphics along with the music.
+
+Downloading MP3+G Files
+
+It is possible to locate and download virtually every karaoke song ever produced. These song files are shared between users of certain newsgroups and IRC channels, though there is a great learning curve to overcome for those who are not familiar with such methods. An alternative would be to purchase one of the pre-compiled MP3+G collections, such as KaraMP3 ( http://www.KaraMP3.com ).
+
+History of MP3+G
+
+Gai Marcos and Steve Gray in late 1997 / early 1998 created MP3+G (Marcos, Gai (1998-01-01). President of TyrannoSoft. Gai Marcos. Retrieved on 2007-09-07. and Gray, Steve (2004-08-31). Background. Steve Gray. Retrieved on 2007-09-07.) and their focus was to make the CD+G format easier to use. It was introduced to the market as MP3+G during that period and caught on with karaoke enthusiasts. The first player that was provided to play and create the format was called "WinCDG". WinCDG and its descendant products were released by TyrannoSoft (owned and operated by Gai Marcos and Steve Gray). In 2001, TyrannoSoft renamed to TriceraSoft and continues to support the format in all their products.
+
+Other products have found a new way to transport the MP3+G pair of files by "zipping" them. A zip file is a data compression format used to compress and contain files together. Containing the MP3+G file pair in the ZIP became known as an "MP3+G Zipped". The MP3+G Zipped has also become popular, however it is not an efficient method to access the MP3+G format as it requires to be unzipped (decompressed) before it is used.
+
+Since the creation of the format the technology of MP3+G was first licensed as the Breeze engine by TyrannoSoft. It was later released as a codec engine technology to various computer software companies which continued the introduction of MP3+G to the world, here are a few;
+
+    * TriceraSoft,
+    * TouchPoint,
+    * PCDJ,
+    * DJPower,
+    * Alcatech,
+    * Hercules,
+    * AVA Systems
+
+

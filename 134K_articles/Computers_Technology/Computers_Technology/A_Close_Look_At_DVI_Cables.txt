@@ -1,0 +1,39 @@
+Title: 
+A Close Look At DVI Cables
+
+Word Count:
+396
+
+Summary:
+We all have many times heard about DVI, but what does it really means and what it does? What is the main function of this tiny white port on a video card? How it can benefit you and your personal computer? Do you know which DVI is suitable to meet your requirements?
+
+Digital Video Interface is created by Digital Display Working Group to solve the problem of accommodation analog and digital interfaces just by using single connector. It was developed because of insufficiency ...
+
+
+Keywords:
+dvi cables
+
+
+Article Body:
+We all have many times heard about DVI, but what does it really means and what it does? What is the main function of this tiny white port on a video card? How it can benefit you and your personal computer? Do you know which DVI is suitable to meet your requirements?
+
+Digital Video Interface is created by Digital Display Working Group to solve the problem of accommodation analog and digital interfaces just by using single connector. It was developed because of insufficiency of standardization in digital interfacing.
+
+Three types of standards can be seen in DVI cables. It is very important to know how each type looks like before buying to upgrade your DVI. So it is very important to know how DVI cable works and which one will be most beneficial for you.
+
+However, DVI cables are still in the phase of development. Hence there is no specific standard for the DVI cable. In ideal circumstances, DVI home theater cable is capable to create ' digital to digital' connection between the data or video sources and home theater projectors.
+
+The standard rule for DVI cables is that it should have maximum length of 5 m for trouble free operation. It is very typical to decide a DVI cable first time.
+
+There are two types of DVI connector and each has its own characteristics. The flat pin denotes whether the cable is analog or digital. A flat pin with four surrounding pins denotes either DVI-A or DVI-1. A single flat pin denotes DVI-D. The pin sets depends upon whether the cable is single link or dual link or analog.
+
+To choose a perfect Digital video interface cable you should remember these tips:
+
+1.Check both female DVI plugs to make sure what type of signals they compatible with.
+2.One or both connections should be DVI-D if you are choosing a DVI-D cable.
+3.One or both connections should be DVI-A if you are choosing a DVI-a cable.
+4.If one of the connections is DVI and other is VGA, and if the DVI is analog compatible, then you must buy a DVI/VGA adaptor or a DVI to VGA cable.
+5.when both connections are DVI-1, you are advised to use any of DVI cable, but better if you use DVI-1 cable.
+6. If one connection is digital and the other is analog then there is no possibility of connection between them.
+
+

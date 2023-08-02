@@ -1,0 +1,17 @@
+Search Engine Optimization Simplified
+
+Chances are good that at some point in your life you ran a search on an online search engine and instead of one hit you received pages and pages of possible hits. Have you ever wondered if the order the websites appear on search was just a random grouping or if they had been placed in a specific order that just appeared disorderly to you? The answer is that there is a very elaborate system used to determine where a website appears during an internet search. The process is something called search engine optimization.
+
+Search engine optimization is the science and art of making web pages attractive to search engines.
+
+Next time you run an internet search look at the bottom of the page. Chances are good that there will be a list of page numbers (normally written in blue) for you to click if you can't find exactly what you are looking for on the first page. If you actually look farther then the second page you will part of a minority. Studies and research have shown that the average internet user does not look farther then the second page of potential hits. As you can imagine it's very important to websites to be listed on the first two pages.
+
+Webmasters use a variety of techniques to improve their search engine ranking. 
+
+The first thing most webmasters (or website designers) do is check their meta tags. Meta tags are special HTML tags that provide information about a web page. Search engines can easily read Meta tags but they are written with special type of text that is invisible to internet users.  Search engines rely on meta tags to accurately index the web sites. Although meta tags are a critical step in search engine optimization they alone are not enough to have a web site receive top ranking.
+
+Search engines rely on a little device called a web crawler to locate and then catalog websites. Web crawlers are computer programs that browse the World Wide Web in a methodical, automated manner. Web crawlers are also sometimes called automatic indexers, web spiders, bots, web robots, and/or worms. Web crawlers locate and go to a website and "crawl" all over it, reading the algorithms and storing the data. Once they have collected all the information from the website they bring it back to the search engine where it is indexed. In addition to collecting information about a web site some search engines use web crawlers to harvest e-mail addresses and for maintenance tasks. Each search engine has their own individual web crawlers and each search engine has variations on how they gather information.
+
+Most webmasters feel that proper use and placement of keywords helps catch the attention of web crawlers and improve their websites ranking. Most webmaster like to design their websites for ultimate search engine optimization immediately but there aren't any rules that say you can't go back to your website at any time and make improvements that will make it more attractive to search engines.
+	
+

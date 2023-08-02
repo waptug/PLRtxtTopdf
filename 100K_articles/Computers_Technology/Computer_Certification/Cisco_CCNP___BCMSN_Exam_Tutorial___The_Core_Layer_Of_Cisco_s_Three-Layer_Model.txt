@@ -1,0 +1,29 @@
+Title: 
+Cisco CCNP / BCMSN Exam Tutorial:  The Core Layer Of Cisco's Three-Layer Model
+
+Word Count:
+428
+
+Summary:
+To pass the CCNP, you've got to know the details of each layer of Cisco's three-layer networking model.  Learn these important details from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+cisco, ccnp, exam, certification, bcmsn, core, layer, three, model, networking, switch, pass, ccie
+
+
+Article Body:
+In this section, you're going to be reintroduced to a networking model you first saw in your CCNA studies.  No, it's not the OSI model or the TCP/IP model - it's the Cisco Three-Layer Hierarchical Model.  Let's face it, just about all you had to do for the CCNA was memorize the three layers and the order they were found in that model, but the stakes are raised here in your CCNP studies.  You need to know what each layer does, and what each layer should not be doing.  This is vital information for your real-world network career as well, so let's get started with a review of the Cisco three-layer model, and then we'll take a look at each layer's tasks. Most of the considerations at each layer are common sense, but we'll go over them anyway!
+
+
+Today we’ll take a look at the core layer of the Cisco model.
+
+The term core switches refers to any switches found here.  Switches at the core layer allow switches at the distribution layer to communicate, and this is more than a full-time job.  It's vital to keep any extra workload off the core switches, and allow them to do what they need to do - switch!  The core layer is the backbone of your entire network, so we're interested in high-speed data transfer and very low latency - that's it!
+
+Core layer switches are usually the most powerful in your network, capable of higher throughput than any other switches in the network. Remember, everything we do on a Cisco router or switch has a cost in CPU or memory, so we're going to leave most frame manipulation and filtering to other layers.  The exception is Cisco QoS, or Quality of Service. QoS is generally performed at the core layer.  We'll go into much more detail regarding QoS in another tutorial, but for now, know that QoS is basically high-speed queuing where special consideration can be given to certain data in certain queues.  (You’ll soon find that this is a very basic definition!)
+
+We always want redundancy, but you want a lot of redundancy in your core layer.  This is the nerve center of your entire network, so fault tolerance needs to be as high as you can possibly get it.   Root bridges should also be located in the core layer.
+
+The importance of keeping unnecessary workload off your core switches cannot be overstated.  In the next part of this BCMSN tutorial, we’ll take a look at how the other layers of the Cisco three-part model do just that.
+
+

@@ -1,0 +1,90 @@
+Title: 
+Seo Terms For Newbies – Part 2 Of 2
+
+Word Count:
+681
+
+Summary:
+SEO stands for Search Engine Optimization and a newbie is someone who is new to something. So if you are a SEO Newbie then these basic terms are going to assist. 
+
+A few years ago no one had heard of the term SEO. And now we have pages of terms that relate to it.  The internet has quickly created new industries and thus spawned new words and phrases.
+
+Use this list of terms as a quick introduction into the language of SEO. 
+
+IP address
+Every Internet user and every ser...
+
+
+Keywords:
+seo terms,seo,,glossary
+
+
+Article Body:
+SEO stands for Search Engine Optimization and a newbie is someone who is new to something. So if you are a SEO Newbie then these basic terms are going to assist. 
+
+A few years ago no one had heard of the term SEO. And now we have pages of terms that relate to it.  The internet has quickly created new industries and thus spawned new words and phrases.
+
+Use this list of terms as a quick introduction into the language of SEO. 
+
+IP address
+Every Internet user and every server has a numeric address – they look like this 123.45.67.890. 
+
+keyword 
+Keyword in a word used in a search query. In SEO, web pages are typically optimized for specific keywords. Accurate keyword targeting is considered by most to be essential to effective SEO. 
+
+keyword density 
+A measure of the percentage of key words on a page. When keyword density is inflated artificially, it is often referred to as keyword stuffing. 
+
+latent semantic indexing (LSI)
+Latent Semantic Indexing, uses statistical algorithms to retrieve relevant documents even when they do not share any of the words queried.
+
+manual submission
+The process of manually submitting a web page to a search engine or directory as opposed to using submission software or a submission service. Same as Hand Submission.
+
+Natural Linking
+Describes the hypertext links found on web sites that are part of text content and that link to expanded or add extra information to the subject.
+
+nofollow
+If you don't want the Googlebot to follow a you can use the following tag in your href links -  rel="nofollow"  
+
+PPC
+Pay Per Click. An internet advertising payment system where the advertiser only pays for an advertisement when it gets click on. So an ad may be on a page that gets 1,000 visitors but if only 6 click, then the advertiser only pays for 6.
+
+ranking 
+Refers to where a web page is listed in the search results for a particular query. For example, if one of your web pages is listed a position 7 for “cat” then your page is said to have a ranking of 7 for that term. 
+
+reciprocal link
+Is basically a link swap. I will put a link to your page on mine if you will give a link back from your page. 
+
+PageRank
+Google's measure of the link popularity of a page. 
+
+SERP(S)
+Search Engine Results Page(s). When you search for a term in a search engine it brings back a page full of responses this is the SERP. 
+
+SEO
+Search Engine Optimization. This is a collective term used to describe activities that aim to improve a web page’s search engine ranking. 
+
+sitemap
+A map to your site. A sitemap contains links to every page of your site which may assist spiders to index all your pages. 
+
+spider
+An internal search engine program that travels the internet following links from one page to the next and from one site to the next. As it ‘crawls” it collects information from the sites it visits and then that information is stored in the search engine's database for using in search engine query results. 
+
+spidering 
+The process of what the spiders do.
+
+Server Side Include (SSI)
+Is a form of HTML command that is kept off the page and on the server. It allows the  webmaster to insert the same thing on many pages and allows them to make changes to that thing in just one place. For example a navigation bar may occur on every page, but if it is set up as a SSI, if a change is needed then the webmaster only need change it once and it will automatically be changed on every page.
+
+unique visitor 
+Used to describe one individual person visiting a site. That one individual may visit the site multiple times, therefore log files normally show more visits than unique visitors. 
+
+URL 
+URL is short for Uniform Resource Locator or Universal Resource Locator. It is the unique Internet address that every website must have in order to be located. Eg www.discover-voip.info.
+
+
+With You in Technology
+Adam White
+
+

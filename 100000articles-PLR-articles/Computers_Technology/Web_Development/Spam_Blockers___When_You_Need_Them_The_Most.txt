@@ -1,0 +1,48 @@
+Title: 
+Spam Blockers – When You Need Them The Most
+
+Word Count:
+669
+
+Summary:
+Whether you are a business user or a home user the one thing which bothers you most and keep filling your inbox are loads of spam you get everyday. And sometimes whatever methods you apply there seems no end to the flow of spam which keeps finding its way to your mailbox. In such scenario using a spam filter or spam blocker is the best remedy. But those who have used such tools will agree that the good ones are really complicated whereas the simple ones are more or less usele...
+
+
+Keywords:
+spam, spam filter, free spam filter, discount spam filters, download spam filters, best spam filters
+
+
+Article Body:
+Whether you are a business user or a home user the one thing which bothers you most and keep filling your inbox are loads of spam you get everyday. And sometimes whatever methods you apply there seems no end to the flow of spam which keeps finding its way to your mailbox. In such scenario using a spam filter or spam blocker is the best remedy. But those who have used such tools will agree that the good ones are really complicated whereas the simple ones are more or less useless against the always upgrading spam technique.
+
+In such cases what should be the option. Getting a perfect spam guard or filter is asking for heaven without attending a mass. And actually you have to start early before you get yourself a filter to protect your mailbox from unwanted mails. So what are the beginners' methods to spare mailbox from such mails.
+
+First you shouldn't give or avoid giving your e-mail address to online advertisements. Secondly don't publish your e-mail on internet until absolutely necessary. Spiders or other such tools frequently used by the spammers often take your e-mail address from the published locations. Thirdly if you are using a company mail get your mail server the required firewalls which will cut the spam inflow to some extent. Using such steps it would be easy for you to cut off the spam flow to some extent.
+
+There are three basic types of traditional anti-spam software...
+
+1) Plug-ins for email clients. These anti-spam programs run on your computer and require all received spam to be downloaded before they start sorting it.
+
+2) Standalone applications. These spam blockers also run on your computer and communicate with the email server multiple times each hour to check your POP mailbox for spam and delete it. They constantly run in the background, using up resources and bandwidth.
+
+3) Server-side email spam filters. Many ISPs and email servers (HotMail, Yahoo! Mail, etc.) have installed email filtering software that scans email for certain triggers, which may include certain phrases, formatting, and aggressive writing styles. However, many unfair marketers have learned to fool spam filters, while a lot of legitimate emails are blocked by them.
+
+Now you are ready to get rid of the remaining spam. And the ultimate answer is getting a spam filter. Look for the following benefits in a good anti spam software or a typical spam filter.
+
+It should delete unwanted e-mails before you download the whole message. You'll be able to see who the email is from, the subject, and the attachment. This will enable you to decide if you want to delete the email or keep it. A great way to stop viruses or large attachments.
+
+Blacklist. Any e-mails you bounce back get their senders details put on the blacklist for easy removal if they come back. You can even set it to automatically bounce and delete blacklisted e-mails, or whole domains off the server.
+
+Preview. Easily preview the message in your email to see what the sender has to say before downloading it.
+
+Bounce back unwanted e-mails so it looks as if your email address is not valid. This will make the sender think your address is no longer active so your name can be removed from their list. This unique feature is great for privacy and it couldn't be simpler!
+
+Filtering. Effective filtering to automatically spot spam, plus it uses a customizable list of blacklisted e-mail senders and/or regular expressions to filter out potential spammer addresses and messages.
+
+Fast download of message headers, we have clocked speeds of 25 email message headers per second.
+
+Simplicity. No flashy gimmicks, so easy to use that you won't feel like you have to learn a whole new program. In fact it has the familiar look and feel of Outlook Express. It's as easy as 1,2,3. Just check mail, mark for deletion/learning, then process mail.
+
+Some of the recommended spam filters are MailWasher Pro 5.3, OnlyMyEmail, Cloudmark Desktop 4.7/2.12, Spam Bully, ChoiceMail One 3.1, Allume SpamCatcher 4.0, Spam Arrest etc.
+
+

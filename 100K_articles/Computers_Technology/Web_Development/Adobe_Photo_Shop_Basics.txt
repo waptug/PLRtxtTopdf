@@ -1,0 +1,50 @@
+Title: 
+Adobe Photo Shop Basics
+
+Word Count:
+375
+
+Summary:
+Photoshop users may be used to using many of the tools that are part of the program but have you used the Gradient Editor as a way to customize Photoshop’s default gradients?
+
+You need to have a good working knowledge of Photoshop’s Gradient Tool if you want to be able to make the most of the possibilities and this means you have to be able to master the editing options.
+
+No need to be overwhelmed because this is a fairly easy thing to learn and master, it will just take ...
+
+
+Keywords:
+photoshop,adobe,tutorials,paint,photography,photoshop 7,photoshop cs,photoshop tips,photoshop tricks
+
+
+Article Body:
+Photoshop users may be used to using many of the tools that are part of the program but have you used the Gradient Editor as a way to customize Photoshop’s default gradients?
+
+You need to have a good working knowledge of Photoshop’s Gradient Tool if you want to be able to make the most of the possibilities and this means you have to be able to master the editing options.
+
+No need to be overwhelmed because this is a fairly easy thing to learn and master, it will just take a little practice.
+
+Begin by selecting the Gradient Tool and then click on the gradient preview located in the options bar. This will open Gradient Editor and you are ready to get to work.
+
+When you have opened Gradient Editor you will see several preset gradients. You can choose from the default Foreground, the Background gradient and even the more complex Chrome gradient.
+
+With some practice you will be able to use the preset gradients to create new ones.
+
+You can edit the preset gradients and design new gradients. Some of the gradients have more color stops than others.
+
+The Foreground to Background gradient has two color stops while the Spectrum gradient has seven color stops.
+
+If you want to modify a gradient you can do so by changing the color stops.
+
+Click on one and choose a new color from the color picker, it’s that easy.
+
+You can also click on an image and sample a color for your customized gradient. When you do this you can use the Eyedropper Tool to customize or you may want to add new color stops to a gradient that already exists.
+
+You just click anywhere along the bottom edge of the preview bar and you will be able to add new color stops.
+
+Maybe you want to add different opacity settings so that you can have an image fade from solid to transparent.
+
+This can be done when you use the opacity stops that run along the top of the preview bar. The black opacity stop will be 100% solid while a white opacity stop will tell you that this part of the gradient is 100% transparent.
+
+The gray stops show you the values in between.
+
+

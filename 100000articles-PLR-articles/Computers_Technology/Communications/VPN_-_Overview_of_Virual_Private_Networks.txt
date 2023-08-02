@@ -1,0 +1,31 @@
+Title: 
+VPN - Overview of Virual Private Networks
+
+Word Count:
+416
+
+Summary:
+Virtual Private Network is a network within a network. This is very popular with businesses that have people working remotely. Basically what we have here is a utilization of the network already provided by the internet. The internet infrastructure can be used as the network for remote employees to access their corporate systems.
+
+
+Keywords:
+VPN, broadband internet
+
+
+Article Body:
+Virtual Private Network is a network within a network. This is very popular with businesses that have people working remotely. Basically what we have here is a utilization of the network already provided by the internet. The internet infrastructure can be used as the network for remote employees to access their corporate systems. 
+
+Corporate environments have a far greater need for tight security. This is achieved by creating a VPN (virtual private network) on top of the normal internet connection. This type of connection allows for greater security and encryption. 
+Only authenticated users can access the corporate network and the data being transferred cannot be intercepted. 
+
+So this VPN (virtual private network) connection is being run through the internet public network. 
+
+Two components are needed to make this scenario work. First, there needs to be a corporate server setup which has the server VPN software installed (and a good router with a firewall). The next would be to have the client VPN software installed on the remote employees machines. Once the client machine is on the internet, they would use the VPN client software to communicate to the corporate server VPN where authentication occurs. Once the server identifies the connecting client as a valid machine, access to the network is granted. From then on all information to/from the client to the server is traveling along this virtual private network and is protected by the additional layer of encryption and security provided. 
+
+Finally, there can be a cost savings if determining whether a leased line or VPN is for you. Leased lines can increase in price based on the geographic distance between sites. A virtual private network does not and in fact is more scaleable. (This is a general statement ONLY. It's best to consult with your communications broker prior to making this decision. A broker will be able to provide much more information when compared to speaking with a specific vendor)  
+
+VPN is definitely a viable option for businesses small and large that have remote employees, need site-to-site access with remote offices or secure dial-up connections.
+
+This article is just a very general overview. You should use this only as a starting point to even determine whether or not this type of technology is for you. During your evaluation of this technology, you should consider what type of implementation your looking to do; remote access, site-to-site, secure dial-up. Additional areas to research would be security, firewalls, encryption, server type and IPSec (internet protocol security protocol).
+
+

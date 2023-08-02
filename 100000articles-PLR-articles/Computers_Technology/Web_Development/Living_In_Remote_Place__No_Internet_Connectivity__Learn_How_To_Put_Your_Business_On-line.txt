@@ -1,0 +1,48 @@
+Title: 
+Living In Remote Place? No Internet Connectivity? Learn How To Put Your Business On-line
+
+Word Count:
+925
+
+Summary:
+Let's face it. Rural internet connectivity problem is a true and real concern for developing third-world countries. The same is also true even in developed countries particularly in far, remote rural villages. Sometimes access to communication is only via two-way radios. Other areas have telephone service but wanting even in dial-up internet access.
+
+The biggest challenge therefore for an aspiring internet businessman or home-based internet worker in far remote villages is ...
+
+
+Keywords:
+
+
+
+Article Body:
+Let's face it. Rural internet connectivity problem is a true and real concern for developing third-world countries. The same is also true even in developed countries particularly in far, remote rural villages. Sometimes access to communication is only via two-way radios. Other areas have telephone service but wanting even in dial-up internet access.
+
+The biggest challenge therefore for an aspiring internet businessman or home-based internet worker in far remote villages is how to achieve rural internet connectivity. What should you do if you are in such a situation?
+
+First, take an assessment of your local area and discuss with community members the possibility of bringing rural internet access to the village. In your assessment, take note of the number of household that are going to be benefited from your idea. Local businessmen and village leaders would certainly like the idea of introducing communication service. Make them understand the benefit/advantages of your proposal. Form yourselves into a group and create a committee to be tasked with planning and raising funds for this project. For sustainability, make it an income-generating project or enterprise to help defray maintenance cost.
+
+If all is already in place. Identify and plan now how are you going to get a backhaul internet access. Backhaul is going to be your main communication link from your area to the nearest internet service provider.
+
+Basically, since you are going to distribute the connection to several household or establishment in the area, you will need a dedicated internet access in the level of E1 (2048Kbps) or T1(1536Kbps).
+
+However, for start-up purposes, consider getting a high-speed, high-bandwidth DSL connection (with CIR or Committed Information Rate) from the nearest ISP. Hauling or extending the internet connection (DSL) will require using an Ethernet (IP) Radio such as Wireless Bridge (WLAN). This will require planning if your place is in a remote area.
+
+The easy solution would be to get an internet access service via satellite or VSAT. VSAT or Very Small Aperture Terminal has the advantage of delivering communication anywhere irregardless of the topography and location of the area. As long as it is covered with-in the foot prints of the satellite transponder. A big disadvantage with VSAT Link is its bandwidth limitation, service quality and cost of service. Further, it's not as reliable as a fixed line (cable) and terrestrial wireless broadband radios.
+
+Another viable option would be to get your backhaul internet access from the nearest internet service provider. Perhaps, the nearest is from a city several miles away from your village. Certainly, a developed town or city near your area must have telephone and internet service. Your goal now is how to bring telephone and internet communication to your village. Aim also for the telephone service. You have the advantage of local calling at no extra long-distance charges if you can get local dial tone from the said telephone local exchange.
+
+Next conduct a survey and note the topography by drawing a path line from your village going to that particular town or city. If the path is flat, with no mountainous obstruction in between, the greater the chance of signal reaching your village straight from the telco's exchange.
+
+Negotiate with the local exchange operator the possibility of a joint-collaboration of your proposed communication project. Explain your objective and enlist their support for the project to materialize. Ask them if they could provide a solution package that would include them providing the radio equipment for the backhaul component. Some operator would agree to the idea especially if the project offer a good return on investment and assured monthly recurring revenue.
+
+In such case, you already have achieved your goal of bringing rural internet to your village. As much as possible, locate your node in the center where it would be easy to re-distribute the service to the whole village. The node is where the service operator dropped-off the internet connection using the radio. From their, you need to re-broadcast the connection to the whole of the village.
+
+The most cost-effective way is to re-distribute it using an outdoor, long-range WLAN (Wireless LAN) Access Point radio. Outdoor WLAN type of radio is ideal for Wireless ISP. This type of radio is robust, high-power, reliable, designed for outdoor operation and worst-weather conditions. You will need to purchase only one radio base station- Access Point (AP) and several Customer Premise Equipments (CPE). The AP serves as the master server and the CPE the receiver/slave to connect your place to the node. For greater flexibility we suggest buying a WiFi (Wireless Fidelity) Standard radio instead of proprietary technology.
+
+Please note, if the internet provider will not provide the backhaul radio. As mentioned, a long-range, outdoor, wireless IP-Radio called Wireless Bridge (a type of WLAN) will be needed to haul the internet connection from the city to your village. WLAN is cost-effective and reliable. The advantages of using WiFi equipment is greater than using a proprietary technology.
+
+A proprietary technology is a solution customized by a manufacturer using its own standards and not the common standards. WiFi is an approved standard and all products complying with the standards have compatibility and inter-operability irregardless of the maker. Latest advances in WiFi products have made it an ideal choice for WISP.
+
+Long-Range Wireless LAN (WLAN) is a broadband technology. Combining it with VoIP and virtual IP-PBX technology, the extended dial tones from the operator's local exchange could now served as trunk line for a wireless local telephone exchange. Your once isolated village is now connected using cost-effective rural internet solution.
+
+

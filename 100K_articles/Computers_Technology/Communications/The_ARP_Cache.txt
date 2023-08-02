@@ -1,0 +1,41 @@
+Title: 
+The ARP Cache
+
+Word Count:
+520
+
+Summary:
+The Address Resolution Protocol is designed to ease communication in TCP/IP networks through accelerated methods of finding host hardware addresses when the network layer is known.
+
+
+Keywords:
+arp cache
+
+
+Article Body:
+The Address Resolution Protocol is designed to ease communication in TCP/IP networks through accelerated methods of finding host hardware addresses when the network layer is known. When a network layer has been resolved to a data link layer address, the link between the two is put in a table called an ARP cache where matched sets of Hardware and Internet Protocol are kept. 
+
+The ARP Cache therefore hastens what could otherwise be a time-wasteful process. The ARP cache may however, encounter some problems. The cache table must be maintained in an orderly manner. 
+
+There is also the possibility that the cache entries might become stale with time, and more cache entries might be added without the expired ones being removed from the cache. The initial signs that the cache needs to be cleared is when the pages just won't load and also when you might be unable to ping certain IP addresses. It is suggested that before doing anything, you might try and first check whether the routing and remote services have been disabled (no need to do that if you are using Windows XP Home Edition).
+
+To clear the ARP cache in Windows 2000/2003/XP and Vista, take the following steps:
+
+    * Proceed to the "Start" button, click on "Run" button.
+    * Type the following command in the "Run" textbox. "netsh interface ip delete arpcache"
+    * Click on "Ok". 
+
+Clearing the dynamic ARP cache entries takes between 2 and 20 minutes, depending on the system. But there are alternative ways of clearing the cache if the initial method did not work: Go to the "Start" button, and then go to the "Control Panel".
+
+    * Jump to "Performance and Maintenance", although this step is not necessary if you are in the Classic View.
+    * Now go to "Administrative tools" and then go to "Computer Management" and click the "Services and Applications" button on your right-hand column.
+    * Scroll down the window that opens up to the point until you find "Routing and Remote Services". Click on that tab. A window will then open. Now go to the drop-down menu and select "Disabled".
+    * From there, click "Ok" to the necessary dialogue and save the settings. 
+
+Still having problems with the cache? There are still other methods you could use, like the following that is designed to clear the cache every five minutes for those using Windows XP Home edition. If you are on Windows XP Pro and you still want to use this method, change the "C:WINNTsystem32" part of the command to reflect "C:windowssystem32".
+
+    * Install the Window on the default drive(C), and if it's not, you will need to replace the letter "C" with the letter representing the drive in which the Windows has been installed.
+    * Go to "Start" button and then click on the "Run" buttons. Type "cmd" in the textbox and then click "Ok". After that, copy and paste this link on the blinking cursor after (>) sign; "SCHTASKS /CREATE /SC MINUTE /MO 5 /TN ARPFLUSH /TR C:WINNTsystem32netshinterfaceipdeletearpcache"
+    * Type "enter", and then you will be required to type in your username and password, and then press "enter" once more. That should do the trick.
+
+

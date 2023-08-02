@@ -1,0 +1,35 @@
+Title: 
+Security is the number one concern for internet shoppers today.
+
+Word Count:
+375
+
+Summary:
+An SSL certificate has become an important symbol of trust for any online merchant, providing assurance to their customers that their data is safe and it cannot be  counterfeit and ensure that its customers' sensitive data is transmitted securely and safely.
+
+
+Keywords:
+128 bit encryption, affordable ssl certificates, Buy secure ssl server certificates, Certificate Authority, Certification Authority,
+
+
+Article Body:
+The e-commerce business is all about making money and then finding ways to make more money. Of course, it's hard to make (more) money, when consumers don't feel safe executing a transaction on your Web site. That's where SSL (Secure Socket Layer) comes into play. Understanding how SSL affects e-commerce business can also potentially help you to unlock (more) money from your customers.
+
+You need SSL if...  
+-	Your business partners log in to confidential information on an extranet.
+-	You have offices that share confidential information over an intranet.
+-	You process sensitive data such as address, birth date, license, or ID numbers.
+-	you have an online store or accept online orders and credit cards
+-	You need to comply with privacy and security requirements.
+-	You value privacy and expect others to trust you.
+
+If you are doing online business where sensitive information such as credit cards, Personal data will be transferred, you surely need to secure your website. Gaining your customers trust is of the utmost importance. Your customers will only purchase the product if they feel safe and confidant about you.
+
+Before the introduction of SSL it was difficult to ensure privacy over the web in online transactions. There was a general distrust of the ability to conduct online transactions and a fear that an individual’s credit card information could be picked up by a third party and used for unauthorized purchases. 
+SSL should be enacted on pages requiring a password or might contain personal data most clients would like to keep private. Some sites will place SSL on some pages and forget other pages that are equally as sensitive. For the sake of your personal experience with ecommerce, you should implement SSL protocol.
+
+Any website that conducts business over the Internet and has e-commerce transactions should use SSL (Secure Socket Layer). It is the standard way to secure transactions by encrypting data and providing authentication over the web. SSL prevents hackers from accessing personal information, impede misuse of information.
+
+A certificate authority (CA) is an authorized company or individual for that matter that has the ability to issue and verify digital certificates. There are several of websites that offer a digital certificate. One of the popular Global Certification authorities is MindGenies (www.sslgenie.com).
+
+

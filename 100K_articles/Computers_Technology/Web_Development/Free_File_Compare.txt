@@ -1,0 +1,22 @@
+Title: 
+Free File Compare
+
+Word Count:
+516
+
+Summary:
+What is file sharing? In computing there is a software which performs the function of file comparing. It outputs the differences between two files. The program displays the changes made per line for text files. The 'diff' is a file comparison utility that performs this function. Modern implementations also support binary files. The output is called a diff or more commonly a patch since the output can be applied with the program patch. Just like the word 'grep' is used for the...
+
+
+Keywords:
+free file compare,document comparison,compare programs
+
+
+Article Body:
+What is file sharing? In computing there is a software which performs the function of file comparing. It outputs the differences between two files. The program displays the changes made per line for text files. The 'diff' is a file comparison utility that performs this function. Modern implementations also support binary files. The output is called a diff or more commonly a patch since the output can be applied with the program patch. Just like the word 'grep' is used for the act of searching, the word diff is used in jargon as a verb for calculating any difference. The 'diff' utility was developed in the early 1970's on the UNIX operating system in the AT&T labs in the USA.
+
+Understanding 'diff'. In the context of the UNIX operating system the use of the 'ed' line editor provided diff with the natural ability to create machine usable 'edit scripts.' These edit scripts when saved to a file, can with the original file be reconstituted by 'ed' into the modified file in its entirety. This greatly reduces the secondary storage required to maintain multiple versions of a file. When diff was launched initially the most common uses were comparing changes in the source of software code and mark up for technical documents, verifying program debugging output, comparing file system listings and analyzing computer assembly code. The output set for 'ed' was with the objective of providing compression for a sequence of modifications. Storing edit scripts with diff led to the invention of the Source Code Control System. Before diff was created a lot of resources were poured into the research for this. This was in terms of intellectual capital, manpower and systems. It was called Project Xanadu and this is the conceptual predecessor of diff. It was conceived in 1960 as hypertext project first. It was supposed to include a version tracking system necessary for its 'transpointing windows' feature. The feature subsumed file differences in the expansive term 'transclusion', where a document has included in it parts of other documents or revisions.
+
+'Diff' and its cousins. Diff is based on an algorithm. It is based on solving the Longest Common Subsequence [LCS] problem. It works on the principle of invoking the command line with the names of two files: diff original new. The changes form the output of the command required to turn the original file into the new file. If the original and new are directories, the diff will run on each of the files. The diff will cover both files. An option called -r will compare files between directories. There are several variations of diff. The core algorithm remains the same but there are modifications to the core algorithm. This has resulted in addition of useful features to the command, and the design of new output formats. Other variations such as sdiff and diffmk render side by side diff listings. File sharing software is steadily increasing in its usage over the years. The software industry sees a big revenue generation opportunity in file sharing programs and is investing a lot more in this product category.
+
+

@@ -1,0 +1,54 @@
+Title: 
+The Logic Behind Technical Analysis
+
+Word Count:
+1434
+
+Summary:
+Let me first say that I do not now engage in technical analysis; nor, have I ever engaged in technical analysis. I do not believe doing so would be a productive use of my time.
+
+Having said that, I do not claim technical analysis has no predictive value. In fact, I suspect it does have some predictive value. The Efficient Market Hypothesis is flawed. It is based upon the (unwritten) premise that data determines market prices. As Graham so clearly put it in “Security Analysi...
+
+
+Keywords:
+technical analysis, fundamental analysis, investing, value investing, value investor, stocks, stock
+
+
+Article Body:
+Let me first say that I do not now engage in technical analysis; nor, have I ever engaged in technical analysis. I do not believe doing so would be a productive use of my time.
+
+Having said that, I do not claim technical analysis has no predictive value. In fact, I suspect it does have some predictive value. The Efficient Market Hypothesis is flawed. It is based upon the (unwritten) premise that data determines market prices. As Graham so clearly put it in “Security Analysis”:
+
+“…the influence of what we call analytical factors over the market price is both partial and indirect – partial, because it frequently competes with purely speculative factors which influence the price in the opposite direction; and indirect, because it acts through the intermediary of people’s sentiments and decisions. In other words, the market is not a weighing machine, on which the value of each issue is recorded by an exact and impersonal mechanism, in accordance with its specific qualities. Rather should we say that the market is a voting machine, whereon countless individuals register choices which are the product partly of reason and partly of emotion.”
+
+I’ve seen a lot of people cite this quote, without bothering to notice what’s really being said. Graham had a very broad mind, much broader than say someone like Buffett. That’s both a blessing and a curse. At several points in Security Analysis (and to a lesser extent in his other works), Graham can not help but explore an interesting topic more deeply than is strictly necessary for his primary purpose. In this case, Graham could have said what many have since interpreted him as saying: in the short run, stock prices often get out of whack; in the long run, they are governed by the intrinsic value of the underlying business. Of course, Graham didn’t say that. Instead he chose to describe the stock market in a way that should have been of great interest to economists as well as investors. 
+
+Data affects prices indirectly. The market is a lot like a fun house mirror. The resulting reflection is caused in part by the original data, but that does not mean the reflection is an accurate representation of the original data. To take this metaphor a step further, the Efficient Market Hypothesis is based on the idea that the original image acts on the mirror to create the reflection. It does not recognize the unpleasant truth that one can interpret the same process in a very different way. One could say it is the mirror that acts on the original image to create the reflection. In fact, that is often how we interpret the process. We say an object is reflected in a mirror. We rarely use the active “an object reflects in a mirror”. 
+
+For some reason, when we talk about the market we like to use inappropriate metaphors. We talk about wealth being destroyed when prices fall. Yet, no one talks of wealth being destroyed when the price of some product falls. When the market rises, we talk about buyers, as if there wasn’t a seller on the other side of the trade. Above all else, we talk about “the market” not as a mere aggregation of trades, but as some sort of object all its own. 
+
+The Efficient Market Hypothesis does not recognize the true importance of interpretation. Saying that data (publicly available information) acts on market prices omits the key step. After all, the same data is available to every blackjack player. Casinos just don’t like the way a card counter interprets that data.
+
+The Efficient Market Hypothesis is not the only argument against technical analysis. There is also empirical evidence that questions the utility of technical analysis. However, empirical evidence alone is not sufficient to prove technical analysis has no predictive power. If most knuckleball pitchers had limited success, the knuckleball might be an inherently ineffective pitch, or there might be a better way to throw it. The same is true of technical analysis.
+
+The adjective “random” is a very strange word. Although it is rarely the definition given, the most appropriate definition for random would have to be “having no discernible pattern”. The word discernible can not be omitted. If it is, we will take too high a view of science and statistics. There’s a great introduction to economics written by Carl Menger which begins:
+
+“All things are subject to the law of cause and effect. This great principle knows no exception, and we would search in vain in the realm of experience for an example to the contrary. Human progress has no tendency to cast it in doubt, but rather the effect of confirming it and of always further widening knowledge of the scope of its validity.”
+
+All things are subject to the law of cause and effect; therefore, nothing is truly random. A caused event must have a pattern – though that pattern needn’t be discernible. Even if one argued there is such a thing as an uncaused event, who would argue that stock price movements are uncaused? We know that they are caused by buying and selling. Stock prices are the effects of purposeful human actions. Several sciences study the causes of purposeful human action; so, it would be hard to argue any human action is uncaused. Furthermore, each of our own internal mental experiences suggests that our purposeful actions have very definite causes. We also know that the actions of some market participants are based in part on price movements. Many investors will admit as much. They may be lying. But, there is plenty of evidence to suggest they aren’t. 
+
+If the actions of investors cause price movements, and past price movements are a partial cause of the actions of investors, then past price movements must partially cause future price movements. 
+
+Technical analysis is logically valid. Not only is it possible that some form of technical analysis might have predictive power; I would argue it necessarily follows from the above assumptions that some form of technical analysis must have predictive power. 
+
+So, why don’t I use technical analysis? I believe fundamental analysis is a far more powerful too. In fact, I believe fundamental analysis is so much more powerful that one ought not to spend any time on technical analysis that could instead be spent on fundamental analysis. I also believe there is more than enough fundamental analysis to keep an investor occupied; so, he shouldn’t devote any time to technical analysis. Personally, I feel I am much better suited to fundamental analysis than I am to technical analysis. Of course, there is no reason why this argument should hold any weight with you. I also believe there is sufficient empirical evidence to support the idea that fundamental analysis is a far more powerful tool than technical analysis.
+
+Even though I believe there must be some form of technical analysis that does have predictive power, the mental model of investing which I have constructed does not allow for such a form of technical analysis. In other words: logically, there must be an effective form of technical analysis, but practically, I pretend there isn’t. 
+
+Why? Because I believe that’s the most useful model. One should adopt the most useful model not the most honest model. I’m willing to pretend technical analysis does not work, even though I know some form of it must work. 
+
+Really, this isn’t all that strange. In science, I’m willing to pretend there are random events, even though I know there must not be random events. In math, I’m willing to pretend zero is a number, even though I know it must not be a number. A model with random events is useful. In most circumstances, a refusal to allow for random events would be harmful rather than helpful. The model with random events is simpler and more workable. The situation is much the same with zero. It isn’t a number. To include zero as a number, you would have to put aside the principles of arithmetic. So, we don’t do that. In school, you were taught that zero is a number, but that there are certain things you must never do with zero. You accepted that, because it was a simple, workable model. 
+
+I propose you do much the same in the case of technical analysis. You should recognize the logical validity of technical analysis, but create a mental model of investing in which technical analysis has no utility whatsoever.
+
+

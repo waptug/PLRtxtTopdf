@@ -1,0 +1,26 @@
+Title: 
+File Shredding And Wipe Disk
+
+Word Count:
+458
+
+Summary:
+There are significant and important differences between deleting a file, File Shredding or File Wiping and Disk Wiping.  Using the delete key does not completely obliterate information.  The information remains on the disk, often more or less completely intact.   The function of the delete key is to remove the “address” to that file so that it no longer appears in any readily accessible directory or index.  In practical terms what that  means is that a portion of the disc, th...
+
+
+Keywords:
+file shredder,wiping disk free space,file shreddering
+
+
+Article Body:
+There are significant and important differences between deleting a file, File Shredding or File Wiping and Disk Wiping.  Using the delete key does not completely obliterate information.  The information remains on the disk, often more or less completely intact.   The function of the delete key is to remove the “address” to that file so that it no longer appears in any readily accessible directory or index.  In practical terms what that  means is that a portion of the disc, the segment upon which that file resided, is made available so that other data can be written in the same space.  While it's true that, eventually, after the same area of the disc has been written over three or four times the original data will no longer be accessible, it is never really completely obliterated simply because the delete key is used.
+
+File Shredding, or “Wipe Disk” is another matter altogether.  When wiping a file in this manner it is more like shredding a piece of paper in a shredder. Even though there are still letters on the scraps of paper and, theoretically they could be reconstructed, they are functionally indecipherable.  Putting the scraps of paper back together is a virtually impossible task.  
+
+When it is necessary to completely annihilate data and all useable traces of it, it is important to perform a “Wipe Disc” or a “File Wipe.”  The most effective way to accomplish that is with File Shredding software.  There are a number of good “Wipe Disk” programs available with names like “Eraser” © and “Shred-It”© and they are the surest ways to destroy the data on a disk.  These programs, and others like them, work by overwriting the space on the disc multiple times with nonsense or garbage.  By burying the file under so much other nonsense data it renders the original information virtually unrecoverable.  
+
+The fact remains, though, that even File Shredding with a good “Wipe Disk” or “Wipe File” program has some limitations.  If a “Disk Defrag” has been performed since the file was originally written then file will have been scattered and broken up and relocated to several different locations on the disk.  In this case even File Shredding is ineffective.  Under these circumstances a simple “File Wipe” will not work and the only way to be sure the data is completely destroyed is to “Disk Wipe” the entire segment or partition of that disc thus obliterating all of the files in that segment or partition.  
+
+Of course any software program that can be written can be reverse engineered and so no method using software is totally safe.  The only absolutely certain way to utterly and completely destroy information once it is on a disc or chip is to physically melt the disc itself.
+
+

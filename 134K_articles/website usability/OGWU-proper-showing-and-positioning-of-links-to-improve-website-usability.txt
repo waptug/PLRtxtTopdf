@@ -1,0 +1,38 @@
+Locating Links: Enhancing Website Usability
+
+The Internet is what it is because of connections, bridging one computer to a host of others. Because of this we are able to access information at a click of a button. 
+
+The things we click are called links, and they can be likened to the synapses of a brain – connecting the user from one document to another.
+
+One of the main tenets of website design is that a page must be able to link to another page. Failure to do so renders the page dead – and is a lot like crashing into a brick wall as you speed down the information highway.
+
+That said, website designers, both pro and amateur, make it a point to include links into every single page they design. But it is simply more than just slapping on links anywhere. Links are as vital to a web page as the content on it for without it, a visitor will be hard pressed to connect to other documents on the Internet. 
+
+In any website, there are different kinds of links. There is no hard and fast rule when it comes to laying out links on a web page. But over time, certain conventions have emerged that seem to have become an unspoken standard in design. Deviations certainly will not depreciate a website’s over-all impact, but it may require some amount of time for the visitor to get oriented.
+
+Whether you tend to follow conventions or not, it is best to be acquainted first with the rules, so that you will know what to break and how to break them.
+
+But first of all, for the sake of clarification, imagine a website to be like a book. Of course, you know that a book holds several pages. In the case of a website, the pages are called web pages.
+
+A web page basically has two kinds of links: Internal and External. 
+
+Internal links are what connect pages of the same website to each other. Going back to our book analogy, an internal link connects a page to another from the same book. So a visitor can access the contact page of a website from the home (or index) page via an internal link.
+
+An external link, on the other hand, connects a web page to another web page from a different website. So an external link is something like a connection between two pages from two separate books.
+
+Layout Conventions
+Over the years, as more and more users and websites are added to the Internet, certain conventions or assumptions about the location of links have been formed. 
+
+The most common of which are the internal links on either the top or left margin of a page. Seeing that these two areas are the ones first noticed by a user, designers felt it was natural to place internal links that would connect the pages of the same website together. Because of the nature of its location, links on these sides of the page are prominent and graphic designs on them.
+
+Another area where internal links are located is at the bottom of the page, usually where the copyright information is placed. However, unlike the top and left margin areas, the links at the bottom are discreet and usually rendered in small fonts (like the copyright info). This is done primarily to avoid redundancies in design, while still providing alternate sources of links should the others fail.
+
+External links are usually found in the body of the text or in the right hand margins of the page. No specific rule exists for this, and the conventions arise merely out of common usage. 
+
+However, some designers have surmised that the tendency to place external links within the body of the text is done because references to information outside the website should be described or explained, whereas internal links need little to no explanation at all.
+
+Another theory is that the right side feels like the outer part of page. This assumption is built on the observation that reading is done from the left to the right. So the right part of the page indicates the end of a page, thus references outside the website find themselves allocated to this area. 
+
+For some reason as more and more text advertisements (such as Google AdSense) proliferate, the location for such external links are designated at the center or the right side of a web page. 
+
+And yet, as mentioned before, these are merely conventions and NOT rules set in stone. Designers have all the freedom to layout information and links however they want. Deviations from such standard practices simply make the surfing experience for these websites slightly more interesting than the rest. The important thing is that connections are made and everyone can continue to cruise and surf the Web one link to one page at a time.

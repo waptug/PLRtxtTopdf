@@ -1,0 +1,34 @@
+Title: 
+Determining The File Extension For Your Ebook - Pdf Or Exe?
+
+Word Count:
+415
+
+Summary:
+Nowadays ebook is becoming more popular as an effective tool to promote any product on the internet. By doing it you are no longer seen as a seller, but as a friend, a helper and someone that can be trusted. However there are a lot of people in the world who like to spend their time by reading books. On the other hand people normally do not enjoy reading advertisements.
+
+In order to create an ebook, there are several steps one has to follow. After you have accomplished auth...
+
+
+Keywords:
+creating ebook, ebook extension, creating pdf files, ebook compiler
+
+
+Article Body:
+Nowadays ebook is becoming more popular as an effective tool to promote any product on the internet. By doing it you are no longer seen as a seller, but as a friend, a helper and someone that can be trusted. However there are a lot of people in the world who like to spend their time by reading books. On the other hand people normally do not enjoy reading advertisements.
+
+In order to create an ebook, there are several steps one has to follow. After you have accomplished authoring your ebook the next thing you have to do is to compile it. You can choose to compile it as an EXE file or as a PDF file. Each type has pros and cons, depending on your needs.
+
+One advantage of compiling your ebook in PDF format is people will be more confident to download it since PDF ebooks are normally not susceptible to viruses. On the other hand files with .EXE extension are like programs or applications hence they are more prone to carrying and transmitting virus.
+
+In addition, with the exact same amount of contents, the size of PDF files is significantly smaller than EXE files, especially if the ebook only consists of several pages.
+
+PDF files are also universal which mean they can be opened and viewed with a PC or a Mac as long as the computer has an installed Acrobat Reader. The number of people who use Mac may not be a huge number but can still be significant to expand your ebook.
+
+But as any other things in this life, there is a drawback of PDF files where they do not support event driven code so that until now you can not insert something like subscription form in your PDF ebook. It is where EXE files come into play. Many .EXE ebook compilers support scripting language that allows you to create special effects, customize menus, and create and modify other user interactivity.
+
+Some compilers also have built-in security features like a feature to prevent your readers from accesing certain pages unless they enter a correct password. Additionally, there is a feature that allows you to set a time limit which is useful to create a demo version of your ebook.
+
+Given the different advantages of one type over the other, choose the extension based on the necessary requirements for your ebook. It is really up to you, the author, to choose which one you think will work best for you.
+
+

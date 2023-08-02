@@ -1,0 +1,50 @@
+Title: 
+Ten Things That Loose You Credibility As Web Designers.
+
+Word Count:
+581
+
+Summary:
+1) A hit counter
+Is it 1998? Why do you need one? Many clients want some way to track their visitors or see how many unique visits they have. Do them a favor and don't use a CGI or visible hot counter. The world uses invisible tracking now. Google analytics is free and incredibly useful. Give them access to that. Educate your client if this is a problem. You're the web designer.
+
+2) Black backgrounds
+Black backgrounds can be pulled off really only by professional designer...
+
+
+Keywords:
+web designers ireland, web designers, web design, web development
+
+
+Article Body:
+1) A hit counter
+Is it 1998? Why do you need one? Many clients want some way to track their visitors or see how many unique visits they have. Do them a favor and don't use a CGI or visible hot counter. The world uses invisible tracking now. Google analytics is free and incredibly useful. Give them access to that. Educate your client if this is a problem. You're the web designer.
+
+2) Black backgrounds
+Black backgrounds can be pulled off really only by professional designers. If you are one, great for you, if not, stick to white or a brighter color. And for the love of God, don't place a dark text on a dark background. Use your common sense. Educate your client if this is a problem. You're the web designer.
+
+3) Background Music
+If I want to listen to music, I have my own, and I have my own player. Visitors to a website are there for a reason. To find what they are looking for. Do not intrude on that. Your job is to make that information available and present it in the most appealing way. You are a web designer, not a DJ. If I’m listening to music while browsing, I don't want yours overlaid. It's very annoying. Educate your client if this is a problem. You're the web designer.
+
+4) Pointless JavaScript
+Disabling right click has no purpose apart from annoying people and making you look unprofessional. Avoid using pointless free JavaScript widgets just for the sake of it. Scrolling text in the status bar. If you want to present information, present it on the page. Educate your client if this is a problem. You're the web designer.
+
+5) Spelling and Grammar
+How difficult is it to run a spell check? We all make mistakes. We're human after all. Even the spell checkers make mistakes. But chronic misspellings and poor grammar just makes you look stupid.
+
+6) Banners And Ads
+By all means use them, but not too many/only if your site is established. CPM advertising can be a great way to earn revenue, but plastering every pixel of screen real estate with banners and ads makes you look like you’re just in it for the money. Maybe you are, but have at least some decent content to justify it. Adsense and other contextual advertising should HELP your users. Remember that. Popups on landing pages just annoy people.
+
+7) Overuse Of Flashy Graphics
+If I want flashing and colorful lights, Ill go to a disco. Once, twice or even three times and it has my attention. That’s enough.
+
+8) Flash Splash Pages
+Does anyone really need to see your 3 minute graphics presentation? Probably not. If you are trying to show off, let a visitor choose if they want to see it. If you MUST show a flash splash screen, at least give the option to skip it.
+
+9) Asking users to join before viewing content or a forum
+This one really grinds my gears. If you have a forum or have useful content, show it. Do not make members sign up to view it. They should only sign up to post/reply/contribute. Limiting viewing of content will drive visitors away in droves.
+
+10) Browser Dependence
+Dont make your website "Designed for Internet Explorer" or any other browser. Make it accessible and cross browser compatible. Why on earth would you or your client want to exclude anyone? Use your brain. Educate your client if this is a problem. You're the web designer.
+
+

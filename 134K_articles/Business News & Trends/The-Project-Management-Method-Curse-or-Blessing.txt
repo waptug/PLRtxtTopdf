@@ -1,0 +1,37 @@
+The Project Management Method – Curse or Blessing
+
+Project management is an area of expertise that has undergone some significant development in the last decade.  A business project can have a far-reaching effect on the business and result in either tremendous improvement in the businesses ability to function in the marketplace or a significant setback to that business entity.
+
+The idea of a formalized project management approach has been around for quite some time.  So it was not uncommon for any manager to find themselves learning the discipline of a structured project management system.  That project methodology takes any given business or IT project through the same standardized steps from conception through implementation.  Those steps would include…
+
+*	Project definition
+*	Needs analysis and requirements definition.
+*	Cost benefit analysis.
+*	Project scope.
+*	Project schedule and budget.
+*	Detailed specifications
+*	Development
+*	Testing
+*	Training
+*	Deployment
+
+By utilizing a standardized process of doing all projects the same way, using the same reporting methods and tools, there is an economy of skills in that the project leaders and team members become adept at navigating these steps.  Further, by using the same systems and criteria, a scale of evaluation as to the effectiveness of the system is developed so the ability of project teams to do well over time improves.
+
+It was natural that this standardized method would become codified and finally developed into a well-developed system that could that molds all projects to a single standard.  By developing an industry wide method that requires strict training and adherence to the same terms, tool sets and definitions of success, the “intuitive” nature of judging project effectiveness is reduced.  And so “the Project Management Method” was developed whereby project managers can undergo strenuous and exacting training in a standardized method that would be enforced via certification across the whole of the business community.
+
+Whether or not the PMM represents a curse or a blessing to the business world depends to a large extent on individual applications of the method and measurements and observations on whether the method itself introduces efficiency to the process of project management or just another layer of bureaucracy.
+.
+
+There are some strong positives to utilizing a methodology that is standardized at an industry level.  Those project managers who have gone through the certification process can be depended on to implement that system the same way in each business setting.  As such, the process of finding qualified project managers becomes simplified because the certification process alone communicates to the business that it can expect the PMM system to be implemented correctly.
+
+By putting into place an external method of certification and measurement of excellence, the project manager career begins to take a high level of professionalism similar to in the legal and medical fields.  So the PMM movement represents a maturing of the IT and project management disciplines as they move toward greater levels of accountability and control.
+
+The dangers come in implementation of the PMM methodology on a project by project basis.  In order for a PMM certified manager to live by his credentials, all projects must conform to a standard mold.  The unique nature of each project may not easily fit into the PMM process of systematization.   
+
+In addition, the PMM system is heavily dependent on a large amount of meetings to document that the project is adhering to standards and a methodical documentation process from which there is little room for variation or accommodation.  The PMM is a complex methodology so the tool sets that must be used to track the process can be expensive and difficult to use.
+
+The outcome is that the introduction of the PMM system can cause the actual business objectives of the project to take on a secondary priority to the high standards of PMM itself.  Project leaders working under the requirements of the PMM can become more accountable to the methodology itself and lose sight of what is good for the business or what is efficient in terms of getting the project completed.  
+
+There is very little room for creativity or individual judgment within the confines of the PMM and that is problematic because the nature of business problems have historically depended on the judgment and creative problem solving skills of middle management.  By dominating the project process with the needs of the PMM methodology, excessive cost is introduced as well as cumbersome requirements that do not benefit the business or the project itself.
+
+PPPPP 748

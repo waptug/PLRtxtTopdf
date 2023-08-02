@@ -1,0 +1,30 @@
+Title: 
+Cisco CCNA Certification:  Broadcasts, Unicasts, And Multicasts
+
+Word Count:
+413
+
+Summary:
+When you’re getting started on your CCNA, these terms can get pretty confusing.  Learn how to keep them straight, along with other vital CCNA exam information, from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+ccna,icnd,intro,free,tutorial,broadcast,multicast,unicast,255.255.255.255,ccnp,ccie,pass,exam,certification,ospf,eigrp,igrp,rip,version,1,2,class,d,224.0.0.0,group,chris,bryant,advantage,ccie,12933
+
+
+Article Body:
+When you begin your CCNA studies, you get hit with a lot of different networking terms right away that you might not be familiar with. What makes it a little more confusing is that a lot of these terms sound a lot alike. Here, we're going to discuss the differences between broadcasts, multicasts, and unicasts at both the Data Link (Layer 2) and Network (Layer 3) layers of the OSI model.
+
+A broadcast is simply a unit of information that every other device on the segment will receive. A broadcast is indicated by having every bit of the address set to its highest possible value. Since a hexadecimal bit's highest value is "f", a hexadecimal broadcast is ff-ff-ff-ff-ff-ff (or FF-FF-FF-FF-FF-FF, as the upper case does not affect hex value). The CCNA exam will demand you be very familiar with hex conversions, so if you're not comfortable with these conversions, get comfortable with them before taking the exam!
+
+At layer 3, a broadcast is indicated by setting every bit in the 32-bit binary string to "1", making the dotted decimal value 255.255.255.255. Every host on a segment will receive such a broadcast. (Keep in mind that switches will forward a broadcast, but routers do not.) In contrast to a broadcast, a unicast is a packet or frame with only one destination. 
+
+There is a middle ground between broadcasts and unicasts, and that is a multicast. Where a broadcast will be received by all, and a unicast is received by only one host, a multicast will be received by multiple hosts, all belonging to a "multicast group". As you climb the Cisco certification pyramid, you'll be introduced to creating multicast groups and controlling multicast traffic, but for your CCNA studies you need only keep certain multicast groups in mind.
+
+Class D addresses are reserved for multicasting this range is 224.0.0.0 - 239.255.255.255. The addresses 224.0.0.0 - 224.255.255.255 are reserved for use by network protocols on a local network segment, and like broadcasts, routers will not forward these multicast packets. (Packets with these addresses are sent with a Time To Live of 1.)
+
+As a CCNA candidate, you should know that OSPF routers use the address 224.0.0.5 to send hellos, EIGRP routers use 224.0.0.10 to send updates, and RIP version 2 uses 224.0.0.9 to send routing updates. RIP version 1 and IGRP both broadcast their updates.
+
+Multicasting gets a bit more complicated as you go from your CCNA to the CCNP and CCIE, but by simply understanding what multicasting is, you go a long way toward securing the CCNA.
+
+

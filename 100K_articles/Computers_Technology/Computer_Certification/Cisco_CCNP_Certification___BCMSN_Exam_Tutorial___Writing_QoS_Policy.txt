@@ -1,0 +1,57 @@
+Title: 
+Cisco CCNP Certification / BCMSN Exam Tutorial:  Writing QoS Policy
+
+Word Count:
+395
+
+Summary:
+Quality of Service is a huge topic on the CCNP exams and production networks.  Learn the basics of writing QoS policy from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Cisco, ccnp, exam, quality, of , service, qos, policy, class, map, access, list, apply, interface, pass, free, chris, Bryant, ccie, 12933, advantage
+
+
+Article Body:
+QoS - Quality of Service - is a huge topic on both the BCMSN exam and real-world networks. QoS is so big today that Cisco's created separate specialist certifications that cover nothing but QoS! It can be an overwhelming topic at first, but master the fundamentals and you're on your way to exam and job success.
+
+If you work with QoS at any level - and sooner or later, you will - you've got to know how to write and apply QoS policies. 
+
+Creating and applying such a policy is a three-step process. 
+
+1.	Create a QoS class to identify the traffic that will be affected by the policy.
+
+2.	Create a QoS policy containing the actions to be taken by traffic identified by the class.
+
+3.	Apply the policy to the appropriate interfaces.
+
+
+If the phrase "identify the traffic" sounds like it's time to write an access-list, you're right! Writing an ACL is one of two ways to classify traffic, and is the more common of the two. Before we get to the less-common method, let's take a look at how to use an ACL to classify traffic.
+
+You can use either a standard or extended ACL with QoS policies. The ACL will be written separately, and then called from the class map.
+
+SW1(config)#access-list 105 permit tcp any any eq 80
+
+SW1(config)#class-map WEBTRAFFIC
+
+SW1(config-cmap)#match access-group 105
+
+Now that we've identified the traffic to be affected by the policy, we better get around to writing the policy! QoS policies are configured with the policy-map command, and each clause of the policy will contain an action to be taken to traffic matching that clause. 
+
+SW1(config)#policy-map LIMIT_WEBTRAFFIC_BANDWIDTH
+
+SW1(config-pmap)#class WEBTRAFFIC
+
+SW1(config-pmap-c)#police 5000000 exceed-action drop
+
+SW1(config-pmap-c)#exit
+
+This is a simple policy, but it illustrates the logic of QoS policies. The policy map LIMIT_WEBTRAFFIC_BANDWIDTH calls the map-class WEBTRAFFIC. We already know that all WWW traffic will match that map class, so any WWW traffic that exceeds the stated bandwidth limitation will be dropped. 
+
+Finally, apply the policy to the appropriate interface.
+
+SW1(config-if)#service-policy LIMIT_WEBTRAFFIC_BANDWIDTH in
+
+Getting your CCNP is a great way to boost your career, and learning QoS is a tremendous addition to your skill set. Like I said, learn the fundamentals, don't get overwhelmed by looking at QoS as a whole, and you're on your way to success!
+
+

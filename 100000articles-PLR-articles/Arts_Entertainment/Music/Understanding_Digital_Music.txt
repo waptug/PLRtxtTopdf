@@ -1,0 +1,48 @@
+Title: 
+Understanding Digital Music
+
+Word Count:
+346
+
+Summary:
+Digitalized music allows people to store hundreds, even thousands of songs on one device, access music virtually whenever they want, and keep favorite songs or albums safely stored on a computer. Yet for many music fans, digital music simply doesn't compute.
+
+
+Keywords:
+Understanding Digital Music
+
+
+Article Body:
+Digitized music allows people to store hundreds, even thousands of songs on one device, access music virtually whenever they want, and keep favorite songs or albums safely stored on a computer. Yet for many music fans, digital music simply doesn't compute. 
+
+Fortunately, help is available in the form of a new book called "Geeks On Call PCs: 5-Minute Fixes" (Wiley, $14.95). It explains the ins and outs of digital music (including how to get files from the CD, to the computer, to your player), and it also gives expert advice and step-by-step explanations of topics ranging from upgrading your PC to using popular programs such as Microsoft Word. The following digital-music troubleshooting tips are discussed in the book: 
+
+Music Player Can't Connect to Your PC
+
+&#8226; Check the owner's manual to see if you are using the player correctly. 
+
+&#8226; Try connecting your player to a different computer. 
+
+Songs Won't Play Properly or Sound Distorted 
+
+&#8226; The music files might be corrupt or infected. To avoid this problem, don't download illegal, pirated songs through file-sharing software. 
+
+Battery Life Drains Quickly 
+
+&#8226; Do not listen to your music at an extremely loud volume. Instead, use a medium level. 
+
+&#8226; Do not listen to a snippet of a song and then immediately jump to a new one. Doing so forces the player to search its memory and drains the battery. 
+
+&#8226; If your player has a backlight, use it sparingly. 
+
+&#8226; If your player has an audio equalizer or bass booster, use it sparingly. 
+
+&#8226; Keep in mind that a music player's power button can be accidentally turned on when it's carried in a pocket or bag. Use the player's "lock" or "hold" button to keep this from happening. 
+
+Windows Media Audio (WMA) Songs Won't Play Properly 
+
+&#8226; Your WMAs might have an anti-piracy feature such as DRM or PRM. These protection schemes are usually turned on when the WMAs are created. If you do not have the proper licenses, you will not be able to play the copy-protected songs on your computer. 
+
+&#8226; If you use a CD-ripper to make WMAs, disable the option to use copyright protection.
+
+

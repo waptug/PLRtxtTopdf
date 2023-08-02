@@ -1,0 +1,36 @@
+Title: 
+Some Spam Filtering Facts
+
+Word Count:
+505
+
+Summary:
+Do spam filters work? Even though it is estimated that 90 billion spam emails are sent worldwide every day the use of spam filters is still questioned.
+
+The term spam filter can also be known as anti-spam software. This piece of software analysis’s your incoming email and uses a number of rules to decide whether the mail that you are receiving is legitimate email or not. So in answer to whether spam filters work or not the answer is yes. The extent as to how good they work ...
+
+
+Keywords:
+Some Spam Filtering Facts
+
+
+Article Body:
+Do spam filters work? Even though it is estimated that 90 billion spam emails are sent worldwide every day the use of spam filters is still questioned.
+
+The term spam filter can also be known as anti-spam software. This piece of software analysis’s your incoming email and uses a number of rules to decide whether the mail that you are receiving is legitimate email or not. So in answer to whether spam filters work or not the answer is yes. The extent as to how good they work depends on the spam filter that you have chosen. Some spam filters work better than others.
+
+A decent spam filter will block about 99% of spam through filtering ‘buzz’ words that refer to adult content and medical supplies, which are mainly based on weight loss supplements. As well as filtering words based on a blacklist, a spam filter will also block explicit images.
+
+Another feature of most spam filters is to scan for viruses. This is done on both inbound and outbound messages. Any viruses that are found are then blocked straight away. This feature is especially important to business owners whose reputation could be at risk if viruses are spread through to clients through messages that are in their outbox.
+
+When we look at emails we can tell straight away what it spam mail and what is a genuine email, most the time without even having to open the message. To a computer however all the emails that you receive look the same, meaning your computer needs help to filter through what is spam and what is actual emails from people who are on your contact list or from people who are trying to contact you.
+
+Many spammers know that spam filters work by filtering out words that have been blacklisted, that refer to typical goods/services that spammers are ‘promoting.’ Due to this many spammers try and get around spam filters by using incorrect spelling, inappropriate spacing and replacing letters with numbers on words that they know wouldn’t get through a spam filter. It is because of facts such as this that when you are choosing a spam filter that you get the best one you can for your personal/business needs.
+
+A spam filter/anti spam solution means you get full control of the emails that you receive and often you get a feature with your spam filter/anti spam solution that is known as a dashboard. This dashboard gives you complete visibility of exactly what emails are being blocked meaning that you can set it so that none of the emails you wish to receive are accidentally blocked by your spam filter.
+
+If you are using a spam filter within your business then you will notice how through the use of one your business will become more productive, saving you money and time.
+
+Filtering through emails yourself wastes time that could be used up working or taking care of more important tasks, so why not let a spam filter do this for you.
+
+

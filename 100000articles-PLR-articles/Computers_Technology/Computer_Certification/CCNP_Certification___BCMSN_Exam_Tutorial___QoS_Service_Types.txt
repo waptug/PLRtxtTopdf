@@ -1,0 +1,30 @@
+Title: 
+CCNP Certification / BCMSN Exam Tutorial:  QoS Service Types
+
+Word Count:
+406
+
+Summary:
+To earn your CCNP certification, you've got to know how the different QoS service types operate.  Learn the basics from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+cisco, ccnp, certification, exam, bcmsn, quality, of, service, diffserv, differentiated, services
+
+
+Article Body:
+To pass the CCNP exams, you’ve got to master Quality of Service, and the first step in doing so is knowing the differences between the different QoS types.
+
+Now this being Cisco, we can't just have one kind of QoS! We've got best-effort delivery, Integrated Services, and Differentiated Services. Let's take a quick look at all three. 
+
+Best-effort is just what it sounds like - routers and switches making their "best effort" to deliver data. This is considered QoS, but it's kind of a "default QoS". Best effort is strictly "first in, first out" (FIFO). 
+
+An entire path from Point A to Point B will be defined in advance when Integrated Services are in effect. Integrated Services is much like the High-Occupancy Vehicle lanes found in many larger cities. If your car has three or more people in it, you're considered a "priority vehicle" and you can drive in a special lane with much less congestion than regular lanes. Integrated Services will create this lane in advance for "priority traffic", and when that traffic comes along, the path already exists. Integrated Services uses the Resource Reservation Protocol (RSVP) to create these paths. RSVP guarantees a quality rate of service, since this "priority path" is created in advance. 
+
+Integrated Services is defined in RFC 1613. Use your favorite search engine to locate a copy online and read more about this topic. It's a good idea to get into the habit of reading RFCs! 
+
+Of course, if you've got a lot of different dedicated paths being created that may or not be used very often, that's a lot of wasted bandwidth. That leads us to the third QoS model, the Differentiated Services model. Generally referred to as DiffServ, there are no advance path reservations and there's no RSVP. The QoS policies are written on the routers and switches, and they take action dynamically as needed. Since each router and switch can have a different QoS policy, DiffServ takes effect on a per-hop basis rather than the per-flow basis of Integrated Services. A packet can be considered "high priority" by one router and "normal priority" by the next. 
+
+Believe me, this is just the beginning when it comes to Quality of Service. It's a huge topic on your exams and in the real world's production networks, and as with all other Cisco topics, just master the fundamentals and build from there - and you're on your way to CCNP exam success!
+
+

@@ -1,0 +1,26 @@
+Title: 
+Port Forwarding (what is port forwarding)
+
+Word Count:
+554
+
+Summary:
+The term Port Forwarding is referred to the technique of forwarding a network port from one particular machine to another machine. This technique is usually applied when the receiving machine is behind a network router.
+
+
+Keywords:
+port forwarding, networking, voip
+
+
+Article Body:
+What is Port Forwarding
+
+The term Port Forwarding is referred to the technique of forwarding a network port from one particular machine to another machine. This technique is usually applied when the receiving machine is behind a network router. By doing this, it enables users from outside the LAN (local area network) to reach a private user in the LAN itself. Now every machine on the internet has at least one IP address which is used to identify that particular machine or device. Every IP address is divided into many ports. The ports are there for the machines to communicate with each other, for example (computer A is sending some data to computer B), and therefore forwarding the port will also enhance the speed of the transmission between the two machines. 
+
+Now let's take a look at how the machines are connected to the internet when behind a router. The router is first connected to the internet which we will call it external IP. The router will then have its own internal IP address. (every machine/device will have at least one IP to identify them self). The router will then assign an individual IP address to every machine that is connected to the router. The router's IP address will then act as a gateway for all the machines that are on it's network. When a particular machine in the network wants to send data out to another machine in the internet, it will first pass through the gateway before the router sends it out to the recipient. The recipient however will not be able to tell who in the network is sending him the data as the internet will only show the external IP address here. Likewise, when another machine outside the network is sending data to a recipient inside the network, the data transmission will be transmitted to the external IP address and not directly to the intended recipient. The router will then decide which recipient should receive the data that is being transmitted. Fortunately, the NAT in the router will take care of most of the re-directing except for those programs which NAT are not designed to work with. This is where port forwarding comes into place. This simple process is just a way for users to tell the router which machine in the local network is the intended recipient and that the data should be directed to him. You will need to set up port forwarding rules for every port which you are using and any rules set up for a certain port will only work for that certain port. 
+
+One important factor to note is that a port can only be used by a program at any one time. For example, when computer A is using port 6000, it is using port 6000 on it's internal IP address. If you have set up a port forwarding rule for computer A and port 6000, the external IP address's port 6000 is also in use. This means that you can only use port 6000 on one computer on the network at a time. Using port 6000 on two computers at the same time would violate the one program rule, and your data would get messed up.
+
+This generally sums up the term Port Forwarding. Any comments can be directed to www.voip.com.sg/voip_feedback.html
+
+

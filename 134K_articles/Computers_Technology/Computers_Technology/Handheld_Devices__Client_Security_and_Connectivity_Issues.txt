@@ -1,0 +1,38 @@
+Title: 
+Handheld Devices: Client Security and Connectivity Issues
+
+Word Count:
+320
+
+Summary:
+Handheld devices need to be backed up just like computers. Employees can damage them, so either you or an internal guru should be maintaining inhouse support of handheld devices.
+
+
+Keywords:
+handheld devices
+
+
+Article Body:
+Because many handheld devices or PDAs have the ability to connect to your clients’ LANs (either directly or indirectly), you need to consider PDA remote access, just as you would any other remote device, such as an employee’s home computer or a company-owned notebook.
+
+This also should include a thorough discussion of what sensitive data can be stored on a handheld device, given that the pocket-sized PDA devices are inherently vulnerable to theft.
+
+Establish Backup Procedures
+
+In the same context of data security, be sure to establish some kind of backup procedures. We’ve all heard the horror stories of handheld device users losing three years of appointments and 2,000 customer names that were stored on their PDA and not backed up anywhere else. Don’t let your clients become one of these statistics.
+
+Desktop Connectivity
+
+Also think about how your clients’ internal gurus or your consulting firm will assist users in connecting their handheld devices to their office PCs.  Yes, your clients could adopt a policy banning PDAs from the office entirely, or making users responsible for their own PDA-related support issues, but these extreme approaches may not be practical.
+
+After all, handheld devices are becoming a major competitive force that others in your clients’ industries may be rushing to integrate into their information technology toolkit.
+
+Employees Can Cause Other Damage
+
+In addition, your clients probably don’t want to leave employees to install and support their own PDA desktop connectivity, unless they are very PC savvy. All too often, a user inadvertently will break a multitude of key software configurations while accepting default installation settings.
+
+If your clients are determined to have users tap the power and flexibility of handheld devices or PDAs, they’ll need someone PC savvy (your firm or an internal guru) managing these installations.
+
+Copyright MMI-MMVI, Computer Consulting 101. All Worldwide Rights Reserved. {Attention Publishers: Live hyperlink in author resource box required for copyright compliance}
+
+

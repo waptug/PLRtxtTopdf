@@ -1,0 +1,33 @@
+Title: 
+Cisco CCNP Certification / BSCI Exam Tutorial: An Introduction To BGP
+
+Word Count:
+486
+
+Summary:
+Before you study the advanced BGP concepts that the CCNP and CCIE demand, you have to understand the basics.  Learn what BGP is used for in the first place from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+cisco, certification, ccnp, bsci, bgp, introduction, what, is, autonomous, system, bryant, 12933
+
+
+Article Body:
+When you're studying for the BSCI exam on the way to earning your CCNP certification, it's safe to say that BGP is like nothing you’ve studied to this point. BGP is an external routing protocol used primarily by Internet Service Providers (ISPs).  Unless you work for an ISP today or in the future, you may have little or no prior exposure to BGP.  Understanding BGP is a great addition to your skill set – and you have to know the basics well to pass the BSCI exam.
+
+Note that I said “the basics”.  BGP is a very complex protocol, and when you pursue your CCIE, you’ll see what I’m talking about. As with all things Cisco, though, when broken down into smaller pieces, BGP becomes quite understandable.  You will need to know the basics of BGP as presented in this chapter to pass your BSCI exam – so let’s get started.
+
+BGP Defined: 
+
+“An Internet protocol that enables groups of routers (called autonomous systems) to share routing information so that efficient, loop-free routes can be established. BGP is commonly used within and between Internet Service Providers (ISPs).”
+
+There are a couple of terms in there that apply to the protocols you’ve mastered so far in your studies.  The term “autonomous system” applies to IGRP and EIGRP as well as BGP; you’ll be indicating a BGP AS in your configurations just as you did with IGRP and EIGRP.  And we’re always looking for efficient, loop-free routes, right?  As it did with IGRP and EIGRP, "autonomous system" simply refers to a group of routers that is managed by a single administrative body.  An autonomous system will use an Interior Gateway Protocol (IGP) such as OSPF or EIGRP to route packets inside the AS; outside the AS, an Exterior Gateway Protocol (EGP) such as BGP will be used.
+
+BGP shares some characteristics with some routing protocols you’ve already studied.  BGP supports VLSM, summarization, and CIDR.  Like EIGRP, BGP will send full updates when two routers initially become neighbors and will send only partial updates after that.  BGP does create and maintain neighbor relationships before exchanging routes, and keepalives are sent to keep this relationship alive.  
+
+BGP has some major differences from the IGPs we’ve studied to this point.  You’ll hear BGP referred to as a path-vector protocol. As opposed to distance-vector protocols that exchange relatively simple information about available routes, BGP routers will exchange extensive information about networks to allow the routers to make more intelligent routing decisions.  This additional BGP path information comes in the form of attributes, and these path attributes are contained in the updates sent by BGP routers.  Attributes themselves are broken up into two classes, well-known and optional.
+
+BGP also keeps a routing table separate from the IP routing table.
+We'll take a look at BGP attributes in future BSCI tutorials. In the meantime, keep studying!
+
+

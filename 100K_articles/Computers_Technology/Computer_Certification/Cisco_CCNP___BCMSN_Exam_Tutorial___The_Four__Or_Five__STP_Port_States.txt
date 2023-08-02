@@ -1,0 +1,40 @@
+Title: 
+Cisco CCNP / BCMSN Exam Tutorial:  The Four (Or Five) STP Port States
+
+Word Count:
+341
+
+Summary:
+How many STP port states are there? It depends on who you ask.  Learn the details you need to pass the BSCI exam from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+cisco, ccnp, certification, spanning, tree, stp, protocol, bcmsn, disabled, listening, learning, blk
+
+
+Article Body:
+As a CCNP candidate and a CCNA, you may be tempted to skip or just browse the many details of Spanning Tree Protocol.  After all, you learned all of that in your CCNA studies, right? That's right, but it never hurts to review STP for a switching exam!  Besides, many of us think of the four STP port states - but officially, there's a fifth one!
+
+Disabled isn't generally thought of as an STP port state, but Cisco does officially consider this to be an STP state.  A disabled port is one that is administratively shut down.  
+
+Once the port is opened, the port will go into blocking state.  As the name implies, the port can't do much in this state - no frame forwarding, no frame receiving, and therefore no learning of MAC addresses.  About the only thing this port can do is accept BPDUs from neighboring switches.
+
+A port will then go from blocking mode into listening mode.  The obvious question is "listening for what?"  Listening for BPDUs - and this port can now send BPDUs as well.  The port still can't forward or receive data frames.
+
+When the port goes from listening mode to learning mode, it's getting ready to send and receive frames.  In learning mode, the port begins to learn MAC addresses in preparation for adding them to its MAC address table.
+
+Finally, a port can go into forwarding mode.  This allows a port to forward and receive data frames, send and receive BPDUs, and place MAC addresses in its MAC table.
+
+To see the STP mode of a given interface, use the show spanning-tree interface command.
+
+SW1#show spanning-tree interface fast 0/11
+
+Vlan                    Role    Sts     Cost      Prio.Nbr Type
+
+---------------- ---- --- --------- -------- ----------
+
+VLAN0001           Desg   FWD       19     128.11   P2p
+
+To see these states in action, shut a port down in your CCNA / CCNP home lab and continually run the show spanning interface command.   Once you see this in action on real Cisco equipment, you'll have no problem with BCMSN exam questions.  Just don't practice this or any other Cisco command on a production network!
+
+

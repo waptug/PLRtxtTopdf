@@ -1,0 +1,24 @@
+Title: 
+review the usb hub
+
+Word Count:
+308
+
+Summary:
+The hub has its own transformer and it supplies power to the bus so that the devices do not overload the computer 's supply. If you have lots of unpowered devices like mice and cameras, you probably need a powered hub. If you have lots of self-powered devices (like printers and scanners), then your hub does not need to be powered -- none of the devices connecting to the hub needs additional power, so the computer can handle it.
+
+
+Keywords:
+usb hub
+
+
+Article Body:
+The hub has its own transformer and it supplies power to the bus so that the devices do not overload the computer 's supply. If you have lots of unpowered devices like mice and cameras, you probably need a powered hub. If you have lots of self-powered devices (like printers and scanners), then your hub does not need to be powered -- none of the devices connecting to the hub needs additional power, so the computer can handle it.
+
+ The power (up to 500 milliamps at 5 volts) comes from the computer. Obviously, a high-power device like a printer or scanner will have its own power supply, but low-power devices like mice and digital cameras get their power from the bus in order to simplify them. As you will see on the next page, the USB standard allows for devices to draw their power from their USB connection. Hubs can be powered or unpowered.
+
+ By chaining hubs together, you can build up dozens of available USB ports on a single computer. You plug the hub into your computer, and then plug your devices (or other hubs) into the hub. hub typically has four new ports, but may have many more. The USB standard supports up to 127 devices, and USB hubs are a part of the standard. My computer has only one USB connector on it, so the obvious question is, "How do you hook up all the devices?" The easy solution to the problem is to buy an inexpensive USB hub.
+
+ For example, on the computer that I am typing on right now, I have a USB printer, a USB scanner, a USB Webcam and a USB network connection. With so many USB devices on the market today, you easily run out of sockets very quickly.  USB Hubs Most computers that you buy today come with one or two USB sockets.
+
+

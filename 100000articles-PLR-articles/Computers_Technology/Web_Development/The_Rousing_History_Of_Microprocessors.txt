@@ -1,0 +1,32 @@
+Title: 
+The Rousing History Of Microprocessors
+
+Word Count:
+499
+
+Summary:
+The single biggest improvement in the history of the computer could be the development of the first microprocessor. This little chip allows a mind boggling amount of processing power to be packed into a very small space. Space is one of the biggest limiting factors in actually assembling a computer at a reasonable price. By being able to pack more and more processing power into a smaller area, the strength of modern computing is able to expand exponentially through advanced c...
+
+
+Keywords:
+Microprocessors, Electronic Parts, Electronic Components, Integrated Circuits
+
+
+Article Body:
+The single biggest improvement in the history of the computer could be the development of the first microprocessor. This little chip allows a mind boggling amount of processing power to be packed into a very small space. Space is one of the biggest limiting factors in actually assembling a computer at a reasonable price. By being able to pack more and more processing power into a smaller area, the strength of modern computing is able to expand exponentially through advanced chip development. 
+
+The first microprocessor chip was invented by Intel back in November of 1971. This little chip was crucial to new development. Integrated circuit technology had opened the door for advanced computing that was only limited by the amount of chips that could put together. 
+
+This chip, the 4004, made the crucial development step of managing to pack all of the computer's "brain" into one part. This small microprocessor contained the full power of the central processing unit while also providing for the computer's basic memory and the control methods for incoming and outgoing data. This progress was simply amazing when one considers that the company was just a little start up by two engineers. 
+
+This chip was actually the development of a rather normal contract assignment for Intel. They received one of their first jobs to design twelve different computer chips for Busicom, a small Japanese company. They wanted designs for chips that would provide for keyboard scanning functionality, controlling the display on the monitor and the printer and just about anything else that their brand of calculator hoped to do. There was just one big issue that they had to overcome. 
+
+They needed the money but faced an interesting issue. They lacked the sheer manpower necessary to actually design twelve chips in the time frame. So, their engineers figured out a way to build one chip that was able to do every single function. Busicom liked the idea and decided to fund the project. Time passed and a new chip that had more power than any of the old computers was developed. 
+
+Ironically, they decided to buy back the design from Busicom, which subsequently went bankrupt, leaving them completely in control of the new technological breakthrough in electronic parts. The sky was the limit from this point onward. This basic technological idea has been applied time and time again to give us electronics capable of amazing power and ability. 
+
+The average calculator now has more processing power than was required to plan the first missions to the moon. The shrinking of this technological power has worked perfectly alongside the development of many other electronic parts to make everyday life just a little bit easier for everyone. In just the time span of about 40 years, we have advanced to computers that are almost able to mimic true human intelligence. 
+
+These advancements in micro processing have improved all of our lives in ways that we may not even realize. The power of a computer is now literally at our fingertips.
+
+

@@ -1,0 +1,28 @@
+Title: 
+Cisco CCNA Exam Tutorial:  A Guide To RAM, ROM, NVRAM, and Flash
+
+Word Count:
+269
+
+Summary:
+When you’re getting ready to pass the CCNA exam, one of the hardest parts is keeping the internal router components straight!  Learn the differences between these components from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccna, ram, rom, nvram, flash, startup, config, file, running, pass, exam, free, ccnp, non-volatile, random, access, memory, test, certification
+
+
+Article Body:
+CCNA exam success depends on knowing the details, and nowhere is this more true than knowing the various components of a Cisco router.  This is also where you can quickly start drowning in acronyms!  The terms "RAM" and "ROM" probably aren't new to you, but keeping up with "what goes where" with RAM, ROM, NVRAM, and Flash Memory can be quite a challenge!  In this tutorial, we'll take a look at all four of these components and their contents.
+
+ROM stands for Read-Only Memory.  ROM stores the router’s bootstrap startup program, operating system software, and power-on diagnostic test programs (the POST).
+
+Flash memory is generally referred to as “flash” The Cisco Internetwork Operating System (IOS) images are held here.  Flash is erasable and reprogrammable ROM.  Flash memory content is retained by the router on power-down or reload.
+
+RAM is short for Random-Access Memory.  RAM on a Cisco router stores operational information such as routing tables and the running configuration file.  RAM contents are lost when the router is powered down or reloaded.
+
+NVRAM is non-volatile RAM.  By "non-volatile", we mean that the contents of NVRAM are not lost when the router is powered down or reloaded.   Where RAM holds the running configuration file, NVRAM holds the startup configuration file.  If NVRAM is empty when the router reloads, you will be prompted to enter setup mode.
+
+Success on the CCNA exam depends on keeping these terms straight and knowing their contents.  Know the contents of each, pay special attention to what is lost on a reload and what is not, and you're on your way to CCNA exam success!
+
+

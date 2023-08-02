@@ -1,0 +1,28 @@
+Title: 
+Passing The CCNA and CCNP:  Three Myths About Cisco Exams
+
+Word Count:
+420
+
+Summary:
+Rumors and myths spread quickly, and Cisco exams are not immune.  Chris Bryant, CCIE #12933, debunks three of the more popular myths and misconceptions regarding the CCNA and CCNP exams.
+
+
+Keywords:
+ccna, ccnp, cisco, pass, free, exam, certification, mcse, nat, simulator, ccsp, ccvp, chris, Bryant
+
+
+Article Body:
+One of the drawbacks to the Internet is that it allows myths and "friend of a friend" stories to spread quickly, and usually the story becomes more exaggerated as it's passed along.  Cisco exams are no exception.  Here are three often-repeated myths and exaggerations regarding the CCNA and CCNP exams.
+
+1.  The survey you fill out before the exam determines the questions you'll get. Before you actually start your exam, Cisco presents you with a survey asking how you prepared and how comfortable you feel with certain technologies.  It's a little awkward to rate yourself on Frame Relay, ISDN, etc., especially since the exam you're about to take covers those subjects.  It's human nature to think that these questions impact your exam, but they do not.  
+
+I've seen posts on the Net saying that if you rank yourself as "great" in a subject, your exam will have harder questions on that topic, and if you rank yourself lower in that same subject, your exam will be filled with questions on this topic.  Cisco has debunked this myth, so get it out of your mind.  Don't think too much when you're filling out the survey.
+
+2.  If you miss a question, the exam keeps asking you about that topic until you get one right.   This is known as "adaptive testing", and Cisco does not use this kind of testing in its exams.  Your questions are drawn from a large question pool before you start the test.  Those of us who remember adaptive testing from Novell exams years ago don't particularly miss this kind of testing!  (For those who haven't taken an adaptive exam, you never knew how many questions you were going to get, only that there was a minimum around 15 questions.  Your exam could end at any time after that.  Nerve-wracking!)
+
+3.  If you use an extra command in the simulator questions, it'll be marked wrong.  The Cisco simulator engine in the CCNA and CCNP exams acts just as a router or switch would.  You are not going to be penalized for using an extra command.  If the engine doesn't accept a command, you'll be told that when you use it.  Just configure it as you would a router or switch.
+
+When you walk into the exam room totally prepared with a combination of theoretical knowledge, hands-on experience, and configuration troubleshooting skills, you are ready to pass. Don't let Internet gossip distract you from the task at hand -- passing!
+
+

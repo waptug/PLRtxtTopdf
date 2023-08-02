@@ -1,0 +1,56 @@
+How to Make a Website More Appealing to International Users
+
+
+More and more people around the world are using the Internet, and the numbers are increasing everyday. The Internet has become the primary source of information for many, and because of that, web sites have to constantly improve the content and image of their web pages in order to keep users interested in accessing their sites.
+
+What are the measures that should be implemented by web designers in order to make their sites more appealing to users around the world? Here is a list of issues that can be encountered in web design and the necessary action to be considered:
+
+1. Availability of basic features
+First, the design of a web site should be compatible to any browser. It should be able to pass HTML and CSS validation tests. Second, web sites should be able to cater to disabled users. This won't be a problem as long as designers adhere to web standards. Third, the process of navigating a web site should be simple enough for all users. No user likes to encounter a new site, and then he or she has to figure out how to navigate around it. Fourth, status bars should be available. It shows the destination of links as the cursor is being moved. The status of the current page is also displayed as it loads. 
+
+2. Appearance of the pages
+There are four elements that make up the appearance of a web site. They are the fonts, color, graphics, and writing. 
+
+Fonts are not just a matter of personal preference of the user and the designer. The primary importance of font choice is that it affects how fast the users can read the information being presented. Arial fonts are usually recommended over the Times New Roman and the Verdana.
+
+When applying color, it is important that there is enough contrast between background and foreground in order for the content to be readable. To achieve maximum contrast, black text against a white background should be used. Link colors should be established at standard settings.
+
+When it comes to graphics, bear in mind that some pages get too overloaded because of the use of too much images. As much as possible, use graphics only to support the content being presented to users. A lot of people actually have the tendency to shut off the images when browsing for information.
+
+Web designers should remember the distinction between writing for the web and writing for print. Web content should be short and straight to the point.        
+
+3. Site performance
+There are three factors that determine the overall performance of a web site. These are speed, tables, and connections. 
+
+Since everyone is hankering for more bandwidth, the best that designers can do is to avoid the usage of design that will take up too much bandwidth, because not every user has access to fast Internet connections. 
+
+To avoid making the site appear like it takes forever to download, avoid loading putting a whole page inside a table. Instead, divide the page into several tables.
+
+Web designers should not cloud a page with too much items for the simple reason that each item requires a separate browser for the whole page to be downloaded. 
+
+4. The occurrence of bugs
+Of course, no one wants to have bugs in his system. To avoid this, body text should be set up with relative font sizes. One has to consider that there are users out there who have poor eyesight, and they would like to adjust the font sizes through their individual settings in order to read the text more clearly. The relative value recommended for this would be: 
+
+font-size: -1
+
+or
+
+font-size: 100%
+
+In case of URLs, it should be simple and short, containing no punctuation or spaces. Users should be able to copy a URL and paste it into an email message without it being wrapped in multiple lines. To avoid dead links, redirects should be established, in order to avoid the breaking of bookmarks and links.   
+
+Web designers should make sure that navigation features will be present at all times, whatever the size of the window the user is using. Browser windows should be maximized when applying design, because not every user will be surfing the Internet in a maximized window.  
+ 
+
+
+  
+
+
+
+
+
+
+
+
+
+

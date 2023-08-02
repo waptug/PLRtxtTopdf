@@ -1,0 +1,29 @@
+Title: 
+How to Unblock Websites?
+
+Word Count:
+304
+
+Summary:
+Anonymous surfing is one of the simple solutions to this problem. Surfing websites privately by hiding your details like IP address, location is termed as anonymous surfing.
+
+
+Keywords:
+unlock websites
+
+
+Article Body:
+Anonymous surfing is one of the simple solutions to this problem. Surfing websites privately by hiding your details like IP address, location is termed as anonymous surfing. You may use a proxy server to surf anonymously and hence, access the blocked websites. A proxy server allows the users to enter the blocked website’s address and then direct them to that web address in a special window. In short, you connect to a proxy server which then establishes a connection to the desired website allowing you to interact with the website in real-time.
+
+Some of the other possible ways to unblock websites are:
+
+Using URL Redirects
+In this method, you need to create a new URL for the blocked website by using websites which offer free URL redirection service. Once you’ve the new URL with you, you need to enter it in the browser and wait for the redirection service to redirect the URL to the blocked website. This method can work in situations where new URLs do not change while being redirected to the target website.
+
+Using Google Cache
+You can use the Google Cache to access the blocked website. But, you need to search for the indexed pages of the blocked website in the first place in order to access it. However, you won’t be able to see the changes that were made after the page was cached by Google.
+
+Changing Computer Settings
+If you  are on a network with an active firewall that is under the control of the network administrator then this method may not work for you. However, if you’re using a computer which connects directly to the internet then this method can work for you. In this, you need to configure the browser security settings, disable the firewall in order to access the blocked websites.
+
+

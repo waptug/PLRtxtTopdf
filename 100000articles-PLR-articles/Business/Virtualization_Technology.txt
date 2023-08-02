@@ -1,0 +1,26 @@
+Title: 
+Virtualization Technology
+
+Word Count:
+341
+
+Summary:
+Virtualization Technology is no more than a set of enhancements made to processors to make them carry out multitasking in a much more efficient manner with the least investment required. This ‘virtualization technology' is a process that has ushered in a lot of change in to the IT industry and is saving a lot of businesses a lot of money and time. Virtualization technology enhances the efficiency of the hardware resources installed in a server and drastically improves the traditional software based virtualization technology solutions.
+
+
+Keywords:
+Virtualization Technology 
+
+
+Article Body:
+Virtualization Technology is no more than a set of enhancements made to processors to make them carry out multitasking in a much more efficient manner with the least investment required. This ‘virtualization technology' is a process that has ushered in a lot of change in to the IT industry and is saving a lot of businesses a lot of money and time. Virtualization technology enhances the efficiency of the hardware resources installed in a server and drastically improves the traditional software based virtualization technology solutions. 
+
+Virtualization technology enhances the servers with features that provide virtualization techniques an upper-hand and the ability to offload a lot of the work load onto the server's hardware allowing the server to run more efficiently in the virtual environment thus improving the over all efficiency of the system. 
+
+Virtualization Technology Enhanced by Leaders in the Field 
+Virtualization technology is enhanced further by renowned IT companies such as Intel and permit a server or software platform to run a number of operating systems along with a number of applications simultaneously. These programs and operating systems are run independently using the same set of hardware resources, such as hard disk space, random access memory and CPU capacity. With the advancement of virtualization technology it is possible for one machine to perform multiple functions simultaneously, virtually like multiple systems. 
+
+Virtualization Technology; a Boon to Server Administrators 
+Virtualization technology has been in the development pipeline for the past few years and has emerged as a very compelling solution to be used with any server platforms. Virtualization technology is the answer to server administrators and managers of data bases that require many servers to run simultaneously. These multiple servers, or server racks, eat into physical space and also send the electric bill sky high. Not to mention the frequent calls for the hardware engineer to set server faults right. With virtualization technology server administrators can concentrate many workloads onto one single server. The virtualization technology will allow this single server to simultaneously carry out the tasks of the multiple servers effortlessly.
+
+

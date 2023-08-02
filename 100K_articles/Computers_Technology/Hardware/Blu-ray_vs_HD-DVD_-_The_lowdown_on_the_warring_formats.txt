@@ -1,0 +1,71 @@
+Title: 
+Blu-ray vs HD-DVD - The lowdown on the warring formats
+
+Word Count:
+662
+
+Summary:
+The current aim of blu-ray and HD-DVD is to get as much public support quickly as ultimately it is the consumer who will decide which format comes out on top. With the unification talks failing it is up to you to make the decision of which format to adopt. To help you with this tough decision is the lowdown on how each format matches below.
+
+
+Keywords:
+blu-ray, HD-DVD, blu-ray vs HD-DVD, blu-ray and HD-DVD
+
+
+Article Body:
+The current aim of blu-ray and HD-DVD is to get as much public support quickly as ultimately it is the consumer who will decide which format comes out on top. With the unification talks failing it is up to you to make the decision of which format to adopt. To help you with this tough decision is the lowdown on how each format matches below. 
+
+History
+
+The blu-ray format’s head companies are Sony and Philips with Toshiba and Hitachi heading up the HD-DVD format. This situation isn’t the first time where these two sides have gone at each other with opposing formats. The DVD format was born from the co-operation of the Multimedia Compact Disc from Sony/Philips (MMCD) and the Super Density Disc (SD) from Toshiba. Though it ended well for the consumer with the DVD format being widely adopted and becoming the new standard, it was Toshiba’s camp who came out on top in regards to royalties.
+This led to the work on new formats by both sides with Sony aiming to regain some of its lost market. The two projects though had been in production but not really going anywhere at the time. Sony’s Professional Disc for Data (PDD) became the blu-ray format  while Toshiba’s Advanced Optical Disc becoming HD-DVD. This leads us back to the original situation where there are two competing formats with a unification looking a lot less likely.
+
+Technical
+
+Both blu-ray and HD-DVD use a wavelength of 405nm however the smaller track pitch on blu-ray (see Blu-ray Disc) allows more information to be squeezed on and so gives the larger capacity. However it is the differing track pitch that makes these two formats incompatible. The surface layer of the two is different also as HD-DVD uses a 0.6mm layer similar to DVD whereas blu-ray uses a 0.1mm clear plastic layer.
+This difference is the main reason why costs are higher with blu-ray. Costly production methods are needed to be able to make the discs and a hard coating must be applied to make the discs suitably resilient to dust and fingerprints. 
+
+Capacity
+
+Blu-ray currently offers discs in 25gb for single layer and 50gb for dual layer. However TDK has started work on a 200gb disc which is 6x33gb layers.
+HD-DVD comes in 15gb for the single layer and 30gb for the dual layer. Best tests so far have achieved 45gb but 60gb is the theoretical limit. This shows that the maximum for HD-DVD is only 10gb more than what blu-ray can already offer. 
+
+Codecs
+
+Both formats use the same codecs to play video as they are both able to play standard and high-definition. This means that MPEG-2, Microsoft Video Codec 1 (aka VC1, WMV HD, etc.) and H.264 / MPEG-4 AVC are all supported on both formats. 
+
+Security
+
+Both blu-ray and HD-DVD have to make use of HDCP encrypted output and the Advanced Access Content System (AACS). Both HDCP and AACS are mandatory for any discs with HD video.
+Blu-ray also incorporates ROM-Mark watermarking technology and BD dynamic crypto which generates special keys for batches of discs.
+HD-DVD uses a similar system in the Volume Identifying technology. 
+
+Support
+
+Both formats are heavily supported in both the Consumer Electronics (CE) and Information Technology (IT) industries. However blu-ray has a better portion of the big name movie and game studios supporting it which is essential for there to be a ready amount of content at launch. See below for the list of Supporting studios: 
+
+Blu-ray
+
+20th Century Fox
+Buena Vista Home Entertainment
+Electronic Arts
+MGM Studios
+Paramount Pictures
+Sony Pictures Entertainment
+The Walt Disney Company
+Vivendi Universal Games
+Warner Bros.
+
+HD-DVD
+
+Buena Vista Home Entertainment
+New Line Cinema
+Paramount Pictures
+The Walt Disney Company
+Universal Studios
+Warner Bros.
+
+
+Josh Biggs is the founder of <a href="http://www.blu-ray-review.co.uk">Blu-ray-review.co.uk</a> which gives the visitor a resource for all the latest blu-ray news and product reviews with community discussion.
+
+

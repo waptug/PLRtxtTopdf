@@ -1,0 +1,30 @@
+Title: 
+Understand Common Computer Errors And What To Do About Them
+
+Word Count:
+431
+
+Summary:
+Computer errors usually show up when least expected and at the most inconvenient times as they can cause an entire system to shut down suddenly. It is also possible to accidentally corrupt data, leaving it useless.  It is essential to remember that computer errors are correctable, although they are not always avoidable. It is in your best interest to understand what computer errors are, as well as understand what they mean and how to minimize their impact.
+
+Computer errors ...
+
+
+Keywords:
+GoToMyPC, GoToMeeting
+
+
+Article Body:
+Computer errors usually show up when least expected and at the most inconvenient times as they can cause an entire system to shut down suddenly. It is also possible to accidentally corrupt data, leaving it useless.  It is essential to remember that computer errors are correctable, although they are not always avoidable. It is in your best interest to understand what computer errors are, as well as understand what they mean and how to minimize their impact.
+
+Computer errors are the result of a number of things that may or may not have anything to do with the way the computer is used. Computer errors come about whenever there is a conflict within the series of commands it executes. Normally it is a smooth process since computers run off a program of commands. However, when one command conflicts with another the computer will return an error.
+
+One key reason for an error is when a user attempts to use software that is not compatible with their system. To minimize this type of error, you should verify that your computer has all the required components to run the program. Some errors are caused by insufficient memory, disk space, screen resolution or monitor color depth.  If you do your research, you will find that software programs specify minimum hardware requirements. These errors occur as the software attempts to access things it cannot find, such as hardware, space, memory or screen resolution.
+
+Shared files that are not up to date can cause errors since programs use files that are common to a number of programs. For example, Program 1 is already installed, and works just fine. Then the user decides to download and install Program 2. Program 2 shares a file (or files) with Program 1. This may produce errors that are the result of Program 2 attempting to use outdated shared files from Program 1. To fix this type of problem an updated version of the shared file must be uploaded. 
+
+Errors sometimes occur since a system does not contain the required drivers or the drivers are of an incorrect version. Updating the computer on a regular basis can resolve such problems. Take the time and care to update your computer so that, if a program is in need of a shared file, it is available to be used. 
+
+This article does not come close to encompassing the entire scope of computer errors. It only just starts to scratch the surface. A helpful tip is to research the wording of the error message on the Internet. You may find it is not that difficult to resolve the error yourself.
+
+

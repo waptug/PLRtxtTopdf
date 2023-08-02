@@ -1,0 +1,36 @@
+Title: 
+A Few Cool Photoshop Tips And Tricks, Part 1
+
+Word Count:
+602
+
+Summary:
+When it comes to entering the graphic design world, creating interesting pieces for a job or sharing artwork with family and friends, there are plenty of cool Photoshop tips and tricks to consider. Whether you are just experimenting with the tools or already know how to layout a magazine spread, there will always be a new shortcut or trick to make life much easier. Below, you will find a few tips to add to your repertoire or share with others: 
+
+Easy Photoshop Tips and Tric...
+
+
+Keywords:
+
+
+
+Article Body:
+When it comes to entering the graphic design world, creating interesting pieces for a job or sharing artwork with family and friends, there are plenty of cool Photoshop tips and tricks to consider. Whether you are just experimenting with the tools or already know how to layout a magazine spread, there will always be a new shortcut or trick to make life much easier. Below, you will find a few tips to add to your repertoire or share with others: 
+
+Easy Photoshop Tips and Tricks 
+
+Have you ever wanted to easily create the image of Earth and dread using the circle tool? There is an easy way to design the world in six steps, which should take less than a minute to complete. First, you should select File/New from the menu bar and create a file size that measures about 200 pixels by 200 pixels. The RGB mode should be selected for this trick. Next, choose a light blue shade for the foreground color and a darker blue for the background color. 
+
+Under the Filters tab, select Render, and then choose Clouds. The scene that will greet you should look a lot like the sky. It is the clouds filter that utilizes the foreground and background colors needed to construct this image in your file. If you desire a different look, you can press Ctrl + F on Windows or Command + F for a Mac to reapply the filter. Each time this key combination is pressed, you will receive a somewhat different outcome. 
+
+Now, return to the Filter menu and select Render, and then choose Lighting Effects. Once you enter the Light Effects menu, you are able to alter the shape of the ellipse to a circle that becomes centered on your file. Changing the Narrow setting to 39 next follows choosing the Default Spotlight setting. 
+
+Sometimes a Photoshop project calls for texture. There are thousands of backgrounds to create that range from a grainy composition to a multi-faceted mess (depending on the look you are going for). To create a paper texture in Photoshop, you should start a new file that measures 60 x 60 pixels. The color should be in RGB. Next, select the following commands in this same order: Filter, Noise, Add Noise. Once completed, choose Gaussian, which is set to 80%. 
+
+The next step to create a paper texture is to select Filter, then Stylize, followed by Emboss. The angle should be set to -50, the Height to 2 pixels, and the Amount to 70%. The background will now resemble a gray embossed selection. To change the color, choose Image, then Adjust, followed by Hue-Saturation-Brightness. Once you select the Colorize checkbox, you should set the Hue to a different setting. To gain your personal preference, you can adjust the contrast. 
+
+To create the appearance that objects are glowing without using any filters, choose an object to work with that will be duplicated as a layer. First, select the color you’d like your glow to be. After choosing the lower duplicate, click on Edit from the menu, then Stroke. When the Stroke Options appear, the pixel width should be set between 1 and 16. It is important to remember that the larger number you choose, the thicker the glow will appear. 
+
+Before exiting, you should glance under Location to make sure that the Outside option is selected. The next step involves applying a Gaussian Blur to the layer, which can be found under the Blur option in Filters. This will soften the glow applied to the layer. Some individuals even repeat the process to create a double glow, which is some cases, can really make an image stand out.
+
+

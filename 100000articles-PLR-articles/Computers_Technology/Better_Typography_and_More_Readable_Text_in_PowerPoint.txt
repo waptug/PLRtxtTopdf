@@ -1,0 +1,54 @@
+Title: 
+Better Typography and More Readable Text in PowerPoint
+
+Word Count:
+925
+
+Summary:
+Good type treatment is critical to effective PowerPoint presentations. Learn tips on designing the best text for your slides.
+
+
+Keywords:
+powerpoint, typography, design, custom, microsoft, template, text, type  
+
+
+Article Body:
+PowerPoint is, fundamentally, a tool for communication, and the heart of that communication is written words. As many charts, videos and illustrations a presentation might have, without text these add up to little more than a collection of disjointed elements pasted between slide transitions.
+
+Words remain the glue that ties information together. Because of this, good typography is as important -- if not more so -- than any visual element in a presenter's PowerPoint file. (This not to say good presentation is a substitute for weak content; after all, content is king.)
+
+"Typography" is a medium-independent term used to describe how type is presented. This includes everything from mixing fonts to choosing colors and point sizes to laying elements on a page in certain relation to other objects.
+
+Good typography doesn't happen by accident -- it is a skill that is developed through practice and experimentation. Just as there are some general, fundamental guidelines that are as applicable to presentation software as they are to billboards and annual reports, there are a few typographical principles that relate directly to PowerPoint alone. Adhering to these simple strategies can result in a much more polished and professional-looking piece.
+
+1. Fonts should never be less than 12 points in size. Even with substantial magnification over a projection system, people have difficulty focusing on smaller type. This really works against you anytime the audience needs to carefully read something, since most of their effort is spent squinting and leaning forward and not on actually understanding the content. The only exception to the 12-point rule would be small copyright information, dates or watermarks that are not related to the primary content.
+
+2. Bigger is better. Headlines should float around 20-24 pt, larger if needed. Body copy generally works well in the 16-18 range, although 14-point is not uncommon for squeezing a few extra lines in. Headline point size should never be smaller than the content size.
+
+3. Don't be afraid of leading. "Leading" is the term for adjusting the space between lines, and can be found under Format > Line Spacing. This does not have to be drastic; often, a subtle 1.1 - 1.5 can really open up the design on a page and make long blocks of text much easier to read.
+
+4. Stick with the standard font faces that are included on a typical Windows machine. These include Times New Roman, Impact, Arial, Verdana, Georgia and Trebuchet. Using off-beaten fonts that you've installed may make your presentation more visually interesting, but it will cause numerous problems when moving the piece between different computers. While these non-standard fonts can conceivably be moved with your file, the end product is rarely worth the resulting headaches.
+
+5. When choosing fonts, it is often better to stay with sans-serif typefaces like Arial and Verdana. Their blocky, minimal nature makes them ideal for headline applications, where they can be displayed at larger sizes and still retain maximum readability. In PowerPoint, it is even more important to use sans-serif fonts in bullets, paragraphs and other small point size applications. Serif fonts like Times New Roman and Georgia are more decorative, and while they perform superbly in the printed realm (look no further than The New York Times for endless columns of the Times face), study after study demonstrate they hinder reading speed and comprehension when presented on screen.
+
+6. Pick font colors that contrast with the background:
+
+* For white backgrounds, black and dark versions of red and blue work exceptionally well.
+
+* For dark backgrounds, like black or rich blues, white is ideal, but options such as yellow or very pale, icy blues can achieve interesting and often captivating color combinations.
+
+* A good visual trick is to use a background color that accepts both white and black font colors. Dark oranges, rich greens (apple green especially) and even certain blues can be excellent choices for the design-adventurous.
+
+* Color combinations to avoid: Black and red, in any situation. Color-similar combinations, such as orange text on yellow backgrounds, or light blue text on dark blue backgrounds.
+
+7. Since PowerPoint works so well with bullet points, it is a presentation technique widely adopted as a means of displaying important information in bite-sized chunks. But consider exploring different typographic solutions for bullets; small changes can often encourage better readability and audience interest. There are several techniques that I have successfully used.
+
+* Consider making the actual bullet a different color than the text. For instance, if your text is black, a medium gray bullet might work well. They serve to primarily guide the eye from line to line, so it is not always critical to make them as visually important as the text.
+
+* Also, making the active bullet line a different color might be a good way to reinforce what you are saying. If each bullet appears manually, dependent on where you are in your speech, this can be a subtle but powerful means of reminding the audience what you are talking about.
+
+* Also, try using different shapes for bullets! PowerPoint's flexible options allows a variety of pre-installed symbols, or even an imported graphic, to be used in place of the rather dry default circles.
+
+8. Consistency. This is, without a doubt, the most important typographic tip in any medium, PowerPoint or other. Design your master template and stick to it. If you use 24-point Arial as a headline font, 16-point Verdana as the body font and a customized set of bullets that change color, use that combination through the entire presentation. And not just sizes and colors, but also positioning. The first sign of amateur PowerPoint is text fields jumping from spot to spot across different slides.
+
+

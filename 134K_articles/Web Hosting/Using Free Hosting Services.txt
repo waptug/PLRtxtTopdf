@@ -1,0 +1,17 @@
+Using Free Hosting Services
+
+
+Free web hosting is the most basic web hosting service that you can obtain and there are many free hosting companies that are available on the internet. Free hosting services are usually financed by advertisements on web sites that are hosted.
+
+Free web hosting services are extremely limited. If you get a free hosting service you will have ads on the top and the bottom of your web-site and depending on what your web-site is all about, it may not fit at all but for people starting out on the internet it may be the best option if you don’t have a lot of traffic or just a small site.
+
+The type of web domain that you receive when you get a free web hosting is a subdomain with the name that you pick (yourname.webhost.com) or a name in a directory (yourname.webhost.com). For example, if the name of your free host is freestanding.com,
+Then your web domain would be yourbusiness.freestanding.com.
+
+As stated before, if you are a novice, this is the type of account that you would probably want to get but there are some shortcomings to free web hosting if you are looking for more options on the account.
+
+First, many free hosting accounts do not support database management or what you would call in simple terms, putting data structures on the free web host side of their server. Databases are usually used for online data retrieval routines. Many of these free web hosting sites do not support a common package called mySQL which allows you to program queries into your web sites.
+
+They also don’t support multiple e-mail accounts. Most free web hosting service only gives you one email account and it’s usually a web based internet account. The host does not include modules for Flash Programming, PHP and Dynamic Hypertext Markup Language (DHMTL).
+
+In summary, free web hosting is for novices who want an easy hosting option without many bells and whistles.

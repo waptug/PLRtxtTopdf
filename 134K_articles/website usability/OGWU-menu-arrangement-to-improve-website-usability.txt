@@ -1,0 +1,53 @@
+Arranging a Website Menu for Better Usability
+
+The issue of website usability is one of the main topics today in web development. There are many moves regarding the push of web development to accommodate a wider range of visitors. 
+
+Different sectors of society have taken their initiative in terms of improving their websites to be able to make them more user-friendly. The government has taken legal steps to be able to realize laws which intend to make websites more usable. The different institutions which are involved in education, information awareness and public services are also moving towards usability. The business sector is also moving towards the same goal because they rely on generating and maintaining traffic. Studies have found out that usability is directly correlated with the desire of people to come back to a certain website. 74% of people consider usability as one of their main considerations for coming back to a website. Making a business website more usable will also give a company a good image. 
+
+Context
+
+ The main reason why there are moves towards improving the usability of websites is that a big chunk of Internet users are impaired with some kind of disability. In fact, around 20% of the whole American population has some kind of disability. With this situation in mind, the Internet is deemed as an important tool in providing services and opportunities to these people. The Internet has become an avenue for communication, information dissemination and gathering for these people.
+
+Usability Factors
+
+There are a lot of factors to consider when developing a user-centered website. These factors can be grouped in different ways and can be tested by different means. Listed below are some of these factors:
+
+1) Accessibility
+
+The usability of a website is dependent and intertwined with its accessibility. Accessibility refers to the quickness and easiness of gathering information from the website.
+
+2) Download time
+
+Nobody likes a website which takes too long to load. Many people would actually prefer a basic-looking website which loads quickly than a beautiful website which takes minutes to load.
+
+3) Feedback Mechanisms
+
+Websites should be able to provide avenues which can be used by its users to give feedback. Feedback gathering is very important in assessing and improving a website.
+
+4) Navigation
+
+Navigational links should be provided and placed properly all through out the website to guide the users on how to effectively gather the information that they need from the website.
+
+There are other details that need attention when it comes to optimizing the usability of a website. This article tries to tackle one of them which is- menu arrangement. The menu is a basic tool which surfers use to be able to get from one web page to another and to track their navigation. 
+
+Here are some useful tips in arranging the menu of a website.
+
+1) Go back to the goals
+
+One should ask what the main goals of the website are to be able to determine the right links to put in the menu bar. The menu’s basic function should be connected with the main goal of the website. A website which is offering an array of products might want to put the different categories of the products in the menu bar. 
+
+2) Important pages
+
+The menu bar should highlight all the pages which contain pertinent information regarding the purpose of the website. The contents of the menu bar should be carefully chosen so as to maximize its limited space.
+
+3) Cohesion
+
+Items should be placed in the menu in a cohesive manner. It’s basically a choice which involves the right placement of items so as to give proper guidance to the users.
+
+4) Fonts
+
+The users should be able to customize the size of the fonts of the entire website. The fonts that are places in the menu should not be too small or too big. Using a different font for the menu can be done under the premise that they do not deviate too much from the other fonts.
+
+Menu arrangement is just a speck in the whole idea of website usability. The tips above are just basic ways of modifying the menu so as to provide maximum guidance to the users and must be seen in the context of the whole picture. The other aspects of usability should be given attention to be able to develop a user-centered website.
+
+

@@ -1,0 +1,42 @@
+Title: 
+It Facility Management - Reasons To Outsource
+
+Word Count:
+455
+
+Summary:
+A typical IT Equipment Room has around eight different types of machinery as part of the room’s infrastructure. The operation of the computers and systems within the IT room, is dependant upon all of the supporting systems operating correctly. Most, or all of the systems will be sold with a Maintenance Contract covering routine maintenance and breakdown cover.
+
+The infrastructure equipment supporting an IT Equipment Room can be made up of some or all of the following:
+Stan...
+
+
+Keywords:
+ITFM, UPS, IT facility management
+
+
+Article Body:
+A typical IT Equipment Room has around eight different types of machinery as part of the room’s infrastructure. The operation of the computers and systems within the IT room, is dependant upon all of the supporting systems operating correctly. Most, or all of the systems will be sold with a Maintenance Contract covering routine maintenance and breakdown cover.
+
+The infrastructure equipment supporting an IT Equipment Room can be made up of some or all of the following:
+Standby Generator, UPS system, Electrical Switchgear and distribution, Fire Suppressant system, Air Conditioning, Building Monitoring System, Data Cabling, Building Services and general cleaning.
+
+The handling of the day-to-day administration of all of these maintenance contracts, placed with different suppliers, is time consuming and a distraction from the individual's role within their organisation. Contract renewals, maintenance visits and break down situations, for each supplier need to be arranged and supervised. Most site visits are usually outside of normal working hours.
+
+This is the reason that companies are increasingly outsourcing their IT Facility Management. A good contractor will be able to carry out all of the above on your organisations behalf. You should be given a 24/7 single point of contact for all of your maintenance and break down contracts.
+
+The outside contractor assumes responsibilities for existing contracts, or will be able to recommend a Service Provider from their database of approved suppliers.
+
+Take, for example the UPS system for the computers. The external IT facilities management contractor will help you specify the correct level of protection for your system
+
+Modern processors in computers are very vulnerable to voltage spikes in the mains power supply. The processor may even fail, through overheating if a properly regulated supply is not in place.
+
+People think that because they are paying for a 115v or 230v (UK) supply that that is what they get. No way. The quality and consistency of the electricity supply depends on the load and load variations being placed on the supply by local businesses.
+
+You can protect your computers and the systems that depend on them by fitting a Uninterruptible Power Supply (UPS) System. UPS systems range from a simple plug in device for a few dollars to complete standby generators for many thousands.
+
+The simple plug-in devices are a waste of time and money if your business computer crashes. These low cost "UPS" systems are really just basic mains filters that remove the worst of the voltage spikes.
+
+If you want any protection at all you need to consider a system that has sufficient battery power as a backup to allow you to close your system down manually if the power fails. The cost of UPS systems largely varies with the amount of backup battery power available.
+
+

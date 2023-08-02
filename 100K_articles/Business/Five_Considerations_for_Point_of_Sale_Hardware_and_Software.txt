@@ -1,0 +1,40 @@
+Title: 
+Five Considerations for Point of Sale Hardware and Software
+
+Word Count:
+509
+
+Summary:
+Here are five elements to consider before you buy point of sale software and hardware solutions.
+
+
+Keywords:
+Microsoft point of sale, point of sale, pos, microsoft pos, microsoft rms, microsoft dynamics-rms
+
+
+Article Body:
+Whether you own an apparel boutique, gift shop, sporting goods store, or any other consumer merchandise outlet, deciding upon a point of sale (POS) system implementation can become a crucial factor that affects whether you store succeeds or fails. Here are five elements to consider before you buy:
+
+1. Getting the Right Implementation Team
+
+Out-of-the-box solutions may work for some enterprises, but most will benefit from a professional analysis and implementation. Companies that are experienced in, for example, Microsoft point of sale implementations can help guide you toward selecting the right hardware, as well as installing the underlying network and customizing the software. 
+
+2. Choosing the Software that Fits Your Needs
+
+If you own a boutique, your software needs are different from those of a restaurant owner. Microsoft Dynamics Retail Management System (also known as Microsoft RMS or Microsoft Dynamics-RMS), for example, is tailored to small- to medium-sized retailers. It can automate inventory, automate purchasing management, and streamline transaction processing, while being scalable to meet your needs as your business grows. 
+
+3. Minimizing Disruptions
+
+Implementing new hardware and software necessitates a certain level of disruption, but you should choose a solution that is specifically designed for easy implementation and adoption. In other words, your store should stay open for business and your employees should be able to quickly learn the system. Microsoft POS solutions, for example, utilize build-in wizards and intuitive user interfaces to make learning the system quick and painless. 
+
+4. Integrating with Other Software Solutions
+
+Even if the software you select streamlines POS transactions, unless it's integrated with your other systems you won't get the most out of your investment. Ideally, your point of sale software should connect to your business information and processes and be able to communicate with, for example, Microsoft Office programs like Word and Excel. 
+
+5. Enhancing Marketing Efforts
+
+The best point of sale software can become an important component of your marketing toolkit. Thanks to tracking features, POS software can enable you to launch highly targeted marketing to select customers, such as those who have purchased certain items in the past or those who have indicated a preference for certain merchandise. In addition, it should allow you to set up promotions and discounts, as well as suggest up-sells at the register so your employees can talk about the products to your customers. 
+
+Keep in mind that, when you select a point of sale software solution, you should be able to get all of the features you need. For example, you may want to quickly add new items to your database, or enable a matrix that allows you to differentiate between similar items (such as the same dress style) by attribute (such as size and color). Likewise, you may wish to print out customized labels for your price tags. Perhaps you need software that will work for multiple stores, or maybe customized reporting and metrics are critical to your business. The bottom line is that, with the right implementation team, point of sale software and hardware can catapult your retail business to the heights of growth and success.
+
+

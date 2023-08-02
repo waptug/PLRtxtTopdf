@@ -1,0 +1,32 @@
+Title: 
+Eliminate Your Security Problems By Clear Mru
+
+Word Count:
+504
+
+Summary:
+MRU can be a nasty security problem that is bound to affect online computer users. The first block an intruder will face while attempting to crack sensitive files is finding their location. MRU makes it easy for them by beaming a path that leads directly to the files. MRU's is a good time saver tool during every day work but when someone gains access to your computer it transforms into a massive security hole. Most of the programs such as Microsoft Word, Excel, and WinZip cre...
+
+
+Keywords:
+clear MRU,personal security,computer security
+
+
+Article Body:
+MRU can be a nasty security problem that is bound to affect online computer users. The first block an intruder will face while attempting to crack sensitive files is finding their location. MRU makes it easy for them by beaming a path that leads directly to the files. MRU's is a good time saver tool during every day work but when someone gains access to your computer it transforms into a massive security hole. Most of the programs such as Microsoft Word, Excel, and WinZip create these so called recent files. These files contain information about the work you were doing at a specific time. Word files give information about the work done in the application. Internet Explorer shows the sites visited and everything you have downloaded. Recent files can lead to information leakage nightmares for companies and individuals. There are a host of registry cleaners that do the bad work for you by scanning and wiping off user specific category of files. Like if you want to clean up the MSU of Internet Explorer but want to retain the Word history. 
+
+While Clearing MRU's is relatively easy, one can easily screw up the entire process and end up messing the system registry. Publisher requires you to modify the registry to clear its MRU. System registry is a highly sensitive entity and wrongly modifying it usually ends up in having to reinstall the operating system. You must know how to restore your registry if something goes wrong if you don't its best not to tamper with it. For more information regarding how to restore your registry view the “restoring the registry” help topic in Regedit.exe. Always back up the registry before editing it just to be safe. 
+
+MRU clearing for Microsoft Access, Excel, PowerPoint, Words and PhotoDraw is done as follows. On the “Tools” menu click “Options” and click on the “General” Tab. Clear the “Recently used files” checkbox and click ok. On the “tools” menu, click “options” and click the “General” Tab, select the “Recently used files” check box and click “ok”.
+
+While the above process works fine, the catch is next time you work on a document it is again going to create a new set of MRU files. If you intend to clear the MRU periodically, it's better to partially automate the process. A registry backup is a must before attempting the following steps failure to do so can render you with serious data loss. Modify the registry at you own risk.
+
+Start the registry editor. Click the parent key. Suppose you want to clear the MRU list for Microsoft Word .click the following key 
+
+HKEY_CURRNET_USER \ SOFTWARE \ MICROSOFT\ 2003
+
+On the registry menu, click Export Registry File. Name the registry file in the “File Name” box, click “selected branch” and click “save”. 
+
+You can use this file to periodically clear the registry of MRU files. To do so, start the registry. On the Registry menu click “Import Registry File”. Click to select the registry file and then click open.
+
+

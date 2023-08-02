@@ -1,0 +1,78 @@
+Title: 
+Internet Advertising - What Went Wrong?
+
+Word Count:
+1281
+
+Summary:
+Spielberg's blockbuster, "Minority Report", is set in the year 2054. The future - at least according to a team of MIT futurologists, hired by the cinematic genius - is the captive of embarrassingly personalized and disturbingly intrusive, mostly outdoor, interactive advertising.
+
+
+Keywords:
+
+
+
+Article Body:
+Spielberg's blockbuster, "Minority Report", is set in the year 2054. The future - at least according to a team of MIT futurologists, hired by the cinematic genius - is the captive of embarrassingly personalized and disturbingly intrusive, mostly outdoor, interactive advertising.
+
+The way Internet advertising has behaved lately, it may well take 50 years to get there.
+
+More than 1 billion people frequent the Internet daily. Americans alone spent $69 billion buying things online in 2004. eMarketer, a market research firm, predicts that e-commerce will climb to $139 billion in 2008. American Internet advertising revenues boomed to $7.3 billion in 2003 and $9.6 billion in 2004. Shares of companies like Yahoo! and Google - sellers of online advertising space and technologies - have skyrocketed.
+
+This is a remarkable reversal from just a few years ago.
+
+All forms of advertising - both online and print - have been in decline in 2000-2. A survey conducted by the New Media Group of PricewaterhouseCoopers (PwC) - the Internet Ad Revenue Report sponsored by the Interactive Advertising Bureau (IAB) - found a 12 percent decline - to $7.2 billion - in Internet advertising in 2001. CMR, The Myers Report, and McCann Erickson have all recorded drops of between 12 and 14 percent in broadcast advertising and of c. 20 percent in radio spots in 2001.
+
+The following year - 2002 - may have been the turning point. A March 2002 Nielsen NetRatings report registered a sharp turnaround in the first quarter of 2002. The number of unique online ads shot up by one third to 70,000. Jupiter Media Matrix predicted a 10 percent increase in online classified ads - to $1.2 billion in 2002. By 2007, it said, online ads will account for 7 percent of total advertising dollars - some $16 billion. Both IDC and INT Media Group spawned similar prognostications for the weaker Asia-Pacific market.
+
+CMR forecast a 5.3 percent growth in online ad revenues in 2002 - compared to an overall average of 2.5 percent. This optimistic projection is based on expected performance in the - hopefully, more buoyant - third and fourth quarters of 2002.
+
+Still, it was clear in early 2002 that ,even if this surge materializes, online advertising would be almost 7 percent below its level only two years before and vertiginously below projections touted by "professionals" as late as January 2001. Internet.com quoted another gloomy prediction, by Goldman Sachs analyst, Anthony Noto: "The likelihood of an online ad rebound remains questionable in the near term." Moreover, growth in advertising in local papers, radio spots, and TV spots was expected to outpace the recovery in online ads.
+
+In hindsight, some advertising categories indeed didn't make it. Cable, syndication, consumer magazines, national newspapers, outdoor, and B2B magazines continued to post sharp decreases. 
+
+A sign of the times in 2002 may have been IAB's multi-million dollar advertising campaign. IAB is the online publishing and ad sales industry's largest trade association. In 2002, it tried to pitch the Internet to advertisers in what looked like a desperate effort to increase online ad spending.
+
+Internet.com reviewed the campaign in a June 24, 2002 article:
+
+"The gist of the work is that by encouraging consumers to interact with brand elements, marketers can foster greater awareness, favorability and purchase intent - more so than can static media. The executions share the tagline, 'Interactive is the active ingredient in the marketing mix.'"
+
+They quoted IAB President and Chief Executive Greg Stuart as saying:
+
+"As we continue to mature as a medium, we need to treat interactive as a brand, and the manner in which we position ourselves as an industry is critical to driving the success and adoption of interactive advertising and marketing in the years ahead. We have to speak with the same voice so that we clearly communicate our unique value to all parties."
+
+The collapse in Internet advertising had serious and, in some cases, irreversible implications.
+
+In a report for eBookWeb.org I wrote:
+
+"Most content dot.coms were based on ad-driven revenue models. Online advertising was supposed to amortize start-up and operational costs and lead to profitability even as it subsidized free access to costly content. A similar revenue model has been successfully propping up print periodicals for at least two centuries. But, as opposed to their online counterparts, print products have a few streams of income, not least among them paid subscriptions. Moreover, print media kept their costs down in good times and bad. Dot.coms devoured their investors' money in a self-destructive and avaricious bacchanalia."
+
+Surprisingly, online advertising did not shrivel only or mainly due to its inefficacy - or avant-garde nature. In a survey conducted in early 2002 by Stein Rogan and Insight Express, an overwhelming four fifths of brand marketers and agency executives felt the the Internet is a mainstream medium and an integral part of the conventional marketing mix. Close to 70 percent rated their opinion regarding the effectiveness of online advertising as more positive now than it was 12 months before. A full sixty percent said that their clients are less resistant to interactive marketing than they were.
+
+So, what went wrong?
+
+According to classical thinking, advertising is concerned with both information and motivation. It imparts information to potential consumers, users, suppliers, investors, the community, or other stakeholders. It motivates consumers to consume, investors to invest, voters to vote, and so on.
+
+Yet, modern economic signal theory allocates to advertising an entirely different - though by no means counterintuitive - role.
+
+From the eBookweb.org report:
+
+"Advertising signals to the marketplace the advertiser's resilience, longevity, wealth, clout, and dominance. By splurging money of advertising, the advertiser actually informs us - the 'eyeballs' - that it is here to stay, sufficiently affluent to finance its ads, stable, reliable, and dominant. If firm X invested a million bucks in advertising - it must be worth more than a million bucks - goes the signal. If it invested so much money in promoting its products, it is not a fly-by-night. If it can throw money at an ad campaign, it is stable and resilient."
+
+Online advertising dilutes this crucial signal and drowns it in noise. Advertisers stopped advertising online because the medium's noise to signal ratio rendered their ads ineffective or even repulsive. Internet users - a "captive audience" - not only became inured to the messages - both explicit and implicit - but found the technology irritating.
+
+Many react with hostility to pop-up ads, for instance. They simply tune off or install ad-filtering software. All major Web browsers allow their users to avoid pop-up ads altogether. But banner ads and embedded ads are an integral part of the Web page and cannot be avoided easily.
+
+Thus desensitized, users rebel.
+
+"They resent the intrusion, are incensed by the coercive tactics of advertisers, nerve wrecked by protracted download times, and unnerved by the content of many of the ads. This is not an environment conducive to clinching deals or converting to sales."
+
+There are two sources of noise in Internet advertising.
+
+Free advertising misses a critical element in the aforementioned signal. Information about the purported financial health and future prospects of advertisers is conveyed only by paid ads. Free adverts tell us nothing about the advertiser. This simple lesson seems to be lost on the Internet which is swamped by free hoardings: free classifieds, free banner ads, free ad exchanges. Worse, it is often difficult to tell a paid ad from a free one.
+
+Then there is the issue of credibility. Dot.coms - the leading online advertisers - are rarely associated with truth in advertising. Internet ads are still afflicted by scams, false promises, faulty products, shoddy or non-existent customer care, broken links, or all of the above. Users distrust Web advertising and ignore it.
+
+The Internet is being appropriated by brick-and-mortar corporations and governments. Global branding will transform online ads into interactive renditions and facsimiles of offline fare. Revenue models are likely to change as well. Subscription fees and "author-pays" will substitute for ad revenues. The days of advertising-sponsored free content are numbered.
+
+

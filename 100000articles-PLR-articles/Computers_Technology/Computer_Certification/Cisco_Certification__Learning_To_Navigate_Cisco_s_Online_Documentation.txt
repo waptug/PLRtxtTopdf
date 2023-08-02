@@ -1,0 +1,52 @@
+Title: 
+Cisco Certification: Learning To Navigate Cisco's Online Documentation
+
+Word Count:
+482
+
+Summary:
+Many CCNA and CCNP candidates don't realize that one of their most powerful study tools is online - and free!  Chris Bryant, CCIE #12933, introduces you to Cisco's online documentation website.
+
+
+Keywords:
+ccna, ccnp, free, pass, exam, cisco, certification, computer, mcse, ccie, chris, bryant
+
+
+Article Body:
+When studying for your Cisco CCNA, CCNP, or CCIE exam, you’ve got a powerful online weapon at your disposal.  It’s Cisco Connection Documentation, found at www.cisco.com/univercd.  This site contains product, code, and protocol documentation for all Cisco products.
+
+ 
+
+Many exam candidates really don’t start using this powerful tool until they’re studying for their more advanced exams.  However, it’s important for CCNAs, CCNPs, and candidates for these certifications to learn their way around this site.  It comes in handy for finding default values that Cisco really enjoys asking about on exams, and the protocol documentation found there can help you study as well.
+
+ 
+
+The site can be a little overwhelming for newcomers, but it’s actually easy to navigate. On the site’s homepage, you’re presented with a list of products and several drop-down menus.  To get started, I suggest you choose “Cisco IOS Software” in the top-right drop-down menu, and select a code version. 12.2 is a good one to start with.  From there, select the IOS Release 12.2 Configuration Guide and Command References.
+
+ 
+
+You’re then presented with a list of technologies, and each has a Configuration Guide and a Command Reference.  If you’re studying Interior Gateway Protocols at this point (such as OSPF, RIP, and EIGRP), select “IP Configuration Guide” and then “IP Routing Protocols”. 
+
+ 
+
+You then have the official Cisco documentation on how to configure RIP, IGRP, OSPF, EIGRP, ISIS, and BGP.  Reading this documentation is invaluable.  Many study guides skip the details to give you an overview of the protocol.  This documentation doesn’t skip anything.  The documentation shows how and when to use any command for that protocol.  There are also real-world examples and notes on when to use each command.  I’ve always learned something new when reading the online Cisco documentation.
+
+ 
+
+You can then back out and go through the same steps for the Command Reference.  For those studying for Cisco exams, this section will quickly answer any question you have about a command’s syntax or default values.  Instead of trying to remember which book you saw a value in, just zoom out to this site and you’ll have your answer in seconds.  Real-world examples of command usage are prevalent as well.
+
+ 
+
+As with anything, the more you use the online Cisco documentation, the better you get at it.  The Configuration Guide for the various Cisco switches give you a great picture of how switches work.  I highly recommend reading at least one of their switches’ config guides.
+
+ 
+
+Beyond any exam value the online Cisco documentation gives you, it serves another valuable purpose.  The more you use it now, and the more comfortable you get with it, the better you’ll be with it when the day comes that you need it on the job.  And trust me – that day will come!
+
+ 
+
+Chris Bryant
+
+CCIE™ #12933
+
+

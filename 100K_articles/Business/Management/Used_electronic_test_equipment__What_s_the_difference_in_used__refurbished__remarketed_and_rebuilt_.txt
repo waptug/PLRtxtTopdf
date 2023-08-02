@@ -1,0 +1,37 @@
+Title: 
+Used electronic test equipment: What’s the difference in used, refurbished, remarketed and rebuilt?
+
+Word Count:
+660
+
+Summary:
+Although there are many considerations when purchasing used test and measurement instruments, the quality of the instrument and reliability of the vendor should be at the top of the list. Used test equipment vendors deploy a number of bywords that represent the equipment they sell, including "refurbished", "remarketed", "reconditioned", "rebuilt" and, the obvious, "used". These marketing adjectives typically imply various quality processes that should be understood before making your purchase.
+
+
+Keywords:
+electronics, test and measurement, used electronic test equipment
+
+
+Article Body:
+According to the research firm Frost & Sullivan, the estimated size of the North American used test and measurement equipment market was $446.4 million in 2004 and is estimated to grow to $654.5 million by 2011. For over 50 years, companies and governments have procured used test and measurement instruments in order to realize a number of benefits including the need to:
+
+- reduce equipment acquisition costs, 
+- replace discontinued testing instruments,
+- circumvent lengthy new product delivery times, and 
+- conform to legacy standards and specifications.
+
+Although there are many considerations when purchasing used test and measurement instruments, the quality of the instrument and reliability of the vendor should be at the top of the list. Used test equipment vendors deploy a number of bywords that represent the equipment they sell, including "refurbished", "remarketed", "reconditioned", "rebuilt" and, the obvious, "used". These marketing adjectives typically imply various quality processes and buyers of used test equipment should execute their due diligence prior to purchasing. 
+
+"Used" or "Remarketed" equipment often describes products sold with an "as-is" supposition. You might purchase used equipment from an end-user organization or auction company that is selling surplus assets. Products sold as "used" should be priced at the lower scale of the market spectrum and it is not uncommon for quality issues to arise with "used" equipment. It is likely that the instruments have not been tested and have an uncertain history. It is only prudent to purchase "Used" equipment if you have the in-house repair and calibration facilities/expertise and are able to procure the item at a cost low enough that the added expense of repair and calibration remains to be a positive, economical outcome.
+
+"Refurbished and Reconditioned" are akin and are the most common presentment of used equipment from equipment dealers. Refurbished equipment is fully tested and calibrated to NIST standards to assure that they meet the original manufacturers' specifications. Refurbished equipment should come with all standard accessories and operating manuals. Malfunctioning internal components will have been replaced or repaired and the product will have been cosmetically cared for including painting and the replacing of face plates, button and knobs. Refurbished equipment is typically sold with a 30-90 day parts/labor warranty and is priced in the middle to high-end of the market spectrum.
+
+Finally, some vendors advertised "Rebuilt" test equipment. Many instrument options are field-installable and can be built-to-order according to the customer's requirements. Some products can even be converted from one generation or version to the next by adding various components. There is absolutely nothing wrong with purchasing rebuilt equipment and, in fact, if you can not find the exact product configuration you are sourcing, you should ask qualified vendors about the possibility adding those options. As with used and refurbished equipment, always exercise caution in choosing a vendor. Assure that the vendor is qualified or uses a qualified electronics laboratory to repair, calibrate and rebuild the products you seek.
+
+Purchasing used, refurbished or rebuilt electronic test equipment is a great way for organizations to save 30-70% on their asset acquisition costs. Warranties and guarantees from used test equipment vendors are formidable. In select product groups, the original equipment manufacturers offer extended warranties in partnership with the vendors that are the selling those products.
+
+Exercise caution and perform due diligence on your vendors. It is most effective to first identify a qualified used equipment vendor and begin a supplier relationship, as opposed to sourcing each instrument you need individually. If your qualified vendor does not have what you are looking for in inventory, it is likely that they will be able to locate it within 24 hours. By first identifying and working with a select few vendors, you will assure consistent quality and economical pricing with every used test equipment purchase.
+
+Robert Preville is the President and CEO of Global Test Supply, LLC, a distributor of new and refurbished test and measurement equipment from manufacturers such as <a href="http://www.globaltestsupply.com">HP, Agilent, Tektronix, BK Precision, Instek, Promax and Rohde & Schwarz</a>
+
+

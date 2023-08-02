@@ -1,0 +1,42 @@
+Title: 
+Backup Schedule: Learn How Often To Backup
+
+Word Count:
+380
+
+Summary:
+If you backup, you are one step away from a disaster. If you backup often, make it several steps. Learn how often to backup and how to make your own backup schedule.
+
+Surely, one can backup to whatever backup medium he wants, but if one does not stick to a backup schedule, most of the efforts, aimed at storing or securing the important information will be spent in vain.
+
+First, we need to figure out what we are backing up, as the backup schedule largely depends on the siz...
+
+
+Keywords:
+backup, schedule, scheduling, dvd, hard drive, usb drive, external, flash
+
+
+Article Body:
+If you backup, you are one step away from a disaster. If you backup often, make it several steps. Learn how often to backup and how to make your own backup schedule.
+
+Surely, one can backup to whatever backup medium he wants, but if one does not stick to a backup schedule, most of the efforts, aimed at storing or securing the important information will be spent in vain.
+
+First, we need to figure out what we are backing up, as the backup schedule largely depends on the size of the backup data:
+
+- small amounts of data (important work documents) can be backed up often, hourly, daily and at least weekly
+
+- medium amounts of files (e-mail messages, project documents and work documents) can be backed up daily, weekly or monthly (at least)
+
+- large amounts of data (e-mail messages, project documents, data files, settings files, etc) can be backed up weekly or monthly
+
+- huge amounts of data (all of the above plus images, audios - mp3s and videos - mpegs) can be backed up monthly or yearly
+
+- total backup (a backup of all the data on the computer) can be backed up weekly, monthly or yearly.
+
+Which backup schedule to choose is up to you, but you will also need to choose a backup software to do that and set up the time when to perform a scheduled backup.
+
+First of all, the backup software needs to support the backup medium you want to backup (CD, DVD, FTP, LAN, external USB or flash drive, etc). Next, you select the files you want to backup, choose the time you want to backup and leave it there. Some programs can run as a service and don't need to be launched, but some need to be running when you want the backup to be run. At any case, the computer has to be on at the time of your backup schedule.
+
+Think the time of a backup schedule doesn't matter? What if it runs during your work day and slows down your work computer for an hour or two? To keep working _and_ to stick to the backup schedule, simply set the backup to run a couple of hours before or after your working time. This way you won't be interrupted with a scheduled backup.
+
+

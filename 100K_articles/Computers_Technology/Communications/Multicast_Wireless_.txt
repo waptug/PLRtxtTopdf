@@ -1,0 +1,28 @@
+Title: 
+Multicast Wireless?
+
+Word Count:
+475
+
+Summary:
+Multicasting is the process of broadcasting a huge number of routing packets to multiple destinations with the use of fewer networks. Multicasting when used over wireless networks like cellular telephones is known as multicast wireless.
+
+
+Keywords:
+multilcast wirelss
+
+
+Article Body:
+Multicasting is the process of broadcasting a huge number of routing packets to multiple destinations with the use of fewer networks. Multicasting when used over wireless networks like cellular telephones is known as multicast wireless. As mobile companies all over the world upgrade their wireless networks to enhance the efficiency of new functions like mobile TV or IPTV, the bandwidth usage goes up dramatically, leading to the need for multicast wireless technology. Although the concept of wired multicasting, like ATM multicasting and IP multicasting, is still popular in some areas, it won't be very long before wireless multicasting takes over the world.
+
+Universal Mobile Telecommunication System (UMTS) is the preferred architecture that will promote third-generation mobile telecommunication systems. UMTS is an offspring of the second-generation mobile telecommunication system (GSM). UMTS is geared to provide higher bandwidth radio access, especially for packet-data-based traffic, in addition to conventional voice services. UMTS can provide maximum bandwidths ranging from 64kb/s - 2Mb/s. Enabling UMTS for different and concurrent high-bandwidth users, thereby reducing cost, will require multicast wireless protocols to be in place.
+
+Multicast wireless technology replaces the older technology with only a few infrastructural changes. To begin with, existing routers must be upgraded to include a specific multicast routing application in place of the older, traditional algorithms. When we speak of wireless multicasting, the most important medium of communication or broadcasting is the omni-directional antennas.
+
+Multicasting is generally conducted through what is known as source-based multicast trees. The multicast tree operates on a number of algorithmic structures. The source-based mediums may need the receiver's addresses and topology data. DVRMP and MOSPF are some of the best examples of the algorithms that are traditionally used in the process, especially for video broadcasting. All wireless broadcasting or multicasting processes are guided by a bunch of multicasting network protocols.
+
+Wireless multicasting technology has triggered a tremendous curiosity in the minds of technocrats across the world. As mentioned earlier, the main reason for this is the rise in the number of mobile service provides, as well as the new functions and applications that are being integrated into mobile networks and wireless Internet connections. Moreover, communication dysfunction is harmful for basic and necessary services like the military, so the introduction of multicast wireless has made staying connected both easier and more effective. Cheaper broadcasting means many television channels can reach out to millions across the globe via IPTV and mobile TV broadcasting. In retrospect, it is clear that the need for multicast wireless was always present, but the realization has set in a bit late.
+
+The purpose of having a wireless multicasting procedure is to maximize the security levels that were often found lacking in wired multicasting. Don't be surprised if you see a constant growth in the quality of various broadcasting services now that they have wireless multicasting to fall back on.
+
+

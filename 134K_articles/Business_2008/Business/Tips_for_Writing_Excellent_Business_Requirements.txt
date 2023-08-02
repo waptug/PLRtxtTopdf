@@ -1,0 +1,54 @@
+Title: 
+Tips for Writing Excellent Business Requirements
+
+Word Count:
+395
+
+Summary:
+Because the success of the projects depends upon it being built to the client's specifications and expectations, the business requirements document is a key deliverable.
+
+
+Keywords:
+Business Analysis, Requirements Engineering, Business Requirements, Business Analysis Training, Requirements Training, Use Cases, Use Case Training, Requirements Elicitation, Requirements Documentation
+
+
+Article Body:
+Understand that the purpose of the business requirements document is to ensure that the design and development team has a clear and well-defined understanding of the tasks that are going to be automated, how those tasks fit into the organizational context, and who the role players are.
+
+Ensure that the requirements analyst meets with the major stakeholders in the project for a series of meetings designed to flesh out the requirements of the system. Subsequent meetings may include secondary stakeholders and actual end users. This is to make sure that all roles are uncovered and properly documented.
+
+The business requirements phase of the projects consists of these three steps:
+
+Phase 1: Conduct meetings with all stakeholders and role players.
+Phase 2: Assimilate all of the information that was gathered at the meetings.
+Phase 3: Create the business requirements document.
+
+
+Phase 1: Steps to conducting the business requirements meetings
+
+1. Prior to the meeting the analyst should create a list of questions that will be asked of each stakeholder and user involved in the business requirements gathering process.
+
+2. The analyst should note the answers to the questions and identify new issues that were not previously identified.
+
+
+Phase 2: Steps to conducting the business requirements meetings
+
+1. The analyst should summarize the information gathered at the meeting, prepare a report, and then create another question and answer form targeting the new issues that came to light in the previous meeting. 
+
+2. This process should continue until the analyst is able to produce a final report that everyone agrees encompasses all of the business requirements.
+
+
+Phase 3: After the business requirements gathering phase is completed
+
+1. The analyst prepares the formal business requirements document and presents it to all stakeholders for approval and signoff. 
+
+2. If signoff it received, the business analyst's work is finished unless and until additional requirements are identified later in the software development cycle.
+
+3. If signoff is not received then it is likely that the project will go back to Stage 1 for additional business requirements gathering and analysis.
+
+
+Because the success of the projects depends upon it being built to the client's specifications and expectations, the business requirements document is a key deliverable. This stage of the project should never be skipped in order to expedite the development cycle. 
+
+Failure to identify and document all business requirements creates unnecessary project risk that will be very difficult to mitigate later in the software development project lifecycle.
+
+

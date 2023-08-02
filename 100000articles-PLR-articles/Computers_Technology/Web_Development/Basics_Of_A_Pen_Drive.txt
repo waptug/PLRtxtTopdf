@@ -1,0 +1,40 @@
+Title: 
+Basics Of A Pen Drive
+
+Word Count:
+617
+
+Summary:
+A Pen Drive is a compact, removable storage device just like a floppy disk or a CD. Instead of the floppy device or the CD ROM that are used for reading a floppy disk and CD respectively, a pen drive can be plugged into the USB (Universal Serial Bus) Port of a computer. The USB connectivity makes the pen drive easier to use and data can be transferred faster to and from the pen drive.
+
+Different Manufacturers have named Pen Drives they manufacture differently. Today, a pen ...
+
+
+Keywords:
+pen drive, pendrive, flash memory, memory
+
+
+Article Body:
+A Pen Drive is a compact, removable storage device just like a floppy disk or a CD. Instead of the floppy device or the CD ROM that are used for reading a floppy disk and CD respectively, a pen drive can be plugged into the USB (Universal Serial Bus) Port of a computer. The USB connectivity makes the pen drive easier to use and data can be transferred faster to and from the pen drive.
+
+Different Manufacturers have named Pen Drives they manufacture differently. Today, a pen drive goes by the names of thumb drive, USB flash drive, Jump Drive, Traveler`s Drive, USB key drive, USB memory stick and many others!
+
+These pen drives are small, inexpensive, almost ubiquitous and extremely handy. They are available largely in the range of 1 to 8 GB which makes them of great use and has made floppy disks and CDs look like useless storage mediums.
+
+The credit of inventing the pen drives goes to IBM. It was invented in 1988 to replace the floppy disks, but IBM never patented it. IBM contracted in M-Systems to manufacture the Pen Drive and the patent is now owned by them.
+
+The pen drive is a modern floppy disk. The main difference is that a floppy disk has moving parts which makes the data stored on the drive vulnerable to loss. A pen drive, on the other hand is a solid state device i.e. it has no moving parts. This makes it possible to almost completely seal the pen drive making it dust-proof and the common magnetic fields. Hence, a pen drive is a much safer option for storing important data.
+
+The latest operating systems like (Windows XP, Linux and Mac OS 2) can recognize these pen drives and mount them automatically. Once it is connected, recognized and mounted by the operating system, it appears just like any other partition of the hard disk except it is named as removable storage.
+
+The pen drive can be removed any time after it is un-mounted (safely remove hardware in case of Windows) and can be re-plugged into the same or a different machine to be used again. A pen drive`s most important use is to transport data and files from one machine to another. For e.g. one can simply copy all the word processing documents, images and spreadsheets to the pen drive, carry it along and copy the files on his/her home computer and work on it at home.
+
+Some users have found the pen drive useful in moving their internet browser History, Cache, Cookies, and other transient data. This improves their privacy and security as no traces of the work done on the machine is left on the PC. Once copied to the drive, the files can be made more secured by encryption or any other method of security.
+
+The pen drives can also be used to store operating systems to boot the computer. This makes them popular for repair and diagnostic work. Instead of carrying tools and maintenance software applications on CDs, a pen drive can be used which is faster and can be manipulated easily in case the software is upgraded or is no more useful.
+
+A pen drive is one of the most economical mobile medium for data storage in terms of cost per unit storage space. They are really light-weight and robust in nature which has made it a big hit and a very important and indispensable tool for a large number of users.
+
+This article is under GNU FDL license and can be distributed without any previous authorization from the author. However the author's name and all the URLs (links) mentioned in the article and biography must be kept.
+
+

@@ -1,0 +1,115 @@
+Title: 
+5 Simple Ways To Speed Up Your PC According To Microsoft
+
+Word Count:
+1310
+
+Summary:
+While most people would not think of skipping preventative maintenance on their automobiles, they do not apply the same care to the machine that holds their business and banking data, pictures, music, and important communications
+
+
+Keywords:
+disk, memory, computer, windows, click, files, system, hard, performance, drive, defragmenter, dialog, hard disk, disk defragmenter, disk cleanup, vis
+
+
+Article Body:
+By following a few simple guidelines, you can maintain your computer and keep it running smoothly.  While most people would not think of skipping preventative maintenance on their automobiles, they do not apply the same care to the machine that holds their business and banking data, pictures, music, and important communications.
+
+The majority of this article was first published in segments by Microsoft demonstrating how to use their tools available in Windows XP Service Pack 2 (SP2) and Windows Vista to more efficiently maintain your computer and safeguard your privacy when you're online.  The Computer Man in conjunction with the Remote Helpdesk 1 Team decided to add it to Remote Helpdesk 1's Online PC Repair Articles and Web Based Computer Repair Blogs because most problems the Tennessee Mountain Man and Computer Man see are caused by a lack of simple preventative computer maintenance by users.
+
+1.  Free Up Disk Space
+
+By freeing disk space, you can improve the performance of your computer. The Disk Cleanup tool helps you free up space on your hard disk. The utility identifies files that you can safely delete, and then enables you to choose whether you want to delete some or all of the identified files.
+Use Disk Cleanup to:
+• 	Remove temporary Internet files.
+• 	Remove downloaded program files (such as Microsoft ActiveX controls and Java applets).
+• 	Empty the Recycle Bin.
+• 	Remove Windows temporary files.
+• 	Remove optional Windows components that you don't use.
+• 	Remove installed programs that you no longer use.
+
+Tip: Typically, temporary Internet files take the most amount of space because the browser caches each page you visit for faster access later.
+
+To use Disk Cleanup
+A. 	Click Start, point to All Programs, point to Accessories, point to System Tools, and then click Disk Cleanup. If several drives are available, you might be prompted to specify which drive you want to clean.
+ 
+B. 	In the Disk Cleanup for dialog box, scroll through the content of the Files to delete list.
+ 
+Choose the files that you want to delete.
+ 
+C. 	Clear the check boxes for files that you don't want to delete, and then click OK.
+
+D. 	When prompted to confirm that you want to delete the specified files, click Yes.
+
+After a few minutes, the process completes and the Disk Cleanup dialog box closes, leaving your computer cleaner and performing better.
+
+2.  Speed Up Access To Data
+
+Disk fragmentation slows the overall performance of your system. When files are fragmented, the computer must search the hard disk when the file is opened to piece it back together. The response time can be significantly longer.
+
+Disk Defragmenter is a Windows utility that consolidates fragmented files and folders on your computer's hard disk so that each occupies a single space on the disk. With your files stored neatly end-to-end, without fragmentation, reading and writing to the disk speeds up.
+
+When to run Disk Defragmenter
+In addition to running Disk Defragmenter at regular intervals—monthly is optimal—there are other times you should run it too, such as when:
+• 	You add a large number of files.
+• 	Your free disk space totals 15 percent or less.
+• 	You install new programs or a new version of Windows.
+
+To use Disk Defragmenter:
+A. 	Click Start, point to All Programs, point to Accessories, point to System Tools, and then click Disk Defragmenter. 
+
+Click Analyze to start the Disk Defragmenter.
+
+ 
+B. 	In the Disk Defragmenter dialog box, click the drives that you want to defragment, and then click the Analyze button. After the disk is analyzed, a dialog box appears, letting you know whether you should defragment the analyzed drives.
+
+Tip: You should analyze a volume before defragmenting it to get an estimate of how long the defragmentation process will take.
+
+C. 	To defragment the selected drive or drives, click the Defragment button. Note: In Windows Vista, there is no graphical user interface to demonstrate the progress—but your hard drive is still being defragmented.
+
+After the defragmentation is complete, Disk Defragmenter displays the results.
+
+D. 	To display detailed information about the defragmented disk or partition, click View Report.
+
+E. 	To close the View Report dialog box, click Close.
+
+F. 	To close the Disk Defragmenter utility, click the Close button on the title bar of the window.
+
+3.  Detect And Repair Disk Errors
+
+In addition to running Disk Cleanup and Disk Defragmenter to optimize the performance of your computer, you can check the integrity of the files stored on your hard disk by running the Error Checking utility.
+
+As you use your hard drive, it can develop bad sectors. Bad sectors slow down hard disk performance and sometimes make data writing (such as file saving) difficult, or even impossible. The Error Checking utility scans the hard drive for bad sectors, and scans for file system errors to see whether certain files or folders are misplaced.
+
+If you use your computer daily, you should run this utility once a week to help prevent data loss.
+
+To run the Error Checking utility:
+A. 	Close all open files.
+B. 	Click Start, and then click My Computer.
+C. 	In the My Computer window, right-click the hard disk you want to search for bad sectors, and then click Properties.
+D. 	In the Properties dialog box, click the Tools tab.
+E. 	Click the Check Now button.
+F. 	In the Check Disk dialog box, select the Scan for and attempt recovery of bad sectors check box, and then click Start.
+G. 	If bad sectors are found, choose to fix them.
+
+Tip: Only select the "Automatically fix file system errors" check box if you think that your disk contains bad sectors.
+
+4.  Protect Your Computer Against Spyware
+
+Spyware collects personal information without letting you know and without asking for permission. From the Web sites you visit to usernames and passwords, spyware can put you and your confidential information at risk. In addition to privacy concerns, spyware can hamper your computer's performance. To combat spyware, you might want to consider using Microsoft Windows Defender, which is included in Windows Vista, and is available as a free download for Microsoft XP SP2. Alternatively, there are other free anti-spyware software programs available.
+
+5. Use Ready Boost
+
+If you're using Windows Vista, you can use ReadyBoost to speed up your system. A new concept in adding memory to a system, it allows you to use non-volatile flash memory—like a USB flash drive or a memory card—to improve performance without having to add additional memory.
+intenet based pc repair by computer man
+Windows ReadyBoost improves system memory and boosts performance.
+
+Adding system memory (typically referred to as RAM) is often the best way to improve a PC's performance, since more memory means more applications are ready to run without accessing the hard drive. However, upgrading memory can be difficult and costly, and some machines have limited memory expansion capabilities, making it impossible to add RAM.
+
+Windows Vista introduces Windows ReadyBoost, a new concept in adding memory to a system. You can use non-volatile flash memory, such as that on a universal serial bus (USB) flash drive, to improve performance without having to add additional memory "under the hood."
+
+The flash memory device serves as an additional memory cache—that is, memory that the computer can access much more quickly than it can access data on the hard drive. Windows ReadyBoost relies on the intelligent memory management of Windows SuperFetch and can significantly improve system responsiveness.
+
+It's easy to use Windows ReadyBoost. When a removable memory device such as a USB flash drive or a secure digital (SD) memory card is first inserted into a port, Windows Vista checks to see if its performance is fast enough to work with Windows ReadyBoost. If so, you are asked if you want to use this device to speed up system performance. You can choose to allocate part of a USB drive's memory to speed up performance and use the remainder to store files.
+
+

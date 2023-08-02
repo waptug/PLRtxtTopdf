@@ -1,0 +1,69 @@
+Title: 
+Spyware And Spycheckers
+
+Word Count:
+449
+
+Summary:
+What is Spyware?
+
+Spyware refers to an extensive class of malicious software designed to seize control of a user’s computer without permission or informed consent, in order to benefit a third party such as an advertisement agency. Spyware can collect different kinds of user information and track what types of websites are visited, launch popup advertisements etc. In the process, spyware can drain the computer's resources, adversely affect Internet connection speed, and even...
+
+
+Keywords:
+adware, spyware, removers, removal, security, protection
+
+
+Article Body:
+What is Spyware?
+
+Spyware refers to an extensive class of malicious software designed to seize control of a user’s computer without permission or informed consent, in order to benefit a third party such as an advertisement agency. Spyware can collect different kinds of user information and track what types of websites are visited, launch popup advertisements etc. In the process, spyware can drain the computer's resources, adversely affect Internet connection speed, and even forcibly redirect web browsers. Spyware may be classified on the basis of
+
+1. shared program code
+2. busness connections
+3. common behaviors
+
+Spyware, Adware and Virus:
+
+Spyware is intended to track, report, and re-sell user’s activity and information without consent, and can be almost impossible to completely uninstall without assistance. Adware, on the other hand, is usually installed with the user’s consent and comes with an uninstaller. Spyware also differs from virus or worms because they are not specifically designed to disrupt or devastate the functioning of a computer, they hardly ever replicate themselves, and are created for the sole purpose of commercial gain. Spyware can
+
+1. launch pop-up advertisements
+2. steal personal information such as credit card numbers
+3. monitor web surfing activity
+4. and reroute HTTP requests to advertising domains
+
+In more serious cases, when a computer is infected with a large number of different types of spyware, reinstalling the operating system may be the only available option.
+
+Well-known Spyware Programs:
+
+Some of the most notorious spyware applications and packages that have been identified include
+
+1. CoolWebSearch – which directs traffic to advertisements on websites such as http://coolwebsearch.com
+2. Internet Optimizer – which redirects Internet Explorer error pages to advertising
+3. 180 Solutions – which transfers information to advertisers about the surfing habit of a user
+4. HuntBar (or WinTools): which is an example of how spyware programs can install more spyware
+
+Spycheckers:
+
+In order to battle the spyware threat that has invaded the computing world, concerned programmers have come up with several anti-spyware software programs and spycheckers. These applications are designed to eradicate or block the malicious spyware programs, by cleaning an infected system and prevent new infestations with real-time protection. Spycheckers have now become one of the most downloaded programs on the internet.
+
+Some of the popular, most effective anti-spyware tools and spycheckers include
+
+1. Steve Gibson's OptOut
+2. Patrick Kolla's Spybot - Search & Destroy
+3. InterMute's SpySubtract Pro,
+4. Windows AntiSpyware beta or Windows Defender
+5. Webroot Spy Sweeper
+6. iS3's STOPzilla
+7. McAfee's AntiSpyware,
+8. ParetoLogic's XoftSpy
+9. Sunbelt's CounterSpy
+10. Trend Micro's Anti-Spyware
+11. PC Tools' Spyware Doctor
+12. Allume Systems' Internet Cleanup,
+13. Computer Associates' ETrust PestPatrol Anti-Spyware
+14. Aluria Software's Spyware Eliminator,
+
+Spychecker functions and anti-spyware features, often known as “extended threats”, have also been incorporated by many major anti-virus companies, such as Symantec and McAfee, to their existing anti-virus programs.
+
+

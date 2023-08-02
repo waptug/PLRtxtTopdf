@@ -1,0 +1,28 @@
+Title: 
+New Early Warning System Uses Artificial Intelligence
+
+Word Count:
+331
+
+Summary:
+Rather than risk more human lives in the ongoing war against terrorism, advances in computer technology are enabling contractors to create remote-controlled machines to do reconnaissance and risk management.
+
+
+Keywords:
+New Early Warning System Uses Artificial Intelligence
+
+
+Article Body:
+Rather than risk more human lives in the ongoing war against terrorism, advances in computer technology are enabling contractors to create remote-controlled machines to do reconnaissance and risk management.
+
+Created by H7 Security Systems Inc., a wholly owned subsidiary of Global General Technologies, the Silent Soldier is an advanced early warning system that applies artificial intelligence to threat detection and prevention. It uses intelligent video surveillance to detect movement and track the source, then determine whether it is human or machine and whether it's a threat.
+
+This system is part of a growing number of artificially intelligent machines that use automated decision-making in the field. Silent Soldier makes its own assessment of the problem, based on decision parameters provided by its programmers, then sends the information to the command center in the form of video. Proper personnel can then use the information to take action.
+
+Designed for the protection of mission-critical assets, Silent Soldiers are cameras set on tripods that adjust to the terrain and allow them to move up or down as the situation dictates. For protection, the lead unit is provided with information about the area and uses that information to instruct other units on where to focus their attention. The individual units can be controlled by wireless, satellite or other Internet Protocol-based communication technologies, and video can be retrieved from them or forwarded as necessary.
+
+The system includes intelligent communication nodes that enable the units to communicate peer to peer and collectively form a decision if a threat is present. The units, set up in a stationary formation in areas of concern, share the same bandwidth. Each system also generates a heartbeat, or signal, which is created while the unit is operating, so that other units can tell if there has been a disruption or another system has been disabled.
+
+H7 developed the Silent Soldier for a variety of applications, including maximizing surveillance and mission-planning for oil and gas installations, border surveillance, seaport entry terminals and military installations.
+
+

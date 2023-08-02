@@ -1,0 +1,129 @@
+Title: 
+SEO Fundamentals
+
+Word Count:
+2828
+
+Summary:
+There are many articles written about keywords and linking but this article is different.  In this article I walk you through the main elements of SEO and good web design.  There are many parts to SEO but they should all start with good solid and simple SEO design.  This article is for people who want to understand what SEO principles should be taken into account before a word even hits the page.  Improve your website from the ground up.
+
+
+Keywords:
+Search Engine Optimisation, SEO Web Design, Websites, Web Site Designers, SEO Websites
+
+
+Article Body:
+Introduction:
+Firstly, thank you for taking the time to view my SEO hints and tips e-book on the often forgotten aspects of SEO. This book was written from the collective knowledge and information gathered by Chris Diprose, owner and manager of Kanga Internet. Kanga Internet are located in Melbourne, Australia and they focus on Search Engine Optimization (SEO) and Web Development for the Joomla Content Management System (CMS).
+
+With Search Engine Optimization there are lots of unknowns, educated guesses and knowledge gained from personal and associative experience. Google, Yahoo and MSN keep their cards close to their chest when it comes to revealing how their ranking systems actually work. They tell the community trickles of information on what things can affect search engine results, how they can be improved and what to do in certain situations, but mostly knowing what to do to achieve good results is achieved by studying and hard work. Much alike other SEO consultants I have gathered information from various sources and worked constantly on improving results for customers. I am always looking for new intelligent ways to improve search engine results. I believe in "White Hat" (or more appropriately, "Grey Hat") principles.
+
+Edition 1 of this e-book is intended for people looking to improve their websites from the ground up. I address SEO design fundamentals; the things you need to consider before embarking on any text and keyword analysis. I hope you find these hints and tips useful.
+
+Enjoy the readings herein.
+- Chris Diprose
+
+The Website Revelation – What owning a website actually means.
+As a Web Developer and SEO consultant I deal with many existing website owners who are looking to modify or improve their website. I also deal with many people who are looking to start their web presence with a new website. Through both of these interactions there is often a common theme; a misunderstanding or an attitude. I call this a misconception of reality, as often the reality of what the Internet can actually do for the persons business and what they think it can do differ massively.
+
+Often it is presumed that by simply owning a domain and having a website built and published on the Internet, thousands of people will magically find the website, visit it and buy their products. "If you build it, they will come" should be removed from the vocabulary as soon as possible if you are to adjust attitudes to the underlying search technology. As a businessman in the real World, it is obvious that it would not happen outside of the Internet ether, so what is so different online? Maybe it was the Technology boom 10 years ago that caused a rift in understanding or maybe the buzz that caused the meteoric rise in the stock prices of Tech Companies, I can hear the thoughts of the small businessman, "surely this can be replicated for my business" – in answer I would say, "well, it is unlikely, but you should be able to achieve some results over time".
+
+It is most important when taking on a project like Search Engine Optimization for a website, to know that it is important to be committed for the long haul. It is no small task and sufficient funds need to be allocated to the project. Delivery deadlines need to be correctly scoped against required changes, in order to meet client expectations. The key points of responsibility to the SEO project are in knowing that there are big changes near the start and during setup but the changes do not stop after setup, there are a continuous ongoing refinements to the design and system over time. In this regard I find it important to manage expectations and set realistic long term goals on what a website can be expected to achieve and in what time frames those goals hope to be met.
+
+So what should your goal be when you are delving into SEO for your website? Well, everyone’s goal is exactly the same; improve page rankings, improve page visits and hits and finally gain more sales through the website.
+
+When it comes to SEO and achieving these goals you have to have principles and my main principle is, "Good websites get good ratings and bad websites get bad ratings or none at all." As time goes on with the improvement of search engine technology and the refinement of search engine results this statement becomes truer and truer. I believe in results through "white hat"(reads; "Grey Hat") principles and methodologies.
+
+What are "white hat" principles? I guess I would compare it to doing things the honest way and the right way without risk. So develop a good site, promote good linking, have good informative content and keep working on it and then you are on the road to good rankings through "White Hat" principles.
+
+So, why should you do things the "white hat" way? Well, search engines do have some kind of understanding, an artificial intelligence. They soon catch on to websites spamming or linking to websites with no relevance and bad cross linking. It’s about being smart, in for the long term and wanting your business to grow organically, naturally.
+
+So how do I go about improving my site and making it optimized for search engines naturally? Well, that’s why you’re here! So let’s run through few of the things you should be doing in your websites from a fundamental level.
+
+Domain names:
+When choosing a domain name, choose one that is relevant to the product or service you are going to provide and that is as simple as possible. There are considerations of branding and product/service provided that should go into this choice. Involvement of marketing personal and product understanding is required but also consultation with your SEO professional is advantageous. In this step I would say, take some time and choose wisely. Keep it simple and easy to remember, often saying it out loud will make it clear whether it can be understood by a simple man.
+
+It is a strongly held belief by many SEO professionals that buying a domain which is older, and that has been around for a while, means it will not be sand boxed by Google. What’s the sandbox effect? Well, it refers to what Google does to a website or domain that is new or is relatively unknown by Google. In many instances Google’s Sandbox effect relegates the new domain to sub-optimal inclusion in search results. Regardless of the sites optimization it lowers the websites relevance and ranking to the term searched upon. If you can use your old business domain name, then consider this very important.
+
+If, however, you are buying a new domain name then keep it relevant to the product or service being sold or offered on the website. Keep it close, relevant and simple. Relevance is primary.
+
+Location specific domain or international domain ( .com or com.au)? Personally I think dot com’s are better, mainly because they appeal Internationally but if you want to you can keep it location specific and to your region then consider purchasing all similar higher level domains, yourdomain.com and yourdomain.com.au, if you can.
+
+Choosing a Host:
+Fast, reliable and gives you all you that you need and want. Preferably gives a unique IP. Again some SEO professionals believe this can also have a detrimental affect in Google rankings but from my experience it sometimes does and it sometimes doesn’t. I have had some sites come in with high PR rankings on shared IP’s and others when I shifted to a new IP the PR of the site jumped, so this is still a bit of a mystery when it comes to Google rankings. I guess a consideration
+
+Traffic considerations: When choosing your host ensure the plan you are on can be expanded so that any new increases in traffic can be accommodated accordingly.
+
+Site Design:
+There are several fundamental things to consider when you are modifying or designing a website.
+
+Flash:
+Flash is has been popular for a few years now and I truly believe it has its place. It is a great way of showing many products or services in a small area, has great visual impact if done properly and can set a good friendly tone to the website visitor. Having said that, I also hate flash; it can be an absolute nightmare when it comes to search engine optimization.
+
+What you should know about flash; it cannot be read by a search engine as the search engine cannot read the text or the images contained within it nor can it interpret what is in the pictures being shown.
+
+When it comes to flash I would suggest, not making your whole website flash. If you are designing a new website and you want to use flash then use it in high impact areas to capture the attention of your intended audience but use it sparingly. It is important to ensure that as much text content(to a maximum discussed in my next book, generally 300-500 characters) is available on the webpage and in simple HTML.
+
+Frames:
+Many older websites were designed with frames. Frames are where the main home page is actually a frameset page that includes several other pages into it. This makes the page hard to index in search engines and should be avoided. While Google do now index framed sites, it is important to note that most of the other top search engines still cannot follow frame links. They only see the frameset page and ignore the rest of the inner frames. This presents an SEO problem to us because it is highly likely those inner pages contain our content keywords.
+
+Nowadays this is not really a huge issue as it is so uncommon for a designer to actually use frames but the easiest way to resolve the issue would be to enforce a no use policy on frames.
+
+Page Layout:
+According to research the Googlebot trawls web pages from left to right and top to bottom. So given this little tidbit of information it is clear that you should be putting our most valuable keywords and information on the left and near the top. Of course this is a blanket statement and does not take into account design principles and beautification. Just keep it in mind during design of page layout. Position your move relevant keywords to the left of the page and near the top.
+
+Good HTML Coding:
+A lot of HTML generator programs out there bloat HTML to the point it is 3-4 times larger than what it would be if you hand coded it. Keep it simple, use a text editor, edit your HTML the old school way; until there is a HTML generator tool worthy of use. If you can’t code HTML then do a search on the Internet and find a decent, free, e-book and learn how to do it.
+
+Javascript:
+This is very popular among many web development professionals for menu’s, popups, scollers etc etc. It would be my suggestion to use simple plain HTML menu’s or as little Javascript as possible in web pages. There are many small JavaScript menu’s out there that are slim on JavaScript code to reduce this issue and make it almost negligible. Don’t over clutter your site with JavaScript as it increases page size, page load times and the search engines won’t understand it.
+
+Image Sizes:
+Keep them small and use only what you need to. This is essential for decreasing page loading times and getting information onto the users screen as soon as possible.
+
+Overall page size and loading:
+The overall page size is an important factor. It should load quickly and be easily trawled. If you have followed the HTML hand coding, used minimal javascript, used simple table layouts and good image sizing then you should be fine. There is much evidence that supports the fact that Google and probably the other search engines also, do not like to scan huge files, so keeping your overall HTML page size below 25k is my suggestion.
+
+Dynamic URL’s & page/file names:
+Dynamic pages are roadblocks to high search engine positioning. Especially those that end in "?" or "&". In a dynamic site, variables are passed to the URL and the page is generated dynamically, often from information stored in a database as is the case with many e-commerce sites. Normal .html pages are static - they are hard-coded, their information does not change, and there are no "?" or "&" characters in the URL.
+
+Pages with dynamic URLs are present in several engines, notably Google and AltaVista, even though publicly AltaVista claims their spider does not crawl dynamic URLs. To a spider a "?" represents a sea of endless possibilities - some pages can automatically generate a potentially massive number of URLs, trapping the spider in a virtually infinite loop.
+
+As a general rule, search engines will not properly index documents that:
+• contain a "?" or "&"
+• End in the following document types: .cfm, .asp, .shtml, .php, .stm, .jsp, .cgi, .pl
+• Could potentially generate a large number of URLs.
+To avoid complications, consider creating static pages whenever possible, perhaps using the database to update the pages, not to generate them on the fly.
+
+Slightly Off Topic Thoughts:
+The topics covered here are not considered completely SEO topics but in terms of overall objective – increasing sales, this section is very important. Take these things on board, consider them, consult with your designer and marketing team. Make educated and informed choices on these topics when considering your audience and what your website objectives are.
+
+Screen Size:
+Over 65% of all screens in the World are set to run at the 1024x768 resolution. Of the remaining percentage, 13% are running at 800x600, 20% running at larger sizes and 2% are unknown. So this affects the way you design. It would be my suggestion to always design for the smallest user to visit your site, but often I find 800x600 restrictive so I tend to design for slightly larger. Not large enough to make an 800x600 user angry but large enough to make it look good on larger screens also. I weigh up my target users, my intended amount of content and find some happy medium. I generally design for 1000x620 as this is the perfect amount of real estate for a 1024x768 user when they have the browser top bar and status bar and Windows taskbar.
+
+colors and themes:
+One important aspect of marketing - selling - is the use of color. Meanings are attached to colors in the same way meanings are attached to words.
+
+• Gold is the color of wealth and prosperity.
+• White is the color of pure innocence and cleanliness.
+• Pink is the color of femininity and softness.
+• Green is the color of natural things and freshness.
+• Red is the color of danger and stress.
+• Blue is the color the calmness, intelligence. The majority of the World selects blue as a favorite color. It often represents "trust"
+
+Use of color to establish an image or a brand is common in the marketing community, yet when you visit the websites of many search engine optimization professional’s, it's obvious that color significance plays no part in their own web optimization. Some of the colors I found on SEO websites:
+• Baby Blue, a color which implies weakness.
+• Red, a color which implies risk, or danger.
+• Orange a color which implies a cheerful "levity". Orange is one of Americans’ least favorite colors.
+
+Although color selection is off topic for SEO I would consider it a very important factor in what SEO is trying to achieve, in the end, for your website – selling more product, creating loyalty to your brand and customer impact. color research is something you should seriously consider. In summary of color choices I would suggest studying and learning more about your customers, researching color choices and their relevance to your underlying products and making informed choices on these in collaboration. If in doubt then I suggest sticking to safe and trusted colors within safe eye pleasing designs.
+
+Gifs for logos & jpgs for pictures:
+Ensure you are using gifs for logos and background placements and jpgs for photos on your website. This helps reduce size and improve clarity of the web site overall.
+
+Browser:
+It is vitally important to ensure your web page works in both IE, Firefox and Opera. Testing other browsers is also an advantage but these are the main three in use nowadays (2007). I think quoting stats on the browser breakdown are irrelevant as you need it work in all browsers. W3C cross browser compliance is great for this.
+
+So, this brings us to the end of Volume 1: Fundamentals of SEO Web Design. There are many things to consider when designing a website or modifying a web site to make it more SEO friendly. Clearly I have a few more volumes left in SEO for websites.
+
+

@@ -1,0 +1,40 @@
+Title: 
+Adobe Photoshop Brushes Techniques
+
+Word Count:
+320
+
+Summary:
+Brushes are the core component of many tools in the toolbox, and confident brush handling is essential for the effective application of these. You need to master brushes because this gives you many ways in which you can use and edit brushes will equip you with a whole new set of skills, and give you access to a wide range of powerful and creative time-saving techniques.
+
+The Brush Preset picker will help you to find the right brush fast so make the most of it
+
+With some P...
+
+
+Keywords:
+photoshop,adobe,tutorials,paint,photography,photoshop 7,photoshop cs,photoshop tips,photoshop tricks
+
+
+Article Body:
+Brushes are the core component of many tools in the toolbox, and confident brush handling is essential for the effective application of these. You need to master brushes because this gives you many ways in which you can use and edit brushes will equip you with a whole new set of skills, and give you access to a wide range of powerful and creative time-saving techniques.
+
+The Brush Preset picker will help you to find the right brush fast so make the most of it
+
+With some Photoshop tools, such as the Clone Stamp, the Brush Preset picker is used simply to edit the tool’s brush size, softness and opacity.
+
+Because the Clone Stamp’s function is to subtly replace one area of pixels with another, you don’t need its brush tip to be shaped like a rubber duck, for example!
+
+However you can use the Brush Preset picker to arm yourself with a variety of creatively-shaped brushes, should your project require them. Working smarter with the Brush Preset picker means maximising its potential. If you’re not already familiar with this interface.
+
+The Brush Preset Picker
+
+Click on the Brustic to open the Brush Preset picker, and scroll down to see the default set of brushes.
+
+Towards the foot of the list of default brushes you’ll find a variety of unusually-shaped brush tips, including brushes shaped like stars and blobs.
+
+Click on the picker’s menu icon to access other, specialised sets of brushes. You can use the picker’s menu to display a thumbnail of the brush stroke, or set it to show the brush tip and name.
+
+The numerical value indicates the brush’s initial diameter in pixels. You can customise this to suit your requirements. When you select a new set of brushes, you can either replace the existing default set or append the new set to it so you can use both.
+
+

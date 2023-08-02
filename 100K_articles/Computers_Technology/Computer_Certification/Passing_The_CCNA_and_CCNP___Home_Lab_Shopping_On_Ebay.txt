@@ -1,0 +1,35 @@
+Title: 
+Passing The CCNA and CCNP:  Home Lab Shopping On Ebay
+
+Word Count:
+622
+
+Summary:
+Assembling your CCNA and CCNP home lab on ebay is an exciting time and one of the best career moves you’ll ever make.  Chris Bryant, CCIE #12933, offers tips and advice on doing so without paying too much.
+
+
+Keywords:
+ccna, ccnp, ccie, home, lab, ebay, shopping, cisco, router, switch, pass, free, cable, buy, frame, relay, cloud, isdn, nat, free
+
+
+Article Body:
+Whether you're just getting ideas for your Cisco home lab or adding to your existing lab, ebay is a great place to get ideas for your lab as well as pick up some great bargains.
+
+Of course, the internet being what it is, there are always going to be a few people looking to take your money while shipping you inferior merchandise, or worse, no merchandise at all.  While these "dealers" are in the minority, you still need to be careful when purchasing Cisco equipment on ebay.  In this article, I'll give you several tips on browsing ebay ads for home lab ideas, and a few things to look out for when purchasing equipment on ebay.
+For those of you just starting your Cisco certification pursuit, the idea of purchasing a home lab kit -- a set of routers, switches, and perhaps some cables and study guides -- seems like a good idea.  Instead of putting your lab together one piece at a time, these kits allow you to get a head start on your studies.
+
+One thing to watch out for in these kits is outdated equipment, or the inclusion of outdated study guides.  Often, vendors will use these kits as a way to get rid of unwanted inventory.  
+
+The Cisco 1900 family of switches falls into this category.  A recent search on ebay for "ccna lab" showed seven different CCNA lab kits that contained 1900 switches.  The problem here is that the current CCNA exams do not test on the 1900 switches, which are menu-driven and do not have an IOS.  You'll need to be well-versed with switches that do have an IOS, such as the 2950s.
+
+The plus side here is that you will probably save money by using 1900 switches.  If you're on a tight budget, having a 1900 switch is better than no switch at all.  If at all possible, though, get a Cisco switch with an IOS.
+The cables and transceivers included with these kits are generally exactly what you need to set up that particular kit, and this can be very helpful to those CCNA candidates who are new to the various cables needed to physically configure a home lab.  Just make sure you're not buying a kit with 10 transceivers (used on AUI ports) when you've only got two routers with Ethernet ports.
+
+Watch out for kits that include outdated study guides.  I've seen four-year-old CCNA books included with some kits.  If you already have your study guides, feel free to ask the vendor how much the kit costs without the books.
+That leads me to the most important point.  Get to know the vendor before buying anything.  Visit their website and check their ebay feedback.  If buying from an individual as opposed to a reseller, find out what conditions the router or switch has been kept in, and make sure to define the terms under which they will accept returns.  
+
+There's nothing wrong with buying equipment from someone who's selling their CCNA/CCNP/CCIE home lab, but just make sure you ask the right questions first.  Professional resellers generally have their return policy right in their ebay ad; if they don't, ask for a copy.
+
+Building your own CCNA and/or CCNP home lab is a little intimidating at first, but speaking as someone who has climbed the Cisco certification ladder from the CCNA to the CCIE, I can tell you that it is the best investment you can make in your career.  Use a little caution, ask the right question, and soon you'll be leaving the world of "router simulators" behind - and you'll be developing your skills as a true professional should:  On real Cisco routers and switches!
+
+

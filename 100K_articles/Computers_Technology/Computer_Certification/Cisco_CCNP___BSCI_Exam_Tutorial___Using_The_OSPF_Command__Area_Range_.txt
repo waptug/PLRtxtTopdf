@@ -1,0 +1,72 @@
+Title: 
+Cisco CCNP / BSCI Exam Tutorial:  Using The OSPF Command “Area Range”
+
+Word Count:
+408
+
+Summary:
+Knowing how to summarize OSPF routes is an important skill for your job and the BSCI exam!  Learn how to use the area range command to summarize OSPF routes from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccnp, ccna, bsci, exam, tutorial, ospf, summary, route, summarization, area, range, address, command, null, free, Bryant, advantage, 12933, chris
+
+
+Article Body:
+Your BSCI and CCNP exam success depends on knowing the details, and one such detail is knowing the proper way to summarize routes in OSPF.  Route summarization is not just a test of your binary conversion abilities, but knowing where and when to summarize routes.   It will not surprise any CCNA or CCNP certification candidate that OSPF gives us the most options for route summarization, and therefore more details to know!
+
+OSPF offers us two options for route summarization configurations.  In a previous tutorial, we looked at the "summary-address" command, and today we'll look at the proper use of the "area range" command.
+
+The "area range" command should be used on an Area Border Router (ABR) to summarize routes being advertised from one OSPF area to another.  In this tutorial, R1 is acting as an ABR, with interfaces in both Area 0 and Area 1.  Four loopbacks have been placed into R1's Area 1.
+
+R1(config)#router ospf 1
+
+R1(config-router)#network 12.0.0.0 0.255.255.255 a 1
+
+R1(config-router)#network 13.0.0.0 0.255.255.255 a 1
+
+R1(config-router)#network 14.0.0.0 0.255.255.255 a 1
+
+R1(config-router)#network 15.0.0.0 0.255.255.255 a 1
+
+The routing table of an OSPF neighbor, R2, shows all four routes.
+
+R2#show ip route ospf
+
+     12.0.0.0/32 is subnetted, 1 subnets
+
+O IA    12.12.12.12 [110/65] via 172.12.123.1, 00:18:52, Serial0
+
+     13.0.0.0/32 is subnetted, 1 subnets
+
+O IA    13.13.13.13 [110/65] via 172.12.123.1, 00:18:42, Serial0
+
+     14.0.0.0/32 is subnetted, 1 subnets
+
+O IA    14.14.14.14 [110/65] via 172.12.123.1, 00:18:32, Serial0
+
+     15.0.0.0/32 is subnetted, 1 subnets
+
+O IA    15.15.15.15 [110/65] via 172.12.123.1, 00:18:32, Serial0
+
+To keep the routing tables of downstream routers smaller but still have the desired IP connectivity, we can use the area range command on R1 to summarize these four routes.  The key to keep in mind with the area range command is that the area number given in the command is the area containing the destinations, NOT the area that will receive the summary route.
+
+R1(config)#router ospf 1
+
+R1(config-router)#area 1 range 12.0.0.0 252.0.0.0
+
+R2 now shows a single summary route that can be used to reach all four remote networks.
+
+R2#show ip route ospf
+
+O IA 12.0.0.0/6 [110/65] via 172.12.123.1, 00:00:21, Serial0
+
+Interestingly enough, there's now an additional route in R1's routing table.
+
+R1#show ip route ospf
+O  12.0.0.0/6 is a summary, 00:07:53, Null0
+
+
+When you configure summary routes in OSPF, a route to null0 will be installed into the OSPF routing table of the router performing the summarization.  This helps to prevent routing loops.  Any packets destined for the routes that have been summarized will have a longer match in the routing table, and packets that do not match one of the summarized routes but do match the summary route will be dropped.
+
+

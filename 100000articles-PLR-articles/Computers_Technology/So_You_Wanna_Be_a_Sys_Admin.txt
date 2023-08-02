@@ -1,0 +1,28 @@
+Title: 
+So You Wanna Be a Sys Admin
+
+Word Count:
+754
+
+Summary:
+This article provides information for those interested in a systems administration career.  It explains the daily operation and role of a systems administrator in the workplace.
+
+
+Keywords:
+sys admin, systems administrator, system administration, systems admin, computer administration, computer admin, computer administrator, computer specialist
+
+
+Article Body:
+So you wanna be a sys admin but you don’t have a clue what it entails.  Well, don’t fret my pet, I will cover the basis with you and educate you so you will make an informed decision.
+
+Most students start their college years off without a solid understanding of their course of study.  Book knowledge is great, but the real world is hands-on and you need to know the hands-on more than the books.  The books can guide you, give you information, and be a great resource or reference.  But, the grit of it all is from the experience and the years of knowledge.  I know you heard it all before.  
+
+So what does it take to be a systems administrator?  Well, it actually takes years of experience, but from the start, it should take passion.  You should enjoy the work of a sys admin.  The day to day operation of a sys admin consists of problem-solving, troubleshooting, maintenance, installation, configuration, and management of a wide range of systems.  Depending on your level of skill and the position which you have taken on, you may support multiple operating systems, such as: Linux, Unix, Windows, etc.  The truth of the matter is you should always stay well within your comfort zone when seeking employment, you can always teach yourself more advanced technologies as you progress in your area of expertise.  Staying within your comfort zone will make you a master of your domain and can expose you to new avenues of interest.
+
+Problems which may arise on a day to day as a sys admin can include system failures, application errors, hardware issues, server maintenance, data or system recovery, etc.  As a sys admin it is your job to keep all computer systems up and running at all times.  It is also your responsibility to monitor the systems before its point of failure and therefore perform preventative maintenance for the software and hardware of each system.  You are responsible for maintaining proper file structure, security permissions, systems upkeep, systems inventory, and systems functionality.  As a sys admin you are the front-line defense and you should take initiative in recommending software and hardware purchases for your organization.
+
+A sys admin job is not hard work as long as you have the right tools and you know how to use them.  A good sys admin uses tools to assist and aid in the proper maintenance of systems.  These tools can include remote administration tools, system/network monitoring tools, security tools, troubleshooting tools, disaster recovery tools, etc.  A good sys admin is also very resourceful and can usually find help or answers to even the most complex issues.  These resources include the internet, computer or technology books, peers, and developer support personnel.  An experienced sys admin knows how to multi-task and has the ability to tackle multiple issues in a cordial manner.  An experienced sys admin also knows how to handle stressful environments and situations, which is usually the nature of the business.  The burnout rate and stress levels of sys admin work has greatly diminished over the years as technology has become more advanced and the availability of tools and resources increased, but the job of a sys admin still has its days and can still be stressful or overwhelming for the novice.  The best way to alleviate or reduce stress in the workplace is to take a break and relax your thoughts.  Let your mind go free and take a deep breathe.  Come back into your work area with a fresh mind and prepared to tackle the problems one at a time.  Always remember computers can only do what a human has told it to do!  So, if there is a problem then logically thinking will possibly find the answer.  A computer does not have a mind of its own, so something logical has caused it to fail.
+
+A systems administrator job is never done, there is always room for improvement in any organization.  Most companies are flying by the seat of their pants and are at the mercy of their sys admins.  The sys admin is usually an unseen force in the company (in the eyes of the clients/customers), because a sys admin operates in the background, behind the scenes.  Though, being an unseen force, the company’s success and overall existence depends greatly on the work of the sys admin.  Without proper maintenance and management of a company’s computer systems there is no telling where that company would be!
+
+

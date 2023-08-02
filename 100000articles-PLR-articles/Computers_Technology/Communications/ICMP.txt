@@ -1,0 +1,33 @@
+Title: 
+ICMP
+
+Word Count:
+252
+
+Summary:
+ICMP or Internet Control Message Protocol is a network protocol used in Internet Protocol (IP).
+
+
+Keywords:
+ICMP
+
+
+Article Body:
+ICMP is a required element to implement Internet Protocol. ICMP is a control protocol which means that it does not carry any application data, but data about the status of the network itself. ICMP is used to report: 
+
+- Errors in the core communications of the network applications 
+- Availability of remote hosts 
+- Network traffic and congestion
+
+Technical details:
+
+Internet control message protocol is part of the Internet protocol suite as defined in RFC 792. ICMP messages are generated in response to errors in IP (as specified in RFC 1122) or for diagnostic or routing purposes.
+
+ICMP messages are generated at the IP layer. Though ICMP messages are transferred within normal IP datagrams, ICMP messages are usually processed as a special case, different from the usual IP processing. In many scenarios, it is essential to inspect the data contained in the ICMP message and output the correct error message to the application which generated the original IP packet.
+Many commonly used network utilities are based on ICMP messages:
+
+The best known example of using ICMP is the ping function, which uses ICMP to query remote hosts for response and overall server latency. The ping function is implemented using the ICMP "Echo request" and "Echo reply" commands.
+
+ICMP also supports the traceroute command, which is used to identify intermediate “jumps” between a given client and server. The trace route command is implemented by transmitting UDP datagrams with specially set IP header fields, while looking for the total time taken for the response to reach the original transmitter.
+
+

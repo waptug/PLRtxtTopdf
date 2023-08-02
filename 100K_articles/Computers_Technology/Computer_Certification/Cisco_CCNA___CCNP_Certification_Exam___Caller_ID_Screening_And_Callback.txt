@@ -1,0 +1,119 @@
+Title: 
+Cisco CCNA / CCNP Certification Exam:  Caller ID Screening And Callback
+
+Word Count:
+683
+
+Summary:
+To pass Cisco certification exams, you have to know more than one way to do things.  Learn another method of configuring ISDN callback from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+ccnp, bcran, pass, free, caller, id, callback, ppp, isdn, cisco, certification, exam, ccie, ccna
+
+
+Article Body:
+As a CCNA and/or CCNP candidate, you've got to be able to spot situations where Cisco router features can save your client money and time.  For example, if a spoke router is calling a hub router and the toll charges at the spoke site are higher than that of the hub router, having the hub router hang up initially and then call the spoke router back can save the client money (and make you look good!)  
+
+A popular method of doing this is using PPP callback, but as we all know, it's a good idea to know more than one way to do things in Cisco World!  A lesser-known but still effective method of callback is Caller ID Screening & Callback.  Before we look at the callback feature, though, we need to know what Caller ID Screening is in the first place!
+
+This feature is often referred to simply as "Caller ID", which can be a little misleading if you've never seen this service in operation before. To most of us, Caller ID is a phone service that displays the source phone number of an incoming call.  Caller ID Screening has a different meaning, though.  Caller ID Screening on a Cisco router is really another kind of password - it defines the phone numbers that are allowed to call the router.  
+
+The list of acceptable source phone numbers is created with the isdn caller command.  Luckily for us, this command allows the use of x to specify a wildcard number.  The command isdn caller 555xxxx results in calls being accepted from any 7-digit phone number beginning with 555, and rejected in all other cases.  We'll configure R2 to do just that and then send a ping from R1 to R2.  To see the results of the Caller ID Screening, debug dialer will be run on R1 before sending the ping.  I’ve edited this output, since the output you see here will be repeated fire times – once for each ping packet.
+
+R2(config-if)#isdn caller 555xxxx
+
+R1#debug dialer
+
+Dial on demand events debugging is on
+
+R1#ping 172.12.12.2
+
+Type escape sequence to abort.
+
+Sending 5, 100-byte ICMP Echos to 172.12.12.2, timeout is 2 seconds:
+
+03:30:25: BR0 DDR: Dialing cause ip (s=172.12.12.1, d=172.12.12.2)
+
+03:30:25: BR0 DDR: Attempting to dial 8358662.
+
+Success rate is 0 percent (0/5)
+
+
+R1 doesn't give us any hints as to what the problem is, but we can see that the pings definitely aren't going through.  On R2, show dialer displays the number of screened calls.
+
+R2#show dialer
+
+BRI0 - dialer type = ISDN
+
+Dial String      Successes   Failures    Last DNIS   Last status
+
+8358661                  1          0    00:03:16       successful
+
+7 incoming call(s) have been screened.
+
+0 incoming call(s) rejected for callback.
+
+The callback option mentioned in the last line shown above enables the router to reject a phone call, and then call that router back seconds later.
+
+R2 will now be configured to initially hang up on R1, and then call R1 back.  
+
+R2(config-if)#isdn caller 8358661 callback
+
+R1 will now ping R2.  The pings aren't returned, but seconds later R2 calls R1 back.
+
+R1#ping 172.12.12.2
+
+Success rate is 0 percent (0/5)
+
+R1#
+
+03:48:12: BRI0: wait for isdn carrier timeout, call id=0x8023
+
+R1#
+
+03:48:18: %LINK-3-UPDOWN: Interface BRI0:1, changed state to up
+
+R1#
+
+03:48:18: BR0:1 DDR: dialer protocol up
+
+R1#
+
+03:48:19: %LINEPROTO-5-UPDOWN: Line protocol on Interface BRI0:1, changed state to up
+
+R1#
+
+03:48:24: %ISDN-6-CONNECT: Interface BRI0:1 is now connected to 8358662 R2
+
+show dialer on R2 shows the reason for the call to R1 is a callback return call.
+
+R2#show dialer
+
+BRI0 - dialer type = ISDN
+
+Dial String      Successes   Failures    Last DNIS   Last status
+
+8358661                  3          0    00:00:48       successful
+
+7 incoming call(s) have been screened.
+
+10 incoming call(s) rejected for callback.
+
+BRI0:1 - dialer type = ISDN
+
+Idle timer (120 secs), Fast idle timer (20 secs)
+
+Wait for carrier (30 secs), Re-enable (15 secs)
+
+Dialer state is data link layer up
+
+Dial reason: Callback return call
+
+Time until disconnect 71 secs
+
+Connected to 8358661 (R1)
+
+The drawback to Caller ID Callback is that not all telco switches support it, so if you have the choice between this and PPP Callback, you're probably better off with PPP Callback.  However, it's always a good idea to know more than one way to get things done with Cisco!
+
+

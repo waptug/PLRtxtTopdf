@@ -1,0 +1,53 @@
+Title: 
+Evaluating a Design Slicing Service
+
+Word Count:
+727
+
+Summary:
+If you work for yourself, outsourcing has no doubt crossed your mind. It’s something that requires a decision sooner or later. Whether your preference is to defer to another designer, outsource entirely, or simply turn work away - the question remains.
+
+
+Keywords:
+xhtml css coding converting psd png design integration cms wordpress drupal vbulletin ipb joomla typo3
+
+
+Article Body:
+If you work for yourself, outsourcing has no doubt crossed your mind. It’s something that requires a decision sooner or later. Whether your preference is to defer to another designer, outsource entirely, or simply turn work away - the question remains.
+
+One option designers now have is that of partial outsourcing to any one of a growing list of coding services that have sprung up in the past year or so. But how do you make the determination which firm to go with? Well, figuring that out has been on my mind this week, so I thought I’d share my selection criteria.
+
+
+<h1>Judging quality</h1>
+
+First, is the site in question easy to use? Is it designed well - and more importantly, CODED well? As a service seller, your site IS your portfolio above any other work you decide to showcase. Your outsource must play by the same rules. Poke around under the hood of their site. Does the code measure up to their claims? What about any client work they have listed?
+
+
+<h1>Gaging responsiveness</h1>
+
+Before you upload a file or spend a dime, email them a couple questions. If you don’t hear back from them in 24 hours, they’re not your best bet. You need someone who can crank out quality work, but you also need reliability. If they’re promising delivery times of 8-12 hours, but they can’t answer a simple email, getting your code on time becomes a valid concern. Many of the services I reviewed had live chat available via Skype or Yahoo. This speaks volumes about their willingness to provide good customer service/support.
+
+On a sidenote, I recently contacted a company called Stoodeo, to see what they were all about. Because their main selling point is discretion, there’s very little info on their site, and no testimonials or recent projects, save one. I sent an email briefly outlining an upcoming project, along with a few questions. That was three days ago and I still haven’t heard from them. A response time like that (without at least an auto-email) is disgraceful. I’ve already dismissed them as someone to do business with.
+
+
+<h1>Protective measures</h1>
+
+One of the main concerns about contracting a secondary source is transparency, and with it - confidentiality. Does the service your considering have a privacy policy? If not, proceed at your own risk. I’m not saying Company X is going to rip your stuff, contact your clients without permission, or do any other despicable thing you might worry about when outsourcing… but if there’s nothing in writing… well you see where I’m going with that.
+
+
+<h1>Pricing and time-lines</h1>
+
+The big question is always “what’s it gonna cost me?” Well, here are a few more questions to ask while you’re shopping:
+
+    * Are their prices listed, and are they competitive?
+    * Do they offer any discounts for subsequent pages?
+    * Do they offer different time-lines? Can you get deliverables cheaper from Company A for a 12-18 hr turn-around, as opposed to only one option of 8 hours from Company B? (Sometimes there’s no hurry, why spend more?)
+
+Also, be wary of someone who does not list their prices at all, or who wants you to request a quote. As designers, we must quote projects based on the given parameters, but a coding service? Design slicing is an assistive service specializing in expedited code! Providers don’t have to give any thought to UI, dance around client demands, or build out content. They don’t need to worry about client branding, site goals or file structures. All they must do is follow an approved concept, along with your notes. Asking designers to request a quote negates the point of the service in my opinion, especially if you need it yesterday.
+
+
+<h1>Where to look</h1>
+
+Because this guide is intended to help you evaluate a coding service, it would not be complete without a list for you to review on your own. I looked through 15-20 sites, and those that stood out were <a href="http://www.deslice.com/order.slice" title="XHTML CSS PSD Design Coding Service">DeSlice</a> and W3-Markup. All two have their prices clearly posted, a privacy policy in effect, and readily available ways to reach them if you have questions. Good luck with your choice.
+
+

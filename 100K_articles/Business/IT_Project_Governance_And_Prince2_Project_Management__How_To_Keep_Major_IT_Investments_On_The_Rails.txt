@@ -1,0 +1,61 @@
+Title: 
+IT Project Governance And Prince2 Project Management: How To Keep Major IT Investments On The Rails
+
+Word Count:
+1081
+
+Summary:
+IT project governance has emerged as one of the most vital corporate responsibilities. With technology at the heart of most businesses, the ability to maintain tight executive and board control over major IT projects throughout their lifecycle has become a deciding factor in determining which businesses thrive and which founder. Prince2 project management has emerged as the world’s leading methodology for ensuring that IT projects stay on track and deliver real value.
+
+
+Keywords:
+Prince2, Prince 2, project governance, project management, system development
+
+
+Article Body:
+In today’s fast-changing information economy, IT project governance has emerged as one of the most vital corporate responsibilities. The relentless pressure to innovate whilst simultaneously driving down costs means that organisations are increasingly ‘betting the farm’ on the successful development and deployment of new IT systems. However, the business environment now evolves so quickly that the original assumptions on which projects were based can often become fatally undermined prior to the projects’ completion. With technology at the heart of most businesses, the ability to maintain tight executive and board control over such projects throughout their lifecycle has become a deciding factor in determining which businesses thrive and which founder. In response to this challenge, Prince2 project management has emerged as the world’s leading methodology for ensuring that IT projects stay on track and deliver real value.
+
+No large scale or business critical project should ever be managed on a standalone basis. The need to involve and secure buy-in from functions right across the organisation means that a project governance approach is essential. While project management is the key discipline within this, project governance is broader in scope and has six interlinked objectives:
+1. Ensuring real business value through project and business alignment.
+2. Controlling costs through centralisation.
+3. Maximising resource allocation, particularly of high value resources.
+4. Risk management through portfolio balancing.
+5. Uniform application of best practice.
+6. Organisational coherence.
+
+IT decisions expose an organisation to significant risks – financial, operational and competitive – so it is essential that project governance be a concern for the board as a whole, rather than any one individual. The board must insist that project risks are assessed within the organisation’s strategic planning and risk management framework and ensure that the right investment and management decisions are made, so that competitive advantage can be enhanced and measurable business value delivered.
+
+The board’s project governance responsibilities can be summarised as follows:
+•	To approve product initiation, manage the project portfolio and pull the plug on any underperforming projects.
+•	To make one or more non-executive board members specifically responsible for overseeing project governance. They must have independent and informed oversight of progress on all business IT projects – including attending program (or large project) board meetings.
+•	To ensure clear accountability at all levels, with detailed, rigorously tested project plans based on a critical path analysis with clearly identified critical success factors, regular milestones and ‘go/no go’ checkpoints.
+•	To ensure that every project proposal contains a full business case with a fully costed estimate that can stand up to independent audit, with clearly stated assumptions that can withstand rigorous analysis. 
+•	To manage all IT related projects as part of a portfolio.
+•	To adopt and deploy a recognised project management methodology.
+•	To adopt a clearly defined risk management plan at programme and project level that reflects corporate level risk treatment requirements.
+•	To institute a monitoring framework to inform the board of progress and provide an early alert of divergence or slippage in any of the critical success factors.
+•	To commit funding only on a phased basis.
+•	To ensure that internal audit is capable and accountable directly to the board for providing regular, timely and unambiguous reports on project progress, slippage, budget, requirements specification and quality requirements. Where there is project divergence the board should not release further funds until the cause of the divergence has been fully dealt with.
+
+In selecting a project management methodology the organisation needs to choose an approach that is appropriate to its project objectives and development environment. By far the most popular methodology is Prince2, the successor to PRINCE ('Projects in Controlled Environments'), which was developed by the UK Office of Government Commerce. While PRINCE was originally developed for IT projects, Prince2 project management has incorporated substantial feedback and is now a generic, best-practice approach for all types of projects. Since its introduction in 1989, Prince2 project management has become widely used in both the public and private sectors and is now a de facto global standard.
+
+Prince2 project management uses a structured methodology, which means managing a project in a logical and organized way, following clearly defined steps and well-understood roles and responsibilities. It perfectly matches the requirements of a project governance regime by delivering the following attributes to any project:
+•	A controlled and organised start, middle and end
+•	Regular reviews of progress against plan and against the business case • Flexible decision points
+•	Automatic management control of any deviations from the plan
+•	The involvement of management and stakeholders at the right time and in the right place during the project
+•	Good communications channels between the project, project management, and the rest of the organisation.
+
+The effectiveness of Prince2 project management results from its four cornerstones, which define what a successfully managed project should be:
+
+Planned: Prince2 has a series of processes that cover all of the activities needed on a project from starting up to closing down. This process-based approach provides an easily tailored and scaleable method for the management of all types of project. Each process is defined with its key inputs and outputs together with the specific objectives to be achieved and activities to be carried out.
+
+Controlled: Prince2 project management divides a project into manageable stages, enabling efficient control of resources and regular progress monitoring throughout. The various roles and responsibilities for managing a project are fully described and are adaptable to suit the size and complexity of the project, and the skills of the organisation.
+
+Results-driven: Project planning using Prince2 is product-based, which means the project plans are actually focused on delivering results and are not simply about planning when the various activities on the project will be done.
+
+Measured: Any project using Prince2 is driven by the business case, which describes the organisation’s justification, commitment and rationale for the deliverables or outcome. The business case is regularly reviewed during the project to ensure the business objectives, which often change during the lifecycle of the project, are still being met.
+
+There are clear reasons why Prince2 project management has become the world’s leading methodology. In addition to its best practice approach for the management of all project types, around 800 people per week take Prince2 project management examinations, with all training is carried out by accredited organisations. It is widely used and popular in both public and private sectors, and can easily be tailored to all varieties of projects in many different markets and businesses. For any organization that is serious about managing its IT investment, Prince2 project management is the natural choice.
+
+

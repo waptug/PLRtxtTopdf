@@ -1,0 +1,34 @@
+Title: 
+CCNP / BCMSN Exam Tutorial: VLAN Trunking Protocol (VTP)
+
+Word Count:
+425
+
+Summary:
+To pass the BCMSN exam, you’ve got to know the ins and outs of VTP.  Review the basics and get ready for CCNP exam success with Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccnp, exam, tutorial, free, vlan, vtp, exam, pass, server, transparent, client, mode, vlan, create, delete, modify
+
+
+Article Body:
+Passing the BCMSN exam and getting one step closer to the CCNP certification means learning and noticing details that you were not presented with in your CCNA studies. (Yes, I know – you had more than enough details then, right?)   One protocol you’ve got to learn more details about is VTP, which seemed simple enough in your CCNA studies!  Part of learning the details is mastering the fundamentals, so in this tutorial we’ll review the basics of VTP.
+
+
+In show vtp status readouts, the "VTP Operating Mode" is set to "Server" by default.  The more familiar term for VTP Operating Mode is simply VTP Mode, and Server is the default.  It's through the usage of VTP modes that we can place limits on which switches can delete and create VLANs.
+
+In Server mode, a VTP switch can be used to create, modify, and delete VLANs.  This means that a VTP deployment has to have at least one switch in Server mode, or VLAN creation will not be possible.  Again, this is the default setting for Cisco switches.
+
+Switches running in Client mode cannot be used to create, modify, or delete VLANs. Clients do listen for VTP advertisements and act accordingly when VTP advertisements notify the Client of VLAN changes.
+
+VTP Transparent mode actually means that the switch isn't participating in the VTP domain as Servers and Clients do.  (Bear with me here.)  Transparent VTP switches don't synchronize their VTP databases with other VTP speakers. They don't even advertise their own VLAN information!  Therefore, any VLANs created on a Transparent VTP switch will not be advertised to other VTP speakers in the domain, making them locally significant only. (I know you remember that phrase from your CCNA studies!)
+
+Devices running VTP Transparent mode do have a little something to do with the other switches in the VTP domain, though.  When a switch running in Transparent mode receives a VTP advertisement, that switch will forward that advertisement to other switches in that VTP domain.
+
+Configuring switches as VTP Clients is a great way to “tie down” VLAN creation capabilities to switches that are under your physical control.  However, this occasionally leads to a situation where only the VTP clients will have ports that belong to a given VLAN, but the VLAN still has to be created on the VTP server.  (VLANs can be created and deleted in transparent mode, but those changes aren't advertised to other switches in the VTP domain.)
+
+
+In the next BCMSN tutorial, we’ll take a look at the details of VTP.
+
+

@@ -1,0 +1,28 @@
+Title: 
+Net Cards are needed in your business
+
+Word Count:
+481
+
+Summary:
+A smart card can help keep your companies data more secure than magnetic stripe cards.
+
+
+Keywords:
+net cards, chip card readers, bonus cards
+
+
+Article Body:
+In the age of all things digital, businesses are rapidly deploying security and tracking measures that will ensure the integrity of all data. Be it banking data, or customer behavior data, security of information is of the utmost importance. Institutions have started to realize that one of the most secure methods to protect data may be to use smart cards and chip card readers.
+
+   If an organization needs to secure data that its employees carry around with them on laptops, smart card technology, and card readers can be deployed easily with PCMIA integration. Once machines are equipped with these devices, data can only be accessed with a card. When a computer is stolen or misplaced, lack of a card will prevent a thief from gaining access to sensitive data. 
+
+    Smart cards, like the Microsoft .Net cards, can be used to work with desktop PCs. A company may need to install card readers on all of their desktops to ensure that only authorized employees can view company data.  This is especially helpful if multiple employees work on the same workstation. Restricting access is crucial to maintaining network integrity. PC desktop card readers are very simple to install into your machine, as they plug in with a simple usb plug. They can be conveniently situated on top, or on the side of modems. 
+
+    Cards that include micro processing components can be leveraged to store and manipulate data that simpler cards can not handle. Hybrid cards allow transactions to take place in environments where cards readers are present, and where they are not. A hybrid card can be read in a traditional terminal via its magnetic stripe or be used with a card reader. With this multiple functionality there will never be a time when customer or employee information can not be tracked. 
+
+    Smart card technology is superior to magnetic stripe technology, because data on a stripe is easily compromised by simple, easily accessible tools. However, a smart card is smart because its microprocessor is the gate keeper of the information. The microprocessor determines who has access to the data, and getting access to that data is much more difficult than with a magnetized card. These cards can be multi-functional, in that they can grant access to computers, but can also be used to grant access to buildings, cafeterias and restricted areas. 
+
+       For financial and shopping transactions, cards can be used to store reward points data. A card that grants access to purchases or banking can also hold data related to customer incentive programs. Discount information can be stored on a card that allows users to make a payment in a brick and mortar environment or an internet environment. Having one central repository of data will benefit businesses as they seek to assemble customer activity profiles.  Upgrading magnetic stripe cards to smart cards needs to be done to ensure that a business maintains competitiveness.
+
+

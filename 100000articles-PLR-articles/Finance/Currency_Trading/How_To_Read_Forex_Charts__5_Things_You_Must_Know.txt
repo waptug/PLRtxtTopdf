@@ -1,0 +1,66 @@
+Title: 
+How To Read Forex Charts: 5 Things You Must Know
+
+Word Count:
+931
+
+Summary:
+Want to know how to read forex charts? It’s easier than you think once you understand the 5 things you must know about forex charts. This article provides all the tricks and tips you need to do this properly.
+
+
+Keywords:
+how to read forex charts, forex charting software, forex trading
+
+
+Article Body:
+Learning the basic skills in forex, such as how to read forex charts, is really important.
+
+This is because once you have this vital skill under your belt, it will be a lot easier and quicker when the time comes for you to learn and practice an actual forex trading system.
+
+By the time you finish this article, you'll learn how to read forex charts, as well as know the pitfalls that can occur when reading them, especially if you haven't traded forex before.
+
+Firstly, let's revise the basics of a forex trading as this relates directly to how to reade forex charts.
+
+Each currency pair is always quoted in the same way. For example, the EURUSD currency pair is always as EURUSD, with the EUR being the base currency, and the USD being the terms currency, not the other way round with the USD first. Therefore if the chart of the EURUSD shows that the current price is fluctuating around 1.2155, this means that 1 EURO will buy around 1.2155 US dollars.
+
+And your trade size (face value) is the amount of base currency that you're trading. In this example, if you want to buy 100 000 EURUSD, you're buying 100 000 EUROs.
+
+Now let's have a look at the 5 important steps on how to read a forex chart:
+
+1. If you buy the currency pair, that is, you're long the position, realise that you're looking for the chart of that currency pair to go up, to make a profit on the trade. That is, you want the base currency to strengthen against the terms currency.
+
+On the other hand if you sell the currency pair to short the position, then you're looking for the chart of that currency pair to go down, to make a profit. That is, you want the base currency to weaken against the terms currency.
+
+Pretty simple so far.
+
+2. Always check the time frame displayed. Many trading systems will use multiple time frames to determine the entry of a trade. For example, a system may use a 4 hour and a 30 minute chart to determine the overall trend of the currency pair by using indicators such as MACD, momentum, or support and resistance lines, and then a 5 minute chart to look for a rise from a temporary dip to determine the actual entry.
+
+So ensure that the chart you're looking at has the correct time frame for your analysis. The best way to do this is to set up your charts with the correct time frames and indicators on them for the system you're trading, and to save and reuse this layout.
+
+3. On most forex charts, it is the BID price rather than the ask price that's displayed on the chart. Remember that a price is always quoted with a bid and an ask (or offer). For example, the current price of EURUSD may be 1.2055 bid and 1.2058 ask (or offer). When you buy, you buy at the ask, which is the higher of the 2 prices in the spread, and when you sell, you sell at the bid, which is the lower of the two prices.
+
+If you use the chart price to determine an entry or exit, realise that when you place an order to sell when the chart price is say 1.330, then this is the price that you'll sell at assuming no slippage.
+
+If on the other hand, you place an order to buy when the chart price is the same price, then you'll actually buy at 1.3333. A forex system will often determine whether your orders will be placed simply according to the chart price or whether you need to add a buffer when buying or selling.
+
+Also note that on many platforms, when you're placing stop orders (to buy if the price rises above a certain price, or sell when the price falls below a certain price) you can select either “stop if bid” or “stop if offered”.
+
+4. Realise that the times shown on the bottom of forex charts are set to the particular time zone that the forex provider's charts are set to, be it GMT, New York time, or other time zones.
+
+It's handy to have a world clock available on your computer desktop in order to convert the different time zones. This is important when you're trading major economic announcements.
+
+You'll need to convert the time of an announcement to your local time, and the chart time, so you'll know when the announcement is going to happen, and therefore when you need to trade.
+
+5. Finally, check whether the times on your forex charts corresponds to when the candle opens or when the candle closes. Your charting software may be different to someone else's in this way.
+
+The reason I mention this, is that if you need to trade major economic announcements, either by entering a trade based on the movements that happen after the announcement, or to exit a trade before the announcement in avoid getting stopped out during it, then you need to be precise (to the minute!) as these trades are performed according to what happens at the 1 minute immediately after the announcement, not the candle afterwards!
+
+So there you have it.
+
+You now have the 5 essential keys to how to properly read forex charts, which will help you to avoid the common mistakes which many forex beginners make when looking at charts, and which will speed up your progress when you're looking at forex charting packages, and forex trading systems that you want to trade!
+
+Now that you know this, practice looking at forex charts with each of these 5 points in mind.
+
+So get to it!
+
+

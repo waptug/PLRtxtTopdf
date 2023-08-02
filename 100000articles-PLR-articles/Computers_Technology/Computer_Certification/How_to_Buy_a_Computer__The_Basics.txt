@@ -1,0 +1,54 @@
+Title: 
+How to Buy a Computer: The Basics
+
+Word Count:
+635
+
+Summary:
+http://www.computerbuyingguides.com is all about helping people buy the right computer for them. We have expert recommondations and insider tips.
+
+
+Keywords:
+How to buy computer, Laptop buyers guide
+
+
+Article Body:
+RAM (Random Access Memory):
+Memory is one of the key components of a computer which is measured in megabytes. Note that 1000 MB is equal to 1 gigabyte (GB). So the more megabytes you have the better your computer works. Most computers today come with a minimum of 512 MB (about half a gigabyte) of RAM. You should try for 1 GB and more because your computer will run that much faster. Not that Windows Vista and Mac OS X Leopard operating systems require 1 GB for good performance and 2 GB to run at top speed.
+
+Recommendation: I suggest buying at least 1 GB (1,000 MB). Remember that Windows Vista and Mac Leopard are memory hungry so I advise buying as much RAM as you can afford. Memory is the crutch of making a computer run like it should.
+
+Insider's tip: Buy the minimum amount of memory and then purchase extra memory components called "sticks" from a site such as www.datamemorysystems.com/. This can save you up to a couple hundred dollars.
+
+Buyer Beware: It is not uncommon for low end computers ($300 to $600) to come with low amounts of RAM. Make sure to check on the ability of your computer as it should be able to handle 4 GB.
+
+Central Processing Unit (the brains):
+The CPU handles all the calculations of the computer. For the average user, CPU speed is not as important of a gauge as it used to be. The common computer user will not need to worry about cpu speed as much as a gamer or multimedia user.
+
+CPUs are made by either Intel or AMD and both companies have great product options. Intel controls most of the market share and costs more than AMD.
+Recommendation: CPUs come in two forms: 32 bit and 64 bit. I suggest the 32-bit processors because the 64-bit processors have a lot of problems working with software programs.
+
+Dual Core processors are all the rage right now. What's Dual core? This means that your computer has two CPUs which give the user twice the computing power. Dual core is a must for high end computer users.
+
+Hard Drive: the storage unit
+All of your personal data such as your documents, digital photos, music, and software programs are stored on the hard drive which are available in many sizes and speeds. Hard drive Storage is measured in gigabytes and computers usually come with at least 80 GB of storage. 
+
+Insider's tip: Computers can be configured with two hard drives.
+Option 1: Two drives giving which can double your storage. 
+Option 2: One hard drive keeps an exact copy of the other drive. So if you have a hard drive fail it is not a big deal because you can run off the other drive
+
+Recommendation: You are best getting a 120 GB drive with a speed of 5400 rpm.
+Video Chipsets: graphics eye candy1
+Windows Vista and Mac OS X Leopard are the new operating systems that require a lot of fancy 3-D animation that requires better graphics hardware. 
+
+You have two choices when choosing video chipsets:
+1.An integrated or built in Video card right into the motherboard of the computer. If you are an average computer user than this option should work just fine.
+
+2.ATI and NVIDIA offer video cards that produce much better graphics and can handle Windows Vista and Mac Leopard with ease. Cards by these two companies are your only option if you on gaming. 
+Recommendation: Check out these websites www.nvidia.com and ati.amd.com. A good rule of thumb is that the higher the model number-the better the video card.
+
+Recommendation: Look for an Intel GMA3100 (model #) or better with the higher numbers being more advanced.
+
+Now that you have mastered the basics of how to buy a computer, it's time for you to make some decisions. Don't worry, we are here to help!
+
+

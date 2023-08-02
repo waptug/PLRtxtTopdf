@@ -1,0 +1,42 @@
+Title: 
+About Dead Websites
+
+Word Count:
+827
+
+Summary:
+Have you ever heard about ‘dead websites’? It is about the websites which end their life on internet after a while. What happens to these after their death?
+
+
+Keywords:
+dead websites, internet archive
+
+
+Article Body:
+Have you ever heard about ‘dead websites’? It is about the websites which end their life on internet after a while. What happens to these after their death? Is there an archive where you can trace them? Does anyone keep statistics how many websites are dying daily or monthly? Which country or which category has actually the biggest cementry of websites? Is there a study about the reasons of their death? The questions could go on.
+
+The idea about this dark part of internet came up when I was surfing on a shortwave radio in the middle of the night. Suddenly, I caught the words ‘Tod und Sterben im Internet’ from a German channel. The program was almost ending. ‘Tod und Sterben im Internet’ means ‘death and dying on internet’. How sad it sounds! But what does it actually mean? I can’t give a better description than the next I found on the internet:
+
+‘They are born, they grow, they are loved by a few, they communicate a few things, and then they go on to die. The death of a website generally goes unmarked, unnoticed, and unrecognized. A dead website is no longer a valuable enterprise but a historical record, a fiercely marked arena of time. A website that has died gets no funeral, no sendoff, no eulogy, and often gets no final words. Websites seem to die a strange death - they are both very public and very private organisms, created by a living few for a living audience and when they pass, the act of viewing them or reflecting on them is inherently solitary. (see: www.deckchairs.net/blogs/main/archives/000721.html)
+
+You would think that the Google Robot which spiders every online information and transfers it to earning would also have an answer to this interesting problem. Unfortunatly, after searching for a week I was not able to find any answer at Google or Google Lab. 
+
+On the contrary, I found that search engines in general do not like dead sites. One of their princpiles is to deliver more actual and content dynamic sites in their results. Therefore they don’t like dead sites, dead links and every website which has any smell of death. They even don’t like what we might call exhausted sites, sites which are build up ones and never changed or worked on later. These can also be interpreted as potantially dead or close to dead and are therefore placed at the bottom of the search results. 
+
+The searchengines might not be interested in them but that does not decrease their importance for the history of the internet or social-economic sciences. The questions mentioned at the top are worth studying this problem in depth. Still, it should be mentioned that the general interest in the topic is still waiting. This might come in the near future. 
+
+In fact the few information that are available on the internet already give a hint to the coming up. The website www.archive.org gives for example an insight into the history of many websites. If you type an URL in their ‘waybackmaschine’, you might get screenshot results from 1996 on. It is interesting to follow the development of the design of some nowadays very popular sites. Archive.org is connected to Alexa and therefore shows only the sites which are ‘caught’ by Alexa. Neverthless, it is a very important and highly valuable contribution to this field. 
+
+Another site called www.disobey.com shows in the category ‘ghostsites’ a list of dead sites or ghost sites like they call them. There are also comments added to some dead websites; about their development and the reason of their death. The site and its list are a product of personal input of the editor of the site, Mr. Steve Baldin.
+
+Of course, also in this field the smart ones are first. A website already promotes itself with ‘How to bring your site to life again’. Like their co-operators in the company world, they promise to bring life in a dead website. Within three months your dead website will have the best position at searchengines. Another website explains how you gain benefit from a dead website. Imagine website x was working in the travel business. You also have a travel website and know that x is out of life. So trace the backward links to x, explain the situation to the webmasters of these given links and tell them that your website could be a subsitute for the dead x. Your site will have, so the website confirms, in no time 10-20% more quality linkpartners.
+
+Unfortunatly, the social rule seems to be valid also over here. Like the Dutch expression says: ‘For the one it is his death, for the other his bread.’
+
+Not to be a bread for others, don’t forget to say when you open your browser each morning and see your homepage: 
+
+Still Alive!
+
+(published at: http://www.tobook.com/newsletter/newsletter.asp)
+
+

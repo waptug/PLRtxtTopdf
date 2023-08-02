@@ -1,0 +1,62 @@
+Title: 
+Fighting Off Viruses: Advancements In Antivirus Software Suites
+
+Word Count:
+995
+
+Summary:
+Protecting your computer from a virus is getting harder and harder each day. While it may border on the paranoid, it goes without saying that you can’t leave your guard down for one second. Even corporate giant Microsoft has found its own systems compromised on more than one occasion.
+
+Remember the “good old days”, before the advent of the Internet and downloadable programs? Life was simple then in terms of computer viruses. With the primary way in which a virus could be tr...
+
+
+Keywords:
+
+
+
+Article Body:
+Protecting your computer from a virus is getting harder and harder each day. While it may border on the paranoid, it goes without saying that you can’t leave your guard down for one second. Even corporate giant Microsoft has found its own systems compromised on more than one occasion.
+
+Remember the “good old days”, before the advent of the Internet and downloadable programs? Life was simple then in terms of computer viruses. With the primary way in which a virus could be transmitted being limited to floppy disks, the ability to catch and eradicate the virus was a lot easier. By today’s standards, it used to take quite a while before a virus was able to infect a computer and slow down the system. The antivirus software of that time was typically able to identify and eradicate viruses before they caused too much damage. Additionally, computer users were pretty savvy on how to protect themselves in terms of scanning all floppy disks before copying them to our desktop.
+
+The Internet helped change all that. The Internet provided a conduit by which viruses could move from host to host with lightening speed. No longer could a computer user just worry about floppy disks as points of entry, but they now had to worry about email, email attachments, peer-to-peer file sharing, instant messaging, and software downloads. Today’s viruses can attack through multiple entry points, spread without human intervention, and take full advantage of vulnerabilities within a system or program. With technology advancing everyday, and the convergence of computers with other mobile devices, the potential of new types of threats also increase.
+
+Protecting Your Computer
+
+Luckily, the advancement of antivirus software has kept pace with current virus threats. Antivirus software is essential to a computer’s ability to fend off viruses and other malicious programs. These products are designed to protect against the ability of a virus to enter a computer through email, web browsers, file servers and desktops. Additionally, these programs offer a centralized control feature that handle deployment, configuration and updating.
+
+A computer user should remain diligent and follow a few simple steps to protect against the threat of a virus:
+
+1. Evaluate your current computer security system.
+
+With the threat of a new generation of viruses able to attack in a multitude of ways, the approach of having just one antivirus software version has become outdated. You need to be confident that you have protected all aspects of your computer system from the desktop to the network, and from the gateway to the server. Consider a more comprehensive security system which includes several features including antivirus, firewall, content filtering, and intrusion detection. This type of system will make it more difficult for the virus to penetrate your system.
+
+2. Only install antivirus software created by a well-known, reputable company.
+
+Because new viruses erupt daily, it is important that you regularly update your antivirus software. Become familiar with the software’s real-time scan feature and configure it to start automatically each time you boot your computer. This will protect your system by automatically checking your computer each time it is powered up.
+
+3. Make it a habit to always scan all new programs or files no matter from where they originate.
+
+4. Exercise caution when opening binary, Word, or Excel documents of unknown sources especially if they were received during an online chat or as an attachment to an email.
+
+5. Perform regular backups in case your system is corrupted. It may be the only way to recover your data if infected.
+
+Recommended Antivirus Software
+
+There are numerous applications available to consumers. With a little research, you can pick the program that is right for you. Many programs provide a trial version which allows you to download the program and test its abilities. However, be aware that some anti-virus programs can be difficult to uninstall. As a precaution make sure to set up a System Restore point before installing.
+
+Here are a few programs which typically receive high marks in terms of cost, effectiveness, ease of use, and customer service.
+
+The Shield Pro 2005™ provides virus protection and hacker security through ongoing support and updates. When a virus breaks out, The Shield Pro 2005™ promises to provide a patch within 2-3 hours and a fix for the virus within 5 hours. You can set your computer to update viruses weekly and run a complete virus scan.
+
+BitDefender 9 Standard provides antivirus protection, as well as Peer-2-Peer Applications protection, full email protection, and heuristics in a virtual environment. This provides a new security layer that keeps the operating system safe from unknown viruses by detecting malicious pieces of code for which signatures have not been released yet.
+
+Kaspersky Anti-Virus Personal 5.0 program is simple to install and use. The user only needs to choose from three levels of protection. It allows updates as frequently as every hour while promising not to disrupt your computer. The program also offers a two-tier email protection feature and round-the-clock technical support.
+
+PC-cillin Internet Security combines antivirus security and a personal firewall—for comprehensive protection against viruses, worms, Trojans, and hackers. It also detects and removes spyware and blocks spam. It even guards against identity theft by blocking phishing and pharming attacks.
+
+AVG Anti-Virus Free Edition is a free downloadable antivirus program that has received high marks for its reliability. In the past, free downloadable antivirus programs have been viewed skeptically because of issues relating to its reliability. However, AVG from Grisoft, remains one of the best-known free anti-virus programs available. While AVG can not be installed on a server operating system and there is no technical support, it still makes a good choice for many home computer users. The best part is that since it is free, you can try it with no further obligation necessary.
+
+NOTE: You have full permission to reprint this article within your website or newsletter as long as you leave the article fully intact and include the "About The Author" resource box. Thanks! :-
+
+

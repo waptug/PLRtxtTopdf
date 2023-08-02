@@ -1,0 +1,34 @@
+Title: 
+Outlook Express Recovery Made Easy
+
+Word Count:
+506
+
+Summary:
+Recovery ToolBox for Outlook Express protects your email from accidental deletion and corruption. Repair corrupt databases and un-delete zapped mail even if it has been removed from "Deleted Items"!
+
+
+Keywords:
+outlook express data recovery, Microsoft outlook express recovery, corrupt outlook express database, damaged outlook express database, restore outlook express email, dbx recovery, damaged dbx, outlook express dbx
+
+
+Article Body:
+Microsoft Outlook Express is by far the most popular email client. It comes pre-installed with Windows; it is free, convenient, and advanced enough for those stepping up from Web-based email.
+
+The main advantage of Outlook Express over Webmail is the ability to keep your complete communication history for years to come. If you've used Outlook Express for some time, you've probably accumulated a huge pile of archived messages. But imagine that archive becoming suddenly unavailable to you, and you'll know how much you have to lose!
+
+Why would that happen? Outlook Express keeps email messages in a proprietary-format database, which in turn is stored in DBX files, each DBX file representing an email folder. Once these files reach a certain size, they tend to break. Another reason for losing an Outlook Express email archive is file or data corruption that can result from a simple crash of the Outlook Express application. If the crash happens while Outlook Express is writing to a DBX file, that file will inevitably fail.
+
+Can you do something to get your email archive back? With Microsoft tools, probably not. There's no easy way to recover corrupt Outlook Express databases in Windows. But all is not lost! Meet Recovery ToolBox for Outlook Express (http://www.recoverytoolbox.com/outlook_express.html), an easy tool to recover corrupt Outlook Express databases!
+
+Recovery ToolBox for Outlook Express can repair Outlook Express databases that are slightly corrupt or even badly damaged, salvaging everything that can be recovered. The tool does not use Outlook Express to access the database. Instead, it employs its own advanced mechanisms to read and repair DBX files. Recovery ToolBox for Outlook Express protects your email from accidental deletion and corruption. Repair corrupt databases and un-delete zapped mail even if it has been removed from "Deleted Items" in just a few clicks!
+
+Deleting email in Outlook Express does not actually erase the message - not yet. Your deleted messages first come into the "Deleted Items" folder. They will be stored there indefinitely - unless you delete them from that folder, that is. But once you delete email from "Deleted Items", there is no easy way to get it back if you need to!
+
+Recovery ToolBox for Outlook Express is ready to help you with messages removed from the "Deleted Items" folder. If you accidentally delete a message from "Deleted Items", don't do anything in Outlook Express! Just close the program, and run Recovery ToolBox for Outlook Express. It'll scan your Outlook Express database looking for messages that were deleted but can still be recovered. Once the scan is complete, it just takes a few clicks to recover your mail.
+
+Ever wondered what's inside of those DBX files? Use Recovery ToolBox for Outlook Express to open and navigate these files without Outlook Express, or use it to convert DBX files into a set of standard .eml and .vcf files.
+
+Don't risk losing your email archives! Download Recovery ToolBox for Outlook Express from http://www.recoverytoolbox.com/outlook_express.html and protect your email against accidental loss!
+
+

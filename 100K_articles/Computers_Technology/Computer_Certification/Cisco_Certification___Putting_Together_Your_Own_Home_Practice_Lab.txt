@@ -1,0 +1,109 @@
+Title: 
+Cisco Certification:  Putting Together Your Own Home Practice Lab
+
+Word Count:
+1123
+
+Summary:
+Assembling a home lab for CCNA or CCNP study can be confusing. Chris Bryant, CCIE #12933 knows - he's been there! In this article, Chris offers some suggestions on how to get started.
+
+
+Keywords:
+ccna, ccnp, free, pass, exam, cisco, certification, computer, mcse, ccie, chris, bryant
+
+
+Article Body:
+CCNA and CCNP candidates hear it all the time:  “Get some hands-on experience”.  From my personal experience climbing the Cisco certification ladder, I can tell you firsthand that there is no learning like hands-on learning.   No simulator in the world is going to give you the experience you will get cabling and configuring your own routers.
+
+Whenever I mention this to one of my students, they always say it costs too much.  The truth is, it is cheaper now to build your own CCNA and CCNP lab than it has ever been.  The secret?  Used routers.
+
+ 
+
+The word “used” turns off a lot of people not many of us buy used computers or used servers.   Cisco routers, though, are robust. I personally own a Cisco 4000 router that I use as a Frame Relay switch in my lab that I’ve had for about four years, and I’ve never had a problem with it.
+
+ 
+
+The good news for current CCNA and CCNP candidates interested in building their own labs is that used Cisco equipment has never been more plentiful or cheaper.  eBay is a good way to get an idea of what’s out there and what the prices are, but you don’t have to assemble your lab one piece at a time.  Many eBay vendors who sell used Cisco equipment sell ready-made CCNA and CCNP labs for one price, including cables.  
+
+ 
+
+I asked one major vendor of CCNA and CCNP labs, www.ciscokits.com, what the most common questions are regarding building your own home lab. Here’s what they had to say:
+
+ 
+
+Why do I need real routers instead of a simulator?
+
+ 
+
+You need a physical router,as the simulators just don’t have the ability to give you the “hands on” you need to see what happens when you disconnect a cable or put a cable in the wrong location.  You will come to find quickly that mistakes you make on Router 1 are affecting Router 5 all because you did not screw in a cable properly.  No simulator can simulate that.
+
+ 
+
+How many routers do I need?
+
+ 
+
+Two routers really are required to see if anything works.  If you have a very limited budget, you can receive value from only purchasing a single router over working with a simulator.  However, you will not be able to see the main thing we are trying to accomplish.  The propagation of route tables! 
+
+
+The only way you can see if your configurations work, is to have at least two routers.  Therefore, I strongly recommend that you purchase a dual router kit that comes with all the accessories you need.  Otherwise you can spend days trying to find all the little extra pieces you need to get your lab up and running.
+
+ 
+
+Do I need a switch?  
+
+ 
+
+Well, it is nice to have.  However, with only about 2 questions on the test dedicated to “hands on” switch knowledge, if you have to skimp on something, skimp on the switch.
+
+ 
+
+What routers and switches should I buy?
+
+ 
+
+Choices, choices, choices!  Which 2500/2600 router do I pick?  I will list some pros and cons of each router below, along with current prices (note that prices are generally lower if you buy a dual router kit instead of a single router).  Please note that prices are approximations.
+
+ 
+
+1)    Cisco 2501 Router with 16 MB Flash/16MB DRAM $94.99.  The cheapest introduction router, and it can support a vast majority of the commands that you will need to learn for your CCNA test.  All 2500 routers that we will discuss come with a minimum of two serial ports and an Ethernet port.  
+You will need to add a transceiver to this unit to convert the Ethernet AUI port to an RJ-45 style Ethernet port.
+
+ 
+
+2)    Cisco 2503 Router with 16 MB Flash/16MB DRAM $119.99.  This is the same as a Cisco 2501, except it adds an ISDN port so you can complete all your ISDN commands for the CCNA test.  You will need to add a transceiver to convert the Ethernet AUI port to an RJ-45 style Ethernet port.
+
+ 
+
+3)    Cisco 2505/2507 with 16 MB Flash/16MB DRAM $109.99.  The same as a Cisco 2501 except it has a built-in 8 or 16 port hub so you do not have to purchase a transceiver.
+
+ 
+
+4)    Cisco 2514 Router with 16 MB Flash/16MB DRAM $149.99.  This router is the same as a Cisco 2501 except instead of one Ethernet port you have two.  You may ask, what is the big deal?  Well, you can use this as your Cable Modem/DSL Modem router.  Now you can test your ability to setup a firewall and router in a live environment on the Internet.  Lots of fun!  You will need to add two transceivers to convert the Ethernet AUI ports to an RJ-45 style Ethernet ports.
+
+ 
+
+5)    Cisco 2520 Router with 16 MB Flash/16MB DRAM $119.99. This is the same as a 2503 but it also adds two more serial ports so you can use this as a frame relay switch later in your CCNA studies.  It costs the same as a 2503, so this is a great money saving tip.
+
+ 
+
+6)    Cisco 2612 Router with 32 DRAM and 8 MB Flash $199.99.  This is a modular router unlike any of the 2500 series routers.  So the big benefit of this is you can buy extra modules to add functionality such as more serial ports, ISDN ports, Ethernet ports, WICs and such.  However, due to the flexibility you will pay a bit more.  One day it is a frame relay switch, the next it is your ISDN router.  In the long run it will be cheaper than purchasing a bunch of dedicated routers for each 
+discipline you want to learn.
+
+ 
+
+7)    Cisco 1912 or 1924 Switch with Enterprise Software $109.99.  This is a good low cost switch.  The only drawback is it is a 10 MB switch except for the two 100 MB uplink ports.  Not a big deal since you have 10 MB routers. 
+
+ 
+
+8)    Cisco 2912 or 2924 Switch with Enterprise Software $249.99.  This switch will run all the current commands needed for the test and is a full 100 MB switch.
+
+  
+
+And should you desire to sell your lab after you complete your certification, you can either negotiate a price with the vendor who sold it to you, or you can sell it yourself on ebay.  It’s my experience that 95% of candidates who earn their CCNA go on to pursue their CCNP within one year, though, so don’t sell it too quickly.
+
+ 
+
+In the end, you spend only a few hundred dollars, and you gain invaluable experience and knowledge that will help you both in your certification quest and your job performance.  Having worked my way from the CCNA to the CCIE, I can tell you that you will learn much more from actually configuring and cabling your own equipment than you ever will from any simulation of the real thing.
+
+

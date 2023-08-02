@@ -1,0 +1,73 @@
+Title: 
+How to build a PC
+
+Word Count:
+613
+
+Summary:
+Do you know what could beat the exciting feeling of having a new computer? Make your own PC!
+
+
+Keywords:
+build a pc
+
+
+Article Body:
+Do you know what could beat the exciting feeling of having a new computer? Make your own PC!
+
+Making your own computer from scratch is not only fun to do but cheaper as well. You can get to choose the parts you want to use on your PC. This gives you the control in balancing the price and the quality of your newly assembled PC.
+
+Before we show you the steps, here are the necessary parts of the computer that you need to buy:
+
+•       Processor  Cooler
+•       Motherboard memory
+•       Graphics Card
+•       Hard Drive
+•       CD or DVD Writer
+•       Floppy Drive
+•       Sound Card
+•       Computer Case
+•       Power Supply
+•       Monitor
+•       Keyboard
+•       Mouse
+
+Steps in making your own PC:
+
+Step 1
+
+The computer case includes motherboard spacers and screws. This helps set the motherboard in the case. Mount the spacers into the corners and to the proper side holes. It should match up with the holes in your motherboard.
+
+If the motherboard has different jack arrangements from the case’s I/O (input/output) shield, use the shield that comes with the motherboard. Mount it from the inside of the case.
+
+Now, to install the processor, raise the lever on the side of the CPU (processor) socket. The CPU’s pins are made in a way that it is possible to put the CPU into the socket only one way. Therefore, if you are doing it right, it should easily fit.
+
+Hold the processor down and close to the lever. Before installing the CPU cooler, put thermal compound onto the top of the CPU (on core).
+
+Step 2
+
+Mount the processor cooler on top of the processor. Press down lightly. Clip the heat sink to the processor socket. Attach the CPU cooler’s fan power to the motherboard’s fan header. It is usually labeled “CPU FAN 1”.
+
+Plug in the memory module to the long sockets called DIMM’s. Unlock both tabs and push the memory straight down. The clips on the slot’s sides should close. Carefully push the motherboard against the I/O shield. Put in and tighten the motherboard screws. Do not force it.
+
+The brown slot nearest to the processor is the AGP slot meant for the video card. Insert the video card evenly in the slot provided. Screw the card into place. Make sure that your AGP video card is placed properly.
+
+At the corner of the motherboard, you can see two rows of pins. Connect case leads to the pins. These leads are usually labeled. Read your motherboard manual. See which label goes to which set of pins.
+
+Step 3
+
+Now we mount the floppy drive, CD/DVD drive and the hard drive. The motherboard usually has 2 IDE channels, each supporting 2 devices. If you install 2 IDE devices on the same cable, you will have the main to be the “master” and the other to be the “slave”.
+
+This is the same procedure for CD/DVD drives. Look for an HDD and CD drive manual for the correct jumper settings. You should do these before you screw drives into place.
+
+Connect hard drives to a channel different from the CD drives. Floppy controller has a socket shorter than the IDE controllers.
+
+Make sure the side of the IDE cable that has a red colored stripe lines up with pin1.
+
+Lastly, plug in the main ATX power cable and connect all drives with the power supply. If you have more case coolers, you may also connect them.
+
+Now, connect your monitor, keyboard, mouse and speakers to the back of the case. Put in the power cable to the power supply unit. Double-check proper installation before the first boot.
+
+You can now show your friends your first assembled computer.
+
+

@@ -1,0 +1,43 @@
+Title: 
+IT Audits: A Checklist
+
+Word Count:
+339
+
+Summary:
+IT audits need to be comprehensive. In this article, you will learn what topics need to be addressed during IT audits.
+
+
+Keywords:
+IT audits, IT-audits, IT audit, IT-audit
+
+
+Article Body:
+IT audits need to be as comprehensive as possible. To ensure you hit every area you need to during your IT audits, review this checklist. 
+
+
+•	IT Audits - Physical Security: 
+To ensure that appropriate physical controls are in place to secure technology assets (servers, networking and telecommunications equipment) preventing unauthorized access.
+•	IT Audits - Logical Security: 
+To ensure that appropriate software security controls are in place to prevent viruses and unauthorized data access.
+•	IT Audits - Logistical and Environmental Controls: 
+To ensure that systems, networking and telecommunications equipment are housed in facilities designed to offer proper environmental conditions (regarding temperature and dust regulation, furniture, racks and physical equipment organization)
+•	IT Audits - Configuration Management: 
+To ensure that systems are installed and configured according to established requirements and standards.
+•	IT Audits - Systems Administration Procedures:
+To ensure that security and systems administrative procedures are properly defined and assigned to staff.
+•	IT Audits - Hardware Inventory Management: 
+To ensure that all hardware is properly inventoried and that warranty and maintenance records are maintained.
+•	IT Audits - Software Licensing Compliance: 
+To ensure that all software usage is in compliance with licensing agreements, and that appropriate licensing records are maintained.
+•	IT Audits - Data Backup and Disaster Recovery Procedures: 
+To ensure that data backups are being made and tested on a scheduled basis, sufficient to recover in the event of a systems failure, data loss, or other disaster.
+•	IT Audits - Documentation: 
+To ensure that all systems, procedures, and policies are properly documented and updated, including the appropriate retention of systems reports, error, help desk, and other related problem logs.
+•	IT Audits - Performance and Capacity Planning: 
+To ensure that all systems are performing according to required levels, considering uptime, systems availability, bandwidth, data storage availability, and the archival of older data files.
+•	IT Audits - Change Management: to ensure that all major changes to systems hardware and software are properly documented, tested and verified prior to implementation, with appropriate back-out plans. 
+
+Copyright MMI-MMVI, PC Support Tips .com. All Worldwide Rights Reserved. {Attention Publishers: Live hyperlink in author resource box required for copyright compliance}
+
+

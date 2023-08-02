@@ -1,0 +1,20 @@
+A Brief History of Search Engine Optimization
+
+Search engine optimization is the art and science of making web pages attractive to internet search engines. Some interne t businesses consider search engine optimization to be the subset of search engine marketing.
+
+In the middle of the 1990s webmasters and search engine content providers started optimizing websites. At the time all the webmasters had to do was provide a URL to a search engine and a web crawler would be sent from the search engine. The web crawler would extract link from the webpage and use the information to index the page by down loading the page and then storing it on the search engines server. Once the page was stored on the search engines server a second program, called an indexer, extracted additional information from the webpage, and determines the weight of specific words. When this was complete the page was ranked.
+
+It didn't take very long for people to understand the importance of being highly ranked.
+
+In the beginning search engines used search algorithms that webmasters provided about the web pages. It didn't take webmasters very long to start abusing the system requiring search engines to develop a more sophisticated form of search engine optimization. The search engines developed a system that considered several factors; domain name, text within the title, URL directories, term frequency, HTML tags, on page key word proximity, Alt attributes for images, on page keyword adjacency, text within NOFRAMES tags, web content development, sitemaps, and on page keyword sequence.
+
+Google developed a new concept of evaluating internet web pages called PageRank. PageRank weighs a web page's quantity and quality based on the pages incoming links. This method of search engine optimization was so successful that Google quickly began to enjoy successful word of mouth and consistent praise. 
+
+To help discourage abuse by webmasters, several internet search engines, such as Google, Microsoft, Yahoo, and Ask.com, will not disclose the algorithms they use when ranking web pages.The signals used today in search engine optimization typically are; keywords in the title, link popularity, keywords in links pointing to the page, PageRank (Google), Keywords that appear in the visible text, links from on page to the inner pages, and placing punch line at the top of the page.
+
+For the most part registering a webpage/website on a search engine is a simple task. All Google requires is a link from a site already indexed and the web crawlers will visit the site and begin to spider its contents. Normally a few days after registering on the search engine the main search engine spiders will begin to index the website. 
+
+Some search engines will guarantee spidering and indexing for a small fee. These search engines do not guarantee specific ranking. Webmaster's who don't want web crawlers to index certain files and directories use a standard robots.txt file. This file is located in the root directory. Occasionally a web crawler will still crawl a page even if the webmaster has indicated he does not wish the page indexed.
+
+
+

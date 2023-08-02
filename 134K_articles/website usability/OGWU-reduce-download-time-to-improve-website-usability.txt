@@ -1,0 +1,33 @@
+A Fitness Plan for a Lean & Mean Website 
+
+In this age of instant everything, hardly anyone wants to wait. That is probably the main reasons why drive-thrus, instant messaging, one-touch photo printing and all sorts of “now” technology and products were invented and are profitable today.
+
+The same can be said when surfing the Internet. Recent studies conducted on Internet habits show that users get irritated when a web page takes more than 10 seconds to completely download; beyond 15 seconds, more than half leave the site entirely. That is how demanding the average Internet user is.
+
+Some web designers and developers would probably argue that with broadband access, download time should no longer be an issue. However, what these people fail to mention is that only 3 in 10 users in America have hi-speed access. A great majority of Internet users still surf the Internet via dial-up modems. At speed of about or below 50 kbps, web pages heavy with unnecessary baggage easily lose the race for the user’s precious attention.
+
+So how do you keep your website lean, mean and quick? Here are some tips:
+
+1. Use lean graphics.
+Graphics, even in .jpeg or .gif form will still take a while to load. But since images do enhance a website’s appearance, it is very likely you will find these necessary. However, keep the loading time for the images down by specifying the height and width attributes of your images. That way, the user’s browser will be able to map the page’s layout while the images are being loaded. 
+
+If large images are necessary for your content, use a thumbnail a link to the bigger version of the picture. This allows the user choose what images he will wait for to load and saves him from needing to wait for those pictures he’s not interested in.
+Another nifty trick for quick-loading images is to use software that cuts up large graphic files into smaller pieces that can be put back together using a table. Software like PictureDicer (by ShoeString) or Online Image Splitter does exactly that and generates HTML code for a table tag. However, be sure to reduce 256-color images to 8-bit colors before processing the picture.
+2. Cut down on the flash intros.
+They may look nice, but they take forever to load. And if these animated presentations are at the front door of your website, you stand to lose a lot of visitors (practically half) even before they saw your actual site. 
+
+If you simply have to have a flash introduction, please do not forget to include a “skip” button prominently displayed on the page as an option for those who don’t want to wait to load the intro.
+
+Another caveat that comes with flash intros is that (as of now) search engines are unable to index content on flash format. So if you intend to present most of your important information via flash presentation, you stand to lose a lot when it comes to hits from search engines. 
+
+3. Maintain an ideal page size.
+Experts vary in opinion on what is the optimum file size for a web page. As a middle figure, somewhere between 30 to 50 KB file size (including fonts, graphics, html and JavaScript and so on) should do fine and load pretty quickly.
+
+4. Keep the pages as shallow as possible.
+No one wants to go through so several clicks and links before accessing the page they intend to reach. When creating your site’s over-all organization, make sure that every page can be accessed from any point within 2 clicks. (3 are ok, but it’s pushing it.) 
+
+That said; try to keep all your pages no further down than 2 levels deep from the home page. If the site grows to have so many pages that making deeper levels is inevitable, consider creating an archive page where outdated pages may be kept for reference without causing delay to the more current content.
+
+Having a quick-loading page show that you value your visitors’ time. They will show their appreciation by staying longer to know what you have to say. It also enhances your company’s brand, showing that you can be efficient, but substantial. 
+
+Paying attention to what is important and useful rather than what looks good but offers little in content will result in a website that is not only quick and lean, but usable as well. And for your target audience, that is the main and most important key. 

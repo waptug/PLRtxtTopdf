@@ -1,0 +1,35 @@
+Title: 
+New way in the press releases writing
+
+Word Count:
+321
+
+Summary:
+That's the introduction to the new releases format - ROFX.
+
+
+Keywords:
+news releases, web site owners, format xml, xml based, api, organize, press, copywriting releases
+
+
+Article Body:
+Greetings to everybody who writes press and news releases. We'd like to share with you the information you need - new releases files format ROFX.
+
+We are sure this word ROFX (or jokingly rofix) is something new you never heard of before. So, if you have a smallest relation
+to press or news releases writing we hope this site will help you very much.
+
+So what is ROFX? It is an abbreviation for Public Press Releases Open Format XML.
+
+What is the purpose of ROFX? To make press or news releases creation comfortable and simple.
+
+In fact, ROFX files are one part of the system intended to make releases posting more progressive. What this means? ROFX - is an XML based file format that helps to organize release information - release content and author's information. It organizes files, the ROFX system is a very comfortable helper to hold them as project. There is a system for ROFX posting, moderation, API for releases sharing with web sites. This API is realized in different languages, so you can use it in your web site engine developed with PHP, Perl or Python.
+
+Another important part of the ROFX system is the ROFX Composer - a Windows desktop application that is used for ROFX releases files composing. This is not only ROFX files editor - the program helps to organize publisher's information and releases themselves. This program is possible to get from the Downloads section. ROFX Composer really works, but there might be some bugs - we very much appreciate all your bug reports. This helps us to improve this program.
+
+All releases in ROFX format are stored in ROFX categories - anyone may surf through this web site and read the releases posted there.
+
+We invite press and news releases authors and web site owners to spread the ROFX format as a comfortable and useful technology.
+
+Visit please our web site http://www.rofx.org and find all information and software.
+
+

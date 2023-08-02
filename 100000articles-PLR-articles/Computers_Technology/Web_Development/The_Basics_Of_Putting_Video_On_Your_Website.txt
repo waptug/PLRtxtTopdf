@@ -1,0 +1,64 @@
+Title: 
+The Basics Of Putting Video On Your Website
+
+Word Count:
+670
+
+Summary:
+If you’re not using video on your website yet, then you’re missing out on a great opportunity to increase customer responsiveness to your website.
+
+With the ever growing population of broadband users in the United States, video has become mainstream. You only need to look at the most popular sites on the Internet and see that http://Youtube.com is the 8th most popular website in the world. Youtube is a site that shows videos, so broadband is essential to using and enjoying ...
+
+
+Keywords:
+video, marketing, online, infomercial, how to, record, commercial. advertise, youtube, business
+
+
+Article Body:
+If you’re not using video on your website yet, then you’re missing out on a great opportunity to increase customer responsiveness to your website.
+
+With the ever growing population of broadband users in the United States, video has become mainstream. You only need to look at the most popular sites on the Internet and see that http://Youtube.com is the 8th most popular website in the world. Youtube is a site that shows videos, so broadband is essential to using and enjoying the site. It is estimated that 65% of Internet users in the United States have broadband access, and that number is expected to grow to 80% by 2010.
+
+However, putting video on a website can seem quite intimidating if you’ve never done it before. I know. I’ve been in that position. When I first started learning about putting videos on the Internet I didn’t even own a video camera or know how to use one.
+
+Fortunately, technology has made putting your videos on the Internet far easier than in the past. Now you can relatively quickly film a video, add professional looking effects, upload it, and post it on your website.
+
+What You’ll Need
+
+•A computer with a firewire port and Windows XP (preferably a laptop – if yours doesn’t have one, you can buy an adapter)
+•A digital video camera
+•A firewire cable
+•A tripod
+•A well lit area
+
+Those are actually the only essential tools. Now there are a lot of extra tools you can add to really add professionalism to your videos, but those are for another time. I just want to focus on helping you get your first video up.
+
+Step 1 - Setting Up
+
+Go ahead and put your video camera on the tripod. Setup your laptop next to the video camera. Now go ahead and plug in the firewire cable to the video camera and then to the firewire port on your computer. Your computer should automatically recognize the camera and ask you what you want to do. Click on the capture video icon.  This will open up Windows Movie Maker on your computer – a free program installed on all Windows XP computers (I’m assuming your using a PC and not a Mac since Macs are a bit more intuitive for making videos, and you probably won’t need this guide) Make sure you’re area is well lit. You will want it to seem really bright in order for it to look good on video.
+
+Step 2 - Recording the video
+
+All you need to do is click on capture video in Windows Movie Maker and you can record your video. When you’re done, just push stop.
+
+Step 3 – Editing Your Video
+
+Once you’ve finished recording your video, you’ll see your clip showing in the collections section of Windows Movie Maker.  Click on the clip and drag the clip to the timeline at the bottom of the application. Once it shows in the timeline, you’re able to edit the length, and cut out parts. You can also add music or add a title screen and credits.
+
+Step 4 – Saving Your Video
+
+Once you’ve finished editing your video, you’re ready to save it. Just click save, and tell windows to save it in the best quality for playback on your computer format. This will keep the file from becoming huge and will make it much faster to upload.
+
+Step 5 – Uploading Your Video
+
+Go to http://Youtube.com and sign up for a free account. Once you’re signed up, click on my videos and then on upload a video. Find the file you saved on your computer and upload it to Youtube.
+
+Step 6 – Publishing To Your Website
+
+Once you’re done uploading your video. Go ahead and watch your video. To the right of the video you’ll see a section labeled Embed. Copy that code and paste it to the website where you want you video to appear.
+
+Viola.
+
+You’ve just put your video online.
+
+

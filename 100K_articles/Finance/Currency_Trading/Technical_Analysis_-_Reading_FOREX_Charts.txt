@@ -1,0 +1,39 @@
+Title: 
+Technical Analysis - Reading FOREX Charts
+
+Word Count:
+586
+
+Summary:
+Descriptions of various charts and technical indicators.
+
+
+Keywords:
+forex, forex trading, learn forex, forex online
+
+
+Article Body:
+Price charts can be simple line graphs, bar graphs or even candlestick graphs. These are graphs that show prices during specified time frames. These time frames can be anywhere from minutes to years or any time interval in between. 
+Line charts are the easiest to read, they will show you the broad overview of price movement. They only show the closing price for the specified interval, they make it very easy to pick out patterns and trends but do not provide the fine detail of a bar or candlestick chart.
+
+With a bar chart the length of a line displays the price spread during that time interval. The larger the bar is the greater the price difference between the high and low price during the interval. It is easy to tell at a glance if the price rose or fell because the left tab shows the opening price and the right tab the closing price. Then the bar will give you the price variation. When printed bar charts can be difficult to read but most software charts have a zoom function so you can easily read even closely spaced bars.
+
+Originally developed in Japan for analyzing candlestick contracts candlestick charts are very useful for analyzing FOREX prices. Candlestick charts are very similar to bar charts they both show the high, the low, open and close price for the indicated time. However the color coding makes it much easier to read a candlestick chart, normally a green candlestick indicates a rising price and a red one indicates a falling price.
+
+The actual candlestick shape in reference to the candlesticks around it will tell you a lot about the price movement and will greatly aid your analysis. Depending on the price spread various patterns will be formed by the candlesticks. Many of the shapes have some rather exotic names, but once you learn the patterns they are easy to pick out and analyze.
+
+Price charts are not usually used by themselves to get the full affect you need to supplement them with some technical indicators. Technical indicators are normally grouped into some pretty broad categories. Some of the more common ones used to monitor and track the market movement are: trend indicators, strength indicators, volatility indicators, and cycle indicators.
+
+Here is a list of some of the more commonly used indicators as well as a brief description.
+
+Average Directional Movement Index (ADX) – This index will help indicate if the market is moving in a trend in either direction and how strong the trend is. If a trend has readings in excess of 25 then this is considered a stronger trend.
+
+Moving Average Convergence/Divergence (MACD) – This shows the relationship between the moving averages which allows you to determine the momentum of the market. Any time that the signal line is crossed by the MACD it is considered to be a strong market.
+
+Stochastic Oscillator – This compares the closing price to the price range over a specific time frame to determine the strength or weakness of the market. If a currency has a stochastic of greater than 80 it is considered overbought. However if the stochastic is under 20 then the currency is considered undersold.
+
+Relative Strength Indicator (RSI) – This is a scale from 1 to 100 to compare the high and low prices over time. If the RSI rises above 70 it is considered overbought where as anything below 30 is considered oversold.
+
+Moving Average – This is created by comparing the average price for a time period to the average price of other time periods.
+
+

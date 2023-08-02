@@ -1,0 +1,30 @@
+Title: 
+Servers - Do You Need One For Your Business?
+
+Word Count:
+514
+
+Summary:
+When you start an online business, one of the most important decisions you can make is which server to use. A web server is what makes an internet site run. It takes a web page request, finds the URL’s file, and loads the file onto the requester’s browser. The base of any online business is the server, and the key to choosing the right server is knowing the needs of your business and understanding which server will provide the most benefits.
+
+If you own a small business, Vi...
+
+
+Keywords:
+servers, wireless,hardware,computers,software,internet,online,business
+
+
+Article Body:
+When you start an online business, one of the most important decisions you can make is which server to use. A web server is what makes an internet site run. It takes a web page request, finds the URL’s file, and loads the file onto the requester’s browser. The base of any online business is the server, and the key to choosing the right server is knowing the needs of your business and understanding which server will provide the most benefits.
+
+If you own a small business, Virtual Hosting is a popular choice. You can open an account for somewhere between 20 and 50 dollars a month. You’re only allowed one site per account, so if you decide to create a second website, just open a second account. Because it’s a single server with numerous users, it is controlled by an administrator. If you want to change your settings, you must contact the administrator and leave it to him/her to decide what to do. The good side of this is that you don’t have to worry about knowing how to work the program; the bad side is that you don’t have as much control. However, if you own a small business with just one or two websites, it’s a smart decision.
+
+If you own a larger business with more websites, a Virtual Private Server may be a better option. It is a single server that branches out, which means you share expenses with other users while maintaining your freedom. It’s best if you have some knowledge of the program, as you are your own administrator, controlling the settings with the help of a manual. However, even if you don’t know the program, you’ll do well as long as you feel comfortable with the manual. Because a Virtual Private Server lets you have up to 50 websites at just over 100 dollars a month, this is the wisest choice if you own a big, complex business.
+
+You must also know which web server software to choose. Sometimes you’re not given a choice, but in case you are, know the pros and cons of each option.
+
+Two popular types of web server software are Microsoft Internet Information Server (IIS) and Apache. You can only use IIS on NT-based server systems - basically, Microsoft with Microsoft. However, it is easy to use, heavily backed, and has crash protection. Apache, on the other hand, doesn’t have any support, but it’s free and is therefore the most popular web server software in the world. It is updated all the time for your convenience.
+
+There are many other servers and software to choose from, but these are some of the basics that will help you make your choices. Online businesses are hard to manage, so you don’t want to choose the wrong server and spend all your time worrying about it instead of profits. Taking into account costs, safety, and preferences, you can choose your server wisely and make your business a success, starting from the base and working up.
+
+

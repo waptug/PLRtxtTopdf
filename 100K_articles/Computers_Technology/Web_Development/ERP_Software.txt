@@ -1,0 +1,54 @@
+Title: 
+ERP Software
+
+Word Count:
+696
+
+Summary:
+ERP Software (Enterprise Resource Planning) often leads people to a lot of confusion. Which software is best and which ERP software will be the easiest to implement. The key to selecting ERP software systems is to understand your own requirements first. Document your specific requirements of what the ERP software should do for you. Do not only make a wish list, but include the things your current software does right. Many times people make the mistakes of selecting systems on...
+
+
+Keywords:
+ERP, ERP failure, Discrete, Process, Manufacturing software, enterprise resource planning, selecting
+
+
+Article Body:
+ERP Software (Enterprise Resource Planning) often leads people to a lot of confusion. Which software is best and which ERP software will be the easiest to implement. The key to selecting ERP software systems is to understand your own requirements first. Document your specific requirements of what the ERP software should do for you. Do not only make a wish list, but include the things your current software does right. Many times people make the mistakes of selecting systems on what their system doesn’t do currently, but then come to find out, all the things that the old system did well, the new ERP software does not do. Be comprehensive.
+
+Next look at your business and determine the broader category of what you do. Are you a discrete manufacturer, a process manufacturer (using formulas or recipes), or are you a service based company? Is your company heavily retail with Point of Sale needs? ERP software is segmented by the various niches that a company can fall into. This makes it easier to narrow down the field of software to look at. Be sure to look at the size in sales and see what Tier of ERP software you might fit into. Tier 1 is for larger multinationals or companies with many diverse business units. Tier 2 is for the companies with one to many branches doing similar things. Tier 3 looks at smaller single site companies that do not have very complex processes.
+
+For example. If you are work for a company with four manufacturing facilities, all making roughly the same sort of products, and your revenues are are under $250 million dollars, then you are a good candidate for a Tier 2 ERP software. The following is a sample list of some main ERP software vendors: (There is a more comprehensive list at http://www.erpandmore.com/erp-vendors.)
+
+Tier 1 ERP Software
+
+* SAP
+* Oracle
+* JD Edwards
+
+Tier 2 ERP Software
+
+* SSA ERP LN
+* Epicor Vantage
+* QAD
+* IFS
+* IBS
+* Microsoft Dynamics AX (or NV)
+
+Tier 3 ERP Software
+
+* Made-2-Manage
+* Microsoft Dynamics GP
+* Intuitive Software
+* Global Shop
+* DBA Software
+* Epicor Vista
+
+Once you have narrowed down your criteria to which tier you fit into and then you can start investigating the focus niches of each of these systems. From that you can then compare your specific requirements to the functionality of each of the targeted the ERP systems. The selection process should be deliberate and there are many pitfalls.
+
+Once you have a few ERP vendors that you are working with, you can then narrow it down to the 2 or 3 based on requirements to have them show you the system in detail. This detailed system review should be done completely based on the requirements and should show the daily processing of your business processes. Don’t forget too that you are also looking at a vendor with whom you can work for the next few years. It is like a marriage and so you want to make sure that the partner you are selecting is one you can live with.
+
+When you finally select the system, ensure that you do reference checks. The ERP software vendors will always give you favorable clients to contact. But remember that often what is unsaid is more important than what is said. If you visit the references, be sure to watch transactions being entered. Try to see how the people are using the system. Learn from their mistakes too! Find out what went right and wrong during their implementations. Often these lessons learned will help you in your implementation.
+
+In summary, ERP Software is very complex and requires more time and diligence than people realize. When selecting, it can be overwhelming. As such, a third party may be able to assist you. Take a look at consultants who are unbiased and specialize in helping companies select systems. But if you choose to do it on your own, make sure that you have your baseline of requirements to lead you through. Focus on the business process and the business needs, not only on the look and feel of the software. If you keep coming back to the requirements, you will ultimately see which ERP Software works for you.
+
+

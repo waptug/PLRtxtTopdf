@@ -1,0 +1,32 @@
+Title: 
+The Technology In A LCD Monitor
+
+Word Count:
+602
+
+Summary:
+Liquid Crystal display or LCD monitor is a thin and flat device for display. It is made by large number of color or monochromatic pixels which are arrayed in way of a light source or a reflector. It uses very small amount of electric power and hence is used often in battery powered electronic devices. The technology used is very much dissimilar to CRT technology which is used by many desktop monitors. It was used only on notebook computers for a very long time. Only recently ...
+
+
+Keywords:
+lcd, lcd monitor, lcd display
+
+
+Article Body:
+Liquid Crystal display or LCD monitor is a thin and flat device for display. It is made by large number of color or monochromatic pixels which are arrayed in way of a light source or a reflector. It uses very small amount of electric power and hence is used often in battery powered electronic devices. The technology used is very much dissimilar to CRT technology which is used by many desktop monitors. It was used only on notebook computers for a very long time. Only recently they have been offered as an alternative to CRT monitors. They take up very less desk space and are much lighter than the CRT monitors. But they are also quite expensive.
+
+Each pixel of LCD monitor display has a layer of aligned molecules between two electrodes which are transparent and two polarizing filters. Because there is no liquid crystal between the aligned polarizing filters, light which has passed through the first filter will be blocked by the second polarizer. The surface which is in contact with the crystal is treated to align it in particular direction. The direction of alignment is defined by direction of rubbing.
+
+Resolution, in terms of horizontal and vertical size expressed in pixels, is native supported for the best display effects. This is one of the things that sets LCD monitor apart. Dot Pitch is defined as the distance between two adjacent pixels. It is the minimum for sharper image. Each pixel is divided into three cells, or sub pixels. These are colored red, green and blue. Each sub pixel can be controlled independently for millions of combinations and hence colors. Older CRT monitors use phosphors for sub pixel structure. The analog electron beam though does not hit the exact sub pixel.
+
+Color components can be arrayed in various geometries, depending on how the monitor is to be used. If the software being used knows the geometry, it can be used to increase the apparent number of pixels using sub pixel rendering. This kind of technique is often used in text anti-aliasing. LCDs which are used in digital watches and calculators have separate contact for each segment. Thus an external dedicated circuit charges each segment individually. This is not possible if the number of elements increases.
+
+Small monochrome displays like the ones used in Personal Organizers or in older laptops have passive matrix like structure and employ super twisted nematic or double layer STN technology. Here, each row or each column has a single electrical circuit and the pixels are hence addressed according to rows and columns. But as the number of pixels increases, the response time decreases and the technique no longer remains feasible.
+
+Color displays used in modern LCD monitors and televisions use active matrix structure. An array of thin film transistors (TFT) is added. Each pixel has a dedicated transistor. Active Matrix display looks brighter and sharper than passive matrix display of similar size and has better response time.
+
+LCD technology has some critical drawbacks too. Resolution of a CRT monitor can be changed without introduction of any new artifact. But LCDs can produce only their native resolution and non native resolutions are achieved by scaling. The blacks of LCDs are actually grey because of presence of a light source. This results in lower contrast ratio when compared to CRTs. LCDs with cheaper parts cannot display as many colors plasma or CRT counterparts.
+
+Also, LCD display has longer response time when compared to Plasma or CRT counterparts. Input lag is also present and the viewing angle is limited. In spite of these drawbacks, LCD display is quickly gaining prominence.
+
+

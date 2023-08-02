@@ -1,0 +1,51 @@
+Title: 
+Emini Futures S&P 500 And NASDAQ 100 : Basic Trading Info
+
+Word Count:
+625
+
+Summary:
+What are Index Futures? 
+Future contracts originate from commodity trading. A future contract is an obligation to buy/sell a certain quantity of commodity at a specific date for a specific price determined at the outset of the contract. Future contracts are frequently used for hedging risks and also for speculation. 
+
+For example, with the recent hike in oil prices, an airline company which uses a lot of fuel might want to hedge it's exposure to oil prices through the purc...
+
+
+Keywords:
+emini, S&P 500, futures, nasdaq 100, day trade, index futures,
+
+
+Article Body:
+What are Index Futures? 
+Future contracts originate from commodity trading. A future contract is an obligation to buy/sell a certain quantity of commodity at a specific date for a specific price determined at the outset of the contract. Future contracts are frequently used for hedging risks and also for speculation. 
+
+For example, with the recent hike in oil prices, an airline company which uses a lot of fuel might want to hedge it's exposure to oil prices through the purchase of oil futures. If the price of oil is $60 now and is expected to go up to $70 within 3 months, the airline would hedge its exposure by purchasing the 3 month future contracts so long as the agreed price is less than $70. 
+
+Oil prices now $60 
+Expected oil price in 3 mth's time (by airline) $70 
+Price of 3 mth oil contract (by oil producer) $68 
+Actual price 3 mths later $65 
+
+Let's assume the airline can find an oil producer willing to sell oil 3 month later for $68, the company would enter a futures agreement with this oil producer for delivery of a certain quantity of oil in 3 month's time. If the price of oil falls to $65, the airline still has to purchase at the agreed price of $68. But what propelled the airline to enter the futures contract in the first place is its expectations of future oil prices going up to $70 in 3 months and buying at a price below $70 (3 months later) seemed reasonable to the company. 
+
+Index futures are cash settled, there is no physical delivery of commodity as in the case of wheat, corn, etc. Although index futures can also be held for the long term, the time span we are concentrating on is a day. We are using the index futures as a vehicle for speculation and not for hedging as in the case of the airline company.
+
+What is the Emini S&P 500 and NASDAQ 100? 
+NASDAQ 100 and S&P 500 index futures is listed on the Chicago Mercantile Exchange (CME) and trades on the Globex electronic system. CME acts as the counter party for each trade, hence if you short futures, CME will be taking the long position and vice versa. 
+
+NASDAQ 100 Emini contracts is actually one fifth the size of their larger counterparts, the NASDAQ 100 index futures. Each point of the index will represent $20 and the minimum fluctuation ( tick size ) is 0.5 points which is equivalent to $10. 
+
+S&P 500 Emini contracts is actually one fifth the size of their larger counterparts, the S&P 500 index futures. Each point of the index will represent $50 and the minimum fluctuation ( tick size ) is 0.25 points which is equivalent to $12.50. 
+
+Globex opens from 16:30(EST) on weekdays and 18:00(EST) on Sundays and public holidays. The closing time is 16:15(EST) on all days. However, there will be a scheduled maintenance of Globex from 17:30 till 18:00 (Monday through Thursday, nightly). I know the timings can be quite complicated, however as day traders, we are mostly concerned with trading when the market is opened as we have to capitalize on the higher liquidity available. I do not recommend entering trades after market hours, due to low volume which leads to slippage. The time span you have to concentrate on is really the market opening hours from 9:30 till 16:15 (EST). 
+
+More information regarding the contract specification of the Emini can be found on CME's website.
+
+symbols for the S&P 500 and NASDAQ 100 Emini index futures. Both the NQ and ES emini contracts have expiry months in March, June, September and December which are denoted by the letters "H", "M", "U", "Z" respectively. Hence NQ05Z will represent the NASDAQ 100 emini contract with expiry month in December 2005. Similarly, ES06H will be the symbol for an S&P 500 emini contract with expiry month in March 2006. 
+
+March H 
+June M 
+September U 
+December Z
+
+

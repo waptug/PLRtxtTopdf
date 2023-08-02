@@ -1,0 +1,114 @@
+Title: 
+10 quick and easy ways to speed up your computer!
+
+Word Count:
+933
+
+Summary:
+Many people are interested in making the most of their hardware. So here are 10 simple tips on how to make your Windows computer run faster without having to purchase additional hardware.
+
+
+Keywords:
+10 ways to speed up Windows
+
+
+Article Body:
+Many people are interested in making the most of their hardware. So here are 10 simple tips on how to make your Windows XP computer run faster without having to purchase additional hardware. 
+
+1. Defrag Disk to Speed Up Access to Data
+
+One of the factors that slow the performance of the computer is disk fragmentation. When files are fragmented, the computer must search the hard disk when the file is opened to piece it back together. To speed up the response time, you should monthly run Disk Defragmenter, a Windows utility that defrags and consolidates fragmented files for quicker computer response. 
+
+* Follow Start > All Programs > Accessories > System Tools > Disk Defragmenter 
+* Click the drives you want to defrag and click Analyze 
+* Click Defragment 
+
+
+2. Detect and Repair Disk Errors
+
+Over time, your hard disk develops bad sectors. Bad sectors slow down hard disk performance and sometimes make data writing difficult or even impossible. To detect and repair disk errors, Windows has a built-in tool called the Error Checking utility. It’ll search the hard disk for bad sectors and system errors and repair them for faster performance. 
+
+* Follow Start > My Computer 
+* In My Computer right-click the hard disk you want to scan and click Properties
+* Click the Tools tab 
+* Click Check Now 
+* Select the Scan for and attempt recovery of bad sectors check box 
+* Click Start 
+
+
+3. Disable Indexing Services
+
+Indexing Services is a little application that uses a lot of CPU. By indexing and updating lists of all the files on the computer, it helps you to do a search for something faster as it scans the index list. But if you know where your files are, you can disable this system service. It won’t do any harm to you machine, whether you search often or not very often. 
+
+* Go to Start 
+* Click Settings 
+* Click Control Panel 
+* Double-click Add/Remove Programs 
+* Click the Add/Remove Window Components 
+* Uncheck the Indexing services 
+* Click Next 
+
+
+4. Optimize Display Settings 
+
+Windows XP is a looker. But it costs you system resources that are used to display all the visual items and effects. Windows looks fine if you disable most of the settings and leave the following: 
+
+* Show shadows under menus 
+* Show shadows under mouse pointer 
+* Show translucent selection rectangle 
+* Use drop shadows for icons labels on the desktop 
+* Use visual styles on windows and buttons 
+
+
+6. Disable Performance Counters 
+
+Windows XP has a performance monitor utility which monitors several areas of your PC’s performance. These utilities take up system resources so disabling is a good idea. 
+
+* Download and install the Extensible Performance Counter List (http://www.microsoft.com/windows2000/techinfo/reskit/tools/existing/exctrlst-o.asp) 
+* Then select each counter in turn in the ‘Extensible performance counters’ window and clear the ‘performance counters enabled’ checkbox at the bottom button below 
+
+
+7. Optimize Your Pagefile 
+
+You can optimize your pagefile. Setting a fixed size to your pagefile saves the operating system from the need to resize the pagefile. 
+
+* Right click on My Computer and select Properties 
+* Select the Advanced tab 
+* Under Performance choose the Settings button 
+* Select the Advanced tab again and under Virtual Memory select Change 
+
+* Highlight the drive containing your page file and make the initial Size of the file the same as the Maximum Size of the file. 
+
+
+8. Remove Fonts for Speed 
+
+Fonts, especially TrueType fonts, use quite a bit of system resources. For optimal performance, trim your fonts down to just those that you need to use on a daily basis and fonts that applications may require. 
+
+* Open Control Panel 
+* Open Fonts folder 
+* Move fonts you don’t need to a temporary directory (e.g. C:\FONTBKUP?) just in case you need or want to bring a few of them back. The more fonts you uninstall, the more system resources you will gain. 
+
+
+9. Use a Flash Memory to Boost Performance 
+
+To improve performance, you need to install additional RAM memory. It’ll let you boot your OS much quicker and run many applications and access data quicker. There is no easiest and more technically elegant way to do it than use eBoostr (http://www.eboostr.com). 
+
+eBoostr is a little program that lets you improve a performance of any computer, powered by Windows XP in much the same way as Vista’s ReadyBoost. With eBoostr, if you have a flash drive, such as a USB flash thumb drive or an SD card, you can use it to make your computer run better. Simply plug in a flash drive through a USB socket and Windows XP will use eBoostr to utilize the flash memory to improve performance. 
+
+The product shows the best results for frequently used applications and data, which becomes a great feature for people who are using office programs, graphics applications or developer tools. It’ll surely attract a special attention of laptop owners as laptop upgrade is usually more complicated and laptop hard drives are by definition slower than those of desktops. 
+
+
+10. Perform a Boot Defragment 
+
+There's a simple way to speed up XP startup: make your system do a boot defragment, which will put all the boot files next to one another on your hard disk. When boot files are in close proximity to one another, your system will start faster. 
+
+On most systems, boot defragment should be enabled by default, but it might not be on yours, or it might have been changed inadvertently. To make sure that boot defragment is enabled: 
+
+
+* Run the Registry Editor 
+* Go to HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Dfrg\BootOptimizeFunction 
+* Set the Enable string value to Y if it is not already set to Y. 
+* Exit the Registry 
+* Reboot
+
+

@@ -1,0 +1,45 @@
+Title: 
+Microsoft Certification 101
+
+Word Count:
+450
+
+Summary:
+In the current job market, Microsoft certifications represent one of the richest and varied spectrums of job roles and responsibilities, which are embraced by industry professionals worldwide, that earning a specific credential provides an objective validation of their ability to successfully perform critical IT functions in a wide range of companies and industries.
+
+
+Keywords:
+microsoft certification, MCSE certification
+
+
+Article Body:
+In the current job market, Microsoft certifications represent one of the richest and varied spectrums of job roles and responsibilities, which are embraced by industry professionals worldwide, that earning a specific credential provides an objective validation of their ability to successfully perform critical IT functions in a wide range of companies and industries.
+
+Microsoft certification is the top effective way to achieve goals in long-term IT careers, being at the same time a useful tool for companies to develop and retain valuable IT professionals
+
+The following certifications are aimed for network administrators, network engineers, systems administrators, IT engineers, information systems administrators, network technicians, technical support specialists and other IT professionals currently working in complex computing environment of medium-to-large organizations. 
+
+- MCSE (Microsoft Certified Systems Engineer) certification
+A Microsoft Certified Systems Engineer credential qualifies an IT professional to effectively plan, maintain, implement, and support information systems in diverse computing environments using both the Microsoft Windows 2003 Server and the Microsoft .NET integrated family of server products.
+
+To qualify prerequisite is completion of network+ or documentation of equivalent experience for at least one year on Windows 2003, implementing and administering a network operating system
+
+- MCAD (Microsoft Certified Application Developer) certification
+The Microsoft Certified Application Developer (MCAD) credential provides industry recognition to professional developers who build applications using Microsoft Visual Studio. An MCSD candidate should have experience equivalent to one or two years of deploying, building, and maintaining applications. 
+
+This certification is designed for individuals who intend to pursue the skills necessary to develop Windows-based applications using Microsoft Visual Basic .NET, Microsoft ASP .NET, and for those interested in developing XML Web services-based solutions.
+
+- MCSD (Microsoft Certified Software Developer) certification
+The Microsoft Certified Solution Developer (MCSD) for Microsoft .NET credential is the top-level certification for advanced developers requiring as prerequisite an MCSD for Microsoft .NET and two years of experience developing and maintaining solutions and applications.
+
+This refers to the professional who designs and develops leading-edge enterprise solutions, using Microsoft development tools and technologies including also the Microsoft .NET, a certification to gain the knowledge, skills, and validation needed to be recognized as an expert with Microsoft products and technologies. 
+
+- MCSA (Microsoft Certified Systems Analyst) certification
+The Microsoft Certified Systems Administrator (MCSA) credential will provide you with skills to successfully manage, implement, and troubleshoot the needs of Microsoft Windows 2003–based operating environments. 
+
+This certification requires a prerequisite completion of network+ or documentation of equivalent experience.
+
+- MCT (Microsoft Certified Trainer) 
+The Microsoft Certified Trainers (MCTs) are technical and instructional experts in Microsoft technologies, products and solutions. They are in charge of Learning Solutions for partners who are required to use a Microsoft Certified Trainer when delivering training using Microsoft Business Solutions courses or official Microsoft Learning products.
+
+

@@ -1,0 +1,72 @@
+Title: 
+Batteries Q&A: Understanding Different Types Of Batteries
+
+Word Count:
+618
+
+Summary:
+* What are the different types of batteries?
+
+Batteries are grouped in two ways. It is by application and by the process of construction. The major type of application batteries are the automotive, marine, and deep cycled. While the construction type are flooded, gelled and AGM.
+
+The deep cycled types of batteries have a capacity for solar electric for back up energy. As for a technical description... Compared to AGM battery, this type has a starve electrolyte or dry mech...
+
+
+Keywords:
+batteries,battery,chargers,rechargeable,rechargable,battery chargers,voltage,ups,backup systems
+
+
+Article Body:
+* What are the different types of batteries?
+
+Batteries are grouped in two ways. It is by application and by the process of construction. The major type of application batteries are the automotive, marine, and deep cycled. While the construction type are flooded, gelled and AGM.
+
+The deep cycled types of batteries have a capacity for solar electric for back up energy. As for a technical description... Compared to AGM battery, this type has a starve electrolyte or dry mechanism. Most of the application batteries are made of fiberglass mat with a high-density compound of sulfuric acid, which applies a “no excess liquid” compounds.
+
+Construction batteries have a standard and removable cap. It is sometimes called as maintenance-free battery. It also has a regulated sealed valve. The valve contributes the slight regulated pressures.
+
+For a complete chart of all types of batteries, see the link in the author's signature.
+
+
+* What is a DC battery?
+
+Direct current is a kind of electricity supplied. By using a DC battery, the electric charge moves in a single direction. It can cause an imbalance to the electric charges.
+
+The side of the DC battery is sealed with electrolyte and several forms of metal. The electrolytes have a different form of electrons, which is positively charge.
+
+The terminal of the battery has positive and negative poles. These poles are connected which each other. The current flows with the connection of the poles.
+
+
+* What are sealed batteries?
+
+Sealed batteries are non-spoilable and a maintenance-free battery. They have no liquid, therefore, there is no corrosion. A sealed battery has a characteristic of low self-discharging and cracking amperage.
+
+A sealed battery is designed to supply both starting and reserve applications. It has a longer life and more competent outline. Most of the sealed batteries are used in order to have a more “cost cutting” battery and to minimize the price to the user.
+
+
+* What is a deep cycle battery?
+
+A deep cycle battery usually has a thick, heavy lead plate. This plate helps the battery withstand deep charging. It cannot dispense a charge rapidly compared to a starter battery. It can also be used to initiate combustion in engines. It is a kind of battery with a longer life span because of its thick plates.
+
+
+* What is a starting battery?
+
+A starting battery is intended for engines for combustion to continue without interruption. It has multiple thin plates which enable it to release a large amount of current very quickly for just a small amount of time.
+
+On the other hand, a starting battery cannot stand being discharged deeply. The majority of the starter batteries can only withstand a complete discharge a few minute before spoiled.
+
+
+* What is a gel cell battery?
+
+A gel battery is also called a gel cell. It has a quantity of silica gel that converts the acids into a solid mass. The great benefit of these batteries is that it is unfeasible to drip acid even if they are broken.
+
+This kind of battery charges slowly. They cannot cope up with the conventional automotive charger. The current flow is also limited. Furthermore, they can be damaged easily.
+
+
+* What is an AGM battery?
+
+AGM stands for “Absorbed Glass Mats.” It is the newest type of sealed battery that is used between plates. The plates are composed of a very fine fiber made of Boron and Silicon glass.  This kind of battery has the same features as a gelled type, but it can take more of a discharge.
+
+It does not spill out evenly if it is broken. Glass mats assist in holding together the acid and electrolytes. It is also immune from spilling damage because it has no liquid on its inner layer.
+
+

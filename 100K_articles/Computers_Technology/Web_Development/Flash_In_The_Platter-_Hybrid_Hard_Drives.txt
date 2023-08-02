@@ -1,0 +1,32 @@
+Title: 
+Flash In The Platter- Hybrid Hard Drives
+
+Word Count:
+495
+
+Summary:
+A hybrid hard drive (HHD) is a standard hard drive fitted with a large buffer or memory cache that does not require a spinning disk to record data. This "non volatile" form of flash memory is included in the HHD in increments of up to one gigabyte, resulting in a hard drive that basically functions to back up the memory cache.
+
+The "platters," or discs in a hybrid hard drive are thus required to crank up and spin only when the buffer memory is filled or when the computer op...
+
+
+Keywords:
+website hosting, hybrid, hard drives, flash, memory, combination, speed, efficiency
+
+
+Article Body:
+A hybrid hard drive (HHD) is a standard hard drive fitted with a large buffer or memory cache that does not require a spinning disk to record data. This "non volatile" form of flash memory is included in the HHD in increments of up to one gigabyte, resulting in a hard drive that basically functions to back up the memory cache.
+
+The "platters," or discs in a hybrid hard drive are thus required to crank up and spin only when the buffer memory is filled or when the computer operator is moving extremely large files around. The result is that for normal computer operators, the hard drive is actually spinning a fraction of the time that the computer is in operation, compared with one hundred percent of the time for a standard hard drive.
+
+The advantages of this format are several. Because the HHD is actually turning only ten percent of the time or less, the computer consumes far less power and generates far less heat. These features are particularly valuable in a laptop that is operating on battery power. It is also true that laptops have been somewhat limited in the video horsepower they can handle due to heat generation. Any reduction in heat for a laptop is going to allow for the expansion of available features.
+
+When the computer operator is working only off the buffer memory, the result is also increased speed. The reverse is true, however, when it is necessary to search and retrieve files stored on the hard drive itself. That requires the discs to get up to speed and the search software to execute its function, a process that is somewhat slower than with a computer equipped with a standard drive.
+
+Proponents also note that a motionless hard drive is a silent hard drive, thus reducing the noise output of the computer. Wear and tear on the hard drive is also greatly reduced by this engineering concept, resulting in longer life for the hard drive - and, in all likelihood, its computer. One of the potential downsides for HHDs, however, is the fact that most of the wear on a hard drive and the majority of its power consumption occurs during "spin up." That means the constant starting and stopping could create power usage and wear that is not currently part of a standard computer's function.
+
+There is also the possibility of data loss in the event that the computer crashes. A flash memory device loses all data when it goes down. A hard drive, on the other hand, can often be coaxed to produce "lost" data from a crash - a process that usually requires an expert, but that is a possibility nonetheless.
+
+Samsung and Microsoft have collaborated on a hybrid due for introduction in 2007. While Samsung is the world leader in the production of flash memory devices, it is unclear what role Microsoft is playing in the product rollout - other than nosing its way into yet another market segment.
+
+

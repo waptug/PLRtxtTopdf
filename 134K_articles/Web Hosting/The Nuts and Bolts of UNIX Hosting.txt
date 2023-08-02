@@ -1,0 +1,14 @@
+The Nuts and Bolts of UNIX Hosting
+
+UNIX hosting involves a machine configured on a UNIX platform which is a multi-user computer operating system designed primarily for servers and advanced users. UNIX provides the base operating system architecture for many open source companies, such as Solaris (Sun Microsystems), Linux (GNU), and others. In regards to web hosting, choosing the UNIX web hosting alternative has its advantages and disadvantages. 
+
+UNIX has been around for years and it was the language of choice for midframe computer users. Windows actually copied the UNIX file naming convention technique when they created Microsoft Windows.
+
+UNIX hosting is cheaper than Windows hosting. Because most web hosts use the free version of UNIX (like Linux), they don't have to compensate for huge overhead expenses which you have with any Windows Operating System. Savings is passed to customers. In addition, those who use UNIX hosting usually get free tools and applications that have been written primarily for the UNIX community. Since UNIX hosting is an "open system", its source code is publicly available for free from various web sites.
+
+This allows web developers working for various companies and for different purposes to add rapid development of applications quickly. As a result, improvements come fast and problems are quickly resolved. 
+
+The main disadvantage of using UNIX hosting is that your provider may only allow access to your account via Telnet or SSH. As are result, you must have a strong working knowledge of UNIX commands in order to customize to your requirements. You may find yourself spending a lot of time learning the basics before you can enjoy the free advantages of UNIX hosting but learning the UNIX language is not that hard at all. 
+
+When considering the UNIX operating system and UNIX hosting, you need to consider your own technical abilities. Then take a look at the special features offered by each system and hosting company in light of the available technology and -- sometimes more importantly -- your budget.
+

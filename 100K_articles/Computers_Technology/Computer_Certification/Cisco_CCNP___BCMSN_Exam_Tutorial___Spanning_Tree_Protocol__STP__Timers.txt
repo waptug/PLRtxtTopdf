@@ -1,0 +1,81 @@
+Title: 
+Cisco CCNP / BCMSN Exam Tutorial:  Spanning Tree Protocol (STP) Timers
+
+Word Count:
+370
+
+Summary:
+STP timers are an important part of your CCNP studies and working with STP in real-world networks.  Learn the details of these timers and how to change them from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+ccnp, bcmsn, certification, exam, pass, free, stp, spanning, tree, protocol, forward, delay, timer
+
+
+Article Body:
+In your BCMSN / CCNP exam study, it's easy to overlook some of the details of Spanning Tree Protocol (STP). After all, you learned all of that in your CCNA studies, right? Not necessarily! While some of the BCMSN material will be a review for you, there are some details regarding familiar topics that you need to learn. That includes the timers for STP - Hello Time, MaxAge, and Forward Delay.
+
+You may remember these timers from your CCNA studies as well, and you should also remember that these timers should not be changed lightly. What you might not have known is that if you decide to change any and all of these timers, that change must be configured on the root bridge! The root bridge will inform the nonroot switches of the change via BPDUs.
+
+Hello Time is the interval between BPDUs, two seconds by default. 
+
+Forward Delay is the length of both the listening and learning STP stages, with a default value of 15 seconds.
+
+Maximum Age, referred to by the switch as MaxAge, is the amount of time a switch will retain a BPDU's contents before discarding it. The default is 20 seconds.
+
+The value of these timers can be changed with the spanning-tree vlan command shown below. Verify the changes with the show spanning-tree command.
+
+SW1(config)#spanning-tree vlan 1 ?
+
+forward-time Set the forward delay for the spanning tree
+
+hello-time Set the hello interval for the spanning tree
+
+max-age Set the max age interval for the spanning tree
+
+priority Set the bridge priority for the spanning tree
+
+root Configure switch as root
+
+
+SW1(config)#spanning-tree vlan 1 hello-time 5
+
+SW1(config)#spanning-tree vlan 1 max-age 30
+
+SW1(config)#spanning-tree vlan 1 forward-time 20
+
+SW1(config)#^Z
+ 
+SW1#show spanning-tree vlan 1
+
+VLAN0001
+
+Spanning tree enabled protocol ieee
+
+Root ID Priority 32769
+
+Address 000f.90e1.c240
+
+This bridge is the root
+
+Hello Time 5 sec Max Age 30 sec Forward Delay 20 sec
+
+Bridge ID Priority 32769 (priority 32768 sys-id-ext 1)
+
+Address 000f.90e1.c240
+
+Hello Time 5 sec Max Age 30 sec Forward Delay 20 sec
+
+Aging Time 300
+
+Interface Role Sts Cost Prio.Nbr Type
+
+---------------- ---- --- --------- -------- --------------------------------
+
+Fa0/11 Desg FWD 19 128.11 P2p
+
+Fa0/12 Desg FWD 19 128.12 P2p
+
+Again, you should always take great care in changing these timers. Those defaults are set for a reason - helping to prevent switching loops!
+
+

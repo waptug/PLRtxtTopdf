@@ -1,0 +1,24 @@
+Title: 
+Microsoft Security Patch Advance Notification
+
+Word Count:
+328
+
+Summary:
+Microsoft will be releasing their November round of security patches next Tuesday (14 November), and have advised that there will be six patches to be released. It is already known that one of the patches is for an issue that has been under active attack for several days - the MS XML 0-day vulnerability that was initially disclosed a week ago. Unsurprisingly, Microsoft have identified that this patch is a Critical update, which is their most serious vulnerability rating.
+
+B...
+
+
+Keywords:
+Microsoft, Security, Information Security, Sunnet Beskerming, Patches
+
+
+Article Body:
+Microsoft will be releasing their November round of security patches next Tuesday (14 November), and have advised that there will be six patches to be released. It is already known that one of the patches is for an issue that has been under active attack for several days - the MS XML 0-day vulnerability that was initially disclosed a week ago. Unsurprisingly, Microsoft have identified that this patch is a Critical update, which is their most serious vulnerability rating.
+
+Besides the MS XML patch, there will be five patches for other issues within Microsoft Windows, with at least one patch also rated Critical by Microsoft. Although Microsoft have not identified what elements of Windows will be receiving an update, they have hinted at upcoming patches for Internet Explorer (including the just-released IE 7), and there have been other serious vulnerabilities that have been under active attack for several weeks. This means that Wednesday (dubbed 0-day Wednesday by some) the 15th of November is likely to not see a lot of new exploit code posted / released to the world, as there are plenty of current examples of unpatched critical vulnerabilities.
+
+There are many sources of information out there that can provide end users and administrators with additional guidance and advice on the patches. One of those sources is our own Sûnnet Beskerming Security mailing lists, which will be covering brief details of the patches after they have been released. Readers are recommended to sign up (annual or one-off subcription) to the 'Security Patch Briefing' service offered by Sûnnet Beskerming. As an extra incentive, all subscribers who join prior to the middle of November are entitled to the 'Home User / Microbusiness' rate, a saving of 50% for most readers, and up to several thousand percent for major clients. The briefing packs released through this service will contain in depth guidance on just what is being patched, what the issues at hand are, and any known issues with installing and managing the patches.
+
+

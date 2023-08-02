@@ -1,0 +1,42 @@
+Title: 
+SCORM/AICC Standards Used In Web-Based Learning Management Systems
+
+Word Count:
+409
+
+Summary:
+Learning management systems can be very complex. Viable learning management systems are SCORM/AICC compliant. In this article, I will provide a basic explanation of the SCORM/AICC standard used in the marketplace today by many learning management systems.
+
+What is a learning management system?
+
+As a refresher from a previous article, learning management systems (LMSs) are web-based software application platforms used to plan, implement, and assess learning processes relat...
+
+
+Keywords:
+learning management systems, lms, elearning
+
+
+Article Body:
+Learning management systems can be very complex. Viable learning management systems are SCORM/AICC compliant. In this article, I will provide a basic explanation of the SCORM/AICC standard used in the marketplace today by many learning management systems.
+
+What is a learning management system?
+
+As a refresher from a previous article, learning management systems (LMSs) are web-based software application platforms used to plan, implement, and assess learning processes related to online and offline training administration and performance management. LMSs allow an instructor to create and deliver content, monitor learners’ participation, and assess student performance. LMSs also allow learners to use interactive features such as threaded discussions, web conferencing, discussion forums, and other methods of communication.
+
+When learning management systems are SCORM/AICC compliant, what does that mean?
+
+SCORM stands for Sharable Content Object Reference Model, which is a set of specifications that, when applied to course content, produces small, reusable e-Learning objects. A result of the Department of Defense's Advanced Distributed Learning (ADL) initiative, SCORM-compliant courseware elements are easily merged with other compliant elements to produce a highly modular repository of training materials.
+
+AICC standards apply to the development, delivery, and evaluation of training courses that are delivered via technology, i.e., more often than not, through learning management systems. AICC stands for the Aviation Industry CBT [Computer-Based Training] Committee (AICC), which is an international association of technology-based training professionals that develops training guidelines for the aviation industry.
+
+What is the Advance Distributed Learning (ADL) Initiative?
+
+ADL is a government-sponsored organization that was started to develop specifications and promote the adoption and spread of e-Learning. They are the group responsible for developing the ADL Shareable Content Object Reference Model (SCORM). SCORM parameters combine elements of the Institute of Electrical and Electronics Engineers (IEEE), AICC, and Information Management Standard (IMS) specifications into a consolidated document that can be easily implemented. SCORM-compliant courseware elements are easily merged with other compliant elements to produce a highly modular repository of training materials that allows suppliers and content developers to implement e-Learning specifications in a consistent and reusable way.
+
+In upcoming articles, we will discuss more about the SCORM/AICC standard as it is related to your learning management systems selection and other issues surrounding the SCORM/AICC standards as associated to e-Learning.
+
+More Information on the ADL and SCORM/AICC Standards
+
+More information on the ADL and the SCORM/AICC standards can be found at their web site http://www.adlnet.org.
+
+

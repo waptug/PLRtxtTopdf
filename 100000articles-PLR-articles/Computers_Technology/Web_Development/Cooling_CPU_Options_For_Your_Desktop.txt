@@ -1,0 +1,42 @@
+Title: 
+Cooling CPU Options For Your Desktop
+
+Word Count:
+484
+
+Summary:
+Powerful and fast CPUs have a nasty tendency of giving off a lot of heat. Cooling down your CPU is vital to your processor’s health and stability. When you push a CPU beyond its stock speed settings—overclocking—cooling it down becomes even more paramount; you don’t want your new expensive CPU to go up in flames.
+
+Conventional air cooling techniques can only provide so much cooling comfort for your processor. Once you’ve hit the limit with air cooling techniques, a more agg...
+
+
+Keywords:
+build a pc
+
+
+Article Body:
+Powerful and fast CPUs have a nasty tendency of giving off a lot of heat. Cooling down your CPU is vital to your processor’s health and stability. When you push a CPU beyond its stock speed settings—overclocking—cooling it down becomes even more paramount; you don’t want your new expensive CPU to go up in flames.
+
+Conventional air cooling techniques can only provide so much cooling comfort for your processor. Once you’ve hit the limit with air cooling techniques, a more aggressive cooling measure needs to be considered: water cooling. Visit http://www.waterwheel.com to learn more about PC help with building to troubleshooting.
+
+When it comes to heat dissipation, air cooling techniques have a limit. As the speed of your CPU increases, the more heat it’s bound to give off. The more heat you want to move away from your CPU, the more surface area you need for a heatsink. Air cooling is not enough. Water is an excellent medium for transporting heat away from its source. Water is, hands down, the superior cooling technique.
+
+What do I need for a Water Cooling setup?
+
+The cooling system found in your car is tantamount to what you’ll need for a cooling system in your computer: a radiator, pump, heat exchanger and fan. You’ll see more effective cooling results the larger your radiator is and the more water you’re able to get flowing through your PC.
+
+You should have a battle plan before you purchase separate components for your water cooling system. You need to make sure that all the connections fit. You can take care of everything in one fell swoop by purchasing a water cooling kit in lieu of building it yourself from scratch.
+
+What are some Important Pump Factors?
+
+An essential factor when it comes to cooling pumps is their ability to lift water to a designated height. A pump is useless to your cooling setup if it cannot elevate water over 1 foot when it’s confined inside a case where the required pumping distance is 2 feet. A good rule of thumb to follow is this: a pump capable of lifting water to a height of 3 feet will probably suffice for any cooling needs.
+
+Essential Water Block factors to consider:
+
+Most water blocks are designed to fit custom settings. Be aware of how they’ll mount in your configuration. Check to make sure that your hoses will fit nicely with your other components. A copper water block will be more effective at conducting heat than its aluminum counterpart.
+
+Radiator Guidelines to follow:
+
+Generally, the bigger your radiator, the more cooling clout your computer will have. Decide where you want to mount your radiator; size becomes an essential factor if you plan to mount your radiator inside your case. Remember that for internal mounting, a radiator 5x7 or bigger becomes harder to comfortably mount.
+
+

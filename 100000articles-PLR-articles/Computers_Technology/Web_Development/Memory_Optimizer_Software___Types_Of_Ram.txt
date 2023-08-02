@@ -1,0 +1,40 @@
+Title: 
+Memory Optimizer Software & Types Of Ram
+
+Word Count:
+403
+
+Summary:
+FPM DRAM – Fast Page Mode Dynamic Random Access Memory is one of the earlier forms of RAM type and is an improvement over the conventional DRAM. Traditional DRAM requires the physical column and row address of each memory cell for each memory access, whereas FPM DRAM uses one row address for multiple accesses.
+
+Ironically, Fast Page Mode DRAM is the slowest type of memory technology compatible with modern PCs and can only be used on buses up to a maximum of 66MHz.
+
+EDO DR...
+
+
+Keywords:
+MemAgent ,  Memory Optimizer Software, computer memory management software
+
+
+Article Body:
+FPM DRAM – Fast Page Mode Dynamic Random Access Memory is one of the earlier forms of RAM type and is an improvement over the conventional DRAM. Traditional DRAM requires the physical column and row address of each memory cell for each memory access, whereas FPM DRAM uses one row address for multiple accesses.
+
+Ironically, Fast Page Mode DRAM is the slowest type of memory technology compatible with modern PCs and can only be used on buses up to a maximum of 66MHz.
+
+EDO DRAM – Extended Data-Out Dynamic Random Access Memory is only marginally (5%) faster than FPM DRAM based on the concept of allowing a memory access to begin before the last one is finished. This saves time by overlapping the processes required to retrieve a set of data. Like FPM DRAM, it can only be used on computer systems with memory bus speeds of up to the recommended 66MHz.
+
+By the time EDO DRAM was introduced, computers (of the 486 model) became increasingly common and thus economies of scale reduced the price of EDO DRAM below that of FPM DRAM.
+
+SDRAM - Synchronous Dynamic Random Access Memory departed from FPM and EDO DRAM’s architecture and can be run on systems with higher memory bus speeds (100Mhz and more). It runs synchronously with the system clock, after the initial read or write, and thus allows read or write operations at one access per system clock cycle.
+
+Despite the improvements over older memory technology, SDRAM is only marginally (5%) faster than EDO DRAM. However, the main objective of SDRAM was to be able to use RAM on higher memory bus speeds.
+
+DDR SDRAM – Double Data Rate Synchronous Dynamic Random Access Memory is quite a long name when you think about it :o) DDR SDRAM is based on the SDRAM concept with just one exception – doubling the number of read or write operations to two accesses per system clock cycle. This effectively double the memory bandwidth over conventional SDRAM.
+
+The DDR SDRAM concept is used in AGP (Advanced Graphics Port) technology to improve performance of graphics cards.
+
+DRDRAM – Direct Rambus Dynamic Random Access Memory offers the largest departure to conventional RAM architecture. The concept centres on the high-speed, but narrow, Direct Rambus Channel.
+
+DRDRAM gained recognition when Intel decided to create chipsets to work specifically with the Rambus technology. However, as DRDRAM is proprietary, it suffers from the lack of economy of scale to reduce its price tag.
+
+

@@ -1,0 +1,26 @@
+Title: 
+Fiber Optic Cable Otdr Basics
+
+Word Count:
+522
+
+Summary:
+Fiber optic communication systems have become more of a challenge for network operators to strategically and promptly keep them running at top performance in order to meet intense demands for reliable services. Many operators will go through a rigorous fiber optic training course. As the fiber optic communication systems evolve, there become newer and more complex parameters to monitor, more links to install and maintain, and more expected disruptions to track down. A new fun...
+
+
+Keywords:
+fiber cables,fiber optic tester,fiber optic light source,fiber cable,lc fiber,fiber patch cables
+
+
+Article Body:
+Fiber optic communication systems have become more of a challenge for network operators to strategically and promptly keep them running at top performance in order to meet intense demands for reliable services. Many operators will go through a rigorous fiber optic training course. As the fiber optic communication systems evolve, there become newer and more complex parameters to monitor, more links to install and maintain, and more expected disruptions to track down. A new function in the primary test tool for fiber optic cable plants is the Optical Time Domain Reflectometer, or OTDR. The OTDR is an instrument that uses the inner back scattering properties of an optical fiber to detect and categorize its condition by sending high power pulses of laser light down into the fiber and capture the light that is reflected back. This new tool is of great significance for fiber optic technicians. Fiber optic patch cables are another way to provide the correct amount of light.
+
+Software enhancements are reshaping OTDR testing with potent new data processing capabilities that allow even the least experienced operator to analyze the fiber optics quickly and completely, and to find subtle features easily. While OTDR concepts are basically simple, precise measurements can be complicated. Reflected fiber optical power is a tiny fraction (of basically one-millionth) of transmitted pulse power that eminently varies with wavelength, cable length, fiber optic backscatter co-efficient, along with splice and connector attributes.
+
+Measurement parameters of fiber optics under test have to be carefully selected based on mode, length and attenuation, in order to optimize fiber optic measurements with an older, manual OTDR. The optimal parameters for all fibers, in exception for the shortest optical fibers, vary in relation to the distance of the event from the instrument. The newest OTDR instruments integrate software programs that automatically detect and configure the optimum test parameters and show results in simple formats. 
+
+Most fiber optic cables require multiple OTDR measurements by using different parameters to completely and accurately characterize their property ties. These types of tests can take more time than is acceptable during a network emergency or a lengthy commissioning process. When troubleshooting the close-range resolution versus long-range visibility, several sets of waveforms must be acquired by using different OTDR settings as often as necessary. After completing the first scan by using a short-duration optical pulse, the next scan will use a longer-duration optical pulse to provide additional optical power to test further along the optical fiber. 
+
+Newer OTDR's incorporate built-in testing programs that automatically characterize the fiber optics in a sequential manner, starting from the instrument-to-fiber connection and working outward. Such programs automatically determine which parameters need to change, based on criteria like signal-to-noise-ratio, length, total loss and elapsed time. They may also increase the number of averages, change the filtering, or adjust the gain of the detection circuitry in order to optimize the test results for each specific cable segment. Many other software enhancements have been introduced to the acquisition , analysis and archiving of fiber optical test data, making the OTDR an even more valuable asset for technicians to meet the challenges of supporting fiber optic cable plants.
+
+

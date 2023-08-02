@@ -1,0 +1,40 @@
+Title: 
+Scheduling Automatic Disk Cleanup
+
+Word Count:
+327
+
+Summary:
+An efficient method of keeping your computers hard disk drive clean of files that are no longer need and optimized is to use Windows disk clean up utility. 
+
+Creating and editing documents installing and uninstalling software, browsing the internet all these actions create useless junk on your hard drive. 
+
+The sad thing is that you may never know that you have boat load of junk setting on your hard drive. With life busy as it easy you may not have the time to sit at your...
+
+
+Keywords:
+
+
+
+Article Body:
+An efficient method of keeping your computers hard disk drive clean of files that are no longer need and optimized is to use Windows disk clean up utility. 
+
+Creating and editing documents installing and uninstalling software, browsing the internet all these actions create useless junk on your hard drive. 
+
+The sad thing is that you may never know that you have boat load of junk setting on your hard drive. With life busy as it easy you may not have the time to sit at your computer and clean your hard drive. Windows automated disk clean up can delete those unnecessary files off of your hard drive automatically.
+
+Windows Task Scheduler is a wonderful tool that has many uses and one of those is the ability to schedule the Disk Clean Up Utility to run everyday, week, or month any day at any time, as long as your computer is on. The Task scheduler starts the Disk clean up utility and runs the cleaning to the preference that you have set. 
+
+Important, just because you can do something it does not meant that you should. You  may end up with more problems if you set the Task Scheduler to clean your disk everyday, it is recommend that you run the disk clean up just once a month, that should keep you computer hard drive efficient and you computer running smoothly.
+
+Click Start--> All Programs--> Accessories-->System Tools--> Scheduled Tasks-->
+
+Windows Task Scheduler will now open
+
+You now need to double click on the Add Scheduled Task icon to run the Wizard.
+
+Click on Next the Wizard will display a list of programs you can schedule with the Task Scheduler. --> Next click on Disk Clean Up Then Click next again and follow the Wizards instructions.
+
+If you do this at least once a month, you will keep your computer humming. Keeping your computer hard drive running efficiently will save time and frustrations later, see ya in the trenches!
+
+

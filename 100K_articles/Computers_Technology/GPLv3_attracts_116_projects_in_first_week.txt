@@ -1,0 +1,19 @@
+Title: 
+GPLv3 attracts 116 projects in first week
+
+Word Count:
+64
+
+Summary:
+The third version of the General Public License (GPLv3) has been adopted by 116 open source projects in its first week of operation
+
+
+Keywords:
+gpl v3
+
+
+Article Body:
+The third version of the General Public License (GPLv3) has been adopted by 116 open source projects in its first week of operation, according to an overview compiled by software risk management firm Palamida. A further three projects have opted for the Lesser General Public Licence, which offers fewer restrictions than the regular GPLv3.
+[Source: <a href="http://www.linuxnewsblog.com/" target="_new">LinuxNewsBlog</a>]
+
+

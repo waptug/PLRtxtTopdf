@@ -1,0 +1,26 @@
+Title: 
+Prevent Identity Theft With A Firewall
+
+Word Count:
+459
+
+Summary:
+A firewall can be either a hardware product or software program that is designed to prevent outsiders from accessing your computer or network, and in some cases used to prevent applications already located on your computer from accessing the Internet in order to transmit back to a host. These applications can be understood as having a Server/Client relationship. The program that is installed on your computer can be referred to as the client, and when the client attains the in...
+
+
+Keywords:
+identity theft, firewall, brute force
+
+
+Article Body:
+A firewall can be either a hardware product or software program that is designed to prevent outsiders from accessing your computer or network, and in some cases used to prevent applications already located on your computer from accessing the Internet in order to transmit back to a host. These applications can be understood as having a Server/Client relationship. The program that is installed on your computer can be referred to as the client, and when the client attains the information that it was designed to acquire, it connects to the Server to transmit the data.
+
+Some of the programs that get installed on your computer, such as the free P2P programs that allow you to share music or movies, are generally referred to as Adware or Spyware programs, because they gather information about you such as your geographical location, what websites you visit, maybe your age and gender, and then target advertisements to you based on that information. Some of the more insidious programs will go so far as to capture credit card numbers, Social Security Numbers, birthdates and account numbers and try to transmit this information back to a Server computer.
+
+Ideally, you would want a firewall that not only blocks connections from the Internet, but would also notify you if a program already on your computer is trying to connect to the Internet. Some of the programs installed would of course have a valid reason for trying to connect to the Internet, such as an antivirus program that needs to connect to a Server to download the latest definitions in order to keep your computer safe from the latest types of infections. You may also have an Operating System that would need to connect to the manufacturer’s Servers to download the latest security fixes or patches.
+
+There is a wide selection of firewalls available for consumers, both hardware and software based. Do as much research as you can and check with respectable sources and which product or suite of products would best fit your needs. My personal recommendation is to stay away from small and un-established companies, and instead use one of the major company’s that are recognized as an authority. For example, Symantec and Network Associates are both well know companies for their Norton and McAfee products. For hardware, you may look at Linksys or Netgear as they have created solid products for use with the average everyday consumer. Again, these are just examples of personal taste, so do as much research as possible to determine which solution would fit your needs, if you are a home owner with a wireless laptop or WAN administrator with 1,500 computers to protect.
+
+For further information and tips, visit our site at http://www.whoelseisme.com.
+
+

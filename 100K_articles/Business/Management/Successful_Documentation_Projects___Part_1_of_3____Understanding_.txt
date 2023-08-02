@@ -1,0 +1,156 @@
+Title: 
+Successful Documentation Projects – Part 1 of 3 – ‘Understanding’
+
+Word Count:
+1485
+
+Summary:
+The creation of user documentation is a big component of any software project. Unfortunately, it’s often undervalued and left to the last minute. But that doesn’t mean it should be without a good management plan.
+
+
+Keywords:
+documentation projects
+
+
+Article Body:
+The creation of user documentation is a big component of any software project. Unfortunately, it’s often undervalued and left to the last minute. But that doesn’t mean it should be without a good management plan.
+
+This is the first in a series of three articles outlining the key elements of a good user documentation process. It’s kind of an “ideal” process; very few projects will be able to implement every step, and some will require additional steps. Nonetheless, it should provide you with a good foundation (especially if you’re new to user documentation management).
+
+Here’s an overview of the three articles.
+
+Article 1 (this article) – Understand
+
+•	Identify your scope
+•	Familiarise yourself with the work environment
+•	Familiarise yourself with the product
+•	Identify the audience for the documentation
+•	Specify perceived audience requirements
+•	Roughly estimate doco project duration and resources
+•	Research audience requirements
+
+Article 2 – Specify (See http://www.divinewrite.com/docoprocess2.htm)
+
+•	State your goals
+•	Write your concept specifications
+•	Design some possible implementations
+•	Conduct usability testing on your prototypes
+•	Write your requirements specifications
+•	Estimate project duration & resources
+•	Conduct usability testing on your writing sample
+•	Write your work pracs & design specs
+
+Article 3 – Write (see http://www.divinewrite.com/docoprocess3.htm)
+
+•	Write the doco
+•	Manage production
+
+So here goes…
+
+Understand Your Project
+
+Identify Your Scope
+
+The first step in any project is to identify exactly what you’re expected to do.  Generally this will happen before you take on the job, but it should still be the first thing that you document.  Identifying your scope involves figuring out where you fit in the overall development process and where you fit within the company.  No documentation project is ever just documentation, so it’s important to know exactly what else is involved.  Some of the other areas that documentation people are/should be commonly be involved in include:
+
+•	Spec review
+•	GUI review
+•	Product user requirements research
+•	Documentation audience requirements research
+•	Usability testing
+
+All of these things are integral to the development process, and should be scheduled properly.
+
+Familiarise Yourself with the Work Environment
+
+Get to know everyone involved in the product. For a software project, this will mean the project manager, the designers, and the guys that will be doing the low-level coding.  Try to have a really good relationship with them.  They have to respect you, otherwise they’re not going to listen to much of what you have to say.
+
+Familiarise Yourself with the Product
+
+Find out what’s going to be involved in the product.  You must know:
+
+•	what are the goals of the development
+•	what user requirements they are trying to meet
+•	how the product will be used
+•	who will be using it
+•	what the features of the product are
+•	how the product will look and feel
+•	will it require a specific doco design?  For instance, it may only run on the latest version of Windows, it may have a particular look and feel, a particular environment (that the help may have to be integrated into), etc.
+
+These are all things that you may have input into, either through simple critique, or through input into user research requirements. Try to read as much documentation as you can find, and interview as many people stakeholders as possible. As you go, note down any issues you identify, any questions you have, or anything you think needs to be different.
+
+Some (non-human) sources that you can utilise to achieve this include:
+
+•	Feature and product specifications
+•	Project plans
+•	Funding application documentation if applicable
+
+Identify the Audience for the Documentation
+
+Discuss with the project manager (and other stakeholders esp. marketing) the perceived user/audience.
+
+Specify Perceived Audience Requirements
+
+Make some educated guesses about audience requirements so you’ll be able to provide a rough estimate of product duration and resource requirements.
+
+Discuss with the project manager (and other stakeholders esp. marketing) the perceived user requirements that the help must satisfy.  See if someone has researched user goals, tasks, and the mental models users employ when using the product (or similar products). If they haven’t, interview inhouse experts to identify perceived goals, tasks, mental models, etc.
+
+Secondly, you should identify what the theory says about user documentation (i.e. documentation approach, visual considerations, indexing considerations, etc.). I recommend Minimalism Beyond the Nurnberg Funnel, (1998) edited by John M. Carroll.
+
+Roughly estimate doco project duration and resources
+
+Although, by this stage, you don’t really know enough about the product or your audience requirements to know how long the documentation will take to complete, management will nonetheless like a rough estimate.  This is OK, as long as everyone is aware that it is a VERY rough estimate, and subject to change pending further knowledge and research. 
+
+This initial estimate must incorporate all of the time you’ll spend on the stages that occur before and after the writing stage. Remember, these stages are important, and should not be short-changed.  (TIP: In a well managed project, planning should take approx 30% of your time, writing 50%, production 19%, and evaluation 1%.)
+
+Estimating pre-writing stages
+
+Allowing for the pre-writing stages is trickier than allowing for writing.  If you’re having trouble, estimate the writing stage, then base all other estimates on that, using the above figures as a guide.
+
+Estimating writing and post-writing stages
+
+Because you probably still don’t know a great deal about the product or the users, your estimate here will be based primarily on a combination of past records, experience, intuition (gut feel), and industry standards in combination with the goals and tasks you’ve already specified.  Start with the following steps.
+
+1.	Estimate the quantity of work required to document the tasks the user will need to perform to achieve their goals.
+2.	Track down any previous doco records.  See if you can cross reference the time taken to produce similar doco in the past with the current quantity estimate.  Derive a figure based on this method.
+3.	See how this compares with the estimate derived from industry standard figures (e.g., I think the current industry standard is to allow 1 day per page of documentation – this covers all drafts and reviews).
+4.	Compare the two figures and determine a good compromise based on your experience and intuition.
+5.	Figure out how long you actually have to do it, then how many writers you’ll need to get it done during this time.  
+6.	Draw up a project schedule using something like Microsoft Project.  Don’t forget to allow time for recruiting, training, and writing work practices.
+
+TIP: At this stage, you should write the first draft of the Documentation Project Plan.  It should include or refer to all of the steps outlined in this document.  Basically, it should reflect the process advocated here, but be specific to the project you’re working on.  It should also include a timeline.
+
+Research Audience Requirements
+
+Research on the users of the product and the audience of the documentation is one of the most important parts of any successful product.  Unfortunately, it is also one of the most often overlooked aspects of any project.  This generally occurs because decision makers feel they already know pretty much everything there is to know about the users and audience.  
+
+When managing a documentation project, you should investigate the chance of conducting research.  If you’re employed late in the product life cycle, you should ask if user research has already been conducted for the product itself.  If it hasn’t, there’s a good chance you won’t get support for audience research. 
+ 
+Audience research should seek to identify:
+
+•	user goals (what the user hopes to achieve with the product)
+•	user expectations of the doco (Manuals? Online help? Tutorials?, usability requirements, localisation requirements, etc.)
+•	user mental models (how they already see online help, what impressions they have of it, etc.)
+•	user tasks (how the user uses the product to achieve their goals)
+•	which users perform what tasks (user/task matrix)
+•	how long have users been doing these tasks?
+•	which tasks are one-off and which are repeated?
+•	did they ever do them differently?
+•	do they do a variety of tasks, or just a few?
+•	do they hate doing it?  (is it tedious, repetitive?)
+•	do they find it difficult?
+•	which tasks are considered essential?
+•	are they normally under pressure when they do the task?
+•	are there other distractions (environmental, social, etc.)?
+
+Some research methods to consider are:
+
+•	Observation of users doing their work in their work environment
+•	Focus groups and interviews with users
+•	Questionnaires
+
+TIP: For further details on these methods, take a look at Managing Your Documentation Projects by Hackos (1994), User and Task Analysis for Interface Design by Hackos & Redish (1998), Social Marketing: New Imperative for Public Health by Manoff (1985), Designing Qualitative Research 2nd Edition by Marshall & Rossman (1995), and “Conducting Focus Groups – A Guide for First-Time Users”, in Marketing Intelligence and Planning by Tynan & Drayton (1988).
+
+To be continued… See part 2 of this article (http://www.divinewrite.com/docoprocess2.htm) for information on preparing your specifications.
+
+

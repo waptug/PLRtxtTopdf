@@ -1,0 +1,28 @@
+How Google's PageRank Determines Search Engine Optimization
+
+Some internet search engines are set up to look for keywords throughout a webpage, they then use a mathematical equation that takes in the amount of time the keywords appears on the webpage and factors it with the location of the keywords to determine the ranking of the webpage. 
+
+Other internet search engines use a process that judges the amount of times a webpage is linked to other web pages to determine how a webpage is ranked. The process of using links to determine search engine ranking is called link analysis.  
+
+Keyword searches and link analysis are both part of a routine internet search engine procedure called search engine optimization. Search engine optimization is the art and science of making a website attractive to search engines, the more attractive a website appears to the search engine the higher it will rank in searches and in the world of internet searches ranking is everything.
+
+As 2006 faced its last weeks, Google was the internet search engine that most internet users preferred. Approximately fifty percent of the times a consumer turned to a search engine for their internet needs they turned to Google. Yahoo! was the second favorite.
+
+Most of Google's popularity is credited to its preferred form of search engine optimization, a trademarked program Google dubbed PageRank. When PageRank was patented the patent was assigned to Stanford University.
+
+PageRank was designed by Larry Page, (the name is a play on his name) and Sergey Brin while they were students at Stanford University as part of a research project they were working on about internet search engines. 
+
+PageRank is based on the link analyses algorithm. PageRank is described as a link analysis algorithm that assigns a numerical weight to each individual element of a hyperlink set of documents. The purpose is to measure its relative important with the set. The numerical weight assigned to any element is called PageRank of E. PR(E) is the denotation used.
+
+PageRank operates on a system  similar to a voting booth. Each time it finds a hyperlink to a webpage, PageRank counts that hyperlink as a vote that supports the webpage. The more pages that link to the page, the more votes of support the webpage receives. If PageRank comes across a website that has absolutely no links connecting it to another webpage then it is not awarded any votes at all.
+
+Tests done with a model like PageRank have shown that the system is not infallible.
+
+The HITS algorithm is an alternate to the PageRank algorithm.
+
+Google's powers that be take a dim view on spamdexing. In 2005 Google designed and activated a program called nofollow, a program they designed to allow webmasters and bloggers to create links that PageRank would ingnore. The same system was also used to keep spamdexing to a minumum.
+
+Google has designed PageRank to be an eight-unit measurement. Google displays the value PageRank places on each website directly beside each website it displays.
+
+It has been proposed that a version of PageRank should be used to replace ISI impact factor so that the quality of a journal citation can be determined.
+

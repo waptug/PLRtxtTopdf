@@ -1,0 +1,43 @@
+Title: 
+The Importance Of Maintaining Your CPU & System Fans
+
+Word Count:
+828
+
+Summary:
+As technology progresses and circuitry such as modern Central Processing Units (CPUs) continue to climb in speed heat production is a topic which should not be overlooked.
+
+
+Keywords:
+CPU Fan, CPU, Computer Maintenance
+
+
+Article Body:
+As technology progresses and circuitry such as modern Central Processing Units (CPUs) continue to climb in speed heat production is a topic which should not be overlooked.  Although manufactures are constantly refining their CPU manufacturing process which brings down the power required for a CPU
+
+The heat that is produced by a CPU is actually wasted power that has leaked from the circuitry as energy travelled through the CPU.  Now as computers evolve (roughly doubling in speed even 18 months Moore’s Law) so do the components and technologies employed in designing, and producing them. These new improvements and technologies help reduce the amount of inefficient power loss, as well as overall power usage.
+
+However in the real world when they employ new technologies cooling down the current chips is only a byproduct. Their main goal is preparing for future higher frequency chips, and adding additional features into new cores. Then as time trickles by the lowest end chip will once again be a high frequency chip producing more heat than the original lower clocked models.
+
+If you think that just because you didn’t buy the top of the line CPU you’re not producing a lot of heat, well then think again.  In the world of CPUs there are perfect units, than there are lower quality units coming off that production line.  Due to the failure rate of circuitry runs at such high frequencies every CPU is tested, based on these tests not only do they approve CPUs they decide which speed grade they belong in.  The slower your computer’s CPU the more likely it is that this was a lower quality CPU from the manufacturing process.  For manufactures it’s a lot cheaper to under clock a defective CPU, then to throw it away.
+
+Over the years I have worked on a countless number of machines, and seen some really electronically unhealthy computers. How do you think your mouth would look if you never brushed your teeth? Well that’s how your computer can start to look inside if you never remove the dust.  The environment your computer is located greatly contributes to what ends up inside of your computer.  These particles end up in all your fans, between your peripherals, and in the bottom of your case.
+
+As dust particles build up in your machine you will find they are drawn to fans, where dust quickly builds up.  Dust can contribute to reducing the airflow of affected fans, reducing the speed of fans, and potentially burning out fans.  In the dusty environment I used to live in I would clean my case every 6 months.
+
+The advantages of cleaning your CPU are:
+-Cooler operational temperatures, resulting in longer product life spans.
+-Lower risk of catching fire (Dust can be an extremely flammable substance).
+-Less work and friction on your fan ball bearings.
+-Having a happier computer, sometimes they crave a little love and attention.
+
+
+Now there are several ways to clean a fan, and some are more foolhardy then others. I myself can be rather foolhardy when it comes to dealing with my computer. I use the vacuum approach, and I am very careful about it (it is a rather low powered vacuum). The most dangerous part of this approach is the potential to vacuum jumpers right off of the motherboard. I myself have never done this, but I have heard stories from people. I would not recommend this approach, but as I said before my machine builds up a lot of dust and fast, so I need an industrial solution.
+
+Now the best and most commonly way of cleaning out your computer is the use of compressed air. Now you can either use compressed air in an aerosol can, or an air compressor. An air compressor is the better approach as it is a onetime cost. If you already have a compressor, I would recommend the attachment for blowing up basketballs (high air flow through a small hole). As for recommendations for compressed air I would recommend MG Chemicals Super Duster 134 (I use the industrial sized can), here is what the can’s label says:
+
+Removes dust, lint and foreign particles. Ideal for preventative maintenance on electronic, electrical, optical equipment and mechanical devices, such as; cash registers, computers, keyboards, audio and video equipment and ATM’s. Contains no ozone depleting substances.
+
+Regardless of which brand of compressed air you buy always make sure it mentions it is compatible with electronic equipment, and that it leaves no residue. The last thing you want is some aerosol can creating static electricity within you case. So once you have gotten a hold of your air source, take your computer outside and blow out the fans, and all around you case gently. If there is dust on the bottom of the case the safest option is to gently use a cloth to remove the particles. Remember this is your computer, and it deserves a little tender loving care.
+
+

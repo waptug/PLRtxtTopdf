@@ -1,0 +1,26 @@
+Title: 
+Understanding And Correcting SMTP Relaying Problems
+
+Word Count:
+499
+
+Summary:
+SMTP is the acronym for “Simple Mail Transfer Protocol”, which is the protocol used for sending email. Anyone who has ever sent an email has used the SMTP protocol behind the scenes. “Open mail relaying” is when an SMTP server is configured in such a way that it lets anyone send email through it. The problem people have now is that open mail relaying is a thing of the past – it is now much more difficult to find an SMTP server that will work for you. An SMTP relaying problem ...
+
+
+Keywords:
+smtp2go, smtp mail server, mail relay server
+
+
+Article Body:
+SMTP is the acronym for “Simple Mail Transfer Protocol”, which is the protocol used for sending email. Anyone who has ever sent an email has used the SMTP protocol behind the scenes. “Open mail relaying” is when an SMTP server is configured in such a way that it lets anyone send email through it. The problem people have now is that open mail relaying is a thing of the past – it is now much more difficult to find an SMTP server that will work for you. An SMTP relaying problem arises when you try to send an email through an SMTP server and find that you cannot, typically with an error message reading “relaying mail to name@domain.com is not allowed”.
+
+Relaying problems typically happen when you connect to the Internet from a different place than normal, for example if you try to use the same SMTP server from both work and home, or if you travel to different cities or countries. Students at universities often find that they cannot send emails using their university’s SMTP server when they are off campus. Office workers often find sending emails impossible when they are in their own home, or when they are in a hotel, Internet café, or using an airport’s wireless network in a different city.
+
+When the Internet was first developed, it was not intended for personal use but as a tool used by scientists specifically for conducting research and sharing information and resources within a safe environment. Open mail relaying was considered perfectly safe in such an environment. As uses for the Internet began to change, problems with the old system began to surface – especially the old way of allowing open relaying (or passing) of emails from server to server until they reach the destination. The main reason – spam.
+
+Unsolicited junk mail (known as spam) has unfortunately become a serious problem. It is estimated that 90 billion spam emails were sent every day in February 2007. The people who send spam (spammers) do not want to be shut down or blocked, and the more open relay servers they use, the less chance they have of being caught. This is why almost all ISPs now do not allow open relaying. The remaining few open relay servers are frowned upon by the Internet community and are generally blacklisted after a short period of time, so that even legitimate emails sent through them are blocked.
+
+The good news is that the problem with ‘SMTP relaying not being allowed’ can be avoided. A solution is to use a service such as SMTP2Go (http://smtp2go.com), which is essentially an SMTP server that can be used from any location. Because it can determine that the sender of an email is legitimate, it can always allow legitimate emails to be sent, while preventing all attempts to send unsolicited emails. Services such as SMTP2Go have become necessary in recent years as ISPs crack down on the unauthorized use of their servers.
+
+

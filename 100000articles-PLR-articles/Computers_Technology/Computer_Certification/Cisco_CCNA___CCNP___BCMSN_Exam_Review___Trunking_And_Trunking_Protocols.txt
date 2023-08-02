@@ -1,0 +1,39 @@
+Title: 
+Cisco CCNA / CCNP / BCMSN Exam Review:  Trunking And Trunking Protocols
+
+Word Count:
+541
+
+Summary:
+You've got to know the details of trunks and trunking protocols to earn your CCNA and CCNP.  Learn these details from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+cisco, ccna, ccnp, bcmsn, trunking, vlan, native, isl, ieee, dot1q, encapsulation, header, exam
+
+
+Article Body:
+To earn your CCNA or CCNP certification, you've got to understand the basics of trunking.  This isn't just a CCNA topic - you must have an advanced understanding of trunking and etherchannels to pass the BCMSN exam and earn your CCNP as well.  Before we address those advanced topics, though, you need to master the fundamentals!
+
+A trunk allows inter-VLAN traffic to flow between directly connected switches.  By default, a trunk port is a member of all VLANs, so traffic for any and all VLANs can travel across this trunk.  That includes broadcast traffic!
+
+The default mode of a switch port does differ between models, so always check your documentation.  On Cisco 2950 switches, every single port is in dynamic desirable mode by default, meaning that every port is actively attempting to trunk.  On these switches, the only action needed from us is to physically connect them with a crossover cable. In just a few seconds, the port light turns green and the trunk is up and running.  The command show interface trunk will verify trunking.
+
+How does the receiving switch know what VLAN the frame belongs to?  The frames are tagged by the transmitting switch with a VLAN ID, reflecting the number of the VLAN whose member ports should receive this frame.  When the frame arrives at the remote switch, that switch will examine this ID and then forward the frame appropriately.
+
+There are two major trunking protocols you must understand and compare successfully, those being ISL and IEEE 802.1Q.  Let's take a look at the details of ISL first.
+
+
+ISL is a Cisco-proprietary trunking protocol, making it unsuitable for a multivendor environment.  That's one drawback, but there are others.  ISL will place both a header and trailer onto the frame, encapsulating it.  This increases the overhead on the trunk line.  
+
+You know that the default VLAN is also known as the "native VLAN", and another drawback to ISL is that ISL does not use the concept of the native VLAN.  This means that every single frame transmitted across the trunk will be encapsulated.
+
+The 26-byte header that is added to the frame by ISL contains the VLAN ID; the 4-byte trailer contains a Cyclical Redundancy Check (CRC) value.  The CRC is a frame validity scheme that checks the frame's integrity.
+
+In turn, this encapsulation leads to another potential issue.  ISL encapsulation adds 30 bytes total to the size of the frame, potentially making them too large for the switch to handle.  (The maximum size for an Ethernet frame is 1518 bytes.)
+
+IEEE 802.1q differs substantially from ISL.  In contrast to ISL, dot1q does not encapsulate frames.  A 4-byte header is added to the frame, resulting in less overhead than ISL.  If the frame is destined for hosts residing in the native VLAN, that header isn't added.  Since the header is only 4 bytes in size, and isn't even placed on every frame, using dot1q lessens the chance of oversized frames. When the remote port receives an untagged frame, the switch knows that these untagged frames are destined for the native VLAN.
+
+Knowing the details is the difference between passing and failing your CCNA and CCNP exams.  Keep studying, get some hands-on practice, and you’re on your way to Cisco certification success!
+
+

@@ -1,0 +1,24 @@
+Title: 
+Error 1721
+
+Word Count:
+305
+
+Summary:
+Error 1721 is a Microsoft error that is sometimes generated when you attempt to use an executable file called Cluster Administrator. The general text of Error 1721 is the following: "not enough resources are available to complete this operation."
+
+
+Keywords:
+Error 1721
+
+
+Article Body:
+Error 1721 is a Microsoft error that is sometimes generated when you attempt to use an executable file called Cluster Administrator. The general text of Error 1721 is the following: "not enough resources are available to complete this operation."
+
+How Did The Problem Occur?
+When you use the Cluster Administrator to connect to a cluster, an error will occur if the proper parameters are not specified. One possible reason for the error is that you did not enter the parameter with quotation marks, so the command could not be read as a complete phrase for the search. This creates a problem with the available IP ports that would be used to establish a communication through the remote procedure call, especially if there are less than a hundred ports available to process the communication flow. Along with the failure to issue the request using quotation marks, there may also be some restriction on the available port ranges when the program was originally installed. 
+How Do I Fix the Problem?
+One place to check for restrictions on the available ports is in the MSMQ, or Microsoft Message Queuing. There may also be a need to consider that other services make use of DCOM ports that may inhibit the ability to make use of the minimum number of ports. In order to correct the situation, there will be the need to modify the registry. Microsoft provides step by step procedures to accomplish the modifications.
+One thing to keep in mind is that reconfiguring a registry can be a tricky task. Ideally, persons who are well versed in computer configuration should take care of modifying the registry. Making a mistake in the modifications could create other issues that would require a professional to resolve. Save the time and trouble, and get an expert to perform the necessary changes to the registry.
+
+

@@ -1,0 +1,32 @@
+Title: 
+Here's How To Get Sound From Your Speakers
+
+Word Count:
+335
+
+Summary:
+This article was written to answer many of the most frequently asked questions on this topic. I hope you find this information helpful.
+
+You have tried and tried to get your speakes to work. You have the sound card and the speakers; so what is the problem? The first step is to check the connections. Most people accidentally plug the speaker jack into the Line-in Jack of the sound card. Check to see if this is what you did. If you have amplified speakers, make sure that the ...
+
+
+Keywords:
+speaker,wireless speakers,tweeter,speaker systems,audio speakers
+
+
+Article Body:
+This article was written to answer many of the most frequently asked questions on this topic. I hope you find this information helpful.
+
+You have tried and tried to get your speakes to work. You have the sound card and the speakers; so what is the problem? The first step is to check the connections. Most people accidentally plug the speaker jack into the Line-in Jack of the sound card. Check to see if this is what you did. If you have amplified speakers, make sure that the power is on and mute is not.
+
+Check and see if the speakers work properly before trying to troubleshoot your system. Do this by connecting the speakers to a music system or radio. If they do, the problem is definitely related to the system.
+
+Check the volume levels in the system. Check the volume controller in the system tray and also open the advanced audio controls to make sure that there isn't anything muted or at really low levels. Now use several multimedia applications to play various media files to insure that the problem is truly system related, and not limited to a particular application or file. If you find that only a certain application has the problem, such as Windows Media Player or Winamp, reinstall it.
+
+If all this is to no avail, go to the system properties [Windows] + [Pause/Break] or right-click on My Computer and select Properties and in device manager make sure that sound card is installed properly. If you see a yellow exclamation mark, reinstall the drivers.
+
+If you have an integrated sound card that is disabled in the BIOS, then Windows will not be able to detect it. Refer to your motherboard manual, and find out how to enable it. Usually it is present under the advanced peripherals section in BIOS.
+
+If you have access to another PC, plug the sound card into that system, and check if it is working. If the problem persists, take the speakers to a technician.
+
+

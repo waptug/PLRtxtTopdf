@@ -1,0 +1,40 @@
+Title: 
+Adobe Photoshop CS2 Abstract Tutorials On The Clone Stamp Tool
+
+Word Count:
+383
+
+Summary:
+You may be a pro when it comes to using the Clone Stamp Tool in the Photoshop program but have you tried working with the Healing Brush Tool?
+
+The Healing Brush Tool is fairly new and while the Clone Stamp Tool is perfect in many design instances, the Healing Brush Tool can add something new to your work.
+
+You have probably used the Clone Stamp Tool for many imaging jobs but there are times when the Healing Brush Tool is an even better choice.
+
+If you are working on a s...
+
+
+Keywords:
+adobe photoshop cs2 tutorials, adobe photoshop tutorial, photoshop tutorials for beginners,
+
+
+Article Body:
+You may be a pro when it comes to using the Clone Stamp Tool in the Photoshop program but have you tried working with the Healing Brush Tool?
+
+The Healing Brush Tool is fairly new and while the Clone Stamp Tool is perfect in many design instances, the Healing Brush Tool can add something new to your work.
+
+You have probably used the Clone Stamp Tool for many imaging jobs but there are times when the Healing Brush Tool is an even better choice.
+
+If you are working on a surface that is textured it may be hard to disguise the involvement of the Clone Stamp Tool. It is just hard to hide its use and what you sample using this tool is what you end up with. The finished product is often not nearly as good as you had hoped.
+
+We will look at how the two tools operate doing the same enhancement job. This is an ordinary cosmetic enhancement job, one that you may often encounter.
+
+First you'll need a facial image with a freckle or dry skin blemish . If you use the Clone Stamp you can sample a clear patch of skin and spray it over the spot. The skin graft is rather noticeable because the area of skin that was sampled is not the same hue as the area that needed to be fixed.
+
+The Healing Brush Tool can be used to do a much better job. If you are working on a minor blemish, the Healing Brush Tool will work by sampling both the destination pixels and the source pixels.
+
+The two samples are then mixed to produce a much nicer blend. When you want to take a sample use it like the Clone Tool and proceed with [Alt]/[Option]-Click. At first glance you may have doubts.
+
+As you begin to spray it may look odd but once you let go of the mouse button after you have sprayed some of the sampled pixels, you will see the results. You should not be able to tell that the image has been edited once the Healing Brush is finished. For even more healing you can reduce the brush size and you will be able to work on other areas like the red patch of skin by the nose.
+
+

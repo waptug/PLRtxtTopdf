@@ -1,0 +1,40 @@
+Title: 
+Making USB Devices Even More Convenient
+
+Word Count:
+674
+
+Summary:
+USB-connected devices are the most ubiquitous computer accessory on the planet.  Learn how to get more out of your USB devices, solve common problems, and more.
+
+
+Keywords:
+usb, share, network, devices, peripheral, switch, server, serial, connect
+
+
+Article Body:
+USB (Universal Serial Bus) has revolutionized the way we connect peripherals to our computers.  Replacing standard serial connections, USB has become the standard for connecting everything from printers to fans to toys to memory drives.  With advancements in modern operating systems, USB devices are almost always easy to install.  These devices are low power, reliable, and versatile.
+
+In this article, we will explore some of the benefits of USB devices and how to make using USB devices even more convenient.
+
+Ever since Windows 98, USB devices have been automatically detected when plugged in.  The computer’s operating system will automatically try to find the drivers needed for the device and install them.  If the drivers can not be found, a simple google search will often pull up what is needed.
+
+The devices you choose are up to you and what you are trying to accomplish.  Many people have very standard USB devices like printers, a mouse, keyboard, etc.  These are great, but what if you want to do more with that little rectangular port?  Fortunately, there are a lot of options out there.
+
+One thing many people find useful is a USB snake light.  These flexible lights plug right in and can provide your nighttime work area with a little light to help you see the keyboard and your work area.  Getting even more wacky, USB toys such as small anti-coworker missile launchers, shavers, and more.
+
+If you plan on having many USB devices at once, it is a good idea to get a hub.  Not only will this give you more ports than what your computer provides on its own, but it will allow you to provide your devices with more reliable power.  This is because many USB hubs are externally powered.  With many USB devices hooked up to your computer, sometimes you can get power surges or other power problems, and these are never good for the delicate electronics inside USB devices.  A powered hub alleviates this problem and makes sure your devices are getting clean, constant power - especially power hogs like USB-connected disk drives.
+
+Sometimes you may want to share one USB device with many computers.  There are several ways that you can accomplish this.  One way is to use a device server.  Device servers make your USB device available to anyone on a network.  This a great solution for a printer that is used by more than one person in an office or home.  
+
+The main drawback of USB device servers is their cost.  These servers are not cheap as they combine a USB hub and network connectivity in one box.  Still, despite the cost they are the best choice for some people.  
+
+Another solution is to use a USB peripheral switch.  These switches work locally between two or more computers and allow you to switch your devices between those computers.  You could, for example, connect a printer to a peripheral switch and then connect the peripheral switch to two computers.  Computer “A” can print transparently through the switch without any problems.  When computer “B” is ready to print, the switch is simply activated and now that station is connected to the printer.
+
+A switch is great for people who don’t need the solution of a full blown server, but still need to share USB devices.  They are expandable and reliable.  Many switches are even automatic.  They will switch between the connected computers whenever one tries to access the USB device and the user will never need to touch a thing.
+
+USB peripheral switches are a good choice because they are inexpensive and reliable.  They start at around a third of the price as a USB device server and often solve the same problems.  USB peripheral switches are also available with ports for several devices or several computers, depending on what is needed.
+
+No matter what you situation, there are always solutions out there for you.  USB peripheral switches and USB device servers will help you solve many USB device sharing problems around the home, home office, or small business.
+
+

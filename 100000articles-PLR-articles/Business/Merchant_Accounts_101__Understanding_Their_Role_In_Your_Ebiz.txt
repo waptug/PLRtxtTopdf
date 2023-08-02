@@ -1,0 +1,42 @@
+Title: 
+Merchant Accounts 101: Understanding Their Role In Your Ebiz
+
+Word Count:
+495
+
+Summary:
+What a Merchant Account Is
+
+A merchant account is one piece of your whole payment solution. In its simplest terms, it’s a bank account that allows your eBiz to accept online credit cards and e-checks. At a specific time each day, your merchant account bank receives that day’s completed transactions. They hold the money for several days or more to make sure all parties involved are satisfied. During this time, they also perform additional security checks. If no issues arise,...
+
+
+Keywords:
+
+
+
+Article Body:
+What a Merchant Account Is
+
+A merchant account is one piece of your whole payment solution. In its simplest terms, it’s a bank account that allows your eBiz to accept online credit cards and e-checks. At a specific time each day, your merchant account bank receives that day’s completed transactions. They hold the money for several days or more to make sure all parties involved are satisfied. During this time, they also perform additional security checks. If no issues arise, the bank then wires the money into your business checking account.
+
+What a Merchant Account Isn’t
+
+People often confuse merchant accounts with other elements involved in payment solutions. But each element is a separate function of a larger service.
+
+• A merchant account is not a shopping cart. Shopping cart technology is software that simulates a physical shopping cart in that it allows users to “place” items in it until they’re ready to check out and then totals their purchases for them.
+
+• A merchant account is not authorization software. Authorization software is the equivalent of a digital credit terminal. It runs address verification, sends the buyer’s information through fraud detection filters, and ensures the card has enough credit available for the purchase. Authorization software makes instant approval possible.
+
+When you’re looking at solution providers, be sure that all three elements—your merchant account, shopping cart, and authorization software—are compatible with one another. They all have to be integrated in order for you to have that seamless payment solution you’re looking for.
+
+Is It Hard to Get Approved for a Merchant Account?
+
+Every institution has different policies and requirements for getting approved. Some want your corporation papers, your Tax ID, and your business banking account information at the time you apply. Others are more lenient, even to the point of pre-approving your account and allowing you to activate it when you have everything ready.
+
+Getting approved can be especially challenging if you have poor credit history. But some institutions will allow you to have a co-signer. Michael Mack says his company, http://TruthInProcessing.com, was set up to help the new business owner: “We’ve structured our business in that fashion…Less than one-half of 1% of all our [merchant account] applicants, since the inception of our company, have been turned down.”
+
+Don’t Lose that Sale!—Why You Need a Merchant Account
+
+Shoppers are likely to move on if you don’t offer their preferred payment option. That’s why, even if you have a PayPal account, you still need the flexibility a merchant account gives your buyers. You’ll lose the majority of your customers who aren’t PayPal members if you don’t make that option available to them. Most people won’t take the time to muddle through PayPal’s alternate solutions. Says Mack, “If it takes 5 minutes to find the product and buy [it], but 15 minutes to pay, they’re going to go somewhere else.”
+
+

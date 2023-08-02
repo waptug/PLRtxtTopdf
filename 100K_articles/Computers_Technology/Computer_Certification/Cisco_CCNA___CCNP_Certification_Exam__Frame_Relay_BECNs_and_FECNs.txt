@@ -1,0 +1,54 @@
+Title: 
+Cisco CCNA / CCNP Certification Exam: Frame Relay BECNs and FECNs
+
+Word Count:
+461
+
+Summary:
+Frame Relay BECNs and FECNs are an important part of your Cisco exam prep as well as a vital part of working with Frame Relay in today's production networks.  Learn all about BECNs and FECNs from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+cisco, ccna, certification, ccnp, exam, frame, relay, becn, fecn, de, congestion, bryant, advantage
+
+
+Article Body:
+BECNs and FECNs aren't just important to know for your Cisco CCNA and CCNP certification exams - they're an important part of detecting congestion on a Frame Relay network and allowing the network to dynamically adjust its transmission rate when congestion is encountered.
+
+The Forward Explicit Congestion Notification (FECN, pronounced "feckon") bit is set to zero by default, and will be set to 1 if congestion was experienced by the frame in the direction in which the frame was traveling. A DCE (frame relay switch) will set this bit, and a DTE (router) will receive it, and see that congestion was encountered along the frame's path.
+
+If network congestion exists in the opposite direction in which the frame was traveling, the Backward Explicit Congestion Notification (BECN, pronounced "beckon") will be set to 1 by a DCE. 
+
+If this is your first time working with BECNs and FECNs, you might wonder why the BECN even exists - after all, why send a "backwards" notification? The BECN is actually the most important part of this entire process, since it's the BECN bit that indicates to the sender that it needs to slow down!
+
+For example, frames sent from Kansas City to Green Bay encounter congestion in the FR cloud. A Frame Switch sets the FECN bit to 1. In order to alert KC that it's sending data too fast, GB will send return frames with the BECN bit set. When KC sees the BECN bit is set to 1, the KC router knows that the congestion occurred when frames were sent from KC to GB.
+
+Frame Relay BECN Adaptive Shaping allows a router to dynamically throttle back on its transmission rate if it receives frames from the remote host with the BECN bit set. In this case, KC sees that the traffic it's sending to GB is encountering congestion, because the traffic coming back from GB has the BECN bit set. If BECN Adaptive Shaping is running on KC, that router will adjust to this congestion by slowing its transmission rate. When the BECNs stop coming in from GB, KC will begin to send at a faster rate.
+
+BECN Adaptive Shaping is configured as follows:
+
+KC(config)#int s0
+
+KC(config-if)#frame-relay adaptive-shaping becn
+
+To see how many frames are coming in and going out with the BECN and FECN bits set, run show frame pvc. 
+
+R3#show frame pvc
+
+< some output removed for clarity >
+
+input pkts 306 output pkts 609 in bytes 45566
+
+out bytes 79364 dropped pkts 0 in FECN pkts 0
+
+in BECN pkts 0 out FECN pkts 0 out BECN pkts 0
+
+in DE pkts 0 out DE pkts 0
+
+out bcast pkts 568 out bcast bytes 75128
+
+pvc create time 01:26:27, last time pvc status changed 01:26:27
+
+Just watch the "in"s and "out"s of BECN, FECN, and DE in both the exam room and your production networks!
+
+

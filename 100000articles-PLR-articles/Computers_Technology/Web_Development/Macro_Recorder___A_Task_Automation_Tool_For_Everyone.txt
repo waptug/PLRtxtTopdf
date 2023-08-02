@@ -1,0 +1,54 @@
+Title: 
+Macro Recorder – A Task Automation Tool For Everyone
+
+Word Count:
+669
+
+Summary:
+Everyday each one of us makes thousands of keystrokes and mouse strokes, and repeating the same key and mouse strokes every hour on the hour. To save time and energy on doing these repeated tasks, Macro Recorders are used.
+
+Before we go to Macro Recorders, the first question is – What is a Macro?
+
+A macro is a series of commands and instructions that allows you to perform repeated tasks in response to a single command or keystroke. In other words, you can hit one letter a...
+
+
+Keywords:
+macro, macros, macro recorder, macros recorder, windows macro
+
+
+Article Body:
+Everyday each one of us makes thousands of keystrokes and mouse strokes, and repeating the same key and mouse strokes every hour on the hour. To save time and energy on doing these repeated tasks, Macro Recorders are used.
+
+Before we go to Macro Recorders, the first question is – What is a Macro?
+
+A macro is a series of commands and instructions that allows you to perform repeated tasks in response to a single command or keystroke. In other words, you can hit one letter and have the macro execute a set of commands.
+
+A Macro Recorder is a software that records these commands and allows you to play them back at a later time. The main advantage of using a macro recorder is that it allows you not only to play back routine tasks but also complex tasks.
+
+Most traditional macro recorders do not analyze or understand what the user recorded. Which meant that if there was any change in the user’s recorded environment i.e. say the location of the file changed or the user’s desktop area changed, the recorder will not playback the macro correctly.
+
+The new generation of macro recorders is intelligent; which means that even if the location of the file changes or the desktop area changes, the playback is flawless. Many macro recorders also allow you to edit your tasks and create them through their editors rather than recording them directly. This makes the software more flexible and more complex tasks can be automated. A chain of tasks can also be created and automated.
+
+More advanced macro recorders have a feature where you can create executables (“.exe”). These .exe files are standalone and can be conveniently and independently run from any computer without installation of the said macro recorder software.
+
+A serious consideration is the security aspect. Many macro recorders save the recorded macro in a plain text format with no security provision, making it easily accessible to anyone. What is required is some sort of password protection. Many new generation macro recorders are sensitive to this.
+
+So how does one choose a macro recorder?
+
+Some of the things to keep in mind are:
+
+1. Accuracy of the recorder: The recorder should be able to accurately replay the tasks keeping in consideration the changes in location of files and desktop area changes.
+
+2. Ease of use: I guess this is self explanatory. The recorder should be as easy as 1-2-3. The recorder should be able to help you create tasks in minutes without spending time figuring out how to record the task.
+
+3. IE Plug-in: The recorder should have the ability to wait till web page loads, before it carries out tasks like auto login, generate reports, etc.
+
+4. Ability to run Macros faster: Sometimes when the task recorded is big; the time taken to run the macro is also more. Some recorders have the ability to speed up the task. If you have big tasks you want to run, keeping this criterion in mind would help in choosing the right macro recorder.
+
+5. Ability to run macros that are file specific or global: Sometimes, you might want to run a macro you created on file A to run with file B. It is important to check whether the recorder you selected handles this criterion.
+
+6. Other features to keep in mind are: Ability to create .exe files (if you want to run the same task on multiple machines without installing the recorder on all machines); security features available; ability to batch process and batch script.
+
+In conclusion, macro recorders are not only for advanced computer users, but also for any PC users in general. For those at home, using a PC as a pass time, a simple task like shutting down the PC at a pre-defined time can be automated, saving electricity bills. So whatever your profession and whatever your PC usage, there is a macro recorder out there to meet your criteria. Just keep in mind your requirement and the tips for choosing the right one.
+
+

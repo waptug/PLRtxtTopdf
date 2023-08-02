@@ -1,0 +1,110 @@
+Title: 
+Winners of the 1997 Nobel Prizes in Economy
+
+Word Count:
+2023
+
+Summary:
+The Royal Swedish Academy of Sciences has decided to award the Bank of Sweden Prize in Economic Sciences in Memory of Alfred Nobel 1997, to Professor Robert C. Merton, Harvard University, and to Professor Myron S. Scholes, Stanford University, jointly. The prize was awarded for a new method to determine the value of derivatives.
+
+
+Keywords:
+
+
+
+Article Body:
+The Royal Swedish Academy of Sciences has decided to award the Bank of Sweden Prize in Economic Sciences in Memory of Alfred Nobel 1997, to Professor Robert C. Merton, Harvard University, and to Professor Myron S. Scholes, Stanford University, jointly. The prize was awarded for a new method to determine the value of derivatives.
+
+This sounds like a trifle achievement - but it is not. It touches upon the very heart of the science of Economics: the concept of Risk. Risk reflects the effect on the value of an asset where there is an option to change it (the value) in the future.
+
+We could be talking about a physical assets or a non-tangible asset, such as a contract between two parties. An asset is also an investment, an insurance policy, a bank guarantee and any other form of contingent liability, corporate or not.
+
+Scholes himself said that his formula is good for any situation involving a contract whose value depends on the (uncertain) future value of an asset.
+
+The discipline of risk management is relatively old. As early as 200 years ago households and firms were able to defray their risk and to maintain a level of risk acceptable to them by redistributing risks towards other agents who were willing and able to assume them. In the financial markets this is done by using derivative securities options, futures and others. Futures and forwards hedge against future (potential - all risks are potentials) risks. These are contracts which promise a future delivery of a certain item at a certain price no later than a given date. Firms can thus sell their future production (agricultural produce, minerals) in advance at the futures market specific to their goods. The risk of future price movements is re-allocated, this way, from the producer or manufacturer to the buyer of the contract. Options are designed to hedge against one-sided risks; they represent the right, but not the obligation, to buy or sell something at a pre-determined price in the future. An importer that has to make a large payment in a foreign currency can suffer large losses due to a future depreciation of his domestic currency. He can avoid these losses by buying call options for the foreign currency on the market for foreign currency options (and, obviously, pay the correct price for them).
+
+Fischer Black, Robert Merton and Myron Scholes developed a method of correctly pricing derivatives. Their work in the early 1970s proposed a solution to a crucial problem in financing theory: what is the best (=correctly or minimally priced) way of dealing with financial risk. It was this solution which brought about the rapid growth of markets for derivatives in the last two decades. Fischer Black died in August 1995, in his early fifties. Had he lived longer, he most definitely would have shared the Nobel Prize.
+
+Black, Merton and Scholes can be applied to a number of economic contracts and decisions which can be construed as options. Any investment may provide opportunities (options) to expand into new markets in the future. Their methodology can be used to value things as diverse as investments, insurance policies and guarantees.
+
+Valuing Financial Options
+
+One of the earliest efforts to determine the value of stock options was made by Louis Bachelier in his Ph.D. thesis at the Sorbonne in 1900. His formula was based on unrealistic assumptions such as a zero interest rate and negative share prices.
+
+Still, scholars like Case Sprenkle, James Boness and Paul Samuelson used his formula. They introduced several now universally accepted assumptions: that stock prices are normally distributed (which guarantees that share prices are positive), a non-zero (negative or positive) interest rate, the risk aversion of investors, the existence of a risk premium (on top of the risk-free interest rate). In 1964, Boness came up with a formula which was very similar to the Black-Scholes formula. Yet, it still incorporated compensation for the risk associated with a stock through an unknown interest rate.
+
+Prior to 1973, people discounted (capitalized) the expected value of a stock option at expiration. They used arbitrary risk premiums in the discounting process. The risk premium represented the volatility of the underlying stock.
+
+In other words, it represented the chances to find the price of the stock within a given range of prices on expiration. It did not represent the investors' risk aversion, something which is impossible to observe in reality.
+
+The Black and Scholes Formula
+
+The revolution brought about by Merton, Black and Scholes was recognizing that it is not necessary to use any risk premium when valuing an option because it is already included in the price of the stock. In 1973 Fischer Black and Myron S. Scholes published the famous option pricing Black and Scholes formula. Merton extended it in 1973.
+
+The idea was simple: a formula for option valuation should determine exactly how the value of the option depends on the current share price (professionally called the "delta" of the option). A delta of 1 means that a $1 increase or decrease in the price of the share is translated to a $1 identical movement in the price of the option.
+
+An investor that holds the share and wants to protect himself against the changes in its price can eliminate the risk by selling (writing) options as the number of shares he owns. If the share price increases, the investor will make a profit on the shares which will be identical to the losses on the options. The seller of an option incurs losses when the share price goes up, because he has to pay money to the people who bought it or give to them the shares at a price that is lower than the market price - the strike price of the option. The reverse is true for decreases in the share price. Yet, the money received by the investor from the buyers of the options that he sold is invested. Altogether, the investor should receive a yield equivalent to the yield on risk free investments (for instance, treasury bills).
+
+Changes in the share price and drawing nearer to the maturity (expiration) date of the option changes the delta of the option. The investor has to change the portfolio of his investments (shares, sold options and the money received from the option buyers) to account for this changing delta.
+
+This is the first unrealistic assumption of Black, Merton and Scholes: that the investor can trade continuously without any transaction costs (though others amended the formula later).
+
+According to their formula, the value of a call option is given by the difference between the expected share price and the expected cost if the option is exercised. The value of the option is higher, the higher the current share price, the higher the volatility of the share price (as measured by its standard deviation), the higher the risk-free interest rate, the longer the time to maturity, the lower the strike price, and the higher the probability that the option will be exercised.
+
+All the parameters in the equation are observable except the volatility , which has to be estimated from market data. If the price of the call option is known, the formula can be used to solve for the market's estimate of the share volatility.
+
+Merton contributed to this revolutionary thinking by saying that to evaluate stock options, the market does not need to be in equilibrium. It is sufficient that no arbitrage opportunities will arise (namely, that the market will price the share and the option correctly). So, Merton was not afraid to include a fluctuating (stochastic) interest rate in HIS treatment of the Black and Scholes formula.
+
+His much more flexible approach also fitted more complex types of options (known as synthetic options - created by buying or selling two unrelated securities).
+
+Theory and Practice
+
+The Nobel laureates succeeded to solve a problem more than 70 years old.
+
+But their contribution had both theoretical and practical importance. It assisted in solving many economic problems, to price derivatives and to valuation in other areas. Their method has been used to determine the value of currency options, interest rate options, options on futures, and so on.
+
+Today, we no longer use the original formula. The interest rate in modern theories is stochastic, the volatility of the share price varies stochastically over time, prices develop in jumps, transaction costs are taken into account and prices can be controlled (e.g. currencies are restricted to move inside bands in many countries).
+
+Specific Applications of the Formula: Corporate Liabilities
+
+A share can be thought of as an option on the firm. If the value of the firm is lower than the value of its maturing debt, the shareholders have the right, but not the obligation, to repay the loans. We can, therefore, use the Black and Scholes to value shares, even when are not traded. Shares are liabilities of the firm and all other liabilities can be treated the same way.
+
+In financial contract theory the methodology has been used to design optimal financial contracts, taking into account various aspects of bankruptcy law.
+
+Investment evaluation Flexibility is a key factor in a successful choice between investments. Let us take a surprising example: equipment differs in its flexibility - some equipment can be deactivated and reactivated at will (as the market price of the product fluctuates), uses different sources of energy with varying relative prices (example: the relative prices of oil versus electricity), etc. This kind of equipment is really an option: to operate or to shut down, to use oil or electricity).
+
+The Black and Scholes formula could help make the right decision.
+
+Guarantees and Insurance Contracts
+
+Insurance policies and financial (and non financial) guarantees can be evaluated using option-pricing theory. Insurance against the non-payment of a debt security is equivalent to a put option on the debt security with a strike price that is equal to the nominal value of the security. A real put option would provide its holder with the right to sell the debt security if its value declines below the strike price.
+
+Put differently, the put option owner has the possibility to limit his losses.
+
+Option contracts are, indeed, a kind of insurance contracts and the two markets are competing.
+
+Complete Markets
+
+Merton (1977) extend the dynamic theory of financial markets. In the 1950s, Kenneth Arrow and Gerard Debreu (both Nobel Prize winners) demonstrated that individuals, households and firms can abolish their risk: if there exist as many independent securities as there are future states of the world (a quite large number). Merton proved that far fewer financial instruments are sufficient to eliminate risk, even when the number of future states is very large.
+
+Practical Importance
+
+Option contracts began to be traded on the Chicago Board Options Exchange (CBOE) in April 1973, one month before the formula was published.
+
+It was only in 1975 that traders had begun applying it - using programmed calculators. Thousands of traders and investors use the formula daily in markets throughout the world. In many countries, it is mandatory by law to use the formula to price stock warrants and options. In Israel, the formula must be included and explained in every public offering prospectus.
+
+Today, we cannot conceive of the financial world without the formula.
+
+Investment portfolio managers use put options to hedge against a decline in share prices. Companies use derivative instruments to fight currency, interest rates and other financial risks. Banks and other financial institutions use it to price (even to characterize) new products, offer customized financial solutions and instruments to their clients and to minimize their own risks.
+
+Some Other Scientific Contributions
+
+The work of Merton and Scholes was not confined to inventing the formula.
+
+Merton analysed individual consumption and investment decisions in continuous time. He generalized an important asset pricing model called the CAPM and gave it a dynamic form. He applied option pricing formulas in different fields.
+
+He is most known for deriving a formula which allows stock price movements to be discontinuous.
+
+Scholes studied the effect of dividends on share prices and estimated the risks associated with the share which are not specific to it. He is a great guru of the efficient marketplace ("The Invisible Hand of the Market").
+
+

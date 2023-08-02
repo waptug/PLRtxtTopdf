@@ -1,0 +1,28 @@
+Title: 
+High Speed Data Transmission With Fax Machines
+
+Word Count:
+525
+
+Summary:
+You may walk into almost any office nowadays, big or small, hi-tech or low-tech, or even in some homes and find a fax machine. Fax (short term for facsimile, which in Latin means "make a copy") is a modern telecommunications technology which allows the transfer of copies of documents from one location to another via telephone lines. It usually consists of a scanner, a printer and a modem. When the original document is fed into the fax machine, the scanner converts the physica...
+
+
+Keywords:
+computer,technology
+
+
+Article Body:
+You may walk into almost any office nowadays, big or small, hi-tech or low-tech, or even in some homes and find a fax machine. Fax (short term for facsimile, which in Latin means "make a copy") is a modern telecommunications technology which allows the transfer of copies of documents from one location to another via telephone lines. It usually consists of a scanner, a printer and a modem. When the original document is fed into the fax machine, the scanner converts the physical document into a digital image. It then sends the data into the modem which then sends it to another device using telephone lines. Lastly, the printer from the receiving end produces a printed copy of the transmitted data.
+
+The fax machine was conceptualized by Alexander Bain, a Scottish mechanic, in 1843 using his knowledge of electric clock pendulums. He used this idea to create a back and forth, line by line scanning mechanism using a stylus mounted on a pendulum. This technique involves transcribing the document to be scanned into a metal plate. It was not until 1865 that the pantelegraphe, the world's first practical fax machine, was introduced in the world market. This was invented by an Italian physicist, Giovanni Caselli. But the forerunner of today's modern fax machine was the transoceanic radio facsimile which was invented by Richard H. Ranger in 1924. However, his invention was not put into commercial use not until after 2 years. The very first photo reproduced by the transoceanic facsimile was of President Calvin Coolidge transmitted from New York to London in November of 1924.
+
+When you really think about it, a fax machine is a very convenient way of transmitting documents from one place to another. Even if we have Fed-Ex or any other high-speed mail delivery service option, it is often more economical to send and receive documents with just a few buttons to push. For some businesses, it is nearly impossible to operate without a fax machine. A modern housewife can have her pricelist of groceries for the home sent via fax. Let us look into the three common types of machines to receive fax:
+
+-    Machines utilizing thermal paper. The thermal paper is coated with chemicals that react to heat. It is inexpensive and does not utilize a lot of supplies such as ribbons, ink or paper. However, you have to make another copy of it should you want to store it for a longer period of time because the paper discolors after some time. Since it also reacts to heat, should you store it in a hot place, the paper turns black completely.
+
+-   Machines with Inkjet or Laser Printers. As it suggests, it uses inkjet or laser printers to print the received fax. An inkjet printer is any type of printer which places exceedingly tiny droplets of ink onto paper to produce an image. Similarly, a laser printer does the same job but it utilizes a highly focused beam of light or laser beam.
+
+-    Computer Printer. A fax modem receives the fax and the data is stored into the computer's hard drive as a graphic file. You can then print it using you computer's default printer.
+
+

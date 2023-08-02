@@ -1,0 +1,28 @@
+Title: 
+Passing Cisco's CCNA and CCNP Exams:  Five Tips For Exam Day Success
+
+Word Count:
+349
+
+Summary:
+CCNA and CCNP candidates find themselves under a lot of stress as they enter their last week of exam preparation.  Learn how to reduce stress and maximize your CCNA and CCNP exam day performance from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+ccna, ccnp, free, exam, pass, cit, bcran, bsci, study, tutorial, intro, icnd, nat, mcse
+
+
+Article Body:
+As you get ready to pass the CCNA or CCNP exams, you can feel quite a bit of stress as you enter your last week of study. Let's take a look at a few ways to reduce that stress.
+
+1. Do not stay up late cramming. The CCNA and CCNP are not exams you're going to pass by cramming. "Cramming" is a study technique best left behind in junior high school. The CCNA can't be passed by memorization - you've got to know how Cisco technologies work. That leads us to the second point...
+
+2. Get lots of rest. By far, this is the most overlooked factor on exam day. The CCNA and CCNP exams are going to demand your best. You're going to be performing subnetting, binary and hex conversions, analyzing network diagrams for troubleshooting, and much more. You've got to be mentally sharp. You can add 100 points to your exam score just by showing up well-rested. And let's be realistic - if you don't know something at 11 PM the night before your exam, you're not going to learn it overnight. Get some sleep!
+
+3. Get everything together the night before the exam. You don't want to be running around the house the morning of the exam looking for your keys. Make sure you have your keys and your ID the night before the exam.
+
+4. Know where the testing center is. If you've never been to the center you'll be passing the CCNA in before, go there before the morning of the exam. Do not rely on Mapquest or a friend's directions. You don't want to be late for your exam.
+
+5. Allow for traffic. Many CCNA and CCNP candidates prefer to take their exams in the morning. Again, if you haven't been to the exam center before, you should drive there during morning rush hour traffic before your exam date to make sure you have enough time to get there. You don't want to be sitting in traffic when you should be sitting in the exam room!
+
+

@@ -1,0 +1,34 @@
+Title: 
+Preserving Information For Times To Come
+
+Word Count:
+419
+
+Summary:
+Data storage has become an important issue in today's organizations. With the incredible boom in computer usage that has taken place over the last two decades, data storage has come to acquire a new meaning. In the old days, data was recorded on paper. The result was scores of folders that occupied space on desks, chairs, and file cabinets.
+
+We still have folders and files in the world of today. They have just become a lot more accessible. Rather than occupy space on the of...
+
+
+Keywords:
+RAID, Storage, Data Recovery
+
+
+Article Body:
+Data storage has become an important issue in today's organizations. With the incredible boom in computer usage that has taken place over the last two decades, data storage has come to acquire a new meaning. In the old days, data was recorded on paper. The result was scores of folders that occupied space on desks, chairs, and file cabinets.
+
+We still have folders and files in the world of today. They have just become a lot more accessible. Rather than occupy space on the office furniture, these folders take up space on our computers. The records that we use today are divided into hard copy and soft copy. These days, it is the latter that is quickly becoming more and more indispensable. However, the differently-colored folders and files that grace our offices cannot be ignored just yet.
+
+As far as storing hard copy goes, the best buy is a file cabinet. Keep it organized from the very start and rest assured that files will be easily available. Maintain records of who uses which file and when, to minimize the chances of precious hard copy going missing.
+
+However, storing soft copy is somewhat more difficult. Computers, after all, are electronic products. Hence, they are susceptible to all kinds of electronic glitches. From power surges due to electrical storms, to motherboards that are destroyed by a virus, data stored on computers face a number of risks. If you are in an organization that has a lot of data stored on computers, minimizing the risk of data loss becomes an integral aspect of office functioning.
+
+This would require your developing a data recovery plan, if for some reason, you lose your data. It is recommended to keep making backups of the stored data to prepare for the possibility of loss.
+
+Many a time, we take it upon ourselves to try and repair drives that give trouble. Avoid doing this as you might lose even more data. Call an expert to take care of your drive problems.
+
+Enterprise storage is an important issue in most modern-day organizations. There are many ways of dealing with the risk of losing data. One of the ways is that of using storage systems such as DAS, SAN and NAS. Of these, DAS (direct attached storage) is the oldest, though it continues to be popular. You could also make use of data recovery software for future contingencies.
+
+There are many ways of working on data storage. Based on your budget and data availability needs, choose the best option.
+
+

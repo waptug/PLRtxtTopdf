@@ -1,0 +1,34 @@
+Title: 
+Bluetooth Wireless In Your Home Office
+
+Word Count:
+514
+
+Summary:
+Bluetooth is a wireless communication protocol that provides a method of wirelessly exchanging data between bluetooth enabled devices. Unlike Wi-Fi which requires more power to operate and a separate configuration for each device, Bluetooth requires low power consumption, is relatively simple to use, and is designed for use in a much smaller area. A network of devices formed around Bluetooth is known as a PAN, or Personal Area Network.
+
+While the technology has been around ...
+
+
+Keywords:
+bluetooth, wireless, communication, home office, technology, bluetooth adapter
+
+
+Article Body:
+Bluetooth is a wireless communication protocol that provides a method of wirelessly exchanging data between bluetooth enabled devices. Unlike Wi-Fi which requires more power to operate and a separate configuration for each device, Bluetooth requires low power consumption, is relatively simple to use, and is designed for use in a much smaller area. A network of devices formed around Bluetooth is known as a PAN, or Personal Area Network.
+
+While the technology has been around for over ten years and its use has steadily grown, still relatively few take full advantage of the many capabilities it presents. One excellent use of Bluetooth technology for the consumer is in the home office.
+
+The conversion of a typical home office set up to wireless technology is fairly simple and straightforward. It is not required to have any programming skills or advanced computer skills in order to make it work.
+
+In converting your home office to Bluetooth wireless, the first order of business is acquiring an adapter for your computer. This is a small device which plugs into the USB port of your computer and will allow your computer to communicate with Bluetooth components. Many of these adapters (or dongles) are similar in size to the popular USB flash drives. The adapter becomes the “master” and is capable of communicating with up to seven Bluetooth enabled devices. They are manufactured by many well known companies in the wireless field, such as D-link and Linksys, and are readily available.
+
+Moving on, you may then want to consider a wireless mouse and keyboard. These devices must be purchased with Bluetooth technology pre-installed (there are no converters available for these components). There are a considerable number on the market and most work basically the same. Your choice should be one of personal preference and as these are separate devices it is not necessary to replace both. Several of the more popular models are made by Logitech and Microsoft.
+
+Next step is the printer. While there are several newer printers on the market that are bluetooth enabled, many opt for a printer adapter which will do the same job. If you are in the market for a new printer, it makes sense to buy one that is already Bluetooth capable. If not, adapters are readily available for most printers. They are similar to the computer adapter in that they plug into the printers USB port. There are also several models available which will utilize the parallel port for older printers.
+
+Congratulations – you have just set up your Personal Area Network. However, no more hassling with wires and cables is just the beginning. And this is where the real beauty and functionality of Bluetooth lies. You now have a PAN that will work well with any Bluetooth enabled device. Upload and download data from your PDA without wires. Wirelessly upload and print photos from a Bluetooth enabled digital camera. Print documents from your laptop with no cables. If you enjoy music while you work, Bluetooth enabled stereo headphones are available.
+
+It is great technology with endless possibilities for both productivity and enjoyment.
+
+

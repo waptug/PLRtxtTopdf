@@ -1,0 +1,62 @@
+Title: 
+Embedding A 3270 Emulator Inside A Desktop-based Customer Service Application Suite
+
+Word Count:
+785
+
+Summary:
+Large, risk-adverse insurance firms use PASSPORT to integrate proven IBM mainframe applications on a secure, cost effective platform
+
+Most large insurance companies, banks and financial services organizations continue to rely on IBM mainframe applications to run their business. In doing so, for many, the use of 3270 terminal emulation as a method of accessing proven legacy applications is still a requirement. 
+
+The Terminal Control feature of Zephyr’s PASSPORT Host Integr...
+
+
+Keywords:
+integration,terminal emulation,mainframe
+
+
+Article Body:
+Large, risk-adverse insurance firms use PASSPORT to integrate proven IBM mainframe applications on a secure, cost effective platform
+
+Most large insurance companies, banks and financial services organizations continue to rely on IBM mainframe applications to run their business. In doing so, for many, the use of 3270 terminal emulation as a method of accessing proven legacy applications is still a requirement. 
+
+The Terminal Control feature of Zephyr’s PASSPORT Host Integration Objects (HIO) software has been used by a number of leading firms to embed 3270 terminal emulation inside core desktop application suites, including:
+
+- One of the top three U.S. providers of auto insurance has embedded PASSPORT within their client-based corporate application suite, including a key claims workstation application, collectively offering 3270 access to 30,000 employees and agents 
+
+- One of the top 10 property and casualty insurers in the U.S. has extensively integrated PASSPORT into desktop applications that require 3270 connectivity, providing integrated host access to 40,000 employees 
+
+- A Fortune 20 company has embedded PASSPORT within their insurance and healthcare applications, creating an automated solution that accesses 3270 applications used in the U.S. 
+
+Medicare system 
+
+Embedding a robust Windows terminal emulator within an agent, claims, call center or customer service application suite, and making use of the emulator’s rich scripting and application integration capabilities to improve overall productivity, can make great financial sense. This is especially true given the high cost of reengineering a legacy application or replacing it with an expensive packaged application that may not fully meet all requirements. By comparison, the point-to-point host integration model used in terminal emulation is very competitively priced. 
+
+Why consider bundling terminal emulation inside a client-side application suite?
+
+For starters, an integrated desktop system is secure, cost effective and involves very little risk in terms of development. Once the application suite is finalized, it’s also much easier to support.
+
+Today, most desktop systems are locked down to avoid potential security problems. Further, a typical PC often contains a group of solid applications that have already been licensed and paid for. Given the value of the proven business logic found in mature IBM 3270 mainframe applications, it can pay to marry these two worlds. Once partnered, the emulator can be used to avoid duplicate data entry by copying host information into multiple applications, scripts can be used to automate the navigation of host menus, skip 3270 screens and much more. 
+
+Using the PASSPORT Terminal Control
+
+PASSPORT HIO offers a programmatic, object-oriented method of integrating IBM 3270 mainframe and IBM 5250 AS/400 host applications with .NET, Visual C++ or VB applications using the host screen as an API (screen-scraping). The Zephyr solution features a mature TN3270 and TN5250 communications module and Object API, based on the IETF OHIO standard, and can be used on a Windows XP or 2000 desktop. PASSPORT HIO can also be used from a Microsoft Windows 2003 or 2000 Server. SSL security is included as a standard feature of the application. 
+
+To embed terminal emulation inside a client application, the PASSPORT HIO Terminal Control is used to create a terminal emulation display and keyboard object that runs in conjunction with a session object. The session object maintains the host screen buffer and performs all communication with the IBM mainframe or AS/400 system. The terminal control object provides a user interface for a specific session object. 
+
+PASSPORT HIO includes a Type Library, created using COM standards, that provides a core set of classes and methods to integrate host information at the data stream level. PASSPORT HIO also includes sample C# .NET, VB .NET and Win32 C++ (non-MFC) Sample Console Application programs to illustrate the use of these COM objects and their methods to open a session, connect to a host, get the host presentation space, field attributes, manipulate the host presentation space, and more. Any Microsoft programming language that supports the ActiveX COM interface or .NET can be used with the Zephyr application. 
+
+For the technical specifications of the PASSPORT HIO Terminal Control visit our web site at:
+http://www.zephyrcorp.com/legacy-integration/legacy-integration-dev.htm
+
+To Download a free trial of PASSPORT HIO or to view a sample embedded 3270 terminal emulation application included within the free trial version, visit: 
+http://zephyrcorp.com/downloads/legacy-integration.asp
+
+Summary
+
+The PASSPORT Host Integration Objects Terminal Control can be used to embed 3270 terminal emulation inside critical, desktop-based call center or customer service application suites. In doing so, organizations gain the use of a secure, cost effective, low risk platform for application integration involving IBM mainframe systems. 
+
+Terminal emulation is much less expensive than alternative host integration solutions, and once development is complete, a client-based platform is easy to maintain and support. Organizations that use 3270 host applications can quickly lower total cost of ownership through the use of these secure, reliable systems.
+
+

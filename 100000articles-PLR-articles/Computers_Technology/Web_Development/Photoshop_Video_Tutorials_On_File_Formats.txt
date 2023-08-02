@@ -1,0 +1,52 @@
+Title: 
+Photoshop Video Tutorials On File Formats
+
+Word Count:
+417
+
+Summary:
+Photoshop files themselves can’t be embedded into a web page. You will need to export your file and save it in a web-friendly format. There are three formats for web graphics: JPEGs, GIFs and PNGs.
+
+JPEG:
+The JPEG format (pronounced “jay-peg”), works best with photographic images or images that have more than 256 colors and gradients, such as the flowers.
+
+Images saved in JPEG format are compressed, which means that image information will actually be lost, causing the im...
+
+
+Keywords:
+photoshop,adobe,tutorials,paint,photography,photoshop 7,photoshop cs,photoshop tips,photoshop tricks
+
+
+Article Body:
+Photoshop files themselves can’t be embedded into a web page. You will need to export your file and save it in a web-friendly format. There are three formats for web graphics: JPEGs, GIFs and PNGs.
+
+JPEG:
+The JPEG format (pronounced “jay-peg”), works best with photographic images or images that have more than 256 colors and gradients, such as the flowers.
+
+Images saved in JPEG format are compressed, which means that image information will actually be lost, causing the image to degrade in quality.
+
+JPEG Quality:
+Changing the value in the Quality drop-down box alters the level of compression for the image. Reducing the quality may result in blurring or pixelation, but too high a setting will produce a large file that will take users too long to
+download.
+
+A good approach is to decrease the quality value gradually until you notice the degradation of your image becoming unacceptable. A reasonable compromise will be somewhere around this point.
+
+GIF:
+The GIF format (pronounced “jiff” or “giff” depending on which side of the tracks you grew up) can have a maximum of 256 colors.
+
+GIF files support transparency and animation, and work best with graphics that have large areas of the same color.
+
+PNG:
+The PNG format (pronounced “ping”) is similar to the GIF format in that it supports transparency and works best with solid-color images, but it’s superior to the GIF format as it has the ability to support true levels of transparency
+for colored areas.
+
+Transparent PNGs are currently not in widespread use on the Web because older versions of Microsoft Internet Explorer do not support them; however, they’re often used in Macromedia Flash movies. PNGs can produce a better quality image at a smaller file size than can GIFs.
+
+Photoshop allows you to save an image as a PNG-8 file (which works the same way as a GIF would with 256 colors) or a PNG-24 file (which allows for millions of colors as well as variable transparency).
+
+GIF/PNG-8 Colors:
+Adjusting this setting reduces the number of colors used in any image. This will usually make the biggest difference in the final image. dither amount and type (No Dither, Diffusion, Pattern, Noise)
+
+This setting has nothing to do with being nervous or agitated. Dither refers to a compression technique in which the pattern of dots is varied to give the illusion of a color gradient. Changing the dither will result in a more noticeable degradation for images that involve a large number of colors blended together.
+
+

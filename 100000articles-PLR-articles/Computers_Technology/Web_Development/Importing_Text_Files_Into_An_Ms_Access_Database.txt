@@ -1,0 +1,34 @@
+Title: 
+Importing Text Files Into An Ms Access Database
+
+Word Count:
+407
+
+Summary:
+In some of the MS Access databases that you develop, there may be a need to import data from text files, also referred to as ASCII files or flat files. Let's look at the menu methods available to you.
+
+Under the File menu, there is an entry named "Get External Data", and then "Import...". The extra "..." indicates that when you choose that entry, a dialogue box will appear on the screen to ask you for further details.
+
+The next step is to change the "Files of type:" entry...
+
+
+Keywords:
+ms access, database
+
+
+Article Body:
+In some of the MS Access databases that you develop, there may be a need to import data from text files, also referred to as ASCII files or flat files. Let's look at the menu methods available to you.
+
+Under the File menu, there is an entry named "Get External Data", and then "Import...". The extra "..." indicates that when you choose that entry, a dialogue box will appear on the screen to ask you for further details.
+
+The next step is to change the "Files of type:" entry to show "Text Files (*.txt;*.csv;*.tab;*.asc)". A good habit is to always use the .txt extension for text files. Thus, they will appear under that choice and you can quickly look for the file you want to import.
+
+Generally speaking, your text files should either have their "fields" separated by a delimiter (usually a comma or a tab, but can also be a space, semicolon, or any other chosen character), or they may be in fixed widths where each field always takes the exact same space in each record.
+
+Let's look at the delimited style first. The fields will be automatically sensed by Access as per the delimiters. Subsequent dialogue box screens will ask you to indicate if the first row in the text file has field names, pick a table for the data (if you do not have one predesigned, Access will build it for you), designate field names if needed, adjust field types (Access tries to predetermine the types), indicate if the field should be indexed, tell MS Access to skip a field, add a primary key if it is creating a new table for your data, and finally, name the table if you chose to create a new one. If you are importing the data into a temporary table (a common process) use the defaults.
+
+If your data is in fixed format, the main difference in the above is that you must verify the field boundaries in the data. If your data is all filled in (ie. no spaces) Access will not be able to guess where the fields end. Note that the dialogue box that you get in this case has instructions on how to create, delete, or move a field break line. A little experimentation will get you sucessfully on your way quickly.
+
+For a discussion of the exporting of data to a text file, visit http://www.databaselessons.com/text-files-2.php.
+
+

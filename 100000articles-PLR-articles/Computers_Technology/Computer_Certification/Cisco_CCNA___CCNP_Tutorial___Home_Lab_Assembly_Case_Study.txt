@@ -1,0 +1,52 @@
+Title: 
+Cisco CCNA / CCNP Tutorial:  Home Lab Assembly Case Study
+
+Word Count:
+831
+
+Summary:
+Part of the fun and the confusion with CCNA / CCNP home labs is figuring out how to connect the equipment you have.  Chris Bryant, CCIE #12933, walks you through this case study that shows you one possible configuration for one customer’s home lab.
+
+
+Keywords:
+ccna,ccnp,home,lab,router,switch,pass,free,exam,tutorial,intro,icnd,access,server,frame,relay,switch,dte/dce,crossover,network,topology,setup,loopback,interface,ethernet,serial,bri,isdn,simulator
+
+
+Article Body:
+Part of your CCNA / CCNP education is deciding what network topology to use when you're putting together your home lab.  Some of you are starting with one or two routers or switches, while others are starting with more.  A customer recently sent me a list of his Cisco routers and switches that he has available for a home lab and asked for my help in coming up with the best way to use them.
+
+There is no "right" or "wrong" answer to this question; again, part of the learning process is configuring and reconfiguring the physical topology of your lab.  Let's look at the routers and switches he has available, including the interfaces on each, and come up with one possible CCNA / CCNP home lab setup.
+
+The equipment list:
+
+Two 3620 routers.  Each has 1 serial port and 2 ethernet ports.
+
+One 3640 router.  This has two ethernet cards, each with two ports, and two AUI ports.
+
+Three 2503s, my personal favorite for home labs!  These have 1 AUI port, 2 serial interfaces, and one BRI interface apiece.
+
+One 2524 router.  This has one serial port, 1 ethernet port, and one BRI interface.
+
+One 4500 router.  This has eight BRI ports, 2 ethernet ports, and more importantly, four serial ports.
+
+He also has a 5200 access server, an ISDN simulator, one 2924 switch, and one 1924 switch.
+
+Now, if you don't have this much equipment to work with, don't panic!  Most CCNA / CCNP candidates don't; this is more of an exercise in looking at what you do have and using it to the utmost.
+
+As I've mentioned in many of my CCNA / CCNP home lab articles, an access server is a great thing to have.  All he needs is an octal cable to connect his AS to the other devices we choose to use, and he's all set.  (If you need an access server sample configuration, there is one on my website in the Home Lab section.)
+
+A frame relay switch is also great to have, and the 4500 will make a great FR switch.  Having a frame relay cloud in your CCNA / CCNP home lab is a great way to get experience configuring and troubleshooting frame relay, an essential skill for CCNA success.
+
+I would put both of the 3620s on the frame relay cloud via the Serial interface, as well as two of the 2503s.  That gives you four routers that will be using frame relay to communicate, and that's the most we can have since the 4500 has four serial ports.   The 4500 will need to be configured as a frame relay switch and connected to the other routers via a DTE/DCE cable.  (Again, if you need a frame relay switch configuration, the one I use in my pods is on the website in the same place as the access server configuration.)
+
+The two 2503s that are on the frame relay cloud should also be connected via their BRI interfaces.  The home lab also includes an ISDN simulator, which is necessary to allow routers to communicate via their BRI interfaces.  Just get a couple of straight-through cables to connect those two routers to the ISDN simulator and that segment is ready to go.  (Remember that you can't connect Cisco routers directly via their BRI interfaces.)
+
+All of the routers in this lab have at least one ethernet or AUI port, so we can connect them all to either one of the switches.  The switches should be connected via at least two crossover cables to allow practice with trunking, root bridge election, and VLANs.  Having two switches really does add quite a bit to a CCNA / CCNP home lab's capabilities.  You can experiment with different subnets and vlans with as well. Don't be afraid to dive in - that's what a home lab is all about!
+
+So now we've got four routers connected via frame relay, two via ISDN, and the others via ethernet segments.  Two of the routers that are not using their serial interfaces should be connected directly via their serial ports.  For this, you'll just need another DTE/DCE cable.  Knowing how to bring up the line between two directly connected serial ports is an important CCNA skill, and so is troubleshooting it.  You should be able to bring such a connection up with your eyes closed, and once you work with your own CCNA / CCNP home lab, you'll be able to!
+
+Also, don't forget to add a loopback interface to each one of your routers.  I like to use 1.1.1.1 for R1, 2.2.2.2 for R2, and so on. Advertising loopbacks is another great way to get practice with RIP, OSPF, EIGRP, IGRP, and static routing.
+
+We've taken a pile of routers and switches and turned them into a fantastic CCNA / CCNP home lab.  Whether you're working with two Cisco devices or ten, coming up with your own home lab topology is a great learning experience and the beginning of developing your analytical and troubleshooting skills.
+
+

@@ -1,0 +1,46 @@
+Title: 
+Notebook Display:  WXGA WSXGA Or WUXGA?
+
+Word Count:
+502
+
+Summary:
+When buying a widescreen notebook, it can be a bit confusing to pick the right LCD. Generally, you are given a choice between WXGA, WSXGA and WUXGA notebook displays. What are these and which do you choose?
+
+WXGA, WSXGA and WUXGA
+
+The above acronyms are resolution standards for television and computer monitors. All of them refer to widescreen display standards: WXGA stands for Widescreen Extended Graphics Array; WSXGA for Widescreen Super Extended Graphics Array; and WUXG...
+
+
+Keywords:
+wuxga,wxga,wsxga,display,notebook display,laptop display,lcd,laptops,notebooks,notebook computers
+
+
+Article Body:
+When buying a widescreen notebook, it can be a bit confusing to pick the right LCD. Generally, you are given a choice between WXGA, WSXGA and WUXGA notebook displays. What are these and which do you choose?
+
+WXGA, WSXGA and WUXGA
+
+The above acronyms are resolution standards for television and computer monitors. All of them refer to widescreen display standards: WXGA stands for Widescreen Extended Graphics Array; WSXGA for Widescreen Super Extended Graphics Array; and WUXGA for Widescreen Ultra Extended Graphics Array.
+
+WXGA, WSXGA and WUXGA are not the only display standards for screen displays, but they are the most common in notebook computers. True to widescreen standards, all three of these have an aspect ratio in the range of 16/9 to 16/10. They mainly differ in their resolution (the number of pixels they can display on screen).
+
+While all widescreen displays can use resolutions lower than their rated display, they provide the best image at their native resolution, which is also their maximum resolution. Keep in mind that a lower resolution is much easier on the eyes, so you will want to go with a native resolution that does not leave you squinting at the screen in your day-to-day use.
+
+WXGA has a 1366x768 resolution, an aspect ratio of 16/9. WSXGA boasts a greater resolution at 1680x1050 and an aspect ratio of 16/10. WUXGA uses a resolution of 1920x1200 at an aspect ratio of 16/10.
+
+What to Pick?
+
+If you are buying a notebook computer for gaming purposes, you probably want a WUXGA screen for the sharpest image. If you are an HDTV subscriber and you plan to use your notebook computer as an HDTV receiver, WUXGA gives the very highest resolution available. WUXGA is also great for watching movies and viewing digital images due to the sharp rendering of images and pictures.
+
+In addition, WUXGA is very convenient for multi-tasking, provided you can handle the smaller text size. The 1920X1200 resolution is perfect for working on two documents or web pages side-by-side, which can enhance productivity.
+
+Although a WUXGA LCD seems like the obvious choice because of its higher resolution that produces more desktop space and greater amounts of detail, this is not to say that WXGA and WSXGA have nothing to recommend them. In fact, WUXGA is not for everyone.
+
+If the notebook computer does not have a powerful mobile graphics processing unit and a 17-inch or larger LCD, high-resolution gaming and 3D rendering will be more difficult, as it takes a high-end GPU to push modern games and 3D models to 1920x1200 resolutions. As mentioned, customers with less than excellent vision are better off choosing WXGA to get the largest text display. If you want a notebook display with medium-sized text, sharp images, and less than 17 inches of physical screen size, WSXGA is a good compromise, and the 1680x1050 resolution is nothing to sneeze at, by any means.
+
+This article may be republished freely as long as this copyright notice and box of resource links are included at the bottom.
+
+Copyright © 2007 MALIBAL, LLC
+
+

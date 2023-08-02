@@ -1,0 +1,38 @@
+Title: 
+Six Sigma Tools
+
+Word Count:
+481
+
+Summary:
+Statistics are at the heart of Six Sigma’s powerful methodology for quality improvement. It pays to get to know some of the most important of the Six Sigma statistical tools.
+
+Control Charts
+
+The control chart is the fundamental tool of statistical process control; a proven technique for improving productivity. It monitors the variation of key characteristics and indicates the range of variability that is built into a system. Control charts provide diagnostic information ...
+
+
+Keywords:
+Statistics,Six,Sigma,statistical,tools,control,productivity,analyze,causes,improve,Effects,Analysis,
+
+
+Article Body:
+Statistics are at the heart of Six Sigma’s powerful methodology for quality improvement. It pays to get to know some of the most important of the Six Sigma statistical tools.
+
+Control Charts
+
+The control chart is the fundamental tool of statistical process control; a proven technique for improving productivity. It monitors the variation of key characteristics and indicates the range of variability that is built into a system. Control charts provide diagnostic information about process capability that can be used to analyze variation in process data to demonstrate whether a process is operating consistently. The bounds of the control chart are marked by upper and lower control limits that are calculated by applying statistical formulas to data from the process. Data points that fall outside these bounds represent variations due to irregular causes, which can then be identified and eliminated. Control charts are effective in defect prevention and will help ensure that your process performs consistently. From them, you can, in a precise manner, monitor, control, and improve on process performance over time. This will allow you to be able to predict fluctuations, lower costs and ensure the process has a higher effective capacity.
+
+Failure Modes and Effects Analysis (FMEA)
+
+FMEA is a powerful structured approach that helps you to identify and counter weak points in the early conception phase of products and processes. Using FMEA allows you to analyze any system or subsystem in manufacturing or service industries in the early stages of the process. This systematic methodology identifies potential failure modes in a system caused by either design or process deficiencies. It also identifies critical or significant design or process characteristics that require special controls to prevent or detect failure modes. FMEA improves the quality of products and services and processes by preventing problems from occurring. It documents and tracks action taken to reduce risk while it integrates with the DMAIC methodology.
+
+Histogram
+
+A histogram is used to graphically summarize the distribution of a data set. A histogram is constructed by dividing the range of data into equally sized segments. This data tool enables you to quickly and easily answer several important questions: what distribution does the data have? What is the most common system response? Is the data symmetric or does it contain outliers?
+
+Pareto Chart
+
+A pareto chart is used to graphically summarize the relative importance of the differences between groups of data. A pareto chart is constructed by dividing the range of data into groups. The vertical axis of the pareto chart is the cumulative percentage, and the horizontal axis of the pareto chart is the groups of response variables. Unlike the histogram, the pareto chart is ordered in descending frequency magnitude. The Pareto Chart allows you to focus your efforts to achieve the greatest improvements by identifying the largest issues facing the process. It identifies the 20% of sources that are causing 80% of the problems.
+
+

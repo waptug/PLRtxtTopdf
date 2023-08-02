@@ -1,0 +1,28 @@
+Title: 
+Cisco CCNA Certification:  The (Many) Different Kinds Of Switching
+
+Word Count:
+309
+
+Summary:
+CCNA candidates know what switching is, but what about the differences between packet, frame, cell, and circuit-switching?  Learn how to keep these terms straight and pass the CCNA exam in this article from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccna, intro, icnd, switching, 640-801,640-811,640-821,pass,free,exam,osi,model,isdn,Bryant,chris,advantage,12933,packet,frame,cell,circuit
+
+
+Article Body:
+When you're studying for your CCNA exam, whether you're taking the Intro-ICND path or the single-exam path, you're quickly introduced to the fact that switching occurs at Layer 2 of the OSI model.  No problem there, but then other terms involving switching are thrown in, and some of them can be more than a little confusing.  What is "cell switching"?  What is "circuit switching"?  Most confusing of all, how can you have "packet switching"?  Packets are found at Layer 3, but switching occurs at Layer 2.  How can packets be switched?
+
+Relax!  As you'll see in this article, the terms aren't that hard to keep straight.   Packet switching, for example, describes a protocol that divides a message into packets before they're sent.  The packets are then sent individually, and may take different paths to the same destination.  Once the packets arrive at the final destination, they are reassembled.
+
+Frame switching follows the same process, but at a different layer of the OSI model.  When the protocol runs at Layer 2 rather than Layer 3, the process is referred to as frame switching.
+
+Cell switching also does much the same thing, but as the name implies, the device in use is a cell switch.  Cell-switched packets are fixed in length.  ATM is a popular cell-switching technology.
+
+The process of circuit switching is just a bit different, in that the process of setting up the circuit itself is part of the process.  The channel is set up between two parties, data is transmitted, and the channel is then torn down.  The circuit-switching technology most familiar to CCNA candidates is ISDN.
+
+Don't let these terms confuse you.  The four different terms are describing much the same process.  The main difference is that they are occurring at different levels of the OSI model, and using a different transport method to get the data where it needs to go.
+
+

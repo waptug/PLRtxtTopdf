@@ -1,0 +1,32 @@
+Title: 
+On The Use Of A File Shredder
+
+Word Count:
+509
+
+Summary:
+The term ‘file shredder’ can now refer to a software utility designed to allow the secure deletion of files from a hard disk. This is in contrast with the “delete” command available in all operating systems, which actually leaves the contents of the “deleted” file on the disk. What seems, on the surface, like a permanent enough deletion actually leaves enough on the disk for the deleted file to be reconstructed and the date therein recovered.
+
+When you tell your operating s...
+
+
+Keywords:
+file shredder,file security,wipe file
+
+
+Article Body:
+The term ‘file shredder’ can now refer to a software utility designed to allow the secure deletion of files from a hard disk. This is in contrast with the “delete” command available in all operating systems, which actually leaves the contents of the “deleted” file on the disk. What seems, on the surface, like a permanent enough deletion actually leaves enough on the disk for the deleted file to be reconstructed and the date therein recovered.
+
+When you tell your operating system to delete a file, it does not actually physically erase the contents of the disk space allocated to that file. Instead, it just marks that disk space as available for storing new data, and at the same time marks the file “deleted” in its directory listing. Hence, it is possible to “undelete” a file (like the MS-DOS command goes), which would simply consist of removing the “deleted” tag and marking the corresponding disk space “under use” again. While this “undelete” command is not always a feature of the operating system itself, there exist third party utilities which make data recovery possible.
+
+These file shredder utilities go further than mere “delete” commands do. Shredding a file consists of overwriting the file’s disk area with random data, to remove any traces of the file having been there. Some shredders overwrite files not only once, but up to three times! This greatly decreases the chances of the shredded file ever being recovered. (A chance still remains to be able to recover the file, some say, but in all practicality it has become quite impossible.)
+
+Some of these file shredding utilities even ensure that no Metadata about shredded files are left within the file system. This metadata consists of the various pieces of information about the file that are stored in the system, such as date of creation, title, and other such details. Although perhaps not much information could be gleaned from Metadata alone, for strictly confidential information the possibility of recovering even just access dates and the title may represent too much risk.
+
+The majority of these file shredding programs are designed to be easy to use, with graphical user interfaces to make them accessible even to casual computer users. The file shredding process has become as easy as just selecting the files to be shredded, choosing the right options, and executing the program.
+
+Some more advanced file shredding programs use various shredding algorithms, with varying degrees of security. The usual trade-off for greater security is a longer running time. In any case, file shredding typically takes longer than mere deletion, since shredders actually write on the disk itself.
+
+These utilities were developed as computer use became more widespread, and the point arrived when they were used for critical or confidential applications, as well. Having the ability to securely delete a file (or even an entire disk) became more and more necessary. So while normal file deletion may be sufficient for ordinary purposes, file shredders are available for when deleting important files beyond the possibility of recovery becomes needed.
+
+

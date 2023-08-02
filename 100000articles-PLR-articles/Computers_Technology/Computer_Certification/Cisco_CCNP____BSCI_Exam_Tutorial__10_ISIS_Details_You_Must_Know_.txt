@@ -1,0 +1,60 @@
+Title: 
+Cisco CCNP /  BSCI Exam Tutorial: 10 ISIS Details You Must Know!
+
+Word Count:
+268
+
+Summary:
+Chris Bryant, CCIE #12933, lists 10 ISIS details you must know in order to earn your CCNP.
+
+
+Keywords:
+ccnp, certification, cisco, isis, level, router, end, system, iis, hello, type, adjacency, level-1
+
+
+Article Body:
+Earning your CCNP certification and passing the BSCI exam depends on knowing the details of many Cisco technologies, ISIS chief among them. To help you prepare for exam success, here's a list of ISIS terminology and basic concepts that will help you pass this tough exam. Enjoy!
+
+ISIS Terms:
+
+Domain: section of the network under common administrative control
+
+Area: logical segment of the network composed of contiguous routers and their data links
+
+Intermediate System: A router.
+
+End System: A host device.
+
+The four levels of ISIS routing:
+
+
+Level 0: ES-IS routing in the same subnet.
+
+Level 1: IS-IS routing in the same area.
+
+Level 2: IS-IS routing in the same domain.
+
+Level 3: Inter-domain routing performed by InterDomain Routing Protocol (IDRP).
+
+ISIS Adjacency Possibilities:
+
+
+L1: Can form adjacency with any L1 in the same area and any L1/L2 in the same area.
+
+L2: Can form adjacency with any L2 in any area, and with an L1/L2 in any area.
+
+L1/L2: Can form adjacency with any L1 in the same area, L1/L2 in any area, and L2 in any area.
+
+A router interface’s SNPA (Subnetwork Point Of Attachment) is its highest DLCI number if it’s on a Frame network, and its MAC address if the interface is on an Ethernet segment.
+
+ISIS Hello Types:
+
+ESH: ES Hello – Sent by End Systems to discover a router.
+
+ISH: IS Hello – Send by Intermediate Systems to announce their presence. End Systems listen for these.
+
+IIH: IS-to-IS Hello – Send by one IS to be heard by another IS. These hellos makes IS-IS adjacencies possible.
+
+Best of luck on your CCNP exams!
+
+

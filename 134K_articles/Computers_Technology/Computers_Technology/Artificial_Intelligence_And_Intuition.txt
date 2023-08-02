@@ -1,0 +1,92 @@
+Title: 
+Artificial Intelligence And Intuition
+
+Word Count:
+1746
+
+Summary:
+The intuitive algorithm
+
+Roger Penrose considered it impossible. Thinking could never imitate a computer process. He said as much in his book, The Emperor's New Mind. But, a new book, The Intuitive Algorithm, (IA), suggested that intuition was a pattern recognition process. Intuition propelled information through many neural regions like a lightning streak. Data moved from input to output in a reported 20 milliseconds. The mind saw, recognized, interpreted and acted. In the...
+
+
+Keywords:
+Intuition, emotions, limbic system, walter freeman, algorithm, pattern recognition
+
+
+Article Body:
+The intuitive algorithm
+
+Roger Penrose considered it impossible. Thinking could never imitate a computer process. He said as much in his book, The Emperor's New Mind. But, a new book, The Intuitive Algorithm, (IA), suggested that intuition was a pattern recognition process. Intuition propelled information through many neural regions like a lightning streak. Data moved from input to output in a reported 20 milliseconds. The mind saw, recognized, interpreted and acted. In the blink of an eye. Myriad processes converted light, sound, touch and smell instantly into your nerve impulses. A dedicated region recognized those impulses as objects and events. The limbic system, another region, interpreted those events to generate emotions. A fourth region responded to those emotions with actions. The mind perceived, identified, evaluated and acted. Intuition got you off the hot stove in a fraction of a second. And it could be using a simple algorithm.
+
+Is instant holistic evaluation impossible?
+
+The system, with over a hundred billion neurons, processed the information from input to output in just half a second. All your knowledge was evaluated. Walter Freeman, the famous neurobiologist, defined this amazing ability. "The cognitive guys think it's just impossible to keep throwing everything you've got into the computation every time. But, that is exactly what the brain does. Consciousness is about bringing your entire history to bear on your next step, your next breath, your next moment." The mind was holistic. It evaluated all its knowledge for the next activity. How could so much information be processed so quickly? Where could such knowledge be stored? 
+
+Exponential growth of the search path 
+
+Unfortunately, the recognition of subtle patterns posed formidable problems for computers. The difficulty was an exponential growth of the recognition search path. The problems in the diagnosis of diseases was typical. Normally, many shared symptoms were presented by a multitude of diseases. For example, pain, or fever could be indicated for many diseases. Each symptom pointed to several diseases. The problem was to recognize a single pattern among many overlapping patterns. When searching for the target disease, the first selected ailment with the first presented symptom could lack the second symptom. This meant back and forth searches, which expanded exponentially as the database of diseases increased in size. That made the process absurdly long drawn – theoretically, even years of search, for extensive databases. So, in spite of their incredible speed, rapid pattern recognition on computers could never be imagined.
+
+The Intuitive Algorithm
+
+But, industry strength pattern recognition was feasible. IA introduced an algorithm, which could instantly recognize patterns in extended databases. The relationship of each member of the whole database was coded for each question.
+
+(Is pain a symptom of the disease?)
+
+Disease1Y, Disease2N, Disease3Y, Disease 4Y, Disease5N, Disease6N, Disease7Y, Disease8N, Disease9N, Disease10N, Disease11Y, Disease12Y, Disease13N, Disease14U, Disease15Y, Disease16N, Disease17Y, Disease18N, Disease19N, Disease20N, Disease21N, Disease22Y, Disease23N, Disease24N, Disease25U, Disease26N, Disease27N, Disease28U, Disease27Y, Disease30N, Disease31U, Disease32Y, Disease33Y, Disease34U, Disease35N, Disease36U, Disease37Y, Disease38Y, Disease39U, Disease40Y, Disease41Y, Disease42U, Disease43N, Disease44U, Disease45Y, Disease46N, Disease47N, Disease48Y, 
+
+(Y = Yes: N = No: U = Uncertain)
+
+The key was to use elimination to evaluate the database, not selection. Every member of the database was individually coded for elimination in the context of each answer. 
+
+(Is pain a symptom of the disease? Answer: YES)
+
+Disease1Y, xxxxxxN, Disease3Y, Disease4Y, xxxxxx5N, xxxxxx6N, Disease7Y, xxxxxx8N, xxxxxx9N, xxxxxx0N, Disease11Y, Disease12Y, xxxxxx13N, Disease14U, Disease15Y, xxxxxx16N, Disease17Y, xxxxxx18N, xxxxxx19N, xxxxxx20N, xxxxxx21N, Disease22Y, xxxxxx23N, xxxxxx24N, Disease25U, xxxxxx26N, xxxxxx27N, Disease28U, Disease27Y, xxxxxx30N, Disease31U, Disease32Y, Disease33Y, Disease34U, xxxxxx35N, Disease36U, Disease37Y, Disease38Y, Disease39U, Disease40Y, Disease41Y, Disease42U, xxxxxx43N, Disease 44U, Disease45Y, xxxxxx46N, xxxxxx47N, Disease 48Y, 
+
+(All "N" Diseases eliminated.)
+
+For disease recognition, if an answer indicated a symptom, IA eliminated all diseases devoid of the symptom. Every answer eliminated, narrowing the search to reach diagnosis. 
+
+(Is pain a symptom of the disease? Answer: NO)
+
+xxxxxx1Y, Disease2N, xxxxxx3Y, xxxxxx4Y, Disease5N, Disease6N, xxxxxx7Y, Disease8N, Disease9N, Disease10N, xxxxxx11Y, xxxxx12Y, Disease13N, Disease14U, xxxxxx15Y, Disease16N, xxxxxx17Y, Disease18N, Disease19N, Disease20N, Disease21N, xxxxxx22Y, Disease23N, Disease24N, Disease25U, Disease26N, Disease27N, Disease28U, xxxxxx27Y, Disease30N, Disease31U, xxxxxx32Y, xxxxxx33Y, Disease34U, Disease35N, Disease36U, xxxxxx37Y, xxxxxx38Y, Disease39U, xxxxxx40Y, xxxxxx41Y, Disease42U, Disease43N, Disease 44U, xxxxxx45Y, Disease46N, Disease47N, xxxxxx48Y, 
+
+(All "Y" Diseases eliminated.)
+
+If the symptom was absent, IA eliminated all diseases which always exhibited the symptom. Diseases, which randomly presented the symptom were retained in both cases. So the process handled uncertainty – the “Maybe” answer, which normal computer programs could not handle.
+
+(A sequence of questions narrows down to Disease29 - the answer.)
+
+xxxxxx1Y, xxxxxx2N, xxxxxx3Y, xxxxxx4Y, xxxxxx5N, xxxxxx6N, xxxxxx7Y, xxxxxx8N, xxxxxx9N, xxxxxx10N, xxxxxx11Y, xxxxxx12Y, xxxxxx13N, xxxxxx14U, xxxxxx15Y, xxxxxx16N, xxxxxx17Y,xxxxxx18N, xxxxxx19N, xxxxxx20N, xxxxxx21N, xxxxxx22Y, xxxxxx23N, xxxxxx24N, xxxxxx25U, xxxxxx26N, xxxxxx27N, xxxxxx28U, Disease29Y, xxxxxx30N, xxxxxx31U, xxxxxx32Y, xxxxxx33Y, xxxxxx34U, xxxxxx35N, xxxxxx36U, xxxxxx37Y, xxxxxx38Y, xxxxxx39U, xxxxxx40Y, xxxxxx41Y, xxxxxx42U, xxxxxx43N, xxxxxx44U, xxxxxx45Y, xxxxxx46N, xxxxxx47N, xxxxxx48Y. 
+
+(If all diseases are eliminated, the disease is unknown.)
+
+Instant pattern recognition 
+
+IA was proved in practice. It had powered Expert Systems acting with the speed of a simple recalculation on a spreadsheet, to recognize a disease, identify a case law or diagnose the problems of a complex machine. It was instant, holistic, and logical. If several parallel answers could be presented, as in the multiple parameters of a power plant, recognition was instant. For the mind, where millions of parameters were simultaneously presented, real time pattern recognition was practical. And elimination was the key.
+
+Elimination = Switching off
+
+Elimination was switching off - inhibition. Nerve cells were known to extensively inhibit the activities of other cells to highlight context. With access to millions of sensory inputs, the nervous system instantly inhibited – eliminated trillions of combinations to zero in on the right pattern. The process stoutly used "No" answers. If a patient did not have pain, thousands of possible diseases could be ignored. If a patient could just walk into the surgery, a doctor could overlook a wide range of illnesses. But, how could this process of elimination be applied to nerve cells? Where could the wealth of knowledge be stored?
+
+Combinatorial coding
+
+The mind received kaleidoscopic combinations of millions of sensations. Of these, smells were reported to be recognized through a combinatorial coding process, where nerve cells recognized combinations. If a nerve cell had dendritic inputs, identified as A, B, C and so on to Z, it could then fire, when it received inputs at ABC, or DEF. It recognized those combinations. The cell could identify ABC and not ABD. It would be inhibited for ABD. This recognition process was recently reported by science for olfactory neurons. In the experiment scientists reported that even slight changes in chemical structure activated different combinations of receptors. Thus, octanol smelled like oranges, but the similar compound octanoic acid smelled like sweat. A Nobel Prize acknowledged that discovery in 2004. 
+
+Galactic nerve cell memories
+
+Combinatorial codes were extensively used by nature. The four "letters" in the genetic code – A, C, G and T – were used in combinations for the creation of a nearly infinite number of genetic sequences. IA discusses the deeper implications of this coding discovery. Animals could differentiate between millions of smells. Dogs could quickly sniff a few footprints of a person and determine accurately which way the person was walking. The animal's nose could detect the relative odour strength difference between footprints only a few feet apart, to determine the direction of a trail. Smell was identified through remembered combinations. If a nerve cell had just 26 inputs from A to Z, it could receive millions of possible combinations of inputs. The average neuron had thousands of inputs. For IA, millions of nerve cells could give the mind galactic memories for combinations, enabling it to recognize subtle patterns in the environment. Each cell could be a single member of a database, eliminating itself (becoming inhibited) for unrecognized combinations of inputs.
+
+Elimination the key
+
+Elimination was the special key, which evaluated vast combinatorial memories. Medical texts reported that the mind had a hierarchy of intelligences, which performed dedicated tasks. For example, there was an association region, which recognized a pair of scissors using the context of its feel. If you injured this region, you could still feel the scissors with your eyes closed, but you would not recognize it as scissors. You still felt the context, but you would not recognize the object. So, intuition could enable nerve cells in association regions to use perception to recognize objects. Medical research reported many such recognition regions. 
+
+Serial processing
+
+A pattern recognition algorithm, intuition enabled the finite intelligences in the minds of living things to respond holistically within the 20 millisecond time span. These intelligences acted serially. The first intelligence converted the kaleidoscopic combinations of sensory perceptions from the environment into nerve impulses. The second intelligence recognized these impulses as objects and events. The third intelligence translated the recognized events into feelings. A fourth translated feelings into intelligent drives. Fear triggered an escape drive. A deer bounded away. A bird took flight. A fish swam off. While the activities of running, flying and swimming differed, they achieved the same objective of escaping. Inherited nerve cell memories powered those drives in context.
+
+The mind – seamless pattern recognition
+
+Half a second for a 100 billion nerve cells to use context to eliminate irrelevance and deliver motor output. The time between the shadow and the scream. So, from input to output, the mind was a seamless pattern recognition machine, powered by the key secret of intuition – contextual elimination, from massive acquired and inherited combinatorial memories in nerve cells.
+
+

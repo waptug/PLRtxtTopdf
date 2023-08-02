@@ -1,0 +1,30 @@
+Title: 
+Cisco CCNP / BSCI Certification Exam:  Five OSPF Details You Must Know
+
+Word Count:
+289
+
+Summary:
+When it comes to the BSCI exam, you have to master a great many details to pass!  Learn about five vital but overlooked OSPF details from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccnp, cisco, exam, certification, bsci, ospf, stub, total, area, default, route, virtual, link, authentication, external, route, redistribution
+
+
+Article Body:
+Preparing for your BSCI exam on your way to the Cisco CCNP certification, you can quickly get overwhelmed by the details!  Here are five commonly overlooked points you should keep in mind when it comes to your OSPF studies.
+
+The virtual link command includes the area number of the transit area, and if authentication is being used on Area 0, the virtual link command must include the authentication statement.  Since the virtual link is a logical extension of Area 0, it stands to reason that it has to be configured with the authentication type and password configured on Area 0.
+
+OSPF requires no seed metric when routes are being redistributed into an OSPF domain.  The default cost for such routes is 20, but you do need to use the "subnets" option if you want to redistribute subnets into OSPF.
+
+There are two kinds of external OSPF routes.  The default, E2, reflects the cost of the path from the ASBR to the external destination.  The other option, E1, has a cost reflecting the entire path from the local router to the external destination.
+
+When configuring stub areas, each router in the area must agree that the area is stub.  For a total stub area, only the ABR needs to be configured with the "no-summary" option, but all routers in the area still must agree that the area is stub.
+
+Routers in a stub area will have a default route to use to reach external destinations; routers in total stub areas will have a default route to use in order to reach both external and inter-area networks.
+
+The BSCI exam and CCNP certification require a great deal of dedication and hard work.  Keep studying and paying attention to the details, and you will get there!
+
+

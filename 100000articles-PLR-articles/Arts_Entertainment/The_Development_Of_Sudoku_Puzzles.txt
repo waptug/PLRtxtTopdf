@@ -1,0 +1,30 @@
+Title: 
+The Development Of Sudoku Puzzles
+
+Word Count:
+536
+
+Summary:
+Walk along the streets of most major cities worldwide and you'll be hard-pressed not to see at least a single person bent over sudoku puzzles. The puzzles are instant hits especially in Britain and the United States. Usually misconstrued as a Japanese creation, sudoku puzzles actually trace their origins from the Western world.
+
+Sudoku puzzles are commonly associated with Leonhard Euler, a Swiss mathematical genius of the 18th century. He is credited to be the inventor of t...
+
+
+Keywords:
+sudoku puzzles
+
+
+Article Body:
+Walk along the streets of most major cities worldwide and you'll be hard-pressed not to see at least a single person bent over sudoku puzzles. The puzzles are instant hits especially in Britain and the United States. Usually misconstrued as a Japanese creation, sudoku puzzles actually trace their origins from the Western world.
+
+Sudoku puzzles are commonly associated with Leonhard Euler, a Swiss mathematical genius of the 18th century. He is credited to be the inventor of the magic squares, an atrocious 81-cell grid that can be filled with almost infinite varieties so that every column and every row contain the digits one to nine. Though the more popular and recent sudokus sport the same 1-9 rule and the 81-cell grid, the magic squares are not presented as puzzles. They are merely expressions of Euler's mathematical genius.
+
+In the late 19th century, the French daily, Le Siecle, came up with something almost like sudokus. But, rather than using the single digits 1-9, the puzzle uses double-digit numbers to complete the puzzles. Following Le Siecle's footsteps, another French daily, La France, came up with its own puzzle version which uses the numbers 1-9. But despite the same rules, La France's puzzles did not divide the 81 cells into grids of nine boxes each. Notably, much like the sudoku puzzles, the solutions to La France's puzzles always had the numbers 1-9 in the areas where the sub-grids were supposed to be. However, unlike the daily sudokus, these puzzles were printed on a weekly basis until the strat of World War I.
+
+Following the thread of its development, the present-day sudoku puzzles first gained audience in 1979. They were printed anonymously in Dell Magazines as puzzles in the collection "Dell Pencil Puzzles and Word Games". But instead of labeling the puzzles as sudokus, Dell put the puzzles under the heading, Number Place. Though the puzzles have an audience, they are not as popular nor widespread as today because of limited circulation. Recent investigation identified the author to be Howard Garns, a retired architect. Though the puzzles did not bear his name, a puzzle history investigator noted that publications that listed Garns's name as contributor always had a sudoku inside; meanwhile, issues without sudoku did not list Garns's name. The puzzle of the author's identity was finally solved.
+
+From the West, the development of sudokus shifted to the East when Nikoli first brought the puzzles to Japan in 1984. The tag sudoku actually stands for the basic puzzle rule: single digits only. Innovations were introduced to Garns's invention such as 32-digit clue restriction, and the rotational symmetry of the clues' positions. Sudoku puzzles received wide circulation in Japan with a number of dailies and magazines producing the puzzles. However, these puzzles were under a different name since the sudoku monicker was trademarked by Nikoli.
+
+After extensive rounds among the world's leading dailies and magazines, the sudoku puzzles jumped onboard the computer ship. Programmers such as Loadstar Publishing published the first computer based sudoku game named DigiHunt. Soon, other programmers and devoted sudoku puzzle enthusiasts developed other programs such as sudoku puzzle generators, sudoku solvers, and now, in the era of cyberspace, online sudoku games. Truly, nothing can stop sudoku puzzles when it comes to expanding its audience.
+
+

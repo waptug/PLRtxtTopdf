@@ -1,0 +1,28 @@
+Title: 
+How a Satellite Dish Works
+
+Word Count:
+352
+
+Summary:
+A Satellite Dish is an antenna designed to focus on a specific broadcast source and is a main component of satellite TV providers. This is how it works.
+
+
+Keywords:
+Dish Network, Satellite TV, Satellite, How a Satellite Works, How a Satellite Dish Works, Cable TV, Cable, TV
+
+
+Article Body:
+Are you thinking about getting Dish Network or another satellite TV provider but are unclear how a satellite dish works? Here’s your answer.
+
+A Satellite Dish is an antenna designed to focus on a specific broadcast source and is a main component of satellite TV providers, such as Dish Network. The standard satellite Dish Network dish consists of a parabolic (bowl-shaped) surface and a central feed horn. A controller sends it through the horn, and the Dish Network satellite dish focuses the signal into a relatively narrow beam. A narrow beam is generated as the dish reflects energy from the feed horn. The Dish Network satellite dish on the receiving end can only receive information; it cannot transmit information. The receiving dish works in the exact opposite way of the transmitter. When a beam hits the curved dish, the parabola shape reflects the radio signal inward onto a particular point, just like a concave mirror focuses light onto a particular point. The curved dish focuses incoming radio waves onto the feed horn. 
+
+The feed horn then passes the signal onto the receiving equipment. Ideally, there will be no obstructions, such as trees to interfere with the signal from the satellite to the Dish Network satellite dish. With no obstructions you receive a much clearer signal. 
+
+Some systems are set up to receive signals from more than one satellite. A new dish design uses two or more horns to pick up different satellite signals. As the beams from different satellites hit the curved dish, they reflect at different angles so that one beam hits one of the horns and another beam hits a different horn. 
+
+The central element in the feed horn is the LNB (low noise blockdown converter) The LNB amplifies the radio signal bouncing off the dish and filters out the noise (radio signals not carrying programming). The LNB passes the amplified, filtered signal to the satellite TV receiver inside the viewer's house. 
+
+A cable is run from the Dish Network satellite dish into the house and then connects to the satellite TV receiver (black box) thus completing the connection.
+
+

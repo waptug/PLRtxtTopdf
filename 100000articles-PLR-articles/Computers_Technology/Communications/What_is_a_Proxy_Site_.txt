@@ -1,0 +1,30 @@
+Title: 
+What is a Proxy Site?
+
+Word Count:
+486
+
+Summary:
+Proxy sites are web pages that provide Internet users with the ability to browse web sites that may be blocked by a content filter of some type.
+
+
+Keywords:
+proxy site, proxy sites
+
+
+Article Body:
+Proxy sites are web pages that provide Internet users with the ability to browse web sites that may be blocked by a content filter of some type. By making use of the proxy site as the portal to the blocked site, it is possible to circumvent the work of whatever filter is in place. At the same time, the proxy site also helps to mask the visit to the site, so that there is less evidence that the content filter was not successful in preventing the visit. 
+
+How Does A Proxy Site Work?
+
+Essentially, the proxy site will provide the same ability to browse the Internet as any other browser. What is a little different is that instead of being able to conduct general searches for content, a proxy site allows the user to key in a specific web address and be directed to that specific page in a window that resides on the proxy site. This accomplishes two things. First, the window is coded as part of the proxy site address and not the actual web site the user is visiting. Second, any information cached on in the temporary Internet files will appear to be information related to the proxy site, and not the blocked web site.  
+
+Why Use A Proxy Site?
+
+One of the legitimate uses of a proxy site is to get around blocked content that may contain one or two words that the filter has identified as inappropriate for viewing. Many companies make use of filters to limit the ability of employees to spend time looking at web pages that are not related to job functions in some manner. This is usually accomplished with the use of key words that programmed into the filter, which in turn blocks any page or site with those words present. While this does block access to a number of sites that have nothing to do with work, they can also inhibit access to pages and glossaries that are designed to be helpful in many job positions. 
+
+When this is the case, an employee may choose to use a proxy site to get around the block and be able to get to a page that he or she legitimately needs to view in order to accomplish a work related task. Since using a proxy site does not take much longer than using a browser window, it is much faster than calling technical support and trying to get authorization to remove a given word from the filter list.  
+
+Another advantage of using the proxy site is that the IP address of the user is not logged. This can be a great way to get around the proliferation of adware and spyware that is all too often connected to a given web site. Using the proxy site means less cleanup for the virus protection software to handle, and thus less resources required to keep the workstation clear of problems.
+
+

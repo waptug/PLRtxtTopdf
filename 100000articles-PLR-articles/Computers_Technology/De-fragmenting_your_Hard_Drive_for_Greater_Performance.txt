@@ -1,0 +1,28 @@
+Title: 
+De-fragmenting your Hard Drive for Greater Performance
+
+Word Count:
+324
+
+Summary:
+De-fragmenting your hard drive is an often neglected part of computer maintenance. If you ask most people how to de-fragment a hard drive they won’t know what you’re talking about.
+
+
+Keywords:
+de-fragment
+
+
+Article Body:
+De-fragmenting your hard drive is an often neglected part of computer maintenance. If you ask most people how to de-fragment a hard drive they won’t know what you’re talking about. 
+
+De-fragmenting your hard drive is very important if you want your computer performance not to suffer as you add more and more data to your hard drive. Windows has a handy feature that easy let’s you evaluate your hard drive as to whether it needs to be de-fragmented or not, and de-fragment your hard drive as needed.
+
+Although the interface between different versions of windows changes they all have the same basic premise. You simply need to go to the start menu, accessories, system tools then disk defragmenter. Once in the interface you can choose to analyze the hard drives connected to your computer. The analysis will tell you whether you need to de-fragment your hard drives or not. If you do you simply need to select the hard drive from the list and hit de-fragment.
+
+Disk de-fragmenting does one important task. It moves all the files that are scattered across your hard drive to one chunk of the hard drive making it easier to read and write from, therefore increasing the performance of your computer. Over time most computers scatter data across the whole length of the hard drive making accessing this data more time consuming.
+
+Depending on the size of the hard drive your de-fragmenting this usually takes a long time. As a simple guide an 80gb hard drive will take about an hour. This also depends on the speed of your processor and the amount of RAM you have. De-fragmenting your hard drive will take up nearly all of the resources of your computer so you won’t be able to perform any operations while it is running.
+
+The solution to this would be to run the de-fragmentation at a time when you are not using the computer.
+
+

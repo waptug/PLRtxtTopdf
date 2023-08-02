@@ -1,0 +1,96 @@
+Title: 
+The Real Threat To Privacy Is Not From RFID
+
+Word Count:
+1952
+
+Summary:
+Introduction
+
+Radio Frequency Identification technology, has often been in the news for all the wrong reasons. Most of the “sensational news” concerning RFID concerns the perceived threat to individual privacy and security. Books like “Spychips” have only added fuel to the fire and have whipped up anti-RFID sentiments amongst consumers. This article examines whether RFID is the real threat to consumer privacy ?Or is the individual’s threat to privacy from other, easily avai...
+
+
+Keywords:
+RFID technology, privacy, RFID
+
+
+Article Body:
+Introduction
+
+Radio Frequency Identification technology, has often been in the news for all the wrong reasons. Most of the “sensational news” concerning RFID concerns the perceived threat to individual privacy and security. Books like “Spychips” have only added fuel to the fire and have whipped up anti-RFID sentiments amongst consumers. This article examines whether RFID is the real threat to consumer privacy ?Or is the individual’s threat to privacy from other, easily available technologies?
+
+What is RFID technology?
+
+To discuss the issue of privacy being threatened by RFID one must first understand how RFID technology works, at a very basic level. (I suppose the meaning of individual privacy is well understood here and we won’t go into details about it here!).
+
+For those who are interested in learning more about RFID technology, you can learn it from Abhisam Software’s excellent e-learning course on the topic. However the very elementary basic details are provided below.
+
+Brief description of RFID
+
+Radio Frequency Identification technology is nothing new. It dates to around World War II, when it helped Allied forces distinguish their own planes, from those of the Germans and avoid “friendly fire” incidences. After this period of intense use, for many reasons, it remained dormant for years together, until it got resurrected recently (about five years ago) by a few companies, who realized it’s potential in saving them billions of dollars in their supply chain operations.
+
+Today, RFID technology is going from strength to strength, every year, appearing in a lot many applications than just supply chain management. This includes industries like manufacturing, pharmaceuticals, food tracking, document management, baggage handling and so on.
+
+Conceptually, RFID is something similar to a barcode, which is the pattern of those funny set of thick and thin vertical black lines, that you find on everything from breakfast cereal packs, to shampoos and airline boarding passes. Barcodes are used to automatically identify an object, by using a machine known as a barcode scanner. If every object were assigned a code number, then to manually identify each object by reading the code number and then looking it up in a table or a database to see what it indicates, would be very time consuming. So some clever soul, years ago thought of denoting a unique set of these vertical lines for every such code number, so that they can be quickly “scanned” by a machine. The vertical lines look like bars and they stand for the code number so , it began to be called a “bar code”. The bar code scanner machine, scans such bar codes and then sends this scanned code number to a computer which decodes it and tells us that the object is , say a box of cereals, or say a shampoo bottle depending on the code number.
+
+We use this technology almost everyday, when we are at the checkout counters of supermarkets or boarding planes using bar coded gate passes.
+
+RFID is something similar, except that instead of the visual pattern of thick and thin black lines, it has a data chip (containing a unique code number) and an antenna, in the form of a “tag”, which is affixed to the object, which needs to be identified. It can be conceptually thought of as a “smart” bar code. Thus the box of breakfast cereals in our example above, will now have an RFID “tag” attached to it, instead of the printed bar code. If the box is now held near an RFID “scanner”, it will communicate with the RFID tag wirelessly and read its “code number”. The RFID scanner now sends this code number to a computer, which again looks it up in the database, finds that the number belongs to a box of cereals and indicates so.
+
+So what’s the big deal? Well for one, the RFID tag can be anywhere on the box or even “inside” it, the scanner need not physically “see” it. Secondly, bar codes can get damaged or stained or become otherwise unreadable, RFID tags are much more rugged. Thirdly, bar codes can be read one at a time, RFID tags can be read “many at a time”. Fourthly, an RFID tag can contain millions of possible serial numbers, so that it will be possible to give a unique serial number to every individual item ever manufactured on the planet. I can go on and on, but there is not enough space here, nor is this a paper to tell you about the advantages of RFID tags, so to summarize, they are much more useful and versatile as compared to bar codes.
+
+The Privacy and Security issues:
+
+So how did the Privacy advocates come onto the scene? Well, RFID, to the uninformed public, might seem some sinister new technology, that big corporations might use to gather personal data about consumers. About two – three years back, all the big corporations , especially those selling consumer goods, were singing praises about the technology and detailing to the press, how RFID enabled them to “view” their supply chains and predict or gauge customer buying patterns and behavior. When the companies said that they were monitoring customer behavior, they were doing it on an aggregate scale. This means they could find out that say, customers in Bentonville were buying lesser razor blades than those in Manhattan, on weekdays. Nobody was monitoring the buying habits of INDIVIDUAL customers.
+
+However in the current environment, after all the Enron and Worldcom and other corporate fiascos, the public was willing to believe the worst…..that giant, greedy, faceless and ruthless corporations were monitoring them, using hi tech RFID chips and it was all so..so very outrageous!
+
+Of course, the corporates were doing nothing of the kind, in fact the technology does have its own limitations, so it was technically impossible to do any of these things. However, in a charged atmosphere, who wants to listen to sane voices?
+
+Privacy rights activists then ignited the fires further and claimed “trampling on their rights to privacy” by RFID implementing corporations.
+
+Of course, it was nothing like that in reality. There are very few successful implementations of RFID in consumer goods packaging, where the end products that were retailed to the consumer had RFID tags instead of bar codes. Most of the supply chain tagging was going on at the pallet level. 
+
+Besides, the read range of these tags is very less, typically in the range of a few fractions of an inch to a few inches. Those RFID tags (UHF tags) that do have a long range, are used for tracking shipping containers and other large objects, there is no way that they can be surreptitiously put on unsuspecting consumers.
+
+Thus, there is no possibility that if you have a bottle of those power enhancing pills (you know what I am referring to), in your medicine cabinet, nobody else, let alone Pfizer, can monitor it, even though the bottle may have an RFID tag in it.
+
+Of course, Pfizer will know that some consumer bought it, from some XYZ pharmacy like the way they knew it anyway in the past, when they were using bar codes to label it. However, they have no way to know, in real time who is the end user, how many pills did he consume and so on.
+
+I have just stated a small example here, but I suppose you get the general idea.
+
+The Real threat to Privacy
+
+Now let us come to the real threat to privacy. It is not from RFID but from other ubiquitous technologies available freely.
+
+Wondering which are these technologies? The answer is simple. It is technologies like like Mobile phone cameras and Google Street View.
+
+Mobile phone cameras
+
+Cameras started appearing alongwith mobile phones some three years ago, however they were plagued with low resolution and high priced handsets. Well, not any longer. My colleague just bought himself a Sony Ericsson mobile phone with a 2.0 megapixel resolution camera, with 2 GB memory, capability to shoot continuous video with sound recording, etc, etc (and yes, of course you can make telephone calls from the device too).
+
+So it is now very simple for anybody, to surreptiously monitor your movements, snap your pictures or video of a respectable quality, MMS them to your wife or girlfriend or political rivals or even upload it to YouTube or similar video sharing sites.
+
+Additionally, it is now easily possible, even to continuosly track your movements (using your own mobile phone and a sometimes pliant mobile phone service provider). Thus one can know, that when you said you were in an important conference, the said "conference", was not in a meeting room, but in seedy bar, in a disreputable part of town, with some newly picked- up “friends”.
+
+So do you now really believe that an RFID tag in a bottle of pills can invade your privacy ? Sure, your privacy is under attack, but not from the RFID tag . It is being threatened, due to some nosy parker snapping you up on his 2 megapixel cameraphone while you were busy paying for the pills at the corner pharmacy.
+
+The view from the top is not very pretty
+
+The other ubiquitous technology now available all over the internet is the popular Google Street View. This part of the Google maps application, allows you to look at how the street that you are browsing in your Google maps actually looks like, on the ground. To this end Google has put out (or hired an agency on its behalf) to install hundreds of cameras in towns and cities all over the continental United States. These cameras stream a continuous movie or pictures, back to the Google servers, which then display them in the Google Street view application. So if you are curious, you can zoom in to a map of your home town, zoom in to street view and yes… it is entirely possible that you see yourself stepping outside a pharmacy on the street with a bottle of , “you know what pills” in your hand!
+
+Surveillance cameras
+
+These have multiplied like rabbits everywhere. You will find them in airports, supermarkets, bus stations, banks, ATM kiosks, restaurants and many other places , including of course on traffic lights. They monitor your movements like hawks and who knows what happens to the reams of film ( or stacks of hard disks) that are recorded this way? It is something like Big Brother watching you (in the classic novel 1984 by George Orwell).
+
+Or like the famous number performed by the rock band, The Police, which goes like this “Every breath you take….Every move you make…Every step you take….I’ll be watching you”.
+
+Nobody has ANY data or documentation, audit trails, nothing at all on what happens to all the data so collected, that can potentially infringe the individual’s privacy and other rights.
+
+Conclusion:
+
+I am not saying that camera phones are bad and should be banned (as they are now in may offices and government organizations worldwide) or that Google Street view is dangerous or that store cameras are unnecessary. All I am stating, is that the technology to monitor your movements and actions exists today, is ubiquitously available and can be used properly, or misused to trample on the individual’s right to privacy. This technology is NOT RFID however.
+
+RFID technology, by its very nature, is HIGHLY UNLIKELY to be misused to infringe on an individual’s privacy (as compared to the other technologies above). Thus, the real threat to individual privacy will not come from RFID or other “business or industrial type” technologies, but from ubiquitous “consumer oriented” technologies like mobile phone cameras and Google Street view, just to name a few.
+
+

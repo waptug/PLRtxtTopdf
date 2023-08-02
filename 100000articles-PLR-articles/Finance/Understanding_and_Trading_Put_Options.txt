@@ -1,0 +1,36 @@
+Title: 
+Understanding and Trading Put Options
+
+Word Count:
+474
+
+Summary:
+This article focuses on key simple concepts to help the reader grasp the benefits of using put options to maximize returns while controlling risk.
+
+
+Keywords:
+online stock trading, stock trading, option trading, stock market, option trader
+
+
+Article Body:
+Copyright 2006 Billy Williams
+
+Put options are a misunderstood investment tool but once understood by an individual investor it can be a very versatile investment tool.  Put options can be used to protect your portfolio, and they can help you pick up huge profits by controlling the stock of a company during a price decline and profiting from the decline. Plus, put options offer strictly limited risk. If an option trade goes the wrong way, you won't lose more than your initial investment plus commissions.
+
+So what are put options?  Put options are a type of investment that gives you the right to buy an underlying security at a higher  price for a specified amount of time and if that security falls lower you can purchase the shares at that price and then sell it to the issuer of that put option at a higher price and keep the difference as your profit.
+
+In other words, put options give you the right to bet on the price decline of a stock, but you are limited to that bet for a certain period – usually from 1 month to as long as 3 years depending on the option selected.
+
+For example, you believe that the SPX, the S & P 500 index, is very overbought and that if the Federal Reserve raises interest rates that it will cause the SPX to sell off and decline.
+
+You then look up the strike prices on the SPX options for the current month because the Fed (Federal Reserve) will make its decision in a week so there is no need to look at buying puts several months out. The SPX has a current price of 1310 so you decide to purchase the ATM (at-the-money) SPX 1310 options for the current month at $11 (which is $1100; $11 premium x 100 = $1100 cost per option).
+
+The Fed raises interest rates as you expected and over the next 8 days has a massive sell off and declines over 60 SPX points to a price level at 1250.
+
+Your SPX option rises in value from $11 to $47 for a profit of $36 ($3600) which translates into a return of 327%!
+
+Another advantage to investing in options is that you can never lose more than you invest in an option. If the trade doesn't go your way, you only lose the amount you paid for the option and any commissions related to the trade.  If the SPX had continued to rally from the example above then the most you would have lost is your original investment of $1100.  Also, you could have sold your position for a smaller loss instead of holding it for the duration.
+
+Put options are another tool in your trading arsenal that offer large rewards but limit your risk.  While there are other factors to consider such as timing, understanding volatility, etc. it can be well worth the effort to understand how put options can help maximize your returns.
+
+

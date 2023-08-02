@@ -1,0 +1,32 @@
+Title: 
+Computers That Talk
+
+Word Count:
+371
+
+Summary:
+As a kid growing up, I was fascinated with science fiction, especially those movies and TV shows that dealt with the future and portrayed how life on earth would probably be several decades down the road. I liked the idea of robot-servants who talked and followed our orders and of aerial vehicles that were the main means of transportation and that sent us speeding through the sky on our way to work. I was always fascinated with talking computers as well.
+
+Now, over three de...
+
+
+Keywords:
+Computers, software, science fiction
+
+
+Article Body:
+As a kid growing up, I was fascinated with science fiction, especially those movies and TV shows that dealt with the future and portrayed how life on earth would probably be several decades down the road. I liked the idea of robot-servants who talked and followed our orders and of aerial vehicles that were the main means of transportation and that sent us speeding through the sky on our way to work. I was always fascinated with talking computers as well.
+
+Now, over three decades have passed since I was a kid in front of the TV set and, boy, did those science fiction movies get it all wrong. There are no robots in every household nor are there cars that fly through the sky. At least they got it right in one regard – talking computers. These days, talking desktop computers are so commonplace that they hardly elicit any reaction at all from jaded consumers.
+
+These days, it’s not even that difficult to understand how a computer talks.
+
+They talk simply because they have a software that converts text into speech that is communicated through speakers or a headset. The technical term for this type of software is speech recognition capability.
+
+And if you want to get really technical about it, here’s more. Speech synthesis is the process that artificially produces speech in computers. The software system is called TTS or “text to speech.” The system has a front end and a back end. The front end is where the software received the input in the form of text and converts it into linguistic symbols. The back end takes these linguistic symbols and converts them into speech waveform that is heard through the computer’s headset or speakers.
+
+The software’s front end performs two basic functions. The first function is the identification of numbers and abbreviations in the raw text which it then spells out and assigns word equivalents. Second, it assigns sound (known as phonetic descriptions) to the different words of the text, including pauses and intonations, and then divides the text into phrases and sentences.
+
+The back end, which is also known as the synthesizer, takes these phonetic transcriptions and converts them into actual sound output.
+
+

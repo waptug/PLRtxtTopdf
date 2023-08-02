@@ -1,0 +1,44 @@
+Title: 
+How To Improve Project Delivery through Good Business Requirements
+
+Word Count:
+376
+
+Summary:
+Creating good business requirements not only assures that the proposed project will address all of the organization's needs, but it helps to guarantee that the project is delivered on time and on budget.
+
+
+Keywords:
+Business Analysis, Requirements Engineering, Business Requirements, Business Analysis Training, Requirements Training, Use Cases, Use Case Training, Requirements Elicitation, Requirements Documentation
+
+
+Article Body:
+Creating good business requirements not only assures that the proposed project will address all of the organization's needs, but it helps to guarantee that the project is delivered on time and on budget. 
+
+Here are some of the key reasons that improved project delivery can be achieved through good business requirements. 
+
+· You are more likely to receive approval sooner from all stakeholders regarding the intended purpose of the software. This will accelerate the remaining phases of the project and help to insure that original project deadlines are met.
+
+· Risks will be identified and mitigated early on in the project lifecycle. This will reduce or eliminate unnecessary project delays, avoid losing the trust of the stakeholders, and reduce the likelihood that unexpected costs will result.
+
+· The design process will take less time and the results will be more accurate. This will also accelerate the remaining phases of the project and ensure that the development cycle goes more smoothly.
+ 
+· The development process will take less time and there will be a less likely chance that key processes will be overlooked. Developers and database administrators will spend less time seeking answers or clarification on issues and more time on direct project-related tasks.
+ 
+· It will be easier to test because testers will have used the requirements.
+
+· It will be easier to maintain the system because all processes will be documented.
+
+· It will be easier to change the system in the future because all processes will be documented.
+
+· The entire project management process will go smoother because each phase will benefit from the quality of the business requirements document. 
+
+· Communications between all stakeholders and the project team will be improved as the result of holding business requirements gathering meetings.
+
+· The customer will be more satisfied with the system and more likely to accept the project as complete. This avoids unnecessarily extending deadlines and having to re-do work that does not meet the client's requirements.
+ 
+· Cost savings will result from the increase in project development efficiency because staff time will not be wasted asking questions and seeking clarification.
+
+· Increased accountability will result in a smoother development process. Each team member will know exactly what is expected of them and the Project Manager will have solid documentation to use when measuring project progress.
+
+

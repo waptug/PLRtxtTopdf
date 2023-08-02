@@ -1,0 +1,66 @@
+Title: 
+Finding A Document Management Solution - In-House vs. Hosted Solutions
+
+Word Count:
+560
+
+Summary:
+Before we get started, some of you may be asking what is document management?
+
+Document Management is the ability to manage all of your paper documents in an electronic format. Let's define "paper documents in electronic format".
+
+Basically, there are two types of document management systems, either an in-house solution, or an outsourced hosted solution.
+
+So,which one will best suit your needs? Good question. Most companies base their decision on available staff to main...
+
+
+Keywords:
+document,management,software,solutions,compare,in-house,hosted,scanning,services
+
+
+Article Body:
+Before we get started, some of you may be asking what is document management?
+
+Document Management is the ability to manage all of your paper documents in an electronic format. Let's define "paper documents in electronic format".
+
+Basically, there are two types of document management systems, either an in-house solution, or an outsourced hosted solution.
+
+So,which one will best suit your needs? Good question. Most companies base their decision on available staff to maintain these systems, and the technical abilities of those staff members. Cost of a solution is also a deciding factor. While the cost of an in-house solution is higher up front, having the technical staff to support it, it typically pays off in the long run due to the calculated Return On Investment (ROI). The lower cost of a hosted solution is appealing to many companies because this solution puts the technical responsibilities on the solution provider. It's also beneficial in that most of these solutions are web-based. While some companies can truly benefit from the hosted solution, many can't due to confidentiality of the information contained within their organization.
+
+Finding a solution to fit your company's needs can be a time consuming venture. We recommend you first determine what solution fits your organization best, then shop for a solution with the features best suited to your business needs.
+
+How much office space can I save? Good question. It depends on the amount of paper files you have taking up your valuable office space.
+
+In most offices, there are filing cabinets everywhere. We've become attached and dependant on our paper files. Since most companies are mandated to hold their records from 3 to 7 years, that adds up to an exhaustive amount of paper needed to be maintained and stored. Where do you store it? In your office? A records storage company? What are those costs? All these questions lead this topic in a new direction. Why are you keeping these records in paper format? Why not an electronic format?
+
+OK, let's look at some statistics. But before we do that, let's set the standard office environment so we have a reference point to start from. Now for the breakdown:
+
+A typical filing cabinet drawer holds about 3000 pages when full.
+So a full 4 drawer cabinet holds about 12000 pages.
+
+A lateral file drawer holds about twice or 50% more files.
+So a full 2 drawer lateral cabinet holds about 12000 pages.
+
+The Simple Math
+
+Ok, now that we know what we have in the space of our filing cabinets, let's look at space on storage media.
+
+A standard 8 1/2 x 11 page scanned at 200x200 DPI (dots per inch) is about 50k in size (average)
+There is 1024k in 1 megabyte of space.
+There are 700 megabytes of space on a CD.
+There are 4,700 megabytes of space on a DVD.
+
+Ok, here's the simple math.
+
+1,024k (1 megabyte) divided by 50k (standard scanned document) = 20.48 documents per megabyte
+700 megabytes (1 CD) x 20 (scanned images per megabyte) = 14,000 documents per CD
+4,700 megabytes (1 DVD) x 20 (scanned images per megabyte) = 94,000 documents per DVD
+
+So here are the facts.
+
+1 CD = 1 filing cabinet full of paper documents (12,000 documents)
+1 DVD = 7 filing cabinets full of paper documents (84,000 documents)
+
+Once these documents are scanned and placed on a CD or DVD (write once only media) they become legal documents that can be archived and retrieved later in the event you would like to print, fax, or email them.
+
+

@@ -1,0 +1,53 @@
+Title: 
+Anemometer
+
+Word Count:
+446
+
+Summary:
+An anemometer is used to measure wind power, or more precisely wind velocity and/or pressure. The modern anemometer is an electrical device that calculates data that is communicated to it by some other instrument e.g. a wind vane. A high quality and modern anemometer measures both the wind velocity and pressure. There are however different kinds that performs this task differently.
+
+Anemometer comes from the word anemos and is Greek for wind. This is an old instrument that ...
+
+
+Keywords:
+
+
+
+Article Body:
+An anemometer is used to measure wind power, or more precisely wind velocity and/or pressure. The modern anemometer is an electrical device that calculates data that is communicated to it by some other instrument e.g. a wind vane. A high quality and modern anemometer measures both the wind velocity and pressure. There are however different kinds that performs this task differently.
+
+Anemometer comes from the word anemos and is Greek for wind. This is an old instrument that was invented in the 15’Th century, by a man named Leon Battista Alberti. His model consisted of a disk rotated by the force of the wind. This model was of course mechanical as opposed to the modern electrical. A man named Robert Hooker, later on re-invented the anemometer and is often mistakenly considered to be the inventor of this instrument.
+
+The anemometer is often combined with a wind vane when utilized on wind mills. The wind vane communicates the wind speed and direction to the anemometer that makes the calculations and passes the data into wind turbine controller, in turn; the controller tells the yaw motor to turn the nacelle so that the rotor faces the wind.
+
+Anemometers can be divided in two classes, there are those that measure the velocity of the wind and there are those that measure the pressure of the wind. A high quality and modern anemometer will give information about both of these quantities. Down below there is a list of anemometers that reaches the same goal by using different technologies.
+
+Velocity Anemometers:
+
+Windmill anemometers
+These are the kind that is attached to a wind mills.
+
+Hot-wire anemometers
+This type uses a fine wire heated up to some temperature above the ambient. When the wind flows past the wire and cools the wire down a relationship can be obtained and a calculation produces correct data.
+
+Laser Doppler anemometers
+Uses a laser beam to measaure the wind speed and direction.
+
+Cup anemometers
+The simplest kind of them all and invented in 1846 by John Thomas Romney Robinson of Armagh Observatory
+
+Sonic anemometers
+Uses sound waves to measure wind speed and direction.
+
+Pressure Anemometers:
+
+Plate anemometers
+This is the simplest type of anemometers and consists of a circular or square faced into the wind. This kind of instrument is not the most accurate.
+
+Tube anemometers
+
+Wind Vane
+The wind vane also known as weather vane is a movable device that is attached an elevated object such as a roof or wind mill. It can be used standalone or mounted attached to some other instrument such as an anemometer. The wind vane has to be located well above the ground to obtain an accurate reading.
+
+

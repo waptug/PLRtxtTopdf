@@ -1,0 +1,36 @@
+Title: 
+How Do Atomic Clocks Work?
+
+Word Count:
+563
+
+Summary:
+If time is crucial to you or your office, consider investing in atomic clocks so that everyone knows exactly what time it is and everyone has the same time. These are the most accurate time keeping pieces you can get, and more and more businesses are using atomic wall clocks to make sure that accurate time sheets and appointments are kept.
+
+But what are atomic clocks and why are they so much more accurate than regular clocks? A standard clock, whether wind-up, electric or b...
+
+
+Keywords:
+Atomic clocks, wall clocks, clocks, clocks atomic, technology of clocks
+
+
+Article Body:
+If time is crucial to you or your office, consider investing in atomic clocks so that everyone knows exactly what time it is and everyone has the same time. These are the most accurate time keeping pieces you can get, and more and more businesses are using atomic wall clocks to make sure that accurate time sheets and appointments are kept.
+
+But what are atomic clocks and why are they so much more accurate than regular clocks? A standard clock, whether wind-up, electric or battery operated, counts time by the number of “ticks” that a resonator makes. The resonator is the device that actually keeps track of time. In most clocks the resonator is either a swinging pendulum or (in digital clocks) oscillations in the power line (which is a bit different in the U.S. and in Europe).
+
+Atomic clocks also use a resonator, but the resonator counts based on the resonance frequency of atoms. Resonance is the emission or absorption of microwave electromagnetic radiation by an atom. It is very regular, and no matter which atom of cesium used, the frequency of resonance is always exactly the same. This is why atomic clocks are so much more accurate than other clocks – the resonators in other clocks can be affected by lots of variables like temperature, moisture and atmospheric conditions. None of these affect the atoms, so the atomic clocks never lose or gain time.
+
+Synchronization of Atomic Clocks
+
+The reason all atomic clocks show the same time anywhere you go is because they don’t each have their own cesium atom – this would be impossible because it’s incredibly expensive and requires very precise conditions. Atomic clocks are actually receiving the time from a shared location where one of the world’s few of the world’s atomic clocks operates. A low –frequency radio signal broadcasts the time from that location to all atomic clocks within its range. There are currently approximately 200 atomic clocks world-wide in sixty countries.
+
+In the United States, most atomic clocks used for home and offices are synchronized to the National Institutes of Standards and Technology atomic clock in Boulder, Colorado. The other official atomic clock is at the U.S. Naval Observatory in Washington, D.C. and is the official time clock of the Department of Defense. Since both of these atomic clocks are within one second of each other over a million years of time, it is unlikely that time displayed on atomic wall clocks at the Pentagon will differ from the time displayed on an atomic clock in your home office!
+
+How Do At-Home Clocks Get the Information from Master Atomic Clocks?
+
+Global positioning satellites (GPS) in the skies above us transmit the signals from the official atomic clocks to individual receivers in atomic wall clocks and desk clocks all over the world. In other countries, the signal would come from whichever clock is the official atomic clock for that region, just as the one in Boulder, Colorado is the one for the United States.
+
+These amazingly accurate atomic clocks are also responsible for the fact that all computers with built-in clocks are synchronized and accurate and keep time whether on or off. With such accurate time keeping and the use of GPS, you can be sure that your atomic clocks will let you know exactly what time it is, down to the nano-second!
+
+

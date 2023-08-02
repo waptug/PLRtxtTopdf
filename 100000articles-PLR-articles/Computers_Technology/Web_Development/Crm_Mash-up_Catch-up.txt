@@ -1,0 +1,35 @@
+Title: 
+Crm Mash-up Catch-up
+
+Word Count:
+586
+
+Summary:
+A mash-up, sounds yummy, with gravy. But for anyone out there who doesn't know what a mash-up is, or what it has to do with Customer Relationships, it is about technology, and it's great with or without the gravy! Mash-ups are basically web applications that combine content from multiple sources and serves it up as an integrated information piece. For instance, in servicing a customer, you can build a page that has the customer information (your old legacy database), past pur...
+
+
+Keywords:
+CRM, on-demand CRM, Mash up, Mashup, integrated services,
+
+
+Article Body:
+A mash-up, sounds yummy, with gravy. But for anyone out there who doesn't know what a mash-up is, or what it has to do with Customer Relationships, it is about technology, and it's great with or without the gravy! Mash-ups are basically web applications that combine content from multiple sources and serves it up as an integrated information piece. For instance, in servicing a customer, you can build a page that has the customer information (your old legacy database), past purchasing activities (your less old legacy database), the store locations (new POS) and details of purchases (inventory system), weather and news clips for their customer's area (weather network, google news), status of customer order (UPS), and payment history (SAP). What customer rep wouldn't want access to that screen. Mmmmm........ 
+
+Mash-ups are going to change the way everybody does business. Mostly because mash-ups are changing the way people view and use information on the Internet, generally, right now. As a result, customer expectations will translate into very rich and specific service experiences. The push for a customized customer experience will translate into software expectations that can deliver a familiar processing environment that is in the “comfort zone” and available where and when. 
+Mash ups are an exciting genre of interactive web applications that draw upon content retrieved from multiple external data sources to create entirely new and innovative services. Salesboom.com delivers on demand CRM software on a web platform utilizing mash-up capacity. This facilitates development of powerful and efficient use of information resources in the improvement of processes in the business line along with incredible improvements in data contextualization and sharing. 
+
+Salesboom incorporates standard tools such as AJAX, Javascript and XML and has separated application logic from presentation and reporting pieces to save processing resources and increase transaction times. This in turn allows Salesboom to deliver lightweight tools with rich features previously reserved for expensive, on-site applications. 
+
+The greatest benefit is that Salesboom.com can create highly customized tools, and because the technology behind the mash-up is flexible, if the business or a process changes, it is possible to change pieces of code without having to rewrite or acquire a whole new software. There are some steps though in preparing for good mash-up presentation, and it is important for any business considering CRM solutions to consider the following: 
+
+
+1.Salesboom uses AJAX and COMET as programming tools, a move that increases responsiveness and user interaction
+2.Salesboom has a Professional Services Team that specializes in cleaning and preparing data for use in mash-ups. 
+3.Salesboom presents clean, intuitive interfaces in the form of Push Panels, that enable users to interact with the web mash up, be it company data, outside Internet sources, partner sites, etc. 
+4.Salesboom offers users tools that promote evolution of an informal corporate taxonomy enabling possibilities for organizations to use mash-ups in an incredibly profitable way. 
+5.The Salesboom platform guarantees access to mash-up functionality because it has adopted the Service Oriented Platform (SOP) and has a public Application Program Interface (API) as part of it's Operating System (OS) for easy incorporation of relevant information sources.  
+6.Salesboom promotes the formalization of the organizational workflow model. 
+
+"At Salesboom.com we offer a CRM solution, with integration options at every business line. This approach supports delivery of a highly customized customer service experience in the form of interactive mash ups.  We believe that your customers are our customers – once removed, and we take pride in delivering solid, flexible tools to you and yours”.  Tom Stephano, Marketing Director, Salesboom.com
+
+

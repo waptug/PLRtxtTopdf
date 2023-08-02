@@ -1,0 +1,35 @@
+Title: 
+There is such a thing as perfect prints
+
+Word Count:
+403
+
+Summary:
+printing dedication and tools
+
+
+Keywords:
+brochure printing, catalog printing
+
+
+Article Body:
+Getting the perfect prints is just a matter of being aware that you are making them in the first place. 
+
+Ink and paper.
+
+You have a lot of options when choosing different quality inks and paper types, all of which can be combined to form a satisfying result. Different photo papers will give surprisingly different results from the same photo printed on the same printer. Photo paper comes in many different styles, weights, and photo finishes, including matte, glossy and varying degrees of gloss, which is usually called semi-gloss. 
+
+Color photos usually look best when printed onto glossy or semi-gloss photo paper, while black and white photos usually look better on matte. It is also worth while creating and saving different profiles for your printer for each type of photo paper you use. This is because on some papers a printer may use too much of one color, instead of correcting the color yourself you can select a profile you created before.
+
+The cost of ink can sometimes be greater than that of paper. Purchasing brand name inks by your printer manufacturer is usually the safest option and will produce the best results. Remember that printer damage caused by third party printer cartridges sometimes isn’t covered by manufacturers. Some companies such as Lyson produce high end inks which in some cases are better than the manufacturers own.
+
+Archival qualities and resistance to color fading is also important when choosing inks. For example pigment based inks help guarantee that your prints will remain crisp and vibrant for many years.
+If you are going to print a large quantity of photos it is also worth checking the prices of online printing stores to see if they are a better option for you.
+
+Monitor and printer calibration.
+
+Calibrating your monitor and printer is essential when viewing and printing your photos. Your monitor could be displaying inaccurate colors and density. Adobe Photoshop comes with something called Adobe Gamma which will most likely already be installed on your computer. 
+
+You can use Adobe Gamma to create an ICC profile which uses calibration settings to change the way your monitor reproduces colors. Start Adobe Gamma, located in Control Panel and then select step by step and follow the instructions. Daylight can affect the accuracy of colors displayed on your monitor. This is the reason why it is best to carry out your monitor calibration in a darkened room.
+
+

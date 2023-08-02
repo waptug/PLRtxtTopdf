@@ -1,0 +1,26 @@
+Title: 
+Searching Your Hard Drive Using Windows Vista
+
+Word Count:
+511
+
+Summary:
+A Computer's Hard Drive contains everything that you store in it. From your music to pictures and Word documents, as long as you saved it and have not yet deleted it, you have it in your Hard Drive. Finding files in a computer's Hard Drive is one of the most basic procedures performed when you have a computer. There will always be those time when you need to look up a file that you may have used some time ago. If you still manage to remember the title of the document, folder,...
+
+
+Keywords:
+search hard drive,finding files,search files
+
+
+Article Body:
+A Computer's Hard Drive contains everything that you store in it. From your music to pictures and Word documents, as long as you saved it and have not yet deleted it, you have it in your Hard Drive. Finding files in a computer's Hard Drive is one of the most basic procedures performed when you have a computer. There will always be those time when you need to look up a file that you may have used some time ago. If you still manage to remember the title of the document, folder, music or photo that you are looking for then combing your hard drive for it will be much faster and easier.
+
+If you are unfortunate and cannot remember what the title is, then you might have to go through more steps in order to retrieve your file. For some people, finding files on their Hard Drives may be an easy procedure, especially if they are using the older versions of Microsoft Windows like XP or older. The case with the new Microsoft Vista is that the procedures remain essentially the same, but the people at Microsoft managed to tweak the program a little bit in an attempt to make it more User friendly.
+
+Depending on how your Windows Vista is set up, the location of the search prompt may be located differently. Some Setups have a search window at the bottom of the fly-out START menu. This way, it is easier to search because you do not have to go any further. All you need to do is to enter the name of the file that you are looking for, click 'SEARCH' or press 'ENTER' on your keyboard and then the search begins.
+
+For those of who are not able to locate such a search window, do not despair. Follow these steps. Click on the 'START' menu. When the fly-out window opens look for the 'SEARCH' icon, this is usually the one with the magnifying glass beside it. Click on the icon. Another fly-out window will appear with the options: For Files and Folders, In Microsoft Outlook and For People. Click on an icon depending on what you would like to search. A search window will appear on your screen. You will find that it is blank, with only the words 'To Begin, type in the Search Box'. If you are unable to see a search box anywhere, don't panic. Look at the upper right hand corner of the window and you will find a text box that has the word 'SEARCH' italicized and in a gray color. Click on this text box and enter the file name that you are looking for.
+
+Click the magnifying glass icon on the side or press 'ENTER' on your keyboard to start the search. If you need a more specific search click the 'Advanced Search' icon just below the search box. To be more successful in finding files that you have forgotten the name to, try and search in smaller locations first and be more specific on the keyword that you enter.
+
+

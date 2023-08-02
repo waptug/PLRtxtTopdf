@@ -1,0 +1,34 @@
+Title: 
+Process Analytical Technology: What Is It?
+
+Word Count:
+317
+
+Summary:
+Process Analytical Technology is a system for designing, analyzing and controlling manufacturing processes through timely measurement during processing. With the goal of ensuring final product quality, it analyzes raw and in- process materials.
+
+
+Keywords:
+onKeyDown=textCounter(this.fProcess Analytical Technology, PAT, PAT concept, benefits of implementing PATorm.f_artkey,this.form.avachars_key,200);
+
+
+Article Body:
+Process Analytical Technology is a system for designing, analyzing and controlling manufacturing processes through timely measurement during processing. With the goal of ensuring final product quality, it analyzes raw and in- process materials. The PAT is now being deployed in the pharmaceutical industry, where it is seen as a technology that can help companies to improve their conformity with manufacturing regulations. The emphasis in PAT is on the manufacturing process to increase the basic premise of the current drug quality system, because quality cann’t tested into products, it should be built-in or should be by design.
+
+The Food and Drag Administration (FDA) launched PTA in 2001 to reduce the risk of making a poor product. With the help of PAT, pharmaceutical companies are now better equipped to increase process efficiencies and design quality product. PAT is a methodology consistent with the FDA’s belief that quality is not a question of testing but one of designing. Quality is designed into products, not tested into them.
+	
+PAT is not a product or service. It is a concept, a working principle or a framework for operating, depending on you to implement it. The PAT market is developing and evolving rapidly as pharmaceutical companies strive to implement the framework set in place by regulators. You can purchase the tools and technologies that make up the framework and can buy the services and capabilities that you need to implement for qualitative analysis.
+
+Benefits of implementing PAT-
+1.	Reduces processing cost
+2.	Improves quality
+3.	Provides product uniformity
+4.	Reduces product change-over time
+5.	Meets all kinds of regulatory requirements.
+6.	Increases automation to improve operator safety and reduce human errors.
+7.	Prevents rejects and re-processing.
+
+
+The objective of the PAT framework is to design and develop well-understood processes that will consistently ensure a predefined quality at the end of manufacturing process. When all critical sources are identified and explained properly, then a process is generally called well understood.
+
+

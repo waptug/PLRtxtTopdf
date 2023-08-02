@@ -1,0 +1,35 @@
+Title: 
+Digital Projector – Give A Bigger Picture
+
+Word Count:
+432
+
+Summary:
+Digital projectors are those video projectors which are used in conferences for presentations. The digital projectors receive video signals from, usually, desktop computers and display images on large screens which can be easily comprehended by all in the gathering.
+
+Two Types of Digital Projectors
+To begin with, there are two technologies used by digital projectors, the older one being the LCD, liquid crystal display with independent transparent panels of LCD for each con...
+
+
+Keywords:
+projection TV,lcd projector,digital projector
+
+
+Article Body:
+Digital projectors are those video projectors which are used in conferences for presentations. The digital projectors receive video signals from, usually, desktop computers and display images on large screens which can be easily comprehended by all in the gathering.
+
+Two Types of Digital Projectors
+To begin with, there are two technologies used by digital projectors, the older one being the LCD, liquid crystal display with independent transparent panels of LCD for each constituent primary color (red, blue and green.) The image transmission depends on the signal received by the projector from PC which redirects the light signals through these LCD panels and lens onto a screen. The LCD projectors look pretty similar to older slide projectors and are simple in construction and thus cost less in comparison to their successors DLP projectors. The LCD can be thought of as slides placed at the focal length of the lens making it complete. Clarity of picture in LCD projectors depends on the number of pixels it is set for. (Pixels are smallest area of data or picture holders)
+
+DLP Projectors: The Latest of the Digital Projectors
+Digital Light Processing or DLP is a technology developed by Texas Instruments in 1987. DLP projectors bring in a paradigm difference in technology in image projection to board rooms. Unlike their predecessors, DLP projectors make use of tiny mirrors or micro mirrors to reflect light images to pass through the projector lens and onto a screen. Each mirror can be thought of as representing a pixel. The mirrors reflect primary colors in rapidly rotating succession as actuated by a rotating color filter wheel. The image of rapidly changing colors ‘constructs’ images for human eye perception. The micro mirrors are collectively called as DMD or ‘digital micromirror device’.
+
+For the sake of enhancing picture clarity, the rotating wheel is provided with a plain patch which allows plain white light. This type of DMD projectors are also known as single chip projectors. The three chip projectors are a bit complicated but offer better clarity. Here a prism splits the light from lamp into primary colors which are redirected to DMD which recombines them before projecting through the lens.
+
+Where Is the Difference
+DLP projectors are lighter and give far better pictures. Single chip resolves 16.7 colors while the three chip model does a, hold your breath, 35 trillion colors.
+
+Commercial Models
+Texas Instruments is the pioneer who owns the patent for DLP technology. Fraunhofer Institute of Dresden of Germany developed the same technology simultaneously and markets it as Spatial Light Modulators. HP, Samsung are other market leaders in both LCD and DLP technologies.
+
+

@@ -1,0 +1,63 @@
+Title: 
+Understanding Forex - #4 - Money Management.
+
+Word Count:
+744
+
+Summary:
+This is a series of articles about The Foreign Exchange Market. You will learn here what Forex is , how it works and how profitable it can be. The whole series contain  the following articles . . .
+
+
+Keywords:
+forex, forex market, forex strategies
+
+
+Article Body:
+This is a series of articles about The Foreign Exchange Market. You will learn here what Forex is , how it works and how profitable it can be. The whole series contain  the following articles . . .
+
+1.	What is Forex
+
+2.	Technical analysis
+
+3.	Fundamental analysis
+
+4.	Money management
+
+5.	Compound interest
+
+Money Management.
+
+This is one of the most important aspects of a good trading system. Even if your market forecasts are accurate, you may still not be profitable in the long run unless you implement proper money management techniques. 
+
+Money management refers to how you manage your trading capital. It has to do with how much money you invest on each trade. Also, how much do you expect to make on each trade compared to how much you are risking. Furthermore, you can also use different kinds of orders that allow you to manage your trades automatically like stop loss, limit order and trailing stop.
+
+In my opinion the two more important aspects of money management are position sizing and expectancy. Position sizing refers to the size of your positions. You should not risk more than 1% - 2% per trade. 
+
+Expectancy refers to how much do you expect to make vs how much you are willing to lose. The expectancy should be always positive. For example, if you enter a position and you expect to realize a 50 pips profit while you are willing to lose only 15 pips, that&#8217;s positive expectancy. 
+
+The example above means that you can be wrong three times in a row and still be profitable the fourth time. A method to implement positive expectancy on your trading strategies is by using trailing stops. I will explain this now and the other orders that I mentioned above.
+
+Let&#8217;s start with a stop loss order. This one helps you automatically close a losing position and prevent it from decreasing your total trading capital. Why you need stop orders? Many things could go against you and make you lose big time. 
+
+The platform you are treading on could freeze. The place/computer you are trading from could go off power. Market news could drive the price of currencies mad quickly. Do you get the point? Many people use stop loss orders just as an &#8220;insurance&#8221; against these events taking place. 
+
+Something else a stop loss order could be good for is to establish an automatic trading system. Some trading systems do not require you to be in front of your computer all day. You can set them on autopilot and let the market/platform do its thing. If the market moves against you, the stop loss will be triggered and your losing position will be cancelled automatically.
+
+The second order mentioned above is the limit order. This one is good to automatically take a profit once the price of the currency pair has moved to a desired level. You can use a limit order for the same purpose you use a stop loss order. It is good to automate your trading in general. Once the target price is reached, the limit order will be triggered canceling your winning position and preventing it from turning into a losing position.
+
+Now, something very important about trading &#8220;cut your loses short, let your winners run.&#8221; Most traders do this the other way around. That&#8217;s why they lose in the long run.
+
+Some of the easiest ways you can implement this technique is by using a trailing stop. These kinds of orders let you get positive expectancy, which is one of the most important aspects about money management as mentioned above.
+
+A trailing stop is like a limit order and a stop order at the same time. For example, let&#8217;s say that you enter a position and the market moves in your favor. Then notice what happens. 
+
+With a trailing stop you have a chance that you don&#8217;t have with a limit order. If the market keeps moving in the direction you expected, the trailing stop order will move with the market. This way there is no limit to how much profits you can get. On the other hand if after moving in your favor the trend retraces a certain percentage, the trailing stop will be triggered canceling the position and preventing it from turning into a losing trade.
+
+These are common techniques used in most successful trading systems. You can learn other important aspects about Forex like technical analysis and fundamental analysis from other articles on this series. 
+
+
+
+
+EasyWebRiches © 2006
+
+

@@ -1,0 +1,33 @@
+Title: 
+Autoblogger Pro, Content Theft Or Innovation?
+
+Word Count:
+667
+
+Summary:
+First of all, there may be some of you that have never even heard of Autoblogger Pro. So let’s examine this new script. Autoblogger Pro is really a very simple concept. It integrates itself into a Wordpress blog and then uses RSS feeds from news sources and blogs to populate the blog with relevant content. For example, if you want to build a blog that focuses on ‘Mortgages’ then you would simply locate several blog or news feeds that focus on mortgages and then load them into...
+
+
+Keywords:
+Autoblogger, Pro
+
+
+Article Body:
+First of all, there may be some of you that have never even heard of Autoblogger Pro. So let’s examine this new script. Autoblogger Pro is really a very simple concept. It integrates itself into a Wordpress blog and then uses RSS feeds from news sources and blogs to populate the blog with relevant content. For example, if you want to build a blog that focuses on ‘Mortgages’ then you would simply locate several blog or news feeds that focus on mortgages and then load them into the admin area of the script. Every time the script is executed it will then pull in the RSS feed from all of the sites you’ve entered, and post them to the blog. In essence, you end up with a blog that contains highly targeted content, blended and unique because it comes from a variety of sources. All maintained by you with the click of a button! (A sample ABP blog can be seen here: http://www.dogs.pn )
+
+Let me say this now. I am an advocate of Autoblogger Pro and I think that it’s a fantastic and logical development of the expected use of RSS feeds. It’s evolution people, and I think it’s fantastic!
+
+But this morning I was surfing the web and I happened to do a search for Autoblogger Pro to see what other people were saying. To my shock and dismay I found many sites screaming that Autoblogger Pro users are ‘content thieves’ , ‘content RAPISTS’, ‘Scam artists’ etc. I found this very disturbing, so I researched a few of their websites to see if their content was in some way being actually stolen. To be honest, I really had to laugh when I looked at most of their sites. Prominently displayed on all of them were buttons for their various RSS feeds, asking for syndication!
+
+What exactly did you expect when you put that feed on your site? RSS is defined as Really Simple Syndication. So aren’t you asking that your content be syndicated when you put the feed link on your website??? Of course you are. Either they are too uneducated to understand what RSS is and put it on their sites without knowing what it is, or they are just ignorant or naïve and believe that only a few people with news readers will use the feed.
+
+There’s a very simple solution for this if you’re one of those people crying foul. TAKE THE FEED DOWN. If you don’t want your content syndicated, don’t put up a feed!
+
+Now there are some responsibilities that must be held by users of Autoblogger Pro, it’s a very powerful script, and there are options to use it unethically. When syndicating someone’s content you need to give CREDIT to the source. Remember writing term papers in college or high school? You always have to give credit to your sources. Autoblogger Pro gives you the option in it’s configuration to give credit and a link back to every post you get from syndication. USE THIS FEATURE. It’s only right to give credit where credit is due. If this is done properly, all of those blogs you’re getting your content from will stay happy, because they are in turn getting quality links back to their site, from another relevant site, and that in turn helps them in their search engine standings. It may even send them some traffic if your Autoblogger Pro site has some. 
+
+Like it or not, syndication of content is what RSS was designed for. If you don’t like how your content is being syndicated, don’t put up a feed. But if you see the positives for content syndication you’ll understand that Autoblogger Pro sites will enhance your site, not detract from it. In the long run you’ll be glad to see your content in tons of places on the web!
+
+Till next time,
+Chuck Crawford
+
+

@@ -1,0 +1,30 @@
+Title: 
+What is an LCD TV?
+
+Word Count:
+472
+
+Summary:
+In an LCD TV or "transmissive" display, a light source shines through a panel of liquid crystals in order to display an image.  A white diffusion panel behind the LCD redirects and scatters the light evenly to provide a more uniform image than most competing technologies.
+
+
+Keywords:
+lcd, tv, television, liquid crystal display, plasma, hdtv
+
+
+Article Body:
+In an LCD TV or "transmissive" display, a light source shines through a panel of liquid crystals in order to display an image.  A white diffusion panel behind the LCD redirects and scatters the light evenly to provide a more uniform image than most competing technologies.  
+
+The LCD face consists of two transparent layers which polarize a liquid crystal layer sandwiched in between.  The front layer of glass is etched with a grid pattern on the inside surface to form a template for the liquid crystals.  Liquid crystals are rod shaped molecules that bend light in response to an electric current; the crystals align so that no light can pass through.  Each crystal acts like a camera's shutter, either blocking light or allowing it to pass through.  A pattern of transparent or dark crystals forms the image.  This same technology has been around for awhile, even in such unsophisticated items as digital watches.
+
+LCD TVs use an "active matrix" LCD; the most advanced type of LCD.  The active matrix design is based on TFT, or thin film transistors.  These are tiny switching transistors and capacitors that are arranged in a matrix on a glass substrate, they switch the LCD pixels on and off.  In a color TV's LCD, each color pixel is created by three sub-pixels with red, green, and blue color filters.
+
+One of the biggest challenges for LCD TV manufacturers has been speeding up the pixel response time, (how fast an individual pixel's color can change without blurring) so that fast moving images don't exhibit motion lag or "ghosting".  This is especially critical for larger-screen LCD TVs, or for LCD TVs on which much of the viewing will be HDTV, or DVD movies.  
+
+An important difference between LCD technology and Plasma is that an LCD screen doesn't have a coating of phosphor dots; LCD TVs color is created through the use of filters.  This keeps image burn-in from being a problem--- which is good news in-particular for people who might use a video gaming system or PC on their TV. Another benefit of owning an LCD TV is the energy efficiency of this technology.  LCD TVs typically consume 60% lees power than comparably sized tube-type, direct-view TVs.
+
+In most ways that really matter there isn't much difference between LCD TVs and Plasma TVs.  Both of these highly popular types of flat panel TVs are thin enough to be placed virtually anywhere, and both produce images that are startlingly clear, sharp, and bright.  The most notable difference is screen size.  The majority of LCD TVs have a screen size measuring 30 inches and smaller.  Plasma TVs are, for the most part, uninhibited by measurement restrictions.
+
+Basically, LCD and Plasma TVs are different approaches to the same result because the both create superior images using radically different technology.
+
+

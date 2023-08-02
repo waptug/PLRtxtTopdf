@@ -1,0 +1,32 @@
+Title: 
+Keeping Calm On CCNA / CCNP Exam Day
+
+Word Count:
+403
+
+Summary:
+Keeping calm on your CCNA or CCNP exam day is a big step toward doing your best and passing the exam.  Chris Bryant, CCIE #12933, gives you tips on how to keep your composure and pass the exams!
+
+
+Keywords:
+ccna, ccnp, exam, pass, ccie, cisco, free, certification, 640-801, 640-811, 640-821
+
+
+Article Body:
+When you wake up on exam day, one of two things is going to happen. Well, yes, you're going to pass or fail. But what I'm thinking of comes before that, and has a lot to do with how you perform on exam day.
+
+You're either going to have a tremendous feeling of anticipation or the dreaded feeling of being nervous about it.
+
+Anticipation is a great thing to feel on exam day. You're driving to the exam center, excited about the exam. You're much like a football player, slapping another player on the helmet or the shoulder pads before the game starts. (Warning: Don't try this on the exam proctor.) You know there's a challenge ahead, but you're looking forward to it. In your mind, you're already victorious you're at the testing center only to make it official.
+
+Conversely, there's nothing worse than being nervous or feeling unprepared before the exam. I've driven up to an exam center and seen exam candidates doing some last-minute cramming in their car. Sadly for them, if there's something you were unprepared for at 8 AM on exam day, you're still going to be unprepared when you go into the test center, no matter what you read in the car at the last minute. You don't see football players studying their playbook on the sideline before the game starts.
+
+It's all about preparation. I regularly tell my students and customers that you don't pass a Cisco exam (or any other vendor exam) the day you take it. You pass when you turn the TV off for weeks before the exam to study you pass when you spend time and money to attend a class or buy a book or training video you pass when you give up a weekend to get some hands-on experience. That's when you pass. The exam score you get is simply feedback on your exam preparation.
+
+There's a great saying "Prior Preparation Prevents Poor Performance". That describes to a "T" what your strategy to pass the exam must include. Put the time in well before exam day and you'll reap the rewards on the big day. If you're just planting the seeds of knowledge in your car the morning of the exam, don't expect much of a harvest.
+
+Chris Bryant
+
+CCIE #12933
+
+

@@ -1,0 +1,66 @@
+Title: 
+Knowing Basic Computer Terminology Helps Support Staff Help You
+
+Word Count:
+473
+
+Summary:
+When you know and understand the correct terms to use, getting assistance for your computer software is much easier. Not knowing how to describe the problem correctly to technical support is one of the biggest problems for new computer users. Below, you will find the correct terminology for the common components of software.
+
+1. User Interface
+
+This is the programs outward visual design. It can contain buttons, icons, boxes, words and squares. If your PC experiences insuf...
+
+
+Keywords:
+GoToMyPC, GoToMeeting
+
+
+Article Body:
+When you know and understand the correct terms to use, getting assistance for your computer software is much easier. Not knowing how to describe the problem correctly to technical support is one of the biggest problems for new computer users. Below, you will find the correct terminology for the common components of software.
+
+1. User Interface
+
+This is the programs outward visual design. It can contain buttons, icons, boxes, words and squares. If your PC experiences insufficient memory, there may be black rectangles that appear across the user interface of your software programs.
+
+2. Menu Bar 
+
+This will display menu items or options. The most common parts of a menu bar will grant access to File commands, Save commands, Open commands and Print commands. An error in this part of the interface will produce a missing option or one that is of a lighter color.
+
+3. Title Bar 
+
+This is the area at the top of the program, where its name is displayed as well as where there may be a description of the contents displayed on part of the interface. An incorrectly coded program may produce a wrong description in this part of its interface.
+
+4. Status Bar 
+
+This is located at the bottom of the interface, generally displaying small messages, indicating the progress of a command or task. Incorrectly programmed programs may display the wrong information in this area.
+
+5. Tool Bar 
+
+This will display small icons on the top of the screen as representing tools. Clicking, an icon opens a tool or processes a command that might also exist on the menu bar. Problems in this part of an interface are uncommon.
+
+6. Minimize, Restore, and Exit buttons 
+
+These three buttons are normally located on the right upper part of a program interface, each allows you to minimize the screen, restore it to original size, or shut the program down.
+
+7. Context Menu 
+
+Right clicking on something will display the context menu. It displays in much the same way as a Help menu.
+
+8. Scroll Bar 
+
+This tool allows a user to move the displayed part of the user interface up and down on the computer screen.
+
+9. Buttons 
+
+Buttons perform commands with the click of a mouse. Problems may exist when the text button is grayed out or if it does not seem to sink into a screen when clicked.
+
+10. Input Box 
+
+These normally small rectangles allow for entering data into a web page interface. If you cannot use one of these boxes, it may indicate that the program is faulty or that communication with the external network has been compromised.
+
+11. Check Box 
+
+This small box displays several choices. When clicked a small x displays inside a box, it allows you to choose between many options displayed on the user interface. Inability to enter an x may indicate that the program has stopped functioning and must be restarted.
+
+

@@ -1,0 +1,56 @@
+Title: 
+Options Trading Basics
+
+Word Count:
+565
+
+Summary:
+New to Options? Want to trade option? This is the first step for you.
+
+You many know many wealthy individuals make lots of money using options and you can try too.
+
+Stock and Bond trading strategies run the gamut from the simple 'buy and hold forever' to the most advanced use of technical analysis. Options trading has a similar spectrum.
+
+Options are a contract conferring the right to buy (a call option) or sell (a put option) some underlying instrument, such as a stock...
+
+
+Keywords:
+stocks,options,wealth,money making, millionaire
+
+
+Article Body:
+New to Options? Want to trade option? This is the first step for you.
+
+You many know many wealthy individuals make lots of money using options and you can try too.
+
+Stock and Bond trading strategies run the gamut from the simple 'buy and hold forever' to the most advanced use of technical analysis. Options trading has a similar spectrum.
+
+Options are a contract conferring the right to buy (a call option) or sell (a put option) some underlying instrument, such as a stock or bond, at a predetermined price (the strike price) on or before a preset date (the expiration date).
+
+So-called 'American' options can be exercised anytime before expiration, 'European' options are exercised on the expiration date. Though the history of the terms may lie in geography, the association has been lost over time. American-style options are written for stocks and bonds. The European are often written on indexes.
+
+Options officially expire on the Saturday after the third Friday of the contract's expiration month. Few brokers are available to the average investor on Saturday and the US exchanges are closed, making the effective expiration day the prior Friday.
+
+With some basic terminology and mechanics out of the way, on to some basic strategies.
+
+There are one of two choices made when selling any option. Since all have a set expiration date, the holder can keep the option until maturity or sell before then. (We'll consider American-style only, and for simplicity focus on stocks.)
+
+A great many investors do in fact hold until maturity and then exercise the option to trade the underlying asset. Assume the buyer purchased a call option at $2 on a stock with a strike price of $25. (Typically, options contracts are on 100 share lots.) To purchase the stock the total investment is:
+
+($2 + $25) x 100 = $2700 (Ignoring commissions.)
+
+This strategy makes sense provided the market price is anything above $27.
+
+But suppose the investor speculates that the price has peaked prior to the end of the life of the option. If the price has risen above $27 but looks to be on the way down without recovering, selling now is preferred.
+
+Now suppose the market price is below the strike price, but the option is soon to expire or the price is likely to continue downward. Under these circumstances, it may be wise to sell before the price goes even lower in order to curtail further loss. The investor can, at least, minimize the loss by using it to offset capital gains taxes.
+
+The final basic alternative is to simply let the contract expire. Unlike futures, there's no obligation to buy or sell the asset - only the right to do so. Depending on the premium, strike price and current market price it may represent a smaller loss to just 'eat the premium'.
+
+Observe that options carry the usual uncertainties associated with stocks: prices can rise or fall by unknown amounts over unpredictable time frames. But, added to that is the fact that options have - like bonds - an expiration date.
+
+One consequence of that fact is: as time passes, the price of the option itself can change (the contracts are traded just like stocks or bonds). How much they change is influenced by both the price of the underlying stock and the amount of time left on the option.
+
+Selling the option, not the underlying asset, is one way to offset that premium loss or even profit.
+
+

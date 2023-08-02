@@ -1,0 +1,58 @@
+Title: 
+Passing Your CCNA and CCNP:  Configuring And Troubleshooting Router-On-A-Stick
+
+Word Count:
+492
+
+Summary:
+To get your CCNA and CCNP, you’ve got to master a tricky little configuration called “router-on-a-stick”.  You will learn how to configure and troubleshoot this important technology in this article by Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccna, ccnp, intro, icnd, pass, exam, router, on, a , stick, isl, dot1q, trunking, vlan, 640-801, 640-811, 640-821 
+
+
+Article Body:
+For CCNA and CCNP candidates, it's hard not to laugh the first time you hear the phrase "router on a stick".  Let's face it, that's a pretty silly term.  But as those who have passed the CCNA and CCNP exams know, this is a vital exam topic that you must know how to configure and troubleshoot.  
+
+Basic Cisco theory states that for hosts in different VLANs to communicate, a Layer 3 device must be involved to handle the routing between the VLANs.   That device is a router, and there are special considerations that must be taken into account for both the physical router itself and the configuration you'll be writing.
+
+The router will be connected to a switch via a FastEthernet port (or higher).  The router port cannot be a regular Ethernet port, since the router port will need the ability to send and receive data at the same time.   
+
+The configuration of the interface is where things get interesting.  Let's say we have two VLANs that will be using router-on-a-stick to communicate.  
+Here is the VLAN information:
+
+VLAN 20:  20.20.20.0 /24
+VLAN 40:  40.40.40.0 /24
+
+The port on the switch that will be connected to the router's FastEthernet port must be in trunking mode, and you must know the trunking protocol in use.  We'll go with the Cisco-proprietary ISL here.
+
+The physical FE port on the router will not have an IP address.  The use of router-on-a-stick mandates the use of logical subinterfaces.  While we don't have to use the VLAN numbers for the subinterface numbers, I've found this helps you keep the interfaces straight.  One subinterface must be given an IP address in VLAN 20, and the other will have an IP address in VLAN 40.
+
+After creating subinterfaces fast 0.20 and fast 0.40, the config looks like this:
+
+interface fastethernet0
+     no ip address
+interface FastEthernet 0.20
+     ip address 20.20.20.1 255.255.255.0
+interface FastEthernet 0.40
+     ip address 40.40.40.1 255.255.255.0
+
+Believe it or not, you're almost done!  Now we need the encapsulation statement under each subinterface.  The subinterface statement must reflect both the VLAN number and the encapsulation type being used.  When we're finished, the config would look like this:
+
+interface fastethernet0
+          no ip address
+interface FastEthernet 0.20
+          ip address 20.20.20.1 255.255.255.0
+          encapsulation isl 20
+interface FastEthernet 0.40
+          ip address 40.40.40.1  255.255.255.0
+          encapsulation isl 40
+
+And that's it!  Your hosts in VLAN 20 should now be able to communicate with hosts in VLAN 40, and vice versa.  
+
+A couple of final troubleshooting points - the most common error with router-on-a-stick is to put the wrong vlan number in the encapsulation statement.  Also, make sure you have configured the router's IP address in VLAN 20 as the default gateway for hosts in VLAN 20, and do the same for VLAN 40.
+  
+I hope you've enjoyed this look at router-on-a-stick.   While the name may get a chuckle out of you, it's still used in quite a few networks out there, and knowing how to configure and troubleshoot it will get you that much closer to earning your CCNA and CCNP.
+
+

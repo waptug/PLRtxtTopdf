@@ -1,0 +1,97 @@
+Title: 
+Process and Outcome in Investing
+
+Word Count:
+1675
+
+Summary:
+In too many cases, investors dwell solely on outcomes without appropriate consideration of process. The focus on results is to some degree understandable. Results -- the bottom line -- are what ultimately matter. And results are typically easier to assess and more objective than evaluating processes.
+
+
+Keywords:
+investing, business, process, outcome
+
+
+Article Body:
+The following is an excerpt from the book More Than You Know
+by Michael J. Mauboussin
+Published by Columbia University Press; June 2006;$27.95US; 0-231-13870-9
+Copyright © 2006 Michael J. Mauboussin 
+
+Chapter 1
+
+Be the House
+
+
+Individual decisions can be badly thought through, and yet be successful, or exceedingly well thought through, but be unsuccessful, because the recognized possibility of failure in fact occurs. But over time, more thoughtful decision-making will lead to better overall results, and more thoughtful decision-making can be encouraged by evaluating decisions on how well they were made rather than on outcome.
+--Robert Rubin, Harvard Commencement Address, 2001
+
+Any time you make a bet with the best of it, where the odds are in your favor, you have earned something on that bet, whether you actually win or lose the bet. By the same token, when you make a bet with the worst of it, where the odds are not in your favor, you have lost something, whether you actually win or lose the bet.
+--David Sklansky, The Theory of Poker
+
+Hit Me
+
+Paul DePodesta, a former baseball executive and one of the protagonists in Michael Lewis’s Moneyball, tells about playing blackjack in Las Vegas when a guy to his right, sitting on a seventeen, asks for a hit. Everyone at the table stops, and even the dealer asks if he is sure. The player nods yes, and the dealer, of course, produces a four. What did the dealer say? “Nice hit.” Yeah, great hit. That’s just the way you want people to bet -- if you work for a casino.
+
+This anecdote draws attention to one of the most fundamental concepts in investing: process versus outcome. In too many cases, investors dwell solely on outcomes without appropriate consideration of process. The focus on results is to some degree understandable. Results -- the bottom line -- are what ultimately matter. And results are typically easier to assess and more objective than evaluating processes.
+
+But investors often make the critical mistake of assuming that good outcomes are the result of a good process and that bad outcomes imply a bad process. In contrast, the best long-term performers in any probabilistic field -- such as investing, sports-team management, and pari-mutuel betting -- all emphasize process over outcome.
+
+Jay Russo and Paul Schoemaker illustrate the process-versus-outcome message with a simple two-by-two matrix. Their point is that because of probabilities, good decisions will sometimes lead to bad outcomes, and bad decisions will sometimes lead to good outcomes -- as the hit-on-seventeen story illustrates. Over the long haul, however, process dominates outcome. That’s why a casino -- “the house” -- makes money over time.
+
+The goal of an investment process is unambiguous: to identify gaps between a company’s stock price and its expected value. Expected value, in turn, is the weighted-average value for a distribution of possible outcomes. You calculate it by multiplying the payoff (i.e., stock price ) for a given outcome by the probability that the outcome materializes.
+
+Perhaps the single greatest error in the investment business is a failure to distinguish between the knowledge of a company’s fundamentals and the expectations implied by the market price. Note the consistency between Michael Steinhardt and Steven Crist, two very successful individuals in two very different fields:
+
+I defined variant perception as holding a well-founded view that was meaningfully different from market consensus . . . Understanding market expectation was at least as important as, and often different from, the fundamental knowledge.
+
+The issue is not which horse in the race is the most likely winner, but which horse or horses are offering odds that exceed their actual chances of victory . . . This may sound elementary, and many players may think that they are following this principle, but few actually do. Under this mindset, everything but the odds fades from view. There is no such thing as “liking” a horse to win a race, only an attractive discrepancy between his chances and his price.
+
+A thoughtful investment process contemplates both probability and payoffs and carefully considers where the consensus -- as revealed by a price -- may be wrong. Even though there are also some important features that make investing different than, say, a casino or the track, the basic idea is the same: you want the positive expected value on your side.
+
+From Treasury to Treasure
+
+In a series of recent commencement addresses, former Treasury Secretary Robert Rubin offered the graduates four principles for decision making. These principles are especially valuable for the financial community:
+
+1. The only certainty is that there is no certainty. This principle is especially true for the investment industry, which deals largely with uncertainty. In contrast, the casino business deals largely with risk. With both uncertainty and risk, outcomes are unknown. But with uncertainty, the underlying distribution of outcomes is undefined, while with risk we know what that distribution looks like. Corporate undulation is uncertain; roulette is risky.
+
+The behavioral issue of overconfidence comes into play here. Research suggests that people are too confident in their own abilities and predictions. As a result, they tend to project outcome ranges that are too narrow. Over the past seventy-five years alone, the United States has seen a depression, multiple wars, an energy crisis, and a major terrorist attack. None of these outcomes were widely anticipated. Investors need to train themselves to consider a sufficiently wide range of outcomes. One way to do this is to pay attention to the leading indicators of “inevitable surprises.”
+
+An appreciation of uncertainty is also very important for money management. Numerous crash-and-burn hedge fund stories boil down to committing too much capital to an investment that the manager overconfidently assessed. When allocating capital, portfolio managers need to consider that unexpected events do occur.
+
+2. Decisions are a matter of weighing probabilities. We’ll take the liberty of extending Rubin’s point to balancing the probability of an outcome (frequency) with the outcome’s payoff (magnitude). Probabilities alone are insufficient when payoffs are skewed.
+
+Let’s start with another concept from behavioral finance: loss aversion. For good evolutionary reasons, humans are averse to loss when they make choices between risky outcomes. More specifically, a loss has about two and a half times the impact of a gain of the same size. So we like to be right and hence often seek high-probability events.
+
+A focus on probability is sound when outcomes are symmetrical, but completely inappropriate when payoffs are skewed. Consider that roughly 90 percent of option positions lose money. Does that mean that owning options is a bad idea? The answer lies in how much money you make on the 10 percent of options positions that are profitable. If you buy ten options each for $1, and 9 of them expire worthless but the tenth rises to $25, you’d have an awful frequency of success but a tidy profit.
+
+So some high-probability propositions are unattractive, and some low-probability propositions are very attractive on an expected-value basis. Say there’s a 75 percent probability that a stock priced for perfection makes its earnings number and, hence, rises 1 percent, but there’s a 25 percent likelihood that the company misses its forecast and plummets 10 percent. That stock offers a great probability but a negative expected value.
+
+3. Despite uncertainty, we must act. Rubin’s point is that we must base the vast majority of our decisions on imperfect or incomplete information. But we must still make decisions based on an intelligent appraisal of available information.
+
+Russo and Schoemaker note that we often believe more information provides a clearer picture of the future and improves our decision making. But in reality, additional information often only confuses the decision-making process.
+
+Researchers illustrated this point with a study of horse-race handicappers. They first asked the handicappers to make race predictions with five pieces of information. The researchers then asked the handicappers to make the same predictions with ten, twenty, and forty pieces of information for each horse in the race. Even though the handicappers gained little accuracy by using the additional information, their confidence in their predictive ability rose with the supplementary data.
+
+4. Judge decisions not only on results, but also on how they were made. A good process is one that carefully considers price against expected value. Investors can improve their process through quality feedback and ongoing learning.
+
+One of my former students, a very successful hedge fund manager, called to tell me that he is abolishing the use of target prices in his firm for two reasons. First, he wants all of the analysts to express their opinions in expected value terms, an exercise that compels discussion about payoffs and probabilities. Entertaining various outcomes also mitigates the risk of excessive focus on a particular scenario -- a behavioral pitfall called “anchoring.”
+
+Second, expected-value thinking provides the analysts with psychological cover when they are wrong. Say you’re an analyst who recommends purchase of a stock with a target price above today’s price. You’re likely to succumb to the confirmation trap, where you will seek confirming evidence and dismiss or discount disconfirming evidence.
+
+If, in contrast, your recommendation is based on an expected-value analysis, it will include a downside scenario with an associated probability. You will go into the investment knowing that the outcome will be unfavorable some percentage of the time. This prior acknowledgement, if shared by the organization, allows analysts to be wrong periodically without the stigma of failure.
+
+Prioritizing Process
+
+The investment community, because of incentives and measurement systems, is too focused on outcome and not enough on process. In Rubin’s words:
+
+It’s not that results don’t matter. They do. But judging solely on results is a serious deterrent to taking risks that may be necessary to making the right decision. Simply put, the way decisions are evaluated affects the way decisions are made.
+
+Copyright © 2006 Michael J. Mauboussin
+
+Author
+Michael J. Mauboussin is chief investment strategist at Legg Mason Capital Management and an adjunct professor at Columbia Business School. He is the author (with Alfred Rappaport) of Expectations Investing: Reading Stock Prices for Better Returns. Mauboussin lives in Darien, Connecticut.
+
+For more information, please visit www.michaelmauboussin.com.
+
+

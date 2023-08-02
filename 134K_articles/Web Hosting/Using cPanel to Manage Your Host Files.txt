@@ -1,0 +1,36 @@
+Using cPanel to Manage Your Host Files
+
+CPanel is an easy user-interface site that lets you control your host account environment. The main peculiarity of this operating system is that it so simple to use that your below average computer user can’t mess it up. It’s got great features embedded into its panel and some of the features are listed below.
+
+Site Tools 
+
+There are such tools available for your use, which are Web Protect (.htaccess editor), Custom error pages, Redirects, Ability to edit MIME types, Ability to edit Apache handlers, Install/Uninstall FrontPage Extensions, Search engine tool submitting and File Manager.
+
+Email
+
+The email program provides you with the possibility to add, remove, and change passwords while managing email accounts. CPanel is also provided by Webmail for the accounts, Auto responders, Forwarders, Mailing Lists, Spam filtering and some more. 
+
+Backup
+
+Backup allows you to create copies of account files and databases.  The backup menu also allows you to download any automatic backups that were downloaded by your CPanel administrator. 
+
+Stats 
+
+Here are different tools to survey your site popularity and efficiency. Those are Webalizer web stats, Webalizer FTP stats, Analog stats, AWStats, View latest visitors, View bandwidth usage and View error log modules.  
+
+FTP
+
+There is a module that controls FTP accounts (add, remove, change password for its access), Anonymous FTP controls; Ability to change FTP login message and Ability to kill FTP sessions. 
+
+Advanced Stuff
+
+You have an ability to add or remove subdomains, Subdomain Redirects and its Stats.
+
+Advanced Tools 
+
+You are provided with tools of SSH access tools, Manage GPG keys and Cron jobs. 
+
+There are also Pre-Installed CGI Scripts. Those are Interchange Cart, Agora Cart, Bulletin Board, Java Chat, HTML Chat, phpMyChat, CGI Wrapper (for non-suexec installs), Random HTML generator, Advanced Guestbook, Counter Generator, Java Clock Generator, Java Countdown Generator, Secure FormMail clone, CGIEmail, Entropy Search, Entropy Banner. Network Tools are DNS Lookup and Traceroute. Database Management tools includes Managing MySQL databases and phpMyAdmin access. 
+
+For beginners, CPanel has a lot of options that are easy to use.   CPanel works with most of browsers, such as IE, Opera, Firefox and others. 
+

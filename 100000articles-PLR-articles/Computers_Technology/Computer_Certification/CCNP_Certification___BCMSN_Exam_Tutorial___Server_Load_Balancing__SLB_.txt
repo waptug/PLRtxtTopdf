@@ -1,0 +1,50 @@
+Title: 
+CCNP Certification / BCMSN Exam Tutorial:  Server Load Balancing (SLB)
+
+Word Count:
+399
+
+Summary:
+You need to know all about router redundancy strategies to become a CCNP, but there's an important server redundancy feature you need to know as well!  Learn all about Server Load Balancing from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+cisco, ccnp, certification, study, guide, server, load, balancing, slb, vrrp, hsrp, glbp, redundancy
+
+
+Article Body:
+When you're working on your BCMSN exam on your way to CCNP certification, you'll read at length about how Cisco routers and multilayer switches can work to provide router redundancy - but there's another helpful service, Server Load Balancing, that does the same for servers. While HSRP, VRRP, and CLBP all represent multiple physical routers to hosts as a single virtual router, SLB represents multiple physical servers to hosts as a single virtual server.
+
+In the following example, three physical servers have been placed into the SRB group ServFarm.  They're represented to the hosts as the virtual server 210.1.1.14.
+
+The hosts will seek to communicate with the server at 210.1.1.14, not knowing that they're actually communicating with the routers in ServFarm. This allows quick cutover if one of the physical servers goes down, and also serves to hide the actual IP addresses of the servers in ServFarm.
+
+The basic operations of SLB involves creating the server farm, followed by creating the virtual server.  We'll first add 210.1.1.11 to the server farm:
+
+MLS(config)# ip slb serverfarm ServFarm
+
+MLS(config-slb-sfarm)# real 210.1.1.11
+
+MLS(config-slb-real)# inservice
+
+The first command creates the server farm, with the real command specifying the IP address of the real server.  The inservice command is required by SLB to consider the server as ready to handle the server farm's workload.  The real and inservice commands should be repeated for each server in the server farm.  
+
+To create the virtual server:
+
+MLS(config)# ip slb vserver VIRTUAL_SERVER
+
+MLS(config-slb-vserver)# serverfarm ServFarm
+
+MLS(config-slb-vserver)# virtual 210.1.1.14
+
+MLS(config-slb-vserver)# inservice
+
+From the top down, the vserver was named VIRTUAL_SERVER, which represents the server farm ServFarm.  The virtual server is assigned the IP address 210.1.1.14, and connections are allowed once the inservice command is applied.
+
+You may also want to control which of your network hosts can connect to the virtual server.  If hosts or subnets are named with the client command, those will be the only clients that can connect to the virtual server. Note that this command uses wildcard masks.  The following configuration would allow only the hosts on the subnet 210.1.1.0 /24 to connect to the virtual server.
+
+MLS(config-slb-vserver)# client 210.1.1.0 0.0.0.255
+
+SLB is the server end's answer to HSRP, VRRP, and GLBP - but you still need to know it to become a CCNP!  Knowing redundancy strategies and protocols is vital in today's networks, so make sure you're comfortable with SLB before taking on the exam.
+
+

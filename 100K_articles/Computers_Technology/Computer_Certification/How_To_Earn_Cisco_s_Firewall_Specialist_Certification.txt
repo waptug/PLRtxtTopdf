@@ -1,0 +1,34 @@
+Title: 
+How To Earn Cisco’s Firewall Specialist Certification
+
+Word Count:
+438
+
+Summary:
+Earning a Cisco Security certification is a great way to protect your network and your career.  Chris Bryant, CCIE #12933, shows you the path to the Cisco Firewall Specialist certification.
+
+
+Keywords:
+ccna, cisco, ccnp, firewall, exam, pass, certification, SNPA, AAA, ACL, SND, MCSE, router, switch
+
+
+Article Body:
+Security is a hot topic in today's networks, and will continue to be for a long time to come.  With that in mind, you must consider adding a Cisco security certification to your resume and firewall skills to your skill set.
+
+It's quite a jump from the CCNA to the CCSP (Cisco Certified Security Professional), and Cisco has made that leap more manageable by adding Specialist certifications.  These certifications can give quite a boost to both your resume and your skill set, and act as a great "stepping stone" to the CCSP.
+
+At present, Cisco offers four VPN/Security certifications, those being Cisco Firewall Specialist, Cisco IPS Specialist, Cisco VPN Specialist, and Cisco VPN/Security Sales Specialist.  Since every WAN engineer has contact with Cisco firewalls on a regular basis, we'll take a closer look at this popular certification first.  (And those who want to be WAN engineers had better learn something about firewalls, too!)
+
+At the writing of this article (October 21, 2005), Cisco is offering an option for each of the two exams you'll need to pass to earn this certification.  For the first exam, you can take either the 642-551 SND (Securing Cisco Network Devices) or 642-501 SECUR (Securing Cisco IOS Networks).  The final day to register for the SECUR exam is December 19, 2005.
+
+For either, you'll need to be able to answer questions regarding the proper use of Cisco security devices; how to configure security on a Cisco switch and on a router, including syslog logging, AAA, ACLs, and security for router services and interfaces.
+
+The choices for the second exam are the 642-522 SNPA (Securing Network with PIX and ASA) and 642-521 CSPFA.  Topics for these exams include , IPSec, NAT, firewalls, AAA, and policy mapping.  (As always, you should check for the latest exam blueprints at Cisco's website.  Click "Learning And Events" on the main page, www.cisco.com).
+
+The only prerequisite for this certification is that you must hold a valid CCNA certification. 
+
+As always, getting some hands-on experience is the best way to prepare for your Cisco exams.  (Your employer is going to get a little upset if you practice your configs on his or her PIX. It would be a good idea to have a good lawyer, too.)  There are online rack rental services that include Cisco security devices in their pods.  
+
+Cisco certifications are a great way to help protect your career as well as your network.  The more you know, and the more varied your skills, the more valuable you are to your present and future employers.  Use your CCNA as a foundation, and keep building on your skills!
+
+

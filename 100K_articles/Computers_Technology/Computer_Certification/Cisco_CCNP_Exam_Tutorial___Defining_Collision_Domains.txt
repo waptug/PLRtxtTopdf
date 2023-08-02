@@ -1,0 +1,28 @@
+Title: 
+Cisco CCNP Exam Tutorial:  Defining Collision Domains
+
+Word Count:
+397
+
+Summary:
+To pass the CCNA, you've got to know how and why to define collsion domains.  Learn the vital details from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+ccna, exam, free, tutorial, collison, domain, intro, csma/cd, router, switch, hub, repeater, osi
+
+
+Article Body:
+CCNA exam success depends on mastering the fundamentals, and two important fundamentals are knowing exactly what the terms "collision domain" and "broadcast domain" mean.  In this free Cisco tutorial, we'll take a look at the term "collision domain" and how a collision domain is defined.
+
+A collision domain is an area in which a collision can occur. Fair enough, but what "collision" are we talking about here?  We're talking about collisions that occur on CSMA/CD segments, or Carrier Sense Multiple Access with Collision Detection.  If two hosts on an Ethernet segment transmit data at exactly the same time, the data from the two hosts will collide on the shared segment.  CSMA/CD exists to lessen the chances of this happening, but collisions can still occur.  To lessen the chances of collisions occurring, we may decide to create multiple, smaller collision domains.
+
+Let's say we have four hosts on a single Ethernet segment.  The entire segment is a collision domain; any data sent by one of the hosts can collide with data sent by any of the other hosts.  We have one collision domain containing four devices.
+
+To create smaller collision domains, we'll need to introduce some type of networking device into this example.  Hubs and repeaters have their place as far as extending the reach of a network segment and cutting down on attenuation, but these OSI Layer One devices do nothing to define collision domains.  We could connect each host into a separate port on a hub (a hub is basically a multiport repeater) and we'd still have one single collision domain with four hosts in it.
+
+The most common and most effective way to create multiple collision domains is to use a switch.  If we connect each of these four hosts to their own separate switch port, we would now have four separate collision domains, each with one host; each switch port actually acts as a single collision domain, making collisions between these four hosts impossible.
+
+Passing the CCNA is all about knowing the details of how things work, and knowing CSMA/CD theory and how to define collision domains is one of the many details you've got to master.  In the next part of this CCNA tutorial, we'll take a look at broadcast domains, and how defining broadcast domains in the right places can dramatically cut down on unnecessary traffic on your network.
+
+

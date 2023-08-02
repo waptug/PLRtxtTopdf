@@ -1,0 +1,36 @@
+Title: 
+Cisco Certification:  Don't Overreact To Exam Version Changes
+
+Word Count:
+300
+
+Summary:
+CCNA and CCNP candidates sometimes put their studies on hold when rumors of new exams surface.  Chris Bryant, CCIE #12933, explains why nothing should put your studies on hold.
+
+
+Keywords:
+ccna, ccnp, free, pass, exam, cisco, certification, computer, mcse, ccie, chris, bryant
+
+
+Article Body:
+Whenever a Cisco exam version changes, there's always a lot of chatter about it on the web.  The CCNA exams are no exception.
+
+One comment I see often goes like this: " I hear Cisco is going to change Intro / ICND / CCNA exam versions soon, so I'm not going to start studying yet.  I'll wait until the new exam comes out."
+
+Do not let this happen to you.
+
+While some large publishers would have you think these exams change tremendously from one version to another ("updated for the latest exams!"), the simple fact is that the Intro, ICND, and CCNA Composite exams simply don't change much from version to version.
+
+Sure, the questions change. The only people who should be nervous about that are those who are trying to braindump their way to a technical certification.
+
+The topics covered on the CCNA exams don't change much at all.  You know you're going to have to demonstrate knowledge of LAN switching, ISDN, Frame Relay, routing protocol behavior, RIP, IGRP, EIGRP, and OSPF.  Perhaps some of the more advanced topics will change, but these will be minor changes at best.  Cisco announces these changes on their website well in advance , so you won't be left with no time to study.
+
+The only Cisco exams that might change quite a bit are the CCIE Written Qualification exams.  Even there, you know what the core topics will be.  Cisco's hardly going to take BGP off the written Routing & Switching exam.
+
+Whatever you do, don't fall into the "version change" trap. Don't spend $100 - $300 to hurry up and take an exam before you're ready because of an upcoming version change.
+
+When you're ready, you're ready.  
+
+Time spent learning is never wasted.  Get started NOW.
+
+

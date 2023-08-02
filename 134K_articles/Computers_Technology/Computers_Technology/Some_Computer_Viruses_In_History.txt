@@ -1,0 +1,44 @@
+Title: 
+Some Computer Viruses In History
+
+Word Count:
+670
+
+Summary:
+Computer viruses generally trick hosts or other types of computers into reproducing copies of the invading organism. They spread from computer to computer through electronic bulletin boards, telecommunication systems and shared floppy disks. Viruses are created by human programmers, for fun or malice, but once they begin to spread they take on a life of their own, creating disruption, dismay and paranoia in their wake.
+
+If the virus is found in any of the PC's that PC shoul...
+
+
+Keywords:
+blackworm virus, antivirus, computer security
+
+
+Article Body:
+Computer viruses generally trick hosts or other types of computers into reproducing copies of the invading organism. They spread from computer to computer through electronic bulletin boards, telecommunication systems and shared floppy disks. Viruses are created by human programmers, for fun or malice, but once they begin to spread they take on a life of their own, creating disruption, dismay and paranoia in their wake.
+
+If the virus is found in any of the PC's that PC should immediately be isolated. The virus can be removed by giving an antidote by studying the virus. The machine should be put into use only after the virus is eliminated.
+Viruses and such
+
+A Virus is defined as a program inserted into another program. It gets activated by its host program. It replicates itself and spreads to others through floppy transfer. A virus infects data or program every time the user runs the infected program and the virus takes advantages and replicates itself.
+
+There are two types of computer viruses 'parasitic' and 'boot' virus.
+
+A Parasitic virus attaches itself to other programs and is activated when the host program is executed. It tries to get attached to more programs so that chances of getting activated is more. It spreads to other computers when the affected programs are copied. 'Jerusalem' and 'Datacrime' are parasitic viruses.
+
+A Boot virus is designed to enter the boot sector of a floppy disc. It works by replacing the first sector on the disc with part of itself. It hides the rest of itself elsewhere on the disc, with a copy of the first sector. The virus is loaded by the computers built-in start-up program when the machine is switched on. The virus loads, installs itself, hides the rest of itself and then loads the original program. On a hard disc, virus can occupy DOS boot sector or master boot sector.
+Some Reported Viruses
+
+C-Brain: Amjad and Basit, two pakistani brothers, developed this software in January 1986 to discourage people from buying illegal software at throwaway prices. This was the most famous virus ever found and has a record of damaging few millions of personal computers. This is designed to stay in the boot sector of the disc or near zero sector. The virus enters the machine memory once the PC is booted with the infected floppy.
+
+Macmag: This virus attacked Apple Macintosh computers only. Not much damage is reported because of this virus. This was not noticed on any IBM compatible PCs. It displayed a message of peace on the monitor and killed itself.
+
+Cascade: This virus attacked IBM PCs and compatibles. The letters on the screen could be seen dropping vertically down to the bottom of screen after the virus picked them off in alphabetical order. This is a sort of parasitic virus. It attaches itself to other programs and gets activated when the host program is executed. It gets copied to other PCs when the programs are copied.
+
+Jerusalem: Found in 1987 at Hebrew University, Jerusalem, this virus was designed to activate only on Friday, January 13 and delete all the files executed on that day. This infects the COM and EXE files. This is similar to Cascade virus in that it is parasitic in nature. This virus attaches itself to COM and EXE files to damage the data.
+
+Daracrime/Columbus or October the 13th virus: This virus is similar to Jerusalem and was programmed to attack on October 13, 1989. Track zero of computer hard disk is destroyed and the contents of discs are rendered unreadable. This virus enters COM and EXE files and damages the hard disk. An antidote called 'Vchecker' was developed by the American Computer Society. Fortunately the virus was located in March 1989 itself and the damage reported after October 13 was minimal.
+
+Bomb: This is also know as 'Logic Bomb' and 'Time Bomb'. An event triggered routine in a program that causes a program to crash is defined as a 'bomb'. Generally, 'bomb' is a software inserted in a program by a person working in the company.
+
+

@@ -1,0 +1,40 @@
+Title: 
+Feature Overload--Why Consumer Electronics Are So Complicated
+
+Word Count:
+557
+
+Summary:
+Why are products so complex? "Hey, our cell phone takes pictures, sharpens knives, mows the lawn, pays your bills, steers your car, and cooks dinner, all by voice command!" Give us a break!
+
+
+Keywords:
+
+
+
+Article Body:
+It seems like everything is so complicated these days, especially anything electronic … which is more and more products everyday. 
+
+Why are they so complex? "Hey, our cell phone takes pictures, sharpens knives, mows the lawn, pays your bills, steers your car, and cooks dinner, all by voice command!" Give us a break!
+
+Unfortunately, the reason so many electronic products are stuffed with features is that it is relatively cheap to add features to them! Do we consumers really want or need those functions? That is an entirely different question. Often, the answer is no. But the manufacturers add them, in many cases, simply so they can advertise that they have more features. 
+
+It costs a lot more to carefully determine what features are most wanted and to design products so that they are feature-rich, yet easy and intuitive for people  to use. That is why this vital step is often shortcut. 
+
+Ever had trouble figuring out how to program your VCR? Did you ever think that perhaps it's not really your fault? It's the fault of the engineers who designed a lousy user interface to the product. And you think they are bad? Try using a combination VCR-DVD player! 
+
+There is second reason why manufacturers keep cramming more questionable features into products. In the case of products like cell phones, sales have slowed down because most people who wanted one have one. So, the phone manufacturers keep adding features in order to try to find ones that motivate people to buy new phones. They keep looking for that latest cool feature that people will be willing to buy a new phone to get.
+
+Similarly, digital camera manufacturers keep coming out with cameras with more and more megapixels. Two megapixels, then 3.2, then 4.0, then 5, now 6, 7, even 8. Do consumers need 7 or 8 megapixel cameras? Not in the least. For shooting snapshots or sharing pictures online, a 3.2 megapixel camera is more than adequate. Really. 
+
+Why then, do manufacturers keep extending the capability? It is as we said above: 1) so they can advertise they have it, and 2) to try to get people to stick their old camera in a drawer and buy a new one.
+
+Our advise: It pays to look carefully at the features being offered in the products you are interested in. Don't assume that a product with more features (or higher numbers) is the better choice. Often it is not, it is just more complicated to use! And, there is more to go wrong.
+
+BLOATWARE
+
+There is a similar phenomenon in software. It is called "bloatware." Programs that are overloaded with features, especially those not essential to the basic purpose for the software, carry this moniker.
+
+When I was in the software industry and we were working on the next versions of software products, the programmers would sometimes come and say, "Hey I can add such-and-such feature with only 100 lines of code," or some such number. That’s not much, since a software program can have hundreds of thousands of lines of code. But often it was a feature the users of that software had no need for. Playing consumer advocate, I'd ask why such a feature would be needed. If the answer was questionable, I'd tell them to leave it out. Too often, though, those features make it into software products, and they become bloated with unnecessary features. Bloatware.
+
+

@@ -1,0 +1,49 @@
+Title: 
+Cisco CCNA / CCNP Home Lab Setup:   How To Configure Reverse Telnet
+
+Word Count:
+400
+
+Summary:
+Many CCNA and CCNP candidates hear about “reverse telnet”, but aren’t quite sure what it is.  Learn what it is, how it works, and how to configure it in this free Cisco tutorial from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+ccna,ccnp,free,tutorial,pass,home, lab, reverse, telnet, access, server,exam,router,switch,cisco,bsci,cit,bcran,configure,ebook,chris,Bryant,ccie,12933,advantage
+
+
+Article Body:
+Occasionally, during your CCNA and CCNP studies, you'll run into a term that just doesn't quite make sense to you.  (Okay, more than occasionally!)  One such term is "reverse telnet".  As a Cisco certification candidate, you know that telnet is simply a protocol that allows you to remotely connect to a networking device such as a router or switch.  But what is "reverse telnet", and why is it so important to a Cisco CCNA / CCNP home lab setup?
+
+Where a telnet session is started by a remote user who wants to remotely control a router or switch, a reverse telnet session is started when the host device itself imitates the telnet session.
+
+In a CCNA / CCNP home lab, reverse telnet is configured and used on the access server.  The access server isn't a white box server like most of us are used to; an access server is a Cisco router that allows you to connect to multiple routers and switches with one session without having to move a rollover cable from device to device.
+
+Your access server will use an octal cable to connect to the other routers and switches in your home lab.  The octal cable has one large serial connector that will connect to the access server, and eight rj-45 connectors that will connect to your other home lab devices.  Your access server then needs an IP Host table in order to perform reverse telnet.
+
+An IP Host table is easy to put together (and you better know how to write one to pass the CCNA!).  The IP Host table is used for local name resolution, taking the place of a DNS server. A typical access server IP Host table looks like this:
+
+ip host FRS 2007 100.1.1.1
+
+ip host R3 2003 100.1.1.1
+
+ip host R1 2001 100.1.1.1
+
+ip host R2 2002 100.1.1.1
+
+ip host R4 2004 100.1.1.1
+
+ip host R5 2005 100.1.1.1
+
+ip host SW1 2006 100.1.1.1
+
+
+interface Loopback0
+
+ ip address 100.1.1.1 255.255.255.255
+
+ no ip directed-broadcast
+
+This configuration will allow you to use your access server to connect to five routers, a frame relay switch, and a switch without ever moving a cable.  When you type "R1" at the console line, for example, you'll be connected to R1 via reverse telnet.  If you have a smaller lab, an access server is still a real timesaver and an excellent investment.  And by getting a static IP address to put on your access server, you can even connect to your home lab from remote locations!
+
+

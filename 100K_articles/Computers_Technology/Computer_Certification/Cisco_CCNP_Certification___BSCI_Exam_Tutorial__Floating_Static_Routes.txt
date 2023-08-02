@@ -1,0 +1,44 @@
+Title: 
+Cisco CCNP Certification / BSCI Exam Tutorial: Floating Static Routes
+
+Word Count:
+395
+
+Summary:
+You might know static routing, but what is a “floating static route”? Learn the details of this CCNP exam topic from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccnp, certification, exam, bsci, pass, floating, static, route, Bryant, advantage, ip, route, tutorial, ospf, administrative, distance, ad
+
+
+Article Body:
+Passing the BSCI exam and earning your CCNP certification demands that you add greatly to the networking skills foundation you created when you studied for your CCNA certification.  You learned quite a bit about static routing and default static routing when you passed the CCNA test, and it does seem like that should be all you need to know about static routing, right?
+
+One thing you'll learn as you continue to earn Cisco certifications is that there's always something else to learn!  You may have heard the term "floating static route", which does suggest some interesting mental pictures.  "Floating"?  Floating on what?
+
+In a way, a floating static route is "floating" in your routing table.  A floating static route is a route that will be used only if routes for the same destination but with a lower administrative distance are removed from the table.  For example, you could be using an OSPF-discovered route as your primary route to a given destination, and the floating static route would serve as a backup route that would be used only if the OSPF route leaves the routing table.
+
+Now, how can that happen?  After all, OSPF has an administrative distance of 110 and static routes have ADs of one or zero, depending on whether it's configured with a next-hop IP address or a local exit interface.  One way or the other, 1 and 0 are still less than 110!
+
+When you want to configure a floating static route, you must assign the route an AD higher than that of the primary route.  In this case, we've got to create a static route with an AD higher than 110.  We do this by using the "distance" option at the end of the "ip route" command.
+
+R1(config)#ip route 110.1.1.0 255.255.255.0 172.12.123.1 ?
+
+  <1-255>    Distance metric for this route
+
+  name       Specify name of the next hop
+
+  permanent  permanent route
+
+  tag        Set tag for this route
+
+  <cr>
+
+R1(config)#ip route 110.1.1.0 255.255.255.0 172.12.123.1 111
+
+The number entered at the very end of the "ip route" command is the AD of that route.  If there is an OSPF route for 110.1.1.0 /24, that will be the primary route, and the floating static route will not be used unless the OSPF route is taken out of the routing table.
+
+Floating static routes aren't just a good thing to know for the BSCI exam and your CCNP certification pursuit - they're very practical in the real world as well.
+
+

@@ -1,0 +1,27 @@
+Title: 
+What is CPU Speed
+
+Word Count:
+263
+
+Summary:
+The CPU of a computer is the part of it which performs all of its logical and arithmetic calculations.
+
+
+Keywords:
+CPU, Speed
+
+
+Article Body:
+The CPU of a computer is the part of it which performs all of its logical and arithmetic calculations. All calculations are done by first converting the user's input into binary, and then the calculations are performed on the binary. The binary system consists of only two different digits – 0 and 1. They are referred to as the logical zero and logical one. For every calculation the computer alternates between these two numbers. A single change from 0 to 1 or vice-versa is known as a clock cycle. The speed of a CPU is measured in clock rate. In short, the clock rate is the frequency of the clock in a circuit. It is measured in Hz, MHz (Million cycles per second) and GHz. The clock rate can also be defined as the speed at which the microprocessor executes instructions. This rate is used to compare the speeds of different computers.
+ 
+          The clock rate of a CPU depends on various factors such as system architecture, clock rate of RAM and file system, so two computers with the same clock rates may not perform the same. The first commercial PC the Altair 8800 which used the Intel 8080 chip had a speed of 2MHz while the original IBM had a clock rate of 4.77 MHz.
+ 
+        The Intel Pentium (2002) chip ran at 300MHz while the more recent Pentium IV runs at 3 GHz (3 billion cycles per second).
+To find your CPU's speed (Windows):
+
+1. Right click on “My Computer” and click on “Properties”.
+
+2. Under the “System” section, look for Processor - The processor’s name as well as speed (in GHz) will be mentioned.
+
+

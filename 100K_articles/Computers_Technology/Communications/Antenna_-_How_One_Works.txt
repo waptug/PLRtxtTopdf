@@ -1,0 +1,32 @@
+Title: 
+Antenna - How One Works
+
+Word Count:
+539
+
+Summary:
+A simple English explanation of just what happens inside your TV or radio antenna that allows it to pick up signals and transmit them to your receiving device.
+
+
+Keywords:
+antenna
+
+
+Article Body:
+It's probably not something many people are interested in unless they're some kind of an electrical engineer or just bored, but understanding how an antenna works can be useful when the one on your TV or radio goes south on you and the reason is beyond your comprehension.  
+
+Trying to explain how an antenna works in simple English is not an easy task as there are a lot of technical specifications that need to be explained.  But a general understanding is possible without getting into tech speak that would make Einstein cringe.  
+
+In order for an antenna to work it has to radiate.  Your antenna, whether TV or radio has what is called free electrons running through it.  It is these free electrons that vibrate.  The question becomes, how do these free electrons vibrate and what causes them to vibrate? 
+
+Well, in real life it takes an electric field to move an electron.  If you take an isolated straight dipole, the power comes from the combined fields of all the charged particles, both positive and negative, in the antenna.  We'll call this field the antenna's coulomb field.  
+
+In addition to this field, the antenna exhibits a magnetic field that is the sum of the magnetic fields of all the free moving electrons.  The antenna also has a dynamic electric field that is the vector sum of the dynamic electric fields of all the free electrons.  What we can do is separate the electric field of the antenna at any point in space into two components.  One of the components will be in phase with the total magnetic field and the other will be 90 degrees out of phase.  The in-phase component is the radiation field of the antenna and the out of phase component is the induction field.  At the antenna, both fields are parallel to the metal surface.  
+
+What happens is that the coulomb field and the induction field fall off much more quickly than the radiation field as the distance increases from the antenna.  When you reach distances greater than a few wavelengths from the antenna, you have what is called the antenna's far field.  This field is pure radiation.  As you get closer to the antenna you have what is called the antenna's near field.  This field is a mixture of radiation, coulomb, and induction fields.  Still with us?  Great, we're getting to the good part.  
+
+What ultimately happens with all these fields that makes it so that your TV or radio picks up signals through your antenna is this.  The free electrons moving through your antenna are moving at their maximum speed.  The right hand half of your antenna accumulates electrons.  The left hand half of your antenna is where the electrons depart and leave an excess of charged ions.  The coulomb field produces an imbalance and opposes the electrons' rightward motion.  The electrons then stop, coast for a bit and then head back towards the left.  After they reach maximum speed they then stop and process is repeated, now heading back to the right.  The result is a vibration of free electrons that heats the metal and in turn generates electromagnetic waves.  
+
+And that, in as simple English as possible, is how your antenna works.
+
+

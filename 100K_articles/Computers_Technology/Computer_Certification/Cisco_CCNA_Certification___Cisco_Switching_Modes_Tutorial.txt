@@ -1,0 +1,26 @@
+Title: 
+Cisco CCNA Certification:  Cisco Switching Modes Tutorial
+
+Word Count:
+267
+
+Summary:
+To earn your CCNA certification, you must know the different modes Cisco switches use to forward frames, and the differences between the three. Learn this important information in this free tutorial from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccna,exam,certification,pass,icnd,intro,switch,cisco,store,forward,cut,through,fragment,free,chris,Bryant, ccie,12933,collision,ethernet,segment,network,router,switch
+
+
+Article Body:
+To pass the CCNA exam and earn that coveted certification, you've got to know Cisco switches inside and out.  Among the many important details you've got to know are the three methods that Cisco switches use to forward frames, and the differences between the three.
+
+The first switching method is Store-and-Forward.  The name is the recipe, because that's just what the switch does - it stores the entire frame before beginning to forward it.  This method allows for the greatest amount of error checking, since the Frame Check Sequence (FCS) can be run before the frame is forwarded.  As always, there is a tradeoff, since this error checking process makes this the slowest of the three frame forwarding methods.
+
+The quickest method is Cut-Through, where only the destination MAC address of the frame is examined before the forwarding process begins.  This means that the part of the frame is actually being forwarded as it is still being received!  The tradeoff here is that the FCS does not run, so there is absolutely no error checking with Cut-Through switching.
+
+The middle ground between these two extremes is Fragment-Free, so named since fragmented frames will not be forwarded.   The switch examines only the first 64 bytes of the frame for errors, since that is the part of the frame that will be damaged in case of a collision.  There is error checking, but it is not as thorough as Store-and-Forward.
+
+Keeping these three switching schemes straight is vital to your CCNA exam efforts, and it will help you in working with Cisco switches in the real world as well.  Keep studying!
+
+

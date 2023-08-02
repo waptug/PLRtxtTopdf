@@ -1,0 +1,47 @@
+Title: 
+Presentation Skills - The Right Graph
+
+Word Count:
+769
+
+Summary:
+Microsoft does not know a heckuva lot about presentation design, but one thing they do correctly in PowerPoint is to make available different types of graph so that you can match the graph type to the point you’re trying to make with your data. There are twelve different graph types available with PowerPoint 2000, but few of those styles work well in the low-resolution world of computer-based presentations. With few exceptions, here is how you want to use the following types:...
+
+
+Keywords:
+public speaking, presentations, presentation skills, presentation design
+
+
+Article Body:
+Microsoft does not know a heckuva lot about presentation design, but one thing they do correctly in PowerPoint is to make available different types of graph so that you can match the graph type to the point you’re trying to make with your data. There are twelve different graph types available with PowerPoint 2000, but few of those styles work well in the low-resolution world of computer-based presentations. With few exceptions, here is how you want to use the following types:
+
+• Pie Graphs for Share
+• Bar Graphs for Comparative Amounts
+• Line Graphs for Trends, Time
+
+Pie Graphs
+
+Pie graphs (commonly misnomered pie charts) are one of the more overused, and hence misused, types of graphs, primarily because they are so easy to make, and easy to make look good. They are misused when chosen to show amounts rather than share. The beauty of pie graphs is that they show so clearly what they are supposed to show, i.e., how much of the whole each element contributes. In most cases the actual amounts – in this case percentages – are actually secondary to the area of the slices in terms of telling the story.
+
+When you look at a pie graph with five or fewer slices, your brain can quickly ascertain which groups dominate. We often see pie graphs with more than 5 elements, but they then become more difficult to comprehend in short order. In most cases, consider whether your story needs to include details about all the players, or whether a group of insignificant contributors can be grouped as “others”.
+
+If you want to show how much volume each element contributes, rather than what fraction, you’ll want to use a bar graph.
+
+Bar Graphs
+
+To show relative sizes of different segments as well as the actual amounts, you’ll want to use a bar graph. Bar graphs are designed to show volumes against a y-axis that clearly delineates the units of measure. By having a series of bars next to each other, we can see how each element compares with the others as well as what absolute volume the element represents.
+
+There are variations on the bar graph, such as a stacked bar, where different elements are stacked on top of each other to form a series, or a 100% bar graph, where all the bars are the same height but are split to show what percent of the whole the volume reflects. In a presentation environment, esoteric options are best to be avoided.
+
+Line Graphs
+
+Line graphs have the unique advantage of speaking to inherent right-brain prejudices about information. That is, when typically conditioned western minds see a graph with no labeling, they automatically assign “volume” to the y-axis, with “up” meaning “more”, and a time-line to the x-axis, with the left side meaning most recent. Just as we read from left-to-right, rightward motion subconsciously means positive motion.
+You would want to use a line graph, then, to show a progression in amount from one point in time to another. The elevation of the line at any one point represents the quantity of the tracked data at that moment. Audiences, wanting to be the first-to-know, will automatically make assumptions about the types of values x-axes and y-axes represent. Don’t disappoint them.
+
+Data labels
+
+Graphs are a great way of making complex information easily understood. But graphs work best only when you properly integrate words, numbers and images. Whenever possible, label the elements of your graph directly on the elements themselves, rather than relying on the ever-popular clarity killer, the legend. Legends require too much effort on the part of listeners to discern exactly what each data point is. Just be certain your labels don’t clutter up the otherwise clear “picture” a good graph can make.
+
+If you have a number of graphs in your presentation, you’ll want to avoid dumping a data overload on your audience by over-labeling each one. In fact, in many cases you can tell your story forcibly enough by only the size of your data elements, without burdening their minds with numbers that they’re likely to forget by the end of the presentation. However, it’s also not a bad idea to have what we call “reference slides” that do contain all the data attached to the end of your main slide deck. To really impress your crowd, install hyperlinks to these slides from the ones in your main show, and when some vice-president makes a stink about wanting to know the whole story, zap to your total-info slide and give him what he wants. He probably won’t ask again.
+
+

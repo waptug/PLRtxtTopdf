@@ -1,0 +1,36 @@
+Title: 
+Cisco CCNA Certification Exam Tutorial:  Configuring And Troubleshooting VTP
+
+Word Count:
+426
+
+Summary:
+The VLAN Trunking Protocol seems simple enough, but it's full of details that can trip you up on the exam!  Learn these details and pass the CCNA exam with Chris Bryant, CCIE #12933.
+
+
+Keywords:
+cisco, ccna, vtp, vlan, trunking, protocol. pass, free, exam, certification, switch, bryant, ccie
+
+
+Article Body:
+Not only is your CCNA exam going to have questions on VLAN trunking protocol, almost any network that has more than one VLAN is going to have VTP running.   Whether you're planning on passing the CCNA exam or just brushing up on your networking skills, this VTP tutorial will help you learn the basics of this important protocol.
+
+VTP allows switches to advertise VLAN information between other members of the same VTP domain.  VTP allows a consistent view of the switched network across all switches.  When a VLAN is created on one switch in a VTP server, all other VTP devices in the domain are notified of that VLAN’s existence.  VTP servers will know about every VLAN, even VLANs that have no members on that switch.
+
+Switches run VTP in one of three modes.  In server mode, VLANs can be created, modified, and deleted on a VTP server.  When these actions are taken, the changes are advertised to all switches in the VTP domain.  VTP Servers keep VLAN configuration information upon reboot.
+
+In client mode, the switch cannot modify, create, or delete VLANs. VTP clients cannot retain VLAN configuration information upon reboot; they have to obtain this information from a VTP server.
+
+In real-world networks, this is generally done to centralize the creation and deletion of VLANs.  An interesting side effect of the server/client methodology is that if a VLAN is only to have ports on the VTP client switch, the VLAN must still first be created on the VTP server.  The VTP client will learn about the VLAN from the VTP server, and ports can then be placed into that VLAN.
+
+The third VTP mode is transparent mode. VTP switches in this mode ignore VTP messages.  They do forward the VTP advertisements received from other switches.  VLANs can be created, deleted, and modified on a transparent server, but those changes are not advertised to the other switches in the VTP domain.
+
+For switches running VTP to successfully exchange VLAN information, three things have to happen. I've listed them for you in the order that you'll see them in the real world.
+
+The VTP domain name must match.  This is case-sensitive.  "CISCO" and "cisco" are two different domains.  
+
+To distribute information about a newly-created VLAN, the switch upon which that VLAN is created must be in Server mode.
+
+Learning VTP isn't just a good idea for passing your CCNA exams, it's a skill you must have to be effective in configuring and troubleshooting VLANs.  I wish you the best in both of these pursuits!
+
+

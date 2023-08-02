@@ -1,0 +1,41 @@
+Title: 
+How Does a Token Ring Work
+
+Word Count:
+754
+
+Summary:
+Token Ring is a type of a local area network (LAN) technology first thought out by an IBM developer, Olof Söderblom, in the 1960s. Its US patents were first credited in 1981 and was later promoted by IBM throughout the early 1980s. Then, it was popularized by IBM when its Token Ring architecture was founded on active multi-station access units (MSAUs or MAUs) and the IBM Structured Cabling System. The Institute of Electrical and Electronics Engineers also standardized the Token Ring as IEEE 802.5. Although very successful in its early days, with the introduction of 10-BASE-T (Ethernet) and the EIA/TIA 5638 cabling standard, its popularity and name fell by the early 1990s. IBM tried to revive it through an intense marketing campaign as it tried to outdo Ethernet in terms of performance and reliability, but was unable to match its adequately priced competition. Today, IBM no longer supports, promotes, or uses the Token Ring.
+
+
+Keywords:
+Network, Nodes
+
+
+Article Body:
+Token Ring is a type of a local area network (LAN) technology first thought out by an IBM developer, Olof Söderblom, in the 1960s. Its US patents were first credited in 1981 and was later promoted by IBM throughout the early 1980s. Then, it was popularized by IBM when its Token Ring architecture was founded on active multi-station access units (MSAUs or MAUs) and the IBM Structured Cabling System. The Institute of Electrical and Electronics Engineers also standardized the Token Ring as IEEE 802.5. Although very successful in its early days, with the introduction of 10-BASE-T (Ethernet) and the EIA/TIA 5638 cabling standard, its popularity and name fell by the early 1990s. IBM tried to revive it through an intense marketing campaign as it tried to outdo Ethernet in terms of performance and reliability, but was unable to match its adequately priced competition. Today, IBM no longer supports, promotes, or uses the Token Ring.
+
+
+Brief History
+When it was tested in 1985 by IBM, the Token Ring transmitted data at 4 Mbit/s and eventually reached the 16 Mbit/s benchmark in 1989 with the 802.5 standard being extended to support it. Apollo Computer outdid IBM in 1981 when they introduced their Apollo Token Ring (ATR), by transmitting at a 12 Mbit/s speed and along with Proteon who introduced their ProNet-10 Token Ring in 1984 which reached 10 Mbit/s. Ironically though, IBM’s was not compatible with neither of the two’s Token Rings.
+
+
+Inside the Technology
+As anyone might be able to guess, as the name suggest, the Token Ring LAN is when stations are ordered in a ring topology. In this ring, stations will transmit data from one ring station to another with a control token in the middle circulating. To pictorially put, a Token Ring network is like a star, with loops going in and out from the middle of the station to the hubs at the outside. It is cabled with the IBM “Type-1” shielded twisted pair. However, these hermaphroditic connectors were not the most ideal cables, as they were quite huge, requiring a 3 x 3 cm space, and made up of complex and fragile plastic pieces.
+
+A Token Ring is basically a local area network protocol within the data link layer (DLL) of the OSI model. As its name suggests, it uses what is called a token, a three-byte frame, which revolves around a ring in a loop. Since each station repeats this procedure of using the token and the ring, and to its downstream neighbor, this is how access is established among the stations. A station would acquire the necessary token and then transmit it.
+
+Later, 4 Mbit/s and 16 Mbit/s speeds were standardized by the IEEE 802.5 working group. As technology developed, 100 Mbit/s was standardized and eventually, 1000 Mbit/s speed too in 2001, although none were bought in the market.
+
+Although the Token Ring LAN was deemed superior to the Ethernet at the beginning, tests showed otherwise. With the introduction of switched and faster versions of the Ethernet, the Token Ring began to show lags and eventually fell behind in performance and reliability too.
+
+
+Inserting the Token Ring
+There is a five phrase ring insertion process before a station can be a part of the ring network. If one of the steps are not done properly, there could be an error.
+&#61548;	Lobe Check (Phrase 0): The station that is to be placed in the network will first perform a lobe media check. It is wrapped at the MSAU and then send and receive 2000 test frames to see that there is no error during these transmissions.
+&#61548;	Physical Insertion (Phrase 1): A 5 volt signal will be sent by the station to the MSAU. This opens up the relay.
+&#61548;	Address Verification (Phrase 2): Then, the station will transmit MAC frames to the destination address field of the Token Ring frame using its own MAC address. If everything is normal (frame is returned with the address is copied), the station is to participate every seven seconds in a ring poll process. This process is the time when the station fully identifies itself as a portion of the MAC management functions.
+&#61548;	Participating in ring poll (Phase 3): Now, the station will learn its Nearest Active Upstream Neighbor (NAUN). Then, its other downstream neighbors will know of its address, which also completes the creation of a new ring map.
+&#61548;	Requesting Initialization (Phrase 4): Last but not least, the station will send out a request to the parameter server to be correctly configured for the ring. This is done through a special address known as the Token Ring bridge.
+
+

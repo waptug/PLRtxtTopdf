@@ -1,0 +1,38 @@
+Title: 
+Protect Your PC Against Catastrophe
+
+Word Count:
+452
+
+Summary:
+Backing up the hard drive on your home computer is like flossing your teeth--everyone knows they should do it but few people do so regularly.
+
+
+Keywords:
+Protect Your PC Against Catastrophe
+
+
+Article Body:
+Backing up the hard drive on your home computer is like flossing your teeth-everyone knows they should do it but few people do so regularly. 
+
+According to a recent study from Dallas-based Parks Associates, a market research and consulting company, more than one-third of consumers don't back up their digital documents and content at all, putting nearly 30 million households at risk for catastrophic data loss. By postponing the backup of your computer's hard drive, you may risk the loss of files that represent irreplaceable memories such as baby photos or wedding videos, digital music collections or critical data such as financial records or tax returns.
+
+Hard drives are the computer component most likely to fail. It is not a question of if a hard drive will fail, but when. The cost of recovering a crashed drive is remarkably expensive, typically falling between $600 and $4,000-depending on the extent of work involved and the urgency of turning around the recovery.
+
+M. Fahim Siddiqui, Chief Executive Officer, Sereniti, Inc., a home and small office computer networking and security solutions provider, recommends taking the following steps often to secure files on your computer:
+
+&#8226; Select a backup system-Files can be backed up by copying them to an external storage device, commonly called Network Attached Storage or NAS, to a CD-ROM, DVD or a USB memory device. 
+
+&#8226; Back up regularly-The more often you download music, photos or video or save documents, the more frequently you should back up the computer. 
+
+&#8226; Back up all your files-Users often back up only a small set of files, without realizing how much valuable information is stored on the entire hard drive; for early backups, users should ensure that the entire hard drive is copied.
+
+&#8226; Make sure your backup is secure-Users should check their backup device regularly to make sure that their archives are complete and useable. 
+
+&#8226; Use an automated backup device. Managing backups can get complicated, since it requires managing schedules, file locations and storage; to make backups easy, use an automatic backup device. 
+
+&#8226; System restore-Learn how to do a "system restore" on your computer, which, in the event of a major problem, may enable you to retrieve data on your machine by restoring the programs, settings and files on it to the way they were days or weeks earlier. WindowsXP includes this within the Accessories programs. 
+
+One way to expedite the backup of single or multiple home computers is to have a central backup system that is attached to all the computers in the home. Sereniti's EasyCare360 is a subscription PC and network support service that includes 80GB of network storage with automatic backup, wireless router and secure Internet Gateway that can automatically back up any computers on the home network.
+
+

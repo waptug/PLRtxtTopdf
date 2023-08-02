@@ -1,0 +1,42 @@
+Title: 
+How to Choose The Right Computer
+
+Word Count:
+1097
+
+Summary:
+There are only a few main parts of the computer that truly make the difference between the others.  As long as when you are looking for the right computer to buy, you pay attention to these parts and see what they are, and how fast they are, you will end up with the computer system you really want and need, instead of another computer that you will be looking at upgrading in the near future.  Find out how to choose and pick the right computer for your specific and individual needs.
+
+
+Keywords:
+computer, choose computer, computer review, notebook computer, computer system, computer help, understand computers
+
+
+Article Body:
+How To Choose:
+
+There are only a few main parts of the computer that truly make the difference between the others.  As long as when you are looking for the right computer to buy, you pay attention to these parts and see what they are, and how fast they are, you will end up with the computer system you really want and need, instead of another computer that you will be looking at upgrading in the near future.
+
+The Processor:
+
+All computers only understand 1's and 0's which is the binary language.  The processor does the calculations with these 1's and 0's to give you your windows, icons, folders, text, pictures, etc..  The faster your processor's speed is, the faster it can do these calculations, the less wait time or "lag" you will have.  Now that doesn't mean that you have to get the latest and greatest of processors out.  It just means that you have to make a decision based on understanding what that number next to the GHz means.
+
+If you are a student or you are going to be using this computer for such purposes as: research, surfing the web, playing card games, word processing, book keeping, or anything of the like, it is recommended that you get a processor that is accommodating for these activities.  You definitely do not need anything super fast, but you do not want to get too low end either, otherwise you will be left in the technological dust when the new processors come out and everyone you know upgrades.  Typically a 2.6Ghz processor is as low end as you want to go, but with the new (M)obile technology that laptops have out this number changes.  If you see "Mobile" or a "M" anywhere in the processor area when you are looking at a laptop, the low end in this case is around 1.7GHz.  
+
+If you are a gamer or a power user on the computer, or plan on being one, you will want to go with something a bit more powerful.  Recommendation is definitely something over 3.0Ghz or 2.0Ghz(Mobile Technology) as a low end.  If you are a gamer or power user you will want to be in a high end computer to best utilize the speed capabilities of your programs and games.  This too does not necessarily mean you need the latest and greatest processor out there, but you do want something that will give you the power you need without killing your wallet, but also not leaving you having to upgrade as soon as the newest games or high-end programs come out.  A good rule of thumb is to look around and compare a few different computer systems, and look for the best speed you can find, just before the price jumps up some crazy amount just for another 0.2 or 0.4Ghz.
+
+Memory:
+
+What is memory anyways?  RAM or Random Access Memory is a type of computer storage where the content can be accessed in any order.  It is primarily used in computer systems to hold information that you or your computer are actively using or actively changing.  When you run a program or a game, all the information about that program or game are loaded into memory, but only certain parts of it are needed at a time.  The computer sorts through the memory and pulls out this information as needed.  The more memory you have to work with, the better off you are.  Most companies now a days recommend a minimum of 256mb.  This is only if you are on an extremely tight budget.  The minimum of today is 512mb of memory, but it is recommended to get 1GB.  Not being able to run a program or a game due to not enough memory, is one of the greatest heart breakers.  Memory is fairly cheap in today’s computer market, so it is not worth going the cheap route in this area just to come up short later.
+
+
+Hard Drive:
+
+No matter what you have heard, you can never have enough hard drive space.  A few years ago people would laugh when someone bought a 1GB hard drive, saying that they would never be able to fill that in a lifetime.  Then people started getting 10, 20, even 40GB hard drives, thinking the same thing, they will never be able to fill up that much space.  Well let’s face it, when it comes to our loved ones pictures, and our favorite songs, or videos, we as humans are packrats when it comes to storing things on the computer.  We have the ability to burn things off on CD or even DVD now, but we want our “favorites” to be easily accessible.  The computer itself uses some of this hard drive space to be able to function, with what is known as a swap file.  Your computer will claim a section of your hard drive to use as “virtual memory” so it can access all your commonly used information faster than just your memory(RAM) alone.   When choosing the size of your hard drive, remember this, because you will need enough storage space for all your programs, all your music, movies, games, pictures, plus the amount that your computer uses automatically.  Make sure that you pay attention to the “rpm” of the drive or rotations per minute.  This is how fast the information is read from the hard drive or written to the hard drive.  This speed is generally either 5400, 7200, or 10000.  The faster the rpm speed the better, but choose this speed based on how you are going to use your computer.  If you are using the computer for games, video editing, or 3D modeling, you definitely want your hard drive to be as fast as possible.
+
+
+Video Graphics:
+
+The graphics capabilities of your computer is a very important factor to take into consideration, especially if you are to be doing gaming, 3D modeling, or video editing.  All graphic cards have memory of their own, which enable them to process video graphics and render them to the screen as fast as possible, without slowing your computer system down by using some of its precious memory.  Most computers today from major manufacturers have built in graphics cards.  These can be upgraded if your needs call for it, but unless you are doing something that requires a major amount of video graphic capabilities, 64-128MB of graphic memory should be an ample amount.  For the extreme gamers and 3D artists out there, it is recommended that you get nothing less than 256MB of video memory for optimal performance.
+
+

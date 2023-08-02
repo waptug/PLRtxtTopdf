@@ -1,0 +1,34 @@
+Title: 
+6 Steps You Can Take To Speed Up Your Computer’s Performance
+
+Word Count:
+652
+
+Summary:
+We live in a fast paced world and we’re always looking for the fastest way to get things done. We barely have time to wait for our burger at the local fast food restaurant, our coffee to brew, our microwave popcorn to pop, so who has time to wait around for a slow computer? Barring adding more RAM to your computer, there are 6 steps you can take to speed up your computer’s performance. Most of these steps will allow you to speed up your computer, free of charge since they are applications alr
+
+
+Keywords:
+speed up computer, increase computer speed, speed up computer free
+
+
+Article Body:
+We live in a fast paced world and we’re always looking for the fastest way to get things done. We barely have time to wait for our burger at the local fast food restaurant, our coffee to brew, our microwave popcorn to pop, so who has time to wait around for a slow computer?
+
+Barring adding more RAM to your computer, there are 6 steps you can take to speed up your computer’s performance. Most of these steps will allow you to speed up your computer, free of charge since they are applications already installed on your computer.
+
+One of the first steps you should take is to empty the Recycle Bin. It’s easy to do. Just point your cursor to the Recycle Bin icon on your desktop, right-click, and choose “Empty Recycle Bin.” 
+
+Next, open up your Internet Explorer, go to Tools, Internet Options. Click on “Delete Cookies,” then on “Delete Files.” In the window that appears, check “Delete all offline content” and click OK. Once that’s done, click OK to close the Internet Options window, and close your Internet Explorer.
+
+Those two are steps are the quickest, and simplest ones so that’s why we got them out of the way first. Next, we’ll be conducting a Disk Cleanup. To do this, click on Start, All Programs, Accessories, System Tools, Disk Cleanup. The disk cleanup function will now begin calculating how much space you will be able to free up. Once it finishes, it’ll give you a list of files to delete. It should already have some files checked, but you can go through the list and check off all the files you want to delete, then click OK. 
+
+Now it’s time to do a disk defragmentation. This can be a long process so you should probably set this up during a time when you’ve got other things going on. For example, set it up, then go watch your favorite TV show, or go mow the lawn, or go workout. You get the idea. To begin go to Start, All Programs, Accessories, System Tools, Disk Defragmenter. Click Analyze. If you’re lucky, you’ll get the “You do not need to defragment this volume” call-out, but more than likely, you’ll have to click on “Defragment.” If so, click on it, go do something else and come back in an hour or two. 
+
+Once that’s done, it’s time to run a spyware scan. Most people don’t realize how easy it is to get infected with spyware, so running periodic scans is highly recommended. You can use any anti-spyware program you choose. Just be aware that no one program gets rid of everything. To play it safe, you should run at least three different programs. You might be surprised by what they find. You may have had spyware running on your computer and not even know it. Once the scans are complete, and all that spyware is taken care of, it’s time for the last step.
+
+This last step is to run an anti-virus scan. Hopefully you have an anti-virus program installed on your computer. If not, I highly recommend you get one as soon as possible. Once the anti-virus program is set, go ahead and run it. This could take anywhere from 20 minutes to a couple hours depending on how many files you have on your hard drive so once again, set it, and then go do something else. Come back in about an hour.
+
+Once all the steps are complete. Restart your computer and you’ll be surprised at how completely nimble it now feels. It’s a good idea to follow these 6 steps at least once per week (some steps you can even set up to be done automatically). By doing this, you will keep your computer performing almost like it did when you first bought it.
+
+

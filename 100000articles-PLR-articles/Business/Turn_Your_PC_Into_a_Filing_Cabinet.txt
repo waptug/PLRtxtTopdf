@@ -1,0 +1,71 @@
+Title: 
+Turn Your PC Into a Filing Cabinet
+
+Word Count:
+982
+
+Summary:
+<p> It'll get you closer to the dream of a paperless office </p>
+<p> Guidance for Workplace PC Users </p>
+
+
+Keywords:
+Small Business Ideas, Small Business Start Up, Small Business Software
+
+
+Article Body:
+<p> It'll get you closer to the dream of a paperless office </p>
+<p> Guidance for Workplace PC Users </p>
+<p>One of the big dreams of PC aficionados 20-plus years ago was the paperless office. Why would you need paper if you had everything saved on a disk? So much for that dream. We're a long way from saving the forests. <br>
+  <br>
+But here's my goal for you today: I want to convince you that, to a large degree, your office filing cabinets are wasting space. Paper is a pain in the neck. Theoretically, you could get rid of every scrap of it. You can store a record of everything you do in your computer. And finding it is easier than digging through a filing cabinet. <br>
+<br>
+Let's get started. <br>
+<br>
+<strong>Step 1: Understand Windows Explorer </strong></a><br>
+There are two parts of the Microsoft Windows operating system that you really should understand. One is the desktop. That's what you see when you turn on the computer. You probably have a grip on that already. <br>
+<br>
+The other is Windows Explorer. That's where all your files are listed. <br>
+<br>
+You use the Start button to find Windows Explorer. For Windows Me and XP, click Start&gt;Programs or All Programs&gt;Accessories&gt;Windows Explorer. If you're still using Windows 98, click Start&gt;Programs&gt;Windows Explorer. <br>
+<br>
+When you open Windows Explorer, you'll find the screen is split into left and right panes. The stuff on the left is folders; the things on the right are subfolders or files. If you click once on a folder, the subfolders and files within that folder are displayed on the right. <br>
+<br>
+The folder section on the left is called a "tree." It could be better described as an "upside-down tree." Near the top, you'll find the root folder, usually C:. Everything grows from that. The most important thing under C: is My Documents. That's where you store your documents. The other thing you should be aware of is Program Files. <br>
+<br>
+When you install an application — Microsoft Word or whatever — it will normally go under Program Files. Some programs install directly under C:, but they are the exceptions. So, if you ever need to dig into the folders in Microsoft Word or another program, you'll probably find them under Program Files. <br>
+<br>
+<strong>Step 2: Reclaim the My Documents folder </strong></a><br>
+Microsoft includes more than one My Documents folder in Windows Explorer. Why? Beats me. But you could use any My Documents folder you find on your drive. To avoid confusion, just use one. I'll focus on the one under C:. <br>
+<br>
+You can set up My Documents the way you do a filing cabinet. Think about that cabinet: Your top drawer might be "Important Letters." Inside, you might have letters to your customers, arranged by folders. Each customer would have a folder. Your second drawer could be marked "Invoices to Customers." Again, the folders inside would be individualized for your customers. <br>
+<br>
+So here's how you set up My Documents the same way: <br>
+<br>
+Click once on My Documents, highlighting it. Click File&gt;New&gt;Folder. Give the new folder the name "Important Letters." Be sure the Important Letters folder shows on the left side, under My Documents. <br>
+<br>
+Now, click once on the Important Letters folder. Click File&gt;New&gt;Folder. Give the new folder the name of a customer. Do this for each of your customers. <br>
+<br>
+Follow the same procedure for invoices. Create a new folder under My Documents and name it "Invoices to Customers." Then create subfolders for Invoices to Customers, and give each the name of a customer. <br>
+<br>
+You can create as many folders under My Documents as you like. And you can create lots of subfolders. In fact, you can add subfolders to subfolders to subfolders, if you like. This method of filing is flexible. <br>
+<br>
+Paper documents you receive, as opposed to those you generate, are more problematic. If you have a scanner, you can scan them into your system. Otherwise, you might want to continue to file them. The same is true of newspaper clippings and other pieces of paper. They can be scanned if you want to digitize everything. But you might find traditional filing handier. <br>
+<br>
+<strong>Step 3: What hardware do I need? </strong></a><br>
+You probably have enough space on your hard drive to store the Library of Congress. Hard drives have grown exponentially in recent years. Unless you're storing huge video files, you probably don't have a space-limitation issue. <br>
+<br>
+It's easy to check your space situation. Click Start and My Computer. Right-click C: and click Properties. Your hard drive information is on the General tab. <br>
+<br>
+Checking mine, I find that I have 4.76 gigabytes of data. Much of that is Windows and other applications. I also have thousands of personal files, because I store everything I write. Even so, I have 33.5 GB of empty space. This hard drive will turn to dust before I fill it! <br>
+<br>
+Meanwhile, assuming you commit your business life to your hard drive, you must protect it. Do that with data backups. Then, if a hard drive fails, you can restore the data to a new hard drive. <br>
+<br>
+Hard drives are very reliable today. But you should never take chances with your business. The world is already tough enough! <br>
+<br>
+If you don't feel comfortable diving in, start slowly. Put just a few of your files under My Documents. I think you'll find Windows Explorer easy to use. <br>
+<br>
+You may never drive paper out of your life. But you can certainly reduce it, and maybe save a tree or two. <br>
+</p>
+
+

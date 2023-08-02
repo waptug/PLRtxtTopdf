@@ -1,0 +1,54 @@
+Title: 
+Recovery From PC Failure Using Windows XP's Restore Point
+
+Word Count:
+636
+
+Summary:
+Have you ever done something to make an improvement and later regretted it?It would be awesome to be able to go back in time and undo the the thing that were supposed to make an improvement.
+
+While life in general will not allow us to return to an earlier time to make changes, we computer users do have such an option should we experience problems with our Windows XP operating systems.
+
+If you update or install the wrong device driver for your video card, and you delete ac...
+
+
+Keywords:
+computer,internet,software,technology,electronics,repair
+
+
+Article Body:
+Have you ever done something to make an improvement and later regretted it?It would be awesome to be able to go back in time and undo the the thing that were supposed to make an improvement.
+
+While life in general will not allow us to return to an earlier time to make changes, we computer users do have such an option should we experience problems with our Windows XP operating systems.
+
+If you update or install the wrong device driver for your video card, and you delete accidentally delete a critical Windows file, so what.
+
+You can simply use Windows XP's Restore Point feature and, Tada, you're back on track and recovered that deleted file.
+
+Restore Points are snapshots of the state your operating system was in during that time.Windows XP automatically creates a restore point when it senses a major change in your operating system.And Restore Points are created every 24 hours as a safety measure.But you can create a Restore Point manually any time you feel there is a need.
+
+If you have a change of some sort that causes problems with the operating system, you can tell Windows XP to revert to any Restore Point established before the problem occured.After the rollback, every change in the operating system that happened after that Restore Point is eliminated.
+
+Restore Points are generally used when you experience such pc problems as extremely slow performance of the system. Your computer responds far more slowly that it did before you installed or updated something.
+
+Other times to run Restore Point is when your system stops responding after an update or installation. Be sure to create a Restore Point before making any significant change to your computer's software or configuration.
+
+To set a Restore Point, click on Start, point to All Programs, click on Accessories, System Tools, and then click on System Restore.When the System Restore windows appears, click on the button labeled "Create A Restore Point" and click Next.
+
+Enter a description of the restore point, something like "Before scanner device driver install" and click the Create button.A notification will inform you that a Restore Point was made.Now click the Close button and you're all set.
+
+Reverting to a Restore Point is as easy as create one.Click on Start, point to All Programs, click Accessories, System Tools, and System Restore.When the System Restore window appears, click on the "Restore My Computer To An Earlier Time" and then click on the Next button.
+
+Choose the date on which you set the Restore Point and click the Next button.Review the information presented and save any open files.Shut down any other programs that may be running.
+
+Click on the Next button and now your computer will restart. As it restarts, it will present a message informing you of the restore point. Click OK and you're done.
+
+After reading all about setting and reverting to restore points, you should make a known restore point if you have not done so already.Whatever you do after reading this article, don't say I'll get to it soon.Familarize yourself with this feature and create a restore point one.
+
+You should try Restore Point and see how it works before you need it.Create a Restore Point now and update something.You can update Windows Media Player for example.
+
+After the update or the installation of a program,wait a day or so and go back to Restore Point.Revert to the Restore Point you created and see if the old version of Windows Media Player comes back.Or see if that old device driver is present.
+
+Doing a simple task like this can and will boost your computer skills and give you much more confidence in yourself and the Windows XP operating system.
+
+

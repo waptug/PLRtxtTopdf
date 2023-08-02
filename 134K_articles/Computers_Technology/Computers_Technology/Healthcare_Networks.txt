@@ -1,0 +1,26 @@
+Title: 
+Healthcare Networks
+
+Word Count:
+343
+
+Summary:
+Internal networks are important in many industries, but it is especially important that healthcare networks are reliable and fast.
+
+
+Keywords:
+used cisco, cisco routers, cisco switches, healthcare networks, hospital i.t.
+
+
+Article Body:
+Healthcare organizations increasingly require high performance networks to give medical professionals the information needed to make rapid and accurate diagnoses. Digital patient records and medical imaging drive bandwidth higher as insurance companies and legislators continue to pressure healthcare providers to reduce costs. Data network solutions from NHR enable healthcare organizations to deliver higher quality, more accessible, and more economical care to meet their clinical and business objectives.
+
+Expanding & Upgrading Networks on a Budget - Modern healthcare relies on a burgeoning supply of digital diagnostic images. Ultrasounds, X-rays, PET scans and MRIs quickly grow to tens of mega-bytes per record and bog down network traffic. Pre-owned networking equipment from NHR allows health systems to build the state-of-the-art architecture they need without draining resources.
+
+Regulatory Compliance - It is imperative for Healthcare IT professionals to comply with HIPAA and other government privacy regulations while utilizing the latest e-health technologies and maintaining a top-notch security program under tight budget constraints. Security and integrity of patient records requires a robust network, and NHR places world-class technology within the budget.
+
+Downtime Not an Option for Critical Networks - Healthcare professionals command real-time access to digitized patient information from any location, day or night.  With lives on the line, network downtime is not an option. Substantial discounts on pre-owned equipment from NHR make redundant configurations a financial possibility. Onsite sparing strategies offer the ultimate in immediate recovery. NetSure  maintenance provides 24x7 support and next-day hardware replacement at a fraction of manufacturer maintenance costs. These affordable solutions are ideal for protecting distribution or access level equipment - keeping every hospital and every physician connected.
+
+Collaboration - Having a high-performance core facilitates multi-specialty or multi-radiologist collaboration so the right people are connected with patient information in order to improve the time-to-treatment ratio and to facilitate access to the right specialists. And what about online patient collaboration? Forward thinking health systems are exploring Telecare models that would allow patients to use online monitoring systems to upload data to their medical records. NHR's expertise and affordable solutions help healthcare organizations innovate their systems and add new information resources.
+
+

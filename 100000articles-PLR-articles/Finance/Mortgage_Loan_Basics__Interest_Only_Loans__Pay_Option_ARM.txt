@@ -1,0 +1,176 @@
+Title: 
+Mortgage Loan Basics: Interest Only Loans, Pay Option ARM
+
+Word Count:
+1794
+
+Summary:
+To understand loans and mortgages we need to understand loan limits first. If your loan amount exceeds the amount below, you will qualify for a Jumbo Loan, which carries higher interest rate.
+
+
+Keywords:
+mortgage loan basics, finance basics
+
+
+Article Body:
+To understand loans and mortgages we need to understand loan limits first. If your loan amount exceeds the amount below, you will qualify for a Jumbo Loan, which carries higher interest rate.
+
+One-Family (single family homes) $417,000 
+Two-Family(duplex) $533,850 
+Three-Family (triplex) $645,300 
+Four-Family(fourplex) $801,950
+
+FIXED Loans:
+
+30 Year Fixed Mortgage Rates 
+This loan program is fixed for 30 years. Your interest rate will not change for 30 years. This is ideal for people who plan to stay at their present property for a long period of time.
+
+20 Year Fixed Mortgage Rates 
+Fixed for 20 years. Your payment will be higher than 30 year fixed loan becuase your loan term is only for 20 years. Interest rate will not change for 20 years.
+
+15 Year Fixed Mortgage Rates 
+15 year fixed loan has a loan term of 15 years and will not change during this period. Your monthly payment on this loan program will be much higher than 20 years fixed or 30 years fixed. Use this loan program if you plan to sell your home in 5-8 years. Interest rate will not change for 15 years.
+
+ARM (Adjustable Rate Mortgage)
+
+ARM Loans are fixed for a certain period of time, where after that period ARM loan becomes an adjustable loan. How do they work?
+
+Each ARM Loan Program has these options:
+
+1) Index: Most comon index-LIBOR
+
+2) Margin: Is given to you by your lender, and it is the difference between the index rate and the interest charged to the borrower
+
+For example 5/1 ARM. This loan is fixed for 5 years after which in 6th year it becomes an adjustable loan. Your loan officer will tell you what your index is and what your margin is. Usually 5/1 arm is tied to 1-year treasury index and margin is around 2.00%-3.00%
+
+Your index + margin = Fully Index rate . Your new note rate (interest rate) after 5th year.
+
+What about the 6th year? What would your payment be?
+
+Let's say that your loan officer told you that your margin is 2.5% with 1 year treasury index. You will have to look up 1 year treasury index for a specific month.
+
+1 year treasury as of Oct.2005 is 4.18, and you know that your margin is 2.5%. Therefore you new interest rate is 1 year treasury 4.18% (index) + 2.5% (margin) = 6.68% for the begining of 6th year.
+
+Index rate are move on monthly basis, therefore your payment may flunctuate each month. In most cases banks wills end you a statement advising you that your rate will change.
+
+3) To protect consumers from high index rates, lenders implemented a CAPS.
+
+An example of this is a 2/6 cap, which allows the interest rate on your ARM loan to go up or down by no more than two percent every adjustment period, and has a total limit of six percent for cumulative changes. Therefore a 2/6 cap on a 5% ARM will allow a maximum rate (6 + 5%) of no more than 11%.
+
+In some cases you will see 2/2/6, which means 2% adjustment with 2 year prepayment penalty and total of six percent of cumulative changes.
+
+4) With an arm you can have either a fixed rate or you can choose an Interest Only structure loan.
+
+1/1 ARM Mortgage Rates 
+1 year ARM (Adjustable Rate Mortgage) is fixed for 1 year and in 2nd year it becomes an adjustable.
+
+3/1 ARM Mortgage Rates 
+3 year ARM (Adjustable Rate Mortgage) is fixed for 3 years and in 4th year it becomes an adjustable.
+
+5/1 ARM Mortgage Rates 
+5 year ARM (Adjustable Rate Mortgage) is fixed for 5 years and in 6th year it becomes an adjustable.
+
+7/1 ARM Mortgage Rates 
+7 year ARM (Adjustable Rate Mortgage) is fixed for 7 years and in 8th year it becomes an adjustable.
+
+10/1 ARM Mortgage Rates 
+10 year ARM (Adjustable Rate Mortgage) is fixed for 10 years and in 11th year it becomes an adjustable.
+
+Interest Only Loans
+
+For example, if a 30-year fixed-rate loan of $100,000 at 8.5% is interest only, the payment is .085/12 times $100,000, or $708.34. This is an example of interest only payment.
+
+Each loan payment consists of Interest and Principal. Here you will be paying an interest each month and your principal will be adding to your balance, thus increasing it. You may also pay both principal and interest.
+
+If a lender offers you an Interest only Loan these loans are tied to an index just like ARM loans.
+
+MTA Index: The MTA index generally fluctuates slightly more than the COFI, although its movements track each other very closely.
+
+. 1 Month MTA ARM Mortgage Rates 
+. 3 Month MTA ARM Mortgage Rates 
+. 6 Month MTA ARM Mortgage Rates 
+. 12 Month MTA ARM Mortgage Rates
+
+COFI Index: This index rise (and fall) more slowly than rates in general, which is good for you if rates are rising but not good for you if rates are falling.
+
+. 1 Month COFI ARM Mortgage Rates 
+. 3 Month COFI ARM Mortgage Rates
+
+LIBOR Index: LIBOR is an international index, which follows the world economic condition. It allows international investors to match their cost of lending to their cost of funds. The LIBOR compares most closely to the CMT index and is more open to quick and wide fluctuations than the COFI.
+
+. 6 Month LIBOR ARM Mortgage Rates 
+. 12 Month LIBOR ARM Mortgage Rates
+
+Pay Option ARM Loan
+
+Pay Option ARM in a new loan program allowing customers to choose from up to 4 different payments. This loan program is part of an ARM, but with added flexibility of making one of the 4 payments.
+
+Your intial start rate varies from 1.000% to anywhere around 4.000%. The intial start rate is held only for one month, after that interest rate changes monthly.
+
+4 major choises are:
+
+1) Minimum payment: Fot the first 12 months interest rate is calculated using the start rate after that interest rate is calculated annually.
+
+Example:
+
+Loan Amount: $200,000.00
+Initial Rate: 1.25%
+Index: 3.326 (MTA as of October 2005)
+Margin: 2.75%
+Payment Cap: 7.5%
+Fully Indexed Rate: 6.076% (ndex + margin )
+
+Minimum Payment Changes: 
+Year 1 $666.50 Minimum Payment 
+Year 2 $716.49 = $666.50 + 7.50%
+Year 3 $770.22 = $716.49 + 7.50%
+Year 4 $827.99 = $770.22 + 7.50%
+Year 5 $890.09 = $827.99 + 7.50%
+
+The Option ARM's 7.5% payment cap limits how much the payment can increase or decrease each year, except for every fifth year (beginning in the 10th year on certain programs), when the cap does not apply. In the event your balance exceeds your original loan amount by 125% (110% in N.Y.), the payment amount may change more frequently without regard to the payment cap.
+
+Becasue you are paying "minimum payment" this option will defer a payment of an interest which will be added to your balance.
+
+Minimum Payment Adjustment Period: The minimum payment is usually set to 12 months, unless negative amortization limit is reached.
+
+Minimum Payment Cap: This is a limit on how much the minimum payment can change. Your payment cap will be 7.5% for the first five years. On your next payment due, your minimum payment cannot increse or decrease more than 7.5%. If it does than a loan is recast.
+
+Recast (Recasting) or re-calculating your loan is a way of limiting negative amortization (neg-am). Option ARM's recast every 5 years. When the loan is recast, the payment required to fully amortize the loan over the remaining term becomes the new minimum payment
+
+2) Interest Only Payment: With Interest Only you will avoid deffered interest, becausue you are paying principal and interest. If you pay only Interest or Principal your loan balance will increase because you are adding either pricipal payment or interest payment to your loan balance, thus leading towards Neg-Am Loan.
+
+Your payment may change on monthly basis based on ARM index (LIBOR,COFI,MTA).
+
+3) Fully Amortizing 30-Year Payment: It's calculated each month based on the prior month's interest rate, loan balance and remaining loan term. When you choose this option, you reduce your principal and pay off your loan on schedule.
+
+4) Fully Amortizing 15-Year Payment: It is calculated from the first payment due date.
+
+Negative Amortization Loan (Neg-Am Loan) 
+
+Negative amortization loans calculate two interest rates. The first is called the payment rate the second is the actual interest rate. The true interest rate is calculated as simply the index plus the margin without periodic caps. Borrowers are given a choice of which rate to pay. Thus advertisers of negative amortization loans often refer to these loans as "payment option" loans.
+
+A loan that allows negative amortization means the borrower is allowed to make a monthly mortgage payment that is less than the interest actually owed during that month. For example, let's say we have a $200,000 loan with an adjustable rate that's currently sitting at five percent. Simple interest on this loan is easy to calculate. Multiply the interest rate by the loan amount and you have the annual interest of $10,000. Divide $10,000 by 12 months and the monthly "interest only" payment is $833.33 or simply here is the formula for your monthly payment for interest only loans: loan balance x interest rates / 12 = monthly payment.
+
+Now, let's say that there's a provision in the loan documents that allow the borrower to make a minimum payment based on a "payment rate" of four percent. So your lowest payment would be $666.67 because the "payment rate" is based upon four percent, not the actual interest rate, which is five percent.
+
+So if you make make the lowest allowable payment you are actually losing $166.67 in equity. The balance of the loan increases to $200,166.67.
+
+Exotic Mortgage
+
+You may have heard this term before. So what are they?
+
+The latest and most exotic mortgages out there include:
+
+1. The 40-Year Mortgage: This is similar to a 30-year fixed rate mortgage, except the payment is being stretched over an extra 10 years. The lender will charge a slightly higher interest rate, as much as half a percentage point.
+
+2. The Interest-Only Mortgage: With an interest-only mortgage, the lender allows the borrower to pay only the interest for the first so many years of a mortgage. After the grace period, the loan essentially becomes a new mortgage with the interest and principal being stretched only the remaining years. Please refer above for Interest Only Loans.
+
+3. The Negative Amortization Mortgage: This interest-only type of mortgage allows a buyer to pay less than the full amount of interest. The difference between the full interest payment and the amount actually paid is added to the balance of the loan. Please refer above for more information.
+
+4. The Piggy Back Mortgage: This is actually two mortgages, one on top of the other. The first mortgage covers 80% of the property's value. The second covers the remaining balance at a slightly higher interest rate.
+
+5. 103s and 107s: You may not need to save for a down payment at all. You could borrow 3% or 7% more than your home is even worth. These loans give you the option of borrowing money needed for closing costs and moving costs. You can include it all in the mortgage.
+
+6. Home Equity Line of Credit: These aren't just for those who own a home! They are commonly known as HELOCs, and they can finance an original home purchase using a credit line instead of a traditional mortgage. HELOCs are variable-rate mortgages tied to the prime rate. If you use this mortgage as your first mortgage, all of the interest is tax deductible.
+
+

@@ -1,0 +1,42 @@
+Title: 
+The Inside Picture Of A Digital Camera
+
+Word Count:
+907
+
+Summary:
+Electronics greatest technological breakthrough in this modern age is the digitization of analog signals. Digital information, which is represented by 1s and 0s, is formed upon successful conversion of analog information, which is represented by a fluctuating wave. This conversion of analog to digital has made the world of science and technology make great advances into the field of computers, Internet, satellites, and space research.
+
+On the consumer domain, the benefits o...
+
+
+Keywords:
+digital camera, photo, photographic camera
+
+
+Article Body:
+Electronics greatest technological breakthrough in this modern age is the digitization of analog signals. Digital information, which is represented by 1s and 0s, is formed upon successful conversion of analog information, which is represented by a fluctuating wave. This conversion of analog to digital has made the world of science and technology make great advances into the field of computers, Internet, satellites, and space research.
+
+On the consumer domain, the benefits of this technological breakthrough can be witnessed in consumer electronic products like TVs, computers, cameras, camcorders, CDs, DVDs, etc. Digitization gave rise to microchips, which could be programmed to perform any task. With the utilization of the microchip, the digital camera was born.
+
+In a digital camera, the lens focuses the image, the shutter allows the entry of light reflecting from that image into the camera, for a fraction of a second, and the aperture determines the quantity of light allowed inside the camera. When the light enters the camera, it does not fall on a photographic film as it does in a conventional camera, rather it falls on an image sensor.
+
+The image sensor is an electronic device, a semiconductor, made up of photosites that measures the light intensity. The photosite can only measure the intensity of light and cannot recognize any color. To overcome this, each photosite is covered with a color filter of red, or a green, or a blue color according to a pattern known as the Bayer pattern. Since the human eye is twice sensitive to the green color, the number of photosites having green color is twice the number of photosites having red or blue color. Millions of photosites are covered by this Bayer pattern. Each color occupies a single photosite, which is known as a pixel.
+
+The more the number of pixels, the greater is the amount of detail that can be captured. The detail of the image is called as resolution, which is determined by the quality of the lens and the number of pixels in the image sensor. High-end digital cameras have about 12 million pixels, whereas professional digital cameras have about 20 million pixels.
+
+The information of the pixels is recorded as electrical analog signals, is amplified, and then is fed into a converter, which converts the amplified analog signals into digital binary numbers, with respect to the color information of each pixel. These digital binary numbers are then fed into a computer chip residing inside the camera. The computer chip analyzes the digital binary numbers that have been made as per the color of individual pixels. This information is known as RAW data. For analysis, the computer chip subjects this RAW data using a technique known as demosaicing.
+
+In this technique (demosaicing), the pixel color is determined as per the color of the neighboring pixels. For example, if a red color pixel is surrounded by blue and green pixels, then that red color pixel is treated as white color, since the color white is a combination of the colors, red, blue, and green. After demosaicing is complete, the image is further subjected to the photographer`s settings of the camera, like adjustments made for brightness, color saturation, contrast, etc.
+
+High-end digital cameras usually do not do anything more to the image thus produced. However, professional digital cameras have a sharpening algorithm, which heighten the sharpness and clarity of the demosaiced and settings adjusted image. Professional digital cameras also have the option of saving the image in its RAW data before any demosaicing or adjustments are made by the computer chip. This is to give control to the professional photographers to make changes to the RAW data as per their own choices.
+
+The image can be saved in an uncompressed format like TIFF or a compressed format like JPEG. Uncompressed formats preserve greater information; thus, the detail of the photograph is much more than a compressed format, where detail is less, as lesser information is stored. Hence, compressed formats are also known as lossy formats, since details are lost. An uncompressed format increases the file size, whereas a compressed format reduces the file size. Depending upon the need, the image can be saved either in an uncompressed or a compressed image format, as bits and bytes in a memory card. The stored image can be viewed on the digital camera`s display screen as a digital photo.
+
+This digital photo can then be transferred from the digital camera to the computer`s hard disk via the serial port or USB port or FireWire port or Bluetooth wireless using Wi-Fi connectivity. RAW data and uncompressed data like TIFF take a longer time to transfer than compressed data like JPEG or GIF. 
+
+Once the data has been transferred to the computer`s hard disk, any photo editing software can manipulate and adjust it, as per the individual tastes and requirements of the photographer. The digital photo can then be printed on photographic paper, specially coated paper, or any other paper via a color inkjet or laser printer. Utilizing a plotter, it can be printed in larger sizes, in any other medium like canvas, acrylic, vinyl, etc. The digital photo can be saved on a hard disk, pen drive or a CD, for archival purposes.
+
+With passing time, more and more features are being introduced in a digital camera. Nowadays, audio-video recording is also fused with the still image capturing capability of the digital camera, making them small camcorders (camera + recorders).
+
+

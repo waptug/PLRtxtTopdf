@@ -1,0 +1,31 @@
+Title: 
+Basic Web Design Tips
+
+Word Count:
+464
+
+Summary:
+To put it simply if your navigation is too complicated and people don't understand how to get around your site, you should also make sure your text is readable by using a standard font which is compatible with other systems.
+
+
+Keywords:
+tips,web,design,webdesign
+
+
+Article Body:
+Don't bother with splash pages.
+A splash page is normally a pointless page people put on their websites as an introduction. The page normally contains some sort of image on with a big click here to enter sign, or sometimes people don't say anything and just hope you will click on the picture to enter their site. Splash pages are fairly pointless and it is just creating more work for your visitor as they have to click the mouse button an extra time just to see the content of your site. By removing the splash page the visitor can get to see the best parts of your site straight away, without having to wait for a pointless page to load. 
+
+Keep your navigation simple.
+To put it simply if your navigation is too complicated and people don't understand how to get around your site this is a huge web design fault. If a visitor doesn't know how to navigate around your site they will get frustrated and end up leaving. Keep your navigation simple and try to avoid using scripts or complicated flash based menus, not all browsers support scripts, so some of your visitors might be missing out on important.
+
+Keep your paragraphs reasonable readable lengths.
+Although having lots of relative and informative content on your website is good, it is a bad idea to have the blocks of text to big. Not everyone likes reading and to much can deter a visitor. If you keep your paragraphs in reasonable lengths it is much easier for a visitor to read and absorb.
+
+Use CSS for style.
+Make sure your text is readable by using a standard font which is compatible with other systems. While some fonts may look good on your computer other people might not have that font installed. It is good web design practice to use CSS when building you site. CSS or Cascading Style Sheets are a perfect way to set and adjust your websites font and size settings. The great thing about using CSS is that you can change the look of your whole site simply by editing the one file.
+
+Test how your site looks in other web browsers
+When you are building your site and still in the web design stage it is important to check how it looks on other browsers, just because it looks fine in internet explorer doesn't mean it looks good on Firefox or Opera. A lot of people use alternative browsers and if the website looks like a complete mess then you will loose that visitor for ever. You can check your sites web design to make sure it complies with the web standards at the w3.org website. Validating your page will help to ensure it works properly on other browsers.
+
+

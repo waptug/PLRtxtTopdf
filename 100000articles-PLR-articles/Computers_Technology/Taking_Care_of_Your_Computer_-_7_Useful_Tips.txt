@@ -1,0 +1,40 @@
+Title: 
+Taking Care of Your Computer - 7 Useful Tips
+
+Word Count:
+491
+
+Summary:
+There are many reasons why you should take care of your computer. Number one, is that it's a major investment for most people and you would probably like to keep it running for as long as possible.
+
+
+Keywords:
+windows xp, pc maintenance, tuning, defragmenter, malware, spyware,
+
+
+Article Body:
+There are many reasons why you should take care of your computer. Number one, is that it's a major investment for most people and you would probably like to keep it running for as long as possible. 
+
+There are various things that you can do to help prolong the life of your PC, both hardware and software wise. It’s always a good idea to keep your computer clean. A clean computer runs faster and lasts longer.
+
+<b>Here are some ways to clean and maintain the software (your operating system) on your pc.</b>
+
+1. Run the defragmenter utility, at least once every month or two. In Windows XP this can be done by going to your Start menu, then All Programs,  Accessories,  System Tools, then select  Disk Defragmenter. The defragmenter will help ensure that your files are located at the right place on the hard drive and should boost the overall speed of your computer. 
+
+2. Clean up old files. When you install/uninstall software frequently it can leave many unwanted files in temporary and system folders. In Windows XP, you should run the Disk Cleanup utility once and a while to clean things up. This utility can be found by clicking the Start menu, then All Programs  Accessories,  System Tools, then select  Disk Cleanup
+
+3. Scan for viruses. Viruses can cause your computer to be slow or not work at all. You should always have a good virus scanner installed and keep it up to date. Some well known virus scanners are Norton, McAfee, and AVG.
+
+4. Scan for other malware. Other malware can include spyware, adware, key loggers, and Trojan horses. These pieces of software can get installed without your knowledge when you install another program or visit a website. They can cause your PC to slow down considerably. Spybot Search & Destroy and Adaware are two well known malware scanners. 
+
+<b>Here are some ways you can keep your hardware running smoothly.</b>
+
+1. Clean out the dust. Computers are notorious for accumulating dust. Every once and a while you should open it up and clean it out. This can be done with a vacuum cleaner or a can of dust remover. 
+
+2. Keep your PC cool. You should always make sure that you keep your computer in a well ventilated area. By doing this you help keep the PC cool and, therefore, will prolong the life of your hardware.
+
+3. Buy quality hardware. When you buy new components for your PC try and get good quality parts. If you get components from respected manufacturers you can be sure that you will get good technical support and the parts will be well made and not cause problems with other hardware.
+
+Theses are just a few little tips to help you keep your computer running for a long time. There are many other things that can be done but by following these few tips you can be sure that you will reduce future computer problems.
+
+

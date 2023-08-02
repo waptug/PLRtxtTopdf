@@ -1,0 +1,66 @@
+Title: 
+Option Trading – Thinking “Outside The Box”
+
+Word Count:
+1004
+
+Summary:
+Wouldn't it be great if we could buy an option with five months left until expiration and sell an option with 2 months left until expiration for the same price? You couldn't lose. Well we can't. I love options spreads so much I realized something very important.
+
+We can buy a spread that has a lot of time value left at almost the same price as we can sell one with less time value left. The reason really opened my eyes and gave me new insight into options. Here is what I cam...
+
+
+Keywords:
+futures options, commodity options
+
+
+Article Body:
+Wouldn't it be great if we could buy an option with five months left until expiration and sell an option with 2 months left until expiration for the same price? You couldn't lose. Well we can't. I love options spreads so much I realized something very important.
+
+We can buy a spread that has a lot of time value left at almost the same price as we can sell one with less time value left. The reason really opened my eyes and gave me new insight into options. Here is what I came to realize.
+
+I started comparing how expensive options were in relation to the other strike prices in the same month and to the other months. I wanted to know based on the price per day which options were more expensive.
+
+The first 1 or 2 option months, as everyone knows loses time value quickly. The at the money strike prices are very expensive compared to the out of the money strike prices. Since there is not that much time left, how much can they charge for an out of the money option? Not much.
+
+The next several months, the opposite is true. Compared to each other, the strikes that are closer to the money are cheaper in terms of price per day than the options further out of the money. Let me explain it another way using the S&P market.
+
+6 days left at the money option cost 12 points
+6 days left out of the money option cost 2 points
+
+70 days left at the money option cost 43 points
+70 days left out of the money option cost 29 points
+
+There is more than 10X the time left but the 70 day at the money option (43 points) is only less than 4X the price than the 6 day at the money option (12 points).
+
+The 70 day out of the money option (29 points) is almost 15X the cost of the 6 day out of the money option (2 points) but only has 10X the time value. We will buy the cheaper per day options and sell the more expensive per day ones.
+
+Sell 6 day at the money and sell 70 day out of the money. Buy 6 day out of the money and buy 70 day at the money. This will be done for a 4 point debit. We are now buying a spread that has 10X more time value than the one we are selling and are only paying 4 points for it.
+
+When the 6 day options expire we can sell the next month to take in more premium, still keeping the 70 day option spread.
+
+What goes up, must come down! We have all heard this before in reference to the laws of Gravity. We have laws in the commodity markets as well. What comes down, must go up! The greatest traders of our time like Warren Buffet know this. He is perhaps the greatest Stock trader ever. He had never traded commodities until a few years ago. He bought silver in the futures market. When the market went even lower he bought more.
+
+The “smart money”, commercials will not be scared into selling when a market they have purchased drops even further. They know better than anyone that a commodity has real value and will always be worth something.
+
+There is a famous book, “You Can't Lose Trading Commodities”. The author buys commodities and then just waits for the market to go higher. He would purchase more as the market fell.
+
+You need a big bankroll for this. Personally I know corn won't go to $1.00 but what if it did? I want to minimize the risk in case I want to end the trade.
+
+I started trading the Soy Complex this way several years ago. Not with options. Strictly futures. I bought what was similar to a crush spread. I increased the contracts as the market went against me until the spread rebounded a little. Since I increased the contracts I didn't need the market to come back to where I started. It only had to rebound to the next level.
+
+Black Jack players did this until Casinos caught on and put limits on bets. It is a known fact that futures traders make good gamblers and professional gamblers make good futures traders. I am against gambling but even gambling done with a system is not really gambling.
+
+These card players would bet something like this: $5 lose, $10 lose, $20 lose, $40 lose, $80 win. The losses add up to $75. They would win $80, so the profit is $5. Not a lot, but they would do this all day. Black Jack is just under 50% probability for the player.
+
+The problem is there is a slight chance that you could lose 40 times in a row. Now with Commodities we have a 50% probability and we won't lose 50 times in a row because the market can't go below zero.
+
+Now before I go any further, I need to tell you that I am not recommending you double down on your trades. What you can find are markets that are near their lows where you can do a small scale trade. Spreads offer even better opportunities. They have a closer range (high to low).
+
+By now you can see we only use this to go long a market since we can never be sure how much a market can go higher. First we need to find a market that is low already so we won't have to wait that long and also so there will be less capital needed.
+
+I prefer to trade this using options. There are many ways to do this. You could buy an option in a market like soybeans and choose how many cents the market will drop before you buy more. The problem is, an option is a wasting asset. The Theta (time decay) would cause you to lose money.
+
+I use spreads so I am not paying for time decay. I will probably sell more Theta than I buy, so if the market does nothing I will make money just on time decay.
+
+

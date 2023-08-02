@@ -1,0 +1,30 @@
+Title: 
+Bluetooth Personal Area Networks
+
+Word Count:
+409
+
+Summary:
+A personal area network, or PAN, is a collection of communication technology devices within the range of one person. When communication between these devices is wireless, the acronym becomes WPAN, or wireless personal area network. In reality, and for all practical purposes, most personal area networks are wireless. For our purposes, this article will consider personal area networks as being wireless.
+
+As opposed to Local Area Networks and Wide Area Networks, the personal a...
+
+
+Keywords:
+bluetooth, personal area network, PAN, piconet
+
+
+Article Body:
+A personal area network, or PAN, is a collection of communication technology devices within the range of one person. When communication between these devices is wireless, the acronym becomes WPAN, or wireless personal area network. In reality, and for all practical purposes, most personal area networks are wireless. For our purposes, this article will consider personal area networks as being wireless.
+
+As opposed to Local Area Networks and Wide Area Networks, the personal area network operates in a relatively short range, usually up to a maximum of thirty feet. The most common method of connection is through Bluetooth wireless technology. Bluetooth technology holds several key advantages over Wi-Fi in ease of use, as it is not necessary to configure each component and requires considerably less power to operate.
+
+Unlike infrared networks, Bluetooth also doesn’t require objects to be in alignment in order to communicate. The huge practical advantage to the end user is the ability to transmit both voice and data between devices without the use of wires or USB cabling.
+
+A Bluetooth enabled wireless personal network, also known as a piconet, can wirelessly connect a minimum of two and a maximum of eight devices. In a piconet, one device acts as the master device to connect with up to seven active devices. Data is communicated from the master device to another (slave) device. The role of master device rapidly switches to any device in the PAN which is in the process of data transfer.
+
+A Bluetooth device has the ability to seek out and communicate with any compatible device within the immediate area.
+
+Probably the earliest and most common example of a Bluetooth personal area network is the use of a wireless headset and cellular phone. Another popular use is that of the wireless mouse and keyboard. However, the potential for convenience and productivity of a wireless personal network extend well beyond early uses. Data can easily be synchronized and transmitted wirelessly between PDA, personal computer and cellular phone. Bluetooth wireless printers and fax machines are a great convenience to laptop users. Photos from digital cameras and cell phones can be downloaded. Wireless headphones paired with portable music devices make music enjoyment hassle free. The list goes on, and is limited only by the creativity of the user and limitations of the physical devices. As personal area network technology improves, one can expect the use and capability of wireless personal devices to expand well into the future.
+
+

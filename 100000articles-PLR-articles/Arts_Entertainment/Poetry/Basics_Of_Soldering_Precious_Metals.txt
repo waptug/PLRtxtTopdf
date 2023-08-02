@@ -1,0 +1,36 @@
+Title: 
+Basics Of Soldering Precious Metals
+
+Word Count:
+584
+
+Summary:
+Before soldering there are three factors which must be considered. The design must lend itself to soldering, parts to be soldered must fit closely and accurately and the correct solder and flux must be used.
+
+Solders are typically classified according to their melting points - easy, medium and hard. This therefore refers to the ease of melting the solder. Hence an easy grade solder melts before a hard grade one. This can be used where a sequence of joints are to be made. Us...
+
+
+Keywords:
+solder, jewellery information, soldering, jewellery tools
+
+
+Article Body:
+Before soldering there are three factors which must be considered. The design must lend itself to soldering, parts to be soldered must fit closely and accurately and the correct solder and flux must be used.
+
+Solders are typically classified according to their melting points - easy, medium and hard. This therefore refers to the ease of melting the solder. Hence an easy grade solder melts before a hard grade one. This can be used where a sequence of joints are to be made. Usually a solder must conform to the same hallmarking rules as the metal being joined - for example, a 9ct solder must contain at least 37.5% gold. However, there are some concessions such as Platinum Solders and some white gold alloys.
+
+Gas and compressed air mixtures are generally the most satisfactory for torch soldering. Fine adjustment of flame size and temperature are possible. The flame should be kept constantly on the move over the whole joint area, or over as wide an area as can be conveniently joined, in a single application of solder.
+
+The joint areas must be free from dirt and grease, and ideally cleaned with a file or emery paper to ensure the solder will wet the parent metal. Flux should be applied to the joint area and solder prior to heating. Fluxes promote wetting of the workpiece by the molten solder. This is done by removing any oxide films present on both the parent metal and solder and prevent further formation of oxides during heating. The flux must be completely fluid and active before solder liquidation and should remain so until after the solder solidification.
+
+If the size of the joint is large further flux additions may be made during the process. It must be noted that warming of the workpiece may be required to ensure full retention of the flux paste over the whole joint area. The torch should initially be held some distance from the workpiece so that the flame heats the work generally. If components of different size are being joined the torch should predominantly heat the heavier item.
+
+There are two general techniques used to apply solid solder. Preplacement is where small pieces of solder are placed at the joint seam prior to heating. Heat is then applied until the solder flows into the joint. Feeding is where the fluxed joint is heated to temperature and tip of the solder wire is fed into the joint and should melt on contact.
+
+Using both these techniques the joint should be heated more strongly than the remainder. The time and temperature required to complete a joint must be kept to a minimum.
+
+Gold and silver flux residues may normally be removed by soaking in hot water. Any further residues that persist may then be removed by brushing. In difficult cases the workpiece should be impressed in 5 - 10% sulphuric acid solution for 2 - 5 minutes, rinsed in hot water and brushed again. For large scale soldering a small furnace may be used to provide sufficient uniform heat to the workpiece. For mass production batch or conveyer type furnaces may be used. However, the quantities of components to be soldered must be large enough to justify the relatively high capital expenditure and development of a method for each particular soldering operation.
+
+All workpieces can be successfully finished by the standard practices and processes currently available. It must be noted that powdered borax does not always meet the requirements for all applications, where the extensive range of other solders now available may be used.
+
+

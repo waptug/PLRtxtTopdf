@@ -1,0 +1,67 @@
+Title: 
+Making The Most Of Web Directories
+
+Word Count:
+548
+
+Summary:
+A web directory is just like an online phone book. It contains listings of web sites arranged by category.
+
+While most web directories don’t provide a lot of traffic it is still important to have your site listed in as many as possible. It helps build your web presence, assists with your site’s page rank and link popularity.
+
+When looking for directories to submit your site to, the following are good places to start:
+
+(1) Search engine listings, just do a Google/Yahoo/M...
+
+
+Keywords:
+
+
+
+Article Body:
+A web directory is just like an online phone book. It contains listings of web sites arranged by category.
+
+While most web directories don’t provide a lot of traffic it is still important to have your site listed in as many as possible. It helps build your web presence, assists with your site’s page rank and link popularity.
+
+When looking for directories to submit your site to, the following are good places to start:
+
+(1) Search engine listings, just do a Google/Yahoo/MSN search for “web directory”
+
+(2). http://www.best-web-directories.com, http://www.seocompany.ca/directory/free-web-directories.html and http://www.directorycritic.com all offer quality directory listings
+
+(3) In forums.
+New directories will announce their creation in some of the larger forums. You can pick up free one-way listings from new directories that will later on charge for inclusion.
+
+Having selected a list of directories, it’s worth checking a few details before listing your link:
+
+(1) Check The Page Rank of the site.
+The higher the better. Site with higher page ranks tend to get indexed more quickly and are more “authorative”. As a general rule don’t add your link to a site with no page rank.
+
+(2) Check the Meta Tags.
+On the page where your link will be submitted, click View > Page Source on your browser. If the robots meta tags look like - Meta name=robots content=”noindex, nofollow” don’t go there, your link wont be indexed and your link wont be counted.
+
+(3) Check a few links
+Again on the page where your link will be submitted click View > Page Source on your browser. Look at the coding of a few links. If you see an anchor tag with – rel=”nofollow” you link wont be counted by the search engines.
+
+(4) Ensure the links are direct
+Run you mouse over a few links. If the status bar doesn’t show the target URL and refers to another link within the directory your listing will be wasted. Also look at the code for a few links to double check that the link does point directly to your web page.
+
+And finally here are a couple of guidelines for submitting your link:
+
+(1) Check the directory submission guidelines
+If you read and follow the directories submission guidelines, you have a better chance of having your submission accepted. It will also save you time by preventing a submission that is sure to be rejected.
+
+(2) Always submit to a relevant category.
+Most directory owners strive to run a clean, well-kept directory. Submission to anything but a relevant category significantly increases the chance of rejection.
+
+(3) Check the page rank of the page your link will be placed upon.
+Generally the higher the page rank the better for you. If there is another similar category with a higher page rank and the same or less links, then submit your link there.
+
+(4) Submit to a page with as few other links as possible.
+While future additions may change the value, pages with fewer links will transfer more page-rank.
+
+(5) Vary your anchor text and description. Search engines like it better this way. Also sprinkle a few choice keywords in your description.
+
+(6) Make you anchor text to be the keywords you are focusing on and nothing else. This maximizes the effectiveness of the link.
+
+

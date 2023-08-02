@@ -1,0 +1,26 @@
+Title: 
+File Comparison Software
+
+Word Count:
+530
+
+Summary:
+Comparing is a Good Thing. File comparison is a process in the computing universe. It is the process of automatic comparing between files on a file system. The results of comparisons are generally displayed to the user and can be used to complete tasks in networks, file systems and revision control. Some examples of file comparison utilities include FileMerge and Microsoft File Compare. 
+
+Meet the creators. Most file comparison tools find the longest common subsequence betw...
+
+
+Keywords:
+file compare software,document comparison,compare programs
+
+
+Article Body:
+Comparing is a Good Thing. File comparison is a process in the computing universe. It is the process of automatic comparing between files on a file system. The results of comparisons are generally displayed to the user and can be used to complete tasks in networks, file systems and revision control. Some examples of file comparison utilities include FileMerge and Microsoft File Compare. 
+
+Meet the creators. Most file comparison tools find the longest common subsequence between two files. Some tools find the longest increasing subsequence between two files. Prior to file comparison software, there were machines to compare magnetic tapes or punch cards. For example the IBM 519 Card Reproducer was able to determine whether a deck of punched cards were equivalent. There is also a system to compare the check sums of loaded sections of FORTRAN programs to debug compilation problems on specific IBM computers. There are many different types of file comparison software like Softinterface Diff Doc, Altova Diff, Araxis Merge, Beyond Compare, EC Merge and Compare It. They are created by different companies engaged in this business. Some of them are established companies like Microsoft and Apple Computers. However a lot of the software is being created by new companies or start-ups. 
+
+Since this technology is relatively new it is being created by the new software companies. Most of this software is proprietary meaning belonging to the company who created it. However some of it is being licensed to outsiders.  The software is launched in its original version which is the first version.  This software is continuously being improved and new versions being launched. The newest version is called the latest stable version. All the software runs on computers using the Windows operating system. This is to be expected as Windows Operating Systems dominates the software market. However many of this software also run on other operating systems like Mackintosh and Linux. Linux is a late entrant but is becoming popular slowly. The biggest reason could be that it is free and adaptable. One man's act of rebellion against big brother Microsoft is becoming a crusade that other Microsoft haters are joining in. Since the Linux Operating Systems is efficient as well slowly companies are releasing versions of File comparison programs that are compatible with Linux Operating Systems.
+
+Devil is in the Details. Some of the most used file comparison systems today are Dandify and WordDocDiff. The Doc Diff undertakes Document comparison, Compare PDF, Word, Excel, PowerPoint, RTF, and XML. One can edit the documents within this application, and refresh manually. It can compare text from any application and navigate easily through the differences. The WordDocDiff does the same but is faster. It also has a few additional features. File compare software have several features like Scripting, Horizontal, Vertical, Non-linear compare, 3-way comparison, Directory comparison, Merge, Syntax Highlighting, and Reports. Some more features that count are ZIP support, FTP support, Version Control Browsing, Patch creation, Patch application and Patch preview. Buyers should check the features available in the software before they buy it. Since the software options are many and very technical it would be a good idea to take along somebody who knows about file comparison software.
+
+

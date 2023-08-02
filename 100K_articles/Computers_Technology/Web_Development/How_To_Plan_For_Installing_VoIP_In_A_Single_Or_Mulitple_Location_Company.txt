@@ -1,0 +1,54 @@
+Title: 
+How To Plan For Installing VoIP In A Single Or Mulitple Location Company
+
+Word Count:
+582
+
+Summary:
+The first step is deciding when/if it might be beneficial to move from a traditional voice network to a converged network. Each company is different, but two key indicators are intra-site call charges and the need for a more agile telephony system geographically (eg. distributed call centres). For many companies the cost of converting is too high to balance the cost savings. Simply changing your voice supplier might be easier and generate better cost savings.
+
+At the moment...
+
+
+Keywords:
+VoIP, Business VoIP, PABX, VoIP Network, IP Infrastructure, VoIP Install, WAN
+
+
+Article Body:
+The first step is deciding when/if it might be beneficial to move from a traditional voice network to a converged network. Each company is different, but two key indicators are intra-site call charges and the need for a more agile telephony system geographically (eg. distributed call centres). For many companies the cost of converting is too high to balance the cost savings. Simply changing your voice supplier might be easier and generate better cost savings.
+
+At the moment the whip hand is with PABX manufacturers moving into the IP market, rather than the IP hardware vendors moving into voice - but the hardware market is far from dominated by any single player. IP-enabling an existing PABX infrastructure is often the way forward in conjunction with planning your WAN carefully. This would suggest going for a PABX specialist for this element. If Cisco (et al) is your bag, then look for IPT accreditation and keep an eye on references and proof.
+
+Be cautious about accepting too pat technical information from sales people. QoS is not strictly necessary to carry voice and can carry quite a cost premium. Neither are uncontended DSL services strictly necessary. We have people running 3-4 voice channels concurrently between sites on strandard contended ADSL (20:1) with simple packet prioritisation at the edge to protect the voice from e-mails and printing traffic.
+
+There's no single solution. Find a solution provider that you can work with, with track record. Carefully consider the costs of change against the cost benefits as they are often not clear. Ensure you consider UPS protection for IP equipment essential for voice delivery - or have a back up analogue telephone option.
+
+Before simply installing VOIP... take a step back and look at the larger communications picture in your single or multiple location company.  You will see a number of Horizontal Communications paths:
+
+ACCESS / BANDWIDTH
+MAIL & GROUPWARE/FTP
+IMS to provide
+- CHAT (IM/Online Presence)
+- Voice+ (SDP/SIP/etc.)
+
+Presence... the users "online reachability"... is the empirical parameter.
+
+Companies often DIY their email/IM/Voice systems & protection schema's, but these exist as industry standard solutions today... Why not outsource that effort to an Industry leading Service Solution provider & then just focus on the business?
+
+Your biggest challenge is actually to find a Hosted Service Provider who is already on the Convergence Path (there are VERY few)... A Service provider who offers "Presence" (user log on/reachability status) similar to the MSN/ICQ/AIM/YIM/Skype. A service provider who offers this, can
+
+1) bill you appropriately for "online reachability" rather than the call-by-call (or monthly subscription) basis...
+
+2) offer not just secured VOIP, but also IM/Mail/Video/Collaboration/etc. via SIP on an IMS infrastructure.
+
+If you have day to day responsibility for the opertion of a multi-location VoIP network - there are some issues to be aware of.
+
+1) It's not as cheap as vendors want you to believe
+
+2) Legacy equipment manufacturers do not have the best products and may not be the best solution. Remember the old adage about IBM from the 60's.... "no one was ever fired for buying IBM".  Now it seems to be buying Cisco or Nortel kit is the "safe" option.
+
+3) There is a support cost that older management types will not get or possibly understand. That the LAN just became extremely important in the overall comunication infrastructure. It isn't just for e-mail anymore.
+
+No matter your final decision....keep in mind that everyday is an adventure.  Be careful - be wary and test, test and test again.
+
+

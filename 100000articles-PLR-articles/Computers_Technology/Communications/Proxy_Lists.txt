@@ -1,0 +1,24 @@
+Title: 
+Proxy Lists
+
+Word Count:
+181
+
+Summary:
+A proxy list is a list of all the working proxy websites. A proxy website is a website which lets you surf anonymously and it allows you to access the websites which have been blocked by a content filter.
+
+
+Keywords:
+Proxy Lists
+
+
+Article Body:
+A proxy list is a list of all the working proxy websites. A proxy website is a website which lets you surf anonymously and it allows you to access the websites which have been blocked by a content filter.
+
+How does this work –
+
+A proxy website allows you to enter the URL of the website which you wish to surf and once you’ve entered the URL, the proxy website displays the target website in a special window. In this way, your real IP address, location are not revealed to the website and you can access it even if it is blocked by the network administrator. You can interact with the website in real-time just like the way you would have interacted with it if it was not blocked on your network.
+
+The only known problem associated with the proxy websites is that they’ve a small life as other websites block the proxy websites to avoid anonymous surfing. So, it’s important to maintain a regularly updated proxy list in order to get the information about the working proxy websites.
+
+

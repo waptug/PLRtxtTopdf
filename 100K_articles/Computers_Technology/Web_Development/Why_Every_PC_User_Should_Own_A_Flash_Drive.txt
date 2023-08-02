@@ -1,0 +1,80 @@
+Title: 
+Why Every PC User Should Own A Flash Drive
+
+Word Count:
+1322
+
+Summary:
+CD burners were hailed as one of the biggest advances in home-computing technology several years ago, but now they are primarily used for recording music. While PC users once used 70- or 80-MB discs to backup data, the trend has shifted to the larger, easier, almost-infinitely-rewritable flash drive.
+
+WHAT IS IT?
+
+A flash drive is a small device that connects to your computer’s USB port. It’s also called a memory stick or flash device. It can store any type of data you wa...
+
+
+Keywords:
+
+
+
+Article Body:
+CD burners were hailed as one of the biggest advances in home-computing technology several years ago, but now they are primarily used for recording music. While PC users once used 70- or 80-MB discs to backup data, the trend has shifted to the larger, easier, almost-infinitely-rewritable flash drive.
+
+WHAT IS IT?
+
+A flash drive is a small device that connects to your computer’s USB port. It’s also called a memory stick or flash device. It can store any type of data you want, from installation files to the novel you’ve been working on since high school. Data transfers can take as little as two or three seconds, depending on the amount of data and the capabilities of your computer. The size of each drive can range from 32 MB to 8 GB (a maximum that is sure to increase with technological advances), giving you much more storage space and flexibility than CD-R/W discs.
+
+Flash drives come as separate unites that can be purchased almost anywhere computers or electronics are sold. Some companies have also integrated them into MP3 players and other electronic devices for added convenience. The flash drives recommended here, however, are the “standalone” types.
+
+HOW DOES IT WORK?
+
+The flash drive is inserted in any available USB port on your computer. Newer Windows operating systems will automatically detect and install any drivers necessary to make the device work. Users running older OS versions might have to download software from the drive maker’s Web site, but this only takes a few moments.
+
+Once the unit has been detected, you can begin storing and retrieving data. It is very similar to your computer’s hard drive in functionality, but is much smaller and infinitely portable. You can store any type of data, from song files to software, and access or overwrite it any time you want.
+
+When you want to remove the device, eject it through the “safely eject hardware” icon. You can now remove the flash drive and take it anywhere that you want to go.
+
+HOW MUCH IS THIS GOING TO COST ME?
+
+Depending on where you live and shop, smaller flash drives can cost as little as nine dollars, or less than a spindle of CD-R discs. The largest can be a few hundred dollars, but remember that you are getting several gigabytes’ worth of storage space. That’s probably at least one-fourth of your main hard drive. You can use two or three flash drives to back up your entire computer system, including operating-system files, irreplaceable documents, and system preferences.
+
+HOW SECURE IS MY DATA?
+
+Thoughts of security risks tend to keep people from considering a flash drive, but there is no good reason to worry about it if you take proper steps to prevent data theft, loss or destruction. Many flash drives come with programs that allow you to set passwords and lock files. You can download this sort of software if it does not come with your drive, or you can use the password-protection features in your programs. For example: if you do not want anyone to access your MS Word document, you can use its password-protect option to ensure that nobody can read it without your personal password. You can also use a zipping utility with its password-protect feature to keep groups of similar files secure, not to mention easy for you to find.
+
+The best line of defense against unwanted viewing or use of your data is to keep an eye on your flash drive. They are small, which is good for portability reasons. It is bad, especially if the drives are attached to key chains or lanyards, because many people have the bad habit of lying them down randomly and forgetting their locations. To prevent this, find a safe place to keep your drive, such as in your purse or front pocket, and do not put it down until you are in your home. If you are concerned about debris or pocket lint infiltrating the USB connection, use the plastic cap that came with the drive; many companies include a couple of spares in case you misplace them. You should also write your name and contact information on the drive so that, if lost, the finder will know how to contact you for its safe return.
+
+WHAT ABOUT VIRUSES?
+
+When using your flash drive with any computer, you should ensure that your anti-virus program includes this drive in its scans. If you are trying to download directly to the flash drive, check your anti-virus preferences to ensure that it is scanning downloads as they transfer onto your computer. Treat the flash drive as you would your computer’s “regular” hard drive and it should be safe.
+
+WHY SHOULD I SWITCH FROM CDS?
+
+There are several very good reasons to buy a flash drive: the best is that you can keep the CD burner for other projects, or as a backup in case you decide that you don’t like the flash-drive option.
+
+Other reasons include:
+
+-Portability. Flash drives allow you to import data and files into computers that are not connected to the Internet. You can also switch back and forth between computers with CD burners and those without them, something that you could not do in the past unless you had a large stack of floppy disks.
+
+-Memory. With larger drives, you are getting more memory than a CD or floppy disk. The largest flash drives will give you several gigabytes’, which no CD-R can do at this point.
+
+-Speed. Depending on your computer’s age and condition, you can transfer data faster than you can even initialize your CD-burning software.
+
+-Simplicity. In many cases, flash drives are plug-and-play devices. You do not need any special technical knowledge or training to use them correctly.
+
+WHERE CAN I GET ONE?
+
+Any office-supply store will carry them, as will computer and electronics stores. A Web search will give you plenty of options and good prices if you comparison shop.
+
+WHAT ELSE SHOULD I KNOW?
+
+-If you are transferring data from one computer to another, you must have the same programs installed on both computers. The files themselves can be easily moved with a flash drive, but it does not do you any good if both (or all) computers do not have the programs required to access that data. The good news is that you can use the flash drive to transfer installation files for the programs if it is allowed in the software’s licensing agreement.
+
+-You should always put the plastic cap back on the “port end” of the flash drive when it is not plugged into the computer. Dust, moisture and other elements will get into the drive and possibly ruin it. Because this drive was not a cheap investment, you should do everything you can to protect it.
+
+-You should know what version of USB your computer is using before you purchase, or try to use, a flash drive. You can find this information in the Hardware Information section of your computer. If you are running an older version of USB (i.e. something below 2.0), you should check the flash drive’s packaging before you buy to ensure compatibility. Most drives will work with older USB versions, but be sure before you fork over your hard-earned money: some stores will not refund or exchange your purchase.
+
+-The flash drive does not replace your CD burner, but it will virtually eliminate the need for your floppy drive. You might still occasionally find software drivers on floppy disks, but most companies have switched to CD-ROMs. You should keep the floppy drive around as long as it is functional, but do not be surprised if you rarely use it.
+
+-Read the instructions that come with the flash drive so that you will know how to care for it. Remember: it is a highly-portable hard drive, so some sort of maintenance is required.
+
+

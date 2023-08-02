@@ -1,0 +1,83 @@
+Title: 
+Process Change? Think ISO 9000!
+
+Word Count:
+816
+
+Summary:
+In their haste to implement changes, a few businesses fail to consider ISO 9000.  They think that it is a technical standard to be reckoned with and that only certain industries must comply.  But for the knowledgeable, the Switzerland-based International Standards Organization must occupy a distinguished place in company policy and strategy, especially when those strategies involve process changes.
+
+
+Keywords:
+iso 9000 certification, iso 9000 training, iso 9000 registration
+
+
+Article Body:
+In their haste to implement changes, a few companies fail to consider ISO 9000.  They think that it is a technical standard to be reckoned with and that only certain industries must comply.  But for the knowledgeable, the Switzerland-based International Standards Organization must occupy a distinguished place in company policy and strategy, especially when those strategies involve process changes. 
+
+Highlights of ISO 9000
+
+
+•	While the focus of ISO 9000 is mainly on quality, it applies to all types of businesses,
+
+•	ISO 9000 helps organizations regardless of their size to achieve quality standards that have been adopted by millions of companies in over 100 countries; the ISO 9000 standards are therefore recognized and respected globally,
+
+•	Member countries come from 150 standard authorities in the globe,
+
+•	ISO 9000 is the fruit of prior standards that have been replaced.  It symbolizes quality management standards that apply to processes,
+
+•	The first step in complying with ISO 9000 is for the business to decide that it must create a quality management system that meets the criteria of the ISO or to replace an old system that is no longer feasible.  This mission mirrors the company’s desire to be more competitive, to satisfy its customers who expect it to be standard-compliant, to reduce costs, and to adhere to government regulations,
+
+•	Businesses must set their objectives based on the ISO requirements and not on ISO guidelines,
+
+•	Depending on whether you want to improve your existing quality improvement system or start one because you haven’t got one in place, there are certain analyses and benchmarking tools you can use.  People seek the advice of companies that are in the business of providing such tools and services to help organizations fulfill ISO requirements,
+
+•	Once a company satisfies ISO requirements, they need an independent audit entity to see if those requirements have been adequately met - in some circles these audit companies are called Registrars,
+
+•	When a business passes the audit test, the business is ready to announce publicly that it has satisfied ISO 9000 requirements.  A company has the option to register as an ISO company.  Registration is not mandatory.
+
+
+Of Interest
+
+Even if the International Standardization Organization has been in existence since the early 80s, companies still don’t know how to go about the certification process.
+
+One question that is frequently raised by companies doing ISO 9000 for the first time is how to determine whether a given standard they are considering is an ISO standard.  The answer is found by consulting the World Standard Services Network, a network of publicly accessible World Wide Web servers of standard organizations around the world.
+
+Businesses also want to know if there exist any standards that are equivalent to ISO standards.  The ISO does not publish a list of equivalent standards but ISO members located in your country can certainly provide this information.
+
+An ISO member exists in more than 100 countries.  North American, European, Latin American, Asian and Middle Eastern countries have ISO members.  For example:
+
+United States	ANSI (American National Standards Institute) located in Washington, DC
+
+United Kingdom	BSI (British Standards Institution) in London
+
+France	AFNOR (L’association française de normalisation) in Paris
+
+China	SAC (Standardization Administration of China) in Beijing
+
+Mexico	DGN (Dirección General de Normas) 
+
+ 
+How Standards Are Developed
+
+This is an interesting question because even if there is only one ISO, there are numerous ISO members.  Doesn’t this suggest that there could be endless debates on standards where prolonged lobbying can actually derail the process?
+
+Not quite.
+
+The ISO has a host of national expert delegations within technical committees.  Generally, these committees meet on a regular basis to discuss standards, reach a consensus, and then come up with an initial draft agreement.
+
+The draft is sent to all ISO members for comment and voting.  It is the responsibility of each ISO member to collect feedback from relevant bodies before they define their position on the draft.
+
+If the voting is in favor of the draft, it is then released as an International Standard.
+
+Note that about 15 ISO meetings take place every business day around the world.  Communication between all ISO members is done electronically where documents and correspondence are exchanged fairly rapidly. 
+ 
+In their book, Six Sigma Deployment (Elsevier Science, 2003), Adams, Gupta and Wilson point to the similarities of ISO requirements and the DMAIC framework.
+
+In the definition stage of DMAIC for instance, the ISO requirements are to establish general and documentation parameters.  This means that DMAIC and ISO both need to identify key business processes, measure effectiveness, and how processes can be managed and improved.
+
+In the improvement phase, the authors say that DMAIC and ISO are similar in that the latter dictates continuing improvement for the sake of profitability, while Six Sigma (DMAIC) requires profit-related improvement. 
+
+If your business is planning to apply for ISO certification, your first step is to contact your local ISO member for more information.  Request documentation on ISO 9000 and its pertinent guidelines.
+
+

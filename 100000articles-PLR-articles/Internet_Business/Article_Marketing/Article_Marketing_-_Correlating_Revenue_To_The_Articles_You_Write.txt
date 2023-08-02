@@ -1,0 +1,50 @@
+Title: 
+Article Marketing - Correlating Revenue To The Articles You Write
+
+Word Count:
+762
+
+Summary:
+If you are involved in writing or using articles to establish your credentials to share skills and knowledge to a broader internet community, it may be time to pause for a while and to consider to what extent this activity of article marketing is bringing in revenue to your online efforts. Just how is that done?
+
+
+Keywords:
+correlating revenue to article marketing, charting revenue against articles, article marketing, article promotion, statistics, testing
+
+
+Article Body:
+If you are involved in writing or using articles to establish your credentials to share skills and knowledge to a broader internet community, it may be time to pause for a while and to consider to what extent this activity of article marketing is bringing in revenue to your online efforts.
+
+While article marketing is a function of many factors that may not lend itself to an exact computation of benefits in monetary terms, we cannot run away from the fact that when it comes to profitabilty of any online business, we have to think in terms of dollars and cents.
+
+This is where statistics play a big part in correlating revenue to the articles we write.
+
+Is it possible, for example, to project revenue to the number of articles we write, as there are factors peculiar only to the particular author that are not common to any other individual?
+
+This is where the use of simple mathematics is helpful in our quest to correlate revenue to the articles we write.
+
+Over a period of time of say 6 months, an author of various articles can actually keep a graph of revenue derived from article writing with the "y" axis as Revenue and the "x" axis of the graph as the number of articles written, each time keeping the number of article depositories to which the article was submitted at a constant figure.
+
+In this particular case, say for example if you are marketing these articles to the article depositories such as ezinearticles.com or goarticles.com, your revenue that goes to the "y" axis is the payout derived from Google Adsense for the month by using solely article marketing alone, and the "x" axis will be the number of articles you have submitted.
+
+Over the period of 6 months, you will have sufficient data on the graph for which you can draw a best fit curve or applying the principles of linear regression to form a straight line that goes through most of these points on the graph where the line is represented by the equation y=mx+c
+
+The function of the regressed straight line will indicate that the revenue derived is a function of "m" which is the gradient or slope of the line, and a constant "c".
+
+The constant "c" is the value where the straight line cuts the "y" axis and this is the particular part which stems from the individual and is a representation of his abilities in writing, his style of writing, his command of the language and factors that only the individual possesses.
+
+By doing a correlation study between the revenue obtained and the number of articles submitted in article marketing, keeping other factors constant as far as possible, it will be possible to gauge the quality of the author's writing. It will also be possible to form a rough basis to project further revenue to the number of articles planned for submission, ignoring other factors such as keyword selection, onsite and offsite search engine optimisation which are not included in the study, and only on the basis of the individual writing "flair" and abilities as measured by the constant "c".
+
+While this is by no means exact and is an approximation, keeping statistics and charts like these serves a useful function in helping the marketer to identify sudden trend changes, especially where performance or revenue suddenly falls from the norm ( or the mean ).
+
+He can then study what has led to this deviation from the mean and why. Charting these details will make any change very apparent which may be missed otherwise.
+
+While it is common for an internet marketer to use software scripts to track his earnings from Google Adsense, for example, most scripts do not lend themselves to this particular graphical analysis as explained. It is when the charting is done by hand, albeit in such a simple way, that the internet marketer is sensitive enough and alert to any sudden changes or is able to consider what factor to change in his article writing to derive more revenue.
+
+He can go deeper to ask this question: " Since the revenue is directly proportional to the slope of the revenue line, what factors will change the slope?".
+
+Knowing these factors, he can vary them and test out his changes.
+
+By correlating revenue to the number of articles written, the internet marketer has a way to project profitability, no matter how rough. He has on his hands a set of statistics that he can use for further research and analysis, or in marketing terms "testing".
+
+

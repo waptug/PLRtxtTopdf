@@ -1,0 +1,111 @@
+Title: 
+Cisco CCNP / BSCI Certification: Route Redistribution And The Seed Metric
+
+Word Count:
+541
+
+Summary:
+Route redistribution looks simple, but there are many details you must be aware of when performing it in real life or troubleshooting it on the BSCI exam.  Learn one of these vital details in this illustrated tutorial from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccnp, bsci, exam, route, redistribution, ospf, rip, seed, metric, routing, table, subnet
+
+
+Article Body:
+In the first part of this free CCNP / BSCI tutorial, we looked at how leaving one simple word out of our route redistribution configuration - "subnets" - resulted in an incomplete routing table when redistributing routes from RIP to OSPF.  (If you missed that part of the tutorial, visit my website's "Free Tutorials" section.)  Today, we'll look at redistributing OSPF routes into RIP and identify another common redistribution error.
+
+We are using a three-router network. R5 is running RIP, R1 is serving as a hub between R5 and R3 and is running RIP and OSPF, and R3 is running OSPF.  
+
+To begin this lab, we'll add three loopbacks to R3 and advertise them to R1 via OSPF.
+
+R3(config)#int loopback33
+
+R3(config-if)#ip address 33.3.3.3 255.255.255.255
+
+R3(config-if)#int loopback34
+
+R3(config-if)#ip address 34.3.3.3 255.255.255.255
+
+R3(config-if)#int loopback35
+
+R3(config-if)#ip address 35.3.3.3 255.255.255.255
+
+
+R3(config-if)#router ospf 1
+
+R3(config-router)#network 33.3.3.3 0.0.0.0 area 1
+
+R3(config-router)#network 34.3.3.3 0.0.0.0 area 1
+
+R3(config-router)#network 35.3.3.3 0.0.0.0 area 1
+
+R1 sees all three of these routes in its routing table.
+
+R1#show ip route ospf
+
+     34.0.0.0/32 is subnetted, 1 subnets
+
+O IA    34.3.3.3 [110/65] via 172.12.123.3, 00:00:55, Serial0
+
+     35.0.0.0/32 is subnetted, 1 subnets
+
+O IA    35.3.3.3 [110/65] via 172.12.123.3, 00:00:45, Serial0
+
+     33.0.0.0/32 is subnetted, 1 subnets
+
+O IA    33.3.3.3 [110/65] via 172.12.123.3, 00:00:55, Serial0
+
+We'll now redistribute these routes into RIP on R1.  Remember the "subnets" option we talked about in the first part of this tutorial?  There is no such option when redistributing OSPF routes into RIP, as IOS Help shows us.
+
+R1(config)#router rip
+
+R1(config-router)#redistribute ospf 1 ?
+
+  match      Redistribution of OSPF routes
+
+  metric     Metric for redistributed routes
+
+  route-map  Route map reference
+
+  vrf        VPN Routing/Forwarding Instance
+
+  <cr>
+
+R1(config-router)#redistribute ospf 1
+
+The routes have been redistributed into RIP with the redistribute ospf 1 command. (The "1" is the OSPF process number.)  Let's look at R5 and see the results.
+
+R5#show ip route rip
+
+R5#
+
+The routes aren't there, but we didn't get a warning from the router that we needed to do anything else.  What is the problem?
+
+The problem is that RIP requires a seed metric to be specified when redistributing routes into that protocol.  A seed metric is a "starter metric" that gives the RIP process a metric it can work with.  The OSPF metric of cost is incomprehensible to RIP, since RIP's sole metric is hop count.  We've got to give RIP a metric it understands when redistributing routes into that protocol, so let's go back to R1 and do so.
+
+R1(config)#router rip
+
+R1(config-router)#no redistribute ospf 1
+
+R1(config-router)#redistribute ospf 1 metric 2
+
+R5 now sees the routes.  Note that the metric contained in the brackets is the seed metric.
+
+R5#show ip route rip
+
+     34.0.0.0/32 is subnetted, 1 subnets
+
+R       34.3.3.3 [120/2] via 100.1.1.1, 00:00:24, Ethernet0
+
+     35.0.0.0/32 is subnetted, 1 subnets
+
+R       35.3.3.3 [120/2] via 100.1.1.1, 00:00:24, Ethernet0
+
+     33.0.0.0/32 is subnetted, 1 subnets
+
+R       33.3.3.3 [120/2] via 100.1.1.1, 00:00:24, Ethernet0
+
+If you read the previous tutorial, you may have noticed that we did not specify a seed metric for OSPF.  OSPF does not require a seed metric to be set during redistribution.  You also noticed that the router did tell us that there might be a problem when we left the "subnets" option out of RIP>OSPF redistribution, but the router didn't tell us anything about a seed metric when we performed OSPF>RIP redistribution.  This is a detail you must know by heart in order to make your route redistribution successful!
+
+

@@ -1,0 +1,24 @@
+Title: 
+A thermal roll of proposed analysis techniques.
+
+Word Count:
+420
+
+Summary:
+Thermomechanical properties of a thermal roll sleeve with a copper alloy are obtained by a uniaxial tensile test for variation of temperature. The proposed analysis techniques have improved in caster roll design.
+
+
+Keywords:
+Thermal Roll
+
+
+Article Body:
+The thermal rolls of print media of this invention comprise a core/spindle and a sheet, preferably continuous, of a print medium of substantially the same width as the core/spindle. The sheet of print medium is wound around the core/spindle to provide a thickness of layered paper on the core/spindle of at least one half inch, measured from the periphery of the core/spindle to the outer layer of the sheet of print medium on the roll. At least one side of the wound sheet of print medium is marked with at least one impression which serves as an identifying mark. The "sides" of the roll of a print medium, as referred to herein, are where the edges of the wound print medium are exposed. The term "impression" as used herein includes shallow indentations as well as realignment of the edges of the wound print medium and realignment of the fibers within the wound print medium. In realigning the edges and/or fibers of the wound print medium, there may be no indentation which is detectable and in certain embodiments, no indentation at all.
+
+Thermal paper rolls in the past is no longer true. While thermal tape used to be an uncommon alternative due to a short lifespan and high prices, it's now the most viable choice. Recent developments have led to better technology, including advanced chemical films and more durable substrata.
+
+The rolling force and roll deformation behavior in the twin-roll-type strip continuous casting process have been computed to estimate the thermal characteristics of a caster roll. To calculate the rolling force, the relationship between the flow stress and strain for a roll material and a casting alloy are assumed as a function of the strain rate and temperature, because the mechanical properties of casting materials depend on temperature. Temperature field data for a caster roll, provided by the authors, were used to estimate the roll deformation. Therfore, numerical models considering the thermal and rolling forces have been developed to estimate the roll life. Roll life considering the thermal cycle is calculated using thermal elastic-plastic analysis results. The roll life is proposed in terms of roll revolution in the caster roll models with and without the fine crack failure on the roll surface. To obtain plastic strain distributions of the caster roll, thermomechanical properties of a roll sleeve with a copper alloy are obtained by a uniaxial tensile test for variation of temperature. The proposed analysis techniques have improved in caster roll design.
+
+Tag: Thermal Roll
+
+

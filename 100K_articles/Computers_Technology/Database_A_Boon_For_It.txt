@@ -1,0 +1,28 @@
+Title: 
+Database A Boon For It
+
+Word Count:
+439
+
+Summary:
+The advent of the database is perhaps the most valuable thing that has come out of the computer age. The power of information brought to us in every increasing speeds and volumes has increased our ability to make money like never before. Information for the businessman is everything and so the database provides him more power to work with his everything.
+
+Database technology is simply the storage of material and information in such a way as to increase the speed of retrieva...
+
+
+Keywords:
+database
+
+
+Article Body:
+The advent of the database is perhaps the most valuable thing that has come out of the computer age. The power of information brought to us in every increasing speeds and volumes has increased our ability to make money like never before. Information for the businessman is everything and so the database provides him more power to work with his everything.
+
+Database technology is simply the storage of material and information in such a way as to increase the speed of retrieval on demand and to compare and make useful inferences on a large volume of data. Computers as long as they are equipped with enough memory are capable of housing more information than we can give them and in the space of virtually no space. Gone are the days of libraries that cover acres of land and go up multiple stories to hold all of the volumes of information that they do. Soon libraries will be virtual, contained on a server some where and completely accessible via a personal computer.
+
+In statistics the more data you have the better your information is—that is the less affected by chance in a negative way. The better your information is the easier it is to make decisions about the next step with complete confidence that you will get the desired outcome. The database has allowed huge amounts of information to be compiled, sorted, and analyzed and has given businessmen information that makes them money and lots of it.
+
+Consider a database for the items bought in a store in a year. You can know the date and the time of purchase. You can know the quantity of purchase. If the person pays with a credit card you can know the demographic of the population that that product is popular with, you can know what other items went along with a certain product. You can see the differences in sales strategies and marketing ploys. You can tell the affect of price on a product and location in the store. The list really is endless, and marketing really becomes a science more than a game because consumers are predictable—humans are creatures with similar desires and responses to situations.
+
+The thing that the database can improve now is the speed in which it handles the information. Changing the partitioning of the memory, or the language in which it is stored can have a significant difference in the time of a query. The difference may be in milliseconds or smaller but when you think about how many queries might be useful (millions!) that becomes a significant amount of time and time is money.
+
+

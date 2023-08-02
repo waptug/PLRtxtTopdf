@@ -1,0 +1,45 @@
+Title: 
+Cisco CCNP / BCMSN Exam Tutorial:  Configuring CGMP On Routers & Switches
+
+Word Count:
+472
+
+Summary:
+Learn how CGMP operates and how CGMP is configured in this BCMSN exam tutorial from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+cisco, ccnp, bcmsn, cgmp, leave, join, message, configure, router, switch, pass, exam, free, bryant
+
+
+Article Body:
+If a Layer Two switch doesn't have the capabilities to run IGMP Snooping, it will be able to run CGMP - Cisco Group Membership Protocol.  CGMP allows the multicast router to work with the Layer Two switch to eliminate unnecessary multicast forwarding.  
+
+CGMP will be enabled on both the multicast router and the switch, but the router's going to do all the work. The router will be sending Join and Leave messages to the switch as needed.   PIM must be running on the router interface facing the switch before enabling CGMP, as you can see:
+
+R1(config)#int e0
+
+R1(config-if)#ip cgmp
+
+ WARNING: CGMP requires PIM enabled on interface
+
+R1(config-if)#ip pim sparse
+
+R1(config-if)#ip cgmp
+
+
+When CGMP is first enabled on both the multicast router and switch, the router will send a CGMP Join message, informing the switch that a multicast router is now connected to it.  This particular CGMP Join will contain a Group Destination Address (GDA) of 0000.0000.0000 and the MAC address of the sending interface. The GDA is used to identify the multicast group, so when this is set to all zeroes, the switch knows this is an introductory CGMP Join, letting the switch know that the multicast router is online.
+
+The switch makes an entry in its MAC table that this router can be found off the port that the CGMP Join came in on.  The router will send a CGMP Join to the switch every minute to serve as a keepalive.
+
+A workstation connected to the switch on port 0/5 now wishes to join multicast group 225.1.1.1.  The Join message is sent to the multicast router, but first it will pass through the switch. The switch will do what you'd expect it to do - read the source MAC address and make an entry for it in the MAC address table as being off port fast 0/5 if there's not an entry already there. (Don't forget that the MAC address table is also referred to as the CAM table or the bridging table.)
+
+
+
+
+The router will then receive the Join request, and send a CGMP Join back to the switch.  This CGMP Join will contain both the multicast group's MAC address and the requesting host's MAC address.  Now the switch knows about the multicast group 225.1.1.1 and that a member of that group is found off port fast 0/5.  In the future, when the switch receives frames destined for that multicast group, the switch will not flood the frame as it would an unknown multicast. Instead, the switch will forward a copy of the frame to each port that it knows leads to a member of the multicast group.
+
+
+Two major benefits of CGMP are the explicit Join and Leave Group messages.  In the next part of this BCMSN exam tutorial, we’ll take a look at the Leave Group messages.
+
+

@@ -1,0 +1,34 @@
+Title: 
+Handling Statistical Variation In Six Sigma
+
+Word Count:
+786
+
+Summary:
+Six-Sigma provides a methodical, disciplined, quantitative approach to continuous process improvement. Through applying statistical thinking, Six Sigma uncovers the nature of business variation and its affect on waste, operating cost, cycle time, profitability, and customer satisfaction.
+
+The term “six sigma” is defined as a statistical measure of quality, specifically, a level of 3.4 defects per million or 99.99966% high-quality. To put into practice the Six Sigma manageme...
+
+
+Keywords:
+analysis,measures,eliminate,quality,quantity,relationships,improved,performance, Handling,Statistics
+
+
+Article Body:
+Six-Sigma provides a methodical, disciplined, quantitative approach to continuous process improvement. Through applying statistical thinking, Six Sigma uncovers the nature of business variation and its affect on waste, operating cost, cycle time, profitability, and customer satisfaction.
+
+The term “six sigma” is defined as a statistical measure of quality, specifically, a level of 3.4 defects per million or 99.99966% high-quality. To put into practice the Six Sigma management philosophy and achieve this high level of quality, an organization implements the Six Sigma methodology. The fundamental objective of the Six Sigma methodology is the implementation of a measurement-based strategy that focuses on process improvement and variation reduction through the application of Six Sigma improvement projects. Projects are selected that support the company's overall quality improvement goals.
+
+A Six Sigma project begins with the proper metrics. Six Sigma produces a flood of data about your process. These measurements are critical to your success. If you don't measure it, you can't manage it. Through those measurements and all of that data, you begin to understand your process and develop methodologies to identify and implement the right solutions to improve your process. Six Sigma’s clear strength is a data-driven analysis and decision-making process—not someone's opinion or gut feeling.
+
+Metrics lie at the heart of Six Sigma. Critical measures that are necessary to evaluate the success of the project are identified and determined. The initial capability and stability of the project is determined in order to establish a statistical baseline. Valid and reliable metrics monitor the progress of the project. Six Sigma discipline begins by clarifying what measures are key to gauging business performance, then it applies data and analysis to build an understanding of key variables and optimize results. Fact driven decisions and solutions are driven by two essential questions: What data/information do I really need? How do we use that data/information to maximize benefit?
+
+Six Sigma metrics are more than a collection of statistics. The intent is to make targeted measurements of performance in an existing process, compare it with statistically valid ideals, and learn how to eliminate any variation. Improving and maintaining product quality requires an understanding of the relationships between critical variables. Better understanding of the underlying relationships in a process often leads to improved performance.
+
+To achieve a consistent understanding of the process, potential key characteristics are identified; the use of control charts may be incorporated to monitor these input variables. Statistical evaluation of the data identifies key areas to focus process improvement efforts on, which can have an adverse effect on product quality if not controlled. Advanced statistical software such as Minitab or Statgraphics, are very useful if not essential for gathering, categorizing, evaluating, and analyzing the data collected throughout a Six Sigma project. Special cause variation can also be documented and analyzed. When examining quality problems, it is useful to determine which of the many types of defects occur most frequently in order to concentrate one's efforts where potential for improvement is the greatest. A classic method for determining the "vital few" is through a Pareto chart.
+
+Many statistical procedures assume that the data being analyzed come from a bell-shaped normal distribution. When the data to be analyzed does not fit into a normal bell-shaped distribution, the results can be misleading and difficult to discern. When such data distribution is encountered, other statistical techniques can be used to assess whether an observed process can reasonably be modeled by a normal data distribution. In such cases, either a different type of distribution must be selected or the data must be transformed to a metric in which it is normally distributed. In many cases, the data sample can be transformed so that it is approximately normal. For example, square roots, logarithms, and reciprocals often take a positively skewed distribution and convert it to something close to a bell-shaped curve. This process will uncover significant statistical variation, separating the important data from meaningless data “noise.”
+
+Once the data is crunched and a problem’s root causes are determined, the project team works together to find creative new improvement solutions. The data is used and relied upon—it is the measurements of the realities you face! Yet it is smart measurement and smart analysis of the data—and above all the smart creation of new improvement solutions and their implementation—that create real change. The Six Sigma statistical tools are only the means to an end and should not be construed as the end itself. Using tools properly is critical to getting the desired result. Through a successful use of statistics in uncovering significant data, Six Sigma will drive an organization toward achieving higher levels of customer satisfaction and reducing operational costs.
+
+

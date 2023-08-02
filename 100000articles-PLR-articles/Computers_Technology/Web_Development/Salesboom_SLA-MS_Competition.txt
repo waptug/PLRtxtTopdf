@@ -1,0 +1,49 @@
+Title: 
+Salesboom SLA-MS Competition
+
+Word Count:
+474
+
+Summary:
+Oh, the irony. Online CRM Services shy away from offering customers a Service Level Agreement. Why the reticence when Customer Service is the bread and butter of CRM services?
+
+CRM services push the envelope for eBusiness activities, and as a result businesses are dependent on background technology services like never before. CRM brings information technology into the front office via Internet and 3rd party services at both the customer and business end.
+
+To mitigate serv...
+
+
+Keywords:
+CRM, on-demand CRM, Service Level Agreement, SLA,
+
+
+Article Body:
+Oh, the irony. Online CRM Services shy away from offering customers a Service Level Agreement. Why the reticence when Customer Service is the bread and butter of CRM services?
+
+CRM services push the envelope for eBusiness activities, and as a result businesses are dependent on background technology services like never before. CRM brings information technology into the front office via Internet and 3rd party services at both the customer and business end.
+
+To mitigate service deficiencies and ensure confidence in business transactions, technology providers generally tend to offer a Service Level Agreement (SLA) to their clients. The SLA is a contract that seals a customer's partnership with the service provider. It lists vendor obligations and describes penalties for failure to provide agreed-upon services.
+
+Additionally, a SLA can help with the following:
+
+Customer Needs – can help identify and define requirements
+Communication – can provide a framework for understanding and can simplify complex issues
+Conflict Management - reduce areas of conflict and encourage dialog in the event of a dispute
+Manage Expectations - eliminate unrealistic expectations and define possibilities
+
+Salesboom.com has had a Service Level Agreement (SLA) in place since January 1, 2005. It is an extensive guarantee that covers service usage, fees, customer rights, server availability, and service levels. There is only one other online CRM service that is front and center with a SLA as a prominent part of their service guarantee.
+
+Why are other on-line CRM vendors so reluctant to follow suit? Many on-demand CRM providers participate in an entire network of service providers. This network can include IT functions and software components that they outsource, as well as "extended partnerships," which allow other companies to deliver their service responsibilities.
+
+Without a SLA, there is potential for serious problems in the event of a service failure to address restitution and/or processes for return to service. A couple of the top reasons for not implementing a Service Level Agreement are:
+
+1. Experience – necessary skills unavailable on site to guarantee SLA service levels
+2. Resources – tools and resources unavailable to monitor all aspects of network – particularly when monitoring peering scenarios
+3. Control – multi-vendor service can't guarantee what is out of their control, has not negotiated SLA with partners
+4. Confidence – there may be problems that are not obvious and fuel a confidence problem.
+5. Margin – may not have ability to make financial restitution
+
+As Internet services mature, and the reliance on background networking becomes more entrenched, there will be greater interest and need for concise SLAs for all partners in the network. Customers expect monitoring and reporting components to the SLA that confirm service level performances. This is intrinsic to delivering integrated CRM services that are reliable and accountable.
+
+Salesboom is ahead of the pack on this, and hopefully for anyone reading this article, there is a resonance that echoes loud at every business line and crescendos at the doorway of customer service.
+
+

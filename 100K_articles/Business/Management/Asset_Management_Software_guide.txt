@@ -1,0 +1,42 @@
+Title: 
+Asset Management Software guide
+
+Word Count:
+563
+
+Summary:
+Asset management is the need of the hour. Any business dealing in manufacturing, distribution, physical sales, office or call center work has some physical and non-physical assets.
+
+
+Keywords:
+Asset Management Software, rfid
+
+
+Article Body:
+Asset management is the need of the hour. Any business dealing in manufacturing, distribution, physical sales, office or call center work has some physical and non-physical assets. The technique of choosing the appropriate equipment for a particular job, keep it functioning as long as possible and replacing it in a systematic way is the key to good management. 
+
+
+Today assets can be the means to some wonderful and lucrative ends. So asset management is no less than an art and can be stated as a comprehensive and structured approach to the long-term management of assets as tools for the efficient and effective delivery of community benefits. 
+
+
+Managing one’s assets requires firstly an identification of need for the asset in accordance with the community requirements. Secondly you have to see the provision of the asset including its current maintenance and rehabilitation as per your needs. Third is the operation of the asset while the fourth is the disposal of the asset when it is no longer needed or beneficial in any way. 
+
+
+Due to a surge in the involvement of people in asset management task, various companies have come up with asset management software. Asset management software maintains a record of all the assets you wish to monitor. It is designed to manage assets, contracts, purchases and vendors at an economical price. Asset management software keeps a record of hardware, licenses, leasing information and so forth. It also guides as to which new equipment needs to be purchased, the quantity of equipment owned and when leases are up. 
+
+
+Asset management software is of a great use. There are quite a few benefits of implementing an asset management software solution. For instance the asset management allows the automation of processes rather than manually creating paper trails that can be torn or lost, it also tracks your company’s software assets and licenses, provides management reports on companies assets, track company leases and hardware material, minimizes the expense especially by reducing the total ownership cost and serves as a user interface for the people to track their assets. The asset management software also integrates with incident and problem management, change and configuration management, service level management and other related Business Service Management processes straight out of the box.
+
+There are three different kinds of asset management software-
+
+
+a)	Inquisitive- software is designed to interrogate or query the IT systems and identifies hardware configurations or peripherals or operating system and other software.
+
+b)	Repository- software organizes the collected data and stores it to allow an easy access for reporting and analysis. 
+
+
+c)	Automated data collection type of asset management software tracks, records accurate data in time.
+
+The asset management software comes in different packages. While choosing such a software package check out the functionality you need or the kind of task that you want the software to perform. Then take a look at the price and benefit of the package over the others. Also consider the package from the number of users perspective. Here you should bear in mind the overwriting risk of multiple users having the same files open at a given time. You should also know what is the scalability of the software, that can it cater to new avenues in countries other than your own and last but not the least you must find out if the software works with ITIL best practices.
+
+

@@ -1,0 +1,35 @@
+Title: 
+How Can I Login to My Linksys Router
+
+Word Count:
+185
+
+Summary:
+Usually, if the router is still in its factory default settings and just out of the box, logging into your Linksys router is easy.
+
+
+Keywords:
+Router, network
+
+
+Article Body:
+Usually, if the router is still in its factory default settings and just out of the box, logging into your Linksys router is easy.
+
+1.	Make sure that your computer is connected to the router via the Ethernet or a wireless WiFi connection.
+2.	Now, in your favorite web browser go to the address: http://www.192.168.1.1
+3.	Usually in the older versions of Linksys routers, there will only be a password (admin) and no need to input a username. However the recent newer models of the Linksys router have “admin” as both the default username and the password.
+4.	Below are a few sample modes and their default usernames and passwords:
+A.	Default Usernames Known:
+Linksys BEFW11S4: admin
+Linksys WRT54G: admin
+Linksys Comcast: Comcast
+Linksys EtherFast Cable/DSL Ethernet: Administrator
+The rest of the Linksys routers: [not required]
+B.	Default Passwords Known:
+Linksys BEFW11S4: [not required]
+Linksys Comcast: 1234
+The rest of the Linksys routers: admin
+
+In the case that you forgot your Linksys router password, you can always reset the outer by clicking the reset button at the back or at the bottom of the router.
+
+

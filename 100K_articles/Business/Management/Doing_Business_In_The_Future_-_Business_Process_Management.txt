@@ -1,0 +1,60 @@
+Title: 
+Doing Business In The Future - Business Process Management
+
+Word Count:
+657
+
+Summary:
+Business Process Management (BPM) is a set of activities performed by organizations to improve or streamline their business processes. Since software tools are usually used to aid these activities, these software tools are referred to as Business Process Management Systems. 
+
+- Business Process Management Systems
+
+Business Process Management has been in place for some time now. Due to the introduction of software tools, however, there has been renewed interest in the body...
+
+
+Keywords:
+business process outsourcing,business process reengineering,business process improvement,business process consulting,business process modeling,business process management tool
+
+
+Article Body:
+Business Process Management (BPM) is a set of activities performed by organizations to improve or streamline their business processes. Since software tools are usually used to aid these activities, these software tools are referred to as Business Process Management Systems. 
+
+- Business Process Management Systems
+
+Business Process Management has been in place for some time now. Due to the introduction of software tools, however, there has been renewed interest in the body of knowledge pertaining to BPM. These software tools make design and implementation of Business Process Management easier, cheaper, and more efficient. There are three categories of Business Process Mmanagement activities - design, execution and monitoring.
+
+1. Design
+
+Designing BPM involves capturing the existing processes in a business environment. These processes must be modeled in a way that they can be simulated and tested. Modeling these processes usually involves graphical representation methods that document the processes and stores this data in repositories.
+
+2. Execution
+
+Traditionally, to implement automation in a business organization, developers would have to be contracted to develop applications that automate certain processes. Unfortunately, the scope of these projects was often too narrow. The result of which is that the automation is not well integrated into the business environment since the automation only deals with a particular department or function. BPMS champions a method that pushes for the development of applications that encompass the entire business process. It aims to fully automate the business environment only stopping to query the user when human intervention is absoultely necessary.
+
+3. Process monitoring
+
+Process monitoring involves observing and taking note of the performance of the individual processes so that evaluation and intervention become more straightforward for the business organization. From the information gleaned from here, the business organization’s leaders can make further decisions on the direction the business process takes. The data from this activity can be used to generate different kinds of statistics that are necessary when having to make critical decisions. Business Process Management is an iterative process. 
+
+4. The Future
+
+Although BPM strives to automate the mechanical processes of a business, there has been interest in developing BPMs that move into the territory of human judgment. Some of the processes involved in a business environment are not included in the automation because some sort of human decision is needed. With the growing complexity of information systems - especially studies into decision support systems and artificial intelligence - some human decision-making processes can actually be automated. This is the future goal of BPM, to futher automate previously unautomatable processes.
+
+- The Business Process Management Ideals
+
+In 1920, Frederick Taylor outlined three waves of business ideals in managing processes. These waves represented the ways of thinking business process engineers had. 
+
+Wave 1. Processes Set In Stone
+
+They are secured in business policy manuals. The manual is the basis of the process, and the organization has to abide by it.
+
+Wave 2. Processes Changed Once In A While
+
+Using a one-time activity, changes can be made. This means that the business would have to build their processes around a fixed system since change can only come once in a while, and at a great cost. 
+
+Wave 3. Processes On-The-Fly
+
+The primary consideration in such systems is flexibility to change. Businesses that adhere to this goal create business environments that can adapt to its changing needs. This setup also allows the business to constantly fine tune its operations. This wave is not about business-process reengineering. It is about maintaining an environment that is constantly on its toes, ready to adapt to the circumstance, and maximize its strengths while downplaying its weaknesses. 
+
+Change is the only constant, they say. In this modern day and age, this could not be truer. The survival of a business could very well rely on its ability to constantly tweak its processes according to the whims of change. With the growing body of knowledge concerning Business Process Management, the path towards a sustainable market advantage based on a streamlined, flexible business organization can only get clearer.
+
+

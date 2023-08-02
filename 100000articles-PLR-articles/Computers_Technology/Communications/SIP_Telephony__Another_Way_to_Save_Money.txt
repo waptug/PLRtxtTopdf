@@ -1,0 +1,38 @@
+Title: 
+SIP Telephony: Another Way to Save Money
+
+Word Count:
+586
+
+Summary:
+Just when you thought using your PC couldn't possibly get any more complicated, along comes SIP (Session Initiation Protocol) with VoIP (Voice-Over Internet Protocol) technology.
+
+VoIP is well on its way to becoming the "next big thing" as it allows you to make telephone calls using the Internet for a fraction of the cost of regular phone usage. Don't think that's making the major telephone companies nervous? Read on... because you haven't seen anything yet...
+
+
+Keywords:
+voip,sip,service voip,residential voip,calling card,ip phone,business voip,provider service voip,telephony voip,internet phone,phone system voip,solution voip,phone card,carrier voip
+
+
+Article Body:
+Just when you thought using your PC couldn't possibly get any more complicated, along comes SIP (Session Initiation Protocol) with VoIP (Voice-Over Internet Protocol) technology.
+
+VoIP is well on its way to becoming the "next big thing" as it allows you to make telephone calls using the Internet for a fraction of the cost of regular phone usage. Don't think that's making the major telephone companies nervous? Read on... because you haven't seen anything yet...
+
+Seemingly overnight, VoIP appeared. And when it did, the whole concept of making a cheap PC to phone call (for pennies) became the big business. Quicker than you can say, "Who needs an e-mail or chat?" the IP phone (IP - Internet Protocol) became a reality. The IP is data-oriented computer technology used for communicating data across a packet-switched inter-network. In other words, think of it as the PC version of the old operator at a switchboard patching phone calls back and forth.
+
+IP technology evolved into VoIP - Voice-Over-Internet Protocol - which allows PC users to make telephone calls using a computer-data network like the Internet. VoIP converts the voice signal from your telephone into a digital signal that travels over the Internet and later converts it back at the other end so you can speak to anyone with a regular phone number. And guess what - VoIP technology costs not pennies, but fractions of pennies to use. The VoIP providers paved the way to this new frontier of making cheap phone calls and many independent telephone companies quickly jumped on the bandwagon. Business VoIP and residential VoIP plans are available to PC users in a number of inexpensive packages but SIP makes this service much more simply and friendly. 
+
+Obviously, a lot of telephone empires are sweating bullets over this. Some companies have even claimed that the entire SIP/IP/VoIP concept is akin to patent infringement. That won't hold up in a court of law. You can't patent broadband communication any more than you can patent gasoline. Telephony VoIP is here to stay and evolving faster than PC users can assimilate the information. 
+
+VoIP technology is making the term the Internet phone a household word. But for the most part it's still an untapped market. Computers have long since replaced typewriters, but there are still millions of men and women who don't have a clue that their PC can be used for local phone service or even better - to slash the costs of long distance phone service. 
+
+Thanks to SIP VoIP providers with BYOD (see below), a prepaid phone card is becoming a thing of the past. PC to phone communication and the concept of the Internet phone service is kicking major phone companies in the pants.
+
+BYOD - short for Bring Your Own Device - is fast becoming the term of choice among phone system VoIP users. BYOD is used to describe a type of VoIP subscription. (Carrier VoIP subscribers who have their own VoIP device can take advantage of a cheaper SIP/VoIP subscription plan). The solution VoIP and carrier VoIP subscriber plans generally cost less than $20.00 a month for unlimited broadband phone use.
+
+SIP telephony is creating the new phone system of choice. It was bound to happen. Computer technology has integrated with every part of our lives and the PC as a way to make a cheap phone call is only the latest step in technology's progression.
+
+If you are confused by some abbreviations or shorts in this article, feel free to visit VoIP glossary - http://www.callsend.net/glossary/
+
+

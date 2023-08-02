@@ -1,0 +1,17 @@
+Planning the Chart
+
+The actual drawing of a horoscope is very simple in theory, but carries a variety of complex calculations.  The horoscope chart can be considered a two-dimensional snapshot of a four-dimensional concept—because the horoscope is meant to not only track the locations of the planets in space, but to tie them down to an exact time, also.  It’s a snapshot of the solar system at the moment a person was born.
+
+First, and most important, we need to know the exact place and time that a person was born.  Obviously, not every detail will be known, but the more accurate the better.  The time has to be calculated against GMT, or Greenwich Mean Time, and the location has to be translated into latitude and longitude.
+
+Why is location important?  Because one of the most important aspects of the horoscope is the Ascendant, or the constellation that was rising at the birth.  That constellation is different depending on where the birth happens.  Two people born at the exact same moment on opposite sides of the planet will not have the same horoscope.
+
+Next, the astrologer draws a circle (or, in a more modern setting, hits the “print” button).  This circle represents the twelve signs of the Zodiac and the Houses they rule.
+
+The last thing needed is an Ephemeris.  This is a chart that tells the locations of the planets on a given day.
+
+With all of these pieces in front of the astrologer, he or she is now ready to create the chart.  Using the Ephemeris, the location of each planet is calculated and noted.  The Sun and Moon, though not really planets, are still counted as such for purposes of the chart.  Each planet will fall into one of the twelve Houses.  
+
+After that, lines are drawn to connect the planets so that their angles (called Aspects) can be measured.  Close aspects—the Conjunctions—have an amplifying effect, making their influence stronger, and wide aspects, called Oppositions, have a countering effect.
+
+Once all of the drawings are done, the astrologer can write out the results, in language like “Mercury is in your house of Health, conjunct to Venus in the house of Children.”

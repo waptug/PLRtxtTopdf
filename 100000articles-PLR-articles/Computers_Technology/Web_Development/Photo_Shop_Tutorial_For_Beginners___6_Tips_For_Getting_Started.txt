@@ -1,0 +1,46 @@
+Title: 
+Photo Shop Tutorial For Beginners – 6 Tips For Getting Started
+
+Word Count:
+595
+
+Summary:
+Photo Shop is one of the most amazing and yet complicated software programs out in the market right now, but don’t worry…you’ll only have to suffer its complicatedness at the start. After a while, you’ll soon get the hang of Photo Shop and then you’ll be editing your photos like mad!
+
+Tip #1 Choosing the Type of Image File
+Whenever you edit a photo in a major way, the default settings of Photo Shop would usually ask you to save the file in psd format; be that as it may, it...
+
+
+Keywords:
+photo shop tutorial,adobe photo shop tutorial,free photo shop tutorial
+
+
+Article Body:
+Photo Shop is one of the most amazing and yet complicated software programs out in the market right now, but don’t worry…you’ll only have to suffer its complicatedness at the start. After a while, you’ll soon get the hang of Photo Shop and then you’ll be editing your photos like mad!
+
+Tip #1 Choosing the Type of Image File
+Whenever you edit a photo in a major way, the default settings of Photo Shop would usually ask you to save the file in psd format; be that as it may, it’s better for you to save your photos in jpeg as this is the most commonly accepted file and allows you to upload photos easily on just about any website.
+
+Tip #2 Images without Background
+Let’s say you wish to create a particular shape or text or you’ve cut out a particular figure and you wish to use it on a website or even any design without white background. This is impossible to do with MS Paint, but certainly easy to achieve with Adobe Photo Shop.
+
+First, set the background to transparent. Next, paste or create the desired text, shape, or photo. Once you’re done, you have to click on Save for Web and not simply Save As because the latter would cause your photo to lose its transparent background.
+
+Tip #3 Understanding Contrast
+You see this term being used a lot when describing art or even when discussing about adjustment levels of a plasma TV. But do you really understand what contrast is? To put thing simply, contrast is the ability of a certain object, in this case that would be Photo Shop, to display the contrast or difference between dark and light colors or the difference between black and white. In a monochromatic photo, contrast is especially important because it makes distinguishing various objects in the photo easier. In colored photos, contrast is important when the photo has a particularly dark background.
+
+Tip #4 Choosing the Quality Level
+When you use Photo Shop to edit a photo, you might be asked in the end to choose the level of quality for your photo before saving it. The ideal level to choose is 60 because it allows you to enjoy superior quality while reducing the file size of your photo. Anything more can be particularly heavy and consume much disk space while the anything less can compromise the appearance of your photo.
+
+Tip #5 Going Retro
+To make your photos black and white, simply go to the Image Toolbar then click grayscale and your photos would immediately look decades older.
+
+Tip #6 Layers
+This feature of Adobe Photo Shop never fails to intimidate most beginners, but you shouldn’t let it scare you. Once you understand how layers work, you’ll be virtually addicted to using it frequently to enhance your photos.
+
+Layers basically let you know the different layers that your photo consists of. Yes, your photo is indeed made up of multiple layers, and you can a new one or remove an old one with the Layers Toolbar. Using layers will allow you to edit one part of the photo without affecting the rest.
+
+Tip #6 Marquee Tools
+Lastly, these tools allow you to select a portion of the photo in the shape you prefer. The rectangular selection tool is the simplest and most commonly used. The elliptical marquee tool will allow you to make a circular selection while the single row or column marquee tools – as their names imply – allow you to make a straight line selection in your photo.
+
+

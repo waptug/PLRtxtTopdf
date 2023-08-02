@@ -1,0 +1,32 @@
+Title: 
+The Puzzling World Of Sudoku Puzzles
+
+Word Count:
+513
+
+Summary:
+Sudoku puzzles are the newest puzzle craze currently sweeping across many parts of the United States. The game has only one basic rule, that is, every row and every column on a 3 by 3 box of Sudoku puzzles has to contain the numbers 1 through 9, but only once with no one digit repeating itself.
+
+Sudoku puzzles, also referred to as Number Place in the United States, are said to be deceptively simple, since a player can start the game quite easily only to find himself later o...
+
+
+Keywords:
+sudoku puzzles
+
+
+Article Body:
+Sudoku puzzles are the newest puzzle craze currently sweeping across many parts of the United States. The game has only one basic rule, that is, every row and every column on a 3 by 3 box of Sudoku puzzles has to contain the numbers 1 through 9, but only once with no one digit repeating itself.
+
+Sudoku puzzles, also referred to as Number Place in the United States, are said to be deceptively simple, since a player can start the game quite easily only to find himself later on getting stuck in the middle of the game with no clear puzzle solution in sight.
+
+Good Sudoku puzzles ideally should ultimately have only one solution, using only one's logic skills, meaning guesswork is not an effective method in solving the puzzle.
+
+However, solving Sudoku puzzles on pure logic alone can prove to be a difficult task. For logic to be effective, a puzzle should be able to move progressively. This simply means that at every stage in the solution of the puzzle, there must be at least one square or block whose value can be determined easily. Determining that one value should then uncover at least one other fully determined value, and so on and so forth. Yet, this process can best be achieved by applying guesswork. By making a speculative or guessed entry in one block, a player can eventually determine if the other block has a logical entry or maybe none at all. This can be quite confusing, but the implication here is that while Sudoku claims that it can be solved by logic alone, it is not a good starting option. A player has to first make a guess or even guesses on his or her initial entry.
+
+While Sudoku puzzles appear to continue boggling the minds of many puzzle addicts, it is interesting to note how the puzzle can be solved with relative ease by many computer programs. The question of logic and guesswork again comes into play in this particular aspect because most computer softwares are often programmed to make use of the trial-and-error concept, making quick corrections when an errant entry is made in a particular square or block.
+
+Playing against a computer in a game involving Sudoku puzzles thus tends to be a futile endeavor. Your opponent can easily make the necessary corrections, using purely trial-and-error, and ultimately finding the right solution. You, on the other hand, are stuck in logical thinking, trying to justify the entry of a particular digit in a particular square or block.
+
+Nevertheless, the beauty of Sudoku puzzles is that while the rules involved are quite simple, they do not necessarily solve the puzzle by themselves alone. The game also requires the application of a certain degree of analytical method that is not entirely written in black and white, but often can be discovered only by mere guesswork. A few of these in fact have been given interesting names such as "swordfish" and "x-wing". In this regard, it is no great wonder that Sudoku puzzles have become a popular pastime in many parts of the world.
+
+

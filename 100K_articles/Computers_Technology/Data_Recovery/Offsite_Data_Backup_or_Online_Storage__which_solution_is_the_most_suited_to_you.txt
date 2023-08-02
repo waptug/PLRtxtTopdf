@@ -1,0 +1,42 @@
+Title: 
+Offsite Data Backup or Online Storage, which solution is the most suited to you
+
+Word Count:
+572
+
+Summary:
+Many people think that offsite data backup and online storage solutions are the same solution.  Please read this article to find out the differences enabling you to make an informed choice.
+
+
+Keywords:
+data backup, offsite backup, remote backup, online storage, internet backup, backup, backup
+
+
+Article Body:
+Most people still think that backing up to an offsite environment is the same solution as moving files to an online storage system.  If you want to know what the differences are, so you are able to make an informed decision, please read on.
+
+Online file storage is a means for moving your digital photos, music, movies and projects off your computer via the internet to a remote storage facility, so you can access them from anywhere, share them with friends. Online file storage works by giving you and thousands of other people storage space on large internet servers.  This storage is basically used as an extension to your local storage.  
+
+A typical example of use would be anybody how has non-critical data such as MP3, MPG, JPEG files who would wish to store data remotely in case of drive failure or loss and may also wish to share said files with friends.  Please note this form of data storage is for file data only and would require manual transfer via ftp.  Online storage is ideal for a home user looking to secure or store data offsite.
+
+Offsite Backup is a commercial offering, originally used buy large corporate organizations who could afford high bandwidth connections ensuring their data is backed up to third party locations with highest emphasis placed upon security.  As the cost of internet connectivity has greatly reduced, offsite secure backup services have become available to smaller businesses.  I am sure you can appreciate, if a company, business or organization was to lose data, it would not know who its customers are, who owes money to whom, therefore creating many more challenges than a home user losing their MP3 collection would face.  
+
+It is not just an issue of moving file data to a remote location, there are many other factors a company has to address, such as:
+
+What type of data has to be backed up – most companies will have a database in one form or another such as, Microsoft Exchange, Microsoft SQL, MySQL, Oracle or Lotus Notes which will be running 24 hours a day.  A backup solution must contain agents for backing up the databases in question whilst the database is running and must support multiple operating systems, such as Windows, Novel, Linux and Unix etc.
+
+Security – The data to be backed up is “sensitive” and you would certainly not wish to share this data.  Before data is backed up it must be encrypted to the highest levels possible, levels used by your bank or the military for example.  Your data must be stored whilst still in the encrypted state ensuring only you have access.
+
+Data Backup can create a large manpower overhead, so your offsite solution must be totally automated requiring no human intervention, set and forget.
+
+The hardware must be dedicated for backup and resilient as possible with no single points of failure and then for good measure this whole infrastructure must be replicated in real time to a second datacenter.
+
+All the above factors will ensure your business data is backed up and available for restore regardless of data disaster.
+
+In summary, online storage, great for home users storing MP3, Video and file data. Offsite data backup is a must for business use.
+
+To find out more information about secure offsite data backup solutions, please visit
+<a href="http://www.perfectbackup.co.uk/" style="color: blue; text-decoration: underline; text-underline: single">
+www.perfectbackup.co.uk</a>
+
+

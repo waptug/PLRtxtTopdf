@@ -1,0 +1,27 @@
+Title: 
+Define ODBC
+
+Word Count:
+140
+
+Summary:
+ODBC (Open Data Base Connectivity) is a function library which provides a common API (Application Programming Interface) for ODBC compliant database management systems.
+
+
+Keywords:
+Define ODBC
+
+
+Article Body:
+ODBC (Open Data Base Connectivity) is a function library which provides a common API (Application Programming Interface) for ODBC compliant database management systems.
+ODBC was developed by the SQL Access Group in 1992.
+ODBC operates as an industry-standard "shim" between applications which utilize databases and the databases themselves.
+If an application is developed using ODBC, the application will be able to store data in any database management system which is equipped with an ODBC driver.
+ODBC drivers are often developed in sub-components:
+•	An ODBC Driver Manager 
+•	ODBC Drivers 
+The application submits ODBC calls to the ODBC driver manager.
+The ODBC driver manager selects the appropriate ODBC driver, loads that driver, and sends read or write requests using that driver.
+The ODBC driver processes the ODBC function calls, submits the SQL requests to the database, and returns the results to the application.
+
+

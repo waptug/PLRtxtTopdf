@@ -1,0 +1,40 @@
+Title: 
+Servers: Just What Are They And Why Do We Need Them!
+
+Word Count:
+615
+
+Summary:
+Servers at Your Service
+
+Servers are what make it possible for you to view what you wish to view on the Internet. At its most basic level, what happens when using servers is that browsers connect to servers, requesting that a Web page be displayed. The servers then send back the pages requested. Internet browsers are what form the connections to Web servers that allow the page to be requested and then received by the end user.
+
+There are three parts to a Web page address,...
+
+
+Keywords:
+servers,computers,internet,online,business,pc,laptops,laptop,notebooks,notebook,cases,hosting
+
+
+Article Body:
+Servers at Your Service
+
+Servers are what make it possible for you to view what you wish to view on the Internet. At its most basic level, what happens when using servers is that browsers connect to servers, requesting that a Web page be displayed. The servers then send back the pages requested. Internet browsers are what form the connections to Web servers that allow the page to be requested and then received by the end user.
+
+There are three parts to a Web page address, better known as a URL. The first part of this URL is called a protocol. The first part of the address is called the protocol. Http is a protocol and stands for Hypertext transit protocol. The next part of the URL tells you the name of the server. In http://www.myWebSite.com , the server is MyWebSite. The file name is something like web-server.htm, for example.
+
+Browsers communicate with name servers to translate those server names into IP (Internet Protocol) addresses, which is the way they connect to the machine that is acting as the server. Browsers connect by means of ports, all of which are numbered. Port 80, for example, is a common port number.
+
+Every machine has its own unique IP. These addresses are made up of 32 bits, and are usually expressed in four groupings in a dotted decimal number. These groupings are known as octets. An example of an IP address written as an octet is 327.38.72.248 .
+
+Servers have IP addresses that are static and seldom change. A home computer getting online through its modem often has an IP address that the ISP assigns when the machine gets online. The IP address is unique only for that session, so it can change each time the user uses it to get online. This is more efficient for the ISP, as it only needs to have one address for each machine that has dialed in, rather than saving a particular IP for each machine.
+
+After the HTTP protocol, the browser sends a request to the server, called a GET request, which asks for the file. A GET request can also send cookies from browsers to servers. The next step is when the server sends the HTML text for that requested Internet page back to the browser. The HTML tags then read by the browser and subsequently format the page onto the user’s screen.
+
+The Internet is made up of a huge collection of computers – millions of them – that are all linked by one common computer network. This computer network makes it possible for the computers to all talk to each other. A home PC can be linked to this Internet through dial up (a landline telephone carrier’s line), through DSL line, or a cable modem. All of these systems communicate with an Internet Service Provider (ISP.)
+
+Generally, organization or business computers are linked to each other by means of a network so that they can share information in-house back and forth. They do this by means of a network interface card. This NIC then connects directly to a local area network (LAN) that is housed within the organization or business. This LAN is then connected to the associated ISP by what is known as a T1 line, a very fast and powerful connection to the servers.
+
+ISPS connect to each other. The largest of these ISPs maintain the backbone of the entire system across the region or perhaps the country. This backbone is fiber optic. Through these fiber optic lines, satellite links or undersea cable, various backbones connect all over the globe. This is the way servers and clients the world over connect all to each other.
+
+

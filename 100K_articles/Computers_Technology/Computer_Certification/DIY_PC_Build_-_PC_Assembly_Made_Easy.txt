@@ -1,0 +1,151 @@
+Title: 
+DIY PC Build - PC Assembly Made Easy
+
+Word Count:
+2865
+
+Summary:
+Very Simple & Easy Step by Step procedures on building your very own DIY PC Assembly with recommended upgrades by flashG !!
+
+
+Keywords:
+assemble pc, Build DIY PC Assembly, buy pc, computer upgrades, diy pc, gaming computer, how to build your own computer, laptops, new pc upgrades, PC Assembly, pc upgrade, recommended pc upgrades
+
+
+Article Body:
+<span style="font-size:180%;"><span style="font-weight: bold;"><span style="color: rgb(153, 51, 153);">DIY PC Assembly Steps</span></span></span><a href="http://bp2.blogger.com/_rHa6Z_3h-Yk/RxA0JUKrclI/AAAAAAAAADw/PVOKlipaba4/s1600-h/Best+recommended.bmp"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer;" src="http://bp2.blogger.com/_rHa6Z_3h-Yk/RxA0JUKrclI/AAAAAAAAADw/PVOKlipaba4/s320/Best+recommended.bmp" border="0" /></a><span style="font-size:180%;"><span style="font-weight: bold;">
+</span></span>
+<span style="font-weight: bold; color: rgb(51, 102, 255);"></span><span style="font-style: italic;"><span style="font-weight: bold;">
+</span></span>When you have the new PC components items available, next step is to <span style="font-weight: bold; color: rgb(51, 51, 255);">Assemble the PC</span> together. This is the most interesting part and also the most rewarding part when your system is up and running, all credits to Yourself!!
+
+
+
+<span style="font-weight: bold;">Essential Tools required: </span><a href="http://bp3.blogger.com/_rHa6Z_3h-Yk/RxA1QkKrcmI/AAAAAAAAAD4/8TUXQcc3flE/s1600-h/screwdriver.bmp"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer;" src="http://bp3.blogger.com/_rHa6Z_3h-Yk/RxA1QkKrcmI/AAAAAAAAAD4/8TUXQcc3flE/s400/screwdriver.bmp" border="0" /></a>
+1) A screwdriver (Cross-shaped)
+
+Optional Recommended Items:
+1) Torchlight (To illuminate hard to see areas)
+2) Antistatic wrist strap (To discharge of any static charges)
+
+Let¡¯s start now. Firstly, discharge yourself of any static charges by touching the<a href="http://bp2.blogger.com/_rHa6Z_3h-Yk/RxBAHUKrctI/AAAAAAAAAEw/MUtRDLvTfek/s1600-h/silvercasefull.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer;" src="http://bp2.blogger.com/_rHa6Z_3h-Yk/RxBAHUKrctI/AAAAAAAAAEw/MUtRDLvTfek/s200/silvercasefull.jpg" border="0" /></a> metal casing or attaching the other side of the antistatic wrist strap to the metal casing.
+
+<span style="font-weight: bold; font-style: italic;">1) Open the case</span>
+<span style="font-weight: bold; font-style: italic;">
+</span>
+
+<span style="font-weight: bold; font-style: italic;">2) Install the motherboard</span>
+Find the motherboard standoffs that should have come with the case. Insert the I/O Shield that came with your motherboard. <a href="http://bp2.blogger.com/_rHa6Z_3h-Yk/RxA9KUKrcqI/AAAAAAAAAEY/7Dox24hHfV0/s1600-h/motherboard.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer;" src="http://bp2.blogger.com/_rHa6Z_3h-Yk/RxA9KUKrcqI/AAAAAAAAAEY/7Dox24hHfV0/s320/motherboard.jpg" border="0" /></a>Now locate the screw holes on your motherboard and find the corresponding holes on the motherboard plate (or tray) in the case. Put a standoff in each of these holes on the tray and position the motherboard so that you can see the holes in the top of the standoffs through the screw holes in the motherboard. Now fasten a screw through each of the motherboard screw holes into the standoffs underneath. These screws should be snug but not tight. With the motherboard in, we are now able to start adding in other components.
+
+
+<span style="font-weight: bold; font-style: italic;">3) Install the CPU.</span><a href="http://bp2.blogger.com/_rHa6Z_3h-Yk/RxA_bUKrcsI/AAAAAAAAAEo/_m7gqMoNyAA/s1600-h/intel+quad+core+picture.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer;" src="http://bp2.blogger.com/_rHa6Z_3h-Yk/RxA_bUKrcsI/AAAAAAAAAEo/_m7gqMoNyAA/s200/intel+quad+core+picture.jpg" border="0" /></a>
+As I mentioned earlier, the processor (CPU) and motherboard go hand-in-hand, so you should spend some time planning and researching what you really desires and buy compatible CPU / motherboard components, just like the importance of buying the right shoe size for yourself. Given that this is a minimum system upgrade, you are saving up quite a bit through reusing other components; I suggest you build a better performing system so that it can serve you for several years to come.
+
+Before start, please read the manual provided with the motherboard/CPU carefully, understand the different parts, and the installation diagrams before proceeding. Then again, it is not very difficult with only 3 simple steps to success.
+
+
+<span style="color: rgb(51, 51, 255);font-size:85%;" ><span style="font-weight: bold;"><span style="font-size:130%;">1</span>st step to success: Install the CPU</span></span>
+I will be using Intel Socket 775 as illustration as it is the latest socket used so far.
+-Remove the protective socket on the new socket protecting the pins
+-Open the lever and lift up the metal flap so as to install the CPU
+-While carefully holding the CPU at the edges, look for the notch in the corner and match it up with the socket. Slowly lay down the CPU in the socket, before lowering the metal flap, and closing the socket lever to secure the CPU.
+
+<span style="color: rgb(51, 51, 255);font-size:85%;" ><span style="font-weight: bold;"><span style="font-size:130%;">2</span>nd step to success: Install the CPU heatsink</span></span>
+If you like to go to a cool place to enjoy some aircon when you are hot, the same can be said of the CPU which you have just installed. We need to dissipate the high heat generated by the CPU so that it would not overheat and fry.
+-I am recommending getting hold of some thermal paste which you can apply evenly on the CPU surface for better heat conductivity and dissipation. (To note: Intel? boxed processor already come with their integrated thermal solutions, and so does not need extra efforts)
+-Align heat sink onto the Socket containing the CPU, with the fan cable orientated closest to fan power connector, and check for any entanglement.
+-Press down on fastener caps with thumb to install and lock. Repeat with the other 3 fasteners.
+
+<span style="color: rgb(51, 102, 255);font-size:85%;" ><span style="font-weight: bold;"><span style="font-size:130%;">3</span>rd step to success: Power up the heat sink</span></span>
+This is done by connecting the fan cable from step 2 to the CPU_FAN connector located on the motherboard, which is located very close to the CPU. Tie up excess cable to prevent interference with fan operation or other components.
+
+<span style="font-style: italic;">Congrats, by the time you finished this, the rest should be a breeze already =)</span>
+
+
+<span style="font-weight: bold; font-style: italic;">4) Install the Memory</span><a href="http://bp0.blogger.com/_rHa6Z_3h-Yk/RxBBM0KrcuI/AAAAAAAAAE4/0hT3yTGEqdQ/s1600-h/memory+chips.gif"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer;" src="http://bp0.blogger.com/_rHa6Z_3h-Yk/RxBBM0KrcuI/AAAAAAAAAE4/0hT3yTGEqdQ/s320/memory+chips.gif" border="0" /></a>
+
+With a new motherboard and faster processor, we will then need more RAM (random access memory) to enable and facilitate this faster performance. Again, you should spend some time planning and researching on memory which is compatible with the new CPU and motherboard you have installed to bring out the best overall performance. To install the RAM modules, you need to unfasten the clips located on each side of the memory slot. Align the RAM module in the socket, such as to match the indent located on the memory chip and the memory slot, for the right facing direction. Push down on the memory module until both clips refasten and a click sound is heard. To change memory, simply press down the both clips at the same time, and the RAM will come out easily.
+
+<span style="font-weight: bold; color: rgb(204, 102, 0);">TIP:</span> Start adding RAM at the slot labeled ¡°Bank 0¡± or ¡°DIMM 1¡±. If you don¡¯t, the system will think there is no memory available and wont boot.
+
+<span style="font-weight: bold; color: rgb(204, 102, 0);">TIP:</span>For newer systems supporting hyper treading technology, you are encouraged to use the dual channel memory functionality by placing 2 sticks of the same memory on alternate slots (i.e.: slot 1 &amp; 3 or Slot 2 &amp; 4, often differentiated by color as well. ) This has been proven to enhance the performance as well.
+
+After installing the new motherboard / CPU, and memory, you are already DONE installing the New essential items you have bought. YEAH!! Now that is left is to migrate the remaining items from the old pc to your "<span style="font-weight: bold;">Brand New</span>" PC. =)
+
+
+<span style="font-weight: bold; font-style: italic;">5) Install the Power Supply</span><a href="http://bp3.blogger.com/_rHa6Z_3h-Yk/RxBCDkKrcvI/AAAAAAAAAFA/WyEf2gg9eHY/s1600-h/power+supply.JPG"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer;" src="http://bp3.blogger.com/_rHa6Z_3h-Yk/RxBCDkKrcvI/AAAAAAAAAFA/WyEf2gg9eHY/s200/power+supply.JPG" border="0" /></a>
+
+There will be a bracket at the top of the case where you can mount the power supply, and secure the power supply using screws. The power supply will consists of the following connectors: ATX power connector, ATX_12V connector, IDE power connector, and FDD power connector. Look for the 20 or 24 pin ATX power connector, and plug it into the motherboard allocated power slot. There may also be an additional four or eight pin power lead on the motherboard that needs to be plugged in, which is usually located near the processor socket. Do double confirm with the motherboard manual for details.
+
+<span style="font-weight: bold; color: rgb(204, 102, 0);">TIP:</span> You might want to consider getting a new power supply which rating is at least 300W so as to support any future upgrades you have in mind.
+
+<span style="font-weight: bold; color: rgb(204, 102, 0);">TIP:</span> You need to select the right power supply settings (115v or 220v) depending on your country settings. For newer power supplies, it is equipped with automatic detection, so that will not be an issue at all.
+
+
+<span style="font-weight: bold; font-style: italic;">6) Install the Floppy drives/Hard-disks/DVD writers</span><a href="http://bp0.blogger.com/_rHa6Z_3h-Yk/RxBDi0KrcwI/AAAAAAAAAFI/K-4r3u5wIZA/s1600-h/dvd+writer.gif"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer;" src="http://bp0.blogger.com/_rHa6Z_3h-Yk/RxBDi0KrcwI/AAAAAAAAAFI/K-4r3u5wIZA/s200/dvd+writer.gif" border="0" /></a>
+
+Floppy disks, Harddisks and DVD ROM/writers communicate with the CPU through data cables commonly called FDD/IDE cables, although newer harddisks now connect via SATA cables for faster data communications.
+
+<span style="font-weight: bold; color: rgb(204, 51, 204);">Note: </span><span style="color: rgb(204, 51, 204);">FDD Cable for floppy disk drives appears smaller and has fewer wires.</span>
+
+<span style="font-weight: bold; color: rgb(204, 51, 204);">Note:</span><span style="color: rgb(204, 51, 204);"> Using multiple hard disks</span> <span style="color: rgb(204, 51, 204);">If you have intention on using multiple hard disks, you must adjust the settings on the multiple disks to inform the computer system which is the main disk and the other supporting/additional disks. If not done properly, the system can get confused, and the disk may not boot at all. Do read the simple instructions as shown on the harddisk surface for the right way to place the jumpers so as to distinguish between the master drive (main operating system) and the slave drives (other files/documents). This instruction varies across different harddisk manufacturers. This configuration should be done before inserting the IDE cables.</span>
+
+First, remove the front casing of the computer, and remove the 5.25" plate so a<a href="http://bp2.blogger.com/_rHa6Z_3h-Yk/RxBFrUKrcyI/AAAAAAAAAFY/uVquX9S9VJc/s1600-h/IDE+connection.bmp"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer;" src="http://bp2.blogger.com/_rHa6Z_3h-Yk/RxBFrUKrcyI/AAAAAAAAAFY/uVquX9S9VJc/s320/IDE+connection.bmp" border="0" /></a>s to expose the front of the DVD drives later. Similarly do it for the floppy drive plate. Insert the IDE cables into the floppy drive/ harddisk/ DVD data connector noting the orientation of the notch in the centre, so as to insert in the right directions. The remaining connector is to be connected to the motherboard. Next, to power up the drives by plugging in the 4 pin molex power connector from the power supply in step 5 into each hard drive and optical drive. For the floppy drive, the power plug is also 4 pins in a row but significantly smaller than that of the hard disk. Need to take note of the power connector orientation as well.
+
+Final securing all disks and optical drives with screws before securing back the front casing cover.
+
+<span style="font-weight: bold; color: rgb(255, 102, 0);">TIP:</span><span style="font-weight: bold;"> </span>Recommend that the IDE hard disk be connected to the IDE 1 connector and the optical devices connect to the IDE 2 connector. Maximum of 2 IDE devices per IDE connector. If using multiple IDE hard drives, you should enter BIOS later on and set their boot sequence accordingly.
+
+
+<span style="font-weight: bold; font-style: italic;">7) Install the Video Card</span>
+
+For older motherboards, we typically see AGP video card being used, which will be installed onto the AGP socket, which is often brown in color. For newer systems, <a href="http://bp0.blogger.com/_rHa6Z_3h-Yk/RxBHu0KrczI/AAAAAAAAAFg/bTtjOQegKL0/s1600-h/video+graphics.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer;" src="http://bp0.blogger.com/_rHa6Z_3h-Yk/RxBHu0KrczI/AAAAAAAAAFg/bTtjOQegKL0/s200/video+graphics.jpg" border="0" /></a>PCI Express video cards are more commonly used due to better data transfer performance and better resolution performance. Both AGP and PCI Express slots can be identified easily, and is usually located adjacent to the CPU unit.
+
+Now, insert the card into the slot with some force, and check that it is fully inserted with no protruding edges, before screwing it in at the top of the metal bracket. If it has a power connector, connect it with a 4-pin molex connector.
+
+
+<span style="font-weight: bold; font-style: italic;">8) Remaining Internal Connections</span>
+-Connect the audio cable from the DVD to the motherboard CD_IN connector (if required)
+-Connect the power/reset buttons, and signal indicators (those external blinking lights) to the F_Panel connector on the motherboard. (i.e: Power indicator, hardware indicator, internal speaker, etc...). Read individual motherboard manual for clearer inserting of these signal connectors.
+-Double check on proper power connection to all hardware components
+- (Optional) Install extra items such as front mounted USB, firewire and/or sound ports.
+
+At this point We are 90% done with our DIY PC Assembly already !! Do not put back the casing covers as yet.
+
+<span style="font-weight: bold; font-style: italic;">9) Final External Connections</span>
+-Connect back the outer devices including items like
+a) Keyboard
+b) Mouse
+c) Monitor
+d) Printer / Scanners
+e) Speakers
+f) External power supply cable
+
+<span style="font-weight: bold; font-style: italic;">10) Bring on the POWER!!</span>
+This brings us to the last stage of the PC assembly process. If you have done everything right, now is the time to sit back and savor the fruit of success.
+
+With the casing still open, and all external peripherals connected, turn on the computer and observe for any abnormality such as fan not spinning, or beeps alarms from the PC. If so, turn off the power and spend some time checking through the connections, and also the manual for some tips on troubleshooting.
+
+Well, if you observed no abnormality till far, and you have seen the splash screen from the motherboard, <span style="font-size:130%;"><span style="font-weight: bold;">CONGRATULATIONS!! You have succeeded in building your own PC </span></span>in this PC Assembly DIY guide by <a href="http://www.flashgor.blogspot.com/">flashG.</a>
+
+
+<span style="font-weight: bold;">
+</span><span style="font-weight: bold;">Next step is to</span>
+<p style="text-align: center;"><span style="color: rgb(0, 0, 0);font-size:130%;" ><u>Choose and Install your Operating System</u>
+Click below for latest deals </span>
+
+<a href="http://www.amazon.com/b?%5Fencoding=UTF8&amp;node=229653&amp;tag=flablo0a-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325"><img style="margin: 0pt auto 10px; display: block; width: 392px; cursor: pointer; height: 138px; text-align: center;" src="http://bp2.blogger.com/_rHa6Z_3h-Yk/RxGwWEKrc7I/AAAAAAAAAGw/a1yX28Zeuos/s400/windows+vista.bmp" border="0" /></a>
+
+if using a brand new harddisk, and this can be done by changing the boot options in the BIOS to Floppy, then CD-ROM, then Hard Disc. Insert the original bootable operating system disc in the DVD drive, and start your computer and follow the instructions in the disc to install.
+
+Once your operating system is up and running, the rest of the show is all YOURS !! =)
+
+</p><embed flashvars="altServerURL=http%3A%2F%2Fwww.metacafe.com&amp;playerVars=blogName=Easy%2BBuild%2BDIY%2BPC%2B!!|blogURL=basidcdiypc.blogspot.com" src="http://www.metacafe.com/fplayer/878119/essential_diy_pc_assembly_guide_through_videos_must_watch.swf" wmode="transparent" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" height="345" width="400"></embed>
+
+<p></p><p style="text-align: center;"><span style="font-weight: bold;"><span style=";font-family:verdana;font-size:180%;"  >CONCLUSION</span></span></p>
+<span style="font-weight: bold;">-----------------------------------------------------------------------------------------------
+</span>
+In this tutorial, I have shared with you valuable insights on building your own PC with minimum upgrades, so that you can customize your PC to your needs and still keep it very affordable. I have also showed you in details on the installation of various pc components, and I hope you find it informational and useful in helping you with a headstart.
+
+With knowledge comes power, and I hope you are now Very Motivated to start your own DIY PC Assembly in the comfort of your own home. =)
+
+

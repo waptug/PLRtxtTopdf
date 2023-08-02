@@ -1,0 +1,55 @@
+Title: 
+Cisco CCNA Certification:  Five Key Combinations You Should Know
+
+Word Count:
+437
+
+Summary:
+The sheer number of keystroke combinations on a Cisco router can be quite intimidating for a newcomer!  Chris Bryant, CCIE #12933, shows you the combinations you must know for exam and on-the-job success.
+
+
+Keywords:
+Ccna,ccnp,intro,icnd,640-801,610-811,ping,traceroute,stop,escape,sequence,abort,pass,exam,free,cisco,chris,Bryant,advantage,12933
+
+
+Article Body:
+When you start studying for your CCNA and CCNP exams, many books will present you with a huge list of keystroke shortcuts for use on Cisco routers.  While the 640-801, 811, and 821 exams may ask you about one or two of these, you really have to get hands-on experience with these commands to master them.  Even better, there are some key combinations that Cisco routers mention, but then don't tell you what they are!  Let's take a look at a few of the more helpful key combinations, and conclude with the "secret" way to stop a ping or traceroute.
+
+The up arrow on your keyboard is great for repeating the last command you typed.  Let's say you mis-enter an access-list.  Instead of typing it from the beginning, just hit your up arrow to repeat it, then fix the problem.
+
+CTRL-A takes the cursor to the beginning of a typed line.  If you've written an extended ACL, you know that can be a very long command, and one you probably don't want to retype.  If you get a carat indicating there is a problem with the line, use your up arrow to repeat the command. If you see the error is near the beginning, use CTRL-A to move the cursor immediately to the beginning of the line.  CTRL-E  takes the cursor to the end of a typed line.  
+
+To move the cursor through a typed line without erasing characters, you've got a couple of options. I personally like to use the left and right arrows, but you can also use CTRL-B to move back and CTRL-F to move forward.
+
+Finally, there's the combination that Cisco mentions to you when you run ping or traceroute, but they don't tell you what it is!  If you send an extended ping or a traceroute, you could be looking at asterisks for a long time if you don't know this one.  In the following example, a traceroute is obviously failing:
+
+R2#traceroute 10.1.1.1
+
+Type escape sequence to abort.
+
+Tracing the route to 10.1.1.1
+
+1	*  *  *
+
+2  *  
+
+The problem is that you're going to get 30 rows of those asterisks, which is frustrating and time-consuming at the same time.  Note the router console message "Type escape sequence to abort".  That's helpful - but what is it?
+
+Here it is:  Just type CTRL-SHIFT-6 twice, once right after the other.   You won't see anything on the router console, but the traceroute will terminate.
+
+R2#traceroute 10.1.1.1
+
+Type escape sequence to abort.
+
+Tracing the route to 10.1.1.1
+
+1	*  *  *
+
+2     *  *  *
+
+3
+
+R2#
+The traceroute was successfully terminated.  This combination works for pings as well, both extended and regular.  Of all the keystrokes you can learn, this one is the most valuable!
+
+

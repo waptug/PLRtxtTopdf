@@ -1,0 +1,26 @@
+Title: 
+Computer Software
+
+Word Count:
+524
+
+Summary:
+Computer software is the combination of programmes and applications which interface with the physical components of the computer, the hardware, to enable the user to perform specific functions and tasks. There are two basic types of software, known as system software, which is responsible for the basic functions of the computer, and application software, such as Word Processing programmes, which enable the user to perform actual specific tasks, e.g. typing. 
+
+An operating s...
+
+
+Keywords:
+computer software articles, computer software,
+
+
+Article Body:
+Computer software is the combination of programmes and applications which interface with the physical components of the computer, the hardware, to enable the user to perform specific functions and tasks. There are two basic types of software, known as system software, which is responsible for the basic functions of the computer, and application software, such as Word Processing programmes, which enable the user to perform actual specific tasks, e.g. typing. 
+
+An operating system is the software behind all of the system and application management; it is responsible for organising and controlling how each of the systems interface with each other (basically the smooth running of every programme), for example, allocating the appropriate amount of memory in accordance with which programmes are running and require more power and input. Examples of operating systems are Linux, and of course Microsoft Windows, which holds a monopoly on the computer market for such systems. Without an Operating system, computers are merely empty shells with little or no use. They will typically run their won application software, for example Microsoft Windows has packages such as Microsoft Office, which deals with word processing, publishing, presentation slides, databases, etc. Modern computers can run several applications simultaneously without crashing and becoming slow, depending on the power and capabilities of the operating system.
+
+Software is constantly being up dated and new versions being released, so much so that current systems can become out of date within months – it is a very fast moving and fast evolving area of industry. Microsoft have just released their latest operating system to follow on from the roaring success of Windows XP; Vista. Packages available include Home Basic, Home Premium, Ultimate and Business. The main improvements and selling points of this service package include state of the art user interfaces (Aero – Authentic, Energetic, Reflective and Open), easier transfer of media between devices and computers, better security (virus protection, etc) and new multimedia programmes. For example, Windows Media Player 11 is included in the package and has undergone a major revamp; including user interfacing, new search capabilities, and the facility too hook up with external devices such as the Xbox 360. 
+
+However, many consumers are fully aware of Microsoft’s dominance in the computer industry and in particular the software market, and are reluctant to shell out for the new programme where many of the new features are seen as luxuries rather than necessities, and on top of that Vista cannot be installed on any machine – brand new machines must be purchased with the system already built in. So potential customers will have to buy a whole new PC setup just to be able to use Microsoft Vista – not a popular choice amongst consumers in an industry where there will doubtless be further improvements and new, better software waiting just around the corner. An advantage gained then, for rival Linux, whose majority of software CD’s and packages can be accessed for free, so whilst it is a lot more complex and less user friendly than the likes of Microsoft and their Windows packages, yet it remains one of the most reliable and up to date operating systems out there.
+
+

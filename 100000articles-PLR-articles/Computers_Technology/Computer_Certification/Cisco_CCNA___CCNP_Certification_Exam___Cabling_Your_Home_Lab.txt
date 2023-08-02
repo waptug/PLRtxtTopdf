@@ -1,0 +1,28 @@
+Title: 
+Cisco CCNA / CCNP Certification Exam:  Cabling Your Home Lab
+
+Word Count:
+354
+
+Summary:
+Putting together a Cisco home lab is a great idea, but sometimes choosing the right cabling can be a little confusing.  Learn the details from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+ccna, ccnp, home, lab, cable, router, switch, crossover, dte, dce, serial, direct, pass, free, exam
+
+
+Article Body:
+More CCNA and CCNP candidates than ever before are putting together their own home labs, and there's no better way to learn about Cisco technologies than working with the real thing. Getting the routers and switches is just part of putting together a great CCNA / CCNP home lab, though. You've got to get the right cables to connect the devices, and this is an important part of your education as well. After all, without the right cables, client networks are going to have a hard time working!
+
+For your Cisco home lab, one important cable is the DTE/DCE cable. These cables have two major uses in a home lab. To practice directly connecting Cisco routers via Serial interfaces (an important CCNA skill), you'll need to connect them with a DTE/DCE cable. Second, if you plan on having a Cisco router act as a frame relay switch in your lab, you'll need multiple DTE/DCE cables to do so. (Visit my website's Home Lab Help section for a sample Frame Relay switch configuration.)
+
+If you have multiple switches in your lab, that's great, because you'll be able to get a lot of spanning tree protocol (STP) work in as well as creating Etherchannels. To connect your switches, you'll need crossover cables.
+
+You'll need some straight-through cables as well to connect your routers to the switches.
+
+Finally, if you're lucky enough to have an access server as part of your lab, you'll need an octal cable to connect your AS to the other routers and switches in your lab. The octal cable has one large connector on one end and eight numbered RJ-45 connectors on the other end. The large connector should be attached to the async port on your AS, and the numbered RJ-45 connectors will be connected to the console ports on your other routers and switches. 
+
+Choosing and connecting the right cables for your Cisco CCNA / CCNP home lab is a great learning experience, and it's also an important part of your Cisco education. After all, all great networks and home labs all begin at Layer One of the OSI model!
+
+

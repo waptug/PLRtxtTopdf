@@ -1,0 +1,28 @@
+Title: 
+Cisco CCNP Certification / BSCI Exam Tutorial:  Comparing IRDP And HSRP
+
+Word Count:
+282
+
+Summary:
+Learn the details about the differences between IRDP and HSRP from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+cisco, ccnp, certification, bsci, exam, irdp, hsrp, backup, router, switch, pass, free, tutorial
+
+
+Article Body:
+To pass the BSCI exam, you need to know the difference between IRDP and HSRP. While they have the same basic function, the operation and configuration of each are totally different.
+
+The aim of both is to allow hosts to quickly discover a standby router when the primary router fails. IRDP is commonly used by Windows DHCP clients and several Unix variations, but you do see it in Cisco routers as well. IRDP is defined in RFC 1256.
+
+IRDP routers will multicast Hello messages that host devices hear. If a host hears from more than one IRDP router, it will choose one as its primary and will start using the other router if the primary it's chosen goes down. 
+
+HSRP is a Cisco-proprietary protocol that is designed for quick cutover to a secondary router if the primary fails, but the host devices don't "see" either the primary or secondary router. The hosts use a virtual router as their default gateway. This virtual router has its own IP and MAC address! All the while, the router chosen as the primary is actually the one doing the routing. If the primary router goes down, the secondary router quickly takes over with no major interruption to network services.
+
+The HSRP routers communicate by multicasting updates to 224.0.0.2, and its through these hellos that the HSRP routers decide which router is primary and which is secondary. HSRP is defined in RFC 2281.
+
+The configuration of each of these will be covered in a future tutorial. In the meantime, I urge you to read the RFCs mentioned in this article, and visit www.cisco.com/univercd to read about the configurations and options available for both of these vital protocols.
+
+

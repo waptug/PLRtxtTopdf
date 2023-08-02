@@ -1,0 +1,22 @@
+Title: 
+The Relevance Of Having A Backup Audio Interface
+
+Word Count:
+463
+
+Summary:
+A second sound card in a pc used mainly for music recording is commonly overlooked and probably seen as being excessive,but as you'll see it can be quite a necessity.
+
+
+Keywords:
+soundcard,vst plugins,recording,music recording,music,audio,audio interface,plugins
+
+
+Article Body:
+Whichever soundcard/audio interface you use,at some point you will inevitably run into a situation where something will go wrong with your soundcard just when you need it the most.Maybe the drivers will corrupt which is very common,maybe you install a new piece of hardware and its sharing the same IRQ as your soundcard and any number of other scenario's.If you've got a paying client in your recording space then trust that they're not going to be very understanding when you spend 2 hours or more trying to fix your soundcard which has decided not to work at the most inappropriate time.
+For example about a month ago I was working on backing tracks for a client which had to be finished the next day,of course my main audio interface decided to pack it in when I needed it the most.I just didn't have the time to screw around trying to fix it at that moment with all the stress which accompanies this while your in the middle of working on a project,so I knew all I'd have to do is to switch to my backup soundcard which is also a pro audio card and has Asio drivers which are very important to achieve low latency in just about most pc's.
+
+And because I use a controller keyboard which transfers its midi via USB,there was no switching of midi leads between soundcards which can be a potential nightmare if like me you have a lot of cabling and other things hooked up at the back of the pc.So after switching soundcard drivers I was back on track within a few minutes,oh I can hear people protesting now saying they can just reinstall their soundcard drivers and everything will be hunky dory',but if your soundcard is anything like my main card it will be quite a large install routine that will take a while to install and will probably need a reboot or two.And if like my interface it has considerable onboard dsp horsepower and utilizes its own plugins,then theres extra stuff you have to reload.
+So to conclude,do yourself and your clients a favor have a 'backup' (preferably pro audio) soundcard installed just in case your main audio interface malfunctions when you need it the most.
+
+

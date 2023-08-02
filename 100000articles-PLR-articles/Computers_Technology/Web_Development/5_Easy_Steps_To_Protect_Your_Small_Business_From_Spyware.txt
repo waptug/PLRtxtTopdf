@@ -1,0 +1,48 @@
+Title: 
+5 Easy Steps To Protect Your Small Business From Spyware
+
+Word Count:
+539
+
+Summary:
+If your computers are in any way connected the Internet, they are being regularly bombarded with spyware, viruses, and other malware. Here are 5 easy steps you can follow to block these programs, or at least detect and remove spyware from your firm's networks and computer systems.
+
+What are these sneaky little programs up to?
+
+The more benign spyware and adware simply watches the pages you visit on the web so that companies can fine-tune their marketing based on profiling...
+
+
+Keywords:
+antivirus, spyware, small business, technology, IT consulting, network support,
+
+
+Article Body:
+If your computers are in any way connected the Internet, they are being regularly bombarded with spyware, viruses, and other malware. Here are 5 easy steps you can follow to block these programs, or at least detect and remove spyware from your firm's networks and computer systems.
+
+What are these sneaky little programs up to?
+
+The more benign spyware and adware simply watches the pages you visit on the web so that companies can fine-tune their marketing based on profiling. However, malicious spyware goes beyond tracking, monitoring keystrokes, capturing passwords and other functions which pose a definite security risk to your business.
+
+Be Careful Where You Download
+
+Unscrupulous programs often come from unscrupulous sites. If you are looking for a freeware or shareware program for a specific purpose, try searching reputable sites like tucows.com or download.com.
+
+Actually Read the EULA
+
+That's an End User License Agreement. It's all of the legal mumbo-jumbo in that box above the radio buttons that say "No, I do not accept" or "Yes, I accept these terms". Most people click "yes" so fast you'd think they were playing a computer game. Keep in mind that the EULA is a legal agreement you are making with the software vendor--and you may be agreeing to install spyware or allow a variety of other changes to your system. Evaluate whether it's worth it first.
+
+Read that Pop-Up Window
+
+Windows that pop up on websites are sometimes useful. But sometimes clicking the button or link will start to install harmful software. Like the EULA, many users will click "yes" or "ok" without stopping to read the text just to make it go away. Maybe it said "Would you like to install our spyware program?" Ok, admittedly they don't come out and say it directly, but that is all the more reason to pause and actually read those messages before you accept.
+
+Fight Back with Antivirus Software
+
+Viruses are just a small part of the what you need software to protect you from. Antivirus software has expanded to include fighting worms, trojans, vulnerability exploits, jokes, hoaxes and even spyware and adware. Check that your business's antivirus system will detect and block spyware. You can try a product like AdAware Pro, which will protect your system from spyware or adware in real time.
+
+Scan Your Networks
+
+Even with antivirus software, firewalls and other protective measures some spyware or adware may eventually make it through the network to individual computers. While a product like AdAware Pro mentioned previously will monitor your systems in real time, your business must pay licensing fees in order to install AdAware Pro system-wide. Evaluating and using the strongest solution is worth it when you consider the IT expense of fixing systems and the time lost by employees, not to mention the frustration. However, AdAware is the free alternative for personal use provided by Lavasoft, the makers of AdAware Pro. AdAware will not monitor in real time, but you can scan your system manually to detect and remove spyware. Another excellent choice is Spybot Search & Destroy, also free.
+
+Follow these five steps and you'll proactively protect your computers from spyware and detect and remove any harmful code that does infiltrate. Take care of it today!
+
+

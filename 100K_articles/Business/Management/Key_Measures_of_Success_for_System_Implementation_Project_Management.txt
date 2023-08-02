@@ -1,0 +1,68 @@
+Title: 
+Key Measures of Success for System Implementation Project Management
+
+Word Count:
+1657
+
+Summary:
+Learn key measures that will lead to system implementation project success.  Understand key steps in a project that will keep your project on track and help you deliver not only what was actually requested, but deliver what your customers and sponsors understand they requested!
+
+
+Keywords:
+IT Project Management, System Implementation
+
+
+Article Body:
+Have you ever wanted a short list of of items to keep "in check" as you are managing projects? This short list would contain key measures which, if always kept in check and balance, would lead you to project success? Sure it is important to follow industry project guidelines from the Project Management Institute and within the Project Management Professional (PMP) Certification, but it is important to always keep these key measures at the forefront of my mind ALL THE WAY through the project - from beginning to completion. Sometimes these factors can be overlooked or forgotten, or thought of as "not needed" in the rush to get a project underway. Stand Up and stop the madness, make sure you have a clear path before trying to get to your destination.... Or you will get lost along the way.
+
+Key Measures:
+1.	Before even looking at business requirements or spending much time on a project, make sure you know:
+                a.	Who the executive sponsor is and obtain the following information directly from that sponsor:
+                           i.	Project intentions and scope
+                           ii.	What the project is NOT or what is out of scope
+                           iii.	Who the “Customers” are for the project.  (many times, customers are internal to the organization)
+                           iv.	If a Return on Investment document has been created and what is expected of a ROI document.  What areas of the business are returns expected?
+                           v.	Project Budget and how expenditures are approved
+                           vi.	Expected Project Success Factors
+                           vii.	That they want this project moving forward at the present time, if not, when is it to start
+                           viii.	Timeline expected for project completion 
+                           ix.	Agreement to put companies resources on the project to get it done
+                           x.	Required project status and reporting
+                           xi.	Agreement on a communication plan to sponsors, customers and other impacted parties
+                           xii.	Agreement as to the assigned project manager and support from the sponsor that if there are problems with the project that require the executive sponsors attention, that the sponsor will extend support for obtaining the resolution
+               b.	Then put all of that information in writing, generally in some sort of project initiation document and then all project leaders, sponsors and customers and CIO SIGN the document.  I cannot stress 
+how important this part is.  I cannot stress how many times we have come the end of a project and at least one of these parties (sponsors, customers or CIO) state they never agreed to some portion of the documented information in the project initiation document.  This is especially important for System Implementation projects as a lot of time can pass between the time the project got underway and the time the final product is delivered.
+
+2.	Business Requirements
+                a.	It is vitally important, before talking with any IT personnel (if the project involves internal IT – which, if it is system implementation, it most likely will) or product vendors, that you take the time needed to adequately document all business requirements from all customers.  Documenting business requirements should, at a minimum, involve going through the following steps:
+                          i.	Identifying the subject matter experts and project representatives from each part of the business that serve as your customers for the end result of the project.
+                                      1.	Identify the current problem or need
+                                      2.	Document current processes
+                                      3.	Discuss what is not working about the process
+                                      4.	Review results they would like to see to support the business and analysis they need to perform to manage the business
+                          ii.	In business requirements documentation, DO NOT spend time discussing what systems or technology will allow them do.  Discuss what is needed for the business.  Do not let your customers try to define a process around  systems or technology.  Technology is there to support the business, not to dictate how a business should be run.  Don’t worry, All the technical pieces will come together later.
+                          iii.	Document all the business requirements as discussed with all customer groups and subject matter experts.  Be sure you specify the problems and needs, how it is hurting the business, what is needed, and how that will help the business.  Be specific.  This information will help you put together the ROI document to be sure the cost and expected benefits are in line with what the project sponsor(s) is expecting.  Some project managers might disagree here and state that the ROI should be done before getting to the business requirements stage.  However, I have always found new areas of investment (cost) and return on that investment present themselves when going through the business requirements discovery process.
+                          iv.	Always be sure to think about how a product will be used and how reporting will be required.  This can really get you in the end if you don’t pay close attention up-front during the requirements phase.
+                          v.	You will then match the business requirements to the scope that you created in the project initiation document, or change the scope, which would require an amendment to the project  initiation document requiring new signatures.
+                          vi.	Once the right set of requirements is documented and it lines up with project scope, then be sure to again have project sponsors, customers (remember, customers can be internal or external), and CIO acknowledging these are the business requirements, that the project is active and sponsored, and that they are in agreement with moving forward to the next project phases.  This piece is especially important, as people tend to forget or say things like “I never said that” as you get further along in the project.  You can always bring them back to the initial documentation and signatures.  
+If you do not get signatures, you are a sitting duck.
+
+3.	Now it’s time to figure out how you are going to deliver on these business requirements.  This usually leads to a buy or build decision.  That is, buy software from a vendor that specializes in the type of product needed, or build with internal IT personnel.  The business requirements document is your basis for evaluating the buy or build decision.  Do not stray; do not extend scope or budget, without going back through the sign-off process.  If you are “buying” a product from a vendor, do the initial “paring down” process of determining top software products which match the business requirements.
+
+4.	Now that you have your top list of software contenders, have demonstrations performed by the vendors for your customer group(s).  They can help cast the vote for the selected product.  It is critical to get buy-in from your customers every step of the way.
+
+5.	If possible, it is a good idea to perform a trial phase with 2 top vendors to see how the business requirements match up to the product.  
+
+6.	After the trial phase, get back with your customers to demonstrate the products against the business requirements.  Then have your customers make their final selection.  At that point, be sure a technical specifications document is written that matches up against the business requirements.  The purpose of the technical specification document is to demonstrate within the product, how business requirements will be met, what business requirements cannot be met or can only be met partially, and the IT requirements for the product.  Be sure that, before beginning a major development phase, that you have gone back to your sponsors, customers and CIO or other representative IT parties for agreement on the specifications and agreement for moving forward.  This phase will also require an updated project schedule outlining the full development schedule, resource requirements, and commitment from involved parties.  
+
+7.	Be sure to do a “pulse check” with your customers and sponsors at many points throughout the development cycle.  This will ensure your customers are not surprised by the end result or that you haven’t gone completely down a path that they did not want or that you developed something incorrectly.  It is much better to catch these things while development is still going on – your time-line will probably be impacted much less this way AND the perception of project success by customers and sponsors will be much higher this way.  Ultimately, it is best not to have any such “hang-ups” during the development process.  But, it is probably not realistic to expect that you won’t have any.  That’s the job of the project manager – to work through such issues and still complete the project on time.
+
+8.	When the development phase is complete, it is important that you have documented not only how to use the product, but how it impacts that business processes.  It will require discussion with customer group representatives about what the system will now do, and what the new process should look like.  It is important to have this document and be in agreement with customer group representatives BEFORE any product rollout occurs.  If you do this, you can expect a much smoother training and rollout phase of the product than if you just try to throw the product out there.  If you do not have a carefully planned training and rollout phase, all your work will go down the drain, and the project will most likely not be perceived as a great success. 
+
+9.	During the rollout and training phase, it is extremely important to communicate what the users need to do if they need help with the product.  What support for the product is available?  A good project manager will already have this in place and be ready to put the support process into motion during the rollout and training phase.  It is also important that you obtain agreement from the customer groups on the support process and that they think it will work for their group.  
+
+10.	Lastly, be sure to follow-up with customer groups ensuring things are running smoothly and to see what problems or issues need to be corrected.  Keep doing so until your customers are happy with the product.   
+
+Remember, there are no levels of success.  Either it was a great success, or it wasn’t.
+
+

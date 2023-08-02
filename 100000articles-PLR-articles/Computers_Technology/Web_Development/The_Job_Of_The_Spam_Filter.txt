@@ -1,0 +1,37 @@
+Title: 
+The Job Of The Spam Filter
+
+Word Count:
+720
+
+Summary:
+Even if you have one of the best spam filters on the market, some spam will always make it through. What is more important than having the best spam filter on the market is having the right spam filter for you. One spam filter doesn’t automatically benefit everyone, you need to find a spam filter that is best for your needs.
+
+Pretty much everyone with a an email account has a certain amount of spam, even if you never visit any of the typical places that spammers harvest ema...
+
+
+Keywords:
+The Job of the Spam Filter
+
+
+Article Body:
+Even if you have one of the best spam filters on the market, some spam will always make it through. What is more important than having the best spam filter on the market is having the right spam filter for you. One spam filter doesn’t automatically benefit everyone, you need to find a spam filter that is best for your needs.
+
+Pretty much everyone with a an email account has a certain amount of spam, even if you never visit any of the typical places that spammers harvest email addresses from, such as forums, chat rooms and other websites. All it takes is one spammer to find out that your email account is active and you will find your account will be flooded by more spam mail. One of the main reasons why there is so much spam around is because spam emails are so easy to create.
+
+Many, if not all email users rely on some form of spam filter to block out spam emails as oppose to manually going through each individual email to delete them. However even when using spam filters some genuine messages can get caught up in the spam filter, meaning messages that you actually want/need to receive are getting deleted.
+
+There are many different spam filters available today, all of which deal with spam in different ways. These spam filters vary in technique but by having so many different spam filters available, you are guaranteed to find one that is suitable to your needs.
+
+One of these filters is a user defined filter. This filter is one that is already included in most email accounts. With this filter you can forwards mail to many different mailboxes. For example if you frequently receive mail from friends you can create a mailbox entitled friends and forward the mail from people you know to this mailbox. You can also forward mail to your trash if you are unsure of the sender and if the content of the email looks suspicious. By doing this you need to carefully look at the mail that you are receiving, you should be looking for characteristics and any recurring patterns in the senders email address or the subject line of the email.
+
+Header filters are a more advanced filter, they look at the headers of emails to see if they are fake. The way in which this is done is because email headers contain information regarding the servers that were used to deliver your mail. Spammers don’t want to be traced so they put false information in the email header to stop people directly contacting them. Good spam filters can detect forged headers, showing what email is spam, however not all spam emails have fake headers.
+
+Another filter; that is very specific is a language filter. These filters work by stopping emails that appear in another language. This filter won’t help people who receive a large quantity of spam as spam that appears in other languages isn’t really a major problem when it comes to spam. Spam that appears in another language only makes up a small quantity of the spam that we receive on a daily basis.
+
+One of the more effective spam filters that will be of more help to a lot of people is a content filter. This filter scans all the text in an email to see if the content makes sense. It filters emails that appear “fuzzy.” Although this spam filter is effective at catching a lot of spam emails and will benefit most people when it comes to fighting spam, it can also filter out things such as newsletters that you are subscribed to.
+Another filter that works well is a permission filter. This filter blocks all emails that don’t come from an authorised source. When you first set up this filter and go to send an email you will receive an automated response inviting you to visit a web page. On this page you will need to fill in some details. This will make your account authorised and any future emails that you send will be accepted.
+
+When you choose your spam filter you should make sure that you get one that is right for your needs and that will stop the amount of spam that you are receiving.
+
+

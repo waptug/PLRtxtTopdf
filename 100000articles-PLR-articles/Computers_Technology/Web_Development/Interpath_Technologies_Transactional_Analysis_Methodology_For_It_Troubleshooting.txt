@@ -1,0 +1,64 @@
+Title: 
+Interpath Technologies Transactional Analysis Methodology For It Troubleshooting
+
+Word Count:
+560
+
+Summary:
+During 11 years of troubleshooting high profile network & application performance issues across global enterprises up to 120,000 nodes--Interpath Technologies Corporation developed its specialized Network & Application performance Analysis methodology.
+
+We have helped companies like IBM, ING-Direct & Lucent Technologies find Resolution for under-performing networks & applications.
+
+Application & Network Performance Analysis requires Protocol Analysis tools, — Sniffer ®, E...
+
+
+Keywords:
+Sniffer, Wireshark, Application, Performance, Testing, Troubleshooting, Analysis, Network, TCP/IP
+
+
+Article Body:
+During 11 years of troubleshooting high profile network & application performance issues across global enterprises up to 120,000 nodes--Interpath Technologies Corporation developed its specialized Network & Application performance Analysis methodology.
+
+We have helped companies like IBM, ING-Direct & Lucent Technologies find Resolution for under-performing networks & applications.
+
+Application & Network Performance Analysis requires Protocol Analysis tools, — Sniffer ®, Ethereal ® WireShark ®. However, it adds advanced methodical troubleshooting processes to--standard Protocol Analysis techniques.
+
+Application & Network performance Analysis addresses gathering & interpreting information required for diagnosing & troubleshooting network & application performance problems.
+
+An Application or Network may under-perform for years — Application users & components in different geographical locations — Application possibly multi-tiered.
+
+Different IT departments convinced that the problem is not in their area. "Sniffing" skills alone--are inadequate.
+
+Application & Network performance Analysis encompasses--all aspects of enterprise networking.
+
+Application & Network Performance Analyst needs skills in interviewing, writing & diplomacy.
+
+Interpath means flow of communication between all transaction components — Users, Servers, Switches, Routers, Operating Systems, Security devices, Database Protocol — anything involved in executing a network or application transaction. Trouble can be anywhere along an Interpath.
+
+Troubleshooting all OSI model layers — using tools like Sniffer ®, Ethereal ®, WireShark ® — technical interviews with client Subject Matter Experts and more— Interpath Technologies maps -- how the application moves — between all its components — simultaneously. That is Interpath. Troubleshooting network & application performance is a process, not a tool.
+
+Clear, technical documentation is critical to success.
+
+Interpath Technologies presents results in technical & non-technical formats — including protocol analyzer screen shots, spreadsheets, drawings, narratives — explaining causes of application or network issues.
+
+We provide the platform for all IT teams to agree upon a process of resolution. Our deliverable is factual and incontestable.
+
+Leadership — guidance — project management — diplomacy — have been key components of our success — as well as protocol analysis skills. We coordinate our clients' EngineeringTeams around the world — with our Analysts as focal points & primary diagnosticians.
+
+Server Consolidation or Virtualization frequently creates unexpected results — servers come together — but move away from users or other components.
+
+We diagnose global network application issues. We often work through bridgecalls, WebEx ® or other remote media — enabling us to work with distributed teams simultaneously regardless of location. We provide on-site Network & Application Performance Analysts as needed.
+
+Many client's have distributed versions of Sniffer ®, Ethereal ®, WireShark ®, or other Protocol Analysis tools in place. If not, we can provide them — or build them from Open–Source protocol analysis software. Engineers go to training classes to learn troubleshooting or Application Performance Tuning Techniques — receive 5 to 20 days of intense instruction — covering only a fraction of what is required – go back to their companies to solve serious problems – and often fail.
+
+Tools like WireShark ®, Ethereal ® and Sniffer ® were not to blame — you can’t become a Network & Application Performance Analyst in a few weeks. In addition to learning the prerequisite protocol analysis skills or tools like Sniffer ®, Ethereal ® WireShark® — many years of training, practice and experience are needed to learn how to map an Interpath--and create solid testing.
+
+Learning how to handle power tools doesn’t teach you how to build a house. WireShark ®, Ethereal ® Sniffer ® are power tools.
+
+Training in these tools is important — yet inadequate for troubleshooting an enterprise network or application. Learning the OSI model and network protocol tools doesn’t teach you to be a Protocol Analyst or Network & Application Performance Analyst.
+
+Troubleshooting is a science--an art and a field of expertise--not a tool.
+
+Copyright © 1999-2007 Interpath Technologies Corporation
+
+

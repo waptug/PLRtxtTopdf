@@ -1,0 +1,65 @@
+Title: 
+XCACLS, SUNINACL, And Other Permissions Security Recovery Tools
+
+Word Count:
+1000
+
+Summary:
+An article about how to use XCACLS and SUNINACL to recovery and set Permissions Security on files and directories very quickly
+
+
+Keywords:
+XCACLS, SUNINACL, CACLS, permissions security, perms, chmod, Domain Permissions, attrib, fast permissions recovery, lost file permissions
+
+
+Article Body:
+You Have 50GB Of Data To Move Along With Permissions Security
+----------------------------
+This article is about several tools that can save a Windows administrators you know what in the event of a large scale permissions security problem.
+
+Here is a fictional scenario we can use to illustrate the use of the XCACLS tool. We need to move or copy 50GB worth of data that is comprised of several thousand directories containing hundreds of thousands of small files from one storage system to another. These systems happen to part of a Windows 2000 Domain and permissions are quite granular in definition. We start the replication of that data using a favorite replication or synchronization tool and walk away for the evening. When we return the next day, everything has copied and all looks well. That is until you try to access the data.
+
+The Data Is Copied, But I Cannot Access It: Permissions Security Problem
+--------------------------------------------------
+What you did not know, until just now, is that the root directory of the drive that you copied the data to had the wrong permissions assigned to it. In addition, inheritance was configured such that any data that is placed on the drive is over written with the permissions of the root directory. In this case, it was an old account that no longer existed. Believe it or not, that can happen, and system administrators will know what I am talking about. Now you are left with trying to figure out what to do. Do I format the new drive, change the permissions and inheritance on the root directory so they are correct and start all over again? Do I make the changes on the root drive so they have the correct permissions and wait hours upon hours for the permissions to propagate? No, there is another, very fast way of resolving this issue with XCACLS or another tool called SUBINACL. 
+
+XCALCS Quickly Resets Permissions On Directories And Files
+----------------------------
+Becasue I have limited space in this article, I am going to use XCACLS as the tool to correct this problem. However, in complex permissions structures, you will most likely want to use SUBINACL to fix the issue. I will talk about SUBINACL briefly at the end of the article. 
+
+XCACLS as a very fast tool that can set, remove, add, and change permissions on files and directories. For intance, the following command replaces all existing access rights and accounts with that of "dmiller" on the file "file.txt" with read-only access: "xcalcs file.txt /Y /T /G domain\dmiller:r". Although that is pretty easy and helpful, what about changing all my directories and files, which I have thousands of, to allow the domain\dmiller account to have full access? To do this in a very fast fashion you could execute the following from the root directory of the drive: "for /d %g IN (*.*) DO xcacls "%g" /Y /T /G domain\dmiller:f". This will go through every directory, subdirectory, and file and replace the current permissions with dmiller having full access to the object. You'll notice I put "" around the %g in the example. This is not required, but if you have directories that have names with spaces in them you will need to have the "".
+
+What Other Ways Can I Use XCACLS To Change Security Permissions
+----------------------------------------------------------
+To give you a few additional handy examples of how you can use this tool take a look at the follow command prompt methods for replacing, updating and removing accounts and permissions from large numbers of directories and files.
+
+The following command replaces all existing access rights an accounts with that of dmiller with read only access rights: 
+for /d %g IN (*.*) DO xcacls "%g" /Y /T /G domain\dmiller:r
+
+The following command does not replace existing account permissions, instead, it adds the account, in the example the local admin account, with read only permissions: 
+for /d %g IN (*.*) DO xcacls "%g" /Y /E /T /G administrator:r
+
+The following command removes the account "administrator" permissions from all directories, files, and subdirectories: for /d %g IN (*.*) DO xcacls "%g" /Y /E /T /R administrator
+
+This command should update all the directories and their contents to allow Domain Admins full access: 
+for /d %g IN (*.*) DO xcacls "%g" /Y /T /G "Domain Admins:f"
+
+I did a test on my XP Pro workstation and was able to change the permissions on approximately 10000 directories and files in less 1 minute. On one of my servers I was able to achieve a 500% increase in speed. It is blazingly fast. 
+
+SUBINACL Is More Complex But Man Can It Really Save The Day
+-----------------------------------------------
+I cannot go into specifics about this tool in this article but I will tell you what it can do. And again, it does it very very fast. Using the same scenario as above, let's say that you had to fix the permissions on thousands of home directories. With SUBINACL, you can actually go to the original directories and files, use the tool to create what is called a "play file", a text file that contains the right account and permissions from the source files, then use that same file to tell SUBINACL to fix the permissions on the target storage system, the one with the screwed up permissions. It's quite the life saver if you ever find yourself in the type of predicament.
+
+Also check out "CACLS". This command is inherent to Windows XP Professional. 
+
+Conclusion
+----------
+These tools are contained in the Windows 2000 and 2003 server resource tool kit, however several of them also exist native to the Windows XP environment. Check them out if you don't already know about them. Even if you have no use for them right now it may save you hours of hard work and stress in the event of a future permissions problem.
+
+You may reprint or publish this article free of charge as long as the bylines are included.  
+
+Original URL (The Web version of the article)
+------------
+http://www.defendingthenet.com/NewsLetters/XCACLS-SUBINACL-AndOtherPermissionSecurityRecoveryTools.htm
+
+

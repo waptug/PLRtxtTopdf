@@ -1,0 +1,30 @@
+Title: 
+Consequences of data loss and Why should Offsite Backup be used
+
+Word Count:
+678
+
+Summary:
+Informative article detailing the best practices of data backup
+
+
+Keywords:
+backup, data backup. offsite backup, internet backup, remote backup, 
+
+
+Article Body:
+There is a calculated trend in all business corporations and firms: when the enterprise is getting bigger, its support of data increases its complexity, volume and value. The larger your enterprise is, the more significant your data files become. The traditional tape backup can no longer produce in-depth data information about all the important features of your business. That’s why many people get acknowledged to a more adequate file protection. A secure offsite backup system can be the possible solution. Business owners and offices managers have got it straight: if the business is to flourish, precise data information storage should be used.
+
+Offsite backup systems offer something, which no other data store can do: they protect to the greatest extent all your files. But why should they do that, you may ask. Imagine you are a business owner. You have your own office computer, which is crammed up with all the valuable info. Well, what if the computer gets stolen, or a short-cut puts it out of practice? What will happen to your enterprise?  If you are still not convinced enough to the rational extent, let’s consider the following statistic data. 1 in every 4 computer users suffers a critical data loss every year. Last years over 500,000 were stolen. Disk and other hardware failures are so numerous that major disk and computer manufacturers/resellers are reducing their warranties to 12 months. Over 25% of data loss is a result of computer program errors, software viruses and natural disasters (factors completely out of your control). 50% of businesses that lose their data never open their doors again. Of those businesses that do manage to stay open, 90% end up failing within two years. Data loss will cost business an estimated £12 Billion this year. 
+
+Still not believing? Consider the following fact: computer experts say that once data is lost, it can no longer be recovered to the full. Some data that contains pieces of valuable information will be forever lost in the digital space, with no hope of getting it back. Disaster recovery planning (DV) often fails to extract the lost files in the similar way as they were before the disaster struck. This happens because of the various regulations and compliance, which occur during the recovery process. 
+
+Data loss can happen to anyone, no matter how good the tape protection system is. There is no tape backup that can comprise all the valuable information without omitting some precious stuff. Text documents, financial records, contact records, address books, email messages and databases that you have created on your computer or servers may disappear forever unless you take a serious action to prevent it. The lost files are hard to recover, and it takes a lot of precious time and nerve-racking to recover even to the approximate extent the ruined system as it was before the disaster. The value of data highly exceed the mere cost of your computer or server, as you have to pay a great amount of money for reproducing the whole information as it was before the crack down. So, the most reasonable thing to do, if you don’t want to spend a lot of money afterwards, is to re-ensure your system using secure online backups. 
+
+Even though that is the sacred truth, most people avoid taking backup precautions. They leave their data files unprotected, and thus expose their business on the danger of bankrupt. Why do people do it? Because of laziness, because they don’t want to spend additional money, or just because they think that would never happen to them. Is it so hard to take some pre-consideration and backup your data? Sooner or later, everyone gets a strike in their unprotected file systems. Then it is too late to split hairs over the lost information. You should better take the action in advance and construct a data backup system, so that your files are fully protected and your business is ensured. 
+
+To find out more information about secure offsite data backup solutions, 
+please visit <a href="http://www.perfectbackup.co.uk/">www.perfectbackup.co.uk
+</a>
+
+

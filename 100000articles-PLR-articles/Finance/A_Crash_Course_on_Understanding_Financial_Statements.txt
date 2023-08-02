@@ -1,0 +1,40 @@
+Title: 
+A Crash Course on Understanding Financial Statements
+
+Word Count:
+629
+
+Summary:
+If you're in business or learning to value a business it's important that you learn how to understand financial statements. While they may be confusing to glance at, the information that's important is easy to find.
+
+
+Keywords:
+financial statements, business bookeeping
+
+
+Article Body:
+Financial statements (or financial reports) are a record of a business’ financial flows and levels.
+The big four statements are:
+
+1.Balance sheet which describes a company's assets and liabilities.
+2.Income statement which describes a company's income and expenses.
+3.Statement of Cash Flows which describes how corporate operating, investment, and financing activities have affected the company's cash position.
+4.Statement of Retained Earnings which describes changes to shareholders equity (for example a payment of dividend).
+Because these statements are often complex an extensive set of Notes to the Financial Statements and management discussion and analysis is usually included. The notes will typically describe each item on the Balance Sheet and Income statement in further detail. In many cases the notes are much longer than the financial statement they are elucidating.
+If a company has extraordinary items that affect the balance sheet or the shareholders equity position it will usually include a Other Comprehensive Income Statement, which describes the adjustments to made. Examples of Other Comprehensive Income include revaluation of corporate assets away from their stated cost, as well as accruals for liabilities.
+ 
+Income Statement: An income statement, otherwise known as a profit and loss statement, is a summary of a company’s profit or loss during any one given period of time, such as a month, three months, or one year. The income statement records all revenues for a business during this given period, as well as the operating expenses for the business. It is very important to format an income statement so that it is appropriate to the business being conducted. Income statements, along with balance sheets, are the most basic elements required by potential lenders, such as banks, investors, and vendors. They will use the financial reporting contained therein to determine credit limits. 
+
+Statement of Changes in Financial Position: A statement of changes in financial position (also referred to as the Cash flow Statement) reports the amount of cash coming in (cash receipts) and the amount of cash going out (cash payments or disbursements) during a specified period. Business activities result in either a net cash inflow (receipts greater than payments) or a net cash outflow (payments greater than receipts) during a period. The cash flow statement shows the net increase or decrease in cash during the period and the cash balance at the end of the period. It explains the causes for the changes in the cash balance. The cash flow statement covers a span of time.  
+
+Balance Sheet: A balance sheet, in formal bookkeeping and accounting, is a statement of the book value of a business or other organization or person at a particular date, often at the end of its "fiscal year," as distinct from an income statement, also known as a profit and loss account (P&L), which records revenue and expenses over a specified period of time.
+
+Assets: Any item of economic value owned by an individual or corporation, especially that which could be converted to cash. Examples are cash, securities, accounts receivable, inventory, office equipment, real estate, a car, and other property. On a balance sheet, assets are equal to the sum of liabilities, common stock, preferred stock, and retained earnings.
+
+From an accounting perspective, assets are divided into the following categories: current assets (cash and other liquid items), long-term assets (real estate, plant, equipment), prepaid and deferred assets (expenditures for future costs such as insurance, rent, interest), and intangible assets (trademarks, patents, copyrights, goodwill). 
+
+Liabilities: A liability is a present obligation of the enterprise arising from past events, the settlement of which is expected to result in an outflow from the enterprise of resources embodying economic benefits.
+
+Owner's Equity: Total assets minus total liabilities of an individual or company. For a company, also called net worth or shareholders' equity or net assets.
+
+

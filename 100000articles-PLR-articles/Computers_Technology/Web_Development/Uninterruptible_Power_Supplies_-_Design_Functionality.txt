@@ -1,0 +1,40 @@
+Title: 
+Uninterruptible Power Supplies - Design Functionality
+
+Word Count:
+535
+
+Summary:
+The design of the Uninterruptible Power Supply is determined to a large extent by the required function and what level of critical cover is expected to protect the load .
+
+At the bottom end of the scale are ‘ Desk Tops' the Offline UPS system , generally below 1kVA, as its name suggests it provides an unregulated filtered supply to the load at the same time maintaining the state of charge of the battery by a separate charger.
+
+When the utility mains fails or goes out of t...
+
+
+Keywords:
+uninterruptible power supplies,diesel  generators, load bank
+
+
+Article Body:
+The design of the Uninterruptible Power Supply is determined to a large extent by the required function and what level of critical cover is expected to protect the load .
+
+At the bottom end of the scale are ‘ Desk Tops' the Offline UPS system , generally below 1kVA, as its name suggests it provides an unregulated filtered supply to the load at the same time maintaining the state of charge of the battery by a separate charger.
+
+When the utility mains fails or goes out of tolerance the inverter turns on and is connected to the load via a relay. There is a short break while this operation takes place and the duration of this break is called the transfer time.
+
+The Offline UPS system is not suitable where there are large variations in the local utility mains supply, as the load will be directly affected. To overcome this problem a Line Interactive UPS system can be used, the technology operates in a very similar way to the Offline UPS systems whereas the inverter does not provide supply to the load unless a utility mains failure or brownout has occurred.
+
+The Line Interactive UPS system uses an active voltage regulator (AVR) to control the voltage seen by the load during normal operation; this method insures that the load has a constant voltage applied to it. Again these Uninterruptible Power Supplies are more suitable for smaller office environment loads and generally are restricted to a maximum of 10kVA.
+
+Traditionally for larger load requirements the Double Conversion UPS system has been favoured, basically it consists of a rectifier, battery, inverter and static switch. This is generally termed- True On-line UPS -
+
+The term ‘True On-Line' is used because this type of UPS will really protect your mission critical equipment to the point that if you remove its power source and then re-instigate the power , there will be no effect on your equipment.
+
+How is it work then? The True On-Line Uninterruptible power supply works by having a rectifier, which converts the utility mains ac supply to dc, has the dual function of providing a dc supply for the inverter and also a supply to recharge the battery. Therefore in the event of the utility mains failing or going out of tolerance due to voltage or frequency causing the rectifier to switch off the battery will seamlessly continue to provide the dc supply for the inverter.
+
+The inverter then converts the dc supply back to an ac supply that is voltage and frequency controlled to supply the load. The load is therefore completely protected from any surges, spikes or sags from the utility mains supply.
+
+The double conversion Uninterruptible Power Supply has the added advantage of what is generally called the static switch; this is an electronic changeover power switch, which selects the supply required for the load. The supply can be either the unprotected utility mains supply or the fully protected inverter supply. This feature can be very useful in the event of an overload occurring, which is beyond the rating of the inverter, the load will be automatically transferred without loss to the utility mains supply, transferring back to the protected inverter supply when the fault has been removed.
+
+

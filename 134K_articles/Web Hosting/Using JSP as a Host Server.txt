@@ -1,0 +1,22 @@
+Using JSP as a Host Server
+
+
+JSP Hosting Basics
+JSP Hosting is a Java hosting program that has many similarities to Microsoft ASP. JSP hosting refers to the ability to run and manage Java Server Pages. Even though Java Server Pages (JSP) is quite similar to Microsoft's Active Server Pages (ASP) JSP does have slight differences in the hosting environment. 
+
+Java Server Pages is a server-side language that uses simple tag-based codes inserted into HTML and XML to produce dynamic and interactive web pages that are platform independent, meaning that by all rights they should appear exactly the same on every computer screen, regardless of the platform. This is the result when your publish yoy JSP-coded website on a JSP-supported Java hosting provider. 
+
+JSP allows web designers combine dynamically generated HTML in with their standard, static HTML code. While most CGI programs require you to compose the entire website in that one program, JSP allows you to compose the dynamic aspects and the static aspects of your site separately. 
+
+Java Hosting which includes JSP support would be the logical choice of any web designer wishing to eliminate the irritating need to repeat work they've already done. Java hosting, and JSP hosting specifically, would also be an efficient choice for those web designers working with a team. 
+
+One of the greatest aspects about JSP is that you don't need to learn Java to use it and it’s practically built into programs like Macromedia Dreamweaver MX. 
+JSP's use a variety of simple tags. The following are some of the most basic and common ones: 
+* Directives: <%@directive%> Instructions processed when the page is compiled 
+* Hidden Comments: <--comment--> Document the page, not sent to the client 
+* Declarations: <%!declaration%> Declare methods or variables with scope throughout the page. 
+* Expressions: <%=expression%> A bit more complicated to explain, expressions produce results which are then inserted into the output stream at the appropriate place 
+* Scriptlets: <%scriptlet%> A fragment of code that can access a declared variable and execute it at a defined time. 
+* Actions: <jsp:action> An XML-style tag that can perform any of a slew of functions 
+
+So if you are running JSP, remember that you need to have a host that provides JSP runtime modules on the host side of your web server so that you can run the appropriate scripts.

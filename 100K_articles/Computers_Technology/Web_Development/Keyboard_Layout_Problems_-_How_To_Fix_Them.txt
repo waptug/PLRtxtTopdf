@@ -1,0 +1,38 @@
+Title: 
+Keyboard Layout Problems - How To Fix Them
+
+Word Count:
+523
+
+Summary:
+Keyboard layout specifies what character the computer will display when you will press the certain key on your keyboard. There are various characters in different languages, but in Windows you can easily switch between languages with Control + Shift or Alt + Shift key stoke. That is great, because you don't need to use another PC or different keyboard.
+
+But if you are using two or more layouts you will certainly face some difficulties. For instance, sometime you forget to s...
+
+
+Keywords:
+keyboard layout,computer keyboard layout,layout problems
+
+
+Article Body:
+Keyboard layout specifies what character the computer will display when you will press the certain key on your keyboard. There are various characters in different languages, but in Windows you can easily switch between languages with Control + Shift or Alt + Shift key stoke. That is great, because you don't need to use another PC or different keyboard.
+
+But if you are using two or more layouts you will certainly face some difficulties. For instance, sometime you forget to switch to necessary layout and do blind typing, but when you see the result, which is in wrong layout, you have to retype.
+
+It became a huge problem, especially, when layouts looks like the same and it is hard to determine from the first look that you are using the wrong layout.
+
+Another problem is using more than two layouts. Now you will need to press Control + Shift twice to select the necessary layout. And this might be a great problem, because you will always need to check what layout you are using now and you will waste your work time to technical things.
+
+There are some possible ways to make this problem solved. For sure, you can using Windows keyboard layout options to temporary disable some layouts, but it will take you much time to open settings dialog, change settings and then close dialog and do this every time you will need a layout again.
+
+There also exists a number of program which address the problems of keyboard layouts, for instance, some software tools might automatically switch your layout if you are typing in a wrong language and convert the text that you have already typed into the right layout. But tools like this will not eliminate the problem of switching between three or more layouts, especially, if layouts look the same.
+
+One of the possible solutions for this problem is specifying a special switch short key for switching between layouts. For instance, if you are using English, German and French you can specify one short key to switch between English and German and another short key to switch between German and French. In this way, you will always be sure that you have switched to the correct layout. But it will be much harder to switch between layouts. Anyway, Windows has this option and you should try to use it.
+
+Another problem when you are learning a new keyboard layout is that you might not know what keys you should press to get necessary character. There is a good solution for this issue too. Run Windows screen keyboard and you will see all characters that are available on the current keyboard layout.
+
+Using various keyboard layouts is a great way to save your time and type in a various languages, but don't waste your time typing the same twice or switching between layouts, learn this aspect carefully and use short keys suggested by Windows to be professional about keyboard layouts.
+
+Finally, if you are system administrator and there are many users who don't feel good about changing layouts, train them and use freeware and commercial software tools that might help about layout problem.
+
+

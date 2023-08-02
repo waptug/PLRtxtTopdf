@@ -1,0 +1,38 @@
+Title: 
+Search and Recover Lost Microsoft Word Documents
+
+Word Count:
+971
+
+Summary:
+Search, preview and recover deleted Microsoft Word documents. DiskInternals Word Recovery offers the best of data recovery, offering unprecedented efficiency dealing specifically with Word documents
+
+
+Keywords:
+word recovery, data recovery software, undelete, doc, rtf, FAT, NTFS, CD, DVD, hard drive
+
+
+Article Body:
+If you type a lot and are using Microsoft Word as your text processor, you've made the right choice. Microsoft Word is arguably the most powerful, feature-rich and handy to use by complete beginners and advanced professionals altogether. It has unparalleled strengths in creating, formatting and modifying all types of documents, from simple memos to complex reports. When you save a document in one version of Microsoft Word, it can usually be opened in a different version without problems.
+ 
+But what if the document you've spent so much time on just disappears? What can happen to it? First and most possible, you can simply delete it yourself by an accident. You might think that this would never happen to you because there is the Windows Recycle Bin, and even if it's accidentally emptied, you'll just go to the Internet and get a free undelete utility. Well, it does not work this way...
+ 
+Here's what happened to my wife a couple of weeks ago. She was working on a chapter for her Ph.D. thesis, and sent it to a professor for review. Usually, she gets back a document with embedded comments by email. She saves an attachment from the email, overwriting the old one, and deletes it from her Hotmail account. But this time, things went the wrong way. She received her chapter by email and replaced the old document with the new one, only to find out that her supervisor got a copy of the old one! She opened the Recycle Bin and found out that the document was never deleted but instead, it was replaced, so it wasn't even in the Recycle Bin. She tried to find an email that she had sent earlier, but Hotmail does not store sent messages. She asked me to do something to recover the document, and I downloaded a couple of free undelete programs, only to find that there were several dozens of deleted documents with that same name. So, I failed to recover the most recent revisions.
+ 
+This story did have a happy ending, as my wife's supervisor discovered the latest version of the document on her computer. But one thing that I learned from this story was never to rely on the Recycle Bin and free data recovery tools. To prevent this kind of things from happening, I decided to look for commercial alternatives.
+ 
+I quickly discovered that there are many data recovery offers on the market. Most products mention recovering deleted or corrupted files and documents, and some tools promise recovery of files even from crashed or damaged hard drives. There are basically two types of data recovery products. They are different in how they find the lost files, and what they do to recover them. Simpler products, such as those free undelete utilities that I tried in my quest, deal with the file system. They simply scan the file system looking for records of files that are marked "deleted", and clear the mark. This is a fast and easy way to recover lost files, and it works sometimes, especially if you deleted a file just a minute ago.
+ 
+These products, as I discovered from my own experience, fail to do their job if you have a complex case or if you are recovering a failed hard drive, or if the file system is damaged. If your document has been deleted some time ago or overwritten with another file, chances of successful recovery using these tools are slim.
+ 
+The other type of products deals with your hard drive directly instead of scanning the file system, but such products are slow and expensive. I also found them extremely complex to use because they don't show the names of the deleted documents, let alone their content. These tools don't have access to the file system, and are unaware of the files' names, showing documents as "document_001.doc" at best, but more likely you'll see something like "~ocume1" instead of a proper name.
+ 
+Then I found DiskInternals Word Recovery. It does an amazing thing by combining the best of the other data recovery products, while offering unprecedented efficiency dealing specifically with Microsoft Word documents such as .DOC and .RTF. It scans the file system and learns about the files that were deleted the way the free undelete tools do. Then, it goes further and scans the hard drive directly to locate Microsoft Word documents that are not shown in the file system. It uses a list of file signatures to detect the beginning and end of Microsoft Word documents, and extracts their contents and metadata on the fly. This method is said to work even if your hard drive is half dead!
+ 
+DiskInternals Word Recovery synchronizes the results obtained with the file system scan with the results obtained by accessing the hard disk directly, presenting the most complete list of recoverable Word documents along with their file names, metadata and contents, and yields the best ratio of recoverability.
+ 
+If I wanted to get the latest version of any Word document, I would simply use "On the Fly" filters that allow to only display files with specific title, written by specific author, or the files that contain certain text, are of a certain size, or are last saved on a specific date. The free version of DiskInternals Word Recovery allows full file preview to ensure you recover exactly what you want, and that you can recover the document in full with no garbage or missing parts.
+ 
+DiskInternals Word Recovery if not free, but I for one am done with the free recovery tools. You can download and try an evaluation version for free from http://www.diskinternals.com/ , and only purchase if you see that DiskInternals Word Recovery does indeed deliver what others just offer: the complete recovery of your lost Microsoft Word documents.
+
+

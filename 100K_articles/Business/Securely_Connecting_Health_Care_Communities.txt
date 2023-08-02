@@ -1,0 +1,36 @@
+Title: 
+Securely Connecting Health Care Communities
+
+Word Count:
+428
+
+Summary:
+The health care industry is using envolving technologies to improve the practice of medicine and lower costs. One example is electronic health records, which are helping to save lives and reduce costs as more of the nation's hospitals and medical centers adopt such systems.
+
+
+Keywords:
+Securely Connecting Health Care Communities
+
+
+Article Body:
+The health care industry is using evolving technologies to improve the practice of medicine and lower costs. One example is electronic health records, which are helping to save lives and reduce costs as more of the nation's hospitals and medical centers adopt such systems. 
+
+Electronic health records enable providers to avoid the duplication of exams and procedures, shortening the time it takes for patients to get the treatment they need. Having access to complete patient information at the point of care also helps to improve patient safety, optimize clinical workflow, increase efficiency, and reduce administrative burdens such as faxes and phone calls to exchange patient information. Medical information networks are providing secure access to this information. 
+
+Three nationally recognized leaders in health information technology recently teamed up to create a multistate health information network known as The NorthWest Health Information Network. Northwest Physicians Network (NPN) of Tacoma and St. Luke's Health System of Boise, supported by Siemens Medical Solutions, collaborated on this regional approach to bettering patient care and eliminating waste. 
+
+"Patient care requires the right information at the right time at the right place," said Rick Mac-Cornack, Ph.D., director of Quality Improvement at NPN. "Right now, if a patient is in the emergency room with chest pains, that ER needs to get faxes, printouts and old charts from each of the patient's health providers before proper care can be delivered." 
+
+Through the network, the patient's history and clinical information are immediately accessible online to both patient and provider-whether the ER is in Tacoma or Boise or whatever other communities will soon be connected to the system. 
+
+"While technology has progressed significantly, the challenge is still the same: connect 'Main Street' physicians--who represent 80 percent of the nation's medical care providers--to information when and where it is needed," said MacCornack. 
+
+What took place in New Orleans during Hurricane Katrina is an example of how frail paper records can be. Floodwaters rendered many patients' medical histories unavailable and unreadable. With secure, electronic records, this would not pose a problem. 
+
+It is estimated that if 90 percent of doctors and hospitals successfully adopt health care IT and use it effectively, it could net savings of $77 billion annually. 
+
+Health care information technology solutions such as Siemens Soarian Community Access encourage secure information sharing. As these networks adopt standardized ways of sharing data, community-based regional health information organizations will become the base for a nationwide system. 
+
+Health care information technology has the ability to transform the way people regard their health and the way they participate in the health care system.
+
+

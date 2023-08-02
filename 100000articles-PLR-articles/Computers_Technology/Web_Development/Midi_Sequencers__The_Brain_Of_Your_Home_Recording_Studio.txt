@@ -1,0 +1,22 @@
+Title: 
+Midi Sequencers: The Brain Of Your Home Recording Studio
+
+Word Count:
+338
+
+Summary:
+A MIDI sequencer is a device that records a song that you play on a MIDI instrument (or series of instruments) and uses the recorded data to play these instruments the same way that you did when you recorded them. It is more than just a glorified tape recorder, though. What gets recorded is not the sounds themselves, but the commands that you gave the MIDI electronic instruments that told them to play this or that note in this or that sequence with a particular tone, volume, ...
+
+
+Keywords:
+MIDI, MIDI sequencers, home recording
+
+
+Article Body:
+A MIDI sequencer is a device that records a song that you play on a MIDI instrument (or series of instruments) and uses the recorded data to play these instruments the same way that you did when you recorded them. It is more than just a glorified tape recorder, though. What gets recorded is not the sounds themselves, but the commands that you gave the MIDI electronic instruments that told them to play this or that note in this or that sequence with a particular tone, volume, pitch, timbre, etc. The recording takes the form of a series of numbers that, when translated into electronic form, cause the sequencer to send out electrical pulses that play back the composition just as you played it. Once these commands are recorded in digital form they can be modified in just about any way you like, so that you can keep adjusting your song any way you please without having to play the entire composition again every time you want to make a change. It’s sort of like the difference between a typewriter and a word processor in its ability to easily modify anything it records, including mistake you may have made during recording.
+
+But it’s even better than that – a MIDI sequencer offers a degree of control over your recording that is unmatched. For example, when you play back digital audio at a higher speed, it changes not only the tempo but the timbre and the pitch as well, resulting in a distortion of the original sound. A MIDI sequencer will alter the tempo without changing either the timbre or the pitch (unless you want it to).
+
+In fact, there are a million (or more) alterations you can make to your composition until you get it sounding just the way you want it to sound, and these alterations can be made either real time (during playback) or you can stop playback and re-arrange each note individually using a display that includes symbols representing every aspect of your recording.
+
+

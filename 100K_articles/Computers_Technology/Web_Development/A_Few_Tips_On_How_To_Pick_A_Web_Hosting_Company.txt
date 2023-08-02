@@ -1,0 +1,30 @@
+Title: 
+A Few Tips On How To Pick A Web Hosting Company
+
+Word Count:
+358
+
+Summary:
+As any good web developer knows, a web developer is always worried about creating the best web site that they can.  They work very hard with the client to decide exactly how they want their site to look, to function, and also how to make it run the most efficiently.  These are all things that people need to think about when they are creating a web site, but sometimes we forget one of the most important things, how are we going to get our site on the internet?  
+
+No matter h...
+
+
+Keywords:
+
+
+
+Article Body:
+As any good web developer knows, a web developer is always worried about creating the best web site that they can.  They work very hard with the client to decide exactly how they want their site to look, to function, and also how to make it run the most efficiently.  These are all things that people need to think about when they are creating a web site, but sometimes we forget one of the most important things, how are we going to get our site on the internet?  
+
+No matter how great the web site you create is, it is meaningless if you do not get it out on the internet.  So if you are going to get our web site on the internet, then you can either host it on a web server yourself, or get a web hosting company to host it for you.  If you are a large company that has an IT staff to setup the infrastructure to host a web site, then this is probably the best idea, because you have more control over the things that happen.  
+
+However, most people that create web sites do not have the money or the time to setup such an infrastructure.  These people will have to get a web hosting company to host their web site.  Here are a few things to consider when you try to pick a web hosting company that is right for you:
+
+Space – Some web hosting companies offer more space than others.  If you are going to create a large web site, or you are looking to expand a lot in the near future, then the amount of space offered is very important.
+
+Email Addresses – If your web site is going to give away email addresses, or you need extra email addresses for your users, then the amount of free email addresses that you are given might be very important.
+
+Database Access – Some web hosting companies offer the ability to use a MySQL or SQL Server database to store information or authenticate against.  This can be a very important fact to help make your web site more secure, or more dynamic.
+
+

@@ -1,0 +1,135 @@
+Title: 
+Avoiding suspicious activity reports in cash transactions
+
+Word Count:
+1685
+
+Summary:
+If you need to move large amounts of cash, doing any of the following could invite reporting to financial regulators.
+
+
+Keywords:
+SAR,SARS,privacy,anonymous proxy,anonymous web surfing,money laundering,scams
+
+
+Article Body:
+Many people ask "just what is considered illegal or suspicious activity when moving cash?" Some people have gone to the bank with the cash proceeds of a garage sale or a car sale on the weekend, and recounted horror stories of multiple questions by bank employees and have sometimes been reported to the government as suspected criminals.
+ 
+The reality is that such reporting is very plausible. Most western countries have enacted cash transaction legislation that mandates it. In Australia, anything over $10,000 must be reported to regulators, and any amount under that that bank staff deem suspicious. Likewise in the U.S. So, if you’re unusually scruffy-looking and wander into a bank with $4,000 cash to deposit, it’s very possible you will be reported by the teller. (See our article Money Laundering Defined on the web site www.powerprivacy.com for details on U.S. Currency Transfer Reports, or CTRs.)
+ 
+Here’s a list of most things that can trigger staff’s suspicion and get you reported next time you go to the bank. Banks will not give you a list of or even admit the existence of these criteria, regardless how much you ask:
+- A customer refuses to provide identification or explain the purpose of a transaction. 
+- A customer has a known criminal background and engages in substantial transactions. 
+- A customer is ignorant of basic facts regarding the transaction or is unconcerned about rates, taxes, etc. 
+- A customer is controlled by another person, particularly where the customer appears unaware, infirm or elderly and is accompanied by a non-relative. 
+- A customer conducts cash transactions when his/her employment or business does not ordinarily generate or require such amounts of cash. 
+- A customer repeatedly sends or receives wire transfers of any dollar amount when his/her business does not normally require or originate such wires. 
+- A customer has no apparent source of income, yet conducts repeated transactions. 
+- A customer offers a seller a gift, gratuity or bribe to complete a transaction. 
+- A customer divides transactions into smaller amounts to avoid identification or reporting requirements. 
+
+Suspicious Customer Behavior
+- Customer has an unusual or excessively nervous demeanor. 
+- Customer discusses your record keeping or reporting duties with the apparent intention of avoiding them. 
+- Customer threatens an employee attempting to deter a record keeping or reporting duty. 
+- Customer is reluctant to proceed with a transaction after being told it must be reported. 
+- Customer suggests payment of a gratuity to an employee of the financial institution. 
+- Customer appears to have a hidden agenda or behaves abnormally, such as bypassing the chance to obtain a higher interest rate on a large account balance. 
+- Customer who is a public official opens account in the name of a family member who begins making large deposits not consistent with the known legitimate sources of income of the family. 
+- Customer makes a large cash deposit without counting the cash. 
+- Customer frequently exchanges small bills for large bills. 
+- Customer's cash deposits often contain counterfeit bills or musty or extremely dirty bills. 
+- Customer who is a student uncharacteristically transfers or exchanges large sums of money. 
+- Account shows high velocity in the movement of funds but maintains low beginning and ending daily balances. 
+- Transaction includes correspondence received that is a copy rather than original letterhead. 
+- Transaction involves offshore institutions whose names resemble those of well-known legitimate financial institutions. 
+- Transaction involves unfamiliar countries or islands that cannot be found in an atlas or map. 
+- Agent, attorney or financial advisor acts for another person without proper documentation such as a power of attorney.
+
+Suspicious Customer Identification Circumstances
+- Customer furnishes unusual or suspicious identification documents and is unwilling to provide personal background data. 
+- Customer is unwilling to provide personal background information when opening an account. 
+- Customer opens an account without identification, references or a local address. 
+- Customer's permanent address is outside the bank's service area or outside the country. 
+- Customer's home or business telephone is disconnected. 
+- A business customer is reluctant to reveal details about the business activities or to provide financial statements or documents about a related business entity. 
+- Customer provides no record of past or present employment on a loan application. 
+- Customer claims to be a law enforcement agent conducting an undercover operation, when there are no valid indications to support that.
+
+Suspicious Cash Transactions
+- Customer comes in with another customer and they go to different tellers to conduct currency transactions of less than $10,000. 
+- Customer makes large cash deposit containing many $50 and $100 dollar bills. 
+- Customer opens several accounts in one or more names, then makes several cash deposits that are less than $10,000. 
+- Customer conducts unusual cash transactions through night deposit boxes, especially large sums that are not consistent with the customer's business. 
+- Customer makes frequent deposits or withdrawals of large amounts of currency for no apparent business reason, or for a business that generally does not generate large amounts of cash. 
+- Customer conducts several large cash transactions at different branches on the same day, or orchestrates persons to do so on his behalf. 
+- Customer deposits cash into several accounts in amounts below $10,000 and then consolidates the funds into one account and wire transfers them outside of the country. 
+- Customer attempts to take back a portion of a cash deposit that exceeds $10,000 after learning that a currency transaction report will be filed on the transaction. 
+- Customer conducts several cash deposits below $10,000 at automated teller machines. 
+- Corporate account has deposits or withdrawals primarily in cash rather than cheques. 
+- Customer frequently deposits large sums of cash wrapped in currency straps, stamped by other banks. 
+- Customer makes frequent purchases of monetary instruments for cash, in amounts less than $10,000. 
+- Customer conducts an unusual number of foreign currency exchange transactions. 
+- Customer frequently uses foreign currency to purchase bank cheques under $3,000.
+
+Suspicious Non-Cash Deposits
+- Customer deposits a large number of traveller's cheques often in the same denomination and in sequence. 
+- Customer deposits money orders bearing unusual markings.
+
+Suspicious Wire Transfer Transactions
+- Non-accountholder sends wire transfer with funds that include numerous monetary instruments of less than $10,000 each. 
+- An incoming wire transfer has instructions to convert the funds to bank cheques and mail them to a non-accountholder. 
+- A wire transfer that moves large sums to secrecy havens such as the Cayman Islands, Hong Kong, Luxembourg, Panama or Switzerland. 
+- An incoming wire transfer followed by an immediate purchase by the beneficiary of monetary instruments for payment to another party. 
+- An increase in international wire transfer activity, in an account with no history of such activity or where the stated business of the customer does not warrant it. 
+- Customer frequently shifts purported international profits by wire transfer out of their home country. 
+- Customer receives many small incoming wire transfers and then orders a large outgoing wire transfer to another country. 
+- Customer deposits bearer instruments followed by instructions to wire the funds to a third party. 
+- Account in the name of a currency exchange house receives wire transfers or cash deposits of less than $10,000.
+
+Suspicious Safe Deposit Box Activity
+- Customer's activity increases in the safe deposit box area, possibly indicating the safekeeping of large amounts of cash. 
+- Customer often visits the safe deposit box area immediately before making cash deposits of sums less than $10,000. 
+- Customer rents multiple safe deposit boxes.
+
+Suspicious Activity in Credit Transactions
+- A customer's financial statement makes representations that do not conform to Generally Accepted Accounting Principles. 
+- A transaction is made to appear more complicated than it needs to be by use of impressive but nonsensical terms such as "emission rate," "prime bank notes," "standby commitment," "arbitrage" or "hedge contracts." 
+- Customer requests loans to offshore companies or secured by obligations of offshore banks. 
+- Customer suddenly pays off a large problem loan with no plausible explanation for the source of funds. 
+- Customer purchases certificates of deposit and uses them as collateral for a loan. 
+- Customer collateralises a loan with cash deposits. 
+- Customer uses cash collateral located offshore to obtain a loan. 
+- Customer's loan proceeds are unexpectedly transferred offshore.
+
+Suspicious Commercial Account Activity
+- Business customer presents financial statements noticeably different from those of similar businesses. 
+- A large business presents financial statements that are not prepared by an accountant. 
+- Retail business that provides cheque cashing service does not make large withdrawals of cash against cheque deposits, possibly indicating that it has another source of cash. 
+- Customer maintains an inordinately large number of accounts for the type of business purportedly being conducted. 
+- Corporate account shows little or no regular, periodic activity. 
+- A transaction includes circumstances that would cause a banker to reject a loan application because of doubts about the collateral's validity.
+
+Suspicious Trade Financing Transactions
+- Customer seeks trade financing on the export or import of commodities whose stated prices are substantially more or less than those in a similar market situation. 
+- Customer makes changes to a letter of credit beneficiary just before payment is to be made. 
+- Customer changes the place of payment in a letter of credit to an account in a country, other than the beneficiary's stated location. 
+- Customer's standby letter of credit is used as a bid or performance bond without the normal reference to an underlying project or contract, or in favor of unusual beneficiaries.
+
+Suspicious Investment Activity
+- Customer uses an investment account as a pass-through vehicle to wire funds, particularly to off-shore locations. 
+- Investor seems unconcerned about the usual decisions to be made about an investment account such as fees or suitable investment vehicles. 
+- Customer wants to liquidate a large position through a series of small transactions. 
+- Customer deposits cash, money orders, traveller's cheques or bank cheques in amounts under $10,000 to fund an investment account. 
+- Customer cashes out of annuities during the "free look" period or surrenders early.
+
+Suspicious Employee Activity 
+- Employee exaggerates the credentials, background or financial ability and resources of a customer, in written reports the bank requires. 
+- Employee frequently is involved in unresolved exceptions or recurring exceptions on exception reports. 
+- Employee lives a lavish lifestyle that could not be supported by his or her salary. 
+- Employee frequently overrides internal controls or established approval authority or circumvents policy. 
+- Employee uses company resources to further private interests. 
+- Employee assists transactions where the identity of the ultimate beneficiary or counter party is undisclosed. 
+- Employee avoids taking holidays.
+
+

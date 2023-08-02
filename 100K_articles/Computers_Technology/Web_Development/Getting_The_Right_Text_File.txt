@@ -1,0 +1,26 @@
+Title: 
+Getting The Right Text File
+
+Word Count:
+507
+
+Summary:
+Imagine you run a firm that deal in legal matters and the individuals that work in the firm have to draft important legal documents daily. After the work is over you take all the data to home and start reviewing it and find many discrepancies. There exists two or more files and people have worked on them but you cannot decide which the right one is that you need. This is the typical problem faced by many organizations deal with loads of data. The situation might get worse if ...
+
+
+Keywords:
+text file compare,document comparison,compare programs
+
+
+Article Body:
+Imagine you run a firm that deal in legal matters and the individuals that work in the firm have to draft important legal documents daily. After the work is over you take all the data to home and start reviewing it and find many discrepancies. There exists two or more files and people have worked on them but you cannot decide which the right one is that you need. This is the typical problem faced by many organizations deal with loads of data. The situation might get worse if you do not have the file comparison utility. 
+
+The file comparison tools check for differences in files, merge them, and synchronize them. Data management gets faster, easier and saves lot of time. If the file is text based then the difficulty cannot be imagined. The file comparison software is best for text file because if the text file has many paragraphs then it is almost impossible for comparison. The text file compare tools not only enable the user to know the differences in detail but also are reliable and the user can really count on the results. Image files comparison, however needs more enhancements and is sometimes costly. Text file comparison tools are available open source and are free to use.
+
+Comparing the text files. There are different file comparison utilities in the market and one can make the efficient use of them in one's business. Each tool comes with its own features for comparing the text files and one need to decide which most fulfils their requirements. Comparing text files can be tedious and tiring, especially when there is lot of data involved. Some tools support only the comparison feature while others support merging and editing. One should always go for the tool that contains all the features for text file comparison.
+
+The Beyond Compare file comparison tool has the built-in side-by-side file viewer and when it displays the comparison results, it shows the file differences in color. If the user wants to concentrate on a particular difference between the files there are filters with which the user can look for those differences. The tool also can be set to display only matches or mismatches. The Beyond Compare file comparison tool is the best option for when text files of diverse origins are to be compared. The tool has the settings option, which can overlook small differences such as white spaces, upper and lower cases.
+
+The Diffdoc is another useful text comparison tool that has many useful features. This tool can differentiate text from any application all the user has to do is to cut and paste it in the tool. The programe features delimited report of comma and text. The difference between the paragraphs of the text files are given in great detail. The tool can compare all types of files. The results of the file comparison can be saved in the formats of Text, Doc, HTML, and RTF. Thus with the text file comparing tools one can easily know which is the right text file.
+
+

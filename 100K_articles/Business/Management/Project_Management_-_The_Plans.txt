@@ -1,0 +1,24 @@
+Title: 
+Project Management - The Plans
+
+Word Count:
+499
+
+Summary:
+Your early Project Management duties are complete and you now need to get down to the nitty gritty of day to day detail, which is what we’ll discuss in this article.
+
+
+Keywords:
+project management
+
+
+Article Body:
+When you put the bid together, one of your most important pieces of documentation was the Project Management Plan.  This document will be your bible from now on, in particular the programme plan, which will take the form of a bar chart or similar and which you will probably want to pin onto the wall of your office.    This will show you the state of the project at a glance, including all the important dates and milestones, especially payment milestones.  If your plan was formulated using detailed activities for each milestone, you will need to check with the milestone owners that these are still valid.  If you didn’t use detailed activities, you might want to start now.  I firmly believe that the secret of successful Project Management is attention to detail.  In a complex project, it is all too easy to lose track of some seemingly insignificant little job or item which turns out to be vital to the conclusion of a milestone.  Get your team to think of every tiny little thing that they will need, especially for the early milestones and make sure that the plan is always up to date.
+
+One of your early milestones will almost certainly be to formally issue all your other documents as well as the Project Management Plan, as these will have been at draft issue only for the bid.  This means organising the review and signing off by senior personnel of your Quality Plan, Development Plan (if any), Sub-Contract Management Plan and Configuration Management Plan, to name but a few.  These will then require delivery to and acceptance by, your customer.
+
+Your Risk Management Plan is another priority and will also need constant update and review.  Make sure that your Risk Manager checks with all risk owners that they haven’t any new information which may affect the handling of an early risk.  For example, say one of your risks was that one of your software engineers would only be available to you part time because Project X was approaching a crucial milestone and might need extra resources.  Your Technical Lead now tells you that Project X has achieved that milestone with no problems and won’t need your software engineer.  You can now knock that risk off your list, you don’t need to worry about it any more and you won’t need to put the fall back or mitigation plans in place.  Risk Management is a complex subject so we won’t delve into it further here, suffice to say, it is crucial to good project management.
+
+Lastly, on the subject of plans, make sure that your Procurement Manager is monitoring the plans needed from your sub-contractors, if any.  These may be stand-alone plans for complex sub-contracts or may just be a contributory paragraph to some of your project plans.  Either way, they still need to be delivered in time for project management review and inclusion in the delivery of your document package to your customer.
+
+

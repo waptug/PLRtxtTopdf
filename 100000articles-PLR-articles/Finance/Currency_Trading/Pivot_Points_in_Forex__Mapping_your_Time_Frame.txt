@@ -1,0 +1,94 @@
+Title: 
+Pivot Points in Forex: Mapping your Time Frame
+
+Word Count:
+1218
+
+Summary:
+It is useful to have a map and be able to see where the price is relative to previous market action. This way we can see how is the sentiment of traders and investors at any given moment, it also gives us a general idea of where the market is heading during the day. This information can help us decide which way to trade.
+
+
+Keywords:
+Forex trading system, forex pivot points, pivot points, forex trading system, forex training, forex trading course
+
+
+Article Body:
+It is useful to have a map and be able to see where the price is relative to previous market action. This way we can see how is the sentiment of traders and investors at any given moment, it also gives us a general idea of where the market is heading during the day. This information can help us decide which way to trade. 
+
+Pivot points, a technique developed by floor traders, help us see where the price is relative to previous market action. 
+
+As a definition, a pivot point is a turning point or condition. The same applies to the Forex market, the pivot point is a level in which the sentiment of the market changes from “bull” to “bear” or vice versa. If the market breaks this level up, then the sentiment is said to be a bull market and it is likely to continue its way up, on the other hand, if the market breaks this level down, then the sentiment is bear, and it is expected to continue its way down. Also at this level, the market is expected to have some kind of support/resistance, and if price can’t break the pivot point, a possible bounce from it is plausible.
+
+Pivot points work best on highly liquid markets, like the spot currency market, but they can also be used in other markets as well.
+
+Pivot Points
+
+In a few words, pivot point is a level in which the sentiment of traders and investors changes from bull to bear or vice versa.
+ 
+Why PP work?
+They work simply because many individual traders and investors use and trust them, as well as bank and institutional traders. It is known to every trader that the pivot point is an important measure of strength and weakness of any market. 
+
+Calculating pivot points
+There are several ways to arrive to the Pivot point. The method we found to have the most accurate results is calculated by taking the average of the high, low and close of a previous period (or session).
+
+Pivot point (PP) = (High + Low + Close) / 3
+
+Take for instance the following EUR/USD information from the previous session:
+
+Open: 1.2386
+High:  1.2474
+Low:   1.2376
+Close: 1.2458
+
+The PP would be,
+PP = (1.2474 + 1.2376 + 1.2458) / 3 = 1.2439
+
+What does this number tell us? 
+It simply tells us that if the market is trading above 1.2439, Bulls are winning the battle pushing the prices higher. And if the market is trading below this 1.2439 the bears are winning the battle pulling prices lower. On both cases this condition is likely to sustain until the next session.
+
+Since the Forex market is a 24hr market (no close or open from day to day) there is a eternal battle on deciding at white time we should take the open, close, high and low from each session. From our point of view, the times that produce more accurate predictions is taking the open at 00:00 GMT and the close at 23:59 GMT. 
+
+Besides the calculation of the PP, there are other support and resistance levels that are calculated taking the PP as a reference. 
+
+Support 1 (S1) = (PP * 2) – H
+Resistance 1 (R1) = (PP * 2) - L
+Support 2 (S2) = PP – (R1 – S1)  
+Resistance 2 (R2) = PP + (R1 – S1)
+
+Where	, H is the High of the previous period and L is the low of the previous period
+
+Continuing with the example above, PP = 1.2439
+
+S1 = (1.2439 * 2) - 1.2474 = 1.2404
+R1 = (1.2439 * 2) – 1.2376 = 1.2502
+R2 = 1.2439 + (1.2636 – 1.2537) = 1.2537
+S2 = 1.2439 – (1.2636 – 1.2537) = 1.2537
+
+These levels are supposed to mark support and resistance levels for the current session. 
+
+On the example above, the PP was calculated using information of the previous session (previous day.) This way we could see possible intraday resistance and support levels. But it can also be calculated using the previous weekly or monthly data to determine such levels. By doing so we are able to see the sentiment over longer periods of time. Also we can see possible levels that might offer support and resistance throughout the week or month. Calculating the Pivot point in a weekly or monthly basis is mostly used by long term traders, but it can also be used by short time traders, it gives us a good idea about the longer term trend. 
+
+S1, S2, R1 AND R2...? An Objective Alternative
+
+As already stated, the pivot point zone is a well-known technique and it works simply because many traders and investors use and trust it.  But what about the other support and resistance zones (S1, S2, R1 and R2,) to forecast a support or resistance level with some mathematical formula is somehow subjective. It is hard to rely on them blindly just because the formula popped out that level. For this reason, we have created an alternative way to map our time frame, simpler but more objective and effective. 
+
+We calculate the pivot point as showed before. But our support and resistance levels are drawn in a different way. We take the previous session high and low, and draw those levels on today’s chart. The same is done with the session before the previous session. So, we will have our PP and four more important levels drawn in our chart. 
+
+LOPS1, low of the previous session.
+HOPS1, high of the previous session.
+LOPS2, low of the session before the previous session.
+HOPS2, high of the session before the previous session.
+PP, pivot point.
+
+These levels will tell us the strength of the market at any given moment. If the market is trading above the PP, then the market is considered in a possible uptrend. If the market is trading above HOPS1 or HOPS2, then the market is in an uptrend, and we only take long positions. If the market is trading below the PP then the market is considered in a possible downtrend. If the market is trading below LOPS1 or LOPS2, then the market is in a downtrend, and we should only consider short trades.
+
+The psychology behind this approach is simple. We know that for some reason the market stopped there from going higher/lower the previous session, or the session before that. We don’t know the reason, and we don’t need to know it. We only know the fact: the market reversed at that level. We also know that traders and investors have memories, they do remember that the price stopped there before, and the odds are that the market reverses from there again (maybe because the same reason, and maybe not) or at least find some support or resistance at these levels.
+
+What is important about his approach is that support and resistance levels are measured objectively; they aren’t just a level derived from a mathematical formula, the price reversed there before so these levels have a higher probability of being effective.
+
+Our mapping method works on both market conditions, when trending and on sideways conditions. In a trending market, it helps us determine the strength of the trend and trade off important levels. On sideways markets it shows us possible reversal levels.
+
+How we use our mapping method?
+We at StraightForex (www.straightforex.com) use the mapping method in three different ways: as a trend identification (measure of the strength of the trend), a trading system using important levels with price behavior as a trading signal and to set the risk reward ratio (RR) of any given trade based on where the is the market relative to the previous session.
+
+

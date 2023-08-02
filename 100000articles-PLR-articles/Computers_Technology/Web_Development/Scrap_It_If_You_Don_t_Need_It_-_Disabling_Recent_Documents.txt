@@ -1,0 +1,26 @@
+Title: 
+Scrap It If You Don't Need It - Disabling Recent Documents
+
+Word Count:
+523
+
+Summary:
+Your computer has been programmed to store recently opened files in a folder named: Recent Documents. This has been established to make accessing of documents easier. Most people find this feature helpful and use it regularly. Others, especially those working on shared computers find the feature cumbersome and can hinder their privacy. It is true that the Recent Documents folder is a double edged sword. It can be very useful, giving the user quick access to recently opened do...
+
+
+Keywords:
+disable recent documents,recent files problems,recent documents
+
+
+Article Body:
+Your computer has been programmed to store recently opened files in a folder named: Recent Documents. This has been established to make accessing of documents easier. Most people find this feature helpful and use it regularly. Others, especially those working on shared computers find the feature cumbersome and can hinder their privacy. It is true that the Recent Documents folder is a double edged sword. It can be very useful, giving the user quick access to recently opened documents while at the same time giving other individuals a window into the inner working of your computer.
+
+If you are one of those people on a private computer and find the Recent Documents feature helpful, then keeping it will not prove to be problematic. But, if you do not use this feature, no matter if you are in a shared or private computer; it is advised for you to disable this.
+
+Disabling the recent documents folder has been found to decrease the time that it takes to boot Microsoft Windows, and privacy comes as an added bonus. If you are using the Windows Vista version, it may help that you switch your start menu to the Classic view first so you can follow the instructions. What is the Classic View? The Classic view for the start menu is similar to those found in older versions of Windows and not the updated one of Vista. To switch to the Classic Start Menu view, Right Click on the START button found on the lower left hand side of your screen. In Windows Vista, this appears as an icon of the Microsoft Windows logo. Click Properties, pick the Classic Windows view and click OK. Now that you have changed it you can follow the same procedure for other Windows version when disabling the Recent Documents folder. In order to disable the feature, follow these steps: Click START, then Click on the RUN tab. Type 'Regedit' on the text bar. This will open a new window, browse to HKEY_CURRENT_USER/Software/Microsoft/Windows/CurrentVersion/Policies/Explorer. After you have done this, create a new DWORD value, this is essentially the same as creating a new folder. Create the DWORD value using the Key NoRecentDocsHistory and pick 1 for the value. That's it!
+
+You have just disabled the Recent Documents Feature of your computer. In order to make this take effect, restart your computer. After that is done, you will no longer have a record of your recent documents.
+
+Now that your recent documents have been disabled, you will be able to notice a slight difference in the time it takes for your computer to boot. Also, you do not need to worry about people who might be snooping around looking to get a look at what you have been up to recently. The Recent Documents folder is just one of those things that you can do without. Pretty much like the appendix in Human Anatomy. The whole can still function fully without that one part. In all cases, this can be viewed as a preventive action that helps you avoid any problems when it comes to your privacy.
+
+

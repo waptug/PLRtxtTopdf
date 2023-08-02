@@ -1,0 +1,26 @@
+Title: 
+Internet Banking could help with your tax retuns
+
+Word Count:
+332
+
+Summary:
+One of the most useful things about Internet banking is that once you have your account information on your computer, you can export it into financial programs such as Microsoft Money and Quicken, to better manage your various household accounts
+
+
+Keywords:
+internet,banking,finance
+
+
+Article Body:
+One of the most useful things about Internet banking is that once you have your account information on your computer, you can export it into financial programs such as Microsoft Money and Quicken, to better manage your various household accounts. This can be particularly useful at tax time, if you export your account details into a tax calculator program such as TurboTax.
+
+However, getting the software and your Internet banking to talk to each other can sometimes be easier said than done. While many banks (especially Internet-only banks) are good about this and offer an easy download link to save your online statements onto your computer, others offer only a very basic Internet banking service.
+
+If your bank doesn’t produce export files, you may have luck with asking your software to access your Internet banking account directly, giving it your username and password (it goes without saying that you shouldn’t give these details to any software you don’t completely trust).
+
+If that still doesn’t work, then don’t worry. Search the web for the name of your bank followed by ‘export software’, and you will often find that someone has produced a free script that you can use to save the information from your bank’s website. These scripts generally work by first asking you to save pages from your Internet banking using your web browser’s Save button or menu option, and then taking the files produced and converting them into a format that your financial software can understand.
+
+If all else fails, call up your bank and ask them to help you. If they refuse, and it is really important to you, you might consider opening an account at an Internet bank, where they will be much more understanding towards these kinds of requests. You might also want to complain to the company that makes the financial software, as they may be able to persuade (or even help) the bank to do something about the problem.
+
+

@@ -1,0 +1,28 @@
+Title: 
+Hard Drives- Choosing the Right One
+
+Word Count:
+519
+
+Summary:
+When buying or building a home computer, it is important to make sure your hard drive is the proper size. Without the proper hard drive, you'll find using your computer won't be as much fun as you want it to be.
+
+
+Keywords:
+hard drive, RAID, choosing, choose, new, buy, help, hard disk, GB
+
+
+Article Body:
+Hard drives come in many different sizes and configurations. How much data a hard drive can hold is measured in gigabytes (GB). The latest hard drives can hold anywhere from 80 GB to 1000 GB (1 TB)! When buying a hard drive, size isn't the only factor to look at, however. By choosing the right hard drive for your needs, you'll enjoy your computer more. Hard drives are inexpensive and you should never skimp on one to save money.
+
+For business or basic home use, an 80 GB hard drive should suffice. If you plan on downloading music, movies, or installing a lot of games on your computer, your hard drive should be at least 160 GB. For laptop users, the same space requirements apply, however, many laptops come with small hard drives. Many laptop users choose to keep the small hard drive and buy an external hard drive for excess files to keep costs down.
+
+You can have a huge hard drive, but it will be worthless if it doesn't move data fast enough for your computer! To find data, hard drives have platters on spindles that spin, similar to a CD. How fast a hard drive spins is measured in RPM (revolutions per minute). The higher a hard drive's RPM is, the faster it will perform. Desktop hard drives almost always have 7200 RPM hard drives. Laptop hard drives can range from 4200 RPM to 5400 RPM for budget and midrange uses and 7200 RPM for high end use. Hard drives with RPMs of 10,000 or more are available, but those are mainly for gamers, computer enthusiasts, and servers.
+
+If you are computer user looking for performance, you should know about RAID. RAID lets you put 2 or more hard drives of the same brand and model together and run them at once, which results in faster performance. You can also use RAID so the second hard drives automatically backs up data from the first hard drive, so you always have a backup of your data. There are numerous possible RAID configurations out there, too many to mention in this article.
+
+A hard drive's cache is also another important performance  indicator. A hard drive's cache will hold frequently accessed data for faster access by the computer. A good hard drive will have at least 8 MB of cache. As with RPM, the more cache a hard drive has, the better.
+
+Hard drives generally have either an SATA or IDE connection. Both connections are for attaching the hard drive to the motherboard via a cable so that data can be sent and received to and from the computer and drive. SATA is the newest connection and is better than IDE in that it can be faster and uses a much smaller cable. IDE, however, is just as fast as IDE in real world performance testa and hard drives that use IDE are cheaper than SATA hard drives. However, IDE hard drives use large cables that can restrict airflow. Fortunately, you can buy a rounded IDE cable that is not as big for $5-$10 at almost any computer supply store or online computer part retailer, such as Newegg.com or Fry's Electronics.
+
+

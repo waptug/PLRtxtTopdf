@@ -1,0 +1,38 @@
+Title: 
+Why Go Wireless With Your ISP?
+
+Word Count:
+679
+
+Summary:
+Whether you're looking for Internet access, or you're looking to provide Internet access, this article discusses when you should use a wireless ISP over a wired one.  You will find out what type of situations are best for wireless ISPs and when you should use one or consider rolling out your own.
+
+
+Keywords:
+isp, wisp, wireless, software, management, backend
+
+
+Article Body:
+When it comes to ISPs, most of the main players are traditional, wired service providers.  This is traditionally seen as the more reliable and secure method of data transmission.  However, advances over the years in wireless technology over the years have improved the security and reliability of wireless networks.
+
+So when do you want to use a wireless network?  There are many scenarios when you need a wireless network, some when you should use a wireless network, and many where you could use either.  In this article, we will discuss the where, whens, and whys of Wireless ISPs.
+
+The most obvious example of a place that is perfect for a WISP is in a mountainous region.  When installing wired infrastructure, uneven mountainous terrain presents a problem.  In addition, since the nodes (homes) tend to be further apart, you end up doing a lot of work just to wire up a single home.  This is the ideal situation for a WISP.  Network connectivity can be transmitted via standard 802.11 wireless protocols or via microwave transmitters.
+
+In this situation, only one home in a mountainous area needs to be wired (or receive internet via satellite or other means).  Then that home acts as a hub for all the other homes in the area.  Many WISP owners have been successful covering an entire valley and providing all their neighbors with internet connectivity.  Since there are usually no other options for Internet, it’s not too difficult to find clients.
+
+Another scenario in which a wireless ISP is desirable is in an apartment complex.  Since access points generally cover an area in the shape of a large sphere, one access point can cover a lot of users by placing it on the center of the middle-most floor.  Larger buildings can be divided up by visualizing wireless spheres and placing them with a generous overlap in coverage.
+
+Providing Internet access like this to tenants is ideal, because only one good backbone connection is needed and no additional wiring to individual units is necessary.  As cable internet, fiber optic, dsl, and new mediums for Internet connectivity are rolled out, the building does not need to be rewired each and every time.  All connectivity and network issues can be taken care of from the access points.  Installation in this situation is usually easy and Internet can be provided from a maintenance closet, lease office, or a tenants apartment (who gets discounted connectivity in return for keeping the equipment in his or her apartment).
+
+New construction areas are ideal for wireless ISPs.  Often wired service providers are slow to roll out their networks in new areas, causing a high demand for Internet services.  A WISP can gain enough clients in an area like this to have a strong hold when the wired service providers come rolling in.  If you provide good service to your clients, they will have no reason to change and go with a wired service provider.  
+
+A WISP can be installed and run successfully in any type of neighborhood, but keep in mind that neighborhoods covering large areas with homes that are far apart are more difficult to cover.  
+
+When picking out an area to install, there are a few things to consider besides physical layout.  You need to ask yourself ¨Is this area ripe for new clients?¨  Older neighborhoods or neighborhoods with low turnover are not going to see a lot of new clients because people may already have an ISP and have no need to change.  
+
+On the other hands, areas with high turnover and a younger population result in plenty of people constantly looking for new service.  If they turn on their computers and see your access point, it’s very easy for them to come to your ISP for instant service.
+
+Keeping in mind the things discussed in this article will help you more strategically plan your ISP rollout.  If your a customer, then this article will help you know what to expect in your area and maybe even inspire you to start your own WISP for you and your neighbors.
+
+

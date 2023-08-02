@@ -1,0 +1,36 @@
+Title: 
+Tips For Recording Music With Your Electric Piano
+
+Word Count:
+303
+
+Summary:
+Electric pianos, also called digital pianos are become increasing popular, due to their many benefits. Quality digital pianos now how a sound and feel very close to an acoustic piano. In fact, some digital pianos can rival the best grand pianos in sound quality.
+
+One of the best benefits of digital pianos is their digital output of sound, so it's very easy to record music using just your digital piano and your computer.
+
+Most keyboards and electric pianos have a one quart...
+
+
+Keywords:
+
+
+
+Article Body:
+Electric pianos, also called digital pianos are become increasing popular, due to their many benefits. Quality digital pianos now how a sound and feel very close to an acoustic piano. In fact, some digital pianos can rival the best grand pianos in sound quality.
+
+One of the best benefits of digital pianos is their digital output of sound, so it's very easy to record music using just your digital piano and your computer.
+
+Most keyboards and electric pianos have a one quarter inch stereo output. Most computers have a one eighth inch stereo input, so you'll need an adapter. You can get the necessary adapter at Radio Shack or a similar store.
+
+Once you have your electric piano plugged into the microphone port on your computer, you'll need software to record with. Audacity is about as good as you can get. It's free, and supports multiple tracks, plus has many useful effects.
+
+Once you install Audacity, you'll need to adjust your keyboard volume. You can adjust the volume via the Audacity interface or on your keyboard.
+
+To record, just click the record button and start playing...then click stop when you are done. To record multiple tracks, just click record again and play along with the track you already recorded.
+
+If you add acoustic tracks, such as guitar, vocals, drums, etc to your recording, you should use the Noise removal effect on Audacity. This tool is very helpful in removing static and noise from your recordings. It usually won't be necessary for your electric piano, though, since all the recording is digital.
+
+Using your electric piano and Audacity, you can easily create recordings with a “full” band. If you need more voices for your keyboard, you can get midi boxes or software to add 100's of extra voices – everything from drums to flutes.
+
+

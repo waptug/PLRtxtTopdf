@@ -1,0 +1,38 @@
+Title: 
+Memory Requirements For Windows Vista
+
+Word Count:
+548
+
+Summary:
+Now that Windows Vista has been released many people are now asking if their computer is capable of running Microsoft's new operating system. With relatively new PC's, the answer is likely to be yes, but even older PC's may be able to run Windows Vista with a simple memory upgrade.
+
+Microsoft classify computers as either "Vista Capable" or "Vista Premium Ready", depending on the hardware specs.
+
+Vista Capable pc's will have a minimum 800 Mhz CPU, 512MB of RAM, 20GB hard d...
+
+
+Keywords:
+
+
+
+Article Body:
+Now that Windows Vista has been released many people are now asking if their computer is capable of running Microsoft's new operating system. With relatively new PC's, the answer is likely to be yes, but even older PC's may be able to run Windows Vista with a simple memory upgrade.
+
+Microsoft classify computers as either "Vista Capable" or "Vista Premium Ready", depending on the hardware specs.
+
+Vista Capable pc's will have a minimum 800 Mhz CPU, 512MB of RAM, 20GB hard drive (15GB free), and a DirectX 9 class graphics card. A computer that meets these requirements should be able to run all versions of Windows Vista, but may still require a hardware upgrade to access the advanced features of the new Aero interface, such as the window transparencies and other visual effects.
+
+Vista Premium Ready pc's will have at least a 1Ghz CPU, 1GB of installed RAM, a 40GB hard drive (15GB free), and an Aero-compatible graphics card which supports the new Windows Display Driver Model and 128mb of onboard memory. A computer that meets these requirements will be able to take advantage of the "high end" features of Windows Vista and have access to all of the new Vista special user interface effects.
+
+To help you determine whether or not you can install Vista, Microsoft offer the Windows Vista Upgrade Advisor from their website (runs on Windows XP or Vista) to help determine if your pc is capable of running the various versions of Vista.
+
+Now that we've got the "official" requirements out in the open, let's discuss the hardware you are really going to need to have a satisfying experience using Windows Vista.
+
+After upgrading literally thousands of computers over the last 3 years, I really cannot recommend Windows Vista to anyone with a pc running a CPU slower than 1GHz. With a CPU this slow, it's very likely that the maximum memory capacity of your pc is going to be 1GB (especially with laptops). If you have a pc in this category and only a minimum amount of RAM, I recommend staying with Windows XP and upgrading to at least 1GB of system memory. You'll be amazed at the difference it makes to how well Windows XP runs, and it's likely going to feel like you are using a new computer. Alternatively, look at buying a new computer with Vista pre-installed.
+
+If your PC has at least a 1GHhz CPU then by all means install Windows Vista, but don't expect great performance with the recommended 512MB of installed RAM. Consider 1GB of RAM as the absolute minimum, and 2GB as the sweet spot. If you're a power user who runs a lot of applications at once (or a serious gamer), then I recommend you consider 4GB of installed RAM as a target for the maximum experience, but only if you have a modern CPU (Core Duo 1.8Ghz equivalent or higher) and graphics card (256mb on-board ram or higher).
+
+Windows Vista certainly provides a richer and more user-friendly interface, but the hardware requirements to take advantage of all the new features are quite steep. As with Windows XP and most other windows-based operating systems, installing a good amount of system memory is going to give you a pleasant experience and ultimately extend the useful life of your computer.
+
+

@@ -1,0 +1,26 @@
+Title: 
+Spyware Protection through Lowest User Access
+
+Word Count:
+581
+
+Summary:
+Many of the computers that are attached to the Internet are infected with some sort of Spyware or Adware type applications. These applications are designed to subject the user from anything from annoying pop up windows to the stealing of people’s identity. As time goes along these programs will only become more advanced and will cause even more problems for Internet Service Providers and System Administrators as these programs advance in functionality and become even harder to detect.
+
+
+Keywords:
+
+
+
+Article Body:
+Many of the computers that are attached to the Internet are infected with some sort of Spyware or Adware type applications. These applications are designed to subject the user from anything from annoying pop up windows to the stealing of people’s identity. As time goes along these programs will only become more advanced and will cause even more problems for Internet Service Providers and System Administrators as these programs advance in functionality and become even harder to detect.
+
+There is a simple measure you can take to prevent these programs from being able to access your system in the first place. Many experts recommend that you keep your system updated and ensure you have the latest Virus and Protection software up to date. You can even utilize a firewall, like the one that comes default with Windows XP, to combat these threats. These are great ideas, but there is something simpler you can do that will prove to be more effective at combating Spyware than all of these methods combined. This method is described as Lowest User Access or LUA.
+
+By default most home computers only ever have one user account created and that is the account that first came with the computer. This account known as Owner or Administrator or sometimes even your name probably has Administrator privileges. What most do not know is an account with Administrator privileges is not needed for the majority of tasks you perform on your computer. These privileges are needed when you are setting up software or installing additional hardware to your computer, but for simple surfing the net and working in office applications do not require near this level of access. 
+
+Why is this fact being mentioned, well it’s because this is the main cause of Spyware and Virus infections on the majority of computers. Most computer owners are not even aware of this fact since the default accounts shipped on computers are usually in the Administrator’s group. This is by design since this reduces the amount of support calls the computer companies receive because people can not perform a certain task and they call for support as a result. If anyone can perform any task then that reduces the chance they will need to call the support desk which saves the computer company money.
+
+There is no valid reason for the majority of users to ever need Administrator privileges to perform 90% of all tasks you will ever need to use your computer for accomplishing. You could just as effectively accomplish your daily tasks with an account that only requires user permissions. If everyone would do this then  Spyware can be eliminated and it would not be profitable for people to write these programs. The reason for this was alluded to earlier. Since only the Administrator or Power User Level accounts can install software then at least one of these types of accounts is required for Spyware to install itself. If you are not logged on under and account with these elevated privileges, then the spyware can not install. This is a very easy protective measure to take and you can implement it in just a few minutes. Just right click My Computer and select manage. Then open up the users section and add your self a new lowest access user to your system and use that account to surf the net. You can always log onto your computer with the Administrator account if you need to install something new.
+
+

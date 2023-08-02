@@ -1,0 +1,38 @@
+Title: 
+The 6 Must Read Tips For A Successfull PS2 Mod Chip Installation
+
+Word Count:
+1128
+
+Summary:
+Installing a mod chip into your Playstation 2 can be a bit of an intimidating task. Unless you've been glued to a soldering iron and have the utmost confidence in your soldering abilities - you're probably scratching your head wondering if you'll be able to do it. There is a good side to all of this though. Most PS2 Mod chip manufacturers have realized that not only do they need to ensure that their ps2 mod chips have features on top of features, but that they must also be re...
+
+
+Keywords:
+ps2 mod chip, mod chip installation, slim ps2 mod chip, install ps2 mod chip, ps2 modchip, modchips
+
+
+Article Body:
+Installing a mod chip into your Playstation 2 can be a bit of an intimidating task. Unless you've been glued to a soldering iron and have the utmost confidence in your soldering abilities - you're probably scratching your head wondering if you'll be able to do it. There is a good side to all of this though. Most PS2 Mod chip manufacturers have realized that not only do they need to ensure that their ps2 mod chips have features on top of features, but that they must also be relatively easy to install. I mean lets face it, not every single Playstation 2 owner has worked with electronics and soldering irons. In fact, many of us have probably never touched a soldering iron. Having said that, it certainly is not difficult to install a mod chip into your Playstation 2 console. I am by no means an expert when it comes to chips and soldering, but I found it to be medium on the scale of difficulty.
+
+Modchip installation is not however for everyone. And I would urge anyone, that has not yet purchased their Playstation 2 system but plans to purchase it and immediately add a mod chip, to check out the various Pre Modded PS2 systems available for sale online. There are several online stores that have pre modded ps2 systems for sale and often times you're paying just a nominal fee for the pre installation of the mod chip, when you consider that you would have to purchase the mod chip, ps2 system as well as the soldering tools and supplies, if you don't have them already.   The added bonus is that you won't have to solder at all, and you can also rest a bit easier because most web sites will actually offer a lifetime warranty on the installation itself, and replace the 30 - 90 day manufacturer warranty and cover the unit if it is defective or not working in any way.
+
+Alright, now let's move on to the tips and suggestions to ensure you have a successfull PS2 Mod Chip Installation.
+
+You need the right soldering iron: You don't want to get a soldering iron with a tip the size of your pinky finger, or one that heats up to the point of melting the ps2 main board. You want a soldering iron that has a small, fine tip, making it easy to install the ps2 mod chip when you have to solder to the smaller sections of the motherboard. You can get a fine tip soldering iron for less than $15.00 at most Radio Shack stores. Make sure to get one that is rated at 15 Watts, this will provide enough heat for the soldering job, without actually hurting your console.
+
+Use thin, 15 AWG Wrapping Wire: You can also get this wire at almost every single Radio Shack Store. Far too often, an ps2 mod chip installation is bothced simply because of the wiring that is used. If the wire is too thick, you'll have a hard time attaching it to the right places, without the wire touching another part of the main board. It also helps that wrapping wire is insulated, because this ensures you won't short out your main board.
+
+Use Solder with Flux in it: For those of you that don't know, flux helps solder melt and attach itself to both the wires you're using as well as the solder points. Far too often people are using solder without flux, and buying flux seperately. Don't! Doing it that way will mean that you could potentially use too much flux, and corrode / eat away at the solder point as time goes on, forcing you to re-solder at a later date.
+
+Keep your wires as short as possible: Because you're actually sending data / information FROM the modchip, to your Playstation 2 motherboard, the less of a distance that the data / information has to travel, the better. Many customers that initially thought they had done an incorrect ps2 mod chip installation were simply wiring up their mod chips with wires that were far too long. The Playstation 2 is a bit picky, make sure to keep your power and ground wires as short as possible.
+
+Probably the most important tip is simply to take your time. We all like to rush, and getting that ps2 mod chip in the mail means sitting down and wanting to install it right away, as fast as you can. Some of the solder points are small, requiring precision. While you don't have to be an expert a soldering, you DO have to take your time, making sure and double checking every single connection. Make sure that the wires ARE actually attached, and more importantly, that they're attached to ONLY the soldering points they should be, without touching any other wires.
+
+Get the RIGHT chip for YOUR Playstation 2 console model number. There are 16 different versions of the Playstation 2 Main Board, and you have one of them. The question is which one do YOU have. Before you buy your ps2 mod chip, make sure to check which version you have. You can do this by going to Google.com and searching for PS2 MODEL IDENTIFICATION and you'll see results from numerous web sites offering a listing of all PS2 Model numbers. You can of course opt for a Universal PS2 Modchip, this will do away with having to find out your model number in advance, because the universal ps2 mod chips like the Modbo 4.0, will work in every single Playstation 2 console on the market today.
+
+There is absolutely no need to be intimidated by a ps2 mod chip installation. I myself am not very good at soldering, but was able to complete the installation from start to finish within 50 minutes. I am including taking apart and putting back together the Playstation 2 as well. Soldering time and wiring was about 30 minutes of the 50 minute job. Now mind you, I do have steady hands, and I did buy all the right equipment for the job.
+
+What is also important to note is that the total of all the items you'll need to do the installation (soldering iron, wires, etc..) will not cost more than $20-$30 at your local Radio Shack store, certainly not a kings ransom considering you now have access to thousands of games. If you're still uncertain after looking at the installation directions at the online stores, then opt to go for the pre modded ps2 systems. They're not expensive, and they are truly a plug in and play solution. But be careful that the online store you're buying from is selling you a BRAND NEW Playstation 2 and that they will actually replace the original Sony Warranty, as you don't want to be in a position where you end up with a brand new PS2, without a warranty in place.
+
+

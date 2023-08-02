@@ -1,0 +1,36 @@
+Title: 
+Data Recovery Tips
+
+Word Count:
+594
+
+Summary:
+Data recovery becomes necessary when your hard drive, memory card or USB flash card fail, and there is no backup available. This article covers the necessary steps and precautions during the data recovery process.
+
+
+Keywords:
+data recovery, data recovery tool, data recovery software
+
+
+Article Body:
+Data recovery becomes necessary when your hard drive, memory card or USB flash card fail, and you have no backup available. This article gives an idea on the necessary steps and precautions during the data recovery process.
+
+Before attempting the recovery, you must be aware that the data cannot always be retrieved. In case of a physical failure of a hard disk such as the infamous "click of death" situation, you won't be able to do much good to the hard drive except bring it to the recovery experts. Modern hard drives, however, are complex yet reliable pieces of electronics. They rarely fail for no reason, at least on a physical level.
+
+Logical corruption prevails with the complex operating systems, buggy software, malicious or careless acts of the end-users, malware and viruses. Power failures and computer hardware malfunctions also account for many cases of corrupted hard drives and lost data.
+
+The logical corruption can be dealt with at home. Provided that you have the right data recovery tools, you'll be able to do it yourself without any special skills.
+
+Be aware that the data recovery process is a lengthy one. You'll need plenty of time and enough space on a working, non-corrupted hard disk to facilitate the recovery. Before you begin, make sure that you restrict any write operations onto the damaged disk. If you don't have data recovery already installed on your computer, don't save or install the data recovery product onto the corrupted drive. Instead, use a different drive letter, a flash memory card or a USB drive. Even a flash card from your digital camera can be able to store the data recovery tool!
+
+The choice of a proper data recovery tool is a very important one. If you have no previous experience in recovering data, choose one that offers maximum level of automation for an inexperienced uses. It's a good idea to make sure that the tool you pick allows saving a copy of the damaged disk onto a healthy one in order to work on a backup copy instead of operating the live disk. Mareew Data Recovery by http://mareew.com is a good choice for the inexperienced user.
+
+Further data recovery steps depend on the data recovery software that you choose for the job. If you settle with Mareew Data Recovery, there's not much to talk about. Mareew Data Recovery can optionally create a backup copy of the damaged disk (I highly recommend that you do so), and performs all recovery operations on the copy instead of the original. If something goes wrong, you still have the source hard disk in its original condition; just make another copy and try again.
+
+The data recovery process is pretty straightforward with Mareew Data Recovery. You get a step-by-step wizard that guides you through the recovery process. Even if you don't read the prompts except the choice of the damaged disk if you have more than one in your system, and simply click the 'Next' button several times, you will be able to recover the damaged disk!
+
+Mareew Data Recovery is able to fix the most complex issues with modern hard disks. Corrupted file systems, bad partition tables, FAT or NTFS failures are not a problem. Most importantly, Mareew Data Recovery values your data more than the integrity of the system structures. You'll have a chance to save your documents, digital pictures and archives from the damaged drive before attempting the recovery. All in all, a highly recommended tool.
+
+Try it free at http://mareew.com/data_recovery/data_recovery.php
+
+

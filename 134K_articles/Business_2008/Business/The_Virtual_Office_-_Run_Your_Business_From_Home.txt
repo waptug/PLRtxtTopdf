@@ -1,0 +1,56 @@
+Title: 
+The Virtual Office - Run Your Business From Home
+
+Word Count:
+1251
+
+Summary:
+Learn how a small, struggling business saved mega-bucks by closing the office and sending their employees home to work. Learn about the pitfalls they encountered and how they solved them. Learn how you can run a full scale business without an office.
+
+
+Keywords:
+Business; Marketing; Money; Making Money
+
+
+Article Body:
+At one point in my career I found my self Chief Information Officer of a small start up company, struggling to make ends meet. We were burning $50,000.00 to $75,000.00 per month and not quite making that in *gross* sales.
+
+We were depending on investors to fund the business and investors were getting harder and harder to find. It looked like our little business was not going to make it.
+
+After crunching some numbers I determined that we could cut expenses into less than half if we would let everyone who was not critical to the business go and more importantly, close down the office and run the business 'virtually'.
+
+At first the executive team balked at the idea but I told them how we could do it and showed them how much we could save monthly by doing it. After careful consideration they agreed and our little business went 'virtual'.
+
+After giving the employees the bad news we closed the office and each member of the executive team took home all files, equipment, etc. that was most pertinent to their job. We supplied our 'critical' employees with computers, software and equipment as needed.
+
+Just before we left the office we set up a virtual PBX phone system. They're offered all over the Internet. You can do a search on one of the major search engines for 'virtual pbx'. The one I use now is GotVMail.com. It works pretty well for us and it's very inexpensive.
+
+Most large businesses have automated pbx system these days so using this system doesn't make us look like we don't have a central office. You can even upgrade it if you prefer and use a live person to answer the phones. Those are also available in plenty. When a call is placed to the pbx system it is forwarded to the number we set up (like for sales, support, Bob Fischer, etc.) If the phone isn't answered the pbx system sends the call to that phone account's voice mail. The best thing about these pbx systems is that they're VERY inexpensive. We currently pay $35.00 to $75.00 per month and we even have an 800 number. Even though we all have phones and cellphones, the expense isn't nearly as high because our phones are not set up with the phone company as 'business' phones. Say it's a 'business' account and the monthly bill doubles or more.
+
+Having the phone system covered we turn to the corporate information/file system.
+
+Being the CIO I took all of the computer servers and the Internet connectivity equipment home. I set up an adequite Internet connection to my house (again, non-business) and ran all of our inter-computer networking and our Website over the Internet from my home. We set up a VPN (a secure) connection between our computers over the Internet so we could see them all just like we could if we were in an office. Secured directories on any computer were protected just as they would be in an office. For a 'central' file server I set up an FTP (File Transfer) site on our file server. Again it was fully protected against intruders but all of our people could access the central file system just as easily as if we were in an office.
+
+As far as interoffice communication was concerned, we still used phones and email alot like we often did in the office anyway. For meetings we could use 'virtual meeting' software but we found that we much preferred to just meet at a restaurant and enjoy a (company expensed) bite to eat.
+
+NOw our little business was running fully virtual. Everyone was working from home and I might add, *loving* it. Soon after we were under way we ran into a nasty problem. We learned that our employees (the critical ones who we highly depended on) found it too much of a temptation to watch TV or handle domestic affairs (being at home) rather than really dedicating the time we were paying them for to working for us. Gradually it got so that no live person would (almost) ever answer our phones. Our clients were not being taken care of. Sales was dropping (which was already a problem). We (I) started to think that I had made a mistake and that this was not going to work.
+
+We had an executive meeting concerning the problem and determined that we had a choice: solve the problem or close our doors. We determined that we would do our level best to solve the problem.
+<br><br>
+The first thing we did was hold a corporate meeting (and treated everyone to lunch) and explain our problem to our employees. We told them flatly that if it didn't stop they would lose their jobs.
+
+The second thing we did was to restructure employee pay. Salaries went *way* down but were subsidized with pay based on production. This was a little closer to piece work. The emphasis was not on how long they worked but more on how much they got done.
+
+In addition to that we developed software to monitor their work. For every little piece of work they did they had to check a box or click a button on the computer to mark that it was done. If they didn't they didn't get paid for it. Of course we had to periodically check to make sure they weren't lying and for the most part they were honest about it. Sometimes more detailed information was required like selecting the client from a drop down or selecting specific services that were provided. Long story short, they had to record every part of their work to our database in order to be paid.
+
+We developed reports of each of our employees' work so we could closely monitor them. We made some reports available to all our employees and some available only to specific employees. For example, our service team could always see what each other was accomplishing. Our sales team always knew who was selling what (with information restrictions like customer names, etc.). We set up 'senior' employees to monitor their subordinates (especially concerning voice mail messages to make sure the phones were getting answered) so we had a 'virtual supervisor' system in place. 
+
+So we knew, our employees knew (and knew that we knew) what they were doing at all times. Sure, like any business, we did have to let a few go and rehire but for the most part it worked *very* well. Our sales and operations were much better than it was, even when we were in the office. Everyone was accountable to the whole company for their actions. Good work was rewarded (mostly with money but also with promotions) and bad (or lack of) work was penalized (sometimes with the loss of their great 'work at home' job).
+
+That little start up company is still in business and still struggling along. I question the overall business plan of the company but the virtual offices works *great*; much better even than I originally expected it to.
+
+Since then I've noticed that a lot of businesses are beginning to let employees work at home. I have a friend who works for a large 'temporary personnel' company. She used to go into the office every work day. Now she works at home full time.
+
+With the technology that is available today it is definitely feasable, in many cases even practical to run a business 'virtually', that is without a central office.
+
+

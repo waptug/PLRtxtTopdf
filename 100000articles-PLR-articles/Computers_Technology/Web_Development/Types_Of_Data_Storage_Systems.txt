@@ -1,0 +1,32 @@
+Title: 
+Types Of Data Storage Systems
+
+Word Count:
+412
+
+Summary:
+Every computer and server stores data. That doesn’t make them data storage systems, however. Usually that term is reserved for the systems that store data for use in recreating files after some kind of computer disaster. These data storage systems can be onsite, nearby or at a remote location. There are varieties of models and media, allowing a system to be designed specifically to meet the needs of a particular company. 
+
+Models and Media
+
+The different models of data st...
+
+
+Keywords:
+
+
+
+Article Body:
+Every computer and server stores data. That doesn’t make them data storage systems, however. Usually that term is reserved for the systems that store data for use in recreating files after some kind of computer disaster. These data storage systems can be onsite, nearby or at a remote location. There are varieties of models and media, allowing a system to be designed specifically to meet the needs of a particular company. 
+
+Models and Media
+
+The different models of data storage systems are usually reserved for medium to large companies. Large, data-driven companies require dependable storage and a means to recreate files quickly. Whether the data is stored close by depends on the type of disaster that can be foreseen. A company based near earthquake country would be foolish to back up onsite computers with onsite servers. They would be better off to have their own servers at some distance or outsource their data storage systems needs. 
+
+For example, Wall Street companies keep mirror facilities out of state complete with desks, phones and data copies so that any damage caused by terror attacks will not close their businesses for more than a few hours. The models of data storage systems include full backup with incrementals. This is a backup of all the files which is kept stored in a safe place. The incrementals are copies of changes from the original backup taken at regular intervals. If the files need to be rebuilt, the full backup is copied back on the computer system and all of the incrementals are added.
+
+Another model is the full backup with differentials, which is one of the better data storage systems. The full backup is compared to the current files, and only the differences are copied. Files are rebuilt using only the full backup and the most recent differential. Other data storage systems can stay connected to the computer network and record all activity. Media for data storage systems has always been ruled by magnetic tape. For bulk storage, the dependability, capacity and price can not be any better. 
+
+Modern hard discs are beginning to come close, however. Advantages of hard discs include ease of use and quick availability. For individual computers, optical discs like CD’s and DVD’s can be used in various data storage systems. Rather than a company-based backup, many corporations outsource their data storage systems. They can upload their files over a LAN or the Internet and recreate them the same way.
+
+

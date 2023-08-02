@@ -1,0 +1,26 @@
+Title: 
+Batch File Compare - Automate Routine Jobs
+
+Word Count:
+507
+
+Summary:
+Anatomy of a Batch File. A batch file contains a sequence of commands for a computer OS. Batch files are called so due to their ability to batch or bundle commands together in a single file which otherwise would have to be executed individually. Batch files are typically created for command sequences for which the user may have repeated needs. Common uses of batch files are for deleting a series of files, running utilities and moving files. Once a batch file is executed it's ...
+
+
+Keywords:
+batch file compare,file comparison,compare file
+
+
+Article Body:
+Anatomy of a Batch File. A batch file contains a sequence of commands for a computer OS. Batch files are called so due to their ability to batch or bundle commands together in a single file which otherwise would have to be executed individually. Batch files are typically created for command sequences for which the user may have repeated needs. Common uses of batch files are for deleting a series of files, running utilities and moving files. Once a batch file is executed it's read by a shell program which executes it line by line. A batch file is something similar to a shell script in UNIX like OS's .Batch files are intelligent enough to make decisions and performs operations only if a certain conditions exist or don't exist. Certain batch files are known to execute commands that are not available under DOS.  
+
+The commonly used batch file is AUTOEXE.bat which is a simple boot file which loads every time MS DOS starts and contains a list of commands used to run programs on MS DOS. The most apt comparison would be with a desktop shortcut in windows which runs programs. Though out dated, batch files are still used by system administrators to automate routine processes. Even though batch files support basic program flow commands such as IF and GOTO they are un-suited for general purpose programming. With a single command batch files can launch a program in the desired configuration as well as start an associated program such as a word processor to start once the main program is running. Sophisticated batch files exists which are capable of loading a part of program into upper memory/expandable memory thus freeing up conventional memory for utilities to run.
+
+Practice ground for juvenile virus writers. Batch files have become a script kiddie favorite due to their simple syntax and low amount of programming knowledge required. Laughed upon by the advanced virus writers for their simplicity, batch file virus can cause massive damage very rapidly. Fortunately batch file viruses don't spread unless copied into another computer.
+
+Batch File Comparing. File Comparing is the automated comparing of files or folders which are there in a file system. The commonly used file comparing programs are diff and cmf. Dff files displays the changes made per line and nowadays they have developed to include binary files. File comparison tools works by finding the Longest Common Sub Sequence (LCS).What LCS essentially does is it tries to find a new sequence from two sets of items such a way that the new sequence can be obtained by deleting certain items from the two older sets. 
+
+Certain other programs use the Longest Increasing sub sequence to differentiate between two files. File comparing softwares like Active file compare, Win Merge and Meld allows comparing, merging and synchronizing files. Active File compare has a built in File manager whereby you can compare two folders, copy files or load files for further work. WinMerge has a flexible editor with syntax highlighting, line numbers and word wrap.
+
+

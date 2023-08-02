@@ -1,0 +1,26 @@
+Title: 
+Realized Vs Unrealized Returns
+
+Word Count:
+525
+
+Summary:
+Traders deal with two different kinds of returns when they speak of profits and losses made in the markets. Realized returns, often referred to as "booked", are those which come about as the result of a position which has been closed out. Unrealized, or "paper", gains and losses are those which involve open positions. An example of a paper return would be when one buys a stock at $100 and it rises to $110, but the trade remains open. In this case the trader has an unrealized ...
+
+
+Keywords:
+trading, investing, returns, profits
+
+
+Article Body:
+Traders deal with two different kinds of returns when they speak of profits and losses made in the markets. Realized returns, often referred to as "booked", are those which come about as the result of a position which has been closed out. Unrealized, or "paper", gains and losses are those which involve open positions. An example of a paper return would be when one buys a stock at $100 and it rises to $110, but the trade remains open. In this case the trader has an unrealized gain of $10. Were the trade to be closed out at that price, that $10 gain would become a realized, or booked, profit.
+
+While it may seem a fairly trivial point, the concept of paper vs. booked returns is an important one in the realm of trading and money management. Debates are often had as to whether paper losses are real, or whether they only become real when actualized. This is a key distinction which can play a major role in how one trades, depending on the market in question.
+
+Where one is trading primarily in cash terms in a market like stocks, the differentiation between paper and booked returns is not very important. No matter how much the market moves either in favor or against a trader's open position, it does not impact her/his ability to enter further trades. Imagine, for example, a trader has a $10,000 account, and buys 100 shares of XYZ at $50. That leaves $5000 remaining in the account ($10,000 - $50 x 100, not accounting for transaction fees). It matters not at all whether XYZ rises or falls. The trader will still have $5000 available to enter new positions. This only changes when the XYZ shares are sold and the profit or loss booked.
+
+When one trades a market such as futures and spot foreign exchange, however, there really is no such thing as paper returns because these markets are based on margin. As such, all profits and losses are realized because they directly impact one's available margin. Let us again imagine a trader with a $10,000 starting account value, this time in the futures market. If the margin requirement for a 10-year note futures contract is $2500, and the trader buys two contracts, then the account is left with $5000 in available margin. If that 10-year note contract rises by a point, the trader would have a profit of $2000 on the position (1 point on a 10-year futures contract is equivalent to a 1% move in the value of a $100,000 position, or $1000). Unlike in stocks, this $2000 gain is very real in that the trader now has $7000 in available margin to put to use on other trades. Were the 10-year note to instead fall by a point, however, the trader would only have $3000 free to use as margin on new positions.
+
+Understanding the impact of realized and unrealized returns is something key in the development of both money management schemes and trading systems. Failure to recognize how these differences play-out in one's account can lead to major errors in the assumptions underlying position sizing, and exposure. It can mean the difference between a worthwhile system and a useless one, or between a safe risk profile and a reckless one.
+
+

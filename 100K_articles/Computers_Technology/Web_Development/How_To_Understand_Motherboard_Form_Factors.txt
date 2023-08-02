@@ -1,0 +1,53 @@
+Title: 
+How To Understand Motherboard Form Factors
+
+Word Count:
+544
+
+Summary:
+Its a great idea to fully understand all there is to your computer so when it comes to maintaining,upgrading or repair,you can save big on costs by simply performing these tasks yourself.
+
+Your computer's motherboard is its largest component and understanding it is not hard at. All motherboards have form factors which relates to its physical dimensions and needs.This form factor must relate to the form factor of the System Unit Case.
+
+The vast majority of computer use the...
+
+
+Keywords:
+computer repair,computer upgrades,computer training,software
+
+
+Article Body:
+Its a great idea to fully understand all there is to your computer so when it comes to maintaining,upgrading or repair,you can save big on costs by simply performing these tasks yourself.
+
+Your computer's motherboard is its largest component and understanding it is not hard at. All motherboards have form factors which relates to its physical dimensions and needs.This form factor must relate to the form factor of the System Unit Case.
+
+The vast majority of computer use the ATX Form Factor, or the Advanced Technology Extended Form Factor which was created in 1995 by Intel.And its available in three sizes,the ATX, its smaller version,the Mini ATX and the Micro ATX.
+
+If your system is housed in a full or mid size tower case,you can use a motherboard built to any variation of ATX as these cases are all downward compatible.Desktop cases, however, are restricted to the Micro ATX board.
+
+This is awesome should you decide to replace or upgrade your motherboard.Be certain you purchased the correct size motherboard for your case can be done by knowing the form factor of the system unit case.
+
+The most recent form factor is the BTX standing for the Balanced
+Technology Extended factor.This was introduced in 2004.One of
+the primary functions of this form factor was to improve the cooling
+system since newer CPU chips are running hotter.
+
+The BTX form factor is a clear break from previous ATX form factor layouts and was developed with emerging technologies such as Serial ATA, USB 2.0, and PCI Express.The BTX Form Factor come with thermal improvements come primarily from taking advantage of in-line airflow.
+
+BUYING OR REPLACING A MOTHERBOARD
+
+There are three basic reasons for upgrading a motherboard. The first would simply be that the existing one has failed.Another reason is the modernize the computer but the most likely reason is because you want the most powerful rig possible.
+
+Keep in mind that replacing your motherboard can be done but its not the easiest task to perform.You may have to strip the system down to gain access to the board,whether upgrading it or just replacing it with a more powerful board.
+
+Since the motherboard is the central and largest component in your computer,you'll need to be certain you have the right board for your case.All of your present computer hardware needs to be compatible with the motherboard.
+
+The first and most important consideration is the CPU or Central Processing Unit.The board must have the socket that the CPU was designed for.
+
+Another consideration is the FSB which stands for the Front Side Bus.The FSB allows the CPU to communicate with the rest of the computer.Manufacturers of the motherboards made them to support several FSB speeds within a specified range.To find the FSB rating for your computer look in the owners manual.
+
+One good thing in purchasing new motherboards is that most retailers will have supply kits.These kits will have a matched CPU and RAM for that motherboard.
+
+Additionally, ask the retailer detailed questions about your new purchase and ask them to double check for compatiblity.This way should it not be right,you can return it for a replacement easily.
+
+

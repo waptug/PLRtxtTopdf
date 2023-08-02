@@ -1,0 +1,54 @@
+Website Accessibility and Usability
+
+Usability is one of the most pressing issues in the field of website development nowadays. The usability of a website is tested against its simplicity which makes it easy for people to navigate the site as fast as possible, therefore making access to information easier.
+
+Accessibility is a concept that is intertwined with the concept of usability. It refers to creating the website content available to all people.
+
+Context
+
+The issue has caught the attention of different sectors of society.  Why? Because 1 out of 5 people in America possess some kind of disability and this figure translates to around 30 million Americans. The figure is still increasing, with the coming of age of senior citizens. During the past decade alone, a dramatic increase of 25% was seen.
+
+Why the Internet?
+
+One might ask, “Why is the Internet a central focus in this issue of usability?” The Internet has transformed the lives of people during the past decade. People have been able to do things that they were not able to do before, this includes the people with disabilities. People who are impaired don’t have as much opportunities compared to people who are well and able. The Internet has provided them avenues for communication, information gathering, social interaction, engaging in cultural activities and it provides them with employment opportunities. However, statistics have shown that the potential of the Internet to provide these certain opportunities is still not maximized because the people with disabilities are hindered by usability issues from using it to the fullest.
+
+Stakeholders
+
+The issue of usability is not only watched by institutions which are related to giving support to people with disabilities, most of the sectors of society are closely watching its progress. Institutions which are involved in governance, education, media, public services and even the business sectors are observers in the game.
+
+Benefits
+
+The benefits of improving accessibility of websites will not only benefit the people who have impairments but will affect the whole web community. Businesses, services, information campaigners, everyone will benefit. 
+
+Many people are calling for developing websites using a universal design approach. This is a way of developing web content which would accommodate the widest range of users. Some features of this said scheme are: provision of inter-operability of applications; access for the disabled; localization and customization.
+
+Recommendations for Improving Accessibility
+
+Listed below are some of the key recommendations from the Web Content Accessibility Guidelines 1.0 which was developed by the Web Accessibility Initiative of W3C on how to improve the accessibility of the contents of a website.
+
+1. Provide alternatives to audio-visual content
+ 
+Not all people will be able to use different kinds of content. These people may be disabled or may have a lower version of Internet browsers. Movies, sound clips, animations and other contents should be translated into text alternatives so as to provide information to the broadest range of viewers.
+
+2. Developers shouldn’t rely on color alone
+
+Many people are impaired in color differentiation. Developers shouldn’t rely too much on the use of colors to relay information in the websites. Charts that are color-coded should be modified and the background and foreground colors of the websites should have enough contrast to enable people with color differentiation impairment to easily navigate the site.
+
+3. Clarification of the use of natural language
+
+Content developers usually mark up the changes in natural language in their websites. They should be able to identify the dominant language that is used in the site so as to avoid confusion.
+
+4. Control of content changes that are time-sensitive
+
+This issue particularly involves people who have visual or cognitive impairments and those who are not able to read texts that are moving quickly. Movement is seen as an over-all enhancer to the look of the site, but it may pose some problems to people with cognitive impairments. 
+
+5. Accessibility of user interfaces that are embedded
+
+Objects that posses their own interfaces should be made accessible, and alternative solutions must be provided if this is not possible.
+
+6. Provision of orientation and context information
+
+The provision of information on how the objects are organized is important to provide people with guidance on how to access information.
+
+There are other ways of improving a website’s over-all accessibility to make it more usable. Developers should take into consideration the different people who are going to view their websites and make them focal points in the designing process.
+

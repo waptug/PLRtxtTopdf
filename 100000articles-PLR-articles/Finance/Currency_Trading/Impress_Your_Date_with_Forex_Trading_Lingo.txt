@@ -1,0 +1,82 @@
+Title: 
+Impress Your Date with Forex Trading Lingo
+
+Word Count:
+1103
+
+Summary:
+As in any new skill that you learn, you need to learn the lingo...especially if you wish to woo your love's heart. You, the newbie, must know certain terms like the back of your hand before making your first trade. Some of these terms you've already learned, but it never hurts to have a little review.
+
+
+Keywords:
+forex, forex trading, foreign exchange, currency trading, currencies, fx, 
+
+
+Article Body:
+Major and Minor Currencies
+The seven most frequently traded currencies (USD, EUR, JPY, GBP, CHF, CAD, and AUD) are called the major currencies. All other currencies are referred to as minor currencies. Do not worry about the minor currencies, they are for professionals only. Actually, on this site we will only be covering what we call the Fab Five (USD, EUR, JPY, GBP, and CHF). These pairs are the most liquid and are the only currencies we actually trade. 
+
+Cross Currency
+A cross currency is any pair in which neither currency is the U.S. dollar. These pairs exhibit erratic price behavior since the trader has, in effect, initiated two USD trades. For example, initiating a long (buy) EUR/GBP is equivalent to buying a EUR/USD currency pair and selling a GBP/USD. Cross currency pairs frequently carry a higher transaction cost. The three most frequently traded cross rates are EUR/JPY, GBP/EUR, and GBP/JPY.
+
+Base Currency
+The base currency is the first currency in any currency pair. It shows how much the base currency is worth as measured against the second currency. For example, if the USD/CHF rate equals 1.6350, then one USD is worth CHF 1.6350. In the Forex markets, the U.S. dollar is normally considered the “base” currency for quotes, meaning that quotes are expressed as a unit of $1 USD per the other currency quoted in the pair. The primary exceptions to this rule are the British pound, the Euro, and the Australian dollar.
+
+Quote Currency
+The quote currency is the second currency in any currency pair. This is frequently called the pip currency and any unrealized profit or loss is expressed in this currency.
+
+Bid Price
+The bid is the price at which the market is prepared to buy a specific currency pair in the Forex market. At this price, the trader can sell the base currency. It is shown on the left side of the quotation. 
+
+For example, in the quote EUR/USD 1.2812/15, the bid price is 1.2812. This means you can sell on U.S. dollar for 1.2812 Euros. 
+
+Ask Price
+The ask is the price at which the market is prepared to sell a specific currency pair in the Forex market. At this price, you can buy the base currency. It is shown on the right side of the quotation. 
+
+For example, in the quote  EUR/USD 1.2812/15, the ask price is 1.2815. This means you can buy one U.S. dollar for 1.2815 Euros. The ask price is also called the offer price. 
+
+Bid/Ask Spread
+The spread is the difference between the bid and ask price. The “big figure quote” is the dealer expression referring to the first few digits of an exchange rate. These digits are often omitted in dealer quotes. For example, the USD/JPY rate might be 118.30/118.34, but would be quoted verbally without the first three digits as “30/34”.
+
+Quote Convention
+Exchange rates in the Forex market are expressed using the following format:
+
+Base currency / Quote currency        Bid / Ask
+
+Transaction Cost
+The critical characteristic of the bid/ask spread is that it is also the transaction cost for a round-turn trade. Round-turn means both a buy (or sell) trade and offsetting sell (or buy) trade of the same size in the same currency pair. In the case of the EUR/USD rate of 1.2812/15, the transaction cost is three pips. 
+
+The formula for calculating the transaction cost is:
+
+            Transaction cost = Ask Price – Bid Price
+
+Pip
+A pip is the smallest unit of price for any currency. Nearly all currency pairs consist of five significant digits and most pairs have the decimal point immediately after the first digit, that is, EUR/USD equals 1.2538. In this instance, a single pip equals the smallest change in the fourth decimal place, that is, 0.0001. Therefore, if the quote currency in any pair is USD, then one pip always equal 1/100 of a cent. 
+
+One notable exception is the USD/JPY pair where a pip equals $0.01. 
+
+Margin
+When you open a new margin account with a Forex broker, you must deposit a minimum amount with that broker. This minimum varies from broker to broker and can be as low as $100 to as high as $100,000. 
+
+Each time you execute a new trade, a certain percentage of the account balance in the margin account will be earmarked as the initial margin requirement for the new trade based upon the underlying currency pair, its current price, and the number of units traded (called a lot). The lot size always refer to the base currency. 
+
+For example, let's say you open a mini-account which provides a 200:1 margin or .5% margin. Mini-accounts usually trade mini-lots which are $10,000. So if you were to open one mini-lot, instead of having to provide the full $10,000, you would only need $50 ($10,000 x .5 = $50). 
+
+Leverage
+Leverage is the ratio of the amount used in a transaction to the required security deposit (margin). It is the ability to control large dollar amounts of a security with a relatively small amount of capital. Leveraging varies dramatically with different brokers, ranging from 10:1 to 400:1. 
+
+Margin + Leverage = Possible Deadly Combination
+Trading currencies on margin lets you increase your buying power. If you have $5,000 cash in a margin account that allows 100:1 leverage, you could purchase up to $500,000 worth of currency because you only have to post one percent of the purchase price as collateral. Another way of saying this is that you have $500,000 in buying power.
+
+With more buying power, you can increase your total return on investment with less cash outlay. But be careful, trading on margin magnifies your profits AND losses. 
+
+Margin Call
+All traders fear the dreaded margin call. This occurs when your broker notifies you that your margin deposits have fallen below the required minimum level because an open position has moved against you.
+
+Trading on margin can be a profitable investment strategy, but it is important that you take the time to understand the risks. You should make sure you fully understand how your margin account works. Be sure to read the margin agreement between you and your broker. Talk to your broker if you have any questions.
+
+The positions in your account could be partially or totally liquidated should the available margin in your account fall below a predetermined threshold. You may not receive a margin call before your positions are liquidated (the ultimate unexpected birthday gift). 
+
+Margin calls can be effectively avoided by monitoring your account balance on a very regular basis and by utilizing stop-loss orders (discussed later) on every open position to limit risk. For ease of use, most online trading platforms automatically calculate the profit and loss your open positions.
+
+

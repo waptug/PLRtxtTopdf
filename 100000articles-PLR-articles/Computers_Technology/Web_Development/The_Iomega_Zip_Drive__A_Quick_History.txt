@@ -1,0 +1,24 @@
+Title: 
+The Iomega Zip Drive: A Quick History
+
+Word Count:
+421
+
+Summary:
+For many years the floppy disk dominated the data backup market for the home user as they offered affordable data storage. Ok using floppies was akward, slow and highly unreliable but at the time it was all we had. Then along came the Zip drive and the world of data backup changed overnight thanks to the creator of the Zip drive - Iomega. No longer were you restricted to a paltry 1.4MB of disk storage - now you could fit 100MB on one single Zip disk. Later this increased to, ...
+
+
+Keywords:
+zip, iomega, jaz, drive, memory, computer, data, backup, recovery, pc, mac
+
+
+Article Body:
+For many years the floppy disk dominated the data backup market for the home user as they offered affordable data storage. Ok using floppies was akward, slow and highly unreliable but at the time it was all we had. Then along came the Zip drive and the world of data backup changed overnight thanks to the creator of the Zip drive - Iomega. No longer were you restricted to a paltry 1.4MB of disk storage - now you could fit 100MB on one single Zip disk. Later this increased to, a then, massive 750MB of storage space which was completely unheard of at the time.
+
+Zip drives worked in almost exactly the same way as a floppy disk except they were physically bigger and provided a much higher data transfer rate than home users had ever seen before in an "external" data storage device. The biggest problem with Zip drives is that although they were similar to floppy disks you still needed a separate Zip drive to read or write to these disks which in turn meant more expense for home users. Also there was a rival technology called the LS-120 or SuperDisk that found favour with many computer manufacturers (ironically enough the Zip drive long outlived the LS-120 in terms of popularity and usefulness) so the Zip drive faced an uphill struggle from it's introduction to an eager computer market. 
+
+The Zip drive was/is available in a few different flavors. There were parallel, SCSI, USB and IDE Zip drives available on the market at one stage. This meant that regardles of what type of computer you had you'd be able to find a Zip drive with a compatible interface. This meant that both Mac and PC users tended to love the Zip drive although most Mac users tended to favor the Zips bigger SCSI brother - the Jaz drive... that however is the topic for another article for another day. 
+
+Alas for all their ingenuity the Zip drive has become all but obsolete. The current growth in hard drive storage capacities has meant that any storage device offering less than 10GB - 20GB of storage space is all but ignored as a useful backup device. Any computer user reading this who has ever owned a Zip drive will probably feel the same sense of nostalgia I felt when writing it. The Zip drive was incredibly revolutionary in it's day and paved the way for a real boom in data backup technology for homes and small businesses. RIP Zip drive.... you shall be missed.
+
+

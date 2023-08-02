@@ -1,0 +1,46 @@
+Title: 
+Microscope Faq: Different Scopes For Different Folks
+
+Word Count:
+441
+
+Summary:
+* What is an electron microscope?
+
+Invented by a German physicist named Ernst Ruska, electron microscopes are mostly used in archaeology, medicine, and geology to look at surfaces or layers of objecs. Rather than using light, electron microscopes use electrons to produce images. They have high resolution and can magnify in small detail.
+
+* What is a compound microscope?
+
+Used mostly in biology, compound microscopes have two or more double convex lenses. They produce a 2...
+
+
+Keywords:
+microscope, magnification, scope, scanning, lens, microscopy
+
+
+Article Body:
+* What is an electron microscope?
+
+Invented by a German physicist named Ernst Ruska, electron microscopes are mostly used in archaeology, medicine, and geology to look at surfaces or layers of objecs. Rather than using light, electron microscopes use electrons to produce images. They have high resolution and can magnify in small detail.
+
+* What is a compound microscope?
+
+Used mostly in biology, compound microscopes have two or more double convex lenses. They produce a 2-D slice image of an object, yet can attain a high enough magnification to see a hair strand. Unfortunately, they do not have excellent resolution, so the image may be blurred. On the other hand, stereoscopic microscopes, as the name implies, provide a 3-D picture of bisected items, like muscle tissue or an organ.
+
+Compound microscopes are the simplest type of microscope and are found in many classrooms. Compound microscopes are operated entirely by hand and use ordinary ambient light from the sun or light bulb. The specimen is mounted between two glass slides, and the microscope system uses a simple series of magnifying lenses and mirrors to bring the image to the eyepiece, much like a telescope.
+
+* What is a stereo microscope?
+
+While a compound microscope provides a 3-D picture, a stereo microscope provides a 3-D picture of bisected items such as muscle tissue or organs. A stereo microscope is a lower-powered microscope with low magnification. Although you cannot make out separate cells, it does allow for closer viewing of the non-microscopic world.
+
+This microscope makes tiny objects gigantic and is sometimes called a dissecting microscope. Inexpensive models of stereo microscopes are available for schools and students. The stereo microscope has a zoom as well as improved optics and lighting and can be used for professional purposes.
+
+* What is a confocal microscope?
+
+A confocal microscope is a step down from those above. It uses a laser beam to illuminate a specimen. Then, the image is digitally enhanced and viewed on a computer monitor. The specimen is often dyed a bright color for a more contrasting image. Unlike compound microscopes, confocal microscopes are controlled automatically with motorized mirrors that help with auto-focus.
+
+* What is a digital microscope?
+
+Made up of a digital camera unit and a controller, a digital microscope is fairly new to microscopy. It utilizes USB technology to produce live images viewable on a computer monitor. A high pixel color CCD and light are built into the camera unit. It makes use of inverted lens design and has a rotatable lamp. The controller has various functions such as display, record, measurement, etc. The digital microscope allows for quick observation, analysis and data processing without much preparation.
+
+

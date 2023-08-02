@@ -1,0 +1,42 @@
+Title: 
+Evaluate Your Website Risk for Becoming Obsolete
+
+Word Count:
+947
+
+Summary:
+Learn why some web sites may become obsolete in the near future.
+
+
+Keywords:
+website evaluation, web site design, design evaluation, valid HTML, validator
+
+
+Article Body:
+Small business owners satisfied with the look of their commercial website may be in for a surprise, soon.  Some designers have ignored advice from the Worldwide Web Consortium, W3C, the international authority establishing standards for code to create web sites.  There are new reasons to reconsider the W3C recommendations.
+
+Browser companies choose what they will support within the W3C standards, and most try to fully comply.  Your pages may continue looking okay for years to come because most browsers will support your code no matter what W3C recommends.  The impact on search engines may be the real issue, however, and could be more serious in 2 years, or less.
+
+What's expected to happen?  The search engine wars are a constant battle of changing the math algorithms to list search results.  Too often the results are loaded up front with nonsensical or unrelated sites because of creative designers who get high ranking with remotely related sites, plus a ton of phone directory lists, or other paid listings near the top.  The value to the person using the search engine is diminished, and this trend has not been overlooked by the major search engines.  They each want to be the best.
+
+Top search engine optimization experts are predicting that the methods used for listings must and will become friendlier to the real customer, the person searching.  Some are suggesting that part of this improvement includes placing higher value for ranking on sites with valid code.  Site owners enjoying Google page 1 listing, may very soon find their home page back 100 pages or worse if they do not have zero or near zero code errors.  This is especially important for commercial sites designed more than 5 years ago.
+
+When you consider most web designs may never become obsolete because browser companies have too much to lose not supporting older code, why the big fuss?
+
+W3C has other recommendations some designers choose to ignore including XHTML which is a code standard designed for the future, so issues other than favorable placement in search engines need to be considered.  There are advantages in XHTML that will sound like a foreign language to the average small business entrepreneur at first.  An overview follows.
+
+Having a design for the future means that not only will your pages display properly on devices in use today, each will still look great 10 years from now on new computing devices yet to be invented.  Most sites that use HTML and tables for the layout include code errors as a result of changes in code standards over the last few years.
+
+Tables are still a valid technique for true tables of information, however, the code may continue to deteriorate as more tags become obsolete thus increasing the number of errors on a site.  Like many web sites done in HTML, redesign may be necessary sooner than expected.  Will your web site still look okay 10 years from now?  Probably, however, the importance of designing without tables for layout plus zero or near zero code errors is gaining in significance for reasons beyond favorable search engine ranking.
+
+Next, there is an emerging issue that is being ignored by the majority of web site designers, and that is accessibility.  In short, equipment exists today that allow people with disabilities to browse the internet with devices specially designed to improve their experience.  Voice synthesizers now read content in a choice of voices, and XHTML design techniques allow for this easily.  These special devices depend on reading the hidden code used to create each page, and using tables or obsolete tags will mean defects or garbled output as the special reader sorts through the various extra code from the tables.  Blind people have devices that print Braille dots on an output device so they can read page content, also.  These accessibility issues are solved with a forward looking design using XHTML, yet there's more.
+
+Handheld devices like iPods and cell phones are another aspect of accessibility that may cause problems for some web site owners.  As these methods of surfing the internet gain in popularity, proper display of web sites on these devices may be an issue.  The forward looking design assures that pages will display well on the widest range of devices, current and future, thus giving the site owner a broader audience rather than lost opportunity because their pages were not accessible.
+
+There are more benefits to XHTML with CSS, including fewer lines of code to create the same effect as done in HTML with tables.  This means pages will load faster, and the real page content is easier to index by search engines because it's not surrounded by excess code using tables.   By comparison on a recent project, the old home page used over 500 lines of code.  The revised version utilizes just 170 lines to display nearly identical content.
+
+W3C, the Worldwide Web Consortium, the international body for establishing code standards for web design, strongly recommends that designers adopt XHTML with CSS and avoid tables for layout entirely.  It takes less than a minute to check the code on your web site.  Search in Google using the quotation marks for "The W3C Markup Validation Service", and then follow the link to W3C to check your web site for free with instant results.
+
+In conclusion, the future is now when it comes to new computing devices used to browse the internet.  Shifts in search engine strategy could be equally important.  Plan now and avoid losing sleep worrying about your web site becoming obsolete.  As a final tip, it makes sense to have a site review every 2 years with your web site designer to discuss advantages of emerging strategies.
+
+

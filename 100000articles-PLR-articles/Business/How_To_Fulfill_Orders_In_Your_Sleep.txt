@@ -1,0 +1,34 @@
+Title: 
+How To Fulfill Orders In Your Sleep
+
+Word Count:
+613
+
+Summary:
+So you have a digital product to sell, but how do you make it automatically downloadable so you don't have to be sending out emails at all hours of the day (and night)? The solution is really very simple. Just use your autoresponder and the good news is most web hosting accounts already come with a basic autoresponder system. 
+
+The general idea is to create a special dedicated email address where payment notifications will be sent to. Once the autoresponder detects email be...
+
+
+Keywords:
+digital product delivery
+
+
+Article Body:
+So you have a digital product to sell, but how do you make it automatically downloadable so you don't have to be sending out emails at all hours of the day (and night)? The solution is really very simple. Just use your autoresponder and the good news is most web hosting accounts already come with a basic autoresponder system. 
+
+The general idea is to create a special dedicated email address where payment notifications will be sent to. Once the autoresponder detects email being sent to this address, it will immediately kick back a reply email that you pre-programmed with download information and that is it. You're in business. 
+
+Easy as it is, this system does have a few flaws. For one, any email sent to that special address will return a reply with your product download information. Secondly, some payment processor's notification emails come from the payment processor themselves and it is only within the body of the notice will you find the customer's email. This is a problem because autoresponders that come with your web hosting account are not very sophisticated and can only reply to the originating email address. In plain English, this means all your order thank you emails will go to your payment processor, your customer receives nothing. And that is not good. 
+
+Thankfully, there are autoresponder systems that are much more robust and truly intelligent. They can literally scan the payment notification email, extract your customer's information, add them to the database so you can follow up with them later and send out a reply immediately to the customer using the information it gathered. All of this is done immediately behind the scenes in a matter of minutes (and even seconds); all your customer sees and experiences is one seamless process. These intelligent autoresponders come in the form of monthly services or scripts. 
+
+But what about securing the download? That is easy too. In many web host control panels, you will find a 'Protect Folder' or 'Password Protection' feature. By putting your downloads in a special folder and password protecting that folder, you will now keep spiders, robots and people who do not have access to the password out of your downloads. 
+
+What if you want a stronger protection system? In that case, you can use a membership manager where people can create their own logins. You can also get scripts or hosted shopping carts that will generate unique download links that expire after a certain time. These systems can set you back from $50 to $200 or more. 
+
+Up till now, all the options discussed only protect the download, not the product itself. If you're really concerned about piracy or if piracy is getting out of hand for you, the best way is to protect each download with its own unique key code. Fortunately there are services who can do that and integrate seamlessly into your existing checkout system. They cost $9.95 to $24.95 a month. If you are losing a big amount to piracy, the price may be small to pay. 
+
+Some food for thought, there will always be a small percentage of customers who will try to do what they know is wrong. The more control you exert, the more resentful customers will feel. Regardless of copyright, people do not like to be limited over something they already paid for. You just have to weigh it out what matters to you, keeping the majority of good customers happy or you want to spend time on a few rotten apples and of course don't forget to spell out your copyright and terms of use clearly. That's about the best you can do.
+
+

@@ -1,0 +1,52 @@
+Title: 
+Clean Room Data Recovery - What's Its Significance?
+
+Word Count:
+521
+
+Summary:
+What are clean rooms? Why is clean room data recovery important? We look at these issues first.
+
+
+Keywords:
+Emergency Data Recovery Services, Laptop Data Recovery, Hard Drive Recovery, RAID Recovery, PC/DESKTOP Data Recovery, USB Memory Stick Recovery
+
+
+Article Body:
+What are clean rooms? Why is clean room data recovery important? We look at these issues first.
+
+<b>What Are Clean Rooms?</b>
+
+Clean rooms are rooms that have been designed to reduce the level of particulates in the air like dust aand airborne microbes. Clean room construction employs filters extensively. Outside air is filtered to prevent dust entering the room. Filters and processes will be in place inside the room to remove internally generated contaminants during production and working areas are often further filtered locally such as laminar flow bench.
+
+Staff would usually have to enter clean rooms through airlocks and wear protective gear while working inside the rooms. 
+
+There are different "classes" of clean rooms, with each class limiting permissible different numbers of particles per cubic meter, as well as the maximum sizes particles. Thus a Class 1 clean room is one where the number of particles should not exceed 1000 particles per cubic meter.
+
+Clean rooms are used extensively in the pharmaceutical, semiconductor manufacturing and biotech industries. Data recovery centres typically use a Class 100 clean room that has an allowance of 100,000 particles per cubic meter (compared to 35 million particles per cubic meter in a normal room). 
+ 
+<b>Why Use Clean Rooms for Data Recovery?</b>
+
+Clean rooms are used for data recovery to prevent dust, electro static discharges and such disturbances. These kinds of precautions become necessary because even microscopic dust particles can damage the image on the drive platters, and make data recovery difficult.
+
+With each generation of disks, data is packed more and more densely on the disk platters. It is thus increasingly important that data recovery be attempted in exceptionally clean rooms.
+
+Drive manufacturers usually specify that their product guarantee will become void if the drive is opened by anybody other than themselves, or their authorized agents. And typically, one of the conditions they impose on authorized agents is that the disks be opened in clean rooms meeting specified standards.
+
+Thus clean rooms are necessary for data recovery on both performance and product warranty considerations.
+
+<b>Clean Room Data Recovery</b>
+
+Disk drives are opened only in clean rooms and kept there until the recovery is complete and the drive is closed. All devices are also protected against electro-static discharge, physical shocks, temperature fluctuations and electrical disturbances.
+
+Staff wear special clothing while working in the rooms and particle density is constantly monitored using particle counters. A typical objective of clean room data recovery centers is to maintain Class 10 conditions during production.
+
+<b>Conclusion</b>
+
+Data storage media are getting packed with data more and more densely with each new generation of drives. It is thus extremely important to attempt data recovery in exceptionally dust free rooms.
+
+These days, clean room data recovery uses Class 100 clean rooms where the number of particles is reduced by some 350 times compared to normally prevailing particle density.
+
+Clean room data recovery centers actually aim to achieve even higher levels of dust free conditions during production operations. Even minute specks of dust on the drive platters can damage the image on the media, and make data recovery even more difficult, if not impossible.
+
+

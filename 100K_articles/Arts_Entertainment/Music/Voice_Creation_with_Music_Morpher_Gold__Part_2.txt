@@ -1,0 +1,27 @@
+Title: 
+Voice Creation with Music Morpher Gold, Part 2
+
+Word Count:
+509
+
+Summary:
+With a little planning and organization, you can create your own multi-voiced audio files, using MMG.  The editor allows you to record your voice and then apply effects to the recorded file. Working from a written script is helpful.  The built-in Voice Morpher is the key to a variety of vocal effects.  Using one of two basic techniques, you can change your natural voice into a unlimited number of character voices.
+
+
+Keywords:
+ music morphing, audio recording, audio editing, audio files.
+
+
+Article Body:
+In Part 1, we discussed how to prepare yourself for creating an audio file for a video or an audio presentation with character voices.  In Part 2, we will complete this discussion.
+
+For this second recording method, you need to read each characters lines one after the other, in other words, read all of Tom’s lines first, then Dick’s lines, then Harry’s.  That way you can apply each voice’s settings to all the lines for that character at once.  Just highlight the beginning of Tom’s lines, drag to the end of Tom’s lines, and then apply the morphing settings to them in one click.  The tedious part will be cutting and pasting them all back together in the right order.  You do this by highlighting the words, cutting them and then clicking where they are to be inserted and pasting them.  I prefer doing it this way.  For one reason, it allows you to apply any inflections or accents or speech affects to the character’s dialog all at once, rather than trying to switch it each time a different character speaks.  For instance, if one character is a female, you will find that softening your voice will make it easier to alter the voice and have it still sound female.  If one character has an English accent, it is easier to maintain it throughout all the lines if they are all together.  The choice is up to you.
+
+When you are trying the different settings, you will soon find that Pitch is the overwhelming setting.  Timbre and Advanced Tune have much less effect on the outcome.  They will tend to make the voice sound unsteady and mechanical; that is fine for various robot voices, or cartoon voices, but you will find after some experimenting that altering your natural voice as you record it and then applying a pitch change will bring very acceptable results to your audio files.  
+You can punch up your audio files by adding sound effects and background music.  Some general rules to follow are simple; keep the effects to a minimum and do not let them overwhelm the dialog, unless the situation calls for it; when introducing music, it is usually a good idea to fade it in at the beginning and out at the end.  Also, keep the volume of the music lower than the dialog, if you want the listener to be able to hear the words.  One final, small point, and this may just be me, but I usually forget to notice exactly where I save the files!  When you are jumping around your drive, loading this file and that music and this sound effect, you can easily be in the wrong directory for saving the final file, so check where it is being saved, and write down the location.  When you come back the next day to work on it some more, you will thank yourself for it.
+
+
+
+BIO:  Wayne Rice is a freelance journalist, copywriter, photographer and artist.  He currently resides in the United States.
+
+

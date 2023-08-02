@@ -1,0 +1,32 @@
+Title: 
+The Evolution Of Data Processing.
+
+Word Count:
+433
+
+Summary:
+Data Processing has changed greatly over time. While one can track the beginnings of the modern analytical computer to Charles Babbage (1791-1871), we really saw the beginning of modern day information systems during World War II when they were used as code busters. After the war, few anticipated how much computers would affect our lives. Early on even IBM thought that there would only be a handful of companies that would need a computer.
+
+In those days, computers were mass...
+
+
+Keywords:
+Data Processing
+
+
+Article Body:
+Data Processing has changed greatly over time. While one can track the beginnings of the modern analytical computer to Charles Babbage (1791-1871), we really saw the beginning of modern day information systems during World War II when they were used as code busters. After the war, few anticipated how much computers would affect our lives. Early on even IBM thought that there would only be a handful of companies that would need a computer.
+
+In those days, computers were massive systems based on vacuum tubes and core memory. With the advent of the integrated circuit, computer architectures took a giant leap forward. The mainframe systems of the late 1980’s evolved into Client/Server applications of the early 1990’s. In parallel, the Internet grew from a few engineer and research systems to a World Wide network. It wasn’t until an Al Gore authored bill allowing commerce to be carried out over the Internet did things really start to change. Every business, every organization, had to carve out a space on “The Net.”
+
+The ubiquitous nature of The Internet made it the perfect way for business to have a global reach while maintaining a local presence. Soon, application vendors were making Internet based applications. Today, solution providers are exploiting service oriented architectures and BPEL to provide more agile environments in which to do business.
+
+Today, combining Internet access with massive, inexpensive compute power, data processing has been transformed from an ancillary function of accounting departments to mechanisms by which organizations can transform and enhance their internal processing while integrating their interactions with customers and suppliers.
+
+The key to modern day data processing is not simply the automation of some manual process. Today, business realizes that data processing, information systems, change the very processes that are used to run the business. They not only do same things more efficiently, the do thins differently.
+
+In the past an order was printed and sent to a supplier. The order was received and, if the item was in stock, it was shipped. Items not in stock were placed on back order. Today with Supply chain integration, the entire supply chain is integrated into one network. Warehouse management software notifies suppliers when stock levels drop and order are placed. The suppliers themselves use data mining and CRM (Customer Relationship Management) software to predict ordering patterns and anticipate customer needs.
+
+Even how businesses interact with their customers has changed. In the past, businesses used mass marketing to appeal to the greatness number of possible customers. Today, we have mass customization where businesses on a group basis provide customized goods and services.
+
+

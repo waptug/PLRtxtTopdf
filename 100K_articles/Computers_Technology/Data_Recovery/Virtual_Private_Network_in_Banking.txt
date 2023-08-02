@@ -1,0 +1,46 @@
+Title: 
+Virtual Private Network in Banking
+
+Word Count:
+379
+
+Summary:
+VPN services, your virtual network
+
+
+Keywords:
+Data
+
+
+Article Body:
+How does Virtual Private Network service work in banking?
+Whenever you use the internet through an Internet Service Provider (ISP) or at another site, your computer is given an address on that provider's network. While you can reach your bank from the Internet, you will normally be denied access to services that are restricted to bank network addresses because your computer is using an address from an external network.
+
+But, if you are on the internet, you can still connect to the Bank’s VPN service, in two ways. From a web browser or with a software VPN client. A VPN need not have explicit security features, such as authentication or content encryption. Virtual Private Network setup, can be used to separate traffic of different user communities over an underlying network with strong security features.
+
+Seek secured private connectivity across public IP networks!
+
+Extends geographical connectivity
+Improves productivity
+Improves security
+Reduce transit time and transportation costs for remote users
+Reduce operational costs versus traditional WAN
+Simplify network topology
+Provides global networking opportunities
+Provides broadband networking compatibility
+Provides faster ROI than traditional WAN
+Provides telecommuter support
+
+VPN are categorised into two types:
+•  Remote access VPN
+•  Site to site VPN
+
+What is site to site Virtual Private Network in banking?
+Such Site to site VPN allows you to have a secured connection between locations across the open internet. With the help if site to site VPN your bank can save a great deal of money, as you can use cheaper means always – on connections such as domestic broadband rather than expensive leased lines between sites.
+
+What about Remote access VPN?
+Remote access VPN also known as Virtual Private Dial up(VPDN) is used by banks who have staff regularly working in locations outside the office. You can connect into the office network over dial up phone/isdn lines or over broadband from anywhere.
+
+Virtual Private Network banking uses advanced encryption and tunneling to permit computers to establish secure, end-to-end, private network connections over insecure networks, such as the Internet or wireless networks. VPN services can impact your overall computing and network performance. VPNs exist to protect traffic on public data networks like the Internet. VPN Services will work with other ISP dialup services too. Try your online route for your VPN.
+
+

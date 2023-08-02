@@ -1,0 +1,30 @@
+Title: 
+Cisco CCNA Exam Tutorial:  Mapping The OSI Model To The TCPIP Model
+
+Word Count:
+276
+
+Summary:
+Mapping the OSI model to the TCP/IP model is a vital skill for CCNA exam success.  Learn the details of both models from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccna, exam, certification, tcp, ip, model, networking, osi, session, transport, application, network, mapping, map, free, tutorial
+
+
+Article Body:
+The OSI model is the model that most networking personnel are familiar with, but to earn your CCNA, you need to know the OSI model, the TCP/IP model, and how the two map to each other.
+
+The four layers of the TCP/IP architecture can be compared to certain levels of the OSI model.  It’s important to know what each level of the TCP/IP protocol architecture does, and how these layers map to the OSI model.
+
+The Application Layer of the TCP/IP model performs much the same tasks as the Application, Presentation, and Session layers of the OSI model.  
+
+The Transport layer in the TCP/IP architecture is similar to the Transport layer in the OSI model.  This layer can use TCP or UDP as well.
+
+The Internetwork layer in the TCP/IP architecture uses IP addresses to determine how packets should be routed.  Remember that the OSI model uses IP addresses, or “Layer 3 Addresses”, at the Network layer.  The two layers do much the same thing.  This layer is also referred to in the TCP/IP model as the Internet layer.
+
+The Network Interface layer in the TCP/IP architecture serves to define the protocols and the hardware needed to actually deliver the data across the network.  The Network Interface model does the work of both the Data Link and Physical Layers in the OSI model.
+
+Keeping all this straight can be very confusing when you first start your CCNA studies.  Concentrate on the OSI model in your studies, but make sure you know how the TCP/IP model maps to that model and you'll be ready for CCNA exam success!
+
+

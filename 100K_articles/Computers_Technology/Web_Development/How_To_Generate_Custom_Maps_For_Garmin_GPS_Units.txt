@@ -1,0 +1,44 @@
+Title: 
+How To Generate Custom Maps For Garmin GPS Units
+
+Word Count:
+800
+
+Summary:
+Garmin is one of the top brands of GPS Units, which are available. One of the best features of Garmin GPS Units is the fact that the units have the ability to receive and download custom-made maps. You will need a specific computer program in order to create maps for Garmin GPS Units. This program is called cGPSmapper.
+
+You can purchase cGPSmapper at its website: http://www.cgpsmapper.com. cGPSmapper is available for purchase in both professional and standard versions. You ...
+
+
+Keywords:
+
+
+
+Article Body:
+Garmin is one of the top brands of GPS Units, which are available. One of the best features of Garmin GPS Units is the fact that the units have the ability to receive and download custom-made maps. You will need a specific computer program in order to create maps for Garmin GPS Units. This program is called cGPSmapper.
+
+You can purchase cGPSmapper at its website: http://www.cgpsmapper.com. cGPSmapper is available for purchase in both professional and standard versions. You will have to purchase a registration key in order for the program to work. However, you can use cGPSmapper for thirty days without a registration key, in order to test the program out.
+
+This program is available specifically for Garmin products. However, it should be noted that the cGPSmapper system was developed independently from Garmin. It was developed, in order to fill a gap where other GPS programs leave off, and it works quite well, if you know how to use it properly.
+
+You need to make sure that you have a few necessary items or programs. These will be used to help you generate your map and download it to your GPS device. What you need will include cGPSmapper, geographical information on the generated area, a way to download the map to your GPS once it has been created, a program to generate and manipulate graphics (think Adobe or Paintshop), a Garmin GPS Unit, and if you want to add photographs to the mapping, then a program called OziExplorer is necessary.
+
+To generate the map, you can use geographical photographs, maps from your Garmin GPS Unit, other maps, and aerials. Once you have found the images you want to use, you need to install your cGPSmapper program. You will be guided through the installation, so you should not have any problems with this step at all.
+
+You are going to want to generate the map photographs. This may mean you are scanning them so the area can be mapped out or downloading them. Once you have done this, you can calibrate any images you have with OziExplorer. This is only if you want actual photographs of the area as opposed to a map.
+
+Your map will need several points of reference on it. You can map these points and they will be imported specifically into your cGPSmapper program. The points of interest will give you the ability to generate the details of the map. Both waypoints and tracks can be saved in OziExplorer.
+
+You will need to edit multiple txt files in order for the map generation to work properly. You can find out exactly what to put in these txt files by doing a search for custom map generation on Garmin GPS devices in your favorite search engine. These txt files should be placed in your cGPSmapper folder. You also need to modify another file called GenerateMaps.bat. You will be modifying your registry and can find out more information on this as well as a template you can use at the cGPSmapper website.
+
+Once you have modified the batch file and the registry file you will find that two images have been created. You can navigate through MapSource or another similar program to find these images. You can navigate for maps with MapSource, and unlike other GPS programs, you do not need to use a CD to do this.
+
+Your map should map the information that is listed in the registry. It may take you a little while for you to make certain that the image can be uploaded. If it cannot or there is a problem, then your MapSourcce will not even start. You will not have to worry about trying to download the file until you know it will load. Common problems include a wrong location where the file is stored and problems with the registry so check those two things first if you are having trouble with MapSource.
+
+Once MapSource is up and running you can do little things like play with the zoom on the image to make things easier to see, tweak the image itself, and prepare the image to be downloaded. Now, comes the moment you have been waiting to complete.
+
+The area on the map, which should be downloaded, needs to be highlighted. You should connect your PC to your GPS device or you can connect the two through Bluetooth technology. Once you are connected, use your GPS system to navigate on your PC to where you stored your map. Then you can click File >>> Send to Device.
+
+When your map is loaded, you can use it on your Garmin handheld unit or Portable GPS system. The best part is that your custom maps will be stored so you can use them later, when you need them the most.
+
+

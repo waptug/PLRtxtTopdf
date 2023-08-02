@@ -1,0 +1,50 @@
+Title: 
+Hard Disk Clicking Sound
+
+Word Count:
+561
+
+Summary:
+Provide troubleshooting information for readers when clicking sounds are heard from the PC hard-disk
+
+
+Keywords:
+
+
+
+Article Body:
+1. Observations
+You hear clicking sounds emitting from your hard disk drive, either in a form of clicking or grinding sounds. This can happen when you power up your computer from start or halfway while working on your projects.
+ 
+2. Possible Causes 
+
+The irregular clicking or chunking sound usually indicates that your hard drive is suffering from physical damage. If you use a S.M.A.R.T enabled disk, you may see a warning of a imminent disk failure when you power up your computer. This problem can be caused by the following:
+- Head Crash
+- Bad Sectors 
+- Mechanical Faults 
+- Virtual Memory Paging 
+
+3. Resolution 
+a. Head Crash
+
+This is a physical damage of the disk platter when the head of a hard disk scratches the surface of the disk. The grinding sound is therefore observed when this occurs. Firstly, turn off your computer and do not attempt to power it up. Consult a data recovery firm immediately and avoid dismantling the disk to repair the problem yourself. Operating without the correct tools and a clean environment can result in further extensive damage which complicates the recovery process.
+
+b. Bad Sectors 
+
+Typically bad sectors are physical damage of a span of disk area. The clicking sound happens when the head attempts to read from the same area of disk multiple times due to failed attempts. This can also occur when the head is unable to calibrate with the media servo tracks due to the gradual weakening of the magnetic domains on the platter that causes the drive to reset continuously. If the conditions of the disk is not too bad, a standard process is to perform a disk surface scan. This helps to mark all bad sectors and prevent your system from writing new data on the damaged areas of the disk.
+
+c. Mechanical Faults
+
+Sometimes these sounds can be a result of a defective spindle, Read Write head or loose components. If you are still able to access data on the disk, you are strongly advised to backup all your data immediately. Your disk is close to demise. If your disk stops spinning after a period of clicking sound, you may wish to send your disk to a reputable data recovery firm to recover your data.
+
+d. Virtual Memory Paging
+
+When your physical memory is full, the drive may perform numerous virtual memory paging at the same time maintaining the system's operation. This will result in excessive disk activity. To deal with this problem you can increase the physical memory by adding more RAM into your computer or use a secondary hard disk to contain the swap files. 
+
+Further Notes 
+
+Hard disk drive occasionally produces a whirring sound when it searches for a file which is heavily fragmented. This is caused by the spinning platters as the read-write heads zoom back and forth to access the sectors where the data is stored. It is important to distinguish the whirling sound from the clicking sound. This whirring sound can be reduced by periodically defragmenting your hard drive. Defragmenting reorganizes the scattered data on the hard drive to make files and programs run faster. It relocates the commonly accessed files to the beginning of the hard disk where data can load at a faster rate.
+
+For more information on Data Recovery Service, please visit our website at http://www.adrc.net/services/data-recovery/intro.htm
+
+

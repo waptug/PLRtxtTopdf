@@ -1,0 +1,30 @@
+Title: 
+Computers May Be Slowing Down
+
+Word Count:
+518
+
+Summary:
+In 1965 Gordon Moore, the co-founder of Intel, wrote a paper that made the observation that computers will double in speed every two years. This maxim, now called Moore’s Law, has held true for decades. It would appear now however that within the next ten years Moore’s Law may no longer be valid.
+
+Moore’s Law specifically refers to the number of transistors that can be placed on a computer chip, and how that number could easily be doubled by manufacturers every two years. M...
+
+
+Keywords:
+Refurbished Laptops, Computers, Moore’s Law, Computer Chips, Used Computers
+
+
+Article Body:
+In 1965 Gordon Moore, the co-founder of Intel, wrote a paper that made the observation that computers will double in speed every two years. This maxim, now called Moore’s Law, has held true for decades. It would appear now however that within the next ten years Moore’s Law may no longer be valid.
+
+Moore’s Law specifically refers to the number of transistors that can be placed on a computer chip, and how that number could easily be doubled by manufacturers every two years. Manufactures have readily met the requirements of this law since its inception, and as of 2008 the transistors that are applied to computer chips will be so small that over 3.9 million of them would fit on the head of a pin.
+
+Gordon Moore now says that by 2020 the laws of physics will catch up to computer chip manufacturers and Moore’s Law will no longer be a valid measuring tool. Mr. Moore revealed this information while speaking about the new Intel chip being marketed as the Penryn Processor. This new chip will not be widely available till 2009, and its circuitry is 45 nanometers wide (1 billionth of a meter wide) and contains over 800 million transistors.
+
+The fact that Moore’s Law specifically refers to number of transistors and not computing speed has now become important. The two have been used interchangeably for decades, but it would seem that can no longer be the case. Many experts believe that although the laws of physics will break down Moore’s Law, computing speed will continue to increase at the same rate or possible even faster. This will be done through alternative methods of chip manufacturing. One type of alternative manufacturing is called nanotechnology which would focus on putting chips together a single molecule at a time. Jim Tully at Gartner group said, “You might refer to this new breed of chips as ‘molecular devices’”. Science fiction may become science fact over the next decade as these molecular devices are even now in development.
+
+While faster chips are a concern for the manufactures, utilizing this speed is the concern of the end user. Chips that contain billions of transistors are irrelevant if the software the computer is running cannot take advantage of the speed. This has been the case with Windows XP of late, and one of the reasons Microsoft released Vista. The new software is designed to take better advantage of newer and faster chips as well as higher degrees of computer memory. “Although the Vista 32 bit version only uses up to 4 gig of RAM (same as XP), the Vista 64 bit version can support 128 gig of RAM or more”, says Dan Crawford, former Microsoft employee and software enthusiast. There are no PCs currently capable of actually accepting 128 gig of RAM so this issue should be moot for a long time.
+
+Once software producers catch up to the chips available even now, the speed in which users enjoy on there computers will be greatly increased. Chip speed is still an important concern, but perhaps not more so than the ability to actually utilize that speed on a regular basis.
+
+

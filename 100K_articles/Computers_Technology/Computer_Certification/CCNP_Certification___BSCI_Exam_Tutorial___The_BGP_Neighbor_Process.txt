@@ -1,0 +1,91 @@
+Title: 
+CCNP Certification / BSCI Exam Tutorial:  The BGP Neighbor Process
+
+Word Count:
+624
+
+Summary:
+Before you begin studying advanced BGP configurations, you need to learn how BGP speakers become neighbors in the first place.  Learn the details from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Bgp, ccnp, bsci, exam, cisco, certification, neighbor, peering, tcp, 179, ebgp, ibgp, chris, Bryant, 1293, ccie, ccna
+
+
+Article Body:
+Like TCP, BGP is connection-oriented.  An underlying connection between two BGP speakers is established before any routing information is exchanged. This connection takes place on TCP port 179.  As with EIGRP and OSPF, keepalive messages are sent out by the BGP speakers in order to keep this relationship alive.  
+
+Once the connection is established, the BGP speakers exchange routes and synchronize their tables.  After this initial exchange, a BGP speaker will only send further updates upon a change in the network topology.
+
+The IGP protocols that use Autonomous Systems, IGRP and EIGRP, require prospective neighbors to be in the same AS.  This is not true with BGP. Routers can be in different Autonomous Systems and still exchange routes.  The BGP neighbors do not have to be directly connected, and often are not, but do need to be able to reach the IP addresses they use in their neighbor statements. 
+
+A BGP peer that is in the same AS is referred to as an Internal BGP (iBGP) Peer, where a BGP peer in another AS is an External BGP (eBGP) Peer.  
+
+A sample iBGP configuration:
+
+Router bgp 100
+
+         Neighbor 10.1.1.2 remote-as 100
+
+
+A sample eBGP configuration:
+
+Router bgp 100
+
+          Neighbor 10.1.1.2 remote-as 200
+
+Cisco recommends that eBGP peers be directly connected, where iBGP peers generally will not be.
+
+Before we get too much farther into BGP theory, let’s get a configuration started.  You’ll use the router bgp command to configure a router as a BGP speaker.  Right after that, the neighbor command will be used to identify this BGP speaker’s potential neighbors.  (The terms "peer" and "neighbor" are interchangeable in BGP, but it's the neighbor statement that is used to statically define neighbors.  BGP is not capable of discovering neighbors dynamically.)
+
+R1(config-router)#neighbor 172.12.123.3 remote-as 200
+
+While almost all of the neighbor options are just that -- optional -- you do have to specify the BGP AS of the remote router.  BGP has no mechanism to dynamically discover neighbors.  Remember, BGP speakers do not have to be in the same AS to become peers.  To verify that the remote BGP speaker has become a peer, run show ip bgp neighbor.  
+
+
+R1#show ip bgp neighbor
+
+BGP neighbor is 172.12.123.3,  remote AS 200, external link
+
+  BGP version 4, remote router ID 0.0.0.0
+
+  BGP state = Active
+
+  Last read 00:01:39, hold time is 180, keepalive interval is 60 seconds
+
+  Received 0 messages, 0 notifications, 0 in queue
+
+  Sent 0 messages, 0 notifications, 0 in queue
+
+  Route refresh request: received 0, sent 0
+
+  Default minimum time between advertisement runs is 30 seconds
+
+The output here can be a little misleading the first time you read it.  The first highlighted line shows 172.12.123.3 is a BGP neighbor, is located in AS 200, and is an external link, indicating that the neighbor is in another AS entirely.  The second highlighted line shows the BGP state as Active.  This sounds great, but it actually means that a BGP peer connection does not yet exist with the prospective neighbor.  
+
+So even though the show ip bgp neighbor output indicated that this is an Active neighbor relationship, that’s not as good as it sounds.  Of course, the reason the peer relationship hasn’t been established is that we haven’t configured R3 yet!
+
+
+R3(config)#router bgp 200
+R3(config-router)#neighbor 172.12.123.1 remote-as 100
+
+Verify the peer establishment with show ip bgp neighbor:
+
+R3#show ip bgp neighbor
+
+BGP neighbor is 172.12.123.1,  remote AS 100, external link
+
+  BGP version 4, remote router ID 172.12.123.1
+
+  BGP state = Established, up for 00:01:18
+
+  Last read 00:00:17, hold time is 180, keepalive interval is 60 seconds
+
+ Local host: 172.12.123.3, Local port: 179  (BGP uses TCP Port 179)
+
+Foreign host: 172.12.123.1, Foreign port: 11007
+The peer relationship between R1 and R3 has been established.
+
+Now that you know how the neighbor relationship itself is built, you need to start learning the many options of the neighbor command.  You’ll have to master these to become a CCNP and CCIE!
+
+

@@ -1,0 +1,40 @@
+Title: 
+Linux  Freely Available ?Linux  Free ?   Confused  Enough  ?
+
+Word Count:
+665
+
+Summary:
+Many new Linux users are confused by the terms bantered around – Free, Freely Available, Commercial Distributions and Shareware.
+
+The confusion comes primarily from the description and terms “Freely Available “and “Free’ and their distinctions.
+
+Linux is open source software which means any software developer can add on to change the product’s basic source code. This is diametrically opposed to a strict proprietary concept such as Microsoft’s approach which is to own and ...
+
+
+Keywords:
+Linux , Ubuntu , Badger , Breezy , vintage , Open , source , free , freely , available ,propietary ,
+
+
+Article Body:
+Many new Linux users are confused by the terms bantered around – Free, Freely Available, Commercial Distributions and Shareware.
+
+The confusion comes primarily from the description and terms “Freely Available “and “Free’ and their distinctions.
+
+Linux is open source software which means any software developer can add on to change the product’s basic source code. This is diametrically opposed to a strict proprietary concept such as Microsoft’s approach which is to own and have control the software and its code lock stock and barrel. There are some advantages to the proprietary approach particularly if you are dealing with a major mainstream product with millions and millions of users many of who are foolish novices; Life has enough problems without throwing in a monkey wrench to complicate efforts. Remember that if only 1/10 of 1 % of users think that if the computer throws out an error message commonly “ You have committed an illegal actions “ and run to lock their doors as the police are coming then that small percentage is a lot of people.
+
+The confusion arises in that the source code and any changes made to it must be made “freely available “... Whiskey may be “freely available “at your local saloon but that does not make it free of cost to you as a customer. However in actuality much of the software available in the Linux world is given away at no charge or cost except with the proviso that changes and work done to source code must be made available to others without restriction.
+
+Linux applications differ widely in cost and appearance. Many new Linux users are confused by the apparently contradictory terms used in Linux software product descriptions. These are “Freely Available Software “, “Shareware “and “Commercial Linux Applications”.
+
+Freely available software is available for free use by the end user. Although software may be freely available, it is often not the same thing as “Public Domain “software.    Public Domain Software is software that is freely given on the open market either by the permission of the software developer or by being older than copyright constraints , that you as a user can do anything you wish to in terms of use , redistribution or changes.    However “Freely Available Software “is different in that it is often owned and copywriter by the owner, author (or authors) who then allow people to use and / or make modifications to it.     The term “Freely Available Software “ can be further divided into software that you can either “Freely Copy” or “ Freely Distribute”. Some people make their software “Freely Available “only if you copy or download it from a particular site or from a non commercial distribution. Other people will let you copy their software from anywhere.    Copying restrictions usually apply to people making a commercial distribution, not to the end user of the distribution. The distribution maker has the responsibility to be in compliance with the package’s copying restrictions which are usually outlined in the program’s source code or about or Help sections.
+
+A lot of freely available software can be obtained by downloads on the internet. Some can be bought in physical form from commercial retail outlets either online or at a physical location.
+
+Many freely available applications have been converted from UNIX to OS/2, Windows 95, 98, NT, 2000 and XP. And other operating systems... If you use an application that has been ported to many operating systems you will be able to carry your skills and data to alternate platforms if you wish to or have to change for one reason or another.
+
+“NonFree Applications “consist of commercial applications and shareware applications. Commercial applications are sold outright. Shareware programs may be tried out  and evaluated then either not used, uninstalled or a license key purchased. Sometimes shareware programs may be used for free in a home environment but purchased if used within a business setting.
+
+Hopefully now the distinctions between these terms bantered around in the Linux software distribution distro and downloads sites will be clearer to you now.
+
+

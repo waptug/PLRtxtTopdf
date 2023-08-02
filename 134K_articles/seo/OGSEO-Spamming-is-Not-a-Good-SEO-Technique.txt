@@ -1,0 +1,45 @@
+Spamming is Not a Good SEO Technique
+
+Perhaps very few things can illustrate competition as vividly as the Web. After all, how can one website compete with thousands of other websites just like it? 
+
+If the attention span of an average Internet user is as expansive as a search engine’s listing, then there’s nothing to worry about. Unfortunately, though, that is not the case. Very likely, a person conducting a search on the Internet will probably just browse through the top 3 to 5 SERPs (search engine results pages) and stop there. Website that get buried in the 10th page and onwards will probably not get too much attention if certain measures are not undertaken.
+
+Those measures are what are called search engine optimization (SEO). Experts in this field perform certain procedures which may be seen a “website boot camp” to get your website into fighting form that will compete in the top rankings of a search engine.
+
+However, as it is with almost everything else, some shortcuts exist that are able to “cheat” search engines into placing a particular website at a high ranking, despite the fact that it offers no real information. These sets of shortcuts are called “spamming”.
+
+SEO spam (or spamdexing) is a set of techniques that manipulate a website for the purpose of creating an unrealistic boost in its rankings on SERPs. Here are just some examples of some SEO spam:
+
+1. Cloaking
+When a website presents a set of information to a search engine different from a set the user is seeing, then cloaking has been done. What usually happens is that the web page’s code is relevant to the user’s search keywords, but when the user visits that particular web page, he user sees a document that has little or nothing to do with his search.
+
+2. Artificially networked sites
+There is really nothing wrong with creating links between one site to another so long as the links are relevant and serve to connect useful information. 
+
+However, spammers who perform this technique set up several web sites and link them together even the sites contain no real and useful information. The purpose for doing so is simply to create the illusion of a highly referenced site because of its density of links. If this is the case, then it can be considered spamming.
+
+3. Blog and Forum Spam
+Online blogs and fora are a great source of information since it these formats are built to be updated within short intervals. This, in itself, what makes it a good reference for information, which is why search engines like to visit these sites and rank it well for the quality of information it holds.
+
+However, spammers have taken advantage of this by flooding blogs and fora with irrelevant links to the websites they want to generate artificial ranking for. Not only are they cheating the search engine company by misleading a user to irrelevant information, they also interrupt the bloggers and the forum participants, which is downright rude.
+
+4. Hidden text.
+Similar to cloaking, hidden texts are meant to make search engines think that a page is about one thing, while it is actually about another. But it fools the search engine this way: the text that the search engine is able to reads is camouflaged by making the text font color the same as the background. What happens is that the user is unable to read what the search engine saw, and therefore may be looking at a document that is not related to the user’s search. 
+
+Other techniques are to create small, imperceptible links that a user can accidentally click on, thus generating more hits for a website even if the user had no intentions of visiting that site at all. 
+
+By this time, you probably already know why spamming is done. It is a shortcut used by some unscrupulous website owners to make their website rank high on SERPs. Folks who pose as SEO experts use these spamming techniques to get money for doing little to no work.
+
+Now that you know who they are, and how they do it, here’s why you should have nothing to do with spamming and the people who condone them.
+
+The whole point of the Internet was to create a wealth of information that everyone can access and add to. The whole idea was to be able to create a place where information can be created and shared with others so that it can foster understanding despite physical borders.
+
+Other results of this information have led to the development e-commerce and online businesses, which in itself is not necessarily a bad thing. It still contributes to a community of information and sharing.
+
+However, spamming is fundamentally profiting at someone else’s expense. A spammer profits by using other people to make his website rank higher than others without taking the necessary time and effort to make his website useful and relevant as what others have done. 
+
+It speaks poorly of website owners who see nothing but their own bottom lines in using the Internet. It is basically exploiting the trust and the willingness to share, which made the Internet such a promising venue for everyone.
+
+Finally, it demeans honest SEO experts who take the time and effort to produce quality website and make it a point to follow the rules. Search engine marketing is helping to level the playing field so it can allow businesses of any to advertise right along side each other. And that is a commendable thing, which everyone should gladly support.
+
+Search engines, on their part, are developing smarter technologies to detect spamming techniques in order to give users the best list of information from the Internet. Eventually, the spam methods mentioned above may be eliminated. But it is very likely other more sophisticated ones will come up. On your part, you can report spammers to these search engines when you encounter them. The more people like you who do this, the easier it will be to apprehend these cheaters and make it more difficult for spammers to do their thing.

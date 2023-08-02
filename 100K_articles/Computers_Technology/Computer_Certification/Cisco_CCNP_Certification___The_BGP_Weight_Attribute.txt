@@ -1,0 +1,36 @@
+Title: 
+Cisco CCNP Certification:  The BGP Weight Attribute
+
+Word Count:
+348
+
+Summary:
+Mastering all the BGP attributes can seem overwhelming, but by learning one at a time, you can master them quickly.  Learn all about the BGP weight attribute in this CCNP tutorial from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccnp, bsci, certification, cisco, ccna, bgp, weight, attribute, path, selection, order, chris, Bryant, ccie, 12933, advantage, router, switch, igp
+
+
+Article Body:
+When you're studying for the CCNP certification, especially the BSCI exam, you must gain a solid understanding of BGP.  BGP isn't just one of the biggest topics on the BSCI exam, it's one of the largest.  BGP has a great many details that must be mastered for BSCI success, and those of you with one eye on the CCIE must learn the fundamentals of BGP now in order to build on those fundamentals at a later time.
+
+Path attributes are a unique feature of BGP.  With interior gateway protocols such as OSPF and EIGRP, administrative distance is used as a tiebreaker when two routes to the same destination had different next-hop IP addresses but the same prefix length.  BGP uses path attributes to make this choice.
+
+The first attribute considered by BGP is weight.  Weight is a Cisco-proprietary BGP attribute, so if you're working in a multivendor environment you should work with another attribute to influence path selection.
+
+The weight attribute is significant only to the router on which it is changed.  If you set a higher weight for a particular route in order to give it preference (a higher weight is preferred over a lower one), that weight is not advertised to other routers.
+
+BGP uses categories such as "transitive", "non-transitive", "mandatory", and "optional" to classify attributes.  Since weight is a locally significant Cisco-proprietary attribute, it does not all into any of these categories.
+
+The weight can be changed on a single route via a route-map, or it can be set for a different weight for all routes received from a given neighbor.  To change the weight for all incoming routes, use the "weight" option with the neighbor command after forming the BGP peer relationships.
+
+R2(config)#router bgp 100
+
+R2(config-router)#neighbor 100.1.1.1 remote-as 10
+
+R2(config-router)#neighbor 100.1.1.1 weight 200
+
+Learning all of the BGP attributes, as well as when to use them, can seem an overwhelming task when you first start studying for your BSCI and CCNP exams.   Break this task down into small parts, learn one attribute at a time, and soon you'll have the BGP attributes mastered.
+
+

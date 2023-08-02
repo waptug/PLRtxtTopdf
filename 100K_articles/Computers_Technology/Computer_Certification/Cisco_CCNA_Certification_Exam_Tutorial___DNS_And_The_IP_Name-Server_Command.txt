@@ -1,0 +1,57 @@
+Title: 
+Cisco CCNA Certification Exam Tutorial:  DNS And The IP Name-Server Command
+
+Word Count:
+378
+
+Summary:
+DNS behaviors are important to know for the CCNA exam and the real world.  Learn how to use the ip name-server command properly from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+cisco, ccna, exam, free, pass, dns, ip, name, server, domain, lookup, broadcast, stop, bryant, 12933
+
+
+Article Body:
+DNS behaviors of a Cisco router are important topics for both the CCNA exam and real-world production networks, and you probably didn't know there were so many DNS details before you began studying for the exam! In this tutorial, we'll look at the ip name-server command and its proper usage.
+
+When a command is mistyped on a Cisco router, the default behavior of the router is to attempt to resolve it via DNS. First, the router looks for an IP Host table on the local router to perform this resolution – that’s what the “translating” word in the output is referring to.  If there’s no IP Host table or the IP Host table doesn’t contain an entry for what you typed, the router will send a broadcast in an attempt to resolve this name through a remote DNS server. To prevent this broadcast, enter the global command no ip domain-lookup. Of course, to use DNS to resolve hostnames, ip domain-lookup would have to be reenabled if it’s been turned off.
+
+R2#contin
+
+
+Translating "contin"...domain server (255.255.255.255)
+
+% Unknown command or computer name, or unable to find computer address
+
+
+A command is mistyped as “contin”. The Cisco router’s default behavior is to resolve this entry locally via an IP Host table, which isn't present on the router. A broadcast is then sent out to find a DNS server to perform the name resolution. The DNS lookup attempt must time out before the configuration can continue.
+
+
+R2#conf t
+
+R2(config)#no ip domain-lookup
+
+R2#contin
+
+Translating "contin"
+
+% Unknown command or computer name, or unable to find computer address
+
+With “no ip domain-lookup” configured, the router doesn’t attempt to find a remote DNS server.  It sees there is no local resolution configured and almost immediately sends a message to the console that the name can’t be resolved. 
+
+R2#conf t
+
+R2(config)#ip domain-lookup
+
+R2(config)#ip name-server 10.1.1.1
+
+R2#contin
+
+Translating "contin"...domain server (10.1.1.1) 
+
+A DNS server is installed on the network with the IP address 10.1.1.1. DNS lookup is reenabled with the command ip domain-lookup, and the IP address of the DNS server is specified with the ip name-server command.
+
+It's just that easy to tell a Cisco router exactly where the DNS server is!
+
+

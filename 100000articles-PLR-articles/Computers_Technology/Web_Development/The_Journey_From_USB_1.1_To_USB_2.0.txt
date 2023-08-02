@@ -1,0 +1,40 @@
+Title: 
+The Journey From USB 1.1 To USB 2.0
+
+Word Count:
+511
+
+Summary:
+The Universal Serial Bus (USB) was first launched in 1996 by a group of IT Companies known as the USB Promoter Group.
+
+This first version was known as USB 1.1 and was a standardized serial connection that aimed to provide a replacement for parallel and serial ports. Intended for mid-speed and slow computer peripherals, it created an intelligent serial bus.
+
+In the early years, many people utilized USB on their own computers and it proved to work well for most applications...
+
+
+Keywords:
+
+
+
+Article Body:
+The Universal Serial Bus (USB) was first launched in 1996 by a group of IT Companies known as the USB Promoter Group.
+
+This first version was known as USB 1.1 and was a standardized serial connection that aimed to provide a replacement for parallel and serial ports. Intended for mid-speed and slow computer peripherals, it created an intelligent serial bus.
+
+In the early years, many people utilized USB on their own computers and it proved to work well for most applications. In recent years, however, USB 1.1 has proved to be too limited. While USB 1.1 managed to remain useful to more modern technologies, some loopholes in the initial version were pointed as the source of major problems.
+
+USB 1.1 was limited with a slower transference rate of only 12-megabits/ sec. During the rise of the USB 1.1 in the market, the Institute of Electrical and Electronics Engineer (IEEE) unveiled the FireWire, also called i.LINK(tm), which had a transfer speed of 400 blazing megabytes per second, then considered a fantastic rate of transfer. This transfer speed made the uploading of a full motion video from a camcorder convenient. It threatened to push USB 1.1 out of the market, as it was not able to compete with this newcomer.
+
+The creation of increasingly sophisticated gadgets and peripherals spotlighted the limitations of the original version of USB. USB 1.1 was not able to fully support the speeds needed to run gadgets like digital movie or video players, mobile phones, video phones, Web cameras, digital cameras, MP3s or digital music players, PDAs and Palmtops.
+
+When USB 2.0 version debuted, with 40 times the speed of the previous version, it offered the capacity to operate most of the newly released technologies.
+
+One of the most important features of USB 2.0 is that it is backward compatible. In other words, USB 2.0 hardware can be plugged to computer's old USB 1.1 port and will function properly because both versions use same plug. USB 2.0 can transmit data at speeds between 1.5 megabits to 480 megabits per second, but if USB 2.0 hardware is connected to a USB 1.1 port it will not attempt to transmit data at its maximum speed of 480 megabits per second. Rather, it will slow it's rate of transmission in order to operate properly and compatibly with the older hardware.
+
+Upgrading a computer to include USB 2.0 ports into a computer is a simple procedure. When USB 2.0 ports are added with a PCI port card, the original USB 1.1 ports are retained and will continue to function normally.
+
+Both USB 2.0 and 1.1 are plug and play. Once a USB device is connected to the host computer, the system will automatically recognizes it. The drivers will then be installed and the system can begin operating the new hardware without the necessity of a reboot. The upgraded technology of USB 2.0 also allows the connection capacity of a single computer to a very large number of devices at once: 127 to be exact.
+
+Both USB 1.1 and USB 2.0 have become vital instruments in connecting devices and computers together. If things continue as they have begun, USB will become even faster and more efficient in years to come.
+
+

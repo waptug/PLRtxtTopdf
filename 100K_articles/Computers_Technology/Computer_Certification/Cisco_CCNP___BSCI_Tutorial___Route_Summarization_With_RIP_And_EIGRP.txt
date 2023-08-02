@@ -1,0 +1,66 @@
+Title: 
+Cisco CCNP / BSCI Tutorial:  Route Summarization With RIP And EIGRP
+
+Word Count:
+314
+
+Summary:
+Knowing how to summarize routes is only half the battle when you’re studying for your CCNP and BSCI exams.  Learn the details in RIP and EIGRP summarization from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccnp, free, exam, pass, certification, cisco, route, summarization, rip, eigrp, mask, summary, route, summary-address
+
+
+Article Body:
+To pass your BSCI exam and earn your CCNP certification, you've got to master route summarization. When you get to the BSCI level, actually breaking the routes down into binary strings and performing summarization is second nature to you. (If it isn't, get some more practice!) What makes CCNP / BSCI route summarization more difficult is just keeping the different protocol summarization commands straight!
+
+RIP and EIGRP both perform route summarization at the interface level with the ip summary-address command. In the following example, R2 is running RIP and was sending four routes to R3, R3's table looked like this before summarization:
+
+R3#show ip route rip
+
+172.16.0.0/24 is subnetted, 4 subnets
+
+R 172.16.8.0 [120/1] via 172.23.23.2, 00:00:02, Ethernet0
+
+R 172.16.9.0 [120/1] via 172.23.23.2, 00:00:02, Ethernet0
+
+R 172.16.10.0 [120/1] via 172.23.23.2, 00:00:02, Ethernet0
+
+R 172.16.11.0 [120/1] via 172.23.23.2, 00:00:02, Ethernet0
+
+By summarizing the routes and using the ip summary-address command, RIP advertises only the summary route to the downstream neighbor.
+
+R2(config)#int ethernet0
+
+R2(config-if)#ip summary-address rip 172.16.8.0 255.255.252.0
+
+R3#clear ip route *
+
+R3#show ip route rip
+
+172.16.0.0/22 is subnetted, 1 subnets
+
+R 172.16.8.0 [120/1] via 172.23.23.2, 00:01:24, Ethernet0
+
+EIGRP works much the same way, except that the EIGRP AS number must be named in the ip summary-address command.
+
+In the following example, R2 was advertising four separate routes to R3 via EIGRP 100: 100.0.0.0, 101.0.0.0, 102.0.0.0, and 103.0.0.0, all with an eight-bit mask. What summary route can be used here?
+
+The summary is 100.0.0.0 252.0.0.0. To send that route to downstream routers, configure the following on R2:
+
+R2(config)#interface ethernet0
+
+R2(config-if)#ip summary-address eigrp 100 100.0.0.0 252.0.0.0
+
+R3 will then have only one route in its EIGRP table - the summary route.
+
+R3#show ip route eigrp 
+
+D 100.0.0.0/6 [90/2297856] via 172.23.23.2, 00:02:33, Ethernet0
+
+By mastering basic binary skills and keeping in mind that RIP and EIGRP perform route summarization at the interface level, you're one step closer to passing your BSCI exam and earning your CCNP certification!
+
+In the next part of this tutorial, we'll take a detailed look at the different methods OSPF uses for route summarization.
+
+

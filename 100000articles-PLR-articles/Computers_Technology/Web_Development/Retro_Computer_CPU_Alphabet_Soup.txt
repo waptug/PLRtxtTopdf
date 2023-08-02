@@ -1,0 +1,31 @@
+Title: 
+Retro Computer CPU Alphabet Soup
+
+Word Count:
+684
+
+Summary:
+It may seem to some vintage computer newcomers that the plethora of numbers in the designation of early pc CPU and model types is just too confusing. After all isn’t Pentium, Pentium III and IV self explanatory? After all what do the numbers and terms 8088, 8086, 286, 286 and 486 represent anyway and what is the difference among them all?
+
+To begin with the 8088 is the oldest of the early PC central Processing Unit (CPU) variant models. which means a rectangular case with t...
+
+
+Keywords:
+retro,computer,pc,CPU,central,processing,unit,computer,vintage,manuals,intel,8088,286,386,486
+
+
+Article Body:
+It may seem to some vintage computer newcomers that the plethora of numbers in the designation of early pc CPU and model types is just too confusing. After all isn’t Pentium, Pentium III and IV self explanatory? After all what do the numbers and terms 8088, 8086, 286, 286 and 486 represent anyway and what is the difference among them all?
+
+To begin with the 8088 is the oldest of the early PC central Processing Unit (CPU) variant models. which means a rectangular case with two rows of 20 pins. DIP stands for Dual In-Line Package. Older 80800 CPUs are called 8088-2. As they can only run at lower speeds (believe it not 5 MHz or slower compared to a now 4000 MHz computer). The faster models – the “Turbo” PC/XT clones ran at faster rates of 6.6, 7.16 or even 8.0 MHz. IBM function with the PC was so shut the market down to protect their lucrative central core of their business- mainframe computers. You can imagine upper brass at IBM was not too thrilled at the competitive upkill from “Clone” manufacturers such as Compaq or later Dell. By the way the 8088 had the equivalent of approximately 27,000 transistors.
+
+Next in line along the route of vintage computer evolution was the 80286 chip. Designed by Intel in 1981 its package is a square of plastic called a “PGA” which stood not for professional golf association but rather “Pin Grid Array Package”. The 286 Vintage Computer CPU also came in a cheaper version (the Celeron of its time) called the PLCC or “Plastic Leaderless Chip Carrier”. The PGA Package had an inner and outer square of solid pins whereas the PLCC arranges thin tinfoil- like legs around its perimeter. The 286 packed a wallop of more power that the 8088 did. The 80286 is the equivalent of about 130,000 transistors in the actual similar volume of the 8088’s 29,000 transistors. Not unexpectedly similar to the heat production problem of todays Pentium type computers extra cooling requirement is needed. We are left today in our modern computers with the benefits of the foresight of the electronic engineers of the day with the inventions of various types of heat sinks. Heat sinks one way or another are in effect radiators to dispel heat in a similar means and manner to you might have in your car. Small metal caps were first developed or metal cooling fins were added on top of the CPU chip to better dissipate the heat especially in both higher end products, CPUs in intensive work situations and CPU operating in severe hot climates or in hot workplace settings. It must be appreciated that it was always the higher or leading edge products that were under the most pressure and scrutiny both as for the heat they produce, their performance work and environmental pressures and for customer expectations of reliability and performance for these most expensive flagship products of the computer industry of its day.
+
+Lastly came the 386 chipset which is the direct predecessor of our modern Pentiums.
+The chip is properly called the 80386 by the still leading chip manufacture Intel. Introduced in 1985, the 80386 comes in a PGA package and is the equivalent of about 250,000 transistors. The 386 variants a wealth of programming features including the core vital ability to multitask DOS programs with the help of “hyerpervisor” programs like DesqView /386 or VRM/386. Its 32 bit data path speeds data access. Interestingly it took later hardware in the next 486 era chips to fully take broad scale advantage of these built in innovations.
+
+Interestingly enough similar to the Intel Celeron marketing example there was also a downsized less costly and powerful example sporting a similar moniker called the 386SX. You have to remember this was pre internet when computer purchasers were much more at the mercy of both computer marketers and high pressure salespeople and were more easily fooled by similar marketing terms and descriptions. The 386SX was identical except to the real 386 version – the 386DX  except for the vital fact that it had a 16 bit data path which it was said allowed it be more easily incorporated into earlier and less costly AT type 286 16 bit computer hardware.
+
+The more things change the more they stay the same.
+
+

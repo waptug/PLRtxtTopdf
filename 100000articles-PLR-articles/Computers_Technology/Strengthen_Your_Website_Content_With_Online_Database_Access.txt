@@ -1,0 +1,38 @@
+Title: 
+Strengthen Your Website Content With Online Database Access
+
+Word Count:
+742
+
+Summary:
+Website content, as articles, has taken center stage as web publishers scramble to differentiate their online offers. As both the quantity and quality of articles have accelerated, so too have online directories. These directories often resemble mere lists, but they can be powerful content additions that serve to deepen the value of the overall selling proposition by helping users in locating critical, related resources that for the visitor is otherwise much too time consumin...
+
+
+Keywords:
+content, database, publisher, directories
+
+
+Article Body:
+Website content, as articles, has taken center stage as web publishers scramble to differentiate their online offers. As both the quantity and quality of articles have accelerated, so too have online directories. These directories often resemble mere lists, but they can be powerful content additions that serve to deepen the value of the overall selling proposition by helping users in locating critical, related resources that for the visitor is otherwise much too time consuming. 
+
+On today's websites, it is not uncommon to find online databases designed to provide the data-hungry website visitor with more comprehensive database management functions which are far superior to list-style directories. At a minimum, we find web-driven data pages that include search and display functions which facilitate quick and easy manipulation of back-end SQL databases. Many sites also include options to add, edit, delete, print, and even download data directly from the database to the desktop, all enabled with multiple levels of login/password security. While this is not revolutionary, the technical expertise required to build database-driven web pages has been the domain of more sophisticated online publishers who not only owned the back end database outright, but possessed the required expertise to build and maintain such access for their loyal constituents. 
+
+But that has all changed. A flurry of new, low-cost desktop tools have entered the scene, leveling the playing field for the budget-strapped internet marketer who, until recently, was limited to throwing in a basic "telephone book" style directory in an attempt to bolster his value proposition. 
+
+Three such tool categories warrant a closer look: 
+
+Web data extraction tools costing less than $400 enable web content, as "repeating data", to be easily extracted to MS Excel, MS Access, or virtually any SQL database in high volume. This data serves to build, or at least augment the publisher's's new online database. (Ideally, one should first obtain permission from the website owner before scraping large volumes of data). 
+
+The next challenge is to manipulate the collected data now resident in multiple files, and often in disparate data formats. Though list processing applications have long been available, lower cost tools now offer powerful merge/purge capabilities without the need to import and export files in the process. Some simple routines and the data is ready to upload to the database on the host web server. 
+
+Finally, the publisher builds the web pages which access the database. Perhaps most exciting is the arrival of a wide variety of desktop code generators, many which are open source, that allow a non-programmer to build customized web pages that rival the database search, display, add, edit,delete and download capabilities previously reserved for the more technical publisher. No longer is the web publisher required to know a single SQL command to accomplish this feat. Amazingly, most of these tools generate pure PHP or PERL code. All that remains is to upload the generated code to the host database and the project is complete. The website now houses a "living, breathing" database, to the extent that the publisher desires to maintain fresh data. 
+
+One of the more common, and simple applications of database-driven web pages is to build versatile Frequently Asked Questions (FAQ) pages. Questions and answers can be queried by category (e.g. pricing, product) or keyword (e.g. sporting goods), while enriching the users support experience. 
+
+How can such newfound capabilities be monetized? The possibilities are plenty. Limited datasets can be made freely searchable and viewable for casual visitors, though it's usually wise to request that the user register even if membership is free. The idea is to prime the pump, getting casual users to thirst for more comprehensive database access. Extended and full database access can be reserved only for paid members. 
+
+Never has a publisher had such power to build data-rich content that can serve to immediately strengthen his unique selling sales proposition. In the old paradigm, he who owned the data held all the power. Today, data is everywhere for the internet entrepreneur. By applying the latest database tools, any website publisher can now cement the most loyal of customer relationships by ensuring that his customer has a reason to keep coming back. 
+
+Web visitors have a difficult enough time sorting out the perceived sameness of online offerings. For the content builder, there are few better methods to establish and lock in immediate credibility with customers than to implement an easily accessible database that underscores the site's overall content theme.
+
+

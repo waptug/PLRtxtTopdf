@@ -1,0 +1,50 @@
+Title: 
+My site is not showing up in google what can I do?
+
+Word Count:
+666
+
+Summary:
+Winlynx seo out of Indianapolis indiana gives tips on how to get top placement in google.
+
+
+Keywords:
+seo, indianapolis, google, optimization, marketing, indiana, promotion
+
+
+Article Body:
+Let’s get started on your Internet Marketing Quest.  The four big things to be concerned with is content, keywords, title, and description.
+First you need to know how your audience is trying to find relevant information pertaining to your site.  The easiest way to do this is to open a Google Adwords account and use their FREE keyword tool.  You may believe deep down that your customers are going to be looking for the keyphrase "website marketing".  You enter that into the search box and it will provide you with the terms your competition is using, the search volume by month and by total.  Thank you again Google!  Go through these terms and pick out the popular kids.  Do this for Four or Five keyphrases or keywords until you have reached 300 - 500 characters that will be used later for the keyword meta tag in your website.  Tada - you know have your keywords.  Please remember that your keywords need to be page specific.
+
+Next you’re going to need a Title.  Now it is very important not to be stingy with your titles.  What I mean by this is it is very important to have a different title for each page of your site.  Each page should have enough unique content to stand on its own.  If you can think back to creative writing, your teacher told you that it is imperative to grab your readers from the start of your article.  You must consider each page of your site to be an article. It should contain a minimum of 200 - 500 words.  If you hit a writer’s block then I would advise posting a content creation project on Elance.  The prices will range from 20 - 50 $ u.s. per article depending on if you have it written in the us or outsource.  The Title should contain relevant information pertinent to the webpage that you are trying to promote as well as 2 or 3 of your page keywords / keyphrases.  Please keep in mind that every page should be considered its own campaign.
+
+Moving on to Description.  Your description can be up to 250 characters and should also include keywords.  The description is very important because it gives potential clients the opportunity to get an overview of the site without actually going to it so be sure to let your potential customer know just how great you are, including relevant keywords of course.
+
+Here is an example of a well designed <head>  It tells the search engines a lot about the site including when to come back and look for new content, who designed the site, where the robots file is, what page it is looking at and if it should continue looking through the rest of the site.
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="title" content="Internet advertising, website design, site analysis from Winlynx">
+<title>Winlynx offers website design, hosting, website maketing, internet 
+marketing, seo, sem, indiana</title>
+<meta name="revisit" content="3 days">
+<meta name="robots" content="index, follow">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="keywords" content="Advertising,  agencies, consultants, marketing, Blog, business , online, web, ecommerce, e-commerce, engines, Google, hosting, indiana, Indianapolis, , agency, business, center,  consultants,  services,  strategy, linking services, make money from your website, make money, services, Optimization, pay per click, pay per click affiliate , program, promotion, search ,search engine ,Search engine optimization, services,website design,hosting,website maketing,internet marketing,seo,sem,indiana">
+<meta name="description" content="Winlynx.com provides website design,hosting,website maketing,internet marketing,seo,sem,indiana">
+<meta name="author" content="Jonathon Lester , Winlynx">
+<meta name="copyright" content="2008 Winlynx">
+<meta name="country" content="United States">
+<meta name="coverage" content="Worldwide">
+<meta name="verify-v1" content="4FPahOQMn9/L5N8yqY+p8ep6sdYDoYCxrdBMuEoc9b4=" />
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2998226-7";
+urchinTracker();
+</script>
+<meta name="identifier" content="http://winlynx.com">
+<link href="css/layout.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="swfobject.js"></script>
+</head>
+
+

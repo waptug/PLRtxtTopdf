@@ -1,0 +1,34 @@
+Title: 
+Getting Your Site Indexed Before You Launch
+
+Word Count:
+631
+
+Summary:
+I've noticed that most SEO articles focus on what to do after you launch your site. Those that do deal with preparing your site for launch usually discuss on-site SEO like keyword research and meta tags. What tends to be neglected is the advantage that you can gain by getting your site indexed before you launch. With a little planning and a few hours of work it's easy to be indexed by Google, Yahoo, and MSN before your site goes live.
+
+The key to getting your site indexed i...
+
+
+Keywords:
+SEO, search engines, google, msn, yahoo, indexed
+
+
+Article Body:
+I've noticed that most SEO articles focus on what to do after you launch your site. Those that do deal with preparing your site for launch usually discuss on-site SEO like keyword research and meta tags. What tends to be neglected is the advantage that you can gain by getting your site indexed before you launch. With a little planning and a few hours of work it's easy to be indexed by Google, Yahoo, and MSN before your site goes live.
+
+The key to getting your site indexed in the big three is getting links pointing to it from sites that are already indexed. When the search bots crawl those sites they will inevitably find the link to your site and your site will be added to their index. Follow these five steps a month before you launch and you'll be a step ahead of the game.
+
+1. Register your domain name. You'd be surprised how many people wait until the last minute to do this. The sooner you register your domain, the sooner you can get some quality links pointing to it and get it indexed.
+
+2. Put up a home page. Make a “coming soon” page with your logo, information about your site, and expected launch date. You can also add a form for people to sign up for email updates about your site. This starts building your email marketing list before you even launch.
+
+3. Start a blog and sign up for Feedburner. Put up a blog at www.yoursite.com/blog. It doesn't matter if you use WordPress, Blogger, or whatever blog platform you prefer, just make sure you host it on your site. Make a few posts about your site, what people can expect when it launches, and why your site will be unique. After your first post, sign up for a Feedburner account at http://www.feedburner.com/. Under 'Publicize' in your account make sure to sign up for 'Ping Shot'. This will notify blogging directories of your posts which hopefully will result in a few links to your site.
+
+4. Write a few articles and submit to directories.  Regardless of what your site is about, there is certainly a topic relating to your site that you could write an article about. For example, if your site is going to sell fitness equipment, you could write an article about how to build a home-gym. Or if you are going to rate and review new cars, you could write an article about how to shop for a new car.  After you've written and proofread your articles, submit them to article directories like Ezine Articles (http://www.ezinearticles.com/) and iSnare (http://www.isnare.com/). Be sure to include a description of your new site and a link back to it in the resource box. Again, this should result in a few links to your site.
+
+5. Get a link from an indexed site. Steps 3 and 4 should result in some links from indexed sites which should then ensure your site to be indexed. But it can't hurt to get a few more on your own to be certain. When I launched my last site, I linked to it from my personal blog, which I knew was indexed. If you don't have that option, you can ask someone with a blog or site related to yours to mention it. If you can't find anyone willing to do it for free, you could offer them some free advertising on your site when you launch in exchange for the link.
+
+Getting yourself indexed before you launch gives you a head start on your SEO and will allow your site to have a more immediate impact. Why wait until you launch? Get started a month early and you'll reap the benefits when launch day rolls around.
+
+

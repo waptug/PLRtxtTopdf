@@ -1,0 +1,41 @@
+Title: 
+What do you do if your RAID server fails?
+
+Word Count:
+577
+
+Summary:
+RAID server failure is one of the dreaded work hazards you may have to face sometimes at your workplace. You tend to become incapable and powerless when you are unable to access data with a click.
+
+
+Keywords:
+Data Recovery
+
+
+Article Body:
+RAID server failure is one of the dreaded work hazards you may have to face sometimes at your workplace. You tend to become incapable and powerless when you are unable to access data with a click. 
+Data on a RAID array or volume can becomes inaccessible due to any of the following reasons:  
+•	A faulty RAID controller                                                                                                  
+•	Multiple hard drive crash                                                                                             
+•	Malfunctioning upgrade or faulty striping                                                                                   
+•	Defects with the MFT mount points.                                                                                
+•	RAID controller failure or configuration changed                                                               
+•	Adding incompatible hard drives                                                                                     
+•	Hardware conflicts                                                                                                             
+•	Software corruption                                                                                                        
+•	Virus infection, software and operating system upgrades  
+In these above conditions, the following steps should be taken immediately to increase chances of getting critical files back: 
+•	Shutdown the server and turn off the system. Do not try to reboot again. This may cause serious damage to your hard drive. 
+•	Do not attempt to recover data by yourself, friends or PC repair shops. This may result in permanent loss. 
+•	Do not continue to attempt a forced rebuild if you have already replaced a failed drive and tried to rebuild the array, but still can't access your data. This may wipe out your data. RAID data recovery utilities and software are not designed to restore data or rebuild RAID arrays from failing hard drives. This requires specialized equipment and professional training. 
+•	Swapping hard drives or re-ordering drives in a multiple drive RAID array may cause overwriting the striping and parity. This makes it nearly difficult to reconstruct your RAID array and salvage your company's vital data. 
+•	Seeking professional help from professionally trained data recovery engineers is the sanest solution. Most data can be recovered from crashed hard drives and malfunctioning RAID servers by these experts only. 
+What do Professional data recovery engineers do? 
+Professional data recovery engineers have specialized equipment, a thorough knowledge of hex, drive structures, MFT mount points and offsets. 
+The Professional engineers’ initial diagnosis determines whether each media device is accessible to their lab equipment. From all the data accessible to them from each media, they make a raw image onto a new media to help them analyse and assess the data loss. If some of the media is difficult to get hold of, they will test the components and closely check its internal condition to assess the level of physical damage sustained. The damaged components include electronics, read/write heads, magnets, drive motors and head assemblies.  
+The raw images of the entire server’s media are used for logical recovery by examining the low-level data sectors. Determination of both the exact layout of volumes, which span or are striped across multiple drives, is a must. Necessary fixes to the file system structures are to be decided upon to get access to important data.  
+Servers that work on multiple drives are usually “destriped” onto a different media so that file system repairs can be done and the data files retrieved. It may be necessary to extract data directly from one or more fragments of the destriped image.  
+Professional programmers in this field have created a full set of software tools used by data recovery engineers to analyse, destripe, fix & recover data from raw images drives to virtually all operating systems. The Validity of information is checked once a recovery has been successfully performed, and file lists created. 
+A file recovery list is produced when your data is recovered. You can verify that your critical files are recoverable. The process usually takes 3-5 days though emergency data recovery services are also available.
+
+

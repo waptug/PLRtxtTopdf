@@ -1,0 +1,143 @@
+Title: 
+Custom Software Development Checklist
+
+Word Count:
+1332
+
+Summary:
+Custom database software development is facilitated by the use of a checklist of standard questions to be answered before a system is created, and before analysis begins. This checklist is provided to assist in the Analysis/Requirements phase of a new custom software development project.
+
+If you are interested in having 21st Century Technologies, Inc. create a new system for you, then the following checklist and the associated answers will facilitate the analysis process. T...
+
+
+Keywords:
+software,web,development,database,design,consulting,firm,seo,sem,consultants,internet,marketing,asp
+
+
+Article Body:
+Custom database software development is facilitated by the use of a checklist of standard questions to be answered before a system is created, and before analysis begins. This checklist is provided to assist in the Analysis/Requirements phase of a new custom software development project.
+
+If you are interested in having 21st Century Technologies, Inc. create a new system for you, then the following checklist and the associated answers will facilitate the analysis process. The answers can be e-mailed or faxed to us at the email address and fax number at the bottom of the page.
+
+BUSINESS CONSIDERATIONS
+
+1. Desired delivery date or proposed project schedule.
+2. Business reason for, and urgency of project.
+3. What are the cost constraints?
+4. Use cases - description of how each group of users will be using the system.
+a. General business process - web user will buy a product, web user will add a customer, web user will add contact information, etc.
+b. Input/Output - web users will enter data into forms, data will be imported, administrator must run many management reports, administrator needs to export to Excel and text, etc.
+c. Frequency of activity - many times each day, once daily, weekly, etc.
+d. Cycles of activity - weekly sales reports to all sales managers on Monday morning, close books at end of year, etc.
+
+NATURE OF APPLICATION
+
+1. Do you have a desired development tool or technology in mind? You may want to split the application into some parts that can be run on a Windows workstation computer, while other parts (like reports, or timecard entry screens) are accessed via a web browser on your local intranet. Web applications and reports can be viewed on all computer types and operating systems that are capable of viewing web pages. Some tools currently available to build the system are listed here:
+a. C#/VB.NET
+b. ASP.NET
+c. Active Server Pages or Cold Fusion for robust database driven Web applications
+d. ColdFusion
+e. Visual Basic
+f. SQL Server
+g. MS Access
+h. JavaScript - for cross browser compatibility,
+i. VBScript - for server scripting, and client scripting if Internet Explorer is the only client browser
+j. Dreamweaver - for higher ended client functionality
+k. SQL Server Reporting Services
+l. Crystal Reports - for Windows and Web based reports
+m. ActiveReports
+n. Excel
+o. PowerPoint
+p. Interactive Voice Response (IVR) Systems - dial 1 for English, 2 for Spanish...
+2. If other applications are involved (MS Word, MS Excel, QuickBooks, etc.), what version will be used?
+3. Desired screen resolution (800x600, 1024x768, etc.),
+4. Screen Size (15", 17", 19”, 21")
+5. Preferred Font and size (Arial 10, Times New Roman 12, etc.)?
+6. Target Windows version for each client computer in the system (98, NT 4.0, 2000, XP, 2003 Server, etc.),
+7. Web Server – MS Internet Information Services (IIS), Apache, etc.
+8. Target computer Operating System if not a Windows Platform - Apple, Unix, Linux, etc.
+9. Target workstation hardware for all client stations,
+a. Clock speed –1333, 1500, 2000, 3000, etc. MHz,
+b. Hard drive space – 100, 200, 400, etc. Gbytes,
+c. RAM – 128Mb, 256Mb, 512Mb, 1Gb, etc.
+10. If a network application, which network and version? –Windows, Novell 3.1, Novell, etc.
+11. What are the drive letters for the networked back end databases if a network application? F, G, H, etc.? This reduces the deployment effort by developing in the same environment as the target workstations.
+12. If available and pertinent, please provide a network configuration diagram with paths to server (where database will reside) and all clients, security/user groups, etc.
+13. Is 24x7 (24 hours a day, 7 days a week) uptime required? If so, please explain the business need. We will discuss this further. The cost goes up as more uptime is required. More resources are needed - various personnel on pagers, redundant computers or components like power supplies RAID or mirrored hard drives, etc.
+14. Is Internet/Intranet data access desired?
+a. For data entry?
+b. For report reviewing only?
+c. To disseminate existing documents?
+d. To email notification of pre-determined business trigger events (project milestone met and approved, employee appraisal ready for approval, etc.)?
+15. Is Security desired?
+a. Extremely high network (Internet) security - firewall, proxy server, etc.
+b. Database level security - MS Access has security, but SQL Server has a much tighter security model tied in with the Win 2000/NT operating system.
+c. Application level security
+d. Minimum (pseudo) security algorithm – low cost
+e. Please specify User Groups that may have special Security needs requiring different levels of security:
+i. Administrative Assistants
+ii. Analysts
+iii. Engineers
+iv. Managers
+v. Company Owners
+vi. System Administrators
+16. Are Backup Scenarios currently in place? Backups will be an integral component of the system. The importance of this cannot be over emphasized.
+a. Daily, Weekly, Monthly onto tape
+b. Daily, Weekly, Monthly onto CD or other optical drive
+c. Onto another computer
+d. Regular backups located at a remote site
+17. Are Anti-Virus protection and policies in place? It is an important part of ensuring that a system stays up and running.
+18. Will remote troubleshooting be desired? The addition of Error Processing and Logging software will facilitate remote support and troubleshooting.
+19. Desired Documentation?
+a. None
+b. Installation
+c. User
+d. Administrator
+e. Software
+f. On-line help
+g. Special
+h. All of the above
+20. What is the proficiency level of all users for the target tools and environments – Windows, Excel, etc.?
+21. Will interfaces to other systems (accounting, payroll, another database, GIS, truck routing, etc.) be required? This will affect the data model and system configuration, so early planning for these interfaces is critical to their successful inclusion into the system.
+22. Is an audit trail function desired for changes to existing data? What parts of the system will need to be audited?
+23. Is government reporting or data security required – Sarbanes Oxley, HIPAA, etc.
+24. Number of reports. A sample hardcopy or at least hand drawing of each will significantly help in determination of report prices and commonalties (company headers, formats, etc.). Important items are:
+a. Number of sections including sort groups,
+b. Definition of the source data for all fields in each section and their calculation method,
+c. Summaries,
+d. Desired output format:
+i. Windows screen preview
+ii. HTML
+iii. E-Mail
+iv. PDF
+v. Delimited Text
+vi. Excel spreadsheet
+vii. Other outputs
+25. Is an ad hoc user-defined reporting, data retrieval, or analysis (On Line Analytical Processing (OLAP), Data Mining, etc.) capability desired?
+26. Is an installation program needed for distribution of an application to many users?
+27. Is an automated network or internet installation desired?
+28. Are custom point to point communications needed? This may also include automated faxing.
+29. Special Considerations:
+a. Unique business rules, calculations, desired warnings, etc.
+b. Significant text parsing
+c. Known or possible issues and problems that may be alleviated with testing
+d. Voice driven capability
+e. Multiple databases (Access and SQL Server, Oracle, etc.)
+
+DATA AND VOLUME
+
+1. How many users are expected on the system in the near (first 6 months) and long (1 – 3 years and past) term?
+2. How many users are expected to use the system at the same time during peak periods in the near and long term?
+3. What type of data traffic will be on the network for the near and long term - numbers, text, images, video, multi-media, etc.?
+4. What is the expected volume of traffic for the near and long term?
+5. What is the estimated number of data records to be stored for the near and long term?
+6. Do we need to import data from existing files or systems? Note that Characters like ‘ " # have special significance in data processing and conversion, and require special code handling. Names (D’Joy) and other data fields may contain these characters.
+a. No. Example data will usually be provided in database, text, or spreadsheet format. This helps significantly in system testing and allows for error discovery and error trapping before the system is delivered.
+b. Yes.
+i. Is all or part of the existing data needed? What parts?
+ii. Can use of the existing data be stopped while we convert the data into the new system?
+iii. Is this a one time data conversion, or will we have to import data from existing systems regularly?
+iv. Are some fields mostly blank?
+v. Are some desired fields missing?
+
+

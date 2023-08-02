@@ -1,0 +1,30 @@
+Title: 
+Cisco Certification:  Recertifying Your CCNA and CCNP
+
+Word Count:
+361
+
+Summary:
+You’ve worked hard to earn your CCNA and CCNP, but Cisco demands you recertify to keep your credentials.  Learn how this boosts your career and get tips on recertifying from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+ccna,ccnp,free,tutorial,recertify,icnd,intro,pass,exam,router,switch,cisco,bsci,cit,bcran,configure,ebook,chris,Bryant,ccie,12933,advantage 
+
+
+Article Body:
+Once you get your CCNA and CCNP, you can't just rest on your accomplishment. You've got to continue to study and add to your skill set - and then prove to Cisco you've been doing just that by recertifying.
+
+Recertification sounds like a pain, but it's actually one of the best things to ever happen to computer certification, and it helps your career as well. One trap many LAN and WAN personnel fall into is that they fail to keep up with changes in technology, and if they happen to be laid off or want to change jobs, they're unable to because they didn't keep their skill set up.
+
+Cisco's recertification policies ensure that if you want to keep your CCNA, CCNP, or one of the other valuable Cisco certifications, you've got to take a recertification exam.
+
+As of November 2005, to recertify as a CCNA, you need to pass either the current CCNA exam, ICND exam, or any 642 professional level or Cisco Qualified Specialist exam. (This does not include Sales Specialist exams.) Passing a CCIE written qualification exam also recertifies you as a CCNA. CCNAs are valid for three years.
+
+For the CCNP, you need to pass the 642-891 Composite exam, a CCIE written qualification exam, or BOTH the BSCI and BCMSN exams (642-801 and 642-811, respectively.) CCNP certifications are valid for three years.
+
+As you can see, you've got quite a few options either way. The one classic mistake you must not make is waiting too long to begin preparing for the exams, and give yourself a little leeway just in case you don't recertify the first time around. Once the deadline passes, your certification is gone, and in the case of the CCNP that means taking all the exams again. 
+
+As a professional, it's your responsibility to keep up with changes in the Cisco certification world, and this includes changes in the recertification program. Make a point of visiting the "Learning And Events" section of Cisco's website regularly to look for changes in the certification program. And while you're there, you just might see another cert that catches your eye!
+
+

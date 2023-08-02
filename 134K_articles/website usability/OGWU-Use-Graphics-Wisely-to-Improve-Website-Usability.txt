@@ -1,0 +1,46 @@
+Use Graphics Wisely to Improve Website Usability
+
+
+There can be no argument about the importance of design in attracting Internet users to a particular web site. No one would bother to explore the contents of a site if it does not contain eye-catching graphics that can please the visual sense of the users. With so many kinds of web sites existing online, it is extremely challenging to attract users and keep them interested in the site. 
+
+But a web site developer does not simply apply graphics freely on a site. Graphics should be used in the correct manner, or else, users might get turned off because the graphics featured just overwhelmed or confused them. 
+
+While it is true that attractive design is important for reasons that need not be explained, the choice of design must be carefully considered against the fulfilling the needs of users. When done successfully, it could be safely said that the web site has achieved its goals.
+
+Graphics used in the Internet is inextricably linked to multimedia. Multimedia is a combination of graphics, text, sound, and animation to express a message to users. The multimedia features that will be incorporated to a web site should be dependent on the content. In general, multimedia and graphics should serve as supports to content, and should have precise, instructional purpose.
+
+According to research, animated images can facilitate the transfer of learning in a positive way if it is utilized to show a vital part of the concept that is being illustrated. On the other hand, animation can serve as a barrier to user recall and performance.
+
+Here are the guidelines in incorporating graphics to web sites:
+
+1. Justify the usage of the graphics
+The most obvious problem that can be seen on web pages is the over-usage of graphics. The main downside of this is that complicated, unnecessary graphics can take a long time to download, and this, of course, will not sit well with users. The graphics to be applied should support the transfer of data and should also be in relation to the accompanying text. 
+
+2. The difference between graphics with text-redundant data and those containing information that is non-redundant is that the former facilitates and ushers in the learning process, while the latter does not either help or slow down learning.
+
+3. Consistency should be a priority in graphic design
+
+4. Web pages should be marked up so that text will be downloaded before the graphics. In this way, the users will know immediately if the page has the information that they are looking for, and if not, they will be able to save precious waiting time knowing that they do not need that certain page. 
+
+5. The loading of graphics should be controlled as such that loading will commence from top to bottom, and the users scrolling down the page will encounter said graphics.
+
+6. The downloading of pages should be fast in order to save users waiting time, and in order to reduce the chances that they will get frustrated that they will abandon plans to download. Here are several ways to achieve fast download periods:
+
+-Keep the physical size of the graphics to a minimum
+-Images should be combined in order to minimize the number of server connections. Remember, the more connections that exists, the slower the download time will be
+-Decrease image resolution
+-Limit the colors that will be used for the images
+-Limit the use of animation
+
+Animation is very much a part of web graphic design. The primary difference between web text and graphics and contents that are print-based is the dynamics. Moving displays attract the attention of users as long as the frequency of the display is regulated. Too much animation display can irritate and distract users. An animation that is perpetually moving can destroy the readable quality of the web page. 
+
+The usage of blinking texts should be avoided. It has long been regarded as an overused feature and the latest browsers no longer support it. 
+
+In designing a web site, there always exists a conflict between the desire to have total control over the appearance of a page and the need to permit users to establish their own preferences. The general appearance of the page should be made by the designer, but there are certain elements that users should have control over, such as color and text background, and the option whether to display graphics or not. 
+
+It takes a considerable amount of effort to establish and maintain the attractiveness and efficiency of a web site. If the guidelines above will be followed, all the efforts of web designers will bear desirable results. They only have to remember that the benefit of the users will always be the basis for everything.
+
+
+
+            
+

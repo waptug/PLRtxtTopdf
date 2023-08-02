@@ -1,0 +1,117 @@
+Title: 
+Cisco CCNP / BCSI Exam Tutorial:  Broadcasts And The IP Helper-Address Command
+
+Word Count:
+460
+
+Summary:
+Learn how to allow certain broadcasts to be forwarded by a router in this tutorial from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+cisco, ccnp, bsci, exam, pass, free, tutorial, ip, helper, address, broacast, router, forward, ccie
+
+
+Article Body:
+While routers accept and generate broadcasts, they do not forward them.  This can be quite a problem when a broadcast needs to get to a device such as a DHCP or TFTP server that's on one side of a router with other subnets on the other side. 
+
+
+If a PC attempts to locate a DNS server with a broadcast, the broadcast will be stopped by the router and will never get to the DNS server.  By configuring the ip helper-address command on the router, UDP broadcasts such as this will be translated into a unicast by the router, making the communication possible.  The command should be configured on the interface that will be receiving the broadcasts.
+
+R1(config)#int e0
+
+R1(config-if)#ip helper-address ?
+
+  A.B.C.D  IP destination address
+
+R1(config-if)#ip helper-address 100.1.1.2
+
+Now, you may be wondering if this command covers all UDP services.  Sorry, you're not getting off that easy!  The command does forward eight common UDP service broadcasts, though.  
+
+TIME, port 37
+
+TACACS, port 49
+
+DNS, port 53
+
+BOOTP/DHCP Server, port 67
+
+BOOTP/DHCP Client, port 68
+
+TFTP, port 69
+
+NetBIOS name service, port 137
+
+NetBIOS datagram service, port 138
+
+That's going to cover most scenarios where the ip helper-address command will be useful, but what about those situations where the broadcast you need forwarded is not on this list?  You can use the ip forward-protocol command to add any UDP port number to the list.
+
+Additionally, to remove protocols from the default list, use the no ip forward-protocol command.  In the following example, we'll add the Network Time Protocol port to the forwarding list while removing the NetBIOS ports.  Remember, you can use IOS Help to get a list of commonly filtered ports!
+
+R1(config)#ip forward-protocol udp ?
+
+  <0-65535>    Port number
+
+  biff         Biff (mail notification, comsat, 512)
+
+  bootpc       Bootstrap Protocol (BOOTP) client (68)
+
+  bootps       Bootstrap Protocol (BOOTP) server (67)
+
+  discard      Discard (9)
+
+  dnsix        DNSIX security protocol auditing (195)
+
+  domain       Domain Name Service (DNS, 53)
+
+  echo         Echo (7)
+
+  isakmp       Internet Security Association and Key Management Protocol (500)
+
+  mobile-ip    Mobile IP registration (434)
+
+  nameserver   IEN116 name service (obsolete, 42)
+
+  netbios-dgm  NetBios datagram service (138)
+
+  netbios-ns   NetBios name service (137)
+
+  netbios-ss   NetBios session service (139)
+
+  ntp          Network Time Protocol (123)
+
+  pim-auto-rp  PIM Auto-RP (496)
+
+  rip          Routing Information Protocol (router, in.routed, 520)
+
+  snmp         Simple Network Management Protocol (161)
+
+
+  snmptrap     SNMP Traps (162)
+
+  sunrpc       Sun Remote Procedure Call (111)
+
+  syslog       System Logger (514)
+
+  tacacs       TAC Access Control System (49)
+
+  talk         Talk (517)
+
+  tftp         Trivial File Transfer Protocol (69)
+
+  time         Time (37)
+
+  who          Who service (rwho, 513)
+
+  xdmcp        X Display Manager Control Protocol (177)
+
+  <cr>
+
+R1(config)#ip forward-protocol udp 123
+
+R1(config)#no ip forward-protocol udp 137
+
+R1(config)#no ip forward-protocol udp 138
+As you can see, the ip helper-address command helps work around the fact that broadcasts aren't forwarded by routers by default, and if you just need to send one or two broadcast types, the other types can be turned off easily.
+
+

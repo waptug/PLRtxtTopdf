@@ -1,0 +1,52 @@
+Title: 
+Hybrid Car Technology
+
+Word Count:
+1108
+
+Summary:
+Hybrid cars combine the gasoline engine with a constantly recharging electric battery/motor system to deliver high miles-per-gallon.
+
+
+Keywords:
+hybrid vehicles,hybrid cars,hybrids,fuel economy,regenerative braking
+
+
+Article Body:
+Copyright 2006 Donovan Baldwin
+
+LEADING UP TO THE NEED FOR A HYBRID VEHICLE
+
+For most of the lifetime of automobiles, propulsion has been provided by the gasoline or diesel powered internal combustion type of engine.  There have been brief flirtations with steam, electricity, and vehicles that could use a variety of fuels, but most of these have fallen by the wayside as the gasoline engine pushed billions of vehicles down the road.
+
+However, this single-minded dependence on petroleum-based fuels, and lubricants too, has placed the planet on the edge of a new future...a future without petroleum or, at best, with limited petroleum resources.  Government, business, and designers have combined efforts to come up with some sort of solution to at least part of the problem of maintaining our present way of life with the fact of decreasing petroleum supplies.
+
+In previous incarnations of the personal vehicle, steam did not prove suitable for simple, daily operations, and electricity was limited by the speed with which battery charges dissipated, the length of time required for recharging, and the need to redesign and create an infrastructure for electric cars.
+
+The recent solution has been the hybrid vehicle.  The hybrid car combines gasoline engine technology, already fairly highly advanced, with a battery/electric motor combination, which also uses technology that is well known.
+
+WHAT A HYBRID VEHICLE DOES
+
+The gasoline powered engine can provide higher, sustained speeds for long periods of time and recharge the battery as needed by means of a generator (more on this in a moment).  The battery/electric motor can provide the power to begin moving the hybrid vehicle, continue moving it at lower speeds and can power systems such as lights, radio, and air conditioner when the vehicle is at a stop.  This simple step of having the vehicle turn the engine off during idle times such as at stop signs, stop lights, drive-thrus, and stop-and-go traffic can result in quite a fuel savings by itself.
+
+The forward movement of the vehicle itself can help store power in the battery by turning the electric generator.  One interesting aspect of this is that the electric generator which recharges the battery when turning in one direction is also the electric motor which draws power from the battery to move the car at lower speeds.  This, in its most basic form, is done by reversing the spin of the central rotor of the generator/motor.  This use of the same device to power the car and recharge the battery also allows for a unique feature - regenerative braking.
+
+REGENERATIVE BRAKING IN A HYBRID VEHICLE
+
+Regenerative braking is very simple in concept and turns a frequent and unavoidable expense into an asset in more than one way.  In an ordinary vehicle, brake pads or shoes press against a rotor or drum to slow and stop the vehicle.  This generates a lot of heat. Brake pads, shoes, rotors, and drums wear out due to the friction and heat and have to be replaced regularly. This can be expensive.
+
+Stop-and-go city driving, tends to be the place where a large amount of braking occurs, so this is where most of the wear on brake parts occurs as well. With a regenerative braking system, such as that in the Toyota Prius hybrid, most braking will actually be provided by the electric motor itself at slower speeds.  As you apply the brake, the electric motor which was propelling the car now reverses itself and becomes a generator recharging the battery as you slow and stop.  The reversed motor creates torque which slows the vehicle and brings it to a stop, so the regular brake parts receive a lot less wear and need to be replaced less often.
+
+FUEL ECONOMY AND "PLAYING THE LIGHTS" WITH A HYBRID VEHICLE
+
+Add into the mix that stop-and-go city driving burns a lot of fuel.  In a gasoline or diesel powered automobile, it takes much larger amounts of fuel to start a vehicle from a stop than to keep it moving.  It requires less fuel to pick your speed back up when you have slowed down than to come to a complete stop and have to start from that point.  Some truck drivers (and trucks burn a lot of fuel), have been taught to view events ahead and take their foot off the accelerator if they feel they may have to stop at a light that is red or "stale" green, or if there is congestion ahead which will slow them down anyway. This is called "playing the lights" and can result in significant fuel savings in any vehicle. A hybrid vehicle with regenerative braking is going to be saving wear and tear on brake parts, and taking it a little easier on the "go pedal" will help save even more in fuel costs if the driver is "playing the lights".
+
+A hybrid vehicle commonly improves fuel economy by using the electric motor to start the vehicle moving and by letting the battery take care of times that the car would normally be idling.  A well designed hybrid car also sometimes allows the electric motor to assist the gasoline engine as well, thus adding to the fuel economy of a hybrid vehicle over a standard petroleum fuel car.
+
+NOT ALL HYBRIDS ARE CREATED EQUAL
+
+There are hybrid SUV's and trucks, but these will not get the fuel economy of a smaller, lighter hybrid vehicle such as the Toyota Prius.  Just to give an idea of the range, among hybrid cars, according to the federal government's Fuel Economy website at http://www.fueleconomy.gov/feg/hybrid_sbs.shtml , the 2006 Honda Accord got an average of 28 MPG, while the Honda Insight got an average of 56 MPG, and the Toyota Prius got an average of 55 MPG.  To illustrate how the difference in model can make a difference in fuel economy even among hybrid vehicles, hardly any SUV listed on the government's website got over 34 MPG combined, and neither of the two hybrid trucks listed on my visit to the website, averaged over 20 MPG combined city and highway.
+
+NOTE:  I recently bought a Toyota Prius, and have been averaging almost exactly 55 MPG. I went on a trip, of over 2,000 miles, and 55 MPG was the fuel average for almost the entire trip.  However, to emphasize how driving habits affect fuel economy, for over 1700 miles, I usually drove between 60 and 64 miles per hour on the highway, but during the last leg of my trip, I was in a hurry to get home and drove at 70 miles per hour.  Driving at that speed cut my fuel economy down to under 50 MPG for that last portion of my trip.
+
+

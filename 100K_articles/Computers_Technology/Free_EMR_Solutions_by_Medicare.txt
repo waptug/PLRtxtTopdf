@@ -1,0 +1,46 @@
+Title: 
+Free EMR Solutions by Medicare
+
+Word Count:
+701
+
+Summary:
+Instigated by the incredibly slow adoption of Electronic Medical Records (EMR) by doctors across the nation, Medicare is announcing it will begin offering doctors free electronic medical record software solutions.
+
+
+Keywords:
+EMR, EMR Software, EMR Solutions
+
+
+Article Body:
+Is anything ever free these days? Maybe so. 
+
+Instigated by the incredibly slow adoption of Electronic Medical Records (EMR) by doctors across the nation, Medicare is announcing it will begin offering doctors free electronic medical record software solutions.
+
+Both upfront and ongoing costs have been critical factors in the lagging EMR adoption rate. Medicare hopes that by providing doctors with a free or very low-cost system, doctors will readily adopt EMR putting healthcare providers in America on a common system, thereby, providing Medicare and the general public  with obvious, health, reporting and billing benefits.
+
+The proposed system is VistA, (Veterans Health Information Systems and Technology Architecture) the widely popular system built by the Veterans Administration. The adoption of VistA has resulted in the VA achieving a pharmacy prescription accuracy rate of 99.997%. Due to the implementation of VistA, the VA also outperforms most public sector hospitals on a variety of criteria. The VistA system is public domain software, available through the Freedom of Information Act directly from the VA website or through a network of distributors.
+
+Installed in over 1300 inpatient and outpatient facilities, the system is well-established and quite successful by EMR standards. But can a system designed for a large organization like the VA also work for a solo practitioner family practice office?
+
+A doctor in a New York Time article writes:
+
+“It is one thing to use a system that someone else installed and someone else maintains. It is another to get a set of disks in the mail and do it yourself."
+
+Those who have tried to install Vista on their own would agree.
+
+“Giving out a version of VistA is a great idea," said Dr. David Kibbe, director of the Center for Health Information Technology at the American Academy of Family Physicians, a group that has been working on the project. "But at the beginning, there was a lot of wishful thinking. They said, 'We'll just release it.' I said, 'Where's the fairy dust?' "
+
+The problems with the healthcare sector and its slow adoption of electronic medical records are much deeper than some would like to admit, and viable solutions have been hard to come by.  
+
+The healthcare system is extremely fragmented, with thousands upon thousands of practices all practicing differently, using different billing systems, with different levels of computer proficiency, and different workflows. Building a one-size-fits-all system has failed in the past and will likely continue to fail. The fact that over 300 different vendors currently develop and market EMR software attests to the need for customization. The need for pre- and post-sale customization is a reality in every practice since every practice operates differently. Even practicing physicians within the exact same specialty do things differently and run their practices differently.  
+
+A key challenge for systems with large installation bases is often that the system becomes rigid simply due to the vendor trying to please too many different practices. Customization gets repeatedly delayed or shelved altogether. Another concern is that when medical records are stored on servers that Medicare can access and control as they please  practices may be hesitant to use the system regardless of the benefits to the practices and their patients.
+
+While Medicare's plan is to offer the software for free, one must ask what free is.  Currently, free is software but not training, installation, and ongoing support. Even if Medicare did make it 100% free, a free EMR is not free if it fails. The costs involved with a failed implementation can far outweigh the costs of purchasing an EMR at market price due to productivity losses, and hardware  and implementation costs.
+
+Maybe Medicare could focus more of their resources in the development and promotion of better standards for integrating already proven EMR systems  and integrating EMR systems with electronic personal health records, managed by the patient. Why not offer patients a free electronic health record which can easily interface to all the major EMR vendors in the market? Wouldn't a record they control, that can communicate with all their health providers, and be accessed by any other provider in the event of an emergency be more beneficial?  
+
+After all, isn’t the patient’s best interest the goal of healthcare in the 21st century?
+
+

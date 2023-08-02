@@ -1,0 +1,80 @@
+Title: 
+10 Major  Reasons To Switch To Linux
+
+Word Count:
+944
+
+Summary:
+1. It Doesn't Crash
+
+Linux has been time-proven to be a reliable operating system. Although the desktop is not a new place for Linux, most Linux-based systems have been used as servers and embedded systems. High-visibility Web sites such as Google use Linux-based systems, but you also can find Linux inside the TiVo set-top box in many livingrooms.
+
+Linux has proved to be so reliable and secure that it is commonly found in dedicated firewall and router systems used by  hig...
+
+
+Keywords:
+linux , windows , intel , advantages , amd , os , virus , symantec , apple
+
+
+Article Body:
+1. It Doesn't Crash
+
+Linux has been time-proven to be a reliable operating system. Although the desktop is not a new place for Linux, most Linux-based systems have been used as servers and embedded systems. High-visibility Web sites such as Google use Linux-based systems, but you also can find Linux inside the TiVo set-top box in many livingrooms.
+
+Linux has proved to be so reliable and secure that it is commonly found in dedicated firewall and router systems used by  high-profile companies to secure their networks. For more than ten years, it has not been uncommon for Linux systems to run for months or years without needing a single reboot.
+
+2. Viruses Are Few and Far Between
+
+Although it is possible to create a virus to target Linux systems, the design of the system itself makes it very difficult to become infected. A single user could cause local damage to his or her files by running a virus on his or her system; however, this would be an isolated instance rather than something could spread out of control.
+
+In addition, virtually all Linux vendors offer free on-line security updates. The general philosophy of the Linux community has been to address possible security issues before they become a problem rather than hoping the susceptibility will go unnoticed.
+
+3. Virtually Hardware-Independent
+
+Linux was designed and written to be easily portable to different hardware. For the desktop user, this means that Linux has been and likely always will be the first operating system to take advantage of advances in hardware technology such as AMD's 64-bit processor chips.
+
+4. Freedom of Choice
+
+Linux offers freedom of choice as far as which manufacturer you purchase the software from as well as which application programs you wish to use. Being able to pick the manufacturer means you have a real choice as far as type of support you receive. Being open-source software, new manufacturers can enter the market to address customer needs.
+
+Choice of application programs means that you can select the tools that best address your needs. For example, three popular word processors are available. All three are free and interoperate with Microsoft Word, but each offers unique advantages and disadvantages. The same is true of Web browsers.
+
+5. Standards
+
+Linux itself and many common applications follow open standards. This means an update on one system will not make other systems obsolete.
+
+6. Applications, Applications, Applications
+
+Each Linux distribution comes with hundreds and possibly thousands of application programs included. This alone can save you thousands of dollars for each desktop system you configure. Although this is a very small subset, consider that the OpenOffice.org office suite is included as well as the GIMP, a program similar to (and many people say more capable than Adobe Photoshop); Scribus, a document layout program similar to Quark Xpress; Evolution, an e-mail system equivalent to Microsoft's Outlook Express; and hundreds more.
+
+For the more technically inclined, development tools, such as compilers for the C, C++, Ada, Fortran, Pascal and other languages, are included as well as Perl, PHP and Python interpreters. Editors and versioning tools also are included in this category.
+
+Whether you are looking for Instant Messaging clients, backup tools or Web site development packages, they likely are all included within your base Linux distribution.
+
+7. Interoperability
+
+More and more computers are being connected to networks. No system would be complete if it did not include tools to allow it to interoperate with computers running other operating systems. Once again, Linux is very strong in this area.
+
+Linux includes Samba, software that allows Linux to act as a client on a Microsoft Windows-based network. In fact, Samba includes server facilities such that you could run a Linux system as the server for a group of Linux and Windows-based client systems.
+
+In addition, Linux includes software to network with Apple networks and Novell's Netware. NFS, the networking technology developed on UNIX systems also is included.
+
+8. It's a Community Relationship, Not a Customer Relationship
+
+Other operating systems are the products of single vendors. Linux, on the other hand, is openly developed, and this technology is shared among vendors. This means you become part of a community rather than a customer of a single manufacturer. Also, the supplier community easily can adjust to the needs of various user communities rather than spouting a "one size fits all" philosophy.
+
+This means you can select a Linux vendor that appears to best address your needs and feel confident that you could switch vendors at a later time without losing your investment--both in terms of costs and learning.
+
+9. It's Not How Big Your Processor Is...
+
+Because of a combination of the internal design of Linux and development contributions from a diverse community, Linux tends to be more frugal in the use of computer resources. This may manifest itself in a single desktop system running faster with Linux than with another operating system, but the advantages go far beyond that. It is possible, for example, to configure a single Linux system to act as a terminal server and then use outdated hardware as what are called thin clients.
+
+This server/thin client configuration makes it possible for older, less powerful hardware to share the resources of a single powerful system thus extending the life of older machines.
+
+10. Linux Is Configurable
+
+Linux is a true multi-user operating system. Each user can have his or her own individual configuration all on one computer. This includes the look of the desktop, what icons are displayed, what programs are started automatically when the user logs in and even what language the desktop is in.
+
+And lastly no Bill schmendrick character telling you what you can and cannot do.
+
+

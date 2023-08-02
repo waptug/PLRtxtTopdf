@@ -1,0 +1,35 @@
+Title: 
+Linux or Windows - Which is it?
+
+Word Count:
+510
+
+Summary:
+Many say LINUX is far better than Windows.
+
+
+Keywords:
+windows, linux
+
+
+Article Body:
+Computer users and programmers have become so accustomed to using Windows, even for the changing capabilities and the appearances of the graphical interface of the versions, therefore it has remained Microsoft's product. Although, Lycoris, Red Hat, Mandrake, Suse, Knoppix, Slackware and Lindows make up some of the different versions of LINUX.  These companies release their own versions of the operating systems with minor changes, and yet always with the same bottom line.  The simple fact that not one of these companies are close to competing with Windows, for the most part causes the difference in market share.
+
+It sometimes seems everyone on the planet is using Windows.  Many say Windows is way better than LINUX because of the simple handling of the software or hardware.  There are huge differences between the number of users of LINUX and Windows. Many say LINUX is far better because it started as an Open Source software and thus is more flexible than Windows. Then what accounts for the enormous difference in market share between these two operating systems?
+
+Windows and Linux are different in many ways.  
+
+1.  Windows GUI is an integral component of the OS; speed, efficiency and reliability, while the Linux GUI is optional, are increased by running a server instance of Linux without a GUI, something that server versions of Windows simply can't do. The nature of the Linux GUI makes remote administration of a Linux computer easier with a more natural feel than Windows computers.
+
+2.  The command prompts of the operating systems are very different.  The command interpreters in the Windows 9x series are very similar to each other and the NT class versions of Windows also have similar command interpreters.  There are, however differences between a Windows 9x command interpreter and one in an NT class flavor of Windows.  Linux, like UNIX, also supports multiple command interpreters, but it usually uses BASH or "Bourne Again Shell".
+
+3. While you have to pay hundred's of dollars for a new Windows version, you can just go download Linux.  There's no manuals or simple installers for the free version.  Although there is quite a learning curve when utilizing the free package. There are some easy automated packages of Linux for low prices.
+
+Microsoft's "big con" is the supposed security issues with windows.  Most spyware, adware and malicious files programs work with Windows just fine.  In general you do not deal with these kinds of circumstances unless you are working with Windows.  whereas Linux offers a strong protection, password protection for Windows can be bypassed with ease.
+
+
+The software availability is the key to why Windows wins over Linux in this competition.  Most software releases are already configured for Windows.  If you chose to use Linux you must copy Windows with special software in order to use your windows based programs.  You could always install Windows as a subsystem to Linux, this would take the administrative capabilities of Windows and allow them to funtion on Linux.
+
+If Linux is ever to compete with Windows, it must become more user friendly and provide serious technical support.
+
+

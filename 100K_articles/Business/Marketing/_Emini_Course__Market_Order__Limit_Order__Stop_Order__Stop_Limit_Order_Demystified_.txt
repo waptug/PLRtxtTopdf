@@ -1,0 +1,37 @@
+Title: 
+[Emini Course] Market Order, Limit Order, Stop Order, Stop Limit Order Demystified!
+
+Word Count:
+537
+
+Summary:
+Types of Orders
+Placing orders is an art in itself. Beginners often do not know when to use market orders and limit orders. Different orders are used in different market conditions. But the limit order is the one that is most versatile. Understanding a limit order is essential to your trading success. I will only discuss the case for buying, the reasoning and mechanism is the same for shorting.
+
+Market Order 
+In a market order, you are basically giving instructions to you...
+
+
+Keywords:
+day trade emini, ebook, s&p 500, nasdaq 100, market order, limit order, stop limit order, stop loss,
+
+
+Article Body:
+Types of Orders
+Placing orders is an art in itself. Beginners often do not know when to use market orders and limit orders. Different orders are used in different market conditions. But the limit order is the one that is most versatile. Understanding a limit order is essential to your trading success. I will only discuss the case for buying, the reasoning and mechanism is the same for shorting.
+
+Market Order 
+In a market order, you are basically giving instructions to your broker to buy at the prevailing price. You cannot set what price you want to buy. Market orders might be prone to slippage in fast moving markets. For example, if you give a market order to buy 10 lots, 3 lots might be filled at $10, another 3 lots at $10.50 and the remaining 4 lots at $11.00. We usually use a market order when we need to get in or out of a market fast, such as when the market suddenly moves against you drastically.
+
+Limit Order 
+A limit order is different from a market order in that you can specify the price at which you want to buy. For example, if you specify you want to buy 2 lots at $10, you will not get a fill at prices above $10. Hence a possible scenario is you get both 2 lots at $10, or 1 lot each at $10 and $9.50. The beauty for the limit order is that you will not get a fill unless the price is better than what you specified.
+
+Stop Order
+A stop order is better known as a stop loss order . In day trading stop loss is essential to your survivor. Some traders do not set a stop loss because they are monitoring their trades real-time. They feel that they can step in fast enough to close the position when the situation goes against them. However, in fast moving markets, you can very well lose $200 or more on a single contract in a matter of minutes. Setting a stop loss order removes the psychological hesitation to exit a position. From my experience, this is an absolute requirement, please master it and use it to your advantage. 
+
+Assume you are currently long at $10 and you set the stop loss at $8, you are giving instructions to your broker to sell at market price when the price falls down to $8. When the price is above $8, the stop loss order lays dormant, it will turn into a market order only when the price hits $8 to save you from further losses. Note that a stop loss order is always used to exit a position. Hence if you are long, the stop loss order will give instructions to sell. If you are short, the stop loss order will give instructions to buy. 
+
+Stop Limit Order 
+A stop limit order is similar to a stop loss order, except that it will turn into a limit order at the predetermined price. For example, assume you are long at $10 and you set a stop limit order to sell at $8, when price falls to $8, the order will become a limit order at $8. Recall that limit order will assure you of a fill better than the price you specified. Hence, a limit order at $8 means that you get a fill at $8 and above.
+
+

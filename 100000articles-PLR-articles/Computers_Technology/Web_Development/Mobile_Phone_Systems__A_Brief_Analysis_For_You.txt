@@ -1,0 +1,42 @@
+Title: 
+Mobile Phone Systems: A Brief Analysis For You
+
+Word Count:
+500
+
+Summary:
+Why mobile phones sometimes become a challenge today? This happen mainly due to the existence of different incompatible mobile systems worldwide, which often mark out the entire region from others. That is, the technology on which a mobile network works totally differ from other.
+
+To say, by much delving into the technical aspects of each system, GSM, TDMA, CDMA, NMT, D-AMPS etc are the systems using which the mobile phones work and in most case, a mobile phone from a syste...
+
+
+Keywords:
+Mobile, Phone, Mobile Phone, Cell Phone, GSM, CDMA, Mobile Phone System
+
+
+Article Body:
+Why mobile phones sometimes become a challenge today? This happen mainly due to the existence of different incompatible mobile systems worldwide, which often mark out the entire region from others. That is, the technology on which a mobile network works totally differ from other.
+
+To say, by much delving into the technical aspects of each system, GSM, TDMA, CDMA, NMT, D-AMPS etc are the systems using which the mobile phones work and in most case, a mobile phone from a system is not supported in other. So what all are that systems and how do they exist together in this mobile world?
+
+Global System for Mobile Telephones (GSM)
+
+GSM is one of the few mobile phone system widely adopted worldwide. GSM system for mobile phones is used in nearly 200 countries, from Europe to all over the World.
+
+Technically said, the system utilizes the 900 MHz spectrum for its signals to travel over the air. GSM providers from Europe, Africa, and Asia later added additional spectrum of 1800 MHz. However, in North America, GSM service operates at 800 MHz or 1900 MHz.
+
+The good news here for the world travelers is that most manufacturers offer Dual-band (900 and 1900 MHz), Tri-band (900, 1800 and 1900 MHz) and also Quad-band (800, 900, 1800 and 1900 MHz) mobile phones that these phones can be practically used anywhere the GSM systems are installed. But, countries like South Korea and Japan does not use GSM system for their mobile phone services. A mobile phone with tri-band should be one that global travelers should have to make them available for international roaming agreements from various GSM carriers worldwide.
+
+To add, this system provides excellent coverage and even in some cities, it is used in moving subway trains after modifying some mobile arrangements. GSM is an innovative system that allows you faxing and SMS (short messaging service). So you can receive flight updates and breaking news alerts over your mobile phone instantly.
+
+Time Division Multiple Access (TDMA)
+
+TDMA was the first wireless digital network extensively used in the US. The system still makes the core of major US wireless networks and only in recent day network providers are converting some of their bandwidths to GSM 1900. Very few other regions in the World other than the US use this system. But future estimations show that the escalating growth of GSM and CDMA systems in the US will put an end of TDMA system.
+
+Code Division Multiple Access (CDMA)
+
+Developed by QualComm, is the competitor to TDMA in the US. There are now wide adopted CDMA systems installed elsewhere in the world. This system offers international roaming capability similar to that of GSM. One most important side of CDMA is that it is more efficient than GSM in a few aspects. But in practice, GSM has been widely used and have rich features than that of CDMA.
+
+However, few other systems exist in some other parts of the world but are technically obsolete. Out of as many mobile systems, GSM and CDMA are those that have established themselves and are egressing further.
+
+

@@ -1,0 +1,50 @@
+Title: 
+Cisco CCNP / BSCI Certification:  The BGP Attribute “MED”
+
+Word Count:
+375
+
+Summary:
+To pass the BSCI exam and earn your CCNP certification, you’ve got to master the BGP attributes.  Learn how and why to use the MED attribute in this free tutorial from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccnp, certification, bsci, exam, pass, bgp, attribute, med, ccna, neighbor, route, map, weight, local, preference, metric
+
+
+Article Body:
+When you're preparing to pass the BSCI exam and earn your CCNP certification, one of the biggest challenges is learning BGP.  BGP is totally different from any protocol you learned to earn your CCNA certification, and one of the differences is that BGP uses path attributes to favor one path over another when multiple paths to or from a destination exist.
+
+Notice I said "to or from".  In earlier free BGP tutorials, I discussed the BGP attributes "weight" and "local preference".  These attributes are used to favor one path to a destination over another; for example, if BGP AS 100 has two paths to a destination in AS 200, these two attributes can be set in AS 100 to favor one path over another.  But what if AS 100 wants to inform the routers in AS 200 as to which path it should use to reach a given destination in AS 100?
+
+That's where the BGP attribute "Multi-Exit Discriminator", or MED, comes in.  The MED value can be set in AS 100 to tell AS 200 which path it should use to reach a given network in AS 100.
+
+As with many BGP attributes, the MED can be set with a route-map.  What you need to watch is that there is no "set med" value in route maps.  To change the MED of a path, you need to change the metric of that path.  Let's say that there are two entry paths for AS 200 to use to reach destinations in AS 100.  You want AS 200 to use the 100.1.1.0/24 path over the 100.2.2.0/24 path.  First, identify the two paths with two separate ACLs.
+
+R1(config)#access-list 22 permit 100.1.1.0 0.0.0.255
+
+R1(config)#access-list 23 permit 100.2.2.0 0.0.0.255
+
+Next, write a route-map that assigns a lower metric to the more-desirable path.
+
+R1(config)#route-map PREFER_PATH permit 10
+
+R1(config-route-map)#match ip address 22
+
+R1(config-route-map)#set metric 100
+
+R1(config-route-map)#route-map PREFER_PATH permit 20
+
+R1(config-route-map)#match ip address 23
+
+R1(config-route-map)#set metric 250
+
+Finally, apply the route-map to the neighbor or neighbors.
+
+R1(config-route-map)#router bgp 100
+
+R1(config-router)#neighbor 22.2.2.2 route-map PREFER_PATH out
+
+The key points to keep in mind is that while many BGP attributes prefer a higher value, the MED is basically an external metric - and a lower metric is preferred, just as with the protocols you've already studied to earn your CCNA certification.
+
+

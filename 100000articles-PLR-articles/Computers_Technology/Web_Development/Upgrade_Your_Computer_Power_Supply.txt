@@ -1,0 +1,48 @@
+Title: 
+Upgrade Your Computer Power Supply
+
+Word Count:
+835
+
+Summary:
+The power supply to a computer is often the most underappreciated component of a computer and can well be a key to better, faster and smoother computer speeds of your computer.
+
+But who ever thinks of that silver box tucked away in the back of your computer?
+
+Most people simply have the power supply that came installed in their computer. If it ever overheats and breaks down, stopping their computer from starting dead cold, that is the only time most computer users ever th...
+
+
+Keywords:
+computer,buy,upgrade,power,supply,linux,ubuntu,badger,learn
+
+
+Article Body:
+The power supply to a computer is often the most underappreciated component of a computer and can well be a key to better, faster and smoother computer speeds of your computer.
+
+But who ever thinks of that silver box tucked away in the back of your computer?
+
+Most people simply have the power supply that came installed in their computer. If it ever overheats and breaks down, stopping their computer from starting dead cold, that is the only time most computer users ever think of, replace or upgrade their computer.
+
+Imagine if you had an erratic source of electricity to your home that was sparkly, erratic or underpowered. In the same way if the power supply is an inexpensive one it may be erratic in its power output. You may well have upgraded your computer – added drives , added a second cd/dvd reader or burner, a new powerful video card , or a number of external USB devices – whether they be mice, keyboards , external drives powered by the USB port alone , and never thought that you were taxing your limited amperage power supply. All of this extra power usage by these new components that you have added to your computer without thinking of the consequences on your already stretched power supply can both dampen your computer performance and shorten the life of your power supply.
+
+How is computer power supplies rated? Computer power supplies are usually rated by amperage. However this is a peak amperage measurement. This can be of a most optimistic rating. Late in the day – a couple of technicians overseas snap one or two of the better examples of their factories workmanship onto a load meter. They snap on the power briefly and note – did you see that – 500 watts. I’m sure I saw 500 watts says technician number 2 and even 3 and they mark the test results down. And if the numbers do not jive absolutely it can always be blamed on batch consistency or even a different group of products. For after all isn’t it a test of average load of a number of transformers.
+
+Everything in life as they say comes down to practical logistics.
+
+Most of the mass market computer that you will find in big box stores etc is mass produced. This has advantages of low cost and easy repair at the factory. The product has been set up and tested. If there is a problem with the computer it can be easily fixed, in, most cases with a simple swap of components at the factory. The computer model and its common problems and fixes are well known. The flip side is that the components have been carefully sought out, extensively tested and component quality shaved down to the bone.
+
+As a result you do not have a lot of leeway with power supply to any upgrades or simple USB hardware additions to your computer system. Thus it is a wise idea to replace your power supply.
+
+How can you judge which power supplies are better than others. First of all you can do a rough judgment by weight. The better power supplies will have a lot more copper metal in their transformer and will be much heavier. Inexpensive power supplies are very lightweight. You will notice the heavier weight of better power supplies immediately.
+
+Next the better power supplies will have higher wattage. 200 – 300 watts may be fine for older Pentium 2s and 3s; newer computers may well need a minimum of 350 – 400 watts or more. It is not only power in watts but the consistency that matters. The better power supplies will be marked with consistent power output levels on their markings. As well they may be marked as having dual or more channels, What this means is that there are two or more entirely separate power supply channels, Thus there will be one distinct channel of power for the motherboard and another for the peripherals. When a DVD drive comes on it the power supply to the motherboard will not diminish even for a second.
+
+Your computer speed will be smooooooooth.
+
+The last thing to note is either the amount of plug outputs and the amount fans built into the power supply. The better power supplies will have the luxury of providing lots of extra plugs – both for convenience, and the expandability their power supply offers.
+
+As well there may be extra fans to properly cool the better, more powerful power supplies. Even though there may be extra fans, the power supply over may be incredibly quiet due to the higher quality ball bearing based gearings and advanced sophisticated heat sensing power switching controls.
+
+The ac power supply of your computer may well be the most unappreciated taken for granted component of your computer. A better power supply can be one of the keys to increasing the speed and consistent performance of your computer especially as you upgrade your computer adds new components. Might be a good idea to invest in a new. High quality computer power supply.
+
+

@@ -1,0 +1,94 @@
+Title: 
+How To Resolve Cable,DSL,and Dialup Modem Problems
+
+Word Count:
+1005
+
+Summary:
+Read just what may cause your Internet connection to slow and other broadband problems.Learn the precedures you should follow to correct your computer not recognizing the modem, and what cause your modem to disconnect often from the Internet.
+
+
+Keywords:
+pc repair, computer training software, computer training, computer maintenance,pc tips,pc help,computers, pc training courses
+
+
+Article Body:
+Copyright 2006 Otis Cooper
+
+When it comes to diagnosing the modem and any other computer problem,always start with the most obvious first.Modem problems may be repaired as fast as re-booting the computer or can be as complex as resolving hardware conflicts.
+
+First remember to check for the most obvious signs of trouble,such as loose connections at the rear of the computer for external modems.
+
+Internal modems may have their retaining screw at the expansion slot loose are missing.Phone line connections may simply be inserted in the wrong connector.
+
+Nearly all internal modems are inserted into the PCI or Peripheral Component Interconnect slot in the system unit.
+
+
+
+NO POWER AT THE MODEM
+
+For Internal Modems,first try inserting the modem in a different PCI Slot.Reboot the computer and click on Start,Control Panel,and click the Phone And Modems icon if you have Windows XP as your operating system.
+
+Then click on modems,properties,and look for the statement "This Device Is Working Properly". You can click on Diagnostics and run a test to see if the modem has power as well.
+
+External modems can be checked for power by inspecting the adapter plug to see if it is plugged in completely.Look to see if any indicator lights flashing and be certain you are using the adapter for your modem.
+
+Be sure the surge protector or wall outlet is providing power by plugging in a lamp or a radio.If the radio works,the culprit may be the adapter or the external modem itself.
+
+If you purchased the modem in your town,you may have the chance to return to the store and ask the technician to test it with a known good power adapter.You can been replace either the adapter or modem.
+
+
+
+MODEM DISCONNECTS OFTEN
+
+If your modem,whether internal or external,is working but disconnects from the Internet very often,without warning,check to be sure your call waiting option is not enabled.
+
+Another culprit that cause this headache is line noise.This noise and interference can be caused by such things as loose wiring.
+
+Poor waterproofing,old wiring,worn phone jacks are some causes that will result in line noise. Make sure no other equipment is using the same line that your modem is on.
+
+Be sure other devices as your fax machine, answering machines or even security alarms are not sharing the same line as your modem.
+
+Other PCI devices may be causing conflicts with your modem.Clicking the Control Panel ,and clicking the modem icon will show the message "This Device Has A Problem" or somthing similar if there is a conflict.
+
+Windows will offer ways to resolve the conflict. Take the time to carefully follow instructions tocorrect any conflicts that may be present.
+
+Loose data lines for Internal modems and loose or damaged connectors for External modems can cause data lost as well.Visual check and double check these connections.
+
+
+
+MODEM IS PRESENT BUT WILL NOT WORK
+
+The external and internal modem must have device drivers installed before they will work. Bad or incorrect drivers can cause the modem to disconnect as well as not work at all
+
+If you noticed that the device driver was either missing or corrupt in the modem icon,follow the instructions to update the device driver.
+
+If some cases,you may have to completely remove the old modem from thw Windows Device Manager.
+
+Once it has been removed from Windows, reboot the computer and Windows will detect the modem and automatically re-installs the the device driver.
+
+If your modem came with an installation cdrom or diskette,use the software the disk rather than the one in Windows.
+
+Once you are up and running,the first thing you should do is to visit the modem's support web site and search for any software patches or updated drivers to download.
+
+COMMON BROADBAND PROBLEMS
+
+The most common high speed internet problems whether its dsl or cable connections are not being able to log on and poor signal.
+
+If the Cable modem often reboots,you should check to see if your signal indicator is strong.If the signal seems good,electronic signal from mobile phones and other devices nearby may be interfering with the signal.
+
+Stop and look behind the cable or dsl modem to see if the connections have worked themselves loose or have come off completely.Be sure the connections have not be damaged in any way.
+
+The modem is connected to an Ethernet card which will receive and send signals to the computer.Look at the rear of the card and see if the green indicator is on.If not,there is a problem with the card installation or the card may be faulty.
+
+If the ehthernet card in the computer become loose, your high speed Internet reception will be interruppted. Place a finger on the ethernet card and try to move it. If you can,open the system unit case and tighten the card.
+
+If the ethernet card has become loose,it may be a good idea to remove it and inspect the yellow contacts to be certain they are not dirty or damaged.Power will not transfer to the card should this be the case.
+
+Other causes may be the main wiring to the modem may be faulty.The vacuum cleaner or the power tools your son is using in the garage may be causing the problem as well.And we cannot omit the idea that the cable or dsl modem themselves may be faulty.
+
+While you're learning about your computer,understand the modem at every level and do so now while it is still in good operating order.Print or write down modem and all troubleshooting tips.
+
+Put these troubleshooting tips in a binder or at least in a safe place so you can refer to them should your PC fail to boot.Knowing about your computer takes time and effect but you be glad you took the time should your system goes on the blink.
+
+

@@ -1,0 +1,86 @@
+Title: 
+CCNA / CCNP Home Lab Tutorial:  The VLAN.DAT File
+
+Word Count:
+392
+
+Summary:
+CCNA and CCNP candidates are often confused about why VLANs and VTP information is still present on a switch after the configuration is erased.  Learn why this happens and how to really delete VLAN information in this free tutorial from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+ccna, ccnp, switch, vlan, vtp, vlan.dat, free, pass, exam, certification, icnd, intro, chris, Bryant
+
+
+Article Body:
+CCNA and CCNP candidates who have their own Cisco home labs often email me about an odd situation that occurs when they erase a switch's configuration.  Their startup configuration is gone, as they expect, but the VLAN and VTP information is still there!
+
+Sounds strange, doesn't it?   Let's look at an example.  On SW1, we run show vlan brief and see in this abbreviated output that there are three additional vlans in use:
+
+SW1#show vlan br
+
+
+10   VLAN0010                         active
+
+20   VLAN0020                         active
+
+30   VLAN0030                         active
+
+We want to totally erase the router's startup configuration, so we use the write erase command, confirm it, and reload without saving the running config:
+
+SW1#write erase
+
+Erasing the nvram filesystem will remove all configuration files! Continue? 
+
+[confirm]
+
+[OK]
+
+Erase of nvram: complete
+
+
+00:06:00: %SYS-7-NV_BLOCK_INIT: Initalized the geometry of nvram
+
+SW1#reload
+
+System configuration has been modified. Save? [yes/no]: n
+
+Proceed with reload? [confirm]
+
+The router reloads, and after exiting setup mode, we run show vlan brief again.  And even though the startup configuration was erased, the vlans are still there!
+
+Switch#show vlan br
+
+
+10   VLAN0010                         active
+
+20   VLAN0020                         active
+
+30   VLAN0030                         active
+
+The reason is that this vlan and VTP information is actually kept in the VLAN.DAT file in Flash memory, and the contents of Flash are kept on a reload.  The file has to be deleted manually.
+
+There's a little trick to deleting this file.  The switch will prompt you twice to ask if you really want to get rid of this file. Don't type "y" or "yes"; just accept the defaults by hitting the return key.  If you type "y", the router attempts to delete a file named "y", as shown here:
+
+Switch#delete vlan.dat
+
+Delete filename [vlan.dat]? y
+
+Delete flash:y? [confirm]
+
+%Error deleting flash:y (No such file or directory)
+
+
+
+Switch#delete vlan.dat
+
+Delete filename [vlan.dat]?
+
+Delete flash:vlan.dat? [confirm]
+
+
+Switch#
+
+The best way to prepare for CCNA and CCNP exam success is by working on real Cisco equipment, and by performing lab tasks over and over.  Repetition is the mother of skill, and by truly erasing your VLAN and VTP information by deleting the vlan.dat file from Flash, you'll be building your Cisco skills to the point where your CCNA and CCNP exam success is a certainty.
+
+

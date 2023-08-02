@@ -1,0 +1,34 @@
+Title: 
+Protect Your Computer From Malicious Intent
+
+Word Count:
+706
+
+Summary:
+It is a costly procedure to rid your computer of malware once it has invaded.  Learn about potential threats as well as the steps you can take to prevent such "infections".
+
+
+Keywords:
+computers, spyware, virus, adware, spam, 
+
+
+Article Body:
+There are many types of malware, malicious software designed to disrupt the normal use of your computer.  Some types of malware are simply nuisances to the one sitting behind the keyboard while others can actually harm or destroy the computer itself.  Another threat posed by malware is the invasion of your privacy and it has the potential to cause you considerable personal and/or financial harm.  Most types of malware get onto your computer via web browsing, instant messaging, or peer-to-peer file sharing.  Malware is a self-inflicted injury.  You do it to yourself by using the Internet.  Many people use the following terms interchangeably but there are definite differences in the types of infections you can “catch” on your computer.
+
+SPYWARE -- Spyware is a program that has been downloaded, usually unbeknownst to you, because it can be piggy-backed with some other type of desired program, usually freeware or shareware.  Once this spyware is secretly installed on your computer it can do such things as change computer settings, track viewed websites, collect passwords, history and private information, and can even record your keystrokes.  This information is then sent back to the program’s originator or to a third party.  Spyware is extremely difficult to eradicate.    
+
+A particularly annoying type of spyware is called adware which generates a tremendous amount of advertising in the form of pop-up advertisements or banners scrolling across your screen.  This program can actually track your activities and cause similar ads to pop up hoping to interest you in related products.  It can be quite intrusive and distracting but hardly as malicious as other types of spyware.
+
+VIRUSES -- A computer virus, also rides on the coat-tails of other programs when downloaded, and can reproduce and run itself when the host program is executed.   It can infect and corrupt files and sometimes causes hard drives to ‘crash’ depending on its design.  A virus can infect other computers through the sending of email and/or file exchanges.
+
+WORM -- A worm is a self-contained program that can replicate itself and uses a network to infect other systems on your computer.  Depending on how the worm was designed, it can secretly send documents though email and even delete necessary files.  Unlike a virus which causes harm to the computer and its files, a worm causes harm to other computers on the network and consumes bandwidth, thus slowing down your environment.
+
+SPAM -- Spam is electronic junk mail, usually unsolicited.  It uses up tremendous amounts of network bandwidth.  Spam is usually trying to sell you some product or service and is sent to generated mailing lists and newsgroups.  Though it cannot cause you or your computer much harm, it is extremely annoying and time consuming to delete.  It is estimated that more than 60% of all email on the internet is spam.
+
+WHAT CAN YOU DO? -- Visiting Geeks technicians strongly urge all owners to install an anti-virus software program on their computers.  We also recommend at least one anti-spyware program, if not more than one.  Depending on Internet usage, you should set both programs to automatically scan on a regular basis.  These programs can actually find and remove unwanted “infections” and can also prevent their future installations.  It isn’t enough, however, to simply install these programs and think yourself entirely protected thereafter, because new spyware and viruses are constantly being designed.  You must update your anti-spyware and anti-virus programs daily in order to pick up on these newest threats.  
+
+Though no one program can be relied on to keep your computer completely clear of sypware and viruses, there are many reputable anti-spyware and anti-virus programs available on today’s market.  When our customers need an anti-spyware program our technicians install Counter Spy by Sunbelt Software.  For those customers with no anti-virus we will install PC-Cillin Internet Security by Trend Micro which even has the added benefit of Parental Control Features.
+
+It is much easier to prevent your computer from being infected with these above-mentioned malware than it is to try to get rid of them, so browse the internet wisely.  To clean a computer of unwanted spyware and viruses can be a costly and lengthy process.  “An ounce of prevention is worth a pound of cure,” so the saying goes.
+
+

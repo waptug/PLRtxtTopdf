@@ -1,0 +1,60 @@
+Title: 
+What is a torrent file and how does it work?
+
+Word Count:
+919
+
+Summary:
+A torrent file is the file that is transferred among users using the torrent technology. The file extension used by torrent files is .torrent. Torrent files, when added into a torrent application, can be distributed among numerous amounts of people without the need of any major hardware costs and server fees on a particular individual.
+
+
+Keywords:
+torrent file, download, share
+
+
+Article Body:
+A torrent file is the file that is transferred among users using the torrent technology. The file extension used by torrent files is .torrent. Torrent files, when added into a torrent application, can be distributed among numerous amounts of people without the need of any major hardware costs and server fees on a particular individual. This is because each user supplies bits of the full torrent file to users without those particular bits, while receiving bits that they do not yet have. Therefore, torrent files can also be shared relatively quickly.
+
+
+History
+Torrent technology was first planned and developed by Bram Cohen in April 2001.  After months of development, it first went public in 2 July, 2001. Today, Cohen’s technology is widely used. Although there are no specific measurements, it is considered as one of the most significantly used protocols in the Internet today.
+
+
+Behind the Technology
+The torrent technology is operated by a torrent client sending bits of the torrent file through a torrent protocol. A torrent client would be for example a personal computer while the torrent file can be of any file in the .torrent format.
+
+For the sharing to begin, first a user must create a .torrent file (eg. File.torrent). A torrent file contains information, such as the tracker, the main computer distributing the file first, and the metadata, information about the files in the torrent file. People wishing to obtain the information must first download the torrent file (in this case, File.torrent), run it with their torrent application, and then connect with the tracker, which will give orders on where to download what bits of the torrent file.
+
+
+Torrent Files vs. HTTP Files
+Although torrent files and its sharing are technically a transfer of files over the network, it has its strengths compared to the old-school HTTP downloading style. Firstly, when downloading files, web browsers will make one HTTP GET request through one TCP socket. However, torrent files make numerous amounts of small data requests over many TCP sockets. Also, HTTP will download in an order—what is first will be downloaded first; however torrents download in a random way—whatever is of high availability will be downloaded first.
+
+This is exactly why the torrent files have its strengths; it doesn’t need much financial back, it has a higher redundancy, and a better resistance to potential abuse from flash crowds than what would be a frequent thing with HTTPs. However, as with everything, there is a downside. It takes a bit of time for downloads to be running in full throttle, as connecting to other peers can tae time. Also, becoming an effective uploader also takes time. Not to forget, while torrent file downloading will reach immensely high speeds, the speed will eventually fall near the end of the download as availability of the bits of the torrent file decrease.
+
+
+Sharing Torrents and Files
+First a user browses through the Internet looking for torrent files. Once a torrent file is obtained, the user will connect it through a torrent application and connect with the tracker. Then, the user will begin to download off of seeders and a group of peers known as the “swarm.” If there is one seeder, the user will directly connect to that seeder and begin to download, but eventually start to exchange files with other peers too, which lessens the burden on the seeder.
+
+
+Applications of Torrent Files
+Surprisingly, torrent files are widely used today by many individuals and some corporations.
+&#61548;	Some bands like “Ween” uses torrent files to distribute their free albums
+&#61548;	.torrent files are increasingly used by Podcasters to meet the high demands of these radio MP3s
+&#61548;	The game America’s Army uses torrent files to release their updates and patches for the games
+&#61548;	An immense number of open source and free softwares utilize torrent files to increase availability and awareness of the projects
+
+
+Torrent Files’ Limitations
+Although torrent files seem to be another great way to download and share files, it has some limitations such as security issues.
+&#61548;	IP Address Exposed: The use of torrent files can lead to anonymity issues, as all IP addresses of current and potentially previous swarm users can be found and abused
+&#61548;	Internet Speeds: It is best to use broadband when sharing torrent files, so dial-up users cannot take full advantage of the torrent technology
+&#61548;	Leeching Problem: While sharing torrent files is good, it doesn’t have many incentives behind it. Thus, there is no real reason to continue to seed after the download has finished. To fix this issue, some torrent sites have begun to limit the download speeds of users who do not upload often.
+
+
+Free Torrent Applications to Download Torrent Files
+In today’s market there are both quality free open source and paid products to download torrent files.
+&#61548;	BitTorrent: BitTorrent is the first and official torrent client made by Bram Cohen himself. It is supported in major operating systems such as Microsoft Windows, Apple, and Linux.
+&#61548;	Azuerus (Vuze): This is also a widely used torrent client first released in SourceForge in June 2003. Released under the GNU General Public License, Azuerus is a constantly developed, free client.
+&#61548;	µTorrent (uTorrent): uTorrent, also known as microTorrent, is a torrent client written in C++. Because of its small size but a powerful interface, it is another widely used free torrent client. It was first released on December 7, 2006 between BitTorrent, Inc. and Ludvig Strigeus, but was later fully acquired by BitTorrent, Inc. because of the application’s popularity, size, and power.
+
+

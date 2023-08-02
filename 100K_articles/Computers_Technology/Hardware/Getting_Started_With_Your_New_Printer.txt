@@ -1,0 +1,66 @@
+Title: 
+Getting Started With Your New Printer
+
+Word Count:
+1039
+
+Summary:
+If you have recently bought yourself a new printer, follow the directions in the manual for setting up cables. Put the installation CD into the CD drive and follow the set up instructions.
+
+
+Keywords:
+CD drive, Windows XP, printer, USB connection, Hewlett Packard, Canon, Epson, Lexmark
+
+
+Article Body:
+If you have recently bought yourself a new printer, follow the directions in the manual for setting up cables. Put the installation CD into the CD drive and follow the set up instructions. 
+
+If you are using Windows 95/98, select Start Menu, then select Printers. Now select Add Printer, select Local Printer. Choose your printer (If your printer is not listed, choose the one closest to yours and select OK).
+
+For the Mac, select go to server, (or chooser) and then select printer. Then choose your printer. (If your printer is not listed, then select the closest one.) Then select install. 
+If you are using Windows XP, then the PC will prompt you for the drivers and install the relevant one from the CD itself (if the appropriate driver is not in the database already).
+
+If you have any problems printing, first check your cable connections. If you get repeated error messages, then reboot your computer and redo the steps above.
+If you would like to upgrade the driver of your currently installed printed, then follow the steps given in the next sub-topic.
+
+Installing Printer Drivers 
+A printer driver is a piece of software that allows the computer to communicate with the printer. Without this software, the printer would be hopelessly lost since it does not speak the same language! Printer manufacturers often update the drivers and these they can be easily downloaded form the company’s website for free. It is a good idea to keep a check on your printer driver version and upgrade if it is too far out of date.
+Here is how you can check your print driver version number:
+Windows XP
+
+1. Click the Windows Start button, choose Control Panel, and then choose ‘Printers and Faxes.’
+2. Right-click your default printer and choose Properties. (Your default printer will have a checkmark within a black circle above the printer icon.)
+3. Click the General tab, click the ‘Print Test Page’ button, and then click OK to print the test page. 
+Windows 95/98
+
+1. Click the Windows Start button, choose Settings, and then Printers.
+2. Right-click your default printer and choose Properties. (Your default printer will have a checkmark within a black circle above the printer icon.)
+3. Click the General tab, click the ‘Print Test Page’ button, and then click OK to print the test page. 
+
+Look on the test page for Driver Version.
+All major printer manufactures have web sites that allow you to freely download their printer drivers. To do so, you will need your printer’s manufacturer and model number. When you go to the web site, look for words such as ‘Downloads’, ‘Drivers’, ‘Software’, or ‘Support’ and shortlist your model.
+Given below are the website URLs for the popular brands:
+Hewlett Packard  — http://welcome.hp.com/country/uk/en/support.html?pageDisplay=drivers
+Canon — http://software.canon-europe.com/
+Epson — http://emeasupport.epson-europe.com/downloads.aspx?LNG=en-EU
+Lexmark — http://support.lexmark.com/cgi-perl/selections.cgi?ccs=227:5:0:0:0:0&target=http://downloads.lexmark.com/cgi-perl/downloads.cgi&&req=:::::
+Xerox — http://www.support.xerox.com/go/prodselect.asp?Xlang=en_GB&metrics=HDR
+Brother — http://www.brother.com/E-ftp/info/index_eu.html
+Troubleshooting Printer Problems
+In this section, you’ll find some of the more common problems that cause 45 percent of the help centre phone calls.
+If nothing has occurred since the last time you used your printer, chances are the problem is quite straightforward. As obvious as it sounds, check to ensure that the printer is turned on. It is quite possible that somebody might have turned it off while you were away from your desk or computer. Make sure the printed is connected properly and there is power to the printer. All printers have some kind of LED that lets you know if it is powered up.
+
+If the printer is turned on but has some flashing lights, then check with your owner’s manual to see what the lights mean. Most of these indicators will be related either to paper, ink, or toner.
+
+Make sure there is enough paper in the printer. Refill the paper tray if it’s empty. Make sure you ‘fan’ the paper stack before putting it in the printer. When the paper stack is cut and packed at the factory, it sometimes causes the pages to stick together. Fanning the paper simply involves flipping through the paper stack with your thumb. This ruffling separates the paper, thereby reducing paper jams. 
+
+If the paper is stacked well, then check for a mis-feed or paper jam. Remove the paper stack and check the feed area for jammed paper. You may have to open several panels to make a thorough examination. Even a small piece of paper stuck inside the printer can cause problems. You might have to use tweezers to remove small pieces. Be careful of any contact of the tweezers with printer parts to avoid any damage. 
+
+If everything listed above is in place, then check the wire that connects the printer to the computer. You may be using a parallel or a USB connection. Make sure the cable is connected properly. Turn the equipment off and remove and re-insert the connection on both the printer and the computer to ensure a solid connection. If you are at work and your printer is connected to what appears to be a telephone wire, then you should call your resident network expert.
+
+If the printer is functioning but only seems to print illegible garbage, then that is a good indication of a printer driver problem. Try re-booting the computer and turning the printer off and on before making any changes to the driver. If after re-booting you still have the problem, it's probably time to replace the printer driver. You can download the driver from the website URLs listed earlier in this articles. Follow the instructions given by the manufacturer to install your driver.
+Scanner can also sometimes interfere with printers. Try re-installing the software for both but install the printer driver first, and the scanner driver afterwards. 
+
+If nothing listed above results in a solution, then perhaps it might be time to call the printer manufacturer. Make sure that you are near the printer when you call and have all your warranty information available at hand.
+
+

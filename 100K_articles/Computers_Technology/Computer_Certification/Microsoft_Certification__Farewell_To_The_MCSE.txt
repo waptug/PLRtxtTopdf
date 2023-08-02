@@ -1,0 +1,26 @@
+Title: 
+Microsoft Certification: Farewell To The MCSE
+
+Word Count:
+313
+
+Summary:
+Microsoft has announced major changes to its certification track, including the eventual retirement of the MCSE.  Learn about these important details from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Mcse, Microsoft, certification, windows, 2000, server, track, updated, exams, nt, professional, cisco, ccna, ccnp, bsci, exam, free, tutorial
+
+
+Article Body:
+Microsoft is in the middle of a major push to overhaul its certification program.  Last year, they announced the new Microsoft Certified Architect (MCA) certification, which is not a written exam but rather a practical exam that will be graded by a board of examiners.  Just applying for the certification will require 10 years' experience in IT as well as three years of practical experience as a network architect.
+
+For those of us not quite ready for that, Microsoft has announced that it's also going to revise other certifications.  The MCSE that we've all come to know and love is going to be a thing of the past.  In its place will be a series of specialization exams and IP Professional certification tracks.
+
+If you're currently an MCSE or working it, don't worry, you have plenty of time to adapt to the new tracks.  Microsoft's official word is that the new certification structure will be implemented when the next Windows server/client version is released.  For those holding MCDBAs, your current certification will remain valid and you'll have a chance to upgrade to the new certification with SQL Server 2005.  
+
+Those of us who have been on the certification track for a while remember the outcry when Microsoft planned to phase out the much-maligned NT 4.0 certification in the move to Windows 2000.  There was quite an outcry from many certified individuals who felt MS was being unreasonable in their timetable and planned lack of support for the 4.0 certification.  Whether you agree with Microsoft's planned changes,  I urge you to visit Microsoft's certification site regularly to keep up with these changes.  
+
+Whether you choose to pursue any of these new tracks is your decision, but you owe it to yourself and your career to know about the new tracks.  Change is inevitable in IT and the IT certification world, and you must be aware of these changes!
+
+

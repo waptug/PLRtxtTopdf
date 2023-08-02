@@ -1,0 +1,27 @@
+Title: 
+What is Active X?
+
+Word Count:
+342
+
+Summary:
+Active X is a software technology that was released by Microsoft; basically this technology allows content or programmed capabilities to be sent from the web to a Microsoft Window's computer.
+
+
+Keywords:
+ActiveX, Active X
+
+
+Article Body:
+Active X is a software technology that was released by Microsoft; basically this technology allows content or programmed capabilities to be sent from the web to a Microsoft Window's computer.
+
+Active X in its earlier form was OLE and COM technologies. OLE stands for Object Linking and Embedding and COM stands for Component Object Model. Active X was primarily developed so that end users on MS Windows computers can interact with content and link files such as MS Word Documents or Excel spreadsheet documents from a computer to the web with ease.
+
+In this case, an internet browser visiting a website with Active X would be able to view a Word or Excel document directly in their web browser. Unfortunately Active X was created with poor security features and lacked even basic security controls. For this reason many computer security experts discouraged its use.
+OLE (Object Linking and Embedding)
+
+OLE allows an object from one application; let's say a MS Excel table to be embedded into another application- a MS Word Document. In this specific situation, the MS Excel table becomes an object, it is then cut or copied and pasted directly into the MS Word document and saved. OLE allows a user or group of users to work on separate parts of a master file and then quickly compound it or put it all together.
+
+Microsoft renamed OLE, calling it Active X in 1996. In 2005, Microsoft has dropped its support for Active X primarily due to a loss in a patent lawsuit. This means that in newer editions of IE web browser, end users will no longer be able to interact with Active X without first activating it. For instance, many media files such as Flash, QuickTime, etc must first be activated. Before, you can usually roll over a media item with your mouse or open a page in your web browser to start active X, now you must first directly interact with the media object and for instance click the item to start a file or to interact with its properties.
+
+

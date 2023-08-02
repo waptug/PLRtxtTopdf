@@ -1,0 +1,46 @@
+Title: 
+Best Methods To Backup Files
+
+Word Count:
+661
+
+Summary:
+As much as every computer wants to deny the inevitable, your data is only as secure as your backups.  Every hard drive is eventually going to fail (and malicious software frequently targets data files), and you will lose years’ worth of files, documents, programs, and all other information that you have kept and stored in your computer unless you have a good backup.  Following are some of the best methods of data backup that you can use.
+
+Internal Backup, One Disk
+
+For a ...
+
+
+Keywords:
+backup,backup files,storage,hard drives
+
+
+Article Body:
+As much as every computer wants to deny the inevitable, your data is only as secure as your backups.  Every hard drive is eventually going to fail (and malicious software frequently targets data files), and you will lose years’ worth of files, documents, programs, and all other information that you have kept and stored in your computer unless you have a good backup.  Following are some of the best methods of data backup that you can use.
+
+Internal Backup, One Disk
+
+For a particularly large hard drive, the hard disk can be partitioned so that one partition may be used as a repository of backup data.  For this type of backup, you can use automatic backup software, which will do daily backups of data you have specified or a full backup of your active partitions.  You can also manually copy your files from your active drive partition to your backup drive partition as long as you do this regularly.  This is one of the least advisable forms of backup out there, because the backup partition becomes as useless as the main partition if your hard drive ever crashes.
+
+Internal Backup, Multiple Disks
+
+You can also set up another hard drive for backup within your computer.  This hard drive is a separate entity from your active hard drive, so it presents greater protection and data security in case your active hard drive is corrupted.  In this case, you can use the methods listed above, or you can use a technology known as RAID 1 to create a mirror image of one hard drive on the other hard drive.  The advantage of RAID 1 is that your data is completely safe if you suffer a hard drive crash, but this will not protect you from a virus or spyware infection, as the infection will be written to the backup drive right along with the good data.
+
+On Site, External Backup
+
+A more secure form of backup, external backups allow you to backup your files using external storage media like USB hard drives, CD-R(W)s, DVD-R(W)s, and high-capacity flash drives.  Flash drives and external hard drives can be conveniently connected to your computer’s USB port when it is time to back up your files.  For backing up with CDs and DVDs, you will need a CD or DVD writer, respectively.  For any of these backup methods, you can still use backup tools that sometimes come with the backup data storage media.
+
+Another method for on site external backup is using network servers in the same office building or workspace dedicated to backing up data for the whole network.  This backup method can be done automatically if the network administrator has set it up for individual clients.  The network administrator can also do this manually, or each user can do his or her own data backup manually.
+
+Off Site, External Backup
+
+The key to this method is backing up data and storing the backup data storage device somewhere else.  This type of backup method is done to protect not only from drive failures but also from catastrophes like fire, flood and earthquake.
+
+Off site backup allows you to backup your files on a web-based server located far from your own physical location.  You can also store backup data in discs and external drives which will be kept in a data storage vault that is physically located in a different building, city, state, or even country.  There is no backup more secure than an external backup, but web servers can be expensive, so you may want to simply use your on site backup media and carry them home (or even store them in a safety deposit box).  This still allows you to have a full backup without the hassle and cost of using a web server for your backups.
+
+This article may be republished freely as long as this copyright notice and box of resource links are included at the bottom.
+
+Copyright © 2007 MALIBAL, lLc
+
+

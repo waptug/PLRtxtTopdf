@@ -1,0 +1,54 @@
+Title: 
+14 Tips For Writing An Effective Online Survey
+
+Word Count:
+794
+
+Summary:
+Developing a useful, well-written online survey that extracts the information you need from your users can be a challenge. In this article, I will review 14 tips for creating a useful online survey.
+
+1) Write a brief, concise survey. Start with a mental framework that focuses on only what is essential to know. Ask questions only if the answers will give you the data you need and can use. If a question is not important enough to include in your report on the survey’s finding...
+
+
+Keywords:
+online surveys, e-learning solutions, elearning solutions, lms, learning managment systems
+
+
+Article Body:
+Developing a useful, well-written online survey that extracts the information you need from your users can be a challenge. In this article, I will review 14 tips for creating a useful online survey.
+
+1) Write a brief, concise survey. Start with a mental framework that focuses on only what is essential to know. Ask questions only if the answers will give you the data you need and can use. If a question is not important enough to include in your report on the survey’s findings, then remove the question. Try to envision each question as its own specific theory that you are testing.
+
+In addition, research has shown that people skim and skip on the web because it is difficult to read lots of heavily condensed text on a computer screen. Most users do not want to scroll through a long page of text, so your online survey completion rate will be higher if the survey is short and succinct.
+
+2) Try to begin the survey with interesting questions. Interesting questions will inspire the respondent to keep reading and complete the survey.
+
+3) Develop questions with answers in the proper format for your purposes. For example, if you believe your students need more time to complete the questions in your lesson, ask, “How long did it take you to complete the unit and accompanying questions?” with various time intervals as possible answers. This is better than asking, “Do you need more time to finish the unit and accompanying questions?” with yes or no as possible responses.
+
+4) Plan ahead of time how you and your company will analyze the information before you send out the final version of the survey. This may affect your questions and format when you realize that the statistical analysis you need to perform cannot be done with these particular question results.
+
+5) Use the simplest language possible and respect the respondent’s dignity when constructing questions. Your survey respondents will undoubtedly come from many different groups, and more often than not, are less expert in the field than you are.
+
+6) Use neutral language. The online survey is being developed to find out what your audience thinks and is not a forum for you to air your perceptions or opinions.
+
+7) Relax your grammar a bit so your questions do not sound too formal. For instance, the word “who” is often acceptable when “whom” is technically correct.
+
+8) Be sure to ask only one question at a time and put them in a logical order. Questions like “If you scored less than 70% on the test and you have taken the test another time previous to this, what do you think would help you receive an 80% or above the next time you take the test?” will be difficult for respondents to answer and even more challenging for you to interpret.
+
+9) Avoid double negatives, difficult concepts, and specific recall questions. Respondents are easily perplexed when trying to interpret the meaning of a question that uses double negatives. Respondents can also become quickly overwhelmed and lose detail of events or circumstances that are farther back in time. Most importantly, if the survey is too complex and/or difficult to fill out, respondents won’t complete it!
+
+10) Try to use more closed-ended questions, with no more than one or two open-ended questions. Respondents usually have a better understanding of closed-ended questions because they are more straightforward and offer responses they can choose from.
+
+Open-ended questions require a written response. An excessive number of open-ended questions can wear down the respondent and reduce the quality of the answers they provide.
+
+11) Scaled response questions should have answers that are at balanced, comparable intervals. For example, offering choices of excellent, very good, good, and terrible would cause you to miss important information in between the values of good and terrible.
+
+12) Whenever possible, responses should be developed as discrete amounts instead of general statements of quantities, with specific options from which to choose. It’s better to ask, “How many times a month do you go to the movies?” “0”, “1 to 3 times a month”, “3 to 5 times a month or more”, instead of “How often do you go to movies?” “almost never”, “one and a while”, “I am there at least once a week”, etc.
+
+13) Name your survey and write a brief introduction. Providing a survey name and a brief introduction are good ways to give your respondents some background and a frame of reference. It also prepares them for what is to come.
+
+14) Craft a well-written subject line for the email you send with the survey to capture your respondents’ attention.
+
+While not exhaustive, the points listed above are enough to get you started in the right direction. In summary, a well-written online survey has higher completion rates and is an effective method for gathering information.
+
+

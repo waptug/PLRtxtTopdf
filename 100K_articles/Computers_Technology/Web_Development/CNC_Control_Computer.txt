@@ -1,0 +1,36 @@
+Title: 
+CNC Control Computer
+
+Word Count:
+523
+
+Summary:
+The Control Computer generally resides in the shop somewhere near the CNC machine it is controlling. Control Computers don’t have to be the top of the line, every bell and whistle type of computer. These are the workhorses. Save your money for a good design computer. You will save much more time having a fast computer for your designing.
+
+A control computer doesn’t have to be that powerful for a few good reasons. It doesn’t have the workload. It takes G-Code and turns it in...
+
+
+Keywords:
+CNC,  CNC  Machine, CNC Programming
+
+
+Article Body:
+The Control Computer generally resides in the shop somewhere near the CNC machine it is controlling. Control Computers don’t have to be the top of the line, every bell and whistle type of computer. These are the workhorses. Save your money for a good design computer. You will save much more time having a fast computer for your designing.
+
+A control computer doesn’t have to be that powerful for a few good reasons. It doesn’t have the workload. It takes G-Code and turns it into signals that it transmits to the Machine Controller. Turning G-Code into signals is not that labor intensive for a computer.
+
+I have used multiple types of control computers. Everything from a 486 DOS running “$30 special” to a modern Dell with Windows XP. I have yet to try one with Vista. I will keep you posted. Generally I like to find a good used computer for a couple hundred bucks, wipe the hard drive and only load the control software onto the machine. That way you know what you have.
+
+There is another good reason you don’t want to spend a lot of money here. This computer will usually be located in the shop. Dirt will be located in your shop. Using logic here, dirt will be located in your computer. If the computer does go belly up, you aren’t out your children’s college tuition.
+
+Here is my strategy in a nutshell for Control Computers. The dirtier the job, the less money I spend on the computer. My plasma cutting computers are bought in the $40 range. They eat a lot of dust and dirt. I blow them out frequently. My wood routing computers are in the $100 dollar range. My milling machine computers usually are in the $200 range. Truth be told, they all last a very long time if you keep dirt, dust and plasma smoke out of them.
+
+How is the CNC Control Computer used?
+
+The control computer has the control software loaded on it. You start up the control software then load up the CNC Program you created. When you do this, the G-Code will be visible and ready to go. Once you prep your CNC Machine and zero it out, you can begin your “cycle.” A cycle is usually completing one CNC Program, which is a machining sequence. You will also hear the term “Cycle Time” on the professional side of CNC a lot more. The quicker you can get the cycle time, the more parts you can make. And yes, that translates to more money.
+
+Back in the good old days of Home CNC, everything was transferred on a disk. Now I have seen people include their Control Computers on their home computer network and transfer the files needed wirelessly. At a very minimum, get a good jump drive and transfer things back and forth that way.
+
+CNC has become a very popular hobby and more and more people are starting to hop on the band wagon of CNC. Its a fun hobby and easy to do from your very own home with just a little elbow grease and creative mind.
+
+

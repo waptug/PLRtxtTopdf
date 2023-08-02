@@ -1,0 +1,86 @@
+Title: 
+How To Install Cable,DSL,Dialup Modems
+
+Word Count:
+852
+
+Summary:
+Learn how you connect a dialup modem into an empty expansion slot in your system unit.Learn about the right equipment needed to make a cable or DSL connection.Read about installing a cat5 cable and once connected,how to test your modem.
+
+
+Keywords:
+pc repair, computer training software, computer training, computer maintenance,pc tips,pc help,computers, pc training courses
+
+
+Article Body:
+Copyright 2006 Otis Cooper
+
+When you want to access the Internet,you want to have the fastest Modem connection possible.And the dialup modem will do if you want just email basic surfing.
+
+The faster cable or dsl are a must have for such internet downloads of large files,super faster web page access,and viewing videos online.
+
+Installing your new modem,whether its dialup,dsl, or cable,it can be a breeze when you both make the installation an education experience as well as having fun in the process.
+
+For this to happen,you must be prepared with the right equipment.High speed modems will need an ethernet card in most cases,for example.
+
+Let's take a deep down look at what it will take to get a new Internal or External modem up and running in your computer.
+
+While we're at it,we will see what it takes to install a cable or dsl modem as well.These modems are always external but will need a couple for parts in order to get that fast internet speed.
+
+
+
+CONNECT THE MODEM TO THE COMPUTER
+
+When installing your Modem,first right down the serial number for use should you need to contact technical support.
+
+External modems are connected to the computer with the RS232 cable.This cable is connected to the rear of the system at the serial port and the modem itself.Some modems will have this cable as a part of the modem.
+
+Internal modems are inserted in an expansion slot on the motherboard,unless its intergrated with the motherboard.
+
+Provide power to the external modem with the use of the adapter that with the modem.Internal modems get their power from the expansion slot right on the motherboard.
+
+After the modem has been installed,both the external and internal modem must be connected to the analog phone line.Plug one end of the phone cord to the jack labeled Line on the modem and the other into the phone jack.You can then connect your telephone to the phone jack on the modem.
+
+INSTALL MODEM SOFTWARE
+
+Now you can replace the system unit cover if you are installing an internal modem.And after all peripherals are re-connected to the computer, boot the computer.
+
+With external modems,simply turn the computer and modem on.See if the power indicator is on.
+
+If you have Windows 98 installed,insert the floppy disk or cdrom containing the device driver into the appropriate drive when the "add new hardware" screen appears.Follow the instructions on the disk to install the device driver.
+
+Be sure to read the modem install manual carefully to be sure all installation procedures were followed. Click on fininsh once Windows find and install the device driver.
+
+Users of Windows XP have an updated list of device drivers which may be present.Its best to use the disk when installing the software.
+
+TEST YOUR NEW MODEM
+
+The device driver allow your modem to talk to your computer.To see if the modem is working,click on Start,Settings,Control Panel,and click the Modems icon.
+
+Read the description of the modem to be sure it is the one you have.
+
+Windows XP users should click on Start,Control Panel,and click the Phone and Modems icon. Then click Modem,Properties,and Diagnostics. Run a Query Modem check to verify your modem is up and running.
+
+INSTALLING A CABLE OR DSL MODEM
+
+Cable Modems are external and are connected to the computer by a Cat5 Cable.This cables looks like a regular modem data cable but is larger.
+
+One end of the Cat5 Cable is inserted into the rear of the cable modem while the other end is inserted into a Network Interface Card.
+
+This NIC card must be installed in an empty adapter slot in the system unit and transfer data between the computer and modem.
+
+With the Cat5 cable connecting the modem and PC together,you must provide the Internet signal to the modem by connecting a coail cable to the modem.
+
+This cable provides high speed internet access and may use the same connection as your television. One end of the coaxial cable connects to the modem and the other is connected the cable TV connector.
+
+If the connection is being used by the TV,a cable adapter will split the signals and you can use one connector for both your TV and the Internet.
+
+DSL Modems also use the NIC card and Cat5 cable. Some DSL modem require device drivers and either a cdrom or diskette should come with the modem.
+
+Once you connect to the Internet with a cable or dsl modem,you'll most likely never go back to the slower dialup version.
+
+Onthe other hand,you just may want to keep your dialup modem once you realize just how much more you're going to invest when it comes to broadband Internet.
+
+Since the choice is yours,learn all you can about all modems,how they work,and how they connect to the world wide web.Your internet experience will grow by leaps and bounds if you do.
+
+

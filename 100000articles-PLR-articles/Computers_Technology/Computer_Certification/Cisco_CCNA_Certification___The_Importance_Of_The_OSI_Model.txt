@@ -1,0 +1,44 @@
+Title: 
+Cisco CCNA Certification:  The Importance Of The OSI Model
+
+Word Count:
+634
+
+Summary:
+Chris Bryant, CCIE #12933, tells CCNA candidates why they need to know the OSI model, and that it's not just for the exams!
+
+
+Keywords:
+ccna, ccnp, free, pass, exam, cisco, certification, computer, mcse, ccie, chris, bryant
+
+
+Article Body:
+There's nothing I enjoy more than teaching Cisco technologies, especially CCNA candidates.  Whether it's in-person or online, everyone's excited to be there.  There's a sense of anticipation in the air, and everyone is ready to work hard, get their hands on the racks of Cisco routers and switches I
+have available...
+
+... and then I break out the OSI model chart.   Chins slump.   People sigh, or at least wish they hadn't ordered decaf that morning.
+
+Okay, it's not that bad.  But it does temper the excitement a little.  I always get a sense of "why can't we just hurry up and get on the routers and switches? Why do we have to learn this dry stuff?"
+
+One reason is that Cisco demands you know the OSI model inside and out for both the Intro and ICND exams.  You have to admit that's a pretty good reason, but still, students find the OSI model information to be very dry.
+
+I understand that, because I've been there. My first exposure to the OSI model was actually in a Novell "Networking Technologies" class, and man, was that chart ever dry.   They crammed every known protocol (and some unknown ones, I think) into the OSI model.  It looked like a giant jigsaw puzzle, and the real problem is that I didn't know what the heck most of that stuff was.  
+
+So I dutifully attempted to memorize this massive chart.  I managed to pass the exam, but I wondered what all that effort had really been for. It's not like you sit around in a server room or wiring closet and discuss the OSI model.
+
+As a CCNA candidate, you don't have to worry about all the protocols I memorized way back when, but you do have to know what happens at each layer.  Which leads to this question:
+
+"If I work with routers and switches, why do I have to know about all the other layers?  Don't routers and switches just work at layer 2 and 3?"
+
+Yes, switches work at Layer 2 and routers at Layer 3.  But to truly understand networking, you've got to understand what happens at the other layers.  Why?
+
+Most network administrators and engineers are going to spend a lot more time troubleshooting than installing.  That's just the way it is.  And to troubleshoot effectively, you've got to know what's going on at all layers of the OSI model, not just layers 2 and 3.
+
+As someone who's done a lot of hiring and conducted a great many job interviews, I can tell you that the ability to troubleshoot is the number one quality I look for. That's why I tell CCNA and CCNP candidates that they've got to get all the hands-on practice they can while I understand the importance of theory, the only way to develop troubleshooting ability is to work on the real deal.  No simulator program
+is going to teach you how to troubleshoot.
+
+Additionally, the only way to truly develop your troubleshooting abilities is to know what's going on over the entire network, not just the routers and switches. Troubleshooting always starts at Layer 1 if you don't find a problem at the Physical layer, and everything's fine with your routers and switches, how are you going to continue troubleshooting if you don't know what the next steps are as data moves closer to the end user?
+
+So when it comes to the OSI model, don't just give it a quick once-over and move on to the fun stuff in your CCNA studies.  The tangible benefit of passing your exams is great, but it's the hidden benefit of developing your own troubleshooting methodology that makes mastering the OSI model worthwhile.
+
+

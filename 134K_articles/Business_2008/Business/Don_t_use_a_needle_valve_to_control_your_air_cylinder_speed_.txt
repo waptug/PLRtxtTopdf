@@ -1,0 +1,44 @@
+Title: 
+Don't use a needle valve to control your air cylinder speed!
+
+Word Count:
+688
+
+Summary:
+Many industrial machines using compressed air as an energy source, use air cylinders or other pneumatic actuators to do the actual work....
+
+
+Keywords:
+cylinder, air cylinder, cylinder speed, speed control, air compressors, compressed air, actuators, fittings, air valve
+
+
+Article Body:
+Many industrial machines using compressed air as an energy source, use air cylinders or other pneumatic actuators to do the actual work.
+
+Compressed air is 'explosive' as it moves from high pressure to low pressure on it's way back to atmosphere. That means when the air valve shifts and air flows to the cylinder, the cylinder piston and rod moves extremely quickly. A high speed cylinder rod may not be best for your application, and you will want to reduce the speed and the impact.
+
+One easy method of controlling the speed of an air cylinder is installing flow controls in the air lines between the valve to the air cylinder, in the cylinder ports themselves, or even in the exhaust ports of the air valve, though the latter is least desirable.
+
+In the 'valve exhaust' type flow control the controls themselves may be far enough away from the cylinder that the piston and rod may have traveled the full stroke before the exhaust flow control can start back-pressuring the line to slow the cylinder. Cylinder control reaction time is always negatively affected depending on the distance from the cylinder to the flow control.
+
+Some folks opt for needle valves to throttle the flow of air into and out of the air cylinder, thereby reducing it's speed. The problem with using a needle valve to control the speed of an air cylinder is that it throttles the compressed air flow equally in both directions.
+
+If you are using a larger cylinder, by throttling the air into the cylinder, you are actually preventing the smooth cylinder stroke desired. As air pressure builds in the cylinder it will reach the point where it overcomes the friction of the piston and rod seals and the piston will start to move. As it moves, it increases the volume of the air space inside the cylinder behind itself. The piston moves toward one end of the cylinder creating a larger area behind than in front of it. This is an area into which air has to flow quickly to ensure that the piston keeps moving. If the air inrush cannot keep up with the increasing cavity size there will be insufficient pressure to keep the piston moving, and it will stop. So too will your piston rod, and whatever tooling you have installed on the end of it.
+
+The rule of thumb for using a flow control to reduce and smooth air cylinder piston travel is to only throttle the exhaust air from the cylinder. The air flowing into the cylinder port should never be reduced.
+
+How is this accomplished?
+
+Use a "cylinder flow control". This is a device that may not look any different from the needle valve. Inside, however, there is a "needle bypass" which allows the air to bypass the needle which is throttling the air achieving full flow of air unidirectionally.
+
+The "free flow" of compressed air through the cylinder flow control allows the unit, when it's installed in the correct orientation, to provide full and un-throttled inrush of air to the cylinder, yet, when the valve has shifted and the double-acting air cylinder has reversed, the air that is now flowing out of the cylinder is throttled to the level necessary to achieve the cylinder speed desired.
+
+There will be a second cylinder flow control on the other line too, and this works exactly the same way.
+
+As a result, air flow into the cylinder ports at either end of the cylinder is totally unencumbered providing high-force piston movement. The piston is trying to go fast and at full power, but since the exhaust flow of air is impeded by the cylinder flow control, the piston moves with full power, but at a controlled and desired rate.
+
+Most cylinder flow controls will have a schematic on the side showing the flow paths to ensure that they are installed correctly.
+
+Some cylinder flow controls are equipped with sealant coated male threads for screwing into the cylinder port, and with an "instant" type fitting into which the cylinder air line can be quickly fitted, features that save time and money.
+
+

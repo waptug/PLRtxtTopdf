@@ -1,0 +1,32 @@
+Title: 
+Remote Backup
+
+Word Count:
+609
+
+Summary:
+Preservation of computer files is essential for the proper functioning of businesses, and therefore, remote backup is becoming a more popular option for many businesses and individuals. One crash can destroy essential files, which, if not recovered, can damage your company's reputation and its ability to function. Remote backup is a relatively inexpensive and easy way to make sure that your files never get lost. Although the best remote backup programs require an investment, ...
+
+
+Keywords:
+computers,data protection
+
+
+Article Body:
+Preservation of computer files is essential for the proper functioning of businesses, and therefore, remote backup is becoming a more popular option for many businesses and individuals. One crash can destroy essential files, which, if not recovered, can damage your company's reputation and its ability to function. Remote backup is a relatively inexpensive and easy way to make sure that your files never get lost. Although the best remote backup programs require an investment, in the long run, it is much cheaper and more efficient than hiring an individual to back up your files regularly. Unlike computers, individuals can forget.
+
+The best remote backup programs are internet based, have a high level of security and a good support service. Remote backup usually works on the internet, LAN or ICP/IP network. The remote backup program sends the data to your offsite server. These files can be sent according to a schedule you set, or can be backed up automatically. If you have automatic remote backup, the job is done when the computer is not in use, perhaps in the evenings when there is no one in the office.
+
+Your remote backup program should have version control system, which will make sure your list of file is being continually updated. If you have different versions of a file, you can select which one you want to keep or choose to backup all of them, since a good remote backup program has a lot of memory.
+
+Security is an important concern when considering which remote backup system to chose. The highest quality systems have up to 8 cryptographic methods to conceal your information from hackers. This feature is essential if you have valuable financial information about your customers. In spite of the codes used to disguise your data, you will be able to access the information easily without confusion.
+
+Remote backup works in two parts called the client and the server. The client chooses files to be backed up and compresses them so they can be stored more easily. The server delivers the information to the client through the internet and can use several modems at the same time while handling myriad internet connections. The client marks selected files and stores them in the proper places. These transfers occur quite quickly and the clients are mapped to certain drives, meaning that they know exactly where to send the information. It is possible to exclude some files from remote backup that are not needed, and the user can always pick and choose which files to save.
+
+Many remote backup programs provide bigger backup for little extra cost, if needed. As you company grows, so should your backup, so it is good to know that expansion will not mean a larger priced tag. Disaster recovery systems are also commonly available with remote backup programs, and they will help your computer get up and running again after a crash.
+
+It is a good idea to research on remote backup to decide which program is the right one for you. Perhaps you and your spouse run a small travel agency from your home; you will need smaller backup, but as your company grows, you will need to expand the amount of backup you use. The highest level of security is recommended for small businesses and banks alike, because the average computer user might be more vulnerable to hackers than larger organizations which hire technical staff who are well versed in this area.
+
+Many remote backup programs offer free trials and demos, and it is a good idea to take full advantage of these offers before investing in the right remote backup for your home or office.
+
+

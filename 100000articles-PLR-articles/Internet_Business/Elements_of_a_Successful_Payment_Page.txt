@@ -1,0 +1,28 @@
+Title: 
+Elements of a Successful Payment Page
+
+Word Count:
+370
+
+Summary:
+In an interview with Jonathan Hedvat, President of FashionJobsCentral.com, Hedvat stressed the importance of a well designed payment page.
+
+
+Keywords:
+payment page, online payment, online payment method, chargeback, charge back, paypal, credit card processing, merchant account, accept payment, accept credit cards, payment forms,
+
+
+Article Body:
+In an interview with Jonathan Hedvat, President of FashionJobsCentral.com, Hedvat stressed the importance of a well designed payment page.
+
+<i>The payment page is where your customers pay.  It is just as important as your homepage or any landing pages you might have.  I see the same mistakes on different payment pages all the time.  When designing the page, I think most people tend to forget that the goal of the page is for the user to pay.</i>
+
+<b>K.I.S.S.</b> Keep it Simple Stupid.  You have already sold an item to all the people on this page, now let them pay!  There’s no need for fancy graphics or animations, leave those on the selling page.  You don’t want to sell your customer again, because that would be giving them more reasons to not pay.  Any change in color themes, fonts, text size, or logos can also change how the customers see your product.  Make sure you keep everything consistent.
+
+<b>PHONE NUMBER</b> Depending on your customers, pretty often you will get one or two customers who do not trust the security of the internet and would much rather pay over the phone.  Make sure you have a phone number visible on the payment page.  Or better yet, get a 1-800 number if you want to look more reputable.
+
+<b>SECURITY</b> As mentioned above, the security of a page is necessary for your customers to trust your payment page.  Make sure your page is secured (URL begins with “https”).  If you want to gain more trust from your customers, consider getting Verisign or TRUSTe.
+
+<b>DON’T LET THEM LEAVE</b> Simple probability tells us that the more links you have on a site, the higher the chances of any one of them being clicked.  But in this instance, you want your users to pay, so take out all your links except for the one needed to process the payment.  If you have information on return policy or terms of agreement on a link, I would suggest you to put it in a text window within the payment page to avoid the users clicking anything at all except for the “Pay” button.
+
+

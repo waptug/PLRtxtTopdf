@@ -1,0 +1,34 @@
+Title: 
+Traffic Mapping For Your Mobile Phone
+
+Word Count:
+538
+
+Summary:
+In late July, Google announced that it will be offering live traffic information to mobile phones in more than thirty U.S. cities. Plans to provide the traffic feature to PCs are still in the works. The Google traffic feature will be released as an update to the free Google Maps for Mobile service, which has been available for 18 months for download on the Google web site. Google would not disclose how many subscribers it has, but it says the number is growing rapidly.
+
+The...
+
+
+Keywords:
+website hosting, mobile, phone, traffic, information, real time
+
+
+Article Body:
+In late July, Google announced that it will be offering live traffic information to mobile phones in more than thirty U.S. cities. Plans to provide the traffic feature to PCs are still in the works. The Google traffic feature will be released as an update to the free Google Maps for Mobile service, which has been available for 18 months for download on the Google web site. Google would not disclose how many subscribers it has, but it says the number is growing rapidly.
+
+The feature expands Google's mapping technology into an area where Microsoft Corp. and Yahoo already have a presence, but in different ways. Yahoo and Microsoft offer real-time traffic information on their Web-based mapping services for PCs. Microsoft has chosen to move into the mobile “space” by licensing traffic-monitoring technology for mobile devices to a Kirkland-based startup, InRix Inc. Yahoo currently has no mobile traffic service. MapQuest, an AOL property, offers traffic reports over cell phones for $2.99 per month.
+
+With typical bombast, Microsoft announced that when operable, the InRix mobile service will actually predict upcoming traffic problems – however currently the MSN mobile mapping technology provides no traffic information at all.
+
+In the cities where it works, the Google feature will show traffic conditions on most major highways - indicating green for clear roadways, yellow for medium congestion and red for high congestion or stopped traffic. Google Maps will work on most Java-enabled phones offered by Cingular and Sprint and all color BlackBerry devices. The service does not currently work on phones from other major carriers such as Verizon or T-Mobile USA. Google Maps sends the data – obtained from an undisclosed source - every five minutes.
+
+Although Google's free service doesn't identify traffic hazards or accidents, it will let drivers know if there is a clogged road. Google also shows the expected drive time for a route when phone users search for driving directions. It has introduced a feature that lets users save their favorite locations and frequently used driving directions for future use.
+
+The three search engines are not alone, however. In February, Rand McNally Traffic began offering a downloadable mobile application that delivers news of real-time traffic flow, accidents, weather conditions and road closures to 94 cities. Rand McNally Traffic is available on Sprint, Nextel, AT&T Wireless and other services for $3.99 a month.
+
+Media giant Clear Channel Communications' Total Traffic Network feeds content in 125 markets in the country to 15 services. One of them provides the information to subscribers with Sprint mobile phones for a $9.99 monthly subscription. That service is relatively new. In addition to weather conditions and traffic information, the service also provides data on gas station prices.
+
+Cell phones are rapidly turning into GPS devices, with localized information as an added feature. It remains to be seen how many people will turn to their cell phone screens for traffic news, one eye on the road and another on the phone. In some states and several local jurisdictions, it is already illegal to use a handheld cell phone while driving. Some of these jurisdictions allow hands free use, but that won’t help with a visual feature. It will be interesting to see if this new functionality is limited by governmental concern over safe driving habits.
+
+

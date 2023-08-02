@@ -1,0 +1,38 @@
+Title: 
+Ten Top Tips for Creating Good Business Requirements
+
+Word Count:
+402
+
+Summary:
+Creating good business requirements will go a long way towards ensuring the success of the project and eliminate design and development risks that result from poor business requirements documentation.
+
+
+Keywords:
+Business Analysis, Requirements Engineering, Business Requirements, Business Analysis Training, Requirements Training, Use Cases, Use Case Training, Requirements Elicitation, Requirements Documentation
+
+
+Article Body:
+Creating good business requirements will go a long way towards ensuring the success of the project and eliminate design and development risks that result from poor business requirements documentation. Here are the Top 10 Tips for Writing Good Business Requirements:
+
+1.	Develop a clear understanding of the problems that the proposed software is being designed to solve. This will ensure that the subsequent business requirements document addresses those problems fully.
+
+2.	Identify all project stakeholders and involve them in the business requirements gathering process from the start. Work to build trust and establish credibility early on so you can maintain stakeholder support throughout the project. Learn the individual personality traits of each stakeholder in order to be able to better manage them during the requirements phase of the project.
+
+3.	Clearly document all business data including workflow, current problems, anticipated risks, and required performance metrics. Use project-approved tools and methodologies to ensure that the documentation conforms to the client's requirements.
+
+4.	Use approved templates for all documentation. Ensure that terms used throughout all documentation either exist in the project dictionary or are added as required. No one reading the business requirements document should encounter unfamiliar terms that cannot be quickly resolved by reviewing the project dictionary.
+
+5.	Identify potential privacy and security issues early on so these problems can be mitigated to a level which satisfies the stakeholders that these risks have been managed properly. This helps to build trust and ensures that stakeholders remain committed to the project.
+
+6.	Make a concerted effort to identify and document all risks, the impact of these risks on the project's costs and timetable. This will avoid unexpected project delays as well as help control runaway costs.
+
+7.	Conduct both group and one-on-one meetings to insure that all business requirements, risks and concerns are identified. 
+
+8.	Present a draft of the business requirements document to key stakeholders for preliminary review and tentative approval. This helps to ensure that the final business requirements document will be more easily accepted by all stakeholders when it is presented.
+
+9.	Rewrite the draft business requirements document to address any issues discovered during step #8. This may requires repeating the stakeholder meeting process until you are sure that all issues have been identified and documented.
+
+10.	Present the completed business requirements document to all stakeholders in a formal meeting. Take notes in order to maintain the collective project memory and be ready to address any issues or concerns which may be raised.
+
+

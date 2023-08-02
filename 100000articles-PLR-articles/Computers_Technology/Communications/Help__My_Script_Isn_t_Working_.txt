@@ -1,0 +1,60 @@
+Title: 
+Help, My Script Isn't Working!
+
+Word Count:
+620
+
+Summary:
+A list of tips and tricks to consult at two a.m. when you're trying to put your site to bed and that d*mn script just won't work.
+
+
+Keywords:
+script error, script problem, CGI, scripts, Perl scripts
+
+
+Article Body:
+Here's a list of tips and tricks to consult at two a.m. when you're trying to put your site to bed and that d*mn script just won't work.
+
+1. Make a note of the error message, and type it in Google. Remove your unique paths and file names. Someone else has had the same problem, and some nice person will have posted a solution.
+
+2. If it's a server error, repeat what caused the error. Go quickly to the error log on your web hosting control panel. Any clues there?
+
+3. Read the README file. Have it open on-screen when you're setting up the script.
+
+4. Use a text editor like Wordpad or Notepad to edit scripts. Simply put, your editor should not change anything beyond the bare text that you type on screen. Microsoft Word will alter your formatting, with unhappy consequences.
+
+5. Avoid wrapping lines. Check that your editor is not set to do this.
+
+6. Avoid putting characters like " , ' ; in if you don't know what you're doing. 
+
+The server may read these as programming code. Apostrophes and other non-alphabet characters can be 'escaped' out of a script by putting a backward slash in front of them.
+
+7. Get the paths to required files correct in the script itself and in the html files involved. Telnet to your site, and use the pwd command: 'pwd somename' (without the apostrophes) to find where directories and programs are on your server.
+
+8. Windows (MS-DOS) may insert carriage returns which cause errors in Unix. In Perl, You need to have a line break after #!/usr/bin/perl. It appears to be there, but you may have to insert it manually via Telnet. Otherwise you may get an error.
+
+9. Permissions: Set permissions of scripts to 705 (e.g. 'CHMOD 705 yourscript.cgi' in a telnet session). CHMOD 606 for text files the script may need to read or write to. CHMOD 707 any file or sub-directory the script author asks you to. The rest can usually be left at the default 644. 
+
+(The use of 0 here in permissions is to stop people in the same 'group' as you peeking at your files).
+
+10. Upload scripts in ASCII mode only, or you'll get errors in them (the text will be shifted around if you upload in Binary).
+
+FTP files with the extensions .tar.gz, .zip, and image files, in BINARY mode only. 
+
+11. Check whether you've put a trailing forward-slash where you're not supposed to, or not inserted one when you're supposed to!
+
+12. Email addresses in a script may need a backward-slash before the @ to work. 
+
+13. Don't change too many things at once. Do the absolute minimum to get the script working, then change one thing at a time. 
+
+14. If you are changing the HTML code of a form page that posts to the script: Clear your browser's cache. You may still be loading an old version of your page, with tags that your script now won't recognise.
+
+Your ISP may also be using its cache of your web page. Try connecting via another ISP, or use a proxy service like http://www.Anonymouse.ws to view your page. 
+
+15. The error 'document contains no data' in your browser usually means a path or a file name is wrong. It can also mean the file you're calling is 0 bytes in size.
+
+16. Don't try setting scripts up when you're tired. If you've been working for hours, take a break, or go to bed!
+
+17. It's a fact that, after all this, your script might have a bug. Check any discussion boards at the vendor's website, or general webmaster forums, to see if this is a common problem. Report exactly what problems you're having, and your server set-up, to the programmers. It's unlikely you're the first person to have it.
+
+

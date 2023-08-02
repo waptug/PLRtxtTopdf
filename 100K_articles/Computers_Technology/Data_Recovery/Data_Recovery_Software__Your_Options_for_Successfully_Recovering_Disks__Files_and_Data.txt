@@ -1,0 +1,26 @@
+Title: 
+Data Recovery Software: Your Options for Successfully Recovering Disks, Files and Data
+
+Word Count:
+348
+
+Summary:
+Recover corrupted data from faulty hard drives with software-only data recovery tools.
+
+
+Keywords:
+data recovery, undelete, file recovery, fix corrupted data, data corruption, corrupt partition, formatted partition, fix hard drive, disk repair
+
+
+Article Body:
+Today's computers are much more reliable in general than the older generations. Modern hard drives fail less frequently, and they warn you well in advance about upcoming failures with the recently adopted SMART monitoring.
+ 
+Modern hard disks have greater storage capacities than their predecessors. Retaining the same physical size, they feature a much higher storage density, allowing storing more files on the same space of their surface. And hence the big problem: if your hard drive fails, you have a lot to lose. Much more than you would just a few years ago, with much less chances to get your data back without precision tools and clean labs.
+ 
+While there's little you can do about a physically damaged hard drive except send it to a dedicated data recovery service, there's still hope if hard drive failure didn't cause it to stop spinning. Even if your disk is not accessible from Windows you can still access it with dedicated data recovery tools such as The Undelete NTFS Partition Recovery http://the-undelete.com/ntfs_partition_recovery.php or other FAT and NTFS partition recovery tools such as http://www.softinstitute.com/partition-recovery.html
+ 
+These tools used by non-professionals can often recover damaged partitions and restore the hard drive to its original condition. Is it safe to use the same drive after it failed once? Maybe, depending on the reason of the failure. If data corruption occurred because of a system crash or a power failure, your hard drive is probably unaffected and should be used without a trouble. If a badly written application caused system instability and data corruption, it's not your drive's fault, and you should not be concerned about its reliability.
+ 
+If, however, the instability was caused by the hard drive failure, exercise extreme caution. Have a look at the drive's SMART logs accessible from Windows Administrative Tools, save your data onto another disk and replace the faulty one. And remember, even if your hard drive is completely inaccessible, you still have a strong chance of getting your data back with data recovery tools from http://the-undelete.com/
+
+

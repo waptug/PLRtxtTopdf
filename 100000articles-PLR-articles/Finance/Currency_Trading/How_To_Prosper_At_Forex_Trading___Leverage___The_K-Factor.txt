@@ -1,0 +1,67 @@
+Title: 
+How To Prosper At Forex Trading – Leverage & The K-Factor
+
+Word Count:
+837
+
+Summary:
+It’s probably fair to say that unless you have a professional understanding of leverage and how it affects your account equity that your chance of prospering at forex trading is slim to none.
+
+
+Keywords:
+forex trading, forex
+
+
+Article Body:
+One of the big reasons that forex trading is an entirely different animal than stock trading or futures trading is leverage. Forex trading leverage can be enormous, as high as 400:1, and in most cases you get to choose the amount of leverage or gearing you want to trade with.
+
+Super high leverage is a selling point for many online forex brokers. How many times have you seen the tout ‘control $100,000 of euro for $250’? Those numbers are correct, and, yes, the profit potential of super high leverage is compelling.
+
+This article neither encourages nor discourages forex trading at super high leverage. That’s a personal decision, but a decision that can only be made sensibly with a professional understanding of all the implications of leverage and what they mean to your chances of prospering at forex trading. It’s probably fair to say that unless you have a professional understanding of leverage that your chance of even surviving at forex trading is slim to none.
+
+One of the fundamental terms of forex trading is PIP. You will see that XYZ Broker charges 3 PIP per deal, or that the XY currency pair has an average daily range of 100 PIP. We all know that the value of a PIP is a variable that differs with each currency pair, but did you know that the value of a PIP also varies with the current price of the base currency, and with the gearing on your account?
+
+For example, with EUR/USD at 1.2723 and leverage at 100:1 the amount of a PIP is $7.86. At 200:1 leverage the PIP value doubles to $15.72. For forex traders with different gearing a 100 PIP move means entirely different things to their account equity.
+
+Here’s a new way to look at leverage with the “K Factor”. The three most common leverage ratios available from online forex brokers are 50:1, 100:1 and 200:1. The K Factor for the 100:1 leverage ratio is 1. The K Factor for the leverage ratio of 50:1 is .50, and the K Factor for the leverage ratio of 200:1 is 2.
+
+How can you use the K Factor? 
+
+There are three ways to use the K Factor. The first is using the K Factor to calculate the value of a PIP for the currency pair you are trading. 
+
+Since 100,000 individual currency units (usually dollars or euros) is the normal size of a single lot you can calculate the value of a PIP with this formula:
+
+(100,000/current price with no decimal) * K Factor = PIP
+
+Here’s an example: The EUR/USD current price is 1.2723 and your leverage is 100:1. With these facts the formula is:
+
+(100000/12723) * 1 = 7.86. 
+
+The value of a PIP is $7.86. If your forex broker executes your trade at a spread of 4 PIPs you are paying $31.44 for executing the trade whatever euphemism the broker happens to be using for ‘commission’. If your leverage or gearing is 200:1 that execution will cost you $62.88.
+
+The second way you can use PIP and the K Factor is to quickly determine the potential profit in a trade, or to know to a certainty the actual dollar risk in a stop-loss setting.
+
+For example, if you go long the EUR/USD at 1.2723 and anticipate a move to 1.2850 what profit can you anticipate at 100:1 gearing? 
+
+12850 – 12723 = 127 PIP * 7.86 = $998.22 – execution cost.
+
+If you objectively set your stop loss at 1.2715 what amount are you risking in this trade?
+
+12723 – 12715 = 8 PIP * 7.86 = $62.88 + execution cost.
+
+
+The third way to use the K Factor is to avoid what the forex brokers call the “safety net”, and what I call “kill but do not dismember.”
+
+Margin is not a down payment. It’s cash-on-hand, your cash, that the broker uses to protect its own capital account from your mistakes. That’s all well and good because the global forex market will continue to work only if all participating brokers have adequate capital to meet their customers’ settlement obligations.
+
+If losses from current open positions cause the equity in your account to fall below that required to maintain the total number of open positions, the broker’s trading platform will immediately close all your open positions, even when the unrealized loss on any individual position is quite small. Your loss is the aggregate number of PIP per position * K Factor + execution costs. In almost every case that’s just about everything in your account. This is the broker’s safety net because you will not lose more cash than you had in your account (as can and does happen with commodities futures accounts.)
+
+The formula is:
+
+(Starting Balance – Open Position Losses) / (($1,000/K Factor)* No. Open Positions) -1 < 10% = Kill But Do Not Dismember.
+
+Most if not all broker platforms keep a running balance of your available margin to help you avoid this fatal situation. If you intend to trade multiple positions and fade into suspected price turning points you should consider setting up this formula in a spreadsheet so that you get an early warning long before the situation goes critical. 
+
+Mini accounts are based on 10,000 individual currency units with different margin requirements so make the necessary adjustment in the above formulas before doing the calculations
+
+

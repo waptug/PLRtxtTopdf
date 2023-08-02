@@ -1,0 +1,28 @@
+Title: 
+DBF Repair Tool for your Databases
+
+Word Count:
+519
+
+Summary:
+The article sheds light on the problem of data security and recovery from broken or corrupt DBF databases using DBF Recovery, a compact, affordable and easy to install and use tool
+
+
+Keywords:
+dbf repair, dbf recovery, dbf fix, corrupted dbf, damaged dbf, foxfix, fix dbf files, repair dbf files, dbf file, dbf database
+
+
+Article Body:
+Today, we are living in the era of database-driven applications and rely on databases more that we could imagine even in the recent past. Information is valued much higher than any hardware or software tools used for its processing. However, the risks associated with database crashes or corruptions increase proportionately to the intensity of their use, making a broken database a nightmare for any accountant or business owner, especially when a backup is unavailable.
+
+The DBF file, unfortunately, is not 100% crash-proof, just as any other database format in the world. If your DBF file is corrupted or damaged, standard DBF readers may not be able to help you get your data back - all you will see is undecipherable abracadabra or nothing at all. Luckily, there are tools out there that will make a DBF repair procedure a real breeze. DBF Recovery from HiBase Group is an affordable and highly efficient application that is intended for repairing DBF databases and recovering your important information. Not only does it retrieve and fix headers, but, unlike the majority of its dbf fixers, also runs an in-depth analysis of the database structure in an attempt to fix it completely.
+
+The great thing about DBF Repair Tool ( http://www.dbf2002.com/dbf-recovery/ ) is that you don't need to have a Master's degree in computer science to do your first DBF repair. The program was created for all categories of users that need immediate assistance whenever they are experiencing problems with their database. When pointed to a broken DBF file, the program determines the data format automatically. The program supports all specific file formats used by the most popular database management systems, such as Dbase III/IV, FoxPro, Visual FoxPro and others. Once this is done, all you have to do is lean back and watch DBF Recovery work its magic. The completely automated recovery engine will scrupulously scan the internal structure of the file, identify discrepancies from the normal state and attempt to restore the data.
+
+The DBF repair process may take a while, depending on the size of the file. However, rest assured that DBF Recovery is pushing the envelope to recover your data with maximum accuracy. In fact, its recovery success rate, combined with the obvious simplicity of use, affordability and compact size make it one of the top utilities of its class. Not only is it a must-have for any serious system or database administrator, but also for regular end users who would like to be protected from such an unexpected force majeure as data loss after a database corruption.
+
+DBF Repair from HiBase Group is easy to install and use. It requires absolutely no external drivers for database connectivity. Supporting Windows 95/98/NT/2000/2003/XP and Vista, it will work on the overwhelming majority of modern systems.
+
+You cannot control everything in this world and accidents sometimes happen. Don't forget to buckle up when you get into a car, as it may save your life. Don't forget to get yourself a copy of DBF Recovery, as it may save the most important thing in today's business - your information. Have a nice ride!
+
+

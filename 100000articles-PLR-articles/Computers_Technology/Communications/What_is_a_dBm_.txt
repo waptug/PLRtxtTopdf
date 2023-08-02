@@ -1,0 +1,30 @@
+Title: 
+What is a dBm?
+
+Word Count:
+374
+
+Summary:
+A dBm, also referred to as a dBmW, is the notation used for the ratio of power in decibels (dB) to one milliwatt (mW). dBm is commonly used in a variety of ways, but most commonly refers to the power used by radio, fiber optic networks, and microwaves.
+
+
+Keywords:
+dbm
+
+
+Article Body:
+A dBm, also referred to as a dBmW, is the notation used for the ratio of power in decibels (dB) to one milliwatt (mW). dBm is commonly used in a variety of ways, but most commonly refers to the power used by radio, fiber optic networks, and microwaves. Furthermore, dBm is also used as a convenient way of measuring the absolute power of something because it can be used to express very small values as well as very large values in a compact and easy to read way.
+Because dBm is referenced to the watt, or more specifically, the milliwatt, dBm is a measure of absolute power instead of relative power. A measurement of dBW is referenced to one watt or 1000 mW.
+This is a measurement of absolute power despite the decibel being what is known as a dimensionless unit, or a unit that is used to quantify the ration between two different values. Dimensionless units, like the decibel, are used to place a value on something that technically has no physical units. Therefore, dimensionless units are known as pure numbers.
+dBm can either have a positive or a negative value depending on the situation. A positive dBm value indicates that there is a gain in power while a negative dBm value, noted by a minus sign before the number, indicates that there is a loss in power.
+The primary drawback of using dBm measurements is that they are not currently supported by the International System of Units. Therefore, using dBm measurements in documents that refer to SI units is frowned upon. The decibel, however, is still accepted in such works.
+
+How is dBm Calculated?
+
+Zero dBm is equal to one milliwatt. With each increase of three decibels, the power is roughly doubled. Therefore, 3 dBm is equal to approximately 2 mW. Conversely, a three decibel decrease will lower the power by approximately one half. Therefore, -3 dBm will equal approximately 1/2 or 0.5 milliwatt.
+
+The function for calculating the dBm is: x = 10log*base 10*(P) where x is the dBm value and P is the power in milliwatts.
+
+Furthermore, the function for calculating the power is: P = 10 to the power of (x/10) where P is the power in milliwatts and x is the power ration measured in dBm.
+
+

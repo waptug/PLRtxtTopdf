@@ -1,0 +1,36 @@
+Title: 
+CCNP Certification / BSCI Exam Tutorial:  EIGRP Stuck-In-Active Routes
+
+Word Count:
+360
+
+Summary:
+Troubleshooting EIGRP SIA routes is a challenge for any networker. Learn the basics for the CCNP exam from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+ccnp, certification, bsci, exam, pass, free, eigrp, sia, stuck, in, active, router, configure, ccna
+
+
+Article Body:
+Passing the BSCI exam and earning your CCNP is all about knowing the details, and when it comes to EIGRP SIA routes, there are plenty of details to know. A quick check in a search engine for "troubleshoot SIA" will bring up quite a few matches. Troubleshooting SIA routes is very challengin in that there's no one reason they occur.
+
+View the EIGRP topology table with the show ip eigrp topology command, and you'll see a code next to every successor and feasible successor. A popular misconception is that we want these routes to have an "A" next to them - so they're active. That's what we want, right? Active routes sound good, right?
+
+Well, they sound good, but they're not. If a route shows as Active in the EIGRP topology table, that means that DUAL is currently calculating that route, and it's currently unusable. When a route is Passive ("P), that means it's not being recalculated and it's a usable route.
+
+Generally, a route shown as Active is going to be there for a very short period of time by the time you repeat the command, hopefully that Active route has gone Passive. Sometimes that doesn't happen, though, and the route becomes SIA - Stuck In Active.
+
+A route becomes SIA when a query goes unanswered for so long that the neighbor relationship is reset. From experience, I can tell you that troubleshooting SIA routes is more of an art form than a science, but there are four main reasons a route becomes SIA:
+
+The link is unidirectional, so the query can't possibly be answered.
+
+The queried router's resources are unavailable, generally due to high CPU utilization.
+
+The queried router's memory is corrupt or otherwise unable to allow the router to answer the query.
+
+The link between the two routers is of low quality, allowing just enough packets through to keep the neighbor relationship intact, but not good enough to allow the replies through.
+
+To sum it up, routes generally become SIA when a neighbor either doesn't answer a query, or either the query or reply took a wrong turn somewhere. I told you it wasn't the easiest thing to troubleshoot!
+
+

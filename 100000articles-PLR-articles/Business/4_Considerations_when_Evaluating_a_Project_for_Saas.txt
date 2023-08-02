@@ -1,0 +1,33 @@
+Title: 
+4 Considerations when Evaluating a Project for Saas
+
+Word Count:
+358
+
+Summary:
+The number of companies involved in SaaS deployments is doubling in the next 12 months; many of them have experienced pitfalls that could have been avoided with some minor research and planning up-front.
+
+
+Keywords:
+Enterprise SaaS, ASP, Software as a Service
+
+
+Article Body:
+The number of companies involved in SaaS deployments is doubling in the next 12 months; many of them have experienced pitfalls that could have been avoided with some minor research and planning up-front. While there is a diverse amount of technology and business processes that can be addressed using SaaS, there remains a handful of common tasks that need to be performed at the beginning of your project that will aid in tracking the project’s impact and progress.
+
+Deployment Footprint
+Create a UML Deployment diagram early. A Deployment Diagram helps everyone quickly identify what systems and users will be impacted by the change in technology and process. Having the Deployment Diagram exist as a living artifact throughout the lifetime of your project also helps other teams easily asses impact to any new or existing projects.
+
+Project Timeline
+Leverage your SaaS provider’s experience. Often service providers for SaaS projects will have a library of best-practices that can aid your project management team. Focus on how the SaaS company defines milestones and understand how they project the duration from one milestone to the next. The information the SaaS company provides can be used to build dependencies in your project plan.
+
+Process Integration
+One of the major benefits to using SaaS is that packaged services are designed to easily integrate with existing technologies and infrastructures. When looking at SaaS applications, make sure there are XML or RMI interfaces. Also, well-documented database schemas great for running ad-hoc queries. Most SaaS vendors provide robust reporting capabilities - just make sure they provide you the documentation to interface with the system.
+
+ROI Milestone
+Define your ROI milestones early. It’s ok if your expectations for cost-savings are all over the place. Your SaaS provider will have financial models that will help your organization forecast cost-savings by using their implementation over using a standard model.
+
+Summary
+SaaS models can easily reduce your projects costs by double-digit percentages. The key as you gain experience with SaaS is to refine your process in the same way a software development life-cycle will evolve. Additionally, leverage your SaaS provider’s experience and become partners in completing a successful project.
+
+

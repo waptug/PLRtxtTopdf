@@ -1,0 +1,30 @@
+Title: 
+Some Digital Camera Vocabulary Explained
+
+Word Count:
+663
+
+Summary:
+When purchasing a digital camera there is a dazzling array of information about the device available. The digital camera box will have bullet pointed lists of features, and many of those consist of numbers and abbreviations that may be misunderstood. High numbers always seem very impressive, but without knowing what they mean, you may end up purchasing a digital camera that does not match your requirements. Some of the most common abbreviations and the impact they have upon y...
+
+
+Keywords:
+digital camera, photo, photographic camera
+
+
+Article Body:
+When purchasing a digital camera there is a dazzling array of information about the device available. The digital camera box will have bullet pointed lists of features, and many of those consist of numbers and abbreviations that may be misunderstood. High numbers always seem very impressive, but without knowing what they mean, you may end up purchasing a digital camera that does not match your requirements. Some of the most common abbreviations and the impact they have upon your gadget experience are summarized below.
+
+Many digital camera manufacturers base their advertising campaign and packaging on the number of pixels the camera uses to create its image. Pixels are the elements that make up the digital image. Each pixel is of a single colour, and these join like a mosaic to create the image taken by the device. Pixels are indistinguishable unless the picture is enlarged as they are the smallest element of the digital image. When enlarged they can be seen with the naked eye. PPI stands for pixels per inch, and details the level of detail in the picture. The higher the number: the more intricate the detail.
+
+The number of pixels is displayed in terms of mega pixels (MP), and they are measured by multiplying the number of pixels in the vertical line of the image by the number in the horizontal line. Mega pixels total 1 million pixels, and the number advertised is the maximum number used by the digital camera. Mega pixels affect the size of the photograph rather than the quality, though of course if you want bigger images then a high number of mega pixels are a necessity. A digital camera with 1 MP would produce a quality 5x7 inch digital image. For a quality 8x10 image, a 2MP digital camera would be required, and a 3MP device would be the minimum requirement for images of 11x14 dimensions. There are many other factors that influence the quality of an image, and so mid range mega pixel size should be perfect for the general user.
+
+Another common abbreviation to be found on packaging is JPEG. This stands for the Joint Photographic Experts Group, which was created in 1986 with the aim of setting a universal standard for the compression of digital camera images. They oversee both the file requirements and the compression process for all JPEG digital cameras. The JPEG process compresses images into streams of bytes which are then decompressed back into the image that was taken. A minimal amount of quality is lost in this process, but it remains the most popular file for storage of digital camera images. This is because JPEG images can be full colour or grey scale, and are internet compatible which means that images can be sent via email to friends and family. The JPEG file is photographic specific and so ensures good quality.
+
+MPEG may be seen on your digital camera and this stands for the Moving Pictures Expert Group which oversees video and audio encoding standards. They are responsible for the compression and decompression of video and audio including that of TV broadcast and digital TV networks. If you see MPEG on a digital camera, it means that it can take video clips as well as images. 
+
+LCD is the abbreviation for Liquid Crystal Display and refers to the display screen of your device. The LCD will be full colour and will enable you to preview your picture. You can then use the LCD to review the image on your digital camera. The LCD is also where you navigate your device and all its features and settings through the menu button. The LCD panel shows all the relevant information for your digital camera whilst in use, such as battery life, and the number of exposures remaining.
+
+This article is under GNU FDL license and can be distributed without any previous authorization from the author. However the author's name and all the URLs (links) mentioned in the article and biography must be kept.
+
+

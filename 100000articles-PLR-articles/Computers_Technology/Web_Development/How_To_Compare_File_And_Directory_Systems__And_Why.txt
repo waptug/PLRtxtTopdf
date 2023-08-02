@@ -1,0 +1,36 @@
+Title: 
+How To Compare File And Directory Systems, And Why
+
+Word Count:
+525
+
+Summary:
+In today's age, the computer has become an integral part of almost every business, performing computational as well as organizational tasks. They have increased productivity almost everywhere and have made many things newly possible. By carrying out menial tasks (such as administrative processes like paperwork, keeping files, as well as easy but tedious computations) and not-so-menial tasks (such as simulations), computers have truly reshaped business structures.
+
+As such, ...
+
+
+Keywords:
+compare file,file comparison,compare folder
+
+
+Article Body:
+In today's age, the computer has become an integral part of almost every business, performing computational as well as organizational tasks. They have increased productivity almost everywhere and have made many things newly possible. By carrying out menial tasks (such as administrative processes like paperwork, keeping files, as well as easy but tedious computations) and not-so-menial tasks (such as simulations), computers have truly reshaped business structures.
+
+As such, it has become important for organizations to know and understand how to be able to take advantage of the opportunities that computers can offer. The wealth of free and commercial programs available today makes it easy to find ones that would really be useful for almost any particular task.
+
+Word processors make it easier than ever to create letters, memorandums, and other communications. Spreadsheets, on the other hand, provide a way to organize large amounts of data into tables and graphs. There are even programs available to help with scheduling and planning events on almost any necessary timescale: daily, weekly, even yearly.
+
+With all this computer use, and especially for larger organizations, it becomes necessary to be able to monitor the progress of different groups or people. This can be a hassle, especially when two or more groups are working with the same sets of programs and files. Thankfully, there are file comparison programs now available which facilitate the comparison of files and file directories.
+
+Files are of course produced by programs on the computer to store data. These files are essentially made up of smaller pieces of data, with the smallest unit being the bit. All files are made of bits, and comparing these bits one by one would yield even the tiniest differences between supposedly identical files. This is similar in principle to going through two supposedly identical books letter by letter to find any discrepancies. This approach has the benefit of being as accurate as possible; however, such a low-level comparison may become impractical for a big collection of large files.
+
+That is, the results, if left unprocessed, may be impractical to sort through. This is why most of these file comparison programs have also put efforts into developing graphical user interfaces (GUIs) and the software machineries behind them. File comparison programs are now able to interpret the raw results of bit-by-bit comparison to make them friendlier to human eyes.
+
+For example, most document comparison programs can now statistically interpret any given document. That is, the frequency of occurrence of certain key words may be determined, and from here a human may be able to get an approximation of what the document is about. This sort of statistical interpretation may be useful in comparing documents that are not identical, but still related in some way.
+
+Most programs also now offer the comparison of directories of files (what are called folders and subfolders in Windows systems). These extend the concept one step further, and allow the easy viewing of any changes or differences between directory structures and file organizations.
+
+Many file comparison programs are available commercially, and it is up to the user to find the one that is right for their organization's specific needs.
+
+

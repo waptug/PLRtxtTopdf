@@ -1,0 +1,34 @@
+Title: 
+What is a Multilayer PCB?
+
+Word Count:
+484
+
+Summary:
+A Multilayer PCBs consist of multiple layers of electronic components placed over each other.
+
+
+Keywords:
+multilayer pcb
+
+
+Article Body:
+A Multilayer PCBs consist of multiple layers of electronic components placed over each other.
+
+Through-hole construction was the technology that was used to deal with planting the electrical components through the holes on the Printed Board Curcuit and then soldering them together. When this technology was found wanting in complex cases, Point-to-Point construction technology evolved. This proved to be better than its predecessor, but in no way is it comparable to a multilayer PCB. The development of multilayer PCB has  allowed electronic companies to drastically cut down on the cost and size of their products.
+
+The functionality of a multilayer Printed Board Circuit depends on the internal connections between the various components that make up the entire device. Until and unless these components work in tandem, the device is non-functional. In the case of most technology, the urge to improve product performance makes the products bulky, whereas the flexible design of the multilayer PCBs has entirely replaced the rigid single-layered PCB design. The high-class wiring and the flexible parts have improved the performance of many products, especially automated and complex devices such as computers and cellular phones. Technology today has come a long way, culminating in the manufacture of multilayer PCBs that can contain as many as twenty-four layers, depending on usage and the complexity of the product itself. Multilayered PCBs have also facilitated the ease of manufacturing, since most of them are pre-mounted and prefabricated. Although manufacturing these prefabricated multilayered PCBs is a complex process, the final stage has now become a matter of assembly rather than manufacturing.
+
+Any discussion of this technology would be incomplete without mentioning the tools and materials that are required for using a multilayer PCB. These are:
+
+    *Powerful drill
+    *Copper etcher
+    *Laminating press
+    *Copper plating cell
+    *And most importantly - a well-ventilated area
+
+The reasons behind the development of the multilayer PCB are numerous, although some may think the technology was unnecessary while standard PCBs were doing fine. As discussed earlier, a multilayer PCB has a more flexible structure and can considerably reduce the size of the device. This is not the only reason. The cost of production using conventional PCBs was very high and costs only increased with new developments. By contrast, a multilayer PCB, in addition to providing revolutionary on-board components, more often than not needs only reprogramming. Moreover, mass production has become easier due to prefabricated multilayered PCBs. Instant installation or assembly of multilayer PCBs means electronic companies have definitely experienced a rise in their production rates.
+
+In case you are wondering about the longevity or quality of these circuit boards, they are very well packaged and can be left as they are for future use. Once each board is completed, it is thoroughly tested to make sure that it functions properly. In cases of failure, the repair process is easy and can be achieved by replacing the board itself instead of resorting to component-level troubleshooting.
+
+

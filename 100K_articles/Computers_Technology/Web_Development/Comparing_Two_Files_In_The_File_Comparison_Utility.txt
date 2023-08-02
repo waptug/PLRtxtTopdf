@@ -1,0 +1,26 @@
+Title: 
+Comparing Two Files In The File Comparison Utility
+
+Word Count:
+513
+
+Summary:
+Dealing with Data. Data merging and synchronization has become the hot topic in data management. The proper integration of data can at times make or break the performance of an organization. However, it is a big task to know the differences and the changes made between different files and folders. The file comparison tools are especially extremely useful in organizations that require individuals to work on a certain task and each individual has access to the files and can mak...
+
+
+Keywords:
+compare two file,document compare,compare programs
+
+
+Article Body:
+Dealing with Data. Data merging and synchronization has become the hot topic in data management. The proper integration of data can at times make or break the performance of an organization. However, it is a big task to know the differences and the changes made between different files and folders. The file comparison tools are especially extremely useful in organizations that require individuals to work on a certain task and each individual has access to the files and can make changes according to their needs. If one cannot make out one file from another, there would certainly be a chaotic situation.
+
+One surely cannot manually do the work manually, but now there are such file comparison tools that can easily rid organizations of this problem. The file comparison utility can display the differences, merge them and thus make the job easier. The tools can compare text files, with detailed changes in paragraphs, image files, and save them according to one's needs. Software programmers have been using the comparison tool to keep track of the changes that are in the source code. Today there are many open source as well as paid software tools that allow comparison between two files as well as directories. The paid software comes with additional functionality for the users than the open source file comparison tools.
+
+Comparing files. Equipped with the file comparison utility data management becomes easy but each tool comes with its own unique way of two files comparison. The Windiff.exe Utility tool enables the user to graphically compare information of two ASCII files as well as the information in the two folders that have ASCII files and check if there is any similarity. One cannot know the difference from the file byte count or date of creation.
+
+The Windiff.exe utility is ideal for knowing the difference between program source codes. The comparison is also done for the entire subfolder trees. The result shown is summary of the comparison of files or a comprehensive line-by-line difference between the files.
+
+In order to enable the function of two file compare the user needs to run the tool then in the file menu click the function Compare File. The dialog box is displayed the user should specify the file name which they wish to compare first and then click open. In the fourth step, the user then has to enter the second file name that is to be compared. In the right pane, the result is displayed. If the user wishes to see the difference, they can click on the first line of the results and subsequently click the Expand menu. User can click on options such as Left File Only, Right File Only, or Both Files. The file differences are highlighted in color for better understanding of the file comparison. Users can as well start Windiff.exe from command line. Users can not only compare two files but also a set of files at a local site. The Fc.exe and Comp.exe commands can be used and they can be run from the command prompt.
+
+

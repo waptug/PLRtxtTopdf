@@ -1,0 +1,36 @@
+Title: 
+Adware And Spyware - What Are They?
+
+Word Count:
+413
+
+Summary:
+Adware is a program usually attached to freeware and shareware you download from the internet. It displays pop-up or pop-under ads on your computer even if you are not online. Usually you have agreed to this installation when you accepted the product license agreement.
+
+Spyware is a program, similar to adware, that monitors what you are doing on your computer. The program then transfers this gathered information back to the company that installed it on your computer so they...
+
+
+Keywords:
+adware,spyware,anti spyware,malware,adware remover,software
+
+
+Article Body:
+Adware is a program usually attached to freeware and shareware you download from the internet. It displays pop-up or pop-under ads on your computer even if you are not online. Usually you have agreed to this installation when you accepted the product license agreement.
+
+Spyware is a program, similar to adware, that monitors what you are doing on your computer. The program then transfers this gathered information back to the company that installed it on your computer so they can send you specific targeted advertisements based on this info. Some spyware can also gather personal and sensitive information about your identity and send it to third party sources. This of course is illegal but usually you do not know that such a program has been installed on your computer.
+
+Now maybe you don't care about being bombarded with loads of these ads and you don't mind if companies know what you are doing and you actually like the targeted ads. Just remember the fact that you may have Spyware that you are not aware of gathering things like your credit card info. Other, more apparent, problems you may experience even with Adware is that you may encounter significant deterioration of your computer systems performance & your productivity. It can take much longer for system processes to start up and each task is slower. New toolbars can appear in your browser. Your web browser's home page may change by itself and it can be very difficult to change it back. Some pop-ups don't go away the whole time your computer is running. New items appear in your browser's favorites/bookmarks. Your computer starts slowing to a crawl & crashing.
+
+Some things you can do:
+
+> Make sure, for all future downloads, you carefully read end user license agreements so Adware doesn't get installed on your computer in the first place. (Unfortunately Spyware is not disclosed so you can't prevent that).
+
+> Get a good Adware Remover & Anti-Spyware software. Before purchase do some research and compare features for your short list of contenders so you can select the appropriate one.
+
+> Rerun the Adware Remover & Anti-Spyware software and any updates periodically -- weekly is suggested.
+
+> Keep your operating system updated with critical updates & security patches. You can usually download this from Microsoft.
+
+> If you use Internet Explorer, you may want to consider using a browser like Firefox for everyday internet surfing. Because of it's popularity, the Microsoft Windows platform and Internet Explorer users are more susceptible to spyware and adware attacks.
+
+

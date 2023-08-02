@@ -1,0 +1,26 @@
+Title: 
+Human-Based Workflows and Project Management Software
+
+Word Count:
+371
+
+Summary:
+Workflows exist in some form at every company.  Human-based workflows are usually manually managed and tracked. Meetings, phone calls, paper trails, spreadsheets, emails and desktop applications are typically utilized by business professionals as a means to keep the flow of information orderly. In most cases, a lack of efficiency is unavoidable.  A project management system that adapts to any business workflow solves this problem.
+
+
+Keywords:
+project management software, project management, workflow, workflows, human-based business, tracking, automation, databases, ppm, enterprise project management, interneer, intellect, project mangment
+
+
+Article Body:
+Workflows exist in some form at every company, in every industry. Traditionally, the term has been used to describe transactional processes.  Credit card information, for example, is submitted on a website.  The information is then sent to banks for approval and to a billing system for invoicing, which results in a message being sent to the shipping system for delivery. These types of transaction workflows, primarily relaying data between systems based on a static set of rules, require very little human intervention. They are typically automated using business process management (BPM) software or custom coded applications.
+
+Human-based workflows on the other hand are usually manually managed and tracked. Meetings, phone calls, paper trails, spreadsheets, emails and desktop applications are typically utilized by business professionals as a means to keep the flow of information orderly. In most cases, a lack of efficiency is unavoidable.  Using many different tools and methods to track workflows simultaneously leads to chaos.  Visibility of a project’s status, and more importantly, what is causing its hindrance becomes increasingly ambiguous.  
+
+Many human-based business workflows involve intellectual property or process innovations that give companies an edge over competitors. In a small vertical industry successfully managing workflows can make or break a company. Because of the diversity of workflows and the ways in which they are managed, it is difficult to find off-the-shelf project management software that is flexible enough to adapt to any company’s set of unique workflows and management style.  For this reason, many companies feel trapped, worried that the only option is to develop a custom solution.  Developing custom project management software, however, is a costly and lengthy process. 
+
+Only Interneer Intellect solves this problem, through catering to the human-based business workflow market. It enables the business user to capture workflows using simple drag-and-drop capabilities. It also incorporates many features that automate and streamline the business process: it is web-based, facilitating real-time collaboration; automatically creates databases; automates workflows; and allows easy reporting, document management and project tracking with multi-user support.
+
+As project management technology evolves, the benefits of automating workflows to gain efficiency, visibility and cut costs becomes increasingly apparent. With the advent of tools like Interneer Intellect this can be accomplished rapidly, easily and inexpensively.
+
+

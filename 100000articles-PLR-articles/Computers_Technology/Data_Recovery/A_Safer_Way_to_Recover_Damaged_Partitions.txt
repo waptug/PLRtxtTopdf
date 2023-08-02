@@ -1,0 +1,28 @@
+Title: 
+A Safer Way to Recover Damaged Partitions
+
+Word Count:
+428
+
+Summary:
+A safe way to automatically recover damaged disks and partitions.
+
+
+Keywords:
+partition recovery, disk data recovery, NTFS data recovery, undelete my files, disk recovery software, SoftAmbulance Partition Doctor, mbr recovery, fix mbr, partition table repair, lost partitions, hard drive partition recovery&#1073; deleted partition restore
+
+
+Article Body:
+Repairing damaged partitions on is a risky business. Even if you use the best toolkit and are absolutely sure in what you are doing, you are still risking your files shall something go wrong. Changes made to the damaged partition are irreversible; it is just too easy to overwrite an important system structure that holds vital information about your disk, files and data. Bottom line: it's good to backup before performing data recovery. But is this really the best way to do it?
+
+There is a different approach to do data recovery that is even safer. No need to backup and restore during the recovery. Instead of making a backup copy of corrupted data, you can simply take a binary snapshot of the partition being repaired, and attempt the recovery with different settings as many times as you need on this snapshot instead of the actual disk.
+
+SoftAmbulance Partition Doctor by http://softambulance.com/ is one of a few data recovery tools that allow recovering a virtual image of a damaged hard drive instead of repairing the hard drive directly. The data recovery tool lets you create a binary image of the damaged hard drive, and works with the binary image instead of the real thing. The binary image is a big file stored on another hard disk, CD, DVD or other media. The technology is similar to making an .iso image of a CD or DVD disc, only SoftAmbulance Partition Doctor extends it to partitions or even entire disks.
+
+The hard drive copy may be virtual, but any data you save from it is for real. SoftAmbulance Partition Doctor can recover your files, documents and other data from the binary image and put it on a healthy media. After that, you can attempt fixing the damaged system structures of the corrupted hard drivewithout taking any risk at all. Any modifications will be performed on the virtual image.
+
+Don't rush the recovery. Don't take the risk of losing or corrupting your data. Create a virtual snapshot of the hard drive being repaired, and work on that snapshot instead of accessing the corrupted hard drive. This procedure keeps your original data safe, and ensures the highest level of safety during the recovery process.
+
+SoftAmbulance Partition Doctor recovers files from damaged and corrupted disks and partitions and fixes damaged hard drives. The disk recovery product supports all 32-bit versions of Windows, and recovers FAT and NTFS formatted hard disks, memory cards, CD and DVD media, and USB flash drives. The evaluation version is available for free at http://softambulance.com/
+
+

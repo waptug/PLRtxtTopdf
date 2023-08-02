@@ -1,0 +1,92 @@
+Title: 
+Cisco CCNA Certification Exam Tutorial:  Configuring Dialer Profiles
+
+Word Count:
+397
+
+Summary:
+Dialer maps aren't the only way to configure ISDN!  Learn how to create logical dialer profiles from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+cisco, ccna, certification, pass, exam, isdn, dialer, profile, free, tutorial, map, phone, bri, ccnp
+
+
+Article Body:
+The most common method of configuring ISDN is with dialer maps, but dial information can also be configured on a logical interface.  To pass the CCNA exam, you must know how to configure and troubleshoot both dialer maps and dialer profiles.
+
+ 
+Dialer Profiles allow different dialing information to be configured onto logical interfaces.  The logical interfaces may have different dialing destinations, different remote router names, etc., but they’ll be using the same physical interface.
+
+ 
+Dialer strings are used on dialer profiles.  Note that each logical interface has a different IP address, a different remote router to dial, and a different dialer string, but they will be using the same physical interface to dial out.  The commands dialer pool and dialer pool-member are used to link the logical and physical interfaces.  The number following each command must match for the logical interface to correctly bind to the physical interface.
+
+ 
+R1(config)#interface dialer0
+
+R1(config-if)#ip address 172.16.1.1 255.255.255.0
+
+R1(config-if)#encapsulation ppp 
+
+ <. The encapsulation type is placed on both the logical and physical interfaces. >
+
+R1(config-if)#dialer remote-name Remote0 
+
+  <name of remote router>
+
+R1(config-if)#dialer pool 1 
+
+  < places logical interface into dialer pool >
+
+R1(config-if)#dialer string 5551212  
+
+  < number dialed to contact router Remote0 >
+
+R1(config-if)#dialer-group 1
+
+  < links logical interface to dialer-list 1 >
+
+ 
+R1(config)#interface dialer1
+
+R1(config-if)#ip address 172.16.1.2 255.255.255.0
+
+R1(config-if)#encapsulation ppp
+
+R1(config-if)#dialer remote-name Remote1
+
+R1(config-if)#dialer pool 1
+
+R1(config-if)#dialer string 5551234
+
+R1(config-if)#dialer-group 1
+
+ 
+R1(config)#interface bri0
+
+R1(config-if)#no ip address   
+
+         < With dialer profiles, IP addresses are assigned to logical interfaces. >
+
+R1(config-if)#encapsulation ppp
+
+         < The encapsulation type is place on both the logical and physical interfaces.>
+
+R1(config-if)#dialer pool-member 1      
+
+         < The number associated with this command should match the number configured with the dialer pool number on the logical dialer interfaces. >
+
+R1(config-if)#isdn spid1 0835866101
+
+R1(config-if)#isdn spid2 0835866301
+
+          <The SPIDs are always placed on the physical interface only.>
+
+ 
+
+When configuring dialer profiles, the encapsulation type should be placed on both the physical BRI interface and the logical dialer interfaces.  The SPIDs are configured on the physical interface as well.
+
+ 
+Configuring dialer profiles can be a little tricky at first, and the best way to master this skill is to get real hands-on practice in your own CCNA / CCNP home lab or a rack rental service. Either way, hands-on is the best practice. Best of luck in your CCNA studies!
+
+

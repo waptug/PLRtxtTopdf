@@ -1,0 +1,30 @@
+Title: 
+Prevent Heartache, Use Anti-virus Software
+
+Word Count:
+583
+
+Summary:
+Anti-virus software is a way of life in modern computing practices.  In an environment where most computer users are blissfully unaware of security, a good anti-virus package is the first line of defense for your computer.  There are several vendors who make and sell it, and all of them have excellent products.
+
+Among the top vendors are Computer Associates, Symantec, McAfee and Trend Micro.  Even Microsoft is getting into the anti-virus gig with Windows Protection.  Micros...
+
+
+Keywords:
+GoToMyPC, GoToMeeting
+
+
+Article Body:
+Anti-virus software is a way of life in modern computing practices.  In an environment where most computer users are blissfully unaware of security, a good anti-virus package is the first line of defense for your computer.  There are several vendors who make and sell it, and all of them have excellent products.
+
+Among the top vendors are Computer Associates, Symantec, McAfee and Trend Micro.  Even Microsoft is getting into the anti-virus gig with Windows Protection.  Microsoft's recent acquisition of GeCad in Bucharest is the foundation of their offering, plus a bunch of other small vendors to handle other corners of the computer security panoply.  Trillions of electrons have been inconvenienced on the internet as pundits are exploring Microsoft's offerings in light of their historic "acquire and extend" strategy with utility software, and a number of pundits are wondering if, with the insecurities inherent in the Windows architecture, whether having Microsoft selling the anti-virus remedies that its OS makes necessary isn't a bit of a predatory practice. 
+
+Most Anti-virus software works by running a deep scan on your computer, looking for telltale signatures of virus infection.  As a result, they need a virus signature file, most of which are downloaded regularly from their sites.  An alarming trend is that more and more of the major market leaders in this software segment are treating these signature files as proprietary information, rather than sharing it.  This may result in a situation where you need more than one AV package for complete coverage.  One of the interesting counter trends are the suites of free anti-virus software, like GriSoft's AVG, which share virus definitions daily to give the most comprehensive coverage.  It's known that Windows Protection uses these announcements, but Microsoft doesn't release its AV signature files for others to use.
+
+The other scary trend is that the people who write viruses have graduated from vandals and script kiddies to organized crime.  The Department of Defense treats virus protection very seriously (as anyone who's used a DoD computer, and dealt with the security can attest), and they regard bot nets and DdoS (Distributed denial of Service) attacks as being very serious threats to our nation's war fighting capabilities.  This means that there's now an incentive to make bigger and better virus software doing more things, and it's getting harder to stop.  
+
+If you get hit by a virus that goes active, your options are very limited – unless you have a regular backup procedure in place.  The biggest cause of heartache in computing is inadequate backups. Even if it's something relatively simple like backing up your working directory onto a DVD, it's worth the effort.  Fortunately, there are online subscription services that will let you back up your data over the internet. The first upload normally takes a long stretch of time, even over broadband.  After that, they run as a background process and only update the things that have changed in your configuration.  The new version of MacOS X, Leopard, has this sort of functionality built in with Time Machine.  There is no equally easily usable version for Windows.
+
+If you're comfortable with opening up your computer's case, and swapping out hard drives, there is a brute force backup you can do – plug in an extra hard drive, and copy your Windows and User directories to it; you can use Windows Task Manager to set up an automated job to do this every week, copying only the files that are different, and it can be a life saver.
+
+

@@ -1,0 +1,237 @@
+Title: 
+Cisco Home Lab Tutorial:  Buying And Building A Frame Relay Switch
+
+Word Count:
+816
+
+Summary:
+A frame relay switch is an invaluable part of any Cisco home lab, whether it's for the CCNA, CCNP, or CCIE.  Chris Bryant, CCIE #12933, offers tips on purchasing one and shares a frame relay switch configuration.
+
+
+Keywords:
+ccna, ccnp, cisco, frame relay switch, configuration, router, pass, certification, exam, study guide
+
+
+Article Body:
+One of the major topics on your CCNA and CCNP exams is Frame Relay. Additionally, Frame Relay is one of the most popular WAN technolgies in today's networks. Getting hands-on experience with Frame Relay in Cisco networks isn't just a good idea, it's a necessity. Let's face it, your employer is going to get a little touchy if you start experimenting with your network's Frame Relay setup.
+
+
+To practice all your important Frame Relay commands for your exams, you need a working Frame Relay cloud in your home lab. A production network's Frame cloud consists of a lot of Frame switches, but if you choose wisely, a single Cisco router can act as your home lab's entire Frame cloud!
+
+
+Before we look at the configuration of such a router (hereafter referred to as a "frame relay switch"), let's look at the physical requirements.
+
+
+The more serial ports you have, the better. You should get a router with at least four serial ports. For frame switching purposes, it doesn't matter if the ports are synchronous or asynchronous - you just need the ports.
+
+
+You will also need some DTE/DCE cables. The DCE end of the cables will be connected to the frame switch.
+
+
+A great configuration for a CCNA practice lab is three routers that serve as "production" routers, and a 4th router as a frame relay switch. (You'll want an access server as well, but that's another article.) 
+
+
+What I use in my student and customer pods is a setup where R1 is connected to the frame switch's S1 port, R2 is connected to S2 on the frame switch, and R3 is connected to the frame switch's S3 port.
+
+
+Now comes the tricky part - the configuration. A frame relay switch's config can be hard to find, so here's a copy of mine. Pay particular attention to the config on ports s1, s2, and s3.
+
+
+version 12.0
+
+service timestamps debug uptime
+
+service timestamps log uptime
+
+no service password-encryption
+
+!
+hostname FRAME_SWITCH
+
+!
+!
+ip subnet-zero
+
+no ip domain-lookup
+
+frame-relay switching
+
+!
+!
+!
+interface Ethernet0
+
+no ip address
+
+no ip directed-broadcast
+
+shutdown
+
+!
+interface Serial0
+
+ip address 10.1.1.2 255.255.255.0
+
+clockrate 56000
+
+!
+interface Serial1
+
+no ip address
+
+no ip directed-broadcast
+
+encapsulation frame-relay
+
+logging event subif-link-status
+
+logging event dlci-status-change
+
+clockrate 56000
+
+no frame-relay inverse-arp
+
+frame-relay intf-type dce
+
+frame-relay route 122 interface Serial2 221
+
+frame-relay route 123 interface Serial3 321
+
+!
+interface Serial2
+
+no ip address
+
+no ip directed-broadcast
+
+encapsulation frame-relay
+
+logging event subif-link-status
+
+logging event dlci-status-change
+
+clockrate 56000
+
+no frame-relay inverse-arp
+
+frame-relay intf-type dce
+
+frame-relay route 221 interface Serial1 122
+
+!
+interface Serial3
+
+no ip address
+
+no ip directed-broadcast
+
+encapsulation frame-relay
+
+logging event subif-link-status
+
+logging event dlci-status-change
+
+clockrate 56000
+
+no frame-relay inverse-arp
+
+frame-relay intf-type dce
+
+frame-relay route 321 interface Serial1 123
+
+!
+interface BRI0
+
+ip address 150.1.1.1 255.255.255.252
+
+no ip directed-broadcast
+
+encapsulation ppp
+
+dialer map ip 150.1.1.2 name R2 broadcast 2335552221
+
+dialer-group 1
+
+!
+ip classless
+
+!
+dialer-list 1 protocol ip permit
+
+!
+line con 0
+
+exec-timeout 0 0
+
+logging synchronous
+
+transport input none
+
+line aux 0
+
+line vty 0 4
+
+login
+
+!
+end
+
+
+The key command in the global configuration is frame-relay switching. You must have this configured before you can configure the interfaces. 
+
+
+The interfaces will be configured with the frame route command. Let's take a look at what each value means in the command frame-relay route 122 interface Serial2 221.
+
+
+frame-relay route - the command
+
+
+122 - the incoming DLCI on this interface
+
+
+interface serial2 - the interface the data will be sent out
+
+
+221 - the outgoing DLCI
+
+
+This command on S1 means that anything that comes in on this port on DLCI 122 will be sent out interface serial2 on DLCI 221.
+
+
+It's a good idea to hard-code the interfaces to act as DCEs with the frame intf-type dce command. Since these interfaces are acting as DCEs, the clockrate command is needed for the line protocol to come up.
+
+
+Once you've configured your frame switch as shown and have configured the frame map statements on the "production" routers, you can test the frame switch configuration. On the frame switch, run the command show frame route .
+
+
+FRAME_SWITCH#show frame route
+
+Input Intf Input Dlci Output Intf Output Dlci Status
+
+Serial1 122 Serial2 221 active
+
+Serial1 123 Serial3 321 active
+
+Serial2 221 Serial1 122 active
+
+Serial3 321 Serial1 123 active
+
+
+You should see "active" for all the interfaces. If you see "deleted", make sure your frame switch interfaces are open if they are, check the router configs.
+
+
+Keep in mind that you can still configure routing protocols to run on ports that you're not using for frame switching. The router we used here had an ethernet port and BRI port, and the BRI port has been configured as part of the production network. Running frame switching does not disable IP routing.
+
+
+Purchasing and configuring your own frame relay switch is an invaluable part of your Cisco education. By practicing your frame commands and configuring frame connections over your own frame relay cloud, you're polishing your Cisco skills and gaining knowledge that cannot be duplicated by simulator programs.
+
+
+To your success,
+
+
+Chris Bryant
+
+
+CCIE #12933
+
+

@@ -1,0 +1,44 @@
+Title: 
+Little-known Strategies to Maximize the Life of Your Hard Drive
+
+Word Count:
+1034
+
+Summary:
+Your hard drive is likely one the most important things you own. It contains work data, school data, emails, photos, music, movies, tax information, etc… Incidentally, the hard drive is also one of only two moving components in your computer (the other being your optical drive). The following is a list of important maintenance and monitoring techniques you can use to maximize the life of your hard drive and prevent data loss.
+
+
+Keywords:
+data recovery, hard drive recovery, hard drive maintenance, computer maintenance
+
+
+Article Body:
+<b>Maximizing the life of your hard drive</b><br><br>
+
+If I asked you the question: which part of your computer is the most fragile, what would you say? What if I asked: which part is most important to you? 
+Often, the answer to both of these questions is your Hard Drive.<br><br>
+Your hard drive is likely one the most important things you own. It contains work data, school data, emails, photos, music, movies, tax information, etc… Incidentally, the hard drive is also one of only two moving components in your computer (the other being your optical drive). The following is a list of important maintenance and monitoring techniques you can use to maximize the life of your hard drive and prevent data loss.<br>
+<br>
+<b>Hard drives are physically fragile – handle with care</b>
+Statistics show that 25% of lost data is due to a failure of a portable drive. (Source: 2001 Cost of Downtime Survey Results)
+Contrary to its seemingly rugged appearance, your hard disk is a very delicate device that writes and reads data using microscopic magnetic particles. Any vibration, shock, and other careless operation may damage your drive and cause or contribute to the possibility of a failure. This is especially relevant for notebook users, as they are most at risk of drive failure due to physical damage, theft, and other causes beyond their control. That’s why we recommend regular backup of notebook hard drives, as often as possible. 
+Possible solutions include external USB or Firewire drives (although these are prone to the same risks), desktop synchronization, or backup at a data center through the web. <br><br>
+
+<b>Hard drives write data in a non-linear way forcing it to become fragmented.</b><br>
+When files accumulate on your hard drive, they do not just get written in a linear fashion. A hard drive writes files in small pieces and scatters them over the surface. The fuller your hard drive becomes and the more files you save and delete the worse file fragmentation can be. Hard drive access times increase with fragmentation since your drive must work harder to find all the pieces of the files. The more fragmented your data is, the harder the actuator arm has to work to find each piece of a file.<br> 
+<b>A case in point:</b> Disk fragmentation is a common problem for users of Outlook Express and database software. Each time outlook saves new mail, it does so in a different physical location from the previous time. This results in extreme fragmentation, causing longer hard drive access times and forcing more strain on the heads. This strain can eventually lead to a head crash, and often that means a virtually unrecoverable drive.Finally, in the event of a total crash, a fragmented drive is much more difficult to recover then a healthy defragged drive.<br> 
+<b>Luckily, Windows makes it remarkably easy to defrag your hard drive</b>, simply launch the Disk Defragmenter utility <i>(Start > Programs > Accessories > System Tools)</i>, choose which disk or partition you’d like to defragment and set it to work overnight or while you are not actively using your computer. Defragmentation will speed up your computer and ensure a longer life for your hard drive.<br><br>
+
+<b>A very small power surge can fry a hard drive – use a UPS and turn off your computer when you can</b><br> 
+Another little-known fact about the fragility of your hard drive is its susceptibility to electrical failure. An electrical failure can be caused by a power surge, lightening strikes, power brown-outs, incorrect wiring, a faulty or old power supply, and many other factors. If a power surge enters your computer, it may do an unpredictable amount of damage, including destroying your hard drive’s electronics or crashing the heads and possibly resulting in total data loss. 
+The best way to protect your computer from such dangers is to use a highly rated protected power bar or an Uninterruptible Power Supply (UPS). Although these devices won’t eliminate the chances of a crash, they will serve as effective protection in most cases. Also, you can minimize the danger of an electrical problem and reduce wear of your hard drive by turning off your computer or using power-save modes whenever possible. It’s a known fact that 100% of drives fail, the question is when will it happen and will you be prepared? Make sure to check out the knowledgebase section of our website for more detailed information on how electrical power affects your computer.<br>
+<br>
+<b>Be SMART, monitor the health of your drive to prevent unexpected crashes</b><br> 
+All modern hard drives have a self-monitoring technology called SMART (Self Monitoring Analysis & Reporting Technology). What most people don’t realize is that the majority of hard drive failures do not have to be unexpected. Most failures occur as a result of long-term problems which can be predicted. By regularly monitoring disk health and performance, you can know about potential hard drive problems before you lose any of your data.<br> 
+Several excellent utilities are available, including DiskView and Stellar SMART for standard IDE and SATA desktop drives. Also available are tools that monitor the health of SCSI drives and full RAID Array systems. Ariolic Software offers a great utility called ActiveSMART.<br><br>
+
+<b>The only fool-proof way to prevent data loss is... Backup!</b><br>
+If you only take one of the suggestions here to heart, let it be this one: always back up your important data. After all the monitoring and all the prevention measures are in place, one fact still remains: all hard drives fail. Backing up regularly will ensure that you’re never caught without your critical data. For individuals, the simplest solutions include external portable hard drives, dvd’s, and online storage. For businesses, we recommend renting space at a secure data centre and implementing a disaster recovery plan, regardless of the size of your business.<br>
+I hope that the above techniques give you some idea of the importance of hard drive maintenance and provide some insights in how you can protect yourself from data loss.
+
+

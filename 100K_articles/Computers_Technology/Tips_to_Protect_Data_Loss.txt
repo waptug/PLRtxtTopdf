@@ -1,0 +1,58 @@
+Title: 
+Tips to Protect Data Loss
+
+Word Count:
+388
+
+Summary:
+Prevention is always better cure!!
+
+
+Keywords:
+Tips, Protect Data Loss
+
+
+Article Body:
+Prevention is always better cure. In order to avoid data loss situation, you could observe the following steps:
+
+1. Use an Anti Virus software and keep it updated
+
+Antivirus is designed to protect you and your computer against malicious computer virus. Some virus infections can delete, modify your data secretly and cause your computer to crash. So be sure to update your Antivirus software with the latest patch and signature files for maximum security.
+
+2. Protect against power surges with an UPS
+
+An uninterruptible power supply protects your computer and data during a power surge or failure. The spare battery in the UPS gives you ample time to save your documents and shut down Windows properly so that you don't lose any files or damage any hardware components. 
+
+3. Keep your machine in a dry, shaded and dust-free area
+
+Never leave your computer near places where it is directly exposed to rain, sun or humidity. Such conditions have the tendency to cause rusting and damage to your hardware parts. 
+
+4. Do not attempt to repair or open up your computer without assistance 
+
+Without experience, you may damage the circuit boards, hardware components and worst of all, receive a nasty electric shock! Always consult an expert.
+
+5. Do not over-tweak your system 
+
+Avoid modifying your system registry or overclock your hardware to yield performance boost unless you're absolutely sure of what you're doing. You don't wish to fry your computer. 
+
+6. Store your backups at an off-site location 
+
+This helps to protect your backup from damage in case of a fire or disaster.
+
+7. Avoid moving your computer when it is in operation
+
+You definitely would not wish for your power cord to fall off and cause a data corruption and physical damage to your hard disk such as a head crash while working on a project. 
+
+8. Do not share access to your computer with strangers on the network 
+
+Your computer data can be prone to theft and modification if anyone on the network can access your files freely. 
+
+9. Practise disk maintenance
+
+Clean up temporary files, unused files and defragment your hard disk from time to time. This helps to keep your hard disk on top form. 
+
+10. Read failure symptoms 
+
+You know it's time to start backing up all your data files when your hard disk starts producing funny noises and your system starts getting cranky.
+
+

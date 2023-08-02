@@ -1,0 +1,60 @@
+Title: 
+Computer Virus And Internet Worms Explained
+
+Word Count:
+670
+
+Summary:
+Is your computer sluggish? It won't open programs and you can't get into anything? Well, maybe you have a sick computer. Just as people get ill from viruses, so do computers. When this happens, you need to have a computer technician look at the computer to re-format and get rid of the virus. If you know something about computers, you might be able to do this yourself.
+
+What is a Virus?
+
+A virus is a parasitic program written to intentionally enter a computer without the u...
+
+
+Keywords:
+blackworm virus, antivirus, computer security
+
+
+Article Body:
+Is your computer sluggish? It won't open programs and you can't get into anything? Well, maybe you have a sick computer. Just as people get ill from viruses, so do computers. When this happens, you need to have a computer technician look at the computer to re-format and get rid of the virus. If you know something about computers, you might be able to do this yourself.
+
+What is a Virus?
+
+A virus is a parasitic program written to intentionally enter a computer without the user's  permission or knowledge. The word parasitic is used because a virus attaches to files or boot sectors and replicates itself, which allows it to spread. Though some viruses do little more than copy themselves, others can cause serious damage or affect program and system performance. A virus should never be assumed harmless or left on a system.
+
+Types of viruses
+
+Viruses are classified by the ways they infect computer systems:
+
+1) Program: Executable program files such as those ending with the extensions .Com, .Exe, .Ovl, .Drv, .Sys, .Bin
+2) Boot: Boot Record, Master Boot, FAT and Partition Table.
+3) Multipartite: Both program and boot infector.
+
+What is Trojan Horse?
+
+Besides being a large wooden horse used in the Trojan war 2500 years ago (and more  recently by Brad Pitt), a Trojan Horse or Trojan is a computer program that seems innocuous or harmless, but conceals another more nasty function. Generally a Trojan is contained in a part of program brought into your computer from an outside source - (e.g. floppy disk, CD, internet download, infected email). Trojans can be dangerous sometimes. For example a program may appear to be a computer game demo, but while you enjoy the game, it may be happily formatting your hard disk or emailing porn sites to everyone in your email address book.
+
+Trojans are also used as a 'back door' or 'trap door' to sneak into a computer's operating system's information. An example is a program that pretends to be the system log-in program (such as you find in Windows NT/XP or Linux). When an unsuspecting user tries to log-in, the Trojan program captures the user-name & password. Then it may indicate a failed log-in attempt and exit to the real log-in program. The user may successfully log into the system next time, but by that time Trojan has also got enough details to log into the system.
+
+Example Trojans
+
+Notroj. This Trojan horse pretends to be a program that guards against Trojans. It's actually a time bomb that wipes out the hard disk after it's more than 70 percent full.
+
+PWSteal.Refest A Trojan Horse that installs itself as a BHO (Browser Helper Object) for  Internet Explorer and steals online banking information when it is submitted in web forms.
+
+PWSteal.Likmet.A A Trojan horse that displays a fake MSN Messenger logon window and steals the password provided.
+
+Run.me. This is a graphics program, which plays the Star Spangled Banner and displays the American Flag while it worms its way into the hard disk and erases the data on it.
+
+What is Worm?
+
+A Worm is a self-propagating program that works its way through a system or network (like the Internet), often causing damage. It does not require a host program to activate it. Someone has to insert a worm directly into network of interconnected computers where messages can be sent from one to another and data files and programs exchanged. An example is a local area network where each computer has its own files, programs operating systems and hard discs such as would be found in a university or corporate setting.
+
+Example Worms
+
+Alarm Clock Worm. A worm that reaches out through the network to an outgoing terminal (one equipped with a modem), and places wake-up calls to a list of users.
+
+Worm Watcher. A special program which automatically takes steps to limit the size of a worm, or shut it down, it grows beyond a certain limit. The worm watcher also maintains a running log recording changes in the
+
+

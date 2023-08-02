@@ -1,0 +1,50 @@
+Title: 
+Anti-Spyware Programs
+
+Word Count:
+705
+
+Summary:
+If you are a regular Internet user, then you've probably come across the term "spyware". This is a pretty good description of what these programs are. Spyware is a program that exists within your computer system to carry out tasks like displaying unwanted ads, recording your keystrokes, and even monitoring how much you use your computer.
+
+These programs enter your computer system without you even knowing it (just like real spies). They may slip past you when you’re download...
+
+
+Keywords:
+
+
+
+Article Body:
+If you are a regular Internet user, then you've probably come across the term "spyware". This is a pretty good description of what these programs are. Spyware is a program that exists within your computer system to carry out tasks like displaying unwanted ads, recording your keystrokes, and even monitoring how much you use your computer.
+
+These programs enter your computer system without you even knowing it (just like real spies). They may slip past you when you’re downloading music, or they may even be disguised as programs that you thought were harmless. That’s how tricky the creators of these programs are.
+
+So what exactly does this mean for you? The implications of this range from the annoying, to the down-right maddening. On the one hand, some spyware programs simply generate pop-up ads while you are browsing. Others can change your browser's homepage.
+
+The other, more disturbing, part of this, is that some spyware takes note of what your computer habits are, what sites you visit, and even (and this is the scariest part) can record your user name, passwords, and credit card information. This information is then sent back to the person spying on you. There is no telling, really, what he or she will then do with that information.
+
+Fortunately, there are programmers who have worked on solutions addressing spyware. These solutions comes in the form of anti-spyware programs. Anti-spyware programs are designed to recognize the spyware that live in your computer. These anti-spyware programs are like dogs trained to sniff out the spies and alert you of their presence.
+
+So just how does anti-spyware work? How is it able to detect programs that are designed not to be found?
+
+Spyware, just like other programs, has a code that differentiates it from other programs. That code is called a signature. The signature is as unique to that program as a fingerprint. Each anti-spyware program contains a vast database of these signatures.
+
+When the anti-spyware scans your computer for spyware, it compares all of the files in your system to signatures in its database. If it finds a match between a signature in the database and a file in your computer, it raises an alarm. It then gives you the option to remove that file or to quarantine in order to later report it.
+
+You might be wondering, "why would I want to quarantine spyware and report it? Wouldn't it be better to just delete it?"
+
+Not exactly.
+
+The programmers of spyware know that anti-spyware programs will get rid of their creations. In order to keep on advertising on your computer or stealing information, they create new spyware that has signatures that haven't yet been recorded in anti-spyware databases.
+
+This is why you can put a file suspected of being spyware in quarantine, and why reporting it to anti-spyware creators is so important. The programmers are alerted of this suspicious file and they examine it to see if it is really spyware. If they determine that it is, they’ll update their anti-spyware signature database to include the program to recognize the new spyware.
+
+So if you're a regular Internet user, it is a good idea that you install anti-spyware programs. It is a good idea to have at least two anti-spyware installed, as one program working alone may not have a database as extensive as two. That way, you have a much finer net with which to screen for spyware that enters your system.
+
+Getting more than one anti-spyware program will not cost you very much. It may, in fact, cost you nothing at all! Several reputable anti-spyware programs are available for free. (Ad-Aware, and Spybot: Search and Destroy are the most popular). Their creators of anti-spyware do so for reasons ranging from building a good reputation, to allowing you to sample their product.
+
+Installing anti-spyware in your system should not be the end of your spyware campaign. Regularly check your anti-spyware program's website in order to look for updates, so that you can continue to detect new spyware.
+
+Securing your data is as important as securing your actual homes, these days. Arm yourself with good anti-spyware and you will be a step closer to breathing easier when you go online.
+
+

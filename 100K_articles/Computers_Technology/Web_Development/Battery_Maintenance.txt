@@ -1,0 +1,52 @@
+Title: 
+Battery Maintenance
+
+Word Count:
+640
+
+Summary:
+To ensure the integrity of any Uninterruptible Power Supply, Telecommunications 48V system or generator, the lead acid batteries must be checked and maintained.
+
+Surprisingly what ever the cost of your Power Protection system, whether it is a stand alone UPS System or Standby Diesel Generators the most common single point of failure are the batteries.
+
+High resistance, leakage or open circuits will cause batteries to fail; no longer providing the expected autonomy or, in ...
+
+
+Keywords:
+uninterruptible power supplies,diesel  generators, load bank
+
+
+Article Body:
+To ensure the integrity of any Uninterruptible Power Supply, Telecommunications 48V system or generator, the lead acid batteries must be checked and maintained.
+
+Surprisingly what ever the cost of your Power Protection system, whether it is a stand alone UPS System or Standby Diesel Generators the most common single point of failure are the batteries.
+
+High resistance, leakage or open circuits will cause batteries to fail; no longer providing the expected autonomy or, in the case of a generator the inability to start. The Result - loss of the site load. Then suddenly you require a 24-7 emergency call out engineer.
+
+Uninterruptible power supplies may have internal batteries or housed in separate battery cabinets. Each battery has a recommended design life, usually 5 years or 10 years, although these are optimistic as they don't take into account high usage of the UPS Battery system caused by intermittent spikes, brown outs or voltage fluctuations which are absorbed by the batteries to protect your mission critical sensitive systems.
+
+Even though the battery may have an operating life expectancy stated by the manufacturer of typically up to ten years, if it is not checked on a regular basis it can and will fail. In a string of 32 blocs all it takes is one battery to become high impedance and the complete string will be useless as the load will be unable to draw the current it requires and as a result the load will be lost and your critical load will fall over. The old batteries can be removed and new batteries supplied.
+
+The most obvious signs of Battery leakage due to failure within the sealed lead acid battery causing the casing to split can be visible. Other issues of high impedance and open circuit are not obvious and require regular checks.
+
+There are a number of different types of battery construction but they can be loosely divided into to two common types-'wet cells' and 'valve regulated lead acid' (VRLA) batteries( often referred to as just ‘sealed lead acid batteries').
+
+Wet cell battery maintenance can be more time consuming, as the trade off against increased life expectancy is the higher cost of maintenance due to the necessity of taking specific gravity readings and ‘topping' up the cell. A visual check of wet cell batteries needs to be undertaken on a more regular basis as any noticeable drop in electrolyte level must be swiftly rectified.
+
+The VRLA 'lead acid' battery is more difficult to check being a sealed battery. The most common method of testing, often built into most UPS systems equipment is a battery self test which is often carried out automatically on a weekly/monthly time cycle. If the test fails the UPS system will generate an alarm. The major drawback is if the equipment is supporting a small load comparative to the capacity of the equipment the battery will not be worked very hard and could prematurely fail.
+
+The more reliable means of regular testing a battery is either:-
+
+1. By loading the battery to one third of its capacity and carrying out a capacity test
+
+2. impedance testing -increasingly popular as it's non-intrusive.
+
+There are several methods of achieving the same result but one method is to pass a known ac current through the battery and measure the ac voltage and thus, by using Ohms Law calculate the battery impedance. These results can be compared with the manufacturer's recommended value and by keeping records can be compared over a period of time allowing a replacement programme to be implemented when the battery impedance has reached a preset value.
+
+Which ever method of battery testing you choose , regular battery maintenance is an integral part of any Uninterruptible Power Supply or Generator standby power protection system .
+
+PowerContinuity Means Business Continuity
+
+For further information regarding uninterruptible power supplies please visit our website at http://www.powercontinuity.co.uk
+
+

@@ -1,0 +1,39 @@
+Title: 
+Colocation Facility Cooling System Considerations
+
+Word Count:
+690
+
+Summary:
+It is important to look for a colocation facility that has Internet provider options and backup power systems. Equally important is a facility with the right design, chillers, and CRAC units to cool the server room.
+
+
+Keywords:
+colocation,colocation service provider,san diego colocation
+
+
+Article Body:
+Most companies know to find a colocation facility that has good Internet service and Internet provider and carrier options. However, cooling systems are often overlooked.  Most servers now are made to operate at normal office conditions, which mean that two environmental factors should be met:<ul><li>The temperature should stay between 72&deg; F and 76&deg; F</li><li>The humidity should be between 45% and 60%, with 45% ideal</li><li>Cooling units must be on continuously, so servers will not overheat (this precludes standard HVAC units).</li></ul>
+
+If the cooling system goes down, it can cause the equipment to overheat, causing the network to go down and even damaging equipment. Colocation facility cooling systems include three areas: the facility layout, chillers, and computer room air conditioning (CRAC) units.
+
+<b>Facility Layout</b>
+Servers generate heat as they run. This is generally blown out the back of the server by fans; cool air is taken in through vents at the front. Server racks and rows should be laid out to manage hot air coming from the servers and conditioned air going to their intakes by designating “hot rows,” which face the server fans, and “cold rows,” which face the intakes. Designated hot and cold rows keep air circulating in the best directions to keep servers from overheating. 
+
+<b>Facility Design</b>
+There are two kinds of building design for colocation facilities: raised floor and solid floor. Raised floor was the preferred structure when servers were towers because the mesh flooring allowed air conditioned air to blow from the bottom directly across their intakes. However, since servers are stacked in racks, cold air must reach the tops of the racks to cool machines. Solid floor facilities are a better option. The facility should take into account the following: 
+
+<ul><li>Solid floor designs must have mesh front and rear doors for th server cabinets to allow hot air to escape.</li><li>For raised floor designs, cold air must have enough air pressure to force air to the top of the server cabinets. Ideally, special duct work will be in place to force the airflow upward.</li><li>For raised floors, server cabinets should not have vents in the doors that would let cool air escape.</li></ul> 
+<b>Chiller Systems</b>
+Chillers pipe water or water/glycol coolants through the CRAC units. Chiller systems include pumps, pipes, and the chillers themselves. The following points should be considered to make sure that the system is adequate to cool the facility:
+
+<ul><li>Sufficient capacity</li><li>Backup units for the pumps and chillers which switch over automatically</li><li>Regular maintenance</li></ul>
+<b>CRAC Units</b>
+CRAC units are massive, dedicated air conditioners which manage temperature and humidity.  They have many parts and are complicated – meaning failures can be common. The CRAC units should be well maintained, but the most important thing is redundancy. Redundancy is determined by the overall capacity of the CRAC units; there should be enough units that even with a failure, the facility will still be adequately cooled. As with chillers, capacity for CRAC units is determined by tons per square foot.
+
+<b>Verify Capacity</b>
+Capacity is determined by the ratio of tons per square foot. To determine whether a system has sufficient capacity, divide the total tonnage of the units by the square footage of the building. If there are four 30-ton CRAC units in a 4,000 square foot facility, then the CRAC capacity is .030 tons per square foot (120 tons / 4,000 square feet). The ideal ratio of tons to square feet for the CRAC system is .030 ton/square foot or higher; the ratio should not be below .025 tons/square foot. This same formula is used for chiller systems, with the same ideal ratios.
+
+It is important to look for a colocation facility that has Internet provider options and backup power systems. Equally important is a facility with the right design, chillers, and CRAC units to cool the server room. Keeping equipment from overheating will keep networks up and makes equipment last longer. Like Internet connections, network uptime, and power backups, cooling systems signify a quality colocation facility.
+
+

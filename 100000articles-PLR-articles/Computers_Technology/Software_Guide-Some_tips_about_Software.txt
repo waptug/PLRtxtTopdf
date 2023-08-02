@@ -1,0 +1,30 @@
+Title: 
+Software Guide-Some tips about Software
+
+Word Count:
+335
+
+Summary:
+The term software is generally used for computer software that is an essential part of the computer system. It stores and process all encoded information or computer instructions on PC. Computer software has very vast scope in computer world.
+
+
+Keywords:
+free software
+
+
+Article Body:
+The term software is generally used for computer software that is an essential part of the computer system. It stores and process all encoded information or computer instructions on PC. Computer software has very vast scope in computer world. 
+
+According to computer science and software engineering computer software is all information that is processed by computer systems, programs and other data. Software is completely opposite to hardware, which is used to store or execute the software. Software is loaded into random access memory and then executed in central processing unit. It belongs to machine language that is not easy to understand for the users. 
+ 
+Every operating system has its own software that requires an individual processor. It understands machine language that consists of several groups of binary values, which gives processor instructions and data. Software converts machine language in simple language that enables the users to understand machine language. 
+ 
+Software generates a connection between electronic hardware and data. The user can operate the sequence of data instructions with the help of software. Software can use any type of data such as output/input. Sometimes the output of software can be input for another software. Software provides an interface between hardware, data and other software.
+ 
+Software can be divided in three classes such as system software, application software and programming software. System software enables the users to run computer hardware and computer system including operating system, device drivers, diagnostic tools, servers, windowing systems and some more. 
+ 
+Users can perform one or more tasks simultaneously with the help of application software. With the help of application software, they can perform all applications like office suites, business software, databases and games. Whereas the programming software offers some functional tools that enables the programmer to write difficult computer programs. Programming software provides some useful tools like text editor, compiler, interpreter, linker and debugger etc.
+ 
+After installing software a computer can operate that vary software. Application software passes the instructions to system software and then computer program executes on computer.
+
+

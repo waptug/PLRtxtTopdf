@@ -1,0 +1,42 @@
+Title: 
+Handheld Devices: Tips on Purchase Recommendations
+
+Word Count:
+338
+
+Summary:
+Handheld devices shouldn't be an impulse purchase. Take care in selecting and installing your content on handheld devices.
+
+
+Keywords:
+handheld device, handheld devices
+
+
+Article Body:
+Use these simple, low-tech tips and best practices to minimize your handheld device support headaches and maximize the security of your clients’ incredibly valuable data.
+
+Pay Attention to Product Reviews
+
+Don’t take Plug-and-Play claims at face value.  Over the years, Microsoft Windows hecklers have taken many a cheap shot at the OS family by branding it "plug and pray". 
+
+Before making a handheld device purchase recommendation, check out some independent product reviews in leading personal technology magazines and online portals.  Pay particular attention to comments regarding device drivers and ease-of-installation.
+
+Make an Informed Recommendation
+
+Do your homework before making the handheld device purchase recommendation.  Because of their small size and minimal costs, PDAs are often impulse purchases for your clients.  However, making the "right" hardware and software selections can have an enormous impact on clients’ computer support costs.
+
+Iron Out Who Will be Responsible for Installation and Support
+
+Watch out for dangerous end user installation snafus.  Unless your clients’ end users are very PC savvy, you probably don’t want to leave users to install and support their own handheld device to desktop connectivity. All too often, a user inadvertently will break a multitude of key software configurations while accepting default installation settings.
+
+Determine What Can Be Stored on Handheld Devices
+
+Consider if any proprietary data should be "PDA-banned".  Be sure you and your clients have thought through what kinds of sensitive data can be stored on these handheld devices, given that the pocket-sized PDA devices are inherently vulnerable to theft.
+
+The Bottom Line about Handheld Devices
+
+In the same context of data security, establish some kind of backup procedures for your clients. We’ve all heard the horror stories of users losing three years of appointments and 2,000 customer names that were stored on their handheld device and not backed up anywhere else. Don’t let your clients’ organizations or supported users become one of these statistics.
+
+Copyright MMI-MMVI, Computer Consulting 101. All Worldwide Rights Reserved. {Attention Publishers: Live hyperlink in author resource box required for copyright compliance}
+
+

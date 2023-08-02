@@ -1,0 +1,52 @@
+Title: 
+Inside Your Inkjet Printer:  How Does It Work?
+
+Word Count:
+645
+
+Summary:
+Nearly every computer user has an inkjet printer, yet most people have no clue how it works. This article gives a brief history of inkjet printer technology advancements, and explains what's going on inside your printer when you click that "Print" button.
+
+
+Keywords:
+inkjet, printer, ink, printers, printhead
+
+
+Article Body:
+Have you ever wondered how your inkjet printer works?
+
+How does the ink get from the inkjet cartridge to the paper?  Why is the print quality is so clear?  Why the printing is so quiet?  
+
+Generally, all that most people know is that there's some movement and a faint high pitched sound when it's printing something -- and then the finished document comes out.
+
+Unlike dot matrix and character printers that strike ribbons to create an image, inkjet printers do not physically touch the paper.  
+
+All inkjet printers function using the same basic principles.  Tiny ink droplets are "jetted" (or pushed) out multiple holes onto paper in a controlled and systematic fashion.  This is where the term "inkjet" comes from.
+
+The size of ink droplets, speed and reliability of this type of printer has been continuously improving since its inception in 1976.  In 1993, Epson was the first manufacturer to produce an inkjet printer using micro-piezo technology.  The Epson Stylus 800 was the first printer to use the multi-layer actuator printhead (the printhead is the part of the printer that holds numerous tiny nozzles that actually squirts the ink onto paper).  
+
+This specific printhead utilized an electro-mechanical element that acted like a tiny control room.  When pulses of electricity passed through, it that gave specific signals to fire individual or multiple nozzles loaded with ink.  
+
+Micro-piezo technology utilized a tiny crystal in each individual nozzle that when electrically energized, would vibrate or bend causing a controlled amount of ink to be forced out onto paper.  When the electrical current is off, the crystal bends back to its original shape, creating a vacuum, thus pulling ink into the nozzle from the reservoir for the next commanded fire.      
+
+The Epson printhead was fixed to the carriage so it never needed replacing (the printer carriage is what moves laterally across the paper).  This also kept the cost of ink cartridges low since they were little more than reservoirs of ink.  
+
+This breakthrough printer produced a whopping 360 dpi (dots per inch) that was deemed, almost "letter quality" at the time.  With a printing speed of 150 - 180 characters per second, the new Epson became the user favorite printer for home and office. 
+
+At the same time, HP was using a similar technology.  A thermal jetting system was utilized in their printhead.  The printhead still acted like the control room but each individual nozzle was instead independently super heated by electricity, which caused the ink to explode onto the paper.  HP claims the temperature of a fired inkjet nozzle approaches that of the surface of the sun.
+
+HP elected to put the printhead on the inkjet cartridge itself instead of mounting it permanently to the carriage.  Since each inkjet cartridge would have its own printhead, replacement cartridges would be more expensive for these printers.  
+
+HP inkjet cartridges also could not print as fast as Epson because each nozzle needed to cool after firing.  This heating technology also limited the types of inks that could be used.
+
+In the 1990's, Canon, Epson and HP engineered printheads that applied even smaller droplets of ink, drastically improving dpi and resolution.
+
+While Canon and HP could produce a 6 - 10 picoliter droplet size from one nozzle, Epson was about half the size (between 3 - 6 picoliters).   Currently, there are printers available which will produce an amazing 1 picoliter droplet!  To get an idea of how small this is; a human hair is about 12 picoliters in diameter.  Most human eyes can't see one jetted droplet of ink on paper. 
+
+Inkjet printers have come a long way since their first inception.
+
+Printers today are twice as fast as their predecessors were, and are cheaper than ever.  Many printers can easily produce color photo quality images in at an incredible 6000 dpi.  
+
+As time goes on and as demand for printing remains high, the quality, speed and features of inkjet printers will only continue to improve.
+
+

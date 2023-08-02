@@ -1,0 +1,30 @@
+Title: 
+Email blasting from shared hosting
+
+Word Count:
+391
+
+Summary:
+Sending large volume of emails from shared hosting is always a problem. Shared web hosting is not designed to allow 10,000 email sending at once. However, there is always a trick for this. See the pros and cons before we doing it.
+
+
+Keywords:
+web hosting, hosting account, links, webmail, email account
+
+
+Article Body:
+Sending large volume of emails from shared hosting is always a problem. Shared web hosting is not designed to allow 10,000 email sending at once. However, there is always a trick for this. See the pros and cons before we doing it.
+
+First of all, email spamming is bad, and if you are sending unsolicited email or marketing letters to anyone in your mailing list. Consequences is that your hosting account will be suspended. Your domain name and IP address could be blacklisted as well. As it’s a shared IP address, the hosting company will not want to take any risk, and shut you down whenever they smell that your launching email broadcasting to the whole world.
+
+Now you had realized the consequences that you will get yourself into. Now, what if you are running a forum of 10,000 members, and you would like to email inform them about forums upgrade etc. What should you do, how to email to them at once if your shared hosting only allow 50 or 100 email sendings limit per hour??
+
+First, check with your hosting provider, inform them you require to send out 10,000 emails from your website, and request them to give you the highest email sending limits. Let say now they set it to 500 emails per hour. And you will require to split your mailing list into 20 group and send them out each hour. That is a good beginning.
+
+What if you are given only 100 or less email limit per hour. You will require to setup 100 groups. That is lots of work to do. Not to worry, some engineering work will solve this. First, insert all your email address into mysql database. Create a php file that pull out 100 emails and uses phpmail() to send them out one after another. By this you have the script that fetch 100 emails at a time. Then from cpanel use the crons job to schedule this script to run every hour, by that you will have 100 outgoing emails per hour. 
+
+Your email will keep sending out each hours, and make sure you not sending repeating to same recipient, they will going nuts receiving tons of email. After email sent, remove from mysql database. It’s the safest thing to do.
+
+Good luck to your email marketing effort, and this is the best solution you can have when using shared hosting.
+
+

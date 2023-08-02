@@ -1,0 +1,48 @@
+Title: 
+Differences In Microphones For Your Stage Set-up
+
+Word Count:
+648
+
+Summary:
+Using different types and manufacturers of microphones can make all the difference in the world when setting up a stage for your band. If you use the wrong one, you battle with feedback all night. Even if you use a feedback "eliminator", you will suffer very poor frequency response, because it is being "eliminated" as feedback, instead of the desired freguencies that make your music full and enjoyable.
+
+Here are some things you should know, from the school of hard knocks, a...
+
+
+Keywords:
+musical instruments, guitar repair, music, guitar
+
+
+Article Body:
+Using different types and manufacturers of microphones can make all the difference in the world when setting up a stage for your band. If you use the wrong one, you battle with feedback all night. Even if you use a feedback "eliminator", you will suffer very poor frequency response, because it is being "eliminated" as feedback, instead of the desired freguencies that make your music full and enjoyable.
+
+Here are some things you should know, from the school of hard knocks, about microphones and their uses.
+
+Types: There are many types of microphones available but they generally divide into three groups: dynamic, condenser and ribbon.
+
+Dynamic microphones are the most common and the most basic types of microphones. They consist of a diaphragm attached to a coil that moves through a magnetic field inducing a small electrical signal. They operate using similar principals to a speaker and tend to have a limited frequency response, but are very rugged.
+
+Condenser microphones have become more popular over the years because they have a very wide frequency response (tone) and are not as delicate or as expensive as ribbon microphones. They are, however, more delicate than dynamic microphones. They require a power source that can be an internal battery, an external power pack or phantom power that is provided by the mixer. They work by supplying a charge to a fixed plate that creates a capacitor. A thin diaphragm is mounted adjacent to the plate and induces voltage changes in the plate when subjected to sound vibrations.
+
+Ribbon microphones produce sound by stretching a thin metal ribbon across a gap of a strong magnet. Sound moves the ribbon across the magnetic field creating electrical impulses. They have an excellent frequency response (tone) but tend to be very delicate and expensive. Since they are rarely used in basic P.A. systems, nothing more needs to be said about them.
+
+Polar Patterns: This refers to the directions that the microphone will pickup sound from. Polar patterns tend to be divided into two types: omni and uni-directional.
+
+Omni directional microphones are rarely used because they pick up sound from all directions and often pick up sound from directions you don’t want to have sound picked up from. Can you say...
+... "FEEDBACK"...
+
+Uni-directional microphones are the most common and probably total more than 95% of all microphones sold. They range from the shotgun, picking up sound from only straight in front of the microphone, to the cardioid, picking up sound from in front
+of, or somewhat around the front of, the microphone in a heart shape pattern.
+
+Knowing the pattern of a microphone is VERY important because it affects what area of sound that the microphone picks up from, as well as its susceptibility to feedback.
+
+Sensitivity: This refers to the level of “hearing” that a microphone possesses.
+
+The higher the sensitivity, the quieter the sounds that it will pick up. This is an important specification, especially dependant on your stage volume.
+
+Impedance: This is important to know so that you buy the proper microphone to match your particular mixer. Although many mixers have inputs for both high and low impedance microphones, some only have one or the other. Generally speaking, if the microphone’s impedance is above 1,000 Ohms (1k Ohm) it is considered high impedance, otherwise it is considered low. Most professional microphones are low impedance and come with a cable with XLR connectors. High impedance microphones generally come with a cable with phone (1/4”) connectors. You can purchase matching transformers for 1/4" connectors that change the impedance of high level inputs, like guitars or keyboards, to low level, balanced inputs, to help eliminate ground loops and noise.
+
+As you can see, chosing the correct microphone for your application can solve and enhance your performance and overall sound field from the stage. After all, your music, as represented by great sound, is what its all about.
+
+

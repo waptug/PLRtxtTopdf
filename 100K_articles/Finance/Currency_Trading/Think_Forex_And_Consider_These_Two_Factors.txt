@@ -1,0 +1,36 @@
+Title: 
+Think Forex And Consider These Two Factors
+
+Word Count:
+684
+
+Summary:
+Two factors relevant for traders are described in relation to the Forex market: daytrading possibilities and risk control
+
+
+Keywords:
+forex, trade, trading, online trading
+
+
+Article Body:
+In this article I will cover two important advantages that the Forex market offers to traders.
+
+Daytrading with a small account
+If you want to daytrade with stocks and you have less than $25.000 on the account, you are likely to have a hard life. The reason is that a rule called "pattern day traders" allows you to daytrade freely only if you have that amount or more on your account. If you have less, your daytrades (positions entered and exited the same day) are limited to three in any five trading days period. Your broker should monitor your activity and make sure you do not execute trades that are not allowed under the "pattern day traders" rule. This regulation applies for stocks and stock options. The Forex market at the time of this writing is not involved.
+
+Risk Control
+The Forex market has two characteristics that may translate in a better risk control on your trades. What I mean by risk control, is the possibility to define your maximum loss should the market move agains you. If we do not consider the use of options or other tools as a hedge, the way to take control of losses is by using a stop loss order.
+Nothing new, up to here. The problem that at times traders face is that a stop order can be executed at a price much worse than the one intended and originally set.
+
+Generally, there are two situation where this can happen.
+
+The first has to do with the liquidity of the market. Within this article, we can consider liquidity as a synonymous of trading volume. If liquidity is poor in a market, there might be a significant price difference from one execution to the next one. You can notice this easily in any intraday chart of a small volume security: the price does not move in a continuous an harmonic way, like it does in a very liquid market; rather, it has a tendency to "jump" from one level to the next. This can affect the execution of your orders in a negative way. The phenomenon is also referred to as "slippage". Here we consider in particular the exit order, but slippage can affect your entry order as well, and this could translate in for example in a buy order executed at a higher price than the one you wanted to buy. The Forex market does not fear competitors about liquidity. 1.5 Trillions dollar are traded in Forex every day. The other markets follow at a big distance.
+
+The second factor that gives trouble to risk control is in the occurence of price gaps. Say your stock closes today at 63, and your stop order is at 61.5. In theory, your maximum risk is 1.5 points per share. But the stock for any reason tomorrow opens for trading at 57, and you will be stopped out at that price, so the actual loss will be 5 points per share. Gaps are common in stocks whenever an important news is announced when the market is closed. Sometime an important news can cause a gap even intraday, especially in a not so liquid market. Some other times, the trading in a stock is suspended just in the wait of an important pending news. A gap in almost assured when the news is released. Of course, your position can also benefit from a gap, if the gap direction is in your favour. But the point here is that the occurence of gaps reduces your power to control risk with a stop loss order. The Forex market is virtually always open from Monday to Friday. There can be wild intraday moves caused by news, but the occurence of gaps is very rare within the week.
+
+These are just two of the potential advantages the Forex market offers to traders. There are many others that I will not cover here, from the cost of trading (commissions are often zero), to the amount necessary to open an account (which can be very low). All these factor explain why the Forex market is attracting more and more traders.
+
+Good trading
+Roberto Zarotti
+
+

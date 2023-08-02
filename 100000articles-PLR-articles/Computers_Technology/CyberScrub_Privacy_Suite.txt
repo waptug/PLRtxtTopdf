@@ -1,0 +1,70 @@
+Title: 
+CyberScrub Privacy Suite
+
+Word Count:
+491
+
+Summary:
+CyberScrub Privacy Suite is a tool intended to wipe out all traces of data from a PC hard drive and encrypt sensitive data. Used by federal agencies and the US military, CyberScrub Privacy Suite confirms to US Department of Defense 5220.22 standards for secure file erasure.
+
+
+Keywords:
+CyberScrub Privacy Suite, computer security
+
+
+Article Body:
+CyberScrub Privacy Suite is a tool intended to wipe out all traces of data from a PC hard drive and encrypt sensitive data. Used by federal agencies and the US military, CyberScrub Privacy Suite confirms to US Department of Defense 5220.22 standards for secure file erasure. 
+
+
+Even after deleting from the Recycle Bin, traces of files remain on the hard drive and are sometimes easily recovered. CyberScrub Privacy Suite prevents the recovery of these files, as well as protecting sensitive data which is to be kept. 
+
+
+The latest release of CyberScrub Privacy Suite, version 4.0, is packed full of features for keeping the most secure PC:
+
+&#9679;	Evidence of online activity destroyed, including temporary files, emails and cookies
+
+&#9679;	Evidence of P2P (file sharing) applications, including KaZaA, Morpheus, etc removed
+
+
+&#9679;	Newsgroup and download activity deleted
+
+&#9679;	Instant Messenger and chat logs destroyed
+
+&#9679;	Secure data encryption
+
+&#9679;	Create restore points before each action
+
+&#9679;	Various wiper levels for maximum security
+
+&#9679;	Panic button
+
+&#9679;	Stealth mode
+
+&#9679;	Inbuilt Support Ticket system
+
+&#9679;	Scheduler: set for PC startup or shutdown, browser close or set time
+
+
+&#9679;	Can be used with most Internet browsers, including Internet Explorer, Netscape, AOL, Mozilla, Firefox, Opera
+
+&#9679;	Also works with Microsoft Office files
+
+&#9679;	Microsoft Windows® 98/ME/NT/2000/XP compatible. Low system requirements
+
+
+&#9679;	Supported file systems: Fat12, FAT16, FAT32, NTFS, also floppy, ZIP and Jaz media
+
+&#9679;	Tested with Encase forensic recovery software
+
+&#9679;	VIA padlock certified
+
+
+CyberScrub Privacy Suite has a simple, clean user interface, now made easier to use with drag and drop integration with the Windows filesytem. Whilst installed to run on any user account on the PC, CyberScrub can be configured for a logged in user to only be capable of removing traces of their own activity. The administrator account has the power to set functions available to user individual accounts via the Permissions Module, and to destroy any file on the hard drive. 
+
+
+CyberScrub Privacy Suite is tested against Encase recovery software to ensure the best deletion performance. Encase are specialists in forensic computer data recovery. Using the most powerful of the wipe levels completely eliminates all traces of password files, temporary files, cookies, documents and download information so that even this sharp tool cannot dig up any trace of the files' existence. Restore Point creation is possible, meaning that if anything goes wrong, the PC can be sent back to it's previous state. For sensitive data that needs to be kept, and kept securely, CyberScrub Privacy Suite uses VIA Padlock Security, military-style encryption used by government agencies around the world. 
+
+
+CyberScrub Privacy Suite is currently only available for Windows based PCs, but can be run on most any hardware. Its overheads are small – only 16MB RAM and 14MB free hard disk space are all that it needs. The full version of the program is available, at the time of writing, for $49.95. The "CyberScrub Lifetime Insurance Policy" is also offered during the purchase process for a further $19.95, allowing unlimited downloads of all future upgrades for no extra charge.
+
+

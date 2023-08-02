@@ -1,0 +1,36 @@
+Title: 
+Dispensing: Making Money, or Just Making a Mess?
+
+Word Count:
+598
+
+Summary:
+Here are some automated dispensing basics and some pointers on what you should discuss with your solutions provider for your dispensing application.
+
+
+Keywords:
+ fluid dispensing, dispensing systems, automated dispensing, automated equipment, factory automation, custom machines
+
+
+Article Body:
+Grease, silicone, RTV, potting compound, anti-splatter fluid, rust inhibitor, marking fluids, hot glue. All of these materials have at least one thing in common: they’re dispensed on a daily basis in numerous industries across the US, oftentimes with wildly varying degrees of success. Our company works with these fluids regularly, for a wide variety of clients. In the last six years, we’ve leaned a lot about dispensing systems and how to apply them to meet the needs of our customers. Here are a few key elements to consider when facing your next dispensing application.
+<ul>
+<li>High Pressure or Low?</li>
+<li>Time-Pressure vs. Positive Displacement</li>
+<li>Closing the Loop with Flow Meters</li>
+</ul>
+High Pressure or Low?
+
+The viscosity (usually measured in centipoises) of our media will determine the pressure that it takes to move it. For example, dispensing dots of Cyanoacrylate, (Super Glue) might require no more then 5-10 PSI, while flange sealant (RTV) might require 2000 PSI or more. The exact pressure required doesn’t really matter, as components are available to cover most applications. The important thing is not to mix and match high and low pressure components. Sound obvious, right? Unfortunately, we see it every day.
+
+Time-Pressure vs. Positive Displacement
+
+The accuracy and consistency of your particular application will ultimately determine your equipment selection, and thereby the method of dispensing. In many applications where absolute consistency is not required, one of the simplest methods of dispensing is “time-pressure.” As the name implies, “time-pressure” involves opening a valve or orifice for a given duration to dispense a fluid at a given pressure. This theory holds that repeatedly opening the same valve, with the same fluid, at the same pressure, for the same length of time will yield similar volumes of dispensed fluids. Depending on the particular valve, method of actuation, and repeatability of the controller or PLC, this method can actually yield surprisingly repeatable results. Applications that involve large volumes of material such as running a bead, filling a container or void, or spraying glues or grease, respond very well to this method. Primary components are the valve, pressure pump or pot, and timer, oftentimes a PLC.
+
+Applications that hinge on a critical amount of adhesive or other fluid demand a more controlled process. Applying dots of grease, specific volumes of glue, or exact amounts of an expensive compound are examples of where positive displacement (PD) dispensing equipment is applicable. PD involves filling a chamber with a media and then using air pressure or other force to move this media downstream to the part. This chamber and a set of check valves or shut-off plates isolate the main supply of fluid from the part and force the fluid to be delivered in specific packets, or displacements. Main body sizes combined with fine mechanical adjustments allow for tailoring the volumes of these displacements to match the needs of the particular application.
+
+Closing the Loop—Flow Meters
+
+If the process is absolutely critical, or if the customer dictates, it may be necessary to verify the actual amount of fluid dispensed through use of a flow meter. A flow meter is a device that translates fluid flow into an electrical output signal. This signal is typically either pulsed-output or analog. Some examples of flow meters: coriolis, positive displacement, turbine, ultrasonic, and doppler. Each is of a different design and is engineered for a particular application. Volume (cc’s vs. gallons), flow (continuous vs. intermittent) and viscosity (thick fluids vs. thin), will all influence the type of meter that is suitable for your particular job.
+
+

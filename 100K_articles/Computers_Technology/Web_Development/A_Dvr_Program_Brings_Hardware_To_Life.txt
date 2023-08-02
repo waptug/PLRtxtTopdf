@@ -1,0 +1,46 @@
+Title: 
+A Dvr Program Brings Hardware To Life
+
+Word Count:
+636
+
+Summary:
+Congratulations! You just bought the fastest, most up-to-date computer in the world! It's so powerful, in fact, you couldn't possibly find a more complex or more efficient motherboard, the computer's main circuit board. It has heaps of RAM, or random-access-memory. RAM lets data anywhere be returned in any order. Your computer also has a bunch of ROM, or read-only-memory. This memory is nearly impossible to change, so it is used to dole out software that is closely related to...
+
+
+Keywords:
+DVR program, DVR programs
+
+
+Article Body:
+Congratulations! You just bought the fastest, most up-to-date computer in the world! It's so powerful, in fact, you couldn't possibly find a more complex or more efficient motherboard, the computer's main circuit board. It has heaps of RAM, or random-access-memory. RAM lets data anywhere be returned in any order. Your computer also has a bunch of ROM, or read-only-memory. This memory is nearly impossible to change, so it is used to dole out software that is closely related to hardware. Your system's external hardware includes a flat screen monitor, a color laser-jet printer, and a surround-sound package. After hauling the system to your house, you quickly unpack items from their boxes, connect all the wiring, and then turn on the console. You wait in anticipation as the memory loads. Then, unexpectedly, the screen blanks out. What happened? What is wrong with your computer? You check the wirings, and chuckle as you belatedly realize you forgot to install the operating system. The DVR program is as important to surveillance equipment as the operating system is to your computer. Surveillance cameras would not be the way they now are without a DVR program.    
+
+The Brain behind the DVR
+DVR refers to "digital video recorder." These machines keep becoming more complex, while generally becoming smaller. DVR programs are used make the linking and operation of the cameras smooth as silk. These can control features such as how fast and clearly images are captured, and the date and time stamping of recordings. The DVR without the needed software is like an eye without a brain: the camera watches without seeing.
+
+The 0s and 1s of It
+A DVD program works the same way as other computers programs. The life of software begins when the program's source code is written in a programming language. The source code is a series of declarations and statements written in a computer program language that humans can read. This code is written by applying certain tools, such as formal logic and instructions called algorithms. Sometimes, when necessary, programs are written directly by using the 0s and 1s of machine code. This is obviously not the most fun way to spend your day. 
+
+Inside the Boxes
+After software, such as a DVR program, has been written, it must be tested. In particular, the software's quality is tested. Is it complete, correct, and safe? Other more technical requirements have to be reviewed as well, among them the DVR program's efficiency, compatibility, portability, usability, capability, maintainability, and reliability. A computer software engineer uses two basic types of testing. In white box testing, an inside view of the test object and its processes are seen. On the other hand, black box testing perceives the test object from the outside. In other words, data is inputted and is then seen as the test object's output. 
+
+From Release to Retirement
+Software deployment of software, such as a DVR program, includes any activity that makes a software system available for use. This is a general process that should be customized based on specific requirements or features:
+
+* Releasing software involves preparing the putting together of software, and then transferring it to the site of the customer. 
+
+* Installing software's release involves inserting the software into a customer site for the first time. 
+
+* Activating software, such as a DVR program, is starting up the part of software that can be run.
+
+* Deactivating is the shutting down of any part of a system that can be run.
+
+* Adapting is done to change a software system that has already been installed.
+
+* Uninstalling if the removing of a system that is no longer needed.
+
+* Retiring is the withdrawing of a software's system after it becomes obsolete. 
+
+A DVR program is the "brain" of a DVR's body. Its creation, testing, and use are vital in bringing hardware to life.
+
+

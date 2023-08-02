@@ -1,0 +1,42 @@
+Title: 
+G-Code And Experts
+
+Word Count:
+519
+
+Summary:
+Do I need to be a G-Code Expert?
+
+In a word, no. You will probably need to know how to quickly scan your G-Code if you are having problems during your machining simulation. Other then that G-Code and a CNC program are throwaway programs for the most part. What do I mean by that? Let me explain.
+
+Let’s look at a specific design. Let’s say a 12” by 12” square. You build your model, run it through your CAM Software and create a CNC Program made up of G-Code instructions to y...
+
+
+Keywords:
+CNC Programming, G Code, G-code
+
+
+Article Body:
+Do I need to be a G-Code Expert?
+
+In a word, no. You will probably need to know how to quickly scan your G-Code if you are having problems during your machining simulation. Other then that G-Code and a CNC program are throwaway programs for the most part. What do I mean by that? Let me explain.
+
+Let’s look at a specific design. Let’s say a 12” by 12” square. You build your model, run it through your CAM Software and create a CNC Program made up of G-Code instructions to your machine. Say tomorrow the job requirements change to a 24” by 24” square. Do you go into your G-Code line by line and change the code? Most people wouldn’t. They would go back into their CAD or CAM program and scale the square up to 24” by 24”. Then post-process the job again to get their new G-Code program.
+
+There are some people that would do this editing line by line because the design is simple. Now think of a complex shape and what scaling it up or down would entail.
+
+This would include massive changes to the G-Code and reviewing it line by line. We are talking thousands of lines here vs. going back and quickly scaling the model and spitting out some new G-Code. And that is why G-Code is throwaway. Use it over and over when you can, but don’t fret over archiving it if something changes. It is much better to make a copy of the design (CAD File) in its original state and save that somewhere. That is much more useful.
+
+Post Processing? - Now you have me worried. With all the variations in G-Codes and M-Codes, how will I ever keep it straight?
+
+Don’t worry about that. The CAM program you choose will have many Post Processors. Post Processors are like translators. They help the CAM Program spit out the right G-Codes for your specific machine. All you have to do is select the right Post Processor before you spit out the G-Code. That is simple.
+
+Most CAM programs have many machine specific post processors already loaded. All you do is go to the list of them and click on your machine to select it.
+
+If you build your own CNC Machine, there are generic post processors loaded for different types of machines. Usually you pick a generic one and modify it a bit with a little testing. You are making sure a move in the X-Axis positive direction really means what you want it to mean.
+
+Back in the good old days of Home CNC, everything was transferred on a disk. Now I have seen people include their Control Computers on their home computer network and transfer the files needed wirelessly. At a very minimum, get a good jump drive and transfer things back and forth that way.
+
+CNC has become a very popular hobby and more and more people are starting to hop on the band wagon of CNC. Its a fun hobby and easy to do from your very own home with just a little elbow grease and creative mind.
+
+

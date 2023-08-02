@@ -1,0 +1,26 @@
+Title: 
+Avoid Data Loss During Thunderstorms and Blackouts
+
+Word Count:
+341
+
+Summary:
+ComputerBatteries is advising that in order to avoid the risk of losing data, you should take heed the government’s current heat wave warning and protect IT equipment in your office.
+
+
+Keywords:
+ Laptop Battery
+
+
+Article Body:
+ComputerBatteries is advising that in order to avoid the risk of losing data, you should take heed the government’s current heat wave warning and protect IT equipment in your office.
+
+ComputerBatteries is ensuring the fastest, most convenient and cost-effective solutions to clients who have experienced a data loss and they advise that companies should adopt anti-melt down measures for PCs and servers. The advice is following the many cases of data loss the vendor is dealing with lately due to the high temperatures and thunderstorms in the UK.
+
+The risk is the same for PCs, servers and laptop batteries and it is coming from power surges and blackouts if they become overheated by direct or indirect lightning strikes or the hot climate.
+
+There are some rules that should be followed when arranging the computers in an office. The computers should be placed in cool and dry areas to prevent overheating. It is also highly recommended that not too many computers to be running off one power supply, via an extension cable. It has become almost a necessity to have a surge protector installed between the power socket and the computer’s power cable. The protection devices should be check regularly.  IT equipment should not share power with air conditioners and fans but dedicated circuits should be used.  
+
+These are general rules to be followed in order to protect the IT equipments but there are some tips that ComputerBatteries is offering for special cases such as thunderstorm and blackouts. During thunderstorm the power cord of IT equipments should be turned off and disconnected and the telephone lines from modem jack should be unplugged. This is due to the fact high voltages can enter a computer through a phone line connected to the modem. The best solution to avoid losing data during a blackout is to invest in some form of uninterruptible power supply, which cleans the power supply and features backup batteries to keep servers running during power outages. This is highly recommended especially for the offices that have network servers.
+
+

@@ -1,0 +1,52 @@
+Title: 
+History Of The Computer; The Emergence Of Electronics.
+
+Word Count:
+704
+
+Summary:
+The history of the computer inevitably includes the development of electronics, we look at the explosive (!) growth of electronics in the late 1930s and early 1940s.
+
+If anything could be said in favor of war, it may be that it speeds up the development of technology. Of course much of that technology is employed in killing people and destroying infrastructure, but there are also things which could be considered beneficial.
+
+Electronics was around in the early part of the...
+
+
+Keywords:
+history of the computer, computer history
+
+
+Article Body:
+The history of the computer inevitably includes the development of electronics, we look at the explosive (!) growth of electronics in the late 1930s and early 1940s.
+
+If anything could be said in favor of war, it may be that it speeds up the development of technology. Of course much of that technology is employed in killing people and destroying infrastructure, but there are also things which could be considered beneficial.
+
+Electronics was around in the early part of the 20th Century, wireless, or radio, was in its infancy at the time of the first world war. Radio broadcasting came into prominence in the '20s and 30's, Television started in the '30's.
+
+The second world war, from 1939 in Europe, and a couple of years later involving the USA, ended in 1945. Radar (Radio Aid To Detection And Ranging) was developed from early experiments, just prior to the war, in Britain and Germany. There was rapid development in the field, and, by the end of the war, Radar was being used in several fields.
+
+Aircraft Navigation - Using ground transmitters in sets of 3, widely spaced, to give an aircraft using a receiver a method of pinpointing its position. This is a similar system to that used in gps today, substituting satellites for the ground stations.
+
+Targeting - A beam was transmitted from a Radar station in England so that it intercepted a target in Germany. An aircraft could fly along the beam, guided by signals, dots or dashes, if it strayed off the beam, left or right. Known as flying on the beam.
+
+Interception - a series of ground stations around the South-East coast of England, feeding into a central control room, where their tracks could be displayed, significantly assisted in the Battle of Britain (1940).
+
+Airborne Interception (AI) - Developed towards the end of the war, used a Tranceiver (transmitter/receiver) in a night fighter to find a target in the dark, or bad weather, and track it to within firing range.
+
+Beacon - A tranceiver was located at the end of a runway so that ground staff could guide a returning aircraft to land in bad weather, this became more and more sophisticated, developing into GCA or Ground Controlled Approach.
+
+Shipping - radar equipped vessels could track other vessels in darkness or fog, whether peacefully or aggressively.
+
+Many other sytems were developed or initiated in that 6 year period. Knowledge of electronics, and what it could be used for vastly increased. In parallel with the development of radar, other fields of electronics were also advancing, under pressure from the requirement to improve the technology.
+
+Long range guns on ships or in the field needed to be aimed accurately. The calculations required in ballistics to aim a gun so that you can hit the target, or aim a V2 rocket so that it hits London from continental Europe, are phenomenal.
+
+This, then was the scene at the end of the war. We knew how to tackle large calculations with speed, and we had developed a new concept in electronics, Pulse Technology. This is so called because radar uses short pulses of high energy, for two main reasons.
+
+1. The pulses can be coded. For example, in the Navigation example we looked at, 3 ground stations transmit a signal whose source needs to be identified. One transmitter could transmit a series of single pulses spaced say 10 milliseconds. A second could transmit a pair of pulses at 10 millisecond spacing, and the third 3 pulses. A chart would tell the navigator where the pulse sets were transmitted from, and the distances obtained from the radar set used to locate the position on the chart.
+
+2. The power, or strength, of the signal. A continuous radio signal, like a radio broadcast, takes a given amount of power. However, a 1 millisecond pulse every 10 milliseconds, uses only one tenth of the power, on average. So a radar transmitter can have a much greater range for the same power. This is is especially important in a primary (transmit and receive) radar system, where we must detect the reflection of the signal we transmit. Likewise a secondary (receive) radar system, for example the navigation system above, will have a bigger range.
+
+Next we will look at how early computers were now possible due to these developments.
+
+

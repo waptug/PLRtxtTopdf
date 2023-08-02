@@ -1,0 +1,64 @@
+Title: 
+How To Troubleshoot Your Computer's Video Display
+
+Word Count:
+798
+
+Summary:
+Learn the cause and solutions to solving such pc display display problems as a blank monitor.See how to identify your video card and the problems that it may cause.Read simple checks you can take to resolve video display problems fast.
+
+
+Keywords:
+pc repair, computer training software, computer training, computer maintenance,pc tips,pc help,computers, pc training courses
+
+
+Article Body:
+Copyright 2006 Otis Cooper
+
+Troubleshoot Video Cards
+
+When you have problems with your video display,it can be something as simple as having the brightness turned down to a bad controller on the motherboard.If you have not done,first learn to identify the components of the video display system.
+
+When you look inside any open computer,see if you can locate the Video Card.Is your video card mounted in an adapter slot or is it integrated onto the motherboard.If the card is motherboard integrated,locate the jumpers that will allow the card to be disabled should you need to install another card.
+
+The Monitor is the second component in the video display and it must be compatible with your video card.Be sure the maximumn resolution of your video card and monitor are the same.Its even better to your a higher resolution display on your monitor.
+
+Go to http://www.ultimatepcrepair.com/photos.html to see a video card in an adapter slot and one that is motherboard mounted. Follow these procedures to correct any type of video display malfunction.
+
+NOTHING ON THE MONITOR
+
+As we first mentioned,chack the brightness and contrast buttons on the monitor to be sure they are not turned down. Yea,we know.This sounds a little silly to think this could be overlokked,but believe me,it really does.
+
+And while we're talking about simple checks,be sure the monitor is receiving power.If the power indicator light is out,remove the power cable and look for any bent or broken pins or connectors.
+
+Try to reboot the computer one or two times to be sure the system did not just lock up.If nothing happens,replace the cable with a known good cable to prove that the wall outlet or surge protector has power.
+
+If the monitor has power but nothing is on the screen, check the data cable going into the rear of the computer. Be sure the cable is secure.If it is,Turn the power off to the system unit,remove the cable and look for broken, loose,or bent pins.
+
+Finally,if you're blessed enough to have two computers, exchange the monitor with a good monitor to see if it works.Replace the old monitor if the new monitor works. If the new monitor fail as well,remove the system cover to inspect the Video Card.
+
+MONITOR WORKS BUT NO DISPLAY
+
+When the Monitor is known to be good but its screen is still blank,the Video Card is the most likely culprit.First inspect the card to be sure it is fullly seated in its slot if it is adapter slot mounted.
+
+Check the jumpers of any motherboard mounted card to be sure a jumper has not been lost or loose.If you have been inside your system,its always a possibility to have moved the card.
+
+MONITOR WORKS BUT POOR DISPLAY
+
+If your monitor works but the images appear fuzzy,or flickering often,and the text are hard to read,it may be time to adjust the video card's resolution and the refresh rate.
+
+Right click the desktop,select properties and open the display properties dialog box.Choose the tab for settings and adjust the slider to change your display resolution.Most 17-inch monitors will have a resolution of 800 x 600 but choose the best resolution for your eyes.
+
+After adjusting the resolution,check the display to see if all flickering and other problems have vanished. If not,optimize the refresh rate.The refresh rate is the rate in which the video card redraws the screen.Lower refresh rates sometimes cause flickering.
+
+To adjust this rate,open the display properties dialog box in the desktop, and choose the settings tab once again.Click the advanced button and choose the adapter tab if your operating system is Windows 98.
+
+If you have Windows XP,choose the Monitor tab.And from there you can set the refresh rate to about 70Hz or 70 Hertz.Check your monitor's manual or web site to see the maximum refresh rate for your monitor.
+
+To effectively maintain your video display,visit the supporting web sites for updated software patches and device drivers.Watch for new control software for your card that will greatly boost its performance.
+
+Take the time to clean the system unit case which will allow air to flow freely.This in turn will help keep the video components cool which will allow the card the perform smoothly.
+
+Rush over to www.ultimatepcrepair.com/photos.html and study the video components.Then open your PC ,locate the video card,and know if it is motherboard mounted or not.To learn much more in great detail, get the PC Super Pack with detailed video all about the video display system.
+
+

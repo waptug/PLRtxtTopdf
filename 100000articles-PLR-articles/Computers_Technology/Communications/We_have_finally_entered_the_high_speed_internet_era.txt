@@ -1,0 +1,24 @@
+Title: 
+We have finally entered the high speed internet era
+
+Word Count:
+367
+
+Summary:
+So we’ve finally left the era of the Internet crawling along, taking forever to load anything – we’ve entered the high speed age,
+
+
+Keywords:
+broadband, internet, modem
+
+
+Article Body:
+So we’ve finally left the era of the Internet crawling along, taking forever to load anything – we’ve entered the high speed age, where we can rely on the ‘net to be there and get us the information we want, and quickly. Home internet connections today can be ridiculously fast – they start at 256K, and go all the way up to 30Mb in some places.
+
+If you’re not quite sure what I just said, then it might be time for a quick broadband crash course. Basically, broadband works by taking your phone line (or your cable, or some other communication method), and transmitting many different signals over it at the same time. So once a line has been adapted to broadband standards, more data can ‘fit’ through it. The amount of data that can get through each second is measured in bits, specifically kilobits (K, meaning a thousand bits) and megabits (Mb, a million bits).
+
+You should note at this point, however, that there are 8 bits in a byte. That means that your 8Mb broadband connection translates into an actual download speed of 1MB (megabyte) per second. This means that the average 5MB song would take you about 5 seconds to download, and the average 700MB movie would take just over ten minutes – a fast connection, I’m sure you’ll agree, but nothing compared to the fastest out there.
+
+At this point, the most common question people ask is exactly what speed of broadband they need. The answer depends on all sorts of things about you, but two are the most important. Firstly, do you use the Internet a lot? If you just check your email occasionally, you can safely go for 256K, but if you wish you could just move there then a faster connection is likely in order. Secondly, how patient are you? With a little patience, it’s not as much of a hassle to wait for things to download on slow broadband as it is on dial-up, as the connection is so much more stable and can be easily left unsupervised. If you want everything and you want it right now, however, a faster line might again be better for you.
+
+

@@ -1,0 +1,52 @@
+Title: 
+Computer Support – MSConfig
+
+Word Count:
+930
+
+Summary:
+The computer. The thing we all love to hate. It does so many important things for us, yet also causes some of our biggest headaches. There is always something that needs to be fixed or optimized, no matter what we do it seems. No matter how well they invent new technology, something still breaks down.
+
+And when it does, you end up calling tech support where either you or the technician is bound to feel stupid at some point. Believe me, it’s the technician in many cases, so ...
+
+
+Keywords:
+Computer support, support forum, computer help, computer crash, pc support, msconfig
+
+
+Article Body:
+The computer. The thing we all love to hate. It does so many important things for us, yet also causes some of our biggest headaches. There is always something that needs to be fixed or optimized, no matter what we do it seems. No matter how well they invent new technology, something still breaks down.
+
+And when it does, you end up calling tech support where either you or the technician is bound to feel stupid at some point. Believe me, it’s the technician in many cases, so don’t feel bad.
+
+In this article, I am going to go over one of the most common computer problems and how to fix it without calling a computer support technician, or your Uncle Bob’s third cousin’s friend, who knows a lot about computers.
+
+Let’s start at the beginning. Booting up, that (for some of us) long process where your computer comes to life. I read a book that explains computers pretty well. In it, the author said that when a computer gets turned on it’s as if every time you woke up, you had to make sure you still had 10 fingers, 10 toes, two eyes, two arms, etc.
+
+That is exactly what a computer does as it boots up and starts the operating system. It uses the registry to examine itself to see if anything it remembers having is not there anymore. So look at the registry as the brain. I do not recommend novice computer users doing anything in the registry. If you would not be comfortable performing your own lobotomy, then leave the registry alone.
+
+Windows comes with tools built into the operating system that makes changes to the registry for you. One of these you should get to know well is msconfig. Every program you download had someone programming it that believes you cannot live without his or her software program running all the time and starting up every time you start your computer.
+
+For almost all software, this is not the case. You can live without his or her program running constantly on your computer. Even Microsoft office and Corel office install themselves into your startup process. They must have thought while writing that program, that everyone will be using their product as soon as they boot up so let’s tell the computer to go ahead and do that for them,.
+
+Go to start, the little button in the lower left hand side of your computer, in most instances. Now click on run. Type in “msconfig”. You will see several options. Normal startup, Diagnostic startup, and Selective startup. We are going to be selective today and from now on, so click selective.
+
+Now on the tabs at the top, choose startup. You will see all the programs that startup when your computer boots up. Some of these are necessary and some are not. If you are unsure what something is, do not remove the check by it. I’ll tell you how to figure that out in a minute.
+
+Some things you will see that need to stay in are “load power profile”, “scanregistry”, “taskmonitor”, “system tray”, and “hotkeyscommands”.
+
+You can leave those in. Now to the right you will see paths to where the programs are and most will provide a clue as to what they are for. Pretty much anything to do with your Internet connection, your printer, your mouse, or other items you know you need should stay checked. Anything to do with your virus program should be left alone as well.
+
+Others like schedulers you don’t use, QuickTime or quicktask, MSN messenger, Yahoo pager, RealPlayer, Quickview, search anything, Microsoft Office, Corel Office, etc. can be unchecked. Microsoft and Corel Office will work just fine when you go to use them without having them in your startup menu.
+
+The same goes for the other programs. They do not need to be running until you decide you need them. Once you begin to take control of your computer and learn what makes it tick, the less you will depend on those long tech support calls.
+
+Once you have unchecked all of the programs you know for sure do not need to be there, hit “apply”, then “ok”. It will tell you that you need to reboot. So go ahead and do that after you save this article or bookmark it so you can see what to do next.
+
+After you reboot, you will get a popup that says something like, “OH MY GOD! You have chosen to change some settings! Are you sure?! Make sure you check the box that says don’t show me this dramatic popup anymore, then close that.
+
+Go back to “start”, “run”, type msconfig again. Go back to the tab at the top that says “startup.” If there is anything you were not sure of that you wish to remove, go ahead, but only pick one! Important, only pick one, then reboot to see if that one caused you any problems. If it does, then you simply go back to msconfig, check the box back again and reboot again. You can repeat this for each of the ones you were not sure about removing.
+
+I hope I have saved you at least one computer tech support call with this article. Your computer should now run a little faster and you know what to do every time you download a new program. Go see if it installed itself into the startup folder and remove it if you do not need it at startup. Happy computing!
+
+

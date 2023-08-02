@@ -1,0 +1,74 @@
+Title: 
+Intellectual Property - Engaging with China
+
+Word Count:
+1325
+
+Summary:
+China is well entrenched in the global marketplace, but with Chinese piracy reported at 90 percent, it's the third least friendly country for protecting intellectual property (IP). Secure patents -- dot the i’s, cross those t’s and 'watch your language.' Still, anticipate litigation.
+
+
+Keywords:
+IP, Intellectual Property, China, Eveready, Energizer, Global CRM, Patent, Legal, ITC, WTO, Business Culture, Patent Infringement, piracy, counterfeit goods, IP ruling
+
+
+Article Body:
+China is well entrenched in the global marketplace, but with Chinese piracy reported at 90 percent, it's the third least friendly country for protecting intellectual property (IP).
+
+China's accession into the World Trade Organization started four years ago. With this commitment to regulatory and economic restructuring, China has indeed been a country of economic opportunity for multinational corporations.
+
+In theory, WTO accession means that WTO members can enjoy IP protections. In China, secure those patent protections carefully. Dot the i's, cross those t's and 'watch your language.' Also, anticipate litigation.
+
+According to attorneys A. Jason Mirabito and Carol Peters, in a March 2005 article published in Chip Scale Review: "In the past there was little enforcement of IP in China. However, in 2002, Chinese courts litigated more than 6,000 civil cases involving IP issues. About 2,000 cases involved patent suits. The rest were trademark and copyright actions."
+
+Those 2002 statistics pale compared to recent figures, reported by the International Herald Tribune: In 2005, "Chinese courts dealt with 12,205 civil intellectual property cases, an increase of 32 percent from 2003 and a few dozen two decades ago."
+
+Consider one recent case, which demonstrates that China's legal savvy is climbing with its growing stake in US markets and the global economy. The case also demonstrates the role of US courts in patent and IP protection, along with the perseverant or 'energized' stance required by US companies threatened by counterfeit goods or the prospect of piracy.
+
+Energizer & Eveready vs. Just about Everybody
+
+The dispute started in the spring of 2003, when Energizer Holdings, a US company, and its subsidiary Eveready filed a lawsuit with the International Trade Commission (ITC). The complaint addressed a signature product, a long-lasting battery design—affecting in particular a line of zero mercury-added alkaline batteries that Energizer has held a patent on for three decades. Also mentioned in the suit are games, toys, and other products manufactured with batteries whose designs are protected.
+
+Energizer asked the ITC to issue a cease-and-desist order and to ban US imports of these products, claiming the batteries exported to the United States by the 26 manufacturers, affiliates or distributors named in the suit had infringed on Energizer's US patent. Among the multiple respondents named in the complaint, nine were Chinese manufacturers, including Fujian Nanping Nanfu. Nanfu Battery is one of China’s largest alkaline battery manufacturers and suppliers. Energizer requested the ITC investigation under Section 337 of the US Tariff Act.
+
+At the time of the original filing, China was considered the world's largest manufacturer and exporter of this specific battery with an estimated 75-80 percent of its goods being exported to overseas markets. According to a China press report, "Chinese batteries usually cost between a 10th and a third less than US-made ones, making them very popular in overseas markets."
+
+The ITC handed down a preliminary ruling in 2004, deciding that nine manufacturers from the Chinese mainland and Hong Kong infringed upon Energizer's patent, and recommended banning imports of the batteries. But four months later, the ITC closed its investigation, and ruled that Energizer's patent was invalid because it was …"indefinite as a matter of law…." Or, in the legalese: "The Commission held that Eveready's "proffer of alternative constructions of 'said zinc anode' was an admission of indefiniteness."
+
+In plain terms, the main patent claim, or its language, was incorrectly written. Attorneys Mirabito and Peters reported that the Commission determined "there was no infringement of the Energizer Holdings patents, and the continued importation of Chinese batteries was permitted."
+
+It Just Keeps on Going and Going…
+
+True to the brand as "the battery that never quits," Energizer kept on "going and going," and appealed the ITC's final decision to the U.S. Court of Appeals for the Federal Circuit. In the suit, Energizer named the ITC as defendants. Energizer's main contention was that the issue regarding language was not substantial enough to invalidate the patent.
+
+The Court's January 25, 2006 ruling, and a follow-up March 20 mandate reversed the earlier ITC opinion, finding that the ITC erred and the patent draft was written correctly enough.
+
+"In that regard, we conclude that 'anode gel' is by implication the antecedent basis for 'said zinc anode.' The Commission's holding of invalidity on the ground of indefiniteness is reversed."
+
+In the unanimous ruling, the Court directed the Commission to proceed in accordance with the Administrative Law Judge's prior ruling that the Energizer patent is valid, according to Legal Times analyst, Emma Shwartz.
+
+It was a happy day at Energizer headquarters in St. Louis. "We are pleased that this case has been sent back to the ITC for review," said Michael Pophal, Senior Patent Counsel at Energizer, quoted in a company press release (http://tinyurl.com/kfb6m). "By issuing this mandate, the appeals court has cleared the way for additional inquiry into whether those companies that import mercury-free alkaline batteries into the United States are doing so illegally. If it is indeed determined that they are doing so illegally, the ITC will then determine the appropriate remedy for that illegal activity."
+
+As before, Energizer will seek the general exclusion remedy in the ITC. If the ITC upholds the company's claim, this remedy will bar infringing batteries, including those made or sold by the remaining respondents from importation or sale in the US, and will permit sanction enforcement by US Customs.
+
+What’s Next? A Changing Landscape?
+
+Energizer expects a favorable outcome from the ITC. But even as they await the ITC review, the Internet-surfing public has been reading about the recent ITC mandate in starkly opposite terms: in China, recent press accounts erroneously have been reporting that the Court ruled in favor of Chinese manufacturers. They fail to report that the jury, with respect to the ITC, is still out.
+
+It appears that a gentle, collaboratively toned communication between Energizer and China has helped the situation. Many of the erroneous reports have been pulled from news sites.
+
+While Energizer seems to be battling questionable imports the longest and hardest, they aren't the only company doing battle with Chinese manufacturers and companies alleging technology violations of patents, trademarks and IP infringements. The litigious ranks include Hitachi-IBM and Cisco, who won its patent battle over the Shenzhen-based Huawei in 2003. Cisco eventually proved that Huawei, arguably the top Chinese provider of switches and wireless infrastructure, had copied the U.S. companies' firmware code line for line into its products. Huawei settled.
+
+Still, other recent cases are coming to favorable conclusions for plaintiffs defending goods in China courtrooms, an indicator that China is serious about its place in the WTO and in the global economy.
+
+-- In late 2005, java giant Starbucks Coffee won its two-year-old case against 'Xingbake' (translation Star Bucks), for trademark and logo infringement. The case was decided in Shanghai No. 2 Intermediate People's Court, and was considered a landmark judgment and litmus test of China's amended trademark laws. Xingbake has filed an appeal.
+
+-- In 2004, Swiss agribusiness and agricultural chemical maker Syngenta was awarded an apology and compensation after its patent infringement lawsuit was successfully concluded against a Chinese business group. The case was heard in a Nanjing court, one known for its expertise in intellectual property.
+
+There is little doubt that China's government will quickly improve its IP stance, but this analyst believes the most effective pressure will come from its own domestic companies, particularly as they evolve from a heavily manufacturing-depending economy to a service and integrated products economy. This more sophisticated economic profile makes IP rights even more critical, because more Chinese companies will have more at stake when IP is violated.
+
+Recent positive announcements make it clear that rule of law increasingly will be guiding China's economy. In the meantime, keep your intellectual property under a close watch, and build trust with your Chinese partners. Good contracts, good guanxi, and good sense will prove invaluable.
+
+Sources: Chip Scale Review, International Herald Tribune, China Daily, China.org, Legal Times, Syngenta, Energizer Holdings / Eveready Battery, Starbucks, Energizer Court of Appeals Ruling: http://www.ll.georgetown.edu/federal/judicial/fed/opinions/05opinions/05-1018.pdf
+
+

@@ -1,0 +1,28 @@
+Title: 
+Define Global Catalog
+
+Word Count:
+490
+
+Summary:
+Domains and Forests can also share resources available in active directory. These resources are searched by Global Catalog across domains and forests and this search is transparent to user. For example, if you make a search for all of the printers in a forest, this search goes to global catalog server for its query and then global catalog returns the results.
+
+
+Keywords:
+Define Global Catalog
+
+
+Article Body:
+Domains and Forests can also share resources available in active directory. These resources are searched by Global Catalog across domains and forests and this search is transparent to user. For example, if you make a search for all of the printers in a forest, this search goes to global catalog server for its query and then global catalog returns the results. Without a global catalog server this query needs to go to every domain in the forest of its result. 
+It is important to have a global catalog on at least one domain controller because many applications use port 3268 for searching. For example, if you do not have any global catalog servers in your network, the Search command on the Start menu of Windows 2000/2003 cannot locate objects in Active Directory.
+The global catalog is a domain controller that contains attributes for every object in the Active Directory. By default, only the members of the Schema Admins group have rights to change which attributes stored in the global catalog, according to organization's requirements.
+The global catalog contains:
+•	The commonly used attributes need in queries, such as a user's first and last name, and logon name. 
+•	All the information or records which are important to determine the location of any object in the directory. 
+•	A default subset of attributes for each object type. 
+•	All the access related permissions for every object and attribute that is stored in the global catalog. Say, without permission you can't access or view the objects. If you are searching for an object where you do not have the appropriate permissions to view, the object will not appear in the search results. These access permissions ensure that users can find only objects to which they have been assigned access. 
+A global catalog server is a domain controller that contains full and writable replica of its domain directory, and a partial, read-only replica of all other domain directory partitions in the forest. Let's take an example of a user object; by default user objects have lot of attributes such as first name, last name, address, phone number, and many more. The Global Catalog will store only the main attributes of user objects in search operations like a user's first name and last name, or login name. This partial attributes of that user object which is stored would be enough to allow a search for that object to be able to locate the full replica of the object in active directory. If a search comes to locate objects, then first it goes to local global catalog and reduces network traffic over the WAN. 
+Domain Controllers always contain the full attribute list for objects belonging to their domain. If the Domain Controller is also a GC, it will also contain a partial replica of objects from all other domains in the forest.
+It is always recommended to have a global catalog server for every active directory site in an enterprise network.
+
+

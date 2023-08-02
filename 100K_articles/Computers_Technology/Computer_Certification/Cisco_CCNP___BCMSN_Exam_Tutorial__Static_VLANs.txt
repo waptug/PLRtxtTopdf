@@ -1,0 +1,43 @@
+Title: 
+Cisco CCNP / BCMSN Exam Tutorial: Static VLANs
+
+Word Count:
+445
+
+Summary:
+Learn why and how to configure static VLANs for your BCMSN and CCNP exam prep from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Vlan, ccnp, bcmsn, ccna, switch, native, switchport, access, host, pass, exam, free, chris, Bryant, advantage, 12933, broadcast, multicast, domain
+
+
+Article Body:
+BCMSN exam success and earning your CCNP certification requires you to add to your knowledge of VLAN configuration.  When you studied for your CCNA exam, you learned how to place ports into a VLAN and what the purpose of VLANs was, but you may not be aware that there are two types of VLAN membership.  To pass the BCMSN exam, you must know the details of both types.
+
+In this tutorial, we'll take a look at the VLAN type you are most familiar with, the "static VLAN". As you know, VLANs are a great way to create smaller broadcast domains in your network.  Host devices connected to a port belonging to one VLAN will receive broadcasts and multicasts only if they were originated by another host in that same VLAN.  The drawback is that without the help of a Layer 3 switch or a router, inter-VLAN communication cannot occur.
+  
+The actual configuration of a static VLAN is simple enough.  In this example, by placing switch ports 0/1 and 0/2 into VLAN 12, the only broadcasts and multicasts hosts connected to those ports will receive are the ones transmitted by ports in VLAN 12.
+
+SW1(config)#int fast 0/1
+
+SW1(config-if)#switchport mode access
+
+SW1(config-if)#switchport access vlan 12
+
+% Access VLAN does not exist. Creating vlan 12
+
+
+SW1(config-if)#int fast 0/2
+
+SW1(config-if)#switchport mode access
+
+SW1(config-if)#switchport access vlan 12
+
+One of the many things I love about Cisco switches and routers is that if you have forgotten to do something, the Cisco device is generally going to remind you or in this case actually do it for you.  I placed port 0/1 into a VLAN that did not yet exist, so the switch created it for me!
+
+There are two commands needed to place a port into a VLAN.  By default, these ports are running in dynamic desirable trunking mode, meaning that the port is actively attempting to form a trunk with a remote switch in order to send traffic between the two switches. The problem is that a trunk port belongs to all VLANs by default, and we want to put this port into a single VLAN only. To do so, we run the switchport mode access command to make the port an access port, and access ports belong to one and only one VLAN.  After doing that, we placed the port into VLAN 12 with the switchport access vlan 12 command.  Running the switchport mode access command effectively turns trunking off on that port.
+
+The hosts are unaware of VLANs; they simply assume the VLAN membership of the port they're connected to.  But that's not quite the case with dynamic VLANs, which we'll examine in the next part of this BCMSN tutorial.
+
+

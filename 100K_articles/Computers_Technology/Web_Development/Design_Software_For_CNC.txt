@@ -1,0 +1,62 @@
+Title: 
+Design Software For CNC
+
+Word Count:
+529
+
+Summary:
+What I used to do…
+
+Before I found design software I was in the stone ages. I would actually hand lay out a template on a piece of paper. Then cut it out. Next, I would tape the design onto a piece of steel and trace around it with a Sharpe Marker. Finally, I would cut out the piece I wanted.
+
+No matter what, it was never exact. There would always be something wrong. Things like wavy lines, gouges and “unique parts” were the norm. Measurements were never as exact as I wou...
+
+
+Keywords:
+CNC Software, CNC Plasma Cutter, CNC Machining
+
+
+Article Body:
+What I used to do…
+
+Before I found design software I was in the stone ages. I would actually hand lay out a template on a piece of paper. Then cut it out. Next, I would tape the design onto a piece of steel and trace around it with a Sharpe Marker. Finally, I would cut out the piece I wanted.
+
+No matter what, it was never exact. There would always be something wrong. Things like wavy lines, gouges and “unique parts” were the norm. Measurements were never as exact as I would have liked either. That usually caused some fit-up issues, followed by some grinding. If you know anything about fabrication, grinding is the enemy of your time.
+
+Why use Design Software?
+
+I knew there had to be a better way so I found some design software to try out. Yes, it does take some time to learn. Think about it, like anything else in life, something that is worth it takes some time. This is also the situation of taking one step backwards to move ten steps forward.
+
+Here are some advantages of using Design Software:
+
+Saved file you can use over and over
+Transfer the design to others
+Can use exact measurements
+Repeatability in design
+
+Here are some disadvantages of using Design Software:
+
+Cost money
+Takes time to learn
+May not be the quickest way of making something if it is a “One Off”
+
+My Definition of Design Software
+
+If you are an engineer, you will probably consider CAD Software as design software. That is true. But what I am talking about here is “Creative” Design Software. These software packages are used by creative types for print, web design and logo design. This software is great for creating designs that flow and are artistic in some way.
+
+Design software can be boiled down to what it is good at. If you want to make a square with a hole in it or a triangular gusset, then CAD type design software works great. If you want to cut out a Cowboy on a Horse, then “Creative” Design Software is the only way to go.
+
+Here are some examples of work for “Creative” Design Software:
+
+Plasma Art
+Router Art
+Signs
+Engraving
+
+Every CNC machine has quirks that you need to learn. Every CNC machine has a different working envelope. Every CNC machine is just a little bit different then the rest of them. It is in your best interest to learn your machine before you put it to work.
+
+Generally, with a CNC machine, we are machining something. While machining, “chips” are being thrown off. Sometimes at a very rapid speed. Here is where safety glasses, face shields and material barriers come into play. Use them! The machine doesn’t know you are standing there. In the words of every boxing ref before a match, “protect yourself at all times!”
+
+Every CNC machine has quirks that you need to learn. Every CNC machine has a different working envelope. Every CNC machine is just a little bit different then the rest of them. It is in your best interest to learn your machine before you put it to work.
+
+

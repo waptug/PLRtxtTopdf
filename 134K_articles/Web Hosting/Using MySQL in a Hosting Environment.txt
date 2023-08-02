@@ -1,0 +1,20 @@
+Using MySQL in a Hosting Environment
+
+
+MySQL is a heavy-duty database server. Used with various software languages, most notably PHP, and part of the LAMP family (which is comprised of Linux, Apache, MySQL, and PHP), 
+
+Whether it's a customer relations management list or medical records, any data you have that needs storing, is stored on a database. You will need a database management system to add, access, edit, and process data in your databases, and MySQL is one of the best and most comprehensive packages on the market. MySQL can also be used as a relational database management system, which means it can store data in various tables that can communicate with one another rather than all in one large "storeroom" of data. 
+
+You can run MySQL as a server in your local device or in a remote server. All you need to access your MySQL databases and MySQL functionality is your server name (such as the name server of your MySQL web hosting provider) or the appropriate IP address. You can then input your various commands, most likely using PHP scripts, to interact with your various databases. These commands are written on programming scripts.
+
+When choosing a MySQL web hosting provider, you'll want to consider some additional factors beyond the standard uptime, backup/redundancy systems, bandwidth, email, and bandwidth concerns. 
+
+* Databases: If you're seeking a MySQL web hosting provider, you're surely planning on making databases a significant part of your web-presence. You therefore need to find a MySQL hosting provider that offers you at least as many data structures as you might need. A host that promotes itself as a MySQL hosting provider must offer its clients with multiple websites at least five databases. 
+
+* Interface: You'll be working with your databases intimately and frequently. You'll want a MySQL hosting provider that's designed its admin interface with the MySQL user in mind. If you have various staff-members involved in the building and maintenance of your various tables and databases, you'll want to be able to create multiple user I.D.'s to allow varying degrees of secure access. CPanel is a good administrative dashboard to have for MySQL databases.
+
+* CRON support: A cron helps you to run specific scripts for regular, routine tasks to be run at periodic intervals. A MySQL hosting provider should allow you to set up and manage crons from your admin control panel. These scripts are also good for Preventive Maintenance routines.
+
+* PHP Info: The most common script for MySQL databases is PHP. A MySQL hosting provider with PHP extensions enabled is likely to be more frustrating than useful to you. By checking into a prospective MySQL hosting provider's PHP capabilities, you can ensure compatibility between your scripting language and your database management, thus saving yourself tons of trouble and loads of regrets later on. 
+
+Remember, if you are running MySQL databases; make sure that you get a host that specializes in MySQL hosting.

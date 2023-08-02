@@ -1,0 +1,32 @@
+Title: 
+Recover Formatted NTFS Drives
+
+Word Count:
+612
+
+Summary:
+If you have accidentally formatted a hard drive or partition, you will get an empty disk with no files on it. Don't consider your files lost just yet! You can still recover all of your original files complete with the original directory structure.
+
+
+Keywords:
+formatted disk, formatted partition
+
+
+Article Body:
+If you have accidentally formatted a hard drive or partition, you will get an empty disk with no files on it. Don't consider your files lost just yet! If you didn't put any new files on the formatted partition, you can easily recover all of your original files complete with the original directory structure by using widely available un-format tools that are often available for free. But there is a good chance to recover the formatted partition even if you saved a few files on it, or even installed Windows onto it! Just don't attempt running a free un-format tool at this stage, as it will most probably just destroy what's been left of your files.
+
+How is this even possible? To answer this question, I have to cover the way the formatting works. If you are in a rush to recover your work, skip this section completely and go to the recovery software recommendation part.
+
+Windows needs to format your disks in order to prepare it for keeping data such as files and folders. When Windows formats a disk, it does not wipe off its entire contents as you might believe judging from the time it takes to complete the formatting. Instead, it simply creates new, empty file system records at the beginning of the disk. The lengthy time is spent on checking the disk for errors to ensure that every sector on the disk can read and write correctly, marking the bad ones in the file system. Once again, unless you perform a low-level format from the system BIOS (and you'll never do that), all the original information is left intact on the hard disk. The formatted disk appears blank because there is no record in the newly created file system about the files and directories that were originally stored on that disk.
+
+There are two approaches to recovering the formatted disks. The first approach is employed by the many free un-format utilities that simply return the original file system in place of a new one. This approach works if you have just formatted the disk and didn't write anything onto it; if you formatted the disk with the same type of file system (FAT or NTFS), and if you used the same cluster size. You have to meet all of these conditions in order for the free tools to work. Otherwise, you'll get something worse than an empty disk: a corrupted one.
+
+If you weren't that careful when choosing the matching parameters to format your disk, you have no choice but the second type of recovery software: the data recovery tools. Before you begin installing data recovery software, please note that you don't want to write anything onto the disk you are about to recover. So be careful not to save the data recovery product onto that disk, and not to install it there. Otherwise, you are taking the risk of overwriting your original files.
+
+If your original file system (not the new one!) was NTFS, download and install 1st NTFS Recovery from http://ntfs-recovery.com, run the installed application and select the formatted partition when prompted. That's it! 1st NTFS Recovery will take care of the rest.
+
+Is it that simple? In a word, yes. 1st NTFS Recovery scans the formatted disk looking for files. It has special algorithms to detect Office documents, digital pictures, ZIP and RAR archives, so your chances of getting back the valuable stuff are pretty high.
+
+After  1st NTFS Recovery is done with recovering your files, it proceeds to restoring the formatted disk to its original state. You don't have to do anything but click the Next button on a disk recovery wizard!
+
+

@@ -1,0 +1,26 @@
+Title: 
+Rid Your Computer Of Spyware
+
+Word Count:
+374
+
+Summary:
+Everyone seems to be asking these days: why is my computer so slow? Well, the answer to that question is usually that it’s loaded with programs called spyware and adware. Spyware and adware are programs installed, usually without your permission, on your computer so companies can show their advertisements, log what sites you visit so they know what products you’re interested in and record keystrokes on your computer so they know what you’re talking about. Below are 3 easy ste...
+
+
+Keywords:
+computer,internet,computer beginner,computer newbie,spyware
+
+
+Article Body:
+Everyone seems to be asking these days: why is my computer so slow? Well, the answer to that question is usually that it’s loaded with programs called spyware and adware. Spyware and adware are programs installed, usually without your permission, on your computer so companies can show their advertisements, log what sites you visit so they know what products you’re interested in and record keystrokes on your computer so they know what you’re talking about. Below are 3 easy steps to take to start protecting and eliminating your spyware and adware problem on your home computer.
+
+First, stop using Internet Explorer! I know you may be shocked, but Microsoft’s internet browser has more holes in it than Swiss cheese! The best alternative is Mozilla’s Firefox, available for free download at Mozilla.org. After installing the browser, it will automatically transfer your bookmarks/favorites and settings over to Firefox. Also, please make sure Firefox is your default browser. Using Firefox will reduce the amount of spyware and adware on your computer by 75%.
+
+Secondly, download these two free programs: Spybot (safer-networking.org/en/index.html) and Ad-Aware (lavasoftusa.com/software/adaware/). These two free programs will search throughout your computer, find the spyware and adware and allow you to quarantine and delete it. To be completely safe, be sure to run and update both of these programs twice a week. This will get rid of all spyware and adware currently on your computer and bring your protection level up to 95%.
+
+Finally, be sure to use a firewall. A firewall is just what it sounds like, a “wall” between your internet connection and your computer. If you have a high speed broadband connection, a firewall is a must. Most Windows XP systems have a built in firewall that you can simply enable (check Microsoft’s help files if you don’t know how) but if you’re looking for more protection but don’t want to pay, simply download Zone Alarm’s free firewall at tinyurl.com/7cn6a . Zone alarm’s firewall may take awhile to configure, but it is worth it in the long run. With a properly configured firewall, your protection level is now at 100%.
+
+Good luck and be safe!
+
+

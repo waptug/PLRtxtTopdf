@@ -1,0 +1,46 @@
+Title: 
+Apple iWork '08 Review
+
+Word Count:
+843
+
+Summary:
+Apple iWork 2008 Review
+
+
+Keywords:
+Apple
+
+
+Article Body:
+The $79 iWork '08 appears to be a good deal for anyone needing an affordable office suite for the Mac. Apple has finally added a spreadsheet application. At first glance, Numbers is an elegant no-brainer for anyone migrating from Microsoft Excel. In the past, many Mac aficionados bought Microsoft Excel because iWork lacked a spreadsheet application. However, with the addition of Numbers and the release of Microsoft's Office for Mac 2008 delayed until January, Mac users may stick to Apple's less expensive option. We're also happy that Mac hasn't changed its file formats as Microsoft did with Office 2007. 
+
+We like the sparse interfaces throughout the iWork package. Its features aren't as deep or rich as in Microsoft Office 2007, but iWork also hasn't changed radically from its last incarnation, unlike Office. iWork also covers much more than just the basic productivity tasks offered by online tools like Google Docs & Spreadsheets or the Zoho suite, so it should be adequate for the vast majority of home and small-business users. 
+
+System requirements, thankfully, are gentle to users of older Macs. You'll need an Intel, PowerPC G5 or G4 machine with a 500MHz or better processor in addition to 512MB of RAM minimum, running OS X10.4.10. 
+
+Pages 
+
+Apple tore a page out of Microsoft Office's book by creating a Contextual Format Bar that displays different features according to your task at hand. Select text, and the bar shows font options. Click on a picture, and the bar displays image-editing features. Unlike the contextual formatting Ribbon interface within Microsoft Word 2007, however, Pages offers no live previews of font and image changes as you hover over them. 
+
+Pages '08 also adds Change Tracking, similar to the Track Changes feature adopted many years ago by Microsoft Word. We're glad that Pages gets this treatment for displaying document revisions rather than the often confusing revision and commenting history offered by the online Google Docs. 
+
+Pages includes the usual must-have features for writers such as footnotes, bookmarks, and tables of content, in addition to integration with charts and functions from the new Numbers app. In addition, Pages now detects when you type a list and formats bulleted points automatically. We just hope that this won't drive us batty (as it does sometimes in Microsoft Word). 
+
+There are plenty of page templates for letters, resumes, reports, and the like to get started if a blank slate poses too much pressure. Page Layout mode lets you create relatively complex designs without software such as Adobe InDesign, great if you're throwing together reports for work. It lets you layer images on top of images too. The Instant Alpha feature, also found in Keynote, lets you cut out backgrounds in images without dealing with alpha channels, a la Photoshop. And we prefer Pages' color wheel, crayons, and spectrum to Word's color options. 
+
+Keynote 
+
+Microsoft PowerPoint 2007 may be richer, but Apple Keynote '08 adds some smart features that PowerPoint lacks. It's also a breeze to figure out from the get-go. Action Builds let you create basic point-A-to-B motion animation, without needing to deal with motion tweens as in complex apps such as Adobe Flash. Smart Builds enable animation, such as rotating photographs, using images you can grab from the iLife media browser. And new voiceover recordings enable you, say, to narrate podcasts with pictures. There are new between-slide transitions and slide show themes too. 
+
+Numbers 
+
+Our early look at the new Numbers reveals ease of use novelties that competitive tools don't provide. Microsoft Excel 2007 still appears to be more robust, particularly for number crunchers such as scientists, accountants, or engineers. Yet the majority of users who rely upon spreadsheets as one-size-fits-all tools for household and light office work should be pleased to have a new option for Macs. 
+
+Numbers comes with plenty of templates, including travel planners, business expenses, and school science lab reports. Of course, it can also save and export Excel-readable files. This application pleases the eye and can make attractive spreadsheets. We dragged around text boxes, images, and tables using alignment guides without a hitch. You can add 3D bar, pie, and other charts and even integrate maps into a spreadsheet. 
+
+The controls for working with tables were extremely user-friendly in our early tests. Slider bars allow you to adjust the numeric values within cells, handy if you're looking to add a range of values. Resizing columns and rows appears to be less of a hassle than with Excel. You can drag data from a file of contacts or into a Numbers table that will automatically partition information into the appropriate columns. And sorting a table smartly leaves the headers alone. Formulas appear to be the same as those in Microsoft Excel, but Numbers also has easy-to-find natural language shortcuts for common calculations, such as sums and averages. 
+
+The Interactive Print View offers more controls than in Microsoft Excel, which easily leads to unwieldy spreadsheet printouts. Numbers shows where a stray column might take up an unnecessary extra page. You can eliminate the overlap with a slider bar that instantly scales the tables, charts, and images on a page.
+
+

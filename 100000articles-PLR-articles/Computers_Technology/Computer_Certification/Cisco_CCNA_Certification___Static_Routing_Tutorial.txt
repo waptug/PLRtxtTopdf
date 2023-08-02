@@ -1,0 +1,49 @@
+Title: 
+Cisco CCNA Certification:  Static Routing Tutorial
+
+Word Count:
+375
+
+Summary:
+Static routing seems easy, but you’ve got to know the details to pass the CCNA!  Learn these vital details from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccna, certification, cisco, exam, pass, free, static, routing, mask, host, route, bsci, intro, icnd, ip, route, Bryant, advantage, chris
+
+
+Article Body:
+In studying for your CCNA exam and preparing to earn this valuable certification, you may be tempted to spend little time studying static routing and head right for the more exciting dynamic routing protocols like RIP, EIGRP, and OSPF.  This is an understandable mistake, but still a mistake.  Static routing is not complicated, but it's an important topic on the CCNA exam and a valuable skill for real-world networking.
+
+To create static routes on a Cisco router, you use the ip route command followed by the destination network, network mask, and either the next-hop IP address or the local exit interface.  It's vital to keep that last part in mind - you're either configuring the IP address of the downstream router, or the interface on the local router that will serve as the exit interface.
+
+Let's say your local router has a serial0 interface with an IP address of 200.1.1.1/30, and the downstream router that will be the next hop will receive packets on its serial1 interface with an IP address of 200.1.1.2/30.  The static route will be for packets destined for the 172.10.1.0 network.  Either of the following ip route statements would be correct.
+
+R1(config)#ip route 172.10.1.0 255.255.255.0 200.1.1.2  (next-hop IP address)
+
+OR
+
+
+R1(config)#ip route 172.10.1.0 255.255.255.0 serial0      ( local exit interface)
+
+You can also write a static route that matches only one destination.  This is a host route, and has 255.255.255.255 for a mask.  If the above static routes should only be used to send packets to 172.10.1.1., the following commands would do the job.
+
+R1(config)#ip route 172.10.1.1 255.255.255.255 200.1.1.2  (next-hop IP address)
+
+OR
+
+
+R1(config)#ip route 172.10.1.1 255.255.255.255 serial0      ( local exit interface)
+
+Finally, a default static route serves as a gateway of last resort. If there are no matches for a destination in the routing table, the default route will be used.  Default routes use all zeroes for both the destination and mask, and again a next-hop IP address or local exit interface can be used.
+
+R1(config)#ip route 0.0.0.0 0.0.0.0 200.1.1.2  (next-hop IP address)
+
+OR
+
+
+R1(config)#ip route 0.0.0.0 0.0.0.0  serial0      ( local exit interface)
+
+IP route statements seem simple enough, but the details regarding the next-hop IP address, the local exit interface, default static routes, and the syntax of the command are vital for success on CCNA exam day and in the real world.
+
+

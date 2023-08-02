@@ -1,0 +1,38 @@
+Title: 
+Converting FLAC to MP3
+
+Word Count:
+528
+
+Summary:
+Firstly, a FLAC is an abbreviation for “Free Lossless Audio Codec,” which means that the audio is compressed and the size of the file is smaller, but the quality is still the same. On the other hand, an MP3, an abbreviation for MPEG-3, is a lossy audio format that looses a bit of the original audio data. Converting a file from .flac to .mp3 can be an annoying task, but it can be done quite easily in any operating system with the right program.
+
+
+Keywords:
+Converting FLAC to MP3
+
+
+Article Body:
+Firstly, a FLAC is an abbreviation for “Free Lossless Audio Codec,” which means that the audio is compressed and the size of the file is smaller, but the quality is still the same. On the other hand, an MP3, an abbreviation for MPEG-3, is a lossy audio format that looses a bit of the original audio data. Converting a file from .flac to .mp3 can be an annoying task, but it can be done quite easily in any operating system with the right program.
+
+
+Converting FLAC to MP3 in Microsoft Windows
+Converting any of your audio files from FLAC format to the MP3 format can be done with various free softwares available in the market today. For example, the combination of two free softwares, Winamp and Apple’s iTunes, can be used to convert FLAC files very efficiently.
+1.	As we first need to decode the .flac files, open Winamp and click on Options and then Preferences (Shortcut: Control + P)
+2.	At the left window, under Plug-ins, select Output. Then choose Nullsoft Disk Writer and click Configure at the bottom.
+3.	Then, click the button beside Directory and navigate to a folder where Winamp should output the converted files. Just to make everything all that easier, choose the directory as the same folder as where your .flac files are at.
+4.	After your directory is chosen, click Ok and Close without changing any other settings and to exit the Preferences.
+5.	Back at Winamps, make sure that you have the Shuffle and the Repeat feature off (or else you will experience an endless loop of conversions) and click File and Open (this can be done by right clicking on any part of the player and selecting Open).
+6.	Browse to the folder with your .flac files and select all (Shortcut: Ctrl + A) and click Open.
+7.	Now, Winamp will look as if it is playing the selected .flac files (if not, click Play) in mute mode, but it actually is not; it is decoding the .flac files into the .wav files. Usually the process takes a couple tens of seconds with a five minute song, although this is purely dependent on your system’s hardware.
+8.	When Winamp is done, make sure that you put your output settings back to DirectSound output.
+9.	Now, to encode the .wav files into .mp3 files, you need to first configure iTunes to do it by opening up iTunes and going to Edit and Preferences.
+10.	Then, click Advanced and in the Importing tab, among the Import Using options, select MP3 Encoder. Now click Ok.
+11.	Now, add the .wav containing folders by clicking File and Add Folder to Library. Find the appropriate folder and click Ok.
+12.	When the .wav files are in the iTunes, select them all, right click, and select Convert Select to MP3.
+13.	When it is finished, iTunes will make a little “beep.” You should remove the .wav files from you playlist to avoid any confusion.
+14.	You can find your newly converted .mp3 files in the iTunes folder in My Documents, My Music.
+
+Note that there are many free programs in the market today that can convert FLAC files to MP3 files directly, if the above steps are slightly hard.
+
+

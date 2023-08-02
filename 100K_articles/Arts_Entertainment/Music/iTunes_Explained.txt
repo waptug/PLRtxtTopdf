@@ -1,0 +1,26 @@
+Title: 
+iTunes Explained
+
+Word Count:
+463
+
+Summary:
+iTtunes is primarily used for playing and organizing digital music and video files. iTunes developed by “Apple Computer”, is a digital media player. iTunes could be used as an interface to manage the music on iPod’s digital audio player
+
+
+Keywords:
+itunes
+
+
+Article Body:
+iTtunes is primarily used for playing and organizing digital music and video files. iTunes developed by “Apple Computer”, is a digital media player. iTunes could be used as an interface to manage the music on iPod’s digital audio player. iTunes helps consumers in purchasing digital music and movie files by connecting to the iTunes music store.  In addition to all this it provides users with many features for purchasing, organizing and playing music and is easy to use. They are also computer compatible.
+iTunes helps users in organizing their music playlists, recording compact discs, editing and copying file information into a digital audio player, and transferring back up songs to a CD /DVD.  iTunes also run a visualizer to display graphical effects to suit the music and also helps in encoding music into different audio formats.
+
+Since iTunes support ‘Smart Playlists’ (those that can be set for automatic updation), different criteria could be entered to control playlists. Playlists can be either played randomly by either playing songs from the same album or by following the sequence of artists. iTunes uses the shuffle algorithm for playing party tracks wherein you could select tracks with a high star rating. The Party shuffle playlist otherwise acts as a DJ, helping you to replace the selected tracks if you wish, by selecting tracts from other playlists or libraries. iTunes generally offers you the option to choose new ones if you wish to replace them, thus allowing you to enjoy both preselected and random tracks in the same meta-playlist.
+
+iTunes library has a binary file which has a default music library format. It carries information of artists and their genre and stores specific information on playcount and rating. The other file called “iTunes Music Library.xml” gets refreshed automatically whenever the information in iTunes is changed. iTunes will read existing tags, Unicode or local for metadata as it is and will never re-write them even when the file is being copied to the library folder. iTunes has an option for sharing iTunes library songs. Every 24 hours a maximum of five users can connect to a single user. To access any song in the AAC protected format you have to get an authentication. 
+
+Now, the iTune users can also use the Internet radio tuner supported by iTunes for listening to some popular online tracks. But it is said that as Apple Computers no longer supports this feature, it doesn’t appear in the iTunes website. 
+Recently, iTunes has started providing video support for movie clippings. Using the drag and drop option, users can just drag and drop movie clippings from computer to iTunes Library. They can be viewed in small frames or full screen. iTunes also support visualizer plug-ins which helps developers to create music oriented visual displays.
+
+

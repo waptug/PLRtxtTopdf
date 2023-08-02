@@ -1,0 +1,50 @@
+Title: 
+Hard Disk Failure and Data Recovery
+
+Word Count:
+946
+
+Summary:
+Hard disk is a non-volatile data storage device that stores electronic data on a magnetic surface layered onto hard disk platters. Word “Hard” is use to differentiate it from a soft, or floppy disk. Hard disks hold more data and can store from 10 to more than 100 gigabytes, whereas most floppies have a maximum storage capacity of 1.4 megabytes and in addition are faster too.
+
+
+Keywords:
+Hard Disk Failure, Data Recovery 
+
+
+Article Body:
+Hard Disk: An Introduction
+
+Hard disk is a non-volatile data storage device that stores electronic data on a magnetic surface layered onto hard disk platters. Word Hard is use to differentiate it from a soft, or floppy disk. Hard disks hold more data and can store from 10 to more than 100 gigabytes, whereas most floppies have a maximum storage capacity of 1.4 megabytes and in addition are faster too.
+Normally term hard disk is much familiar with computers only but it is widely used as network attached storage for large volume storage. Furthermore, appliance of hard disk drives spread out to video recorders, audio players, digital organizers, digital cameras, and even in latest cellular telephones.
+
+Reynold Johnson invented the first hard disk in 1955 for IBM 305 computer with fifty 24 inch platters and total capacity of five million characters, and in 1956 - first commercial hard disk was launched with 5 megabyte capacity, the IBM 350 RAMAC disk drive. Within time frame of 50 years and rapid progress in technical enhancement, we have now reached to latest 2006 - First 750 GB hard drive from (Seagate) and First 200 GB 2.5" Hard Drive utilizing Perpendicular recording (Toshiba).  
+
+Heart of hard disk consists of four basic components:
+The Platters: Platters are the actual disks inside the drive that store the magnetized data. Conventional platters are made of a light aluminum alloy and coated with magnetize-able material but latest technology uses glass or ceramic platters as they are thinner and also heat resisting. Most drives have at least two platters and the larger the storage capacity of the drive, the more platters there are.
+
+The Spindle Motor: Hard disk drive consists of a spindle on which the platters spin at a constant RPM. Moving along and between the platters on a common arm are read-write heads. The platters in a drive are divided by disk spacers and are clamped to a revolving spindle that turns all the platters in a uniform motion. The spindle motor is built right into the spindle and rotates the platters at a constant set rate ranging from 3,600 to 7,200 RPM.
+
+The Read/Write Heads: Read/write heads read and write data to the platters, and each head is fixed to a single actuator shaft so that all the heads move in harmony. Typically, only one of the heads is active at a time either reading or writing data. When not in use, the heads are inactive, but when in motion the spinning of the platters generate air pressure that lifts the heads off the platters. The space between the platter and the head is so minute that even one dust particle or a fingerprint could disable the spin. When the platters cease spinning the heads come to rest, at a preset position on the heads, called the landing zone.
+
+The Head Actuator: All the heads are attached to a single head actuator arm, which moves the heads around the platters. The Actuator arm moves the heads on an arc across the platters as they spin, allowing each head to access almost the entire surface of the platter. Contemporary hard drives use a voice coil actuator, which controls the movement of a coil toward or away from a permanent magnet based on the amount of current flowing through it. Fundamental structures of all hard disk are same, and are composed of the same physical features, but their performance depends on the quality of their inner components. 
+
+Hard Disk Failure: 
+Hard Disk Failure occurs when a hard disk drive malfunctions and the accumulate data cannot be accessed. It may happen in the course of normal operation due to an internal or external factor. 
+Disk failure varies and the most common is “Head Crash” where the internal read and write head of a device touches a platter or magnetic storage surface often grinding away the magnetic surface. Head hover just micrometers from the platters plane which makes such collision a common one.
+
+This sort of crash usually invites severe data loss and unprofessional data recovery attempts results further damage to the remaining data.
+Hard drive also includes other controller electronics i.e., semiconductors, valves or electronic circuits, and major components such as Platters, Spindle Motor and Head Actuator. Failure of any these devices may cause a hard disk failure. Factors causes disk failure are numerous, yet most common are power surges, voltage fluctuations, electronic malfunction, physical shock, wear and tear, corrosion, exposure to high magnetic waves, sharp impact, high temperature exposure etc. 
+
+The phenomena of hard disk failure is raising higher and higher; as to increase the read and write speed, today we have latest hard disk rotating amazingly faster and this immense revolving speed generates massive centrifugal force, a single adverse cause in the course of normal operation can cause severe hard disk failure. 
+
+Hard Disk Data Recovery:
+Hard disk data recovery is the process of recovering the trapped data from the damage hard disk device, when it can not be accessed in normal circumstance. 
+
+Several Techniques are used to retrieving data from damaged hard disk and techniques vary accordingly. It can be done by moving disk drive to a working CPU, or may have to open the disk drive and replace parts such as read/write heads, arms and chips and sometime the platters have to be removed and placed into another drive.
+
+Physical damage can not be repaired by the general users, as it requires clean and dust free lab environment, in addition proper hardware and technical expertise; where under microscopic examination with proper tool and techniques, the damage drive is put on to observation for data salvaging.
+
+In case of worse happening, do consult Data Recovery Service for saving your important data trapped within the damage device.
+
+

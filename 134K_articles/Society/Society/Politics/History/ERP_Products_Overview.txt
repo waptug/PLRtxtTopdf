@@ -1,0 +1,49 @@
+Title: 
+ERP Products Overview
+
+Word Count:
+711
+
+Summary:
+This article is intended for beginners to give basic idea about ERP Products and how it’s being used in industry applications.  Please visit Product home page for updated information and any changes to the features.
+
+
+Keywords:
+ERP Products, Oracle E- Business Suite, Industry Applications, SAP
+
+
+Article Body:
+This article is intended for beginners to give basic idea about ERP Products and how it’s being used in industry applications.  Please visit Product home page for updated information and any changes to the features. 
+
+Oracle E- Business Suite
+
+Oracle E-Business Suite is the industry's only complete and integrated set of enterprise applications, working together seamlessly to streamline every area of your business—from sales, service, and marketing, through financials and human resources, to supply chain and manufacturing. Oracle E-Business Suite is your fastest path to high-quality enterprise intelligence, bringing your company a true 360-degree view of your finances, your customers, and your supply chains, so you can make faster, better decisions and grow profitability in a competitive marketplace.
+
+Application software typically automates only departmental business processes. Oracle E-Business Suite is different; it automates all parts of your business. From developing, marketing, selling, ordering, planning, procuring, manufacturing, fulfilling, servicing, and maintaining, to handling finance, human resources, and project management—Oracle E-Business Suite provides a comprehensive and integrated offering. In the past, you had to choose between an integrated suite and “best of breed” for rich functionality. With Oracle, you can now have an integrated suite built on unified information architecture—with the functionality you need in each individual application. These applications connect business processes within and across departmental, geographical, and line-of-business domains. With Oracle E-Business Suite’s depth of product functionality and breadth of product offering, you can take your business further by automating processes across the enterprise. 
+
+Oracle E- Business Suite - Industry Applications
+
+Oracle E-Business Suite 11i.10 offers over 2,100 new capabilities, half of which meet specific industry needs, including: 
+Financial Services: SOP documentation and auditing for compliance with Sarbanes-Oxley and other regulations.
+Healthcare: Medication administration, patient encounter-specific financial information, integrated patient care and operational intelligence.
+Manufacturing/High Technology: Option-dependent sourcing, automated spare parts return and repair processing, international drop shipments, distribution planning.
+
+SAP 
+
+What is SAP? 
+
+SAP (Systems, Applications, and Products in Data Processing) is the leading ERP (Enterprise Resource Planning) software package. SAP was the first to integrate a corporation's worldwide functions tightly into one application. SAP R/2 was released as the first version of their software in 1979. Its domination of the market occurred during the 1980s, expanding first throughout Europe (early 1980s) and then North America (1988). SAP R/3, an advanced, client-server based version of the popular R/2 product, was released in 1992 and sparked a stunning takeover of America's largest businesses — 44% of US companies were using it within five years of its expansion. In 1999, SAP introduced its newest major product upgrade. Named mySAP.com to emphasize its shift to an e- business focus, mySAP.com builds on the strengths of the SAP R/3 product in a fully Internet enabled architecture. MySAP.com also incorporates SAP's newest business applications for CRM, Supply Chain Management (SAP APO), and Data Warehousing (Business Information Warehouse or BW).
+
+Prior to the introduction of mySAP.com, these applications had been incorporated as add-ons to SAP R/3 and were known as New Dimension products. Given below is a brief overview of both the products from SAP – SAP R/3 and mySAP.
+
+SAP R/3 Overview 
+
+SAP R/3 is SAP's integrated software solution for client/server and distributed open systems. SAP's R/3 is the world's most-used standard business software for client/server computing. R/3 meets the needs of a customer from the small grocer with 3 users to the multi-billion dollar companies The software is highly customizable using SAP's proprietary programming language, ABAP/4. R/3 is scalable and highly suited for many types and sizes of organizations. 
+
+The R/3 architecture is comprised of application and database servers. The application servers house the software and the database servers handle document updates and master file databases. The system can support an unlimited number of servers and a variety of hardware configurations. For more information see SAP R/3 Architecture at SAP home page. 
+
+SAP R/3 is based on various hardware and software architectures, running on most types of UNIX, on Windows NT and OS/400. SAP R/3 runs on several databases Oracle, Adabas D, Informix, DB2 for UNIX, DB2/400, and Microsoft’s SQL Server 6.0. Since R/3 foundation, SAP has made significant development and installed thousands of R/3 systems.
+
+For more visualization and complete Oracle Apps 11i tutorials, visit http://www.exforsys.com/content/category/17/260/342/.
+
+

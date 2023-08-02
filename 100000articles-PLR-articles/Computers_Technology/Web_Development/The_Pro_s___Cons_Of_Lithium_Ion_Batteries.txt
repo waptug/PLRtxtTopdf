@@ -1,0 +1,61 @@
+Title: 
+The Pro’s & Cons Of Lithium Ion Batteries
+
+Word Count:
+664
+
+Summary:
+Lithium Ion batteries were invented as long ago as 1912 by Gilbert N. Lewis, but it was a long time before they were developed enough to be launched on a mass market level. This happened in the early 1990’s with Sony pioneering their commercial use.
+
+Lithium Ion batteries have many advantages.
+
+They can be constructed in a wide variety of shapes and sizes, resulting in them being tailored to the available space in the device in which they are to be used.
+
+The batteries ...
+
+
+Keywords:
+battery, car key fob, lithium, batteries, laptop,
+
+
+Article Body:
+Lithium Ion batteries were invented as long ago as 1912 by Gilbert N. Lewis, but it was a long time before they were developed enough to be launched on a mass market level. This happened in the early 1990’s with Sony pioneering their commercial use.
+
+Lithium Ion batteries have many advantages.
+
+They can be constructed in a wide variety of shapes and sizes, resulting in them being tailored to the available space in the device in which they are to be used.
+
+The batteries are also much lighter than other equivalents, due to the nature of the material and the high open circuit voltage compared to other batteries. This low weight makes it ideal in hand held and mobile devices for obvious reasons, and popular in these days of high tech gadgets.
+
+Another major advantage is that they do not suffer from memory effect. This is the condition, whereby other rechargeable batteries, if not fully discharged before recharging, lose their maximum energy capacity over time and thus hold less charge.
+
+They also do not have such a drastic self discharge rate as other batteries – just 5% per month, compared with up to 30% per month in other battery types.
+However, Lithium Ion batteries are not perfect, and there are drawbacks.
+
+One of these is that their life span depends upon their age – and not the time from which they were charged, or the number of times they have been charged. They begin to lose capacity gradually from the date of manufacture irrespective of the amount of charging cycles they have. Therefore the manufacturing date is useful to know,e specially if there is a big time lapse from manufacture to being used e..g due to storage.
+
+Some Lithium Ion batteries (such as laptop batteries) can lose around 20% of their capacity per year, when stored at normal temperatures. However, when exposed to prolonged higher temperatures, this figure can increase to as much as 35% per year. Another key factor is the charge level – when stored partially charged, these figures can be dramatically reduced.
+
+This makes Lithium Ion batteries unsuitable for certain applications – such as back up batteries.
+
+The battery must never be discharged below a certain threshold, otherwise the battery will be damaged irreversibly. Therefore, the devices that use them have a built in system to shut them down when the charge level meets that minimum threshold. For this reason, Lithium Ion batteries are designed and manufactured specifically for the device they are to power and are not available as generic batteries.
+
+Having said that, there are some versions available that have a built in circuit to monitor the minimum charge level and shut the battery down when it reaches that level. These are known as “smart” batteries.
+
+How to prolong the life of your Lithium Ion battery
+
+- Charge the battery early and often , unlike other rechargeable batteries.
+
+- If you do not intend to use the battery for a long time, charge it to a level of approximately 40% of capacity.
+
+- The battery should be kept cool. They will age faster at higher temperatures, so keep as cool as possible when not in use. They can be safely stored in a refrigerator for optimum prevention of aging. (note: they should not be frozen)
+
+- If the device you are using is often run from a mains power supply (e..g laptop) and it is possible, remove the battery when using mains power. This prevent the battery from being subjected to high prolonged temperatures which can shorten it’s life.
+
+- Any steps to reduce the heat that the battery is subjected to will benefit it’s lifespan.
+
+- When purchasing replacements, try to purchase a battery that has the shortest possible time from manufacture to retail. (though it may be difficult to find out this information).
+
+In short Lithium Ion batteries are a very versatile battery, ideal in lightweight applications and not subject to memory effect. However, they do degrade at higher temperatures which means they are not a universal battery solution.
+
+

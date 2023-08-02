@@ -1,0 +1,45 @@
+Title: 
+Software As A Service Plans Significantly Lower Terminal Emulation Costs
+
+Word Count:
+318
+
+Summary:
+Large organizations that currently pay for maintenance, support and software licenses have most to gain by switching to new software licensing model.
+
+Licensing terminal emulation using a “Software as a Service” (SaaS) plan can drastically lower the cost of accessing legacy applications. This is especially true for large organizations that either require or favor having their terminal emulation users covered by a maintenance and support agreement.
+
+SaaS licensing plans ar...
+
+
+Keywords:
+terminal emulation,software as a service
+
+
+Article Body:
+Large organizations that currently pay for maintenance, support and software licenses have most to gain by switching to new software licensing model.
+
+Licensing terminal emulation using a “Software as a Service” (SaaS) plan can drastically lower the cost of accessing legacy applications. This is especially true for large organizations that either require or favor having their terminal emulation users covered by a maintenance and support agreement.
+
+SaaS licensing plans are also ideal for organizations that plan to retire their mainframe systems at some point in the future, but short term require updated terminal emulation.
+
+Zephyr specializes in SaaS licensing for organizations that require either Attachmate or IBM compatible terminal emulation. Both desktop and browser-based terminal emulation can be licensed through the Zephyr SaaS program.
+
+The primary benefits of the Zephyr SaaS plan includes:
+
+- lower upfront costs in comparison to traditional license model
+- may be treated as a lease versus a capitalized asset
+
+- software, support, maintenance and upgrades included in one fee
+
+- predictable annual expense can be easily budgeted
+
+- escalation of license fee can be negotiated upfront
+
+- ideal for organizations that plan to retire mainframe systems at some point
+
+For example, an enterprise with 10,000 users that pays $75 for a one-time terminal emulation upgrade and a maintenance and support plan of 15% of the license fee, could save over 50% during a 10 year period with an all inclusive plan that features the terminal emulation software, maintenance, support and major upgrades. Organizations with greater numbers of users have the opportunity to save even more.
+
+Zephyr specializes in SaaS licensing for customers that require desktop or browser-based IBM 3270, 5250 or UNIX terminal emulation for Microsoft Windows using TN3270E, TN5250E, VT, SCO ANSI or Wyse 60 protocols. Six years after the Zephyr SaaS program was introduced, the large majority of its customer base now licenses the Zephyr PASSPORT terminal emulation software and support services on an annual basis using a Software as a Service plan.
+
+

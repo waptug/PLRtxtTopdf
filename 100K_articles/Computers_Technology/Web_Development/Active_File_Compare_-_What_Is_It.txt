@@ -1,0 +1,60 @@
+Title: 
+Active File Compare - What Is It
+
+Word Count:
+499
+
+Summary:
+Heart of File Comparison Software. File comparison is the process of comparing two files on a file system. Comparison files allow evaluation and comparison of PDF, Binary and MS documents. The results are displayed to the user which in turn can be used to complete tasks in networks and to automate revision control procedure. File comparison software is built around diff and cmp programs. The software works by solving the Longest Common Subsequence (LCS) between two files. Mos...
+
+
+Keywords:
+active file compare,file compare,file comparison
+
+
+Article Body:
+Heart of File Comparison Software. File comparison is the process of comparing two files on a file system. Comparison files allow evaluation and comparison of PDF, Binary and MS documents. The results are displayed to the user which in turn can be used to complete tasks in networks and to automate revision control procedure. File comparison software is built around diff and cmp programs. The software works by solving the Longest Common Subsequence (LCS) between two files. Most comparison softwares can be integrated with an external diff tool.
+
+What Active File Compare Does? Active File compares and synchronizes text files in visual mode. Active file compare can evaluate two versions of the same file and also corrects source codes by comparing them. Active File transfer supports syntax highlighting for the programming languages C, C++, Delphi, Object Pascal, Perl, FORTRAN, FoxPro and Visual Basic. Active File compare comes handy to manage your source code when several independent authors make changes. The algorithm system the software follows is designed to be accurate with small text files and in files with a large of number of changes. The software has a user friendly interface .Apart from the standard tool and menu bar it contains two folder panels, two line compare panels, thumbnail panel and a line panel. Active file compare has its own file manager system with which you can compare two folders, load files for further work, copy files, folders etc. User's can open files from different folders after allocating commands in the file menu. User's can control the controls the files to displayed using the filters.
+
+Unmatched Features. Active File Compare offers its users a plethora of features. Users get to compare files, get visual display, edit and manage files.
+
+Comparison
+
+- Compares files which exists in GZip, Zip and Tar archive files.
+- Compares two folders.
+- Creates the difference as a HTML or UnixDiff file.
+- View live project statistics.
+
+Display
+
+- Displays compared files side by side.
+- Highlights syntax for a wide range of programming softwares like C++, Java, Delphi, FORTRAN.
+- Highlights differences down to the level of characters.
+- Supports Multi lingual interface.
+- Supports thumbnail view for graphic representation of differences.
+
+Editing
+
+- Helps you synchronize fragments with differences and delete or copy/move un-matching files.
+- Allows you to edit individual lines after comparison.
+- Insert the lines from one file to another.
+- Has text navigation facility with Find/Go command and allows you to set bookmarks.
+- Compare two files with a timestamp of upto 'two second precision'.
+
+File manager
+
+- Has two side by side windows.
+- Filter files by their extension.
+- Sort files by Timestamp, Name, Date Modified, and Size.
+- Copy, Move, Rename files.
+- Treats archive files like Zip and Tar as folders.
+- Select all files in a folder or file group by using appropriate commands in the too bar.
+
+Other features
+
+- Supports UNICODE text files.
+- Supports command line options.
+- Supports project setting which allows the user to all project details (file paths and filters) so that users can continue work on it later.
+
+

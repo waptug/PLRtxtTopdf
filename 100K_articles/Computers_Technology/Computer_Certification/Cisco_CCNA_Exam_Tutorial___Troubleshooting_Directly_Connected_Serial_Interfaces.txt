@@ -1,0 +1,64 @@
+Title: 
+Cisco CCNA Exam Tutorial:  Troubleshooting Directly Connected Serial Interfaces
+
+Word Count:
+457
+
+Summary:
+Knowing how to configure and troubleshoot directly connected serial interfaces is a vital part of your CCNA studies.  Learn the details from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Cisco, exam, dce, dte, clockrate, directly, connected, serial, interfaces, line, protocol, down, show, controller, Bryant, advantage, 12933
+
+
+Article Body:
+CCNA exam success depends largely on noticing the details, and this is especially true of configurations involving directly connected serial interfaces.  And of course, it's not enough to notice these details - you've got to know what to do about them!
+
+A Cisco router is a DTE by default, but directly connecting two DTEs with a DCE/DTE cable is not enough.  In the following example, R1 and R3 are directly connected at their Serial1 interfaces.  The line goes up briefly after being opened, but the line protocol goes down after about 30 seconds.
+
+R3(config-if)#int s1
+
+R3(config-if)#ip address 172.12.13.3 255.255.255.0
+
+R3(config-if)#no shutdown
+
+2d18h: %LINK-3-UPDOWN: Interface Serial1, changed state to up
+
+2d18h: %LINEPROTO-5-UPDOWN: Line protocol on Interface Serial1, changed state to up
+
+R3(config-if)#
+
+2d18h: %LINEPROTO-5-UPDOWN: Line protocol on Interface Serial1, changed state to down
+
+The problem is that one of the routers needs to act as the DCE in order for the line protocol to come up and stay up.  If this were your CCNA / CCNP home lab, you could just go over and look at the DTE/DCE cable to see which router had the DCE end of the cable attached.  In this example, though, we don't have physical access to the routers.  How can we tell which router has the DCE end of the cable attached?
+
+R3#show controller serial 1
+
+HD unit 1, idb = 0x1C44E8, driver structure at 0x1CBAC8
+
+buffer size 1524  HD unit 1, V.35 DCE cable
+
+The show controller command gives us this information.  (There's a lot more output that this with this command, but it's unimportant for our purposes.)  The router with the DCE end of the cable needs to supply a clock rate to the DTE, and we'll do just that with the interface-level clockrate command.
+
+R3#conf t
+
+Enter configuration commands, one per line.  End with CNTL/Z.
+
+R3(config)#int serial1
+
+R3(config-if)#clockrate 56000
+
+2d18h: %LINEPROTO-5-UPDOWN: Line protocol on Interface Serial1, changed state to up
+
+In just a few seconds, the line protocol goes up and stays up.
+
+When troubleshooting a connection, always run show interface first.  If you see the combination shown below, the connection is physically fine but logically down.  That's generally the result of a needed keepalive not being present.  With Frame Relay, it's probably an LMI issue, but with directly connected serial interfaces the issue is most likely the DCE end of the connection not supplying clockrate.
+
+R3#show interface serial 1
+
+Serial1 is up, line protocol is down
+
+Troubleshooting is a big part of the job, and it's a big part of the Cisco CCNA and CCNP programs as well.  Know your show and debug commands and you're on your way to passing the CCNA!
+
+

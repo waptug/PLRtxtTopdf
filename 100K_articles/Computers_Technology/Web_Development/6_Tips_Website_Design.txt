@@ -1,0 +1,28 @@
+Title: 
+6 Tips Website Design
+
+Word Count:
+587
+
+Summary:
+1. Use CSS (cascading attraction sheets). If you follow through not apperceive CSS, ferret out it. CSS allows you to maintenance the formatting of your town (e.g. the color or size of a blonde of text) on a disparate at variance page - a CSS document. Thus, with CSS you can impinge the formatting of a common-element by simply updating one piece of code on one page, rather then updating all the pages of your site. For example, if you want to change the back-ground color of you...
+
+
+Keywords:
+Web Hosting
+
+
+Article Body:
+1. Use CSS (cascading attraction sheets). If you follow through not apperceive CSS, ferret out it. CSS allows you to maintenance the formatting of your town (e.g. the color or size of a blonde of text) on a disparate at variance page - a CSS document. Thus, with CSS you can impinge the formatting of a common-element by simply updating one piece of code on one page, rather then updating all the pages of your site. For example, if you want to change the back-ground color of your website, you could just change your one CSS sheet and your entire website's background color would change. Another great aspect of CSS is that you can use it to set the default properties of HTML tags. This can be used to counter browser compatibility problem - that different browsers (e.g. Internet Explorer, Netscape, etc.) use different default settings.
+
+2. Test your website in all browsers. Just now your website displays a singular rubric in one browser, doesn't cruel it commit an act that disposal in also browser. You should permit that your website displays properly in all of the primary following browsers: Mozilla Firefox, Internet Explorer, and Netscape, and Opera.
+
+3. Use produce inception software and freeware, if you need to plunge into a energizing website. Even if you undergo influential languages (such as JavaScript, PHP, and CGI) absolutely enough to lead your receive software and features, you do not want to do that if you are a beginner. There's no reason to create your own dynamic scripts (e.g. shopping carts, chat-rooms, etc.), if you can find full-functioning customizable freeware. A great benefit of this method is that the customization options will separate the code that changes your website's look and feel from the functioning code. If you design the code yourself, you'll be tempted to mix the look and feel with the functioning aspects. So, if later you want to update the look and feel, you'll have to dig through the long software scripts. If you're going to be using freeware or any other code that you didn't design yourself, you should still be familiar with that language.
+
+4. Don't benediction for free or tasteless web-hosting. Okay, this isn't necessarily a start tip. However, hosting is twin to design. Free hosts may emit your website with awkward ads. So, you won't be adequate to task your region as is. Also, free and cheap hosts often don't support dynamic websites. Unless you're website is supposed to be a joke, don't use a free host.
+
+5. Don't compose your email superscription on your website. If you have a phone bear or mailing directions that your customers can betterment to discharge you or your business, make public that on your website. Website's with a phone embrace or mailing directions loom much more reliable and honest than websites without contact information. However, don't publish your email address, because spammers will use web-crawlers will to pick it up. Instead, design a form on your website that customers can use to send messages or questions without giving your email address.
+
+6. Take it slow. Unfortunately, the own disposal to alter to an brilliant designer is considering experience, but your vim can't render sloppy pages. Don't go to generate confused and dynamic websites without the ability. If you try to design a code, but find it hard and the code begins to come out sloppy, don't hesitate to just throw it out. It's better to have a simple, sleek, and functional website, than to have a complex, sloppy, dysfunctional website.
+
+

@@ -1,0 +1,36 @@
+Title: 
+How do I Unblock MySpace?
+
+Word Count:
+271
+
+Summary:
+Unblock MySpace from school, work, or Dar al Islam to allow yourself unfettered access to your MySpace friends.
+
+
+Keywords:
+unblock myspace
+
+
+Article Body:
+Find a Proxy - A proxy is a website that which allows you to browse the internet through its server. Your computer connects to a proxy and the proxy makes the connection with the blocked web site.  This way, you can hide your IP address, using the servers IP address instead. Using a proxy is also the easiest way to access websites that have been blocked by a filter or firewall. 
+
+The easiest way to find a proxy is to head to http://www.tech-faq.com/proxy-sites.shtml
+
+. Select any of the proxy and check if you are able to access it. If you are able to access the proxy site, make sure you bookmark it in your browser. If you are unable to access it, it means that the proxy is blocked. You will have to head to the proxy directory page again and find a working proxy.
+
+Once you have found a working proxy, follow the steps given below:
+
+- Enter the site address - Scroll down the page until you see a text box and a button displaying "Go", "Browse" or "Surf" beside it. Click on the text box and enter "http://www.myspace.com" (without quotes).
+
+- Enable javascript - Make sure that the "Enable javascript" checkbox is checked. Myspace requires Javascript to run properly.
+
+- Click the button - Click on the button next to the textbox, displaying "Go", "Browse" or "Surf". 
+
+Now you can successfully log into Myspace.  
+
+Voila! You have successfully unblocked Myspace. Enjoy!
+
+Unfortunately, the filters will sooner or later block the proxies.  You will have to head back to the proxy directory and find another proxy site to use.
+
+

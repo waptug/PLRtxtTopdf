@@ -1,0 +1,28 @@
+Title: 
+Tips For Securing Your Home Wifi Network
+
+Word Count:
+485
+
+Summary:
+As consumers upgrade their computers and laptops and are discovering the convenience of wireless computing, they may also be opening themselves up to attacks from random hackers. If you have a home network and it has wireless capabilities one of the most important things you can do to protect yourself, your computers and most importantly your data, is to secure your network. You may think you are doing a good thing leaving your wireless network open for your neighbors to use,...
+
+
+Keywords:
+wifi, wireless networks, networking, computer security
+
+
+Article Body:
+As consumers upgrade their computers and laptops and are discovering the convenience of wireless computing, they may also be opening themselves up to attacks from random hackers. If you have a home network and it has wireless capabilities one of the most important things you can do to protect yourself, your computers and most importantly your data, is to secure your network. You may think you are doing a good thing leaving your wireless network open for your neighbors to use, but you may also be allowing people to use your network to download pirated music or movies (which you will be responsible for), send unsolicited commercial email (aka spam) or launch viruses. 
+
+Securing your network is fairly easy and can be done by just about anyone, even if you aren’t computer savvy. If you are using a laptop you may want to connect your computer via ethernet cable to your router, while you are making the configuration changes. The first thing you should do is log into your wireless router and change the administration password and username if possible. Leaving the default settings is like locking your door and hiding a key under the mat. Next you want to enable WEP (wireless equivalent privacy) security on your router. If your router has 128 bit encryption use it, it’s more secure than 40 bit encryption. If you have an older router you may only have 40 bit encryption, 40 bit encryption is better than no encryption so if that’s all you have use it. You will need to enter the corresponding WEP encryption key on all of your computers that connect wirelessly. Reboot the router and verify you can still connect with the network cable removed. It would be easier to make all of the changes at once and the reboot, but if you make a mistake doing it step by step helps you find your mistakes easier.
+
+The next step is changing the SSID (Service Set Identifier). The first thing you should do is change the name from its default setting. If your router lets you disable the SSID broadcast you should. Again make the corresponding changes on each of the computers that connect wirelessly and reboot the router. Once the router reboots make sure you can still connect to the network.
+
+Your next step is to allow access via Mac addresses. Every computer has a unique Mac address that looks like 0A-3C-2A-55-E4-A0. Get all of the MAC addresses of all of the computers that connect wirelessly and restrict access on the router to only those Mac addresses. Reboot the router and verify you can still connect. 
+
+While these tips won’t keep out sophisticated professional hackers they will keep out casual snoopers. Lastly on each computer make sure you are sharing only the folders that you want other people to be able to see.
+
+© Computers.6ln.com, All Rights Reserved.
+
+

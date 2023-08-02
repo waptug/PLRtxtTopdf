@@ -1,0 +1,32 @@
+Title: 
+Computer File Shredder Basics
+
+Word Count:
+510
+
+Summary:
+A computer file shredder was created for the same purpose as the paper file shredder. The intent is to complete obliterate not only the file, but in the most secure file shredder software, any reference to the file that was shredded is also shredded in the history and in the directory. Many people do not realize that a computer file that is deleted doesn't go away, it still resides on the hard drive or disc--it just doesn't have a name any more, so there is no easy way to acc...
+
+
+Keywords:
+file shredder,wipe file,shred file
+
+
+Article Body:
+A computer file shredder was created for the same purpose as the paper file shredder. The intent is to complete obliterate not only the file, but in the most secure file shredder software, any reference to the file that was shredded is also shredded in the history and in the directory. Many people do not realize that a computer file that is deleted doesn't go away, it still resides on the hard drive or disc--it just doesn't have a name any more, so there is no easy way to access it.
+
+Someone who knows how to search computer files can fairly easily determine where the data is on the drive and recover the information. This works until the data is written over with other files, which may not happen for a long time. Even if the information is over written once, in many cases, the information underneath the top layer can be accessed, using sophisticated equipment.
+
+In essence, what a file shredder does is to overwrite the file. If the material is extremely sensitive, the file may be overwritten 3 times. Then the reference to the file is removed from the directory area, using the same means--overwriting.
+
+If defragmentation is used on the areas in the drive where sensitive information was stored, this will mean that it's even more difficult to use a file shredder and be certain that the information is truly unrecoverable.
+
+Any time sensitive business or personal information is stored in a computer file, there is always the need to use a file shredder if the computer is sold or donated. A recent study found that a large proportion of donated used computers contain personal information and files on the computer, even when the files have been deleted.
+
+Shredding, also known as file wiping is commonly used for reasons of confidentiality. Copyright and trade item piracy is a serious business. Trade espionage relies on being able to steal secrets about the business of a competitor in order to profit from such information. File shredding or file wiping is just one part of the entire security program. Prevention of theft of sensitive documents and electronic files helps stop computer file theft. Making sure sensitive information is stored in encrypted files and maintaining the security of the encryption key is another important file security effort.
+
+If you want to be absolutely positive sensitive information can never be recovered, methods such as destroying the data with acid, or by incinerating the disc. Another method is known as degaussing which is a methods of decreasing or eliminating an unwanted magnet field. This is accomplished by the use of an electromagnetic coil and was used as a method of protecting military ships against magnetic mines.
+
+In most instances a triple overwriting in order to shred information in a file is overkill for the home computer owner. Overwriting a large file, such as one of 100MB or larger can take an tremendous amount of time, and is not warranted in most cases for the small business person, or individual for home security.
+
+

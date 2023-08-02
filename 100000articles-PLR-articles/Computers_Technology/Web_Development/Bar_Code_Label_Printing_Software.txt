@@ -1,0 +1,74 @@
+Title: 
+Bar Code Label Printing Software
+
+Word Count:
+471
+
+Summary:
+NiceLabel Barcode Label Printing Software
+
+NiceLabel is a WYSIWYG (What You See Is What You Get) bar code label printing software program designed to print barcodes, as well as text and graphics on labels including thermal transfer bar-code printer labels and standard laser/inkjet printers’ labels. Main features of NiceLabel include
+
+• Drag and drop functionality and WYSIWYG layout
+• Supports Linear 2 dimensional Symbologies
+• Supports RSS and Composite bar-code types
+...
+
+
+Keywords:
+digital, photo, print, service, cheap, bar, code
+
+
+Article Body:
+NiceLabel Barcode Label Printing Software
+
+NiceLabel is a WYSIWYG (What You See Is What You Get) bar code label printing software program designed to print barcodes, as well as text and graphics on labels including thermal transfer bar-code printer labels and standard laser/inkjet printers’ labels. Main features of NiceLabel include
+
+• Drag and drop functionality and WYSIWYG layout
+• Supports Linear 2 dimensional Symbologies
+• Supports RSS and Composite bar-code types
+• Supports EAN/UCC 128
+• Supports laser, inkjet, and thermal printers
+• Supports databases such as comma delimited text files and CSV files as a data source
+• Supports images formats such as BMP, GIF, JPEG, WMF and PCX; and objects such as squares, rectangles, lines, boxes, and circles
+
+There are two version of NiceLabel - NiceLabel Express, which is completely Wizard-based; and NiceLabel Pro, with advanced features such as RFID Support, Comprehensive database support, Pre-designed templates, ActiveX Programmers Interface, Advanced label design elements, Import labels, and Advanced data processing capabilities.
+
+IDAutomation Barcode Label Software
+
+This is another WYSIWYG bar code label printing software program to print barcodes, as well as text and graphics on labels including thermal transfer bar-code printer labels and standard laser/inkjet printers’ labels. Main features of IDAutomation Barcode Label Software include
+
+• Imports label data from comma delimited text files, Microsoft Excel, Access and CSV files
+• Ability to increment, static, link or determine barcode value by VB script.
+• Embedded database built in for creating custom values
+• Supports UCC/EAN 128 identifiers
+• Supports laser, inkjet, and thermal printers
+• Supports XML-based file formats
+• Supports all EAN and UCC 128 AIs
+• Source code available
+• Multiple symbologies
+• Supports images formats such as BMP, GIF, JPEG, WMF and PCX
+
+There is also a PRO version available with additional features such as support for linear barcodes, RSS and Composite Symbology barcode types; ability to connect to additional data sources; and support for VB Script formulas to determine barcode values
+
+Aulux Technologies Barcode Label Maker
+Barcode Label Maker is a powerful tool to design and print any size of label with Barcodes, as well as text and graphics. Main features include
+
+• Datasheet Manager to generate sequences data freely
+• Ability to import data from Text File, MS Excel, MS Access MDB database, etc
+• Supports Linear 2 dimensional Symbologies
+• Supports RSS and Composite bar-code types
+• Supports images formats such as BMP, GIF, JPEG, WMF and PCX
+
+The Deluxe version of Barcode Label Maker supports read picture's path from datasheet to make ID card easier.
+
+Flexible Information Systems (FIS) LabelVision 20/20
+
+The LabelVision 20/20 from Flexible Information Systems, Inc (FIS) incorporates features such as
+
+• Built-in MS Access-Compatible Database to create MS Access databases and print labels from them without using ODBC
+• Ability to create Custom Menus to simplify the interface to the most complicated label printing applications
+• Multiple labeling applications
+• Supports Automatic print with Record Watch by monitoring data changes in databases or text files to automate label printing.
+
+

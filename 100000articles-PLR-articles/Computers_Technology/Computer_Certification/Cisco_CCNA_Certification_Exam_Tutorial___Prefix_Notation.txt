@@ -1,0 +1,30 @@
+Title: 
+Cisco CCNA Certification Exam Tutorial:  Prefix Notation
+
+Word Count:
+250
+
+Summary:
+To pass the CCNA exam, you must know how to use prefix notation.  Learn how from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccna, exam, pass, free, prefix, notation, binary, subnet, math, subnetting, icnd, intro
+
+
+Article Body:
+When you're preparing to pass the CCNA exam and earn this coveted Cisco certification, you've got to be totally prepared for the many kinds of binary and subnetting questions Cisco may throw at you.  You also have to be familiar with the different manners in which a subnet mask can be expressed, as in the following:
+
+255.255.255.0 
+
+/24
+
+Believe it or not, those two values are exactly the same.  The first mask is written out in the more familiar dotted decimal format, and you know by looking at those first three octets that every bit is set to "1", since the maximum value of such an octet is 255.
+
+The second value represents the exact same mask, only this value is expressed in prefix notation.  This particular value would be pronounced "slash twenty-four", and the 24 represents the number of consecutive ones that are set in the subnet mask.
+
+Those of us who hate to type numbers are particularly appreciative of this, since it means you'll have to type a lot less numbers to represent a subnet mask.  In addition, it's a lot easier to discuss masks in prefix notation than dotted decimal.  ("I thought about using a two-fifty-five two-fifty-five two-fifty-five zero mask ,but then decided to use a two-fifty-five two-fifty-five two-fifty-five one-twenty-eight mask...")
+
+Be sure you're comfortable with prefix notation before taking your CCNA exam.  As with Cisco documentation, you'll most likely see masks expressed in both dotted decimal and prefix notation, and you've got to be ready to use the both as well!
+
+

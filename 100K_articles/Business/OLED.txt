@@ -1,0 +1,26 @@
+Title: 
+OLED
+
+Word Count:
+302
+
+Summary:
+An Organic Light Emitting Diode or OLED is an electronic device that emits light when a voltage is applied across its terminals. Since organic compounds are used in certain layers within the device, it is known as an “Organic” LED, as opposed to normal LEDs which use inorganic compounds. Since some layers are conductive and some are resistive in nature, the device is known as an organic semi-conductor.
+
+
+Keywords:
+OLED
+
+
+Article Body:
+An Organic Light Emitting Diode or OLED is an electronic device that emits light when a voltage is applied across its terminals. Since organic compounds are used in certain layers within the device, it is known as an “Organic” LED, as opposed to normal LEDs which use inorganic compounds. Since some layers are conductive and some are resistive in nature, the device is known as an organic semi-conductor.
+
+These devices can be used in the manufacture of visual display screens for televisions, computer monitors and laptops, advertisement display boards, and display monitors in information kiosks.
+
+While LCDs (Liquid Crystal Displays) which are widely in use today need a backlight to illuminate the display, an OLED has no need for it. This considerably reduces the power requirement of OLEDs which can function for a longer time from the same battery source. Moreover, the absence of the backlight circuitry enables the display unit to be much thinner than traditional displays.
+
+OLED operation
+
+The device typically consists of an anode, a conductive layer, an emissive layer and a cathode. When a voltage is applied across the device making the anode positive and the cathode negatively charged, an electric current starts to flow through the device. The cathode emits electrons towards the emissive layer, while the anode draws electrons from the conductive layer. This is also analogous to the anode supplying electron holes to the conductive layer. The holes and the electrons are driven towards each other due to the voltage applied across the device, and they merge together at the emissive layer which results in an electro-magnetic radiation whose frequency is in the visible spectrum. Hence light is seen to be emitted from the OLED. This phenomenon is termed as electro-fluorescence. Various organic compounds are used within the layers to generate various colors of light.
+
+

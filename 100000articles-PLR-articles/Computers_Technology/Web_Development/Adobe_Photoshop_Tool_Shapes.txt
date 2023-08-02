@@ -1,0 +1,61 @@
+Title: 
+Adobe Photoshop Tool Shapes
+
+Word Count:
+511
+
+Summary:
+In this article you will how to use the 3 must used tools in Photoshop (Magic Tool, Move Tool and the Crop Tool) and once mastered you'll never be with out them.
+
+Magic Wand:
+The Magic Wand Tool (W) selects areas of similar color You can change the tolerance (how close the color values should be to the sampled color in order to be selected) of a Magic Wand selection, and choose whether you want the selection to be contiguous (pixels that are touching) or not (in which case...
+
+
+Keywords:
+photoshop,adobe,tutorials,paint,photography,photoshop 7,photoshop cs,photoshop tips,photoshop tricks
+
+
+Article Body:
+In this article you will how to use the 3 must used tools in Photoshop (Magic Tool, Move Tool and the Crop Tool) and once mastered you'll never be with out them.
+
+Magic Wand:
+The Magic Wand Tool (W) selects areas of similar color You can change the tolerance (how close the color values should be to the sampled color in order to be selected) of a Magic Wand selection, and choose whether you want the selection to be contiguous (pixels that are touching) or not (in which case, matching colors across the entire document will be selected)
+
+Tips and Shortcuts for the Magic Wand:
+Hold the Shift key to add another selection to the first.
+
+Hold the Alt key (Option key on a Mac) to subtract your new selection from the first.
+
+Hold Shift-Alt (Shift-Option) to select the intersection of your first and second selections.
+
+Use the arrow keys to move the selection pixel by pixel  If you feel that this doesn’t move your selection quickly enough, hold down Shift and use the arrow keys to move the selection ten pixels at a time.
+
+Press Ctrl-J (Command-J on a Mac) to copy the selection into its own layer.
+
+To cut the selection into its own layer, press Shift-Ctrl-J (Shift-Command-J)
+
+If this seems familiar to you, it’s because I mentioned earlier how to copy a layer using the same keyboard shortcut  Now that you know that not selecting anything sometimes means that everything is selected, it makes sense that simply by selecting a layer in the Layers palette, you can copy the entire layer by pressing Ctrl-J (Command-J)
+
+To deselect a selected area, click outside of it with one of the Marquee tools, or press Ctrl-D (Command-D on a Mac)
+
+To reactivate your last selection, press Shift-Ctrl-D (Shift-Command-D)
+
+The Move Tool:
+The Move Tool (V) moves a selected area or an entire layer .
+
+You can invoke the Move Tool temporarily when using most other tools by holding down the Ctrl key (Command key on a Mac)
+
+Tips and Shortcuts for the Move Tool:
+For most tools, holding Ctrl-Alt (Command-Option on a Mac) and dragging a selected area will temporarily invoke the Move Tool, allowing you to move and duplicate the selected layer quickly
+
+You can also duplicate a layer by holding down the Alt key (Option key on a Mac) while using the Move Tool,
+
+The Crop Tool:
+The Crop Tool (C) is used to trim images Create a selection using the Crop Tool, then double-click the center of the
+selection, or press Enter, to crop the image to the size of the selection To cancel without cropping, select another
+tool or press the Esc key
+
+Tips and Shortcuts for the Crop Tool:
+You can use the Crop Tool to resize your canvas  Expand your document window so that it’s larger than the image area, and create a crop selection that includes the image and extends onto the gray areas “outside” the image  Applying this crop will resize your canvas to include those extended boundaries, making your canvas larger.
+
+

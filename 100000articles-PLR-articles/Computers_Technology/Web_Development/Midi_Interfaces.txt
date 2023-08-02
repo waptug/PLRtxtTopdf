@@ -1,0 +1,24 @@
+Title: 
+Midi Interfaces
+
+Word Count:
+394
+
+Summary:
+So you’ve heard about MIDI and are eager to set up your own MIDI home studio? Actually you can do that for a few hundred dollars assuming you already own a decent computer. Actually a home studio can cost a LOT more than that, but a few hundred dollars should take care of the basics for you. But be warned, if you catch “MIDI fever” as so many have, you’re likely going to be spending a LOT more money, even to the point selling your refrigerator (or your kidney) to get money to...
+
+
+Keywords:
+MIDI, MIDI interfaces
+
+
+Article Body:
+So you’ve heard about MIDI and are eager to set up your own MIDI home studio? Actually you can do that for a few hundred dollars assuming you already own a decent computer. Actually a home studio can cost a LOT more than that, but a few hundred dollars should take care of the basics for you. But be warned, if you catch “MIDI fever” as so many have, you’re likely going to be spending a LOT more money, even to the point selling your refrigerator (or your kidney) to get money to buy more MIDI equipment!
+
+In order to set up your MIDI home studio, you’re going to need hardware that allows MIDI input and output – in other words, hardware that facilitates the transfer of MIDI data to and from a computer and a MIDI Interface or some similar MIDI unit. You can recognize such a unit by the “MIDI IN” and “MIDI OUT” jacks, which will be labeled as such on the outside of the unit itself. Some of these interfaces are barely “external” at all – they’re nothing more than cards that you plug into your computer. Others are little boxes attach to your computer’s USB port or elsewhere. Remember that this piece of hardware is an interface, not a sound module. If you want your studio to be able to play actual sounds, your going to need additional hardware to connect to those MIDI IN and MIDI OUT jacks.
+
+MIDI ISA cards include the Roland MPU-401 (or MPU-IPC) and the MusicQuest MQX--32, among others. Your best bet, however, is to purchase an external MIDI interface box that will connect to your computer’s USB port, such as the MidiMan MidiSport series, the Edirol UM-880, and the UM-2. Even better, the Roland JV-5030 is a sound module with a built-in MIDI interface that can be attached directly to a USB port – thereby killing two birds with one stone, although you will need a serial MIDI driver for your operating system. You can even attach the Roland JV-5030 to a keyboard controller and play it without a computer. You can even plug headphones into it.
+
+In any case, it’s probably best to purchase something that you can plug into your computer’s USB port, because that is where the industry seems to be heading at this point.
+
+

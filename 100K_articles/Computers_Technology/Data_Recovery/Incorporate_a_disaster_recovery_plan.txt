@@ -1,0 +1,29 @@
+Title: 
+Incorporate a disaster recovery plan
+
+Word Count:
+472
+
+Summary:
+How to incorporate a disaster recovery plan that would be faster and safer?
+
+
+Keywords:
+online data backup, data recovery, disaster recovery plan
+
+
+Article Body:
+Nordural ehf's backup system needed to incorporate a Disaster Recovery plan that would reduce the backup window from ten hours to two-three hours.
+A Disaster Recovery Plan is a coordinated activity to enable the recovery of IT/business systems due to a disruption. Disaster Recovery can be achieved by restoring IT/business operations at an alternate location, recovering IT/business operations using alternate equipment, and/or performing some or all of the affected business processes using manual methods.
+It was essential that Nordural's backup system incorporate a trustworthy Disaster Recovery plan that would reduce its backup window from ten hours to two-three hours. In addition to this, Nordural wanted a Disaster Recovery plan that restored the company's most critical servers to bare metal restore in less than two hours.
+
+Nordural's decision to select the SecurStore Remote Backup Service highlights the strength and flexibility of managed services. 
+Remote backup (sometimes also referred to as online backup) is a service that provides users with an online system for backing up and storing computer files. Remote backup service providers are companies that provide a software program and space on a server that their client's data is stored on. The software program will run on a client’s computer and (typically) once a day; compress, encrypt and then send the client's data to the remote backup service providers' servers to be stored
+With SecurStore, Nordural had the assurance that all their requirements would be met - from a fast critical restore, to remote backup at multiple locations, to a simple and effective interface for the
+IT people at Nordural.
+"We chose the SecurStore Remote Backup Service because it gives us all round backup and recovery services for our needs, with 24x7x365 support" said Emil Hilmarsson, IT Manager Nordural. SecurStore also provided Nordural with the option of assigning which data is 'critical; and which is 'important' data by using Long Term Storage with the use of Backup Lifecycle Management system that manages data during all backing up and archiving processes.
+Backup Lifecycle Management differentiates data into varying levels of protected data: current critical data, which is stored on-line for fast recovery; and archivable data that may be needed at a later time but is not likely to be accessed in the near future.
+Alexander Eiríksson, President of SecurStore, confirmed, "The agentless architecture of SecurStore Remote Backup Service allows us to implement the service with minimal interference to Nordural's existing computer systems. Moreover, because the service is pivoted around providing backup and recovery for geographically dispersed locations, it perfectly compliments Nordural's multi-site locations, remote or otherwise. This provisioning enables Nordural to remotely back up laptops even when workers are away."
+At each customer site, a single client discovers all servers, desktops and laptops connected to the local network, and automates the backup of all local data assets.
+
+

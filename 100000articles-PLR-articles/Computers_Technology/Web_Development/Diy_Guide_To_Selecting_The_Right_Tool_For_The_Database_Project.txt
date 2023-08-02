@@ -1,0 +1,37 @@
+Title: 
+Diy Guide To Selecting The Right Tool For The Database Project
+
+Word Count:
+429
+
+Summary:
+As any person, who remodeled their home, will tell you that “choosing the right tool for the right job” makes all the difference. The same statement applies when choosing the right database for a project. Some databases are basic, some are “battery operated” and some are “mighty power tools.” Below is a guide on selecting the perfect database for the right project.
+
+When you only need to store a limited amount of data and require a quick and easy development cycle, Microsof...
+
+
+Keywords:
+Database selection, SQL Server, Microsoft Access, Microsoft SQL Server, Oracle, MySQL, DB Comparison
+
+
+Article Body:
+As any person, who remodeled their home, will tell you that “choosing the right tool for the right job” makes all the difference. The same statement applies when choosing the right database for a project. Some databases are basic, some are “battery operated” and some are “mighty power tools.” Below is a guide on selecting the perfect database for the right project.
+
+When you only need to store a limited amount of data and require a quick and easy development cycle, Microsoft Access is the right tool for you. It provides a powerful set of database and graphical user interface tools that allows the user to quickly organize, access and share information. Since Access is part of the Microsoft family of office products, it easily integrates with Excel, Word and SQL Server. In addition, it supports Open Database Connectivity (ODBC). However, if the database is going to hit 1GB threshold, you may encounter various performance issues, including slow response and record corruption. Microsoft Access is an equivalent of a Swiss army knife. Each part individually is not as impressive; however, when combined together, it produces an appealing solution.
+
+My SQL is a viable alternative to Microsoft Access. Major advantages of My SQL are the low cost (licensing starts below $500) and platform independence (it can be installed on Windows, Linux, Macintosh and UNIX operating systems). My SQL does not, however, come with the development interface tools that Microsoft Access provides and would require the use of a programming language, such as Visual Basic, C, etc., to create user interface and reporting. This is your battery-operated power tool!
+
+Microsoft SQL Server is a powerful alternative to My SQL and Oracle. It is moderately priced and yet quite powerful and scalable. It provides a user administration module capable of handling user, group and column-level security. Record-retrieval speed of the SQL Server outperforms both Microsoft Access and My SQL. In addition, Microsoft SQL Server is highly scalable. This is your power tool!
+
+Oracle is the oldest of the relational database management systems (RDBMS) discussed in this overview and the most powerful. However, it is also the most expensive and most difficult to implement. Oracle is highly scalable and allows storage of a tremendous amount of records without jeopardizing performance. Like Microsoft SQL Server, it has a powerful user administration module. This is the mighty power tool!
+
+When selecting the right tool for your next database project, keep in mind the following:
+
+* The size of the data to be stored over time;
+* Budgetary constraints;
+* Security essentials;
+* Future growth requirements;
+* Platform needs; and
+* Development tools.
+
+

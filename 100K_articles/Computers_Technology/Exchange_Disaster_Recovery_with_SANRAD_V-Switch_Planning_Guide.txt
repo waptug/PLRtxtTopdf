@@ -1,0 +1,78 @@
+Title: 
+Exchange Disaster Recovery with SANRAD V-Switch Planning Guide
+
+Word Count:
+818
+
+Summary:
+Designing a disaster recovery system requires planning and consideration of the available options that will best fit your company’s needs, SLA and budget.
+This guide will help you design an exchange disaster recovery plan in conjunction with SANRAD Replication. The guide assumes that you have basic knowledge of SANRAD V-Switch and Exchange Administration.
+
+
+Keywords:
+Exchange Disaster Recovery
+
+
+Article Body:
+Introduction
+Designing a disaster recovery system requires planning and consideration of the available options that will best fit your company’s needs, SLA and budget.
+This guide will help you design an exchange disaster recovery plan in conjunction with SANRAD Replication. The guide assumes that you have basic knowledge of SANRAD V-Switch and Exchange Administration.
+
+Exchange Disaster Recovery Planning
+This section discusses both general and Exchange specific considerations that need to be addressed when designing a disaster recovery solution combining SANRAD replication and Microsoft Exchange Server.
+
+General Considerations:
+SANRAD replication solution allows for flexibility with exchange disaster recovery design.
+The most influential factors affecting design consideration are:
+• Budget limitations
+• Recovery Time Objective (RTO) requirements (the time until the data is back online)
+• Recovery Point Objective (RPO) requirements (the amount of data that can be lost)
+• Network bandwidth between the local site and remote site
+• Replication method: Synchronous versus Asynchronous
+• Replication frequency (only for Asynchronous replication)
+• Initial volume synchronization
+
+RTO (Recovery Time Objective)
+• With high level RTO, duplicate hardware is required to allow quick recovery making the solution more costly.
+
+RPO (Recovery Point Objective)
+RPO requirements are best defined by the amount of data that the company is willing to lose.
+• High level RPO requires more bandwidth for both Synchronous and Asynchronous replication.
+• Low level RPO requires less frequent replication and increases the risk of losing more data.
+
+Network Bandwidth between the Local and Remote sites
+Bandwidth between the sites is generally the most crucial factor affecting the replication component of a Disaster Recovery solution.
+• T1 (1.5Mb) links impose less frequent data replication and the use of asynchronous replication methods.
+• T3 (45Mb) links or a 1Gb links allow frequent replication and the flexibility to choose between synchronous replication or asynchronous replication methods.
+
+Replication method
+When considering which replication method to choose it is important to remember:
+• In Synchronous Replication the I/O commands are written to the local disk and to the remote volume at the same time. Every IO command requires an
+acknowledgment from both the local and remote sites before the next command.
+Consequently, synchronous replication is best deployed with a high bandwidth
+connection in order to allow the remote acknowledgment to arrive back to the local site as fast as possible and the replication can run faster.
+• In Asynchronous Replication the I/O commands are written to the local volume and local journal volume which in turn is replicated periodically to the remote volume as periodically defined by the user. Consequently asynchronous replication can work well with lower bandwidth (minimum recommended for Exchange replication is 1.5Mb) since both acknowledgements are local (from the primary volume and the journal
+volume) and thus the replication is fast by default.
+• For Asynchronous replication, you must decide the data replication frequency. There are three factors that must be considered:
+1. The size of the network bandwidth between the sites.
+2. The amount of data changes that need to replicate each time.
+For example, large amounts of data changes take longer to replicate using T1
+links.
+3. The RPO requirements.
+
+Initial Volume Synchronization
+SANRAD replication solution can be used to protect existing production Exchange data. SANRAD Disaster Recovery solution supports both online and offline synchronization. When using SANRAD replication with existing Exchange data, an Initial synchronization of the Exchange volumes on the local site to the remote site must be performed.
+The initial volume sync method depends on:
+• The size of the volumes needed to be synchronized.
+• The network bandwidth between the sites. For example, the bigger the volume size, the longer it will take to synchronize over a T1 link.
+Online synchronization</b> starts immediately when replication is started and uses the same network link that will be used during the replication.
+Offline synchronization</b> is a manual process where SANRAD replication prepares the volumes on the primary site and the user must copy the data to the remote site. It is the user’s responsibility to make sure the volumes on the remote site are synchronized.
+
+Exchange Considerations
+Any exchange disaster recovery planning should (at the very least) consider the following requirements:
+• Quick access to the most recent copy of the Exchange database and the transaction logs. In a disaster situation SANRAD replication provides fast access to the replicated data on the remote site.
+• The Exchange database and its related transaction logs must be replicated together to the remote site. SANRAD replication uses consistency groups to ensure simultaneous replication of all volumes assigned to a consistency group.
+• Exchange is integrated into Active Directory. An Active Directory domain controller (running Global Catalog) which is part of the same Active Directory domain that exists in the primary site, must exist in the remote site as well (or at least the capability to rebuild one and reconnect it to the existing Active Directory Domain).
+• The most up to date replicated copy of the Windows backup set (which includes system state) to expedite Exchange Server recovery.
+
+

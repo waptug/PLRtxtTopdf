@@ -1,0 +1,42 @@
+Title: 
+Data Recovery: Getting Rid Of Data Recovery Myths
+
+Word Count:
+537
+
+Summary:
+There is a lot of mythology surrounding the idea of data recovery. People have to go through it when they delete some important files by accident off their hard drives. You’ll probably also see forum posts from people wondering what to do about their lost data after a computer crash. There are plenty of so-called experts on data recovery that would answer them, somewhat annoyingly, with: “Did you make a back-up?” Nope. And now your only history paper has gone down the tubes....
+
+
+Keywords:
+data recovery
+
+
+Article Body:
+There is a lot of mythology surrounding the idea of data recovery. People have to go through it when they delete some important files by accident off their hard drives. You’ll probably also see forum posts from people wondering what to do about their lost data after a computer crash. There are plenty of so-called experts on data recovery that would answer them, somewhat annoyingly, with: “Did you make a back-up?” Nope. And now your only history paper has gone down the tubes.
+
+The theory holds that: If it’s gone, it’s gone forever.
+
+The fact is, however, that in most cases concerning data recovery, that statement isn’t exactly true. Unless the data has been physically overwritten, it has not completely disappeared. It doesn’t matter whether it was deleted accidentally, went corrupt because of a virus, or a disk got formatted accidentally—data in a system is very clingy.
+
+So what’s really going on? Well, it’s not so much that the data is “lost.” In reality, it just cannot be accessed by normal means. Let’s say, for example, that your project, “American History,” was in a file that was accidentally deleted. Don’t think that you’ll have to re-do those many hours of research to get a passing grade on your final. Your file, in fact, is still contained in the drive, only now it has a signature byte added to start of its filename.
+
+Now for the tricky part. Your file will stay on the drive, but as soon as you save something new, this new data occupies the space of the signatured file. That means that, if you do happen to lose files, don’t save anything new so you’ll keep the file you’ve deleted intact and ready to be recovered.
+
+So there’s one important thing to keep in mind with data recovery: don’t ever put in new data following the accidental deletion of a file.
+
+Did you learn from this lesson? Let’s now move along to another myth we should get rid of.
+
+It won’t hurt to install data recovery software, will it?
+
+It’s a simple answer to this one: NO. Even though data recovery software is all the rage nowadays and running it yourself on the drive can seem like a good idea, you should NOT do this. You can use the data recovery software you downloaded, but make sure it’s run on a separate drive that’s working properly.
+
+Don’t forget Lesson #1: Don’t ever put in new data on your drive. Even a mere one-megabyte from some data recovery software might harm your chances at a successful data recovery.
+
+There are “experts” that can recover and reload data.
+
+This is actually true. There are experts out there, but even they are humbled by a drive that’s been significantly physically damaged and in which there is absolutely no hope of recovering data. Also, they can’t restore data completely back to 100%. Remember, they’re experts, not sorcerers.
+
+And if you’re looking for the best way to make sure you don’t lose files, then here’s the most proven method: back everything up.
+
+

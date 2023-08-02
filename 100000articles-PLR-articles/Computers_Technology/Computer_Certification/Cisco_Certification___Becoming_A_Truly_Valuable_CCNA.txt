@@ -1,0 +1,44 @@
+Title: 
+Cisco Certification:  Becoming A Truly Valuable CCNA
+
+Word Count:
+640
+
+Summary:
+How can a CCNA make himself or herself stand out from the crowd?  Chris Bryant, CCIE #12933, shows you!
+
+
+Keywords:
+ccna, ccnp, free, pass, exam, cisco, certification, computer, mcse, ccie, chris, bryant
+
+
+Article Body:
+I've been active in the Cisco Certification track for four years, working my way from the CCNA to the coveted Cisco Certified Internetwork Expert title, and during that time I've conducted job interviews and casual conversations with hundreds of CCNAs and CCNA candidates.
+
+The CCNA is an exciting beginning to your Cisco career, but just having the certification simply isn't enough.  A recruiter or interviewer isn't going to be impressed just with the cert you've got to have some real-world knowledge to back it up.
+
+I've been down that road myself, and sat on both sides of the CCNA job interview table.  With that in mind, I'd like to offer to you some tips on becoming a truly valuable and employable CCNA.
+
+Get some hands-on experience.  I know the trap well. You can't get experience until you get a CCNA, and you can't get a CCNA without real experience.  Well, actually, you can, but do you want to?  Working on simulators is fine to a certain extent, but don't make the classic mistake of depending on them.  I've seen plenty of CCNAs who were put in front of a set of routers and really didn't know what to do or how to put together a simple configuration, and had NO idea how to begin troubleshooting.
+
+There are CCNA classes that offer you the chance to work with industry experts on real Cisco equipment.  Beyond that, you can put together your own CCNA rack for less than $1000 by buying used routers.  Some people think that's a lot of money, but this is the foundation of your career.  Treat it that way.  The work you do now is the most important work you'll ever do.  Do it on real Cisco equipment.  The skills I learned as a CCNA helped me all the way up to the CCIE.
+
+Besides, after you get your CCNA (and after that, hopefully you'll choose to pursue the CCNP), you can always get some of your money back by selling the equipment. The hands-on experience you gain this way is invaluable.
+
+Know binary math.  Do NOT go the easy route of memorizing a subnet mask chart for the CCNA exam.  I know some people brag about being able to pass the CCNA exam without really understanding binary math.  I've seen those people on the other side of the interview table, and they're not laughing when I ask them to do a subnetting question.  They're not laughing when they can't explain or create a VLSM scheme. That chart does nothing to help you understand what's going on.
+
+If you can add and know the difference between a one and a zero, you can do binary math.  Don't let the name intimidate you.  Become a REAL CCNA -- learn binary math !
+
+Run "show" and "debug" commands.  No commands help you truly understand how things work in a Cisco network than show and debug commands.  As you progress through the Cisco certification ranks, you'll be glad you started using these at the CCNA level.
+
+Do you need to know these commands for the exam?  Probably not.  Do you need them to be successul in the real world?  Absolutely.
+
+The Cisco certification track has been great to me, and it can boost your career as well, whether you stop at the CCNA, CCNP, or go all the way to the CCIE.  It's the skills you develop today that will truly make you a networking engineer.  Don't take shortcuts or get the attitude of "just passing the exam".  
+
+It's what you achieve after the exam that counts, and it's the work you put in before passing the exam that makes those achievements possible.
+
+Good luck !
+
+Chris Bryant, CCIE #12933
+
+

@@ -1,0 +1,31 @@
+Title: 
+Securing Your Network And Your Career With Cisco's CCSP Certification
+
+Word Count:
+320
+
+Summary:
+As an IT professional, you're concerned about securing both your network and your career.  Chris Bryant, CCIE #12933, shows you how to do both at the same time with Cisco's CCSP certification.
+
+
+Keywords:
+ccna, cisco, ccnp, ccie, certification, exam, pass, ccsp, pix, firewall, career, chris, bryant
+
+
+Article Body:
+You don't need me to tell you that security is the #1 concern in today's networks. With that in mind, your career path must include some security certifications, or you will be left behind.
+
+Cisco's Cisco Certified Security Professional (CCSP) certification demands a candidate be well-rounded and well-versed in Cisco security measures. Besides the difficultly we've all come to expect from a Cisco exam, this five-exam path covers every major aspect of network security (from Cisco's viewpoint, anyway!)
+
+You must hold a valid CCNA certification to earn your CCSP.
+Typically, the first exam CCSP candidates take is Securing Networks With Cisco Routers An Switches (SNRS), followed by Securing Cisco Network Devices (SND). After you've nailed these two exams, which obviously focus on devices more familiar to CCNAs and CCNPs, you'll be faced with three exams that are more specific to Cisco security devices.
+
+Your PIX knowledge will be tested with the Securing Networks With PIX and ASA (SNPA) exam, followed by the Implementing Cisco Intrusion Prevention System (IPS) exam. 
+
+In October 2005, the final exam is scheduled to change from a VPN exam (CSVPN, Cisco Secure Virtual Private Networks) to Securing Hosts Using Cisco Security Agent (HIPS). If you're just getting started on the CCSP track, you'll be taking the HIPS exam. (Insert your own joke here.)
+
+The CCSP is valid for three years; to recertify, you'll need to pass the 642-541 CSI exam or any CCIE written exam. As always, this is subject to change, and you should bookmark Cisco's Learning page (found off the main Cisco webpage) to make sure you're aware of the latest changes to Cisco certification and recertification requirements.
+
+Not only must you know how to secure your network, you also need to secure your current job and the possibilities for your future. By pursuing and obtaining the CCSP, you will do all three at once.
+
+

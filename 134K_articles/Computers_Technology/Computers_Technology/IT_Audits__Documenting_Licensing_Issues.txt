@@ -1,0 +1,46 @@
+Title: 
+IT Audits: Documenting Licensing Issues
+
+Word Count:
+487
+
+Summary:
+IT audits sometimes uncover licensing issues. Determining whether business have these issues and coming up with plans to address them, are important after holding IT audits.
+
+
+Keywords:
+IT audits, IT-audits, IT audit, IT-audit
+
+
+Article Body:
+One of the biggest issues you will run across during IT Audits is software licensing. If you find any such issues during IT audits, note them in your report. You might want to say something like: “These are deficiencies that I have found.  Do you have the documents around to prove you own it?”
+
+It’s that simple, and any small business that is dealing on the up and up recognizes that. The burden of proof is on them. They need to go dig out the license agreements, the invoices, the end-user license agreements and original CDs to prove ownership.
+
+Licenses Aren't Negotiable
+
+If they can’t, then you need to address it with them after IT audits. Tell them that the deficiency is going to cause a lot of headaches sooner or later and you need to figure out a remediation plan now. Most businesses will ask you what they should do about it.
+
+With most small businesses, you may need to give them a couple months after the IT audits to let it work through the cycle--but no more.  In an ideal world, you’d love to fix it immediately to get rid of the liability and the problem right away. Licensing compliance is definitely something that should be in your service contract.
+
+Protect Yourself
+
+There should be a paragraph that talks about how the client’s responsible for having properly licensed software, that if you identify that there’s any deficiencies in IT audits, it’s your responsibility to develop a remediation plan and present them with the options and they’re obligated to either remove the software or purchase it. It’s that simple.  
+
+You shouldn’t be working for anyone that has a problem with buying software legally because it exposes you to direct legal consequences as well as reputational consequences. 
+
+IT Audits: What are some remediation plans?
+
+Sometimes businesses so underutilize software, some programs on a PC can be safely removed because they’re not being used anymore. Or someone two years ago thought they might want to use it, so they picked up a pirated copy. If you find out in the course of talking with users that they’re not actually using the program, the safest thing is to go to Add/Remove Programs and take it off for them.
+
+If the PCs are nearing the end of their lifecycle, a cost effective way of remediating the software problem is upgrading the PC and helping them to install the OEM version. 
+
+Another option is for them to keep their existing equipment and buy the two-year site license with the maintenance, providing unlimited upgrades.  
+
+The Bottom Line on IT Audits
+
+Figuring out what your clients' licensing needs are during IT audits. Just be sure you address the problem.
+
+Copyright MMI-MMVI, Computer Consulting 101 Blog. All Worldwide Rights Reserved. {Attention Publishers: Live hyperlink in author resource box required for copyright compliance}
+
+

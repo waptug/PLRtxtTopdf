@@ -1,0 +1,52 @@
+Title: 
+Gps Receivers Explained
+
+Word Count:
+713
+
+Summary:
+By now, you've likely heard about this hot new technology called GPS. Handheld GPS receivers are popular items that are being used by everyone from outdoors enthusiasts to average drivers. But, how many of us really understand the technology behind these modern-day marvels?
+
+There is a whole lot of power and capability packed into a GPS receiver. They are linked to complex satellite systems in outer space, providing a reliable navigational system to users on earth. Many new...
+
+
+Keywords:
+
+
+
+Article Body:
+By now, you've likely heard about this hot new technology called GPS. Handheld GPS receivers are popular items that are being used by everyone from outdoors enthusiasts to average drivers. But, how many of us really understand the technology behind these modern-day marvels?
+
+There is a whole lot of power and capability packed into a GPS receiver. They are linked to complex satellite systems in outer space, providing a reliable navigational system to users on earth. Many new cars have GPS receivers included as standard equipment. Hikers use them to find their destinations, and treasure hunters rely on them for Geocaching excursions.
+
+Simply, a GPS is an electronic device that can determine one's precise location on earth.  The entire system is anything but simple; and the GPS receiver is but a single and minute part of this immense network. GPS is the short form of Global Positioning System. This very large navigation system was developed and implemented by the United States' Department of Defense (DOD). The system is composed of a network of 27 satellites, various ground stations located at points throughout the world and individual GPS receivers. Most of the 27 satellites in the GPS are active, and continuously send radio signals. GPS receivers use these signals to determine their geographical location.
+
+Function
+The primary function of a GPS receiver is to pinpoint its actual location on earth using the signals it intercepts from GPS satellites. To do this, the GPS receiver must be able to locate and intercept signals from three or more GPS satellites. After intercepting the signals, GPS receivers use basic principles of mathematics called triangulation or trilateration to compute its actual position. Before any triangulation calculation can be implemented, however, the GPS receiver must verify two points:
+
+1- The positions of at least 3 satellites
+2- The distance between each satellite and the receiver.
+
+GPS receivers decode the signals in order to determine the locations of at least three GPS satellites. The signals transmitted by GPS satellites are radio signals, and each contains three different bits of information: ephemeris data, almanac data and a pseudorandom code. The ephemeris data is the information that the GPS receiver needs to be able to determine the actual position of the satellite transmitting the signal.
+
+The distance of a GPS receiver to a satellite is measured using the signal's speed, or the time delay from the initial transmission of the signal, to its reception by the GPS. From this speed or time difference, the GPS receiver calculates the satellite's distance.
+
+With information about the location of at least three or four satellites, along with their individual distances, a GPS receiver utilizes the basic principle of triangulation to calculate its actual position in terms of altitude, latitude and longitude.
+
+Accuracy
+GPS receivers are incredibly accurate, usually to within twenty meters of radius. It is possible, however, to increase this accuracy level using supplemental technologies. Some GPS receivers using multiple parallel channels can achieve an accuracy level to within fifteen meters. More complex systems such as DGPS (Differential GPS) and WAAS (Wide Area Augmentation System) can reduce this range to an impressive three meters.
+
+Despite the use of these supplemental technologies, there are still many factors that can cause even the best GPS receivers to broadcast inaccurate locations. Among these factors are:
+
+* Number of visible satellites
+* Radio signal delays caused by the passage through the ionosphere and troposphere
+* Signal multipath (bouncing of the signal as it hits an object)
+* Inaccuracy of GPS receiver clocks
+* Ephemeris errors (inaccuracy of the satellites' reported locations)
+* Poor positioning of satellites (i.e.: satellites in a linear position, or in a tight grouping)
+
+Some, but not all, of the GPS errors caused by these factors can be remedied by the software that is packaged with personal GPS receivers. If you are having difficulty with the accuracy of your GPS receiver, check your user guide or refer to the software to see if the problem can be fixed.
+
+Technology has given us wonderful gifts and powers beyond imagination. A GPS receiver is one technological wonder that is so accessible, many people use them on a daily basis. If you travel locally or across country, or enjoy exploring the great outdoors, pick up a GPS receiver and you'll always be able to find your way home.
+
+

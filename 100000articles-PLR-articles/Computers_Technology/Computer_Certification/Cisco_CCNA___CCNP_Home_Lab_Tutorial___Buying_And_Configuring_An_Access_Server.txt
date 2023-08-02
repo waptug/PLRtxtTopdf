@@ -1,0 +1,76 @@
+Title: 
+Cisco CCNA / CCNP Home Lab Tutorial:  Buying And Configuring An Access Server
+
+Word Count:
+747
+
+Summary:
+An access server is an invaluable part of a Cisco home lab.  Chris Bryant, CCIE #12933, explains their importance, gives tips on purchasing one, and gives a sample configuration.
+
+
+Keywords:
+ccna, ccnp, cisco, access server, home lab, exam, pass, free, nat, certification, ccie, bryant, advantage, chris, study guide
+
+
+Article Body:
+A Cisco access server is generally the last item a CCNA or CCNP candidate has on their mind when they're putting together a home lab. The thinking tends to be that since this router isn't really doing anything in the production part of your practice lab, it's not really important.
+
+Once you have more than two devices in your home lab, though, you'll realize that constantly moving the console cable around from one router to another gets very tiresome. That's what an access server does for a home lab - it allows you to connect your PC to a single device when working in your home lab, with no need to constantly disconnect and reconnect the console cable. The console cable will be connected directly to the access server, and the access server is connected to all the other devices in your home lab. Once you start working with one, you'll wonder how you got along without it!
+
+The term "access server" is a little misleading. This is not a server in the traditional sense, it's a Cisco router with asynchronous serial ports. It is these ports that you'll use to connect to the other devices in your home lab. Two affordable models of access servers are Cisco 2509s and Cisco 2511s. They can be found on ebay as well as other vendors on the Net.
+
+You will also need an octal cable. On one end, the cable has a large connector that will connect to the access server. The other end is actually eight separate cables, each with RJ-45 connectors. These connectors are numbered 1 - 8 and will be connected to the console port on each router and switch. It is important to note the number on each connector you're connecting to the other lab devices.
+
+Now that you've got the physical equipment, let's take a look at a typical configuration of an access server:
+
+no service password-encryption
+
+no service udp-small-servers
+
+no service tcp-small-servers
+
+! hostname BRYANT_ADVANTAGE_AS4
+
+no ip domain-lookup
+
+ip host r1 2001 10.4.4.4
+
+ip host r2 2002 10.4.4.4
+
+ip host r3 2003 10.4.4.4
+
+ip host sw1 2004 10.4.4.4
+
+ip host sw2 2005 10.4.4.4
+
+ip host FrameSwitch 2006 10.4.4.4
+
+interface Loopback555
+
+ip address 10.4.4.4 255.255.255.0
+
+line con 0
+
+exec-timeout 0 0
+
+logging synchronous\
+
+line 1 16
+
+no exec
+
+transport input all
+
+You can assign any loopback address and number here the important thing to note is that the IP HOST table you will build constantly refers back to the loopback address on the access server.
+
+In this configuration, I have the octal cable's connector 1 in R1, 2 in R2, 3 in R3, 4 in SW1, 5 in SW2, and 6 in my frame relay switch. The number "2001" in the first line of the IP HOST table refers to that connector. That's why it is important to note the number on a given connector you place in the console port of a router or switch.
+
+The asynchonous lines are identified by "line 1 16". This access server has 16 possible connections many will just have 8, which is usually plenty. Regardless of how many lines you have, you'll need the commands transport input all and no exec to allow reverse telnet to work effectively.
+
+There's one more thing to watch out for. When you first connect to the AS for a practice session, you will need to open the line to each device by using the full hostname of the device as shown in the IP HOST table. Here, you would begin by entering R1, R2, R3, SW1, SW2, and FrameSwitch to open the line to each device. After that, you need to enter the line number - 1, 2, 3, 4, 5, and 6. It sounds a little confusing at first, but after just a few minutes of practice you'll be doing it without even thinking about it.
+
+When you are working in your home lab, you will not go from one device to another that is, when you are done on R1 and want to configure R2, you must go back to the access server and then to R2. The keystroke to do this is . Again, it may sound complicated, but after a little practice you will again do this without thinking about it.
+
+Adding an access server to your CCNA or CCNP home lab may not be on your mind now, but once you add a few more routers or switches to the lab, you'll want to spend more time configuring and practicing and less time moving a cable around. And once you get one, you'll wonder how you did without it!
+
+

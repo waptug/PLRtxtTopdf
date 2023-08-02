@@ -1,0 +1,55 @@
+Title: 
+Early Vintage Computer Buses Have Their Influences On Your Computer Today
+
+Word Count:
+710
+
+Summary:
+The term “expansion bus “is a frequent term in vintage computer terminology which requires elaboration. Much of the legacy of vintage bus systems are in our current computer systems today.
+
+To begin with the “expansion bus" is a data highway for computer data information to travel on: the bandwidth is in essence the number of lanes. The bigger the bandwidth the more data can be sent. As examples, an 8 megabyte bandwidth means that data can be sent in 8 bits chunks. Our curr...
+
+
+Keywords:
+Computer , Computers, Vintage , IBM , PC . DOS , linux , badger , Apple , Microsoft , Sinclair
+
+
+Article Body:
+The term “expansion bus “is a frequent term in vintage computer terminology which requires elaboration. Much of the legacy of vintage bus systems are in our current computer systems today.
+
+To begin with the “expansion bus" is a data highway for computer data information to travel on: the bandwidth is in essence the number of lanes. The bigger the bandwidth the more data can be sent. As examples, an 8 megabyte bandwidth means that data can be sent in 8 bits chunks. Our current systems use between 32 bit and now 64 bit bandwidth.
+
+An expansion bus is where cards connect to the computer; Cards have an expansion edge, which fits snugly into the bus much like an electrical plug fits into a wall socket.
+
+When cards are plugged into the bus, they communicate with the system, sometimes through the BIOS and others not. (The BIOS is the basic input /output system that tells the computer how to move data from the different components.) The 8, 16 or 32 bit bandwidth is an important consideration due to communication time between the cards. For example you have a 16 bit vintage 286 PC and it is sending out data at 16 bits a: your video card is also 8 bits. If you have an older 8 bit bus, such as in early IBM PCs and clones, the bus will become a bottleneck in the system; it is like having a 4 lane highway connected to another 4 lane highway by way of a 1 lane road. At most times regardless of the faster 4 lane highway traffic will be slow – limited by the single lane connection road.
+
+There were basically 3 types of expansion bus available in vintage computers: ISA, MCA, EISA systems.
+
+Each early development in major ways paved the way for the later systems which indeed we take for granted today. This was both in terms of hardware and basic concepts in our computer systems and technology as well as computer marketing that we take for granted today as simple basic facts of life without any consideration due.
+
+Basically the newer buses offered increased performance over the older technology buses.
+
+The basic explanations of the buses are as follows:
+
+The 3 bus standards to note were Industry Standard Architecture (ISA) .Micro Channel Channel Architecture (MSA) and Extended Industry Standard (EISA) bus systems.
+
+Industry Standard Architecture (ISA). This was the original AT bus also called an ISA bus. It was the original 8 bit IBM PC bus which was bumped up to 16 bits at some point in its later development. Fine for a 16 bit 286 or very early 386 computers
+
+Micro Channel Architecture (MSA). This was an early 32 bit bus system which was not received well but set the stage for an industry consortium of the major non IBM computer manufacturers ( at the time referred to as “The Group of Nine) to develop the EISA standard bus.
+
+Extended Industry Standard Architecture (EISA). The EISA bus standard was a standard of its own right which was 32 bit, included bus mastering and importantly remained compatible with previous older expansion cards. 32 bit systems were first to incorporate in later 386 systems. The 486 line solidified and standardized the 32 bit systems in the established software of the day.
+
+Backward compatibility at the time was a novel new concept which has remained an important consideration in the computer industry.
+
+EISA slots would accommodate both the ISA and EISA expansion slots to allow hardware upgrades, However the EISA expansion boards would be of little advantage and would seldom work in the older ISA expansion slots.
+
+
+On the other hand the Micro Channel setup was not backward compatible. On the one hand the Micro Channel developers were free to initiate new radical changes in computer development and hardware which would have allowed for major new useful features in computer software. However owners of previous systems would have been left with then obsolete vintage useless hardware which would have been of no use and certainly little financial value.
+
+Hence there was a lot of resistance to the Micro Channel bus setup.
+
+It died a lingering death with its legacy living on in the aspirations of features offered in future developments and standards.
+
+Thus the die was set for future hardware standards and software function as well as standard computer marketing concepts that we take for granted like mother’s milk today.
+
+

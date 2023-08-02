@@ -1,0 +1,26 @@
+Title: 
+The History Of Midi Electronic Home Studio Recording
+
+Word Count:
+392
+
+Summary:
+For electronic musicians, 1982 was the Year Zero – that was the year that MIDI first came on the market. It was designed as freeware – it was not patented, and was intended as a universal standard usable by any brand, so that MIDI could be used in a studio incorporating components or devices from many different manufacturers. The first of these was called MIDI 1.0, of course. Soon after that, musical instruments with MIDI jacks started appearing.
+
+One of the early problems ...
+
+
+Keywords:
+MIDI
+
+
+Article Body:
+For electronic musicians, 1982 was the Year Zero – that was the year that MIDI first came on the market. It was designed as freeware – it was not patented, and was intended as a universal standard usable by any brand, so that MIDI could be used in a studio incorporating components or devices from many different manufacturers. The first of these was called MIDI 1.0, of course. Soon after that, musical instruments with MIDI jacks started appearing.
+
+One of the early problems was that the MIDI messages that instructed the different instruments which sounds to play identified these sounds only by number (“play patch #16”), and “patch #16” might refer to different sounds on instruments made by different manufacturers. Since a MIDI studio is composed of different electronic instruments strung together in a line over cables, if the instruments and devices were made by different manufacturers, a musician might have gotten a drum sound when he intended a flute sound. What the electro-universe needed was a “patch-mapping” standard – a standardized correlation between patch numbers and the sounds that these numbers represented.
+
+Keep in mind also the problem that the musician would have when recording a song. Unlike WAVE files, a MIDI file does not record the actual music itself – it records only the electronic MIDI commands that are delivered to each instrument, like “Play Parch #16, “Adjust Volume to [X] Level”, and so on.. So even if he used all of the same brand equipment to produce his masterpiece, if he tried to play it back on another brand of equipment the sound would be different, because the command “play patch #17” would play a different sound on one brand of equipment than another. So if he took his composition and played it on somebody else’s MIDI sound module, his beautiful piano solo might become a harpsichord solo. Bummer, dude. In order to correct the problem he would have to go back into his recorded MIDI file and change the commands to harmonize them with the other sound module’s “patch mapping” (unless he miraculously discovered that the harpsichord solo sounded better anyway!).
+
+In response to this problem, the General MIDI (GM) patch bank was created, standardizing the correlation between Program Change numbers and sounds for 128 MIDI patches (instruments). Because of this, there are only minor variations in the sounds created on different sound banks for these 128 patches.
+
+

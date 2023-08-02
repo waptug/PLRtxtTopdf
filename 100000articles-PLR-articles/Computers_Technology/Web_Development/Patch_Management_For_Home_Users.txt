@@ -1,0 +1,44 @@
+Title: 
+Patch Management For Home Users
+
+Word Count:
+588
+
+Summary:
+For server administrators, patch management can be a way of life. But for home users, patch management is a distant thought in most home computer users. Knowing when to patch products and how often patches need to be applied are some of the questions that most home users never think about. Knowing what to patch and when can make a difference in the security of your home computer or network.
+
+Automating Patch Management
+
+More and more programs are now offering auto update ...
+
+
+Keywords:
+
+
+
+Article Body:
+For server administrators, patch management can be a way of life. But for home users, patch management is a distant thought in most home computer users. Knowing when to patch products and how often patches need to be applied are some of the questions that most home users never think about. Knowing what to patch and when can make a difference in the security of your home computer or network.
+
+Automating Patch Management
+
+More and more programs are now offering auto update of their software. Applying patches every time the program needs to be updated. Although these updates don’t always mean it is for the sake of security, a security patch may be issued along with the update. Microsoft Windows now offers windows updates automatically. So updating windows is easier than ever when users choose this option.
+
+Problems with Patches
+
+One problem with patching software is breaking other programs. This is usually only the case with updates from larger programs that other programs hang on. Such as operating systems, anti virus software, etc... Smaller programs that other programs don’t rely on are usually immune from this. During automated patch management, this may happen and you don’t realize it has happened. The problem can be combated with manual patches, but knowing when and what to patch may be a hassle for home users.
+
+What to patch
+
+Any program that acts as server, accesses the internet are all avenues for attack. These programs need to be patched if one is available. Smaller programs that don’t access the internet or don’t have any real threat outside the current working environment may not need to be patched, as most of these programs will not have patches available. Programs like email, internet explorer, firefox, etc. need to be patched if one is available. These programs that access the internet need patches as new vulnerabilities arise for these programs regularly.
+
+Smaller programs like solitaire or notepad that don’t have internet access will not need to be updated. Although they may be updated when another patch is available for larger programs such as an Operating System patch. Usually when this happens, the patch to fix a problem with the larger program breaks the smaller program. And a patch must be applied to it to fix potential problems.
+
+When to Patch?
+
+It's a good idea to check for patches to your software products at least once per month. If you use your computer on a daily basis, or the computer stays online constantly, such as with high speed connections, you may need to opt for a stricter schedule on patches. Such as weekly or bi weekly. Of course, using automated patch management software can eliminate this need for such time consuming tasks.
+
+As mentioned, automating patch management can save much time and energy. Check with your software vendor for information on when patches are usually available. And also check if the program offers automatic updates to its software. This mundane task can be handled with little user intervention and may be possible to run at times when the computer is idle or late at night when it is not in use and doesn’t restrict your browsing bandwidth.
+
+So keep your programs running smoothly and updated often. Remember the saying, an once of prevention is worth a pound of cure. This applies to computer security and patch management also. Don’t let your program cause problems just because you forgot to install the latest patch. You'll be glad you did.
+
+

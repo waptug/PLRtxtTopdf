@@ -1,0 +1,28 @@
+Title: 
+Fiber Optically Smooth - The OTDR
+
+Word Count:
+495
+
+Summary:
+The use of modern fiber optic test equipment can be used to help phone companies keep their networks operating without interference. When a long distance telephone line goes down, it's not the type of publicity phone companies revel in. Fiber optical technology continues to grow to ensure the dependability of phone companies to all their customers. In addition to the underlying stability and dependability of these networks, fiber optical measurement tools play a large role in...
+
+
+Keywords:
+fiber cables,fiber optic tester,fiber optic light source,fiber cable,lc fiber,fiber patch cables
+
+
+Article Body:
+The use of modern fiber optic test equipment can be used to help phone companies keep their networks operating without interference. When a long distance telephone line goes down, it's not the type of publicity phone companies revel in. Fiber optical technology continues to grow to ensure the dependability of phone companies to all their customers. In addition to the underlying stability and dependability of these networks, fiber optical measurement tools play a large role in keeping these networks operating smoothly. 
+
+During installation, commissioning and maintenance, fiber optic cables, connectors and splices are routinely tested for flaws. These tests are done by using specialized test equipment such as fiber optic power meters, optical time domain reflectometers (OTDR), optical sources and optical attenuator's. These same instruments can be used to determine the basic system operating parameters such as signal levels, signal attenuation and bit error rate (BER) measurements. 
+
+During installation and maintenance, it is important to view the continuity of the fiber optic link. This procedure can only be done by using the OTDR. An OTDR consists of a pulsed optical transmitter, an optical coupler and a photo diode-based receiver, signal-processing circuitry and display screen. By using the connectors and the adapters, the OTDR is connected to one end of an fiber optic cable. Its transmitter sends short-duration pulses along the cable that are back scattered by imperfections of the fiber optic itself (Raleigh scattering), or reflected from splices, connectors, breaks and fiber end (Fresnel reflections).
+
+The returned pulses are oriented through the fiber optic coupler to the receiver, where it measures the levels and the traveling time of the returned pulses. Loss and reflection values are shown on a display versus the location of these events, calculated with the traveling time and speed of light inside the fiber core. Locations of the loss and reflection value’s can be given with a 1-meter resolution. For the exact fault location, the values must be corrected, since they show the physical location along the fiber, while the fiber optic is actually twisted within the cable. 
+
+Depending on the power level of the transmitter and the pulse width, OTDR's can reach distances of 50 km to 200km. Longer pulses, due to their higher energy level, are used to cover long-haul applications. Higher resolution, as necessary in short-haul applications, can only be achieved by shorter pulse widths. The measurement resolution describes how far apart two faults can occur and still be accurately measured. 
+
+An OTDR is often used by phone companies to isolate breaks or faults within their operation, such as in areas of extreme signal loss within a cable. Resolving a break to within a meter or less narrows down the section of cable that must be replaced, saving expense and time for the service crew. As the OTDR also enables the measurement of the overall length of the fiber optic link, it’s results are often used as a base for the expense calculation of the installation company.
+
+

@@ -1,0 +1,40 @@
+Title: 
+History Of The Computer; Analog Or Digital?
+
+Word Count:
+794
+
+Summary:
+In 'History of the Computer - the emergence of Electronics', we saw how the development of Radar during the second world war led to an understanding of pulse technology. At the same time methods were refined for the calculations required for the ballistic trajectories. From these beginnings, the digital computer was developed.
+
+What is meant by 'Analog' and 'Digital'? A couple of examples will explain the difference. An analog is something which is analogous, obviously, but...
+
+
+Keywords:
+history of the computer, computer history, analog, digital
+
+
+Article Body:
+In 'History of the Computer - the emergence of Electronics', we saw how the development of Radar during the second world war led to an understanding of pulse technology. At the same time methods were refined for the calculations required for the ballistic trajectories. From these beginnings, the digital computer was developed.
+
+What is meant by 'Analog' and 'Digital'? A couple of examples will explain the difference. An analog is something which is analogous, obviously, but you may know that an analogous process or function is one that is equivalent, or very similar to another one. An analogy is often used to explain, or to assist the understanding of, some new feature in terms that are understood.
+
+For example a home electric circuit for house wiring to operate a lamp. The supply is controlled by a circuit breaker, when it is available at the outlet where the lamp is plugged. This can be compared to plumbing, where the water supply is controlled by a valve or tap on entering the home, then pipes carry the water to the kitchen, where the supply can be turned on or off by a tap or faucet, and is immediately available. The rate of flow of the water can be controlled, which is analogous to a dimmer on the lamp.
+
+The analogy is not absolutely the same, but aids in the understanding of the electricity supply by someone who knows the plumbing system.
+
+Digital, concerning digits or numbers, refers to the use of numbers to represent all things. As an example, a digital watch uses numbers to indicate the time. The numbers on the face of traditional watch are distributed around the dial, so that the hands pointing to them are analogous to the passage of time. For example the minute hand pointing straight down, half way through the circle of the clock, represents the passing of half an hour. If the hour hand is pointing to the number 3, this indicates 3 hours of the 12 for a complete circuit. When we learnt to tell the time we knew that this was half past three. The digital watch however says 3:30.
+
+Closer to our topic, we can consider the evolution of the gramophone record. The vinyl LP was the standard medium for music recording and playing from the 1950s, tape recordings were also developed in parallel. Both these media use a modulation system, where the amplitude, or strength, of the modulation is proportional, or analogous, to the loudness of the original live singing or playing. This music had been converted by a microphone into a variable electrical signal, analogous to the sound.
+
+With the invention in the 1980s of the Compact Disc, digital techniques were employed to represent the changes in sound levels, by using a sampling pulse to monitor the loudness of the sound. This sampling pulse is used at a high frequency, so that it is not audible, and traces the progress of the sound. The principle is analogous to the movie camera where a sequence of still pictures are shown at a rate of 32 frames per second, so that they appear to show a moving picture. Similarly a tv uses a frame rate of 50 or 60 per second (strictly speaking 25 0r 30 interlaced).
+
+The big advantage of a digital recording and reproduction system (amplifiers etc are also digital) is that, due to the nature of the high frequency pulses, it is possible to copy them exactly when transferring from one medium to another, for example copying a from cd track to compilation cd. With an analogue system there are losses in every transfer, so that a recording on a cassette tape copied from a vinyl lp via a home stereo is noticeably poorer quality than the original.
+
+A computer can also be analog or digital, though the digital type have vastly outgrown the analog. An analog computer might be used in research work, where, for instance a record may be made on a moving chart of the temperature and humidity in a room being air conditioned by a new design air conditioner, the chart could also be a display on screen. Either way, the graph is an analog representation of the temperature and pressure.
+
+Early electronic controls in aircraft were run by a form of analog computer, the amount the ailerons moved was proportional to the movement of the joystick, but not directly proportional. A calculation was performed, which depended on the speed and height of the aircraft, and other factors. The electronic 'boxes' involved linear amplifiers and variable response circuits, all fed by sensors from the flight controls etc.
+
+Subsequent articles in this series are concerned only with digital computers. We look at how they are put together, and how they perform, in simple steps, more and more advanced calculations.
+
+

@@ -1,0 +1,75 @@
+Title: 
+Cisco CCNP / BCMSN Exam Tutorial:  Changing The Active Router In HSRP
+
+Word Count:
+375
+
+Summary:
+The priority command in HSRP seems simple enough, but there's a trap there for you that can cost you important exam points.  Learn how to do this properly and pass the CCNP with Chris Bryant, CCIE #12933.
+
+
+Keywords:
+cisco, ccnp, certification, hsrp, standby, active, priority, preempt, pass, bcmsn, exam, ccie, 12933
+
+
+Article Body:
+To pass the BCMSN exam and earn your CCNP certification, you've got to know HSRP inside and out. While the operation and basic commands of HSRP are pretty simple, there are some important details that are easily overlooked but are vital in getting HSRP to work the way you want it to.  Let's take a look at using the priority command correctly on both the exam and in production networks.
+
+A key value in the show standby command is the priority.  The default is 100, and the router with the highest priority will be the primary HSRP router.  We'll raise the default priority on R2 and see the results.  R3 is currently the Active router and R2 the standby, so let's raise the priority on R2 and see what happens.
+
+R2(config)#interface ethernet0
+
+R2(config-if)#standby 5 priority 150
+
+
+R2#show standby
+
+Ethernet0 - Group 5
+
+  Local state is Standby, priority 150
+
+  Hellotime 4 sec, holdtime 12 sec
+
+  Next hello sent in 0.896
+
+  Virtual IP address is 172.12.23.10 configured
+
+  Active router is 172.12.23.3, priority 100 expires in 8.072
+
+  Standby router is local
+
+  1 state changes, last state change 00:14:24
+
+R2 now has a higher priority, but R3 is still the active router.  R2 will not take over as the HSRP primary until R3 goes down - OR the preempt option is configured on R2.
+
+R2(config-if)#standby 5 priority 150 preempt
+
+
+1d11h: %STANDBY-6-STATECHANGE: Ethernet0 Group 5 state Standby -> Active
+
+
+R2#show standby
+
+Ethernet0 - Group 5
+
+  Local state is Active, priority 150, may preempt
+
+  Hellotime 4 sec, holdtime 12 sec
+
+  Next hello sent in 1.844
+
+  Virtual IP address is 172.12.23.10 configured
+
+  Active router is local
+
+  Standby router is 172.12.23.3 expires in 10.204
+
+  Virtual mac address is 0000.0c07.ac05
+
+  2 state changes, last state change 00:00:13
+
+In just a few seconds, a message appears that the local state has changed from standby to active.  Show standby confirms that R2, the local router, is now the active router - the primary.  R3 is now the standby.  So if anyone tells you that you have to take a router down to change the Active router, they're wrong - you just have to use the preempt option on the standby priority command.
+
+Another vital part of HSRP configurations is knowing how to change the MAC address of the virtual router, as well as interface tracking. We'll look at those features in the next part of my HSRP tutorial!
+
+

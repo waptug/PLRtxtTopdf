@@ -1,0 +1,76 @@
+Title: 
+Buying Out Minority Shareholders under the Companies Act 1985
+
+Word Count:
+1198
+
+Summary:
+An article on minority shareholder rights and forcing a sale of minority shares using sections 459 and 461 of the Companies Act 1985
+
+
+Keywords:
+minority rights, minority shareholder rights, minority shareholder protection
+
+
+Article Body:
+Rights of Minority Shareholders
+In the decision of the Court of Appeal in Profinance Trust SA v Gladstone (Case No: A3/2000/0435, 2 July 2001) ('Profinance'), the rights of minority shareholders to have their shares purchased by other shareholders or the company under Sections 459-461 of the Companies Act 1985 (as amended) was extensively considered  by Robert Walker LJ. It was concluded that the general purpose of these provisions is to provide a shareholder who has been unfairly prejudiced by the conduct of a company's affairs with a remedy more flexible and less drastic than a winding up on "just and equitable" grounds. 
+
+However, Walker LJ observed: 
+
+'It is well known among company lawyers that although Sections 459-461 were intended to provide a fairly summary remedy for minority shareholders who have been unfairly prejudiced, proceedings under the sections often become bogged down in a mass of written evidence containing numerous accusations and counter-accusations reminiscent of petitions and cross-petitions alleging cruelty under the old divorce law.'
+
+Companies Act: Sections 459 & 461 
+Section 459(1) of the Companies Act 1985 (as slightly amended by the Companies Act 1989) provides as follows: 
+
+'A member of a company may apply to the court by petition for an order under this Part on the ground that the company's affairs are being or have been conducted in a manner which is unfairly prejudicial to the interests of its members generally or of some part of its members (including at least himself) or that any actual or proposed act or omission of the company (including an act or omission on its behalf) is or would be so prejudicial.'
+
+Section 461(1) and (2) of the Act provide as follows: 
+
+'(1) If the court is satisfied that a petition under this Part is well founded, it may make such order as it thinks fit for giving relief in respect of the matters complained of. 
+
+(2) Without prejudice to the generality of subsection (1), the court's order may:
+
+  (a)  regulate the conduct of the company's affairs in the future;
+
+  (b)  require the company to refrain from doing or continuing an act complained of by the petitioner or to do an act which the petitioner has complained it has omitted to do;
+
+  (c)  authorise civil proceedings to be brought in the name and on behalf of the company by such person or persons and on such terms as the court may direct;
+
+  (d)  provide for the purchase of the shares of any members of the company by other members or by the company itself and, in the case of a purchase by the company itself, the reduction of the company's capital accordingly.'
+
+It was observed in Profinance that there 'is a good deal of authority as to the circumstances in which Section 459 is engaged and as to the wide nature of the powers conferred on the Companies Court by Section 461 if it is satisfied that a Section 459 petition is well founded. Many of these cases are concerned with the circumstances in which the court should direct a purchase of shares under Section 461(2)(d) and with the basis on which the shares (almost invariably a minority holding) should be valued.' 
+
+In a "quasi-partnership" case where the petitioner is not at fault the court tends to favour an undiscounted share of the value of the company as a whole. 
+
+Date of Valuation and Interest under the Companies Act 
+The main question in Profinance was two-fold: 
+
+1.   Does the court have the power to set an appropriate valuation date for the share purchase? 
+
+2.   Does the court have the power to award interest from the date of valuation to the date of payment?
+
+As to the appropriate valuation date, it was held that the court has a wide discretion in the matter. However, even a wide discretion to do what is fair must be exercised judicially and on rational principles. 
+
+As to the power of the court to award interest under a Section 461 order, it was held that an order for interest is not beyond the powers of the court. The court can make adjustments in the valuation process which means that the court is actually valuing shares, not as they are, but as they would have been if events had followed a different course; and that practice is regularly followed by the court in orders under Section 461(1). In these circumstances, it was held, a denial of the court's power to award interest would be unacceptable. 
+
+Fair Valuation Date under the Companies Act
+According to Walker LJ, the authorities show that there are two main considerations which the court has to bear in mind in deciding what valuation date is fair on the facts of the particular case: 
+
+1. One is that the shares should be valued at a date as close as possible to the actual sale so as to reflect the value of what the shareholder is selling. 
+
+2. The rival consideration is that the date of the petition is the correct starting point. This is because the date of the petition is the date on which the petitioner elects to treat the unfair conduct of the majority as in effect destroying the basis on which he agreed to continue to be a shareholder, and to look to his shares for his proper reward from participation in a joint undertaking.
+
+Although the Court of Appeal in Profinance opted for the second (i.e. that the date of the petition should be the valuation date of the shares) as the better stating point, it did conclude that there may be circumstances where fairness would require that another date be used. Another date, according to Walker LJ, may be more fair in the following cases: 
+
+where a company has been deprived of its business, an early valuation date (and compensating adjustments) may be required in fairness to the claimant. 
+where a company has been reconstructed or its business has changed significantly, so that it has a new economic identity, an early valuation date may be required in fairness to one or both parties. But an improper alteration in the issued share capital, unaccompanied by any change in the business, will not necessarily have that outcome. 
+where a minority shareholder has a petition on foot and there is a general fall in the market, the court may, in fairness to the claimant, have the shares valued at an early date, especially if it strongly disapproves of the majority shareholder's prejudicial conduct. 
+but a claimant is not entitled to a "one-way bet" and the court will not direct an early valuation date simply to give the claimant the most advantageous exit from the company, especially where severe prejudice has not been made out. 
+all these points may be heavily influenced by the parties' conduct in making and accepting or rejecting offers either before or during the course of the proceedings. 
+Also, it should be noted that recent case law has clearly established the reluctance of the courts to allow section 459 of the Companies Act to be widely used to force the company's hand when its controlling shareholders not acting improperly.  The clear message from the courts is that the parties are expected to behave like adults and talk to each other with a view to one party being bought out.
+
+
+http://www.kaltons.co.uk
+
+

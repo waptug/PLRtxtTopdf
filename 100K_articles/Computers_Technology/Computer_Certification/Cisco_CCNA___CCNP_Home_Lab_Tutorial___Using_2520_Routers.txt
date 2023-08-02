@@ -1,0 +1,24 @@
+Title: 
+Cisco CCNA / CCNP Home Lab Tutorial:  Using 2520 Routers
+
+Word Count:
+311
+
+Summary:
+A 2520 router can be a huge part of your CCNA / CCNP home lab.  Learn all about the 2520 from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Cisco, ccna, ccnp, home, lab, router, which, choose, 2520, frame, relay, switch, routing, ethernet, serial, bri, isdn, interface, simulator
+
+
+Article Body:
+I know from experience that part of the excitement and anxiety of putting together your own CCNA / CCNP home lab is deciding what to buy!  While you can make a workable home lab out of almost any combination of Cisco routers and switches, some routers are better suited for home lab work than others because they can fill multiple roles.
+
+My personal favorite is the Cisco 2520.  This router has four serial interfaces, making it an ideal frame relay switch.  Don't forget that just because you're using a router as a frame switch, you can still use its routing capabilities.  One setup I use is to use three of the four serial interfaces for frame switching and the fourth interface as a point-to-point network with another router.  All you need is some DTE/DCE cables and you're all set.
+
+The 2520 also comes with one ethernet interface and an ISDN interface, so that gives you even more options.  Even if you're not planning to run ISDN in your home lab right now, you may choose to do so in the future - and with a 2520, you've already got the right router to do so.  Keep in mind that if you are going to run ISDN in your home lab, you’ll need an ISDN device such as an ISDN simulator in your lab.  (ISDN simulators are physical devices and are plentiful on ebay – they’re no relation to “router simulators”.)
+
+Again, I want to reiterate that you can work any Cisco router into a CCNA / CCNP home lab - there's no "right" or "wrong" combination of equipment.  But as with anything else, some combinations are better than others, so consider adding some 2520s to your home lab!  This router gives you a great combination of interfaces and capabilities, plus the most important factor of all - real hands-on experience during your CCNA and CCNP exam preparation!
+
+

@@ -1,0 +1,43 @@
+Title: 
+Ms Access: Access Your Personal Information With Ease
+
+Word Count:
+521
+
+Summary:
+Much has been said about how Microsoft Access can be used to benefit your business. However, this database software can also be used to process personal data. Let us consider some of the applications of Microsoft Access to your life outside of work. 
+
+Personal Address Book
+
+Using Microsoft Access, it is possible to create a database containing useful information relating to your family, friends and acquaintances. Each contact is assigned an individual record listing their...
+
+
+Keywords:
+Microsoft Access, Training, Courses, RDBMS
+
+
+Article Body:
+Much has been said about how Microsoft Access can be used to benefit your business. However, this database software can also be used to process personal data. Let us consider some of the applications of Microsoft Access to your life outside of work. 
+
+Personal Address Book
+
+Using Microsoft Access, it is possible to create a database containing useful information relating to your family, friends and acquaintances. Each contact is assigned an individual record listing their personal details: name, address, telephone number and email. Other details, including birthdays, anniversaries and upcoming social events, can be recorded. You could also take advantage of the ability of Access to generate reports by producing a list of all birthdays in a particular month. Alternatively, a report could be produced to show the addresses for each person in your database. This is useful, if for example, you are moving house and want to send everyone your new address.
+
+Inventory of Personal Possessions
+
+Many people need to make an inventory of their home contents for insurance purposes. One option is to use Microsoft Access to create a database. Each item in your home can be listed. Useful information such as manufacturer, model and purchase price can be documented. The database can further categorise items according to types of article. This can be of value if you wish to generate a report indicating the total cost of electrical items, for example, in your home.
+
+Database for Nutritional Purposes
+
+Many of us are becoming increasingly concerned with keeping our svelte figures intact for many years to come. When it comes to controlling food intake, willpower alone may not be enough, so consider incorporating a nutritional database into your daily routine. It can help you to keep track of your fluctuating weight, calorie intake, exercise regime and even your favourite recipes.
+
+Inventory of a collection of items
+
+Many people like to indulge in a hobby in their free time. As a collector of antiques, stamps or perhaps DVD's you may need to keep track of all the details relating to your prize possessions. It is possible to use Access to create a database containing all necessary information to help you maintain your level of expertise in your particular field. A DVD database, for example could list movie release dates, directors, stars, special effects, cost of making the film and even your personal rating score, for each film. 
+Personal Account Database
+
+If you are having trouble of keeping track of your personal finances, one idea is to create a database listing all personal account transactions. This could help you to keep track of your monthly income and expenditure. Your cash flow status could even be illustrated more clearly by a monthly report. If you are concerned about security and would perhaps prefer other members of your household to see the minutiae of your financial status, the database can be protected with a password.
+
+It is possible to create databases for the above uses from scratch or to use readily available templates. Either way, Microsoft Access training can help you to use this database software to process your personal data more effectively.
+
+

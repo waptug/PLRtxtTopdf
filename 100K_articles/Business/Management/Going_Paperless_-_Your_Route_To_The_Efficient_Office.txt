@@ -1,0 +1,36 @@
+Title: 
+Going Paperless - Your Route To The Efficient Office
+
+Word Count:
+510
+
+Summary:
+There is first of all the issue of space which is typically at a premium in most organizations.  Filing archives take up an ever increasing, and non-productive, share of the workspace.
+
+
+Keywords:
+Efficient Office
+
+
+Article Body:
+Paper archives have a number of serious shortcomings, which at best cost time and money, and at worst threaten the viability of an organization.
+
+There is first of all the issue of space which is typically at a premium in most organizations.  Filing archives take up an ever increasing, and non-productive, share of the workspace.  Archives generally deteriorate in poor storage conditions, and become disorganized and untidy – out of sight, out of mind usually applies.
+
+Another important issue is the time wasted in operating and retrieving from a paper-based archive, which is very often hidden in general office activity but nevertheless can represent a real cost to the organization.  Locating a document or file, even in a modest filing system, can take a long time, particularly if misfiled by the previous user.
+
+Finally there is the very real concern of security.  It is theoretically possible to plan for disaster recovery in a paper-based archive, either by using fireproof cabinets, or by storing photocopies of all important documentation in some remote location.  The cost implications of either of these options are obviously enormous.  Fires frequently cause the destruction of key files, resulting in crippling consequential losses for the organizations concerned.
+
+Storing documents as electronic files overcomes all the shortcomings of paper archive in one hit.  Filing space is more or less eliminated, document retrieval time is as long as it takes to key in a document or file reference on a PC keyboard, and files can be backed up either as part of existing IT procedures or on portable media such as the CD-ROM, stored in fireproof cabinets or in some remote location at very little additional expense.
+
+Starting your electronic document storage project need not be as complicated as you would think.
+
+Any piece of hard copy can be converted to an electronic file of one type or another, enabling it to be stored in and viewed by a PC or PC-based network, either individually, or as part of a larger electronic archive.
+
+Each document is then assigned a look-up key, for example Invoice Number and Supplier Code or Name, plus any other key which could usefully identify the document in question.  At its least sophisticated, this would require a keyboard operation - a potentially costly element in the process if a large amount of data is to be entered against each invoice.  However, there are a number of ways in which data entry costs can be reduced, including a bar code scan from the document or the import of data through a text file.
+
+So far, we have assumed that the database files would reside on a server, making the archive available across a PC-based network.  A number of systems are fully portable, and can use CD's (or DVD-ROMs) as an alternative to a server.    CD's can also provide low cost back up to a server-based archival system, for disaster recovery considerations.
+
+Some organizations prefer a web server to hold their data and this offers the advantages of extendible storage facilities and fixed pre-agreed costs with the web hosting firm.
+
+

@@ -1,0 +1,55 @@
+Title: 
+Hardware And Software For Day Trading Emini Futures
+
+Word Count:
+721
+
+Summary:
+What do you need to day trade Emini : Hardware
+
+Having a stable computer system is crucial to your trading success. Imagine what would happen if your computer hangs in the middle of a trade. What happens if you suddenly get disconnected from the internet? Accidents do occur and these scenarios are very possible, I have encountered an internet disconnection while trading. Such scenarios are potentially lethal to your trading especially when the market can move against you in...
+
+
+Keywords:
+emini, S&P 500, futures, nasdaq 100, day trade, day trading, hardware, software
+
+
+Article Body:
+What do you need to day trade Emini : Hardware
+
+Having a stable computer system is crucial to your trading success. Imagine what would happen if your computer hangs in the middle of a trade. What happens if you suddenly get disconnected from the internet? Accidents do occur and these scenarios are very possible, I have encountered an internet disconnection while trading. Such scenarios are potentially lethal to your trading especially when the market can move against you in a couple of minutes in the case of day trading. 
+
+Besides making sure that our equipment is up-to-date and reliable, care must also be given to the planning of a backup system. For example, I have 2 internet connections just in case one fails and I always have my laptop on standby should my PC hang in the middle of a trade. This section covers the necessary precautions and minimum set up you need to start trading. It is important to remind ourselves that making money through trading is our ultimate aim. It is easy to fall into the trap of delaying setting up your trading system because you want to fine tune your computer system. Have the basic reliable set up and get ready to go! 
+
+Although there are no hard and fast rules to your hardware configuration, I recommend the following minimum configuration. 
+
+CPU : at least 1GHz 
+
+Memory RAM : at least 512MB ( charting software is memory intensive) 
+Monitors: at least two 17 inch XVGA monitors (resolution of 1280 X 1024) 
+Graphics Card: Any graphics card capable to support 2 monitors, usually one monitor will be connected via analog cable and the other monitor connected via digital cable. Hence it is important that one of your monitors support digital output. 
+Internet Connection Cable or ADSL, try not to connect trough wireless since wireless connections are prone to instability. 
+
+A minimum of 2 high quality monitors is needed in order to display all the charts and order management screens. If you only have one screen, you might ALT-TAB in windows to switch between the different applications, however, there is not really much reaction time when the market is moving and I strongly recommend have at least 2 monitors to display all the necessary charts and applications. 
+
+What do you need to day trade Emini : Software
+
+After the hardware set up all that remains is installing the appropriate softwares and you are ready to go. Although it is not a must, it is advisable to invest in antivirus softwares and firewall softwares such as Norton or Mcafee. The last thing you want to worry about is whether your system is infected or not. 
+
+Real time Data Provider 
+
+Day trading imposes stringent conditions on data providing services. Although there are a lot of free delayed quotes on the internet, a real time data provider is necessary. Usually the data will come together with software to display the data as candle sticks in real time. Some brokers provide real time data but lack the necessary software to display the data in a meaningful format. 
+
+Qcharts off good real time stock data with a state of the art charting software that you can run from your computer. 
+
+Novice traders should strart from the Qcharts subscription which costs $95/month. Besides this, you will also be required to subscribe to data from real time exchanges, for example, if you chose AMEX ($2/mth), NYSE ($2/mth),NASDAQ ($2/mth) and CME EMINI ($15/mth). This will constitute a total cost of $116/mth to Qcharts. 
+
+Interactive Brokers
+
+There are many brokers out there in the market. Interactive Brokers which offers one of the cheapest commissions from trading Emini. ( $2.40 per trade) also offers good support and I have never failed to get a response from their help desk. 
+
+You will also be required to choose which market data to subscribe. For trading Emini, subscribe to “ US Securities and Commodities Bundle Non-professional - Level I ” which is free. However a charge of $10 will be imposed if the monthly commissions is below $30. 
+
+$2000 is the minimum required to open an account. However, a starting minimum of $5000 would be desirable, since IB restricts you from trading once your equity falls below $2000. IB provides several trading platforms including web based and downloadable software versions. The software version is more stable. One caveat here is that you need to install a Java plugin before you can run the software.
+
+

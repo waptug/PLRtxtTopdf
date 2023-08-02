@@ -1,0 +1,36 @@
+Title: 
+Digital Image Format Decides Picture Quality And Storage Space
+
+Word Count:
+433
+
+Summary:
+The format that you save your images in can make a huge difference in their final quality as well as limiting what sizes you can print them off at later. This article goes into detail about the difference in image formats for digital cameras.
+
+1. RAW Mode
+
+RAW mode isn't the most common format for images, most images are JPEG's. The picture has been stored as it is. This means that each and every pixel that was captured by the camera is now on the image. You can now downl...
+
+
+Keywords:
+digital camera, canon digital camera, digital camera review
+
+
+Article Body:
+The format that you save your images in can make a huge difference in their final quality as well as limiting what sizes you can print them off at later. This article goes into detail about the difference in image formats for digital cameras.
+
+1. RAW Mode
+
+RAW mode isn't the most common format for images, most images are JPEG's. The picture has been stored as it is. This means that each and every pixel that was captured by the camera is now on the image. You can now download this image on your computer for processing. Of course, when you do so you will notice that this is a very large image, probably a few MBs. This means that you will need a very large storage area or memory space if you are going to shoot images in RAW format. Your advantage is that you can sharpen, size, or crop the picture without losing any picture quality.
+
+But your disadvantage is the file size. You cannot transmit it easily because it needs high bandwidth connections. Also, you can shoot very few photographs if you select the RAW mode. After that, you have to change the memory card or make space by erasing a few photographs. Also, this mode is generally not accepted by the publishing industry because it produces a 12-bit image. The photographer needs to modify it using photo-editing software before submitting it for publication.
+
+2. TIFF Mode
+
+The TIFF mode is a better mode. There is no picture loss, and the picture is also acceptable to the publishing industry since it is in an 8-bit mode. The image takes relatively less storage space as compared to the RAW format, and is very suitable for any changes that need to be made using photo-editing software. Of course, it still has some drawbacks. These pertain to file size, that is still very large and can choke small e-mail boxes. You also need more memory cards if you are using TIFF images during a photo shoot.
+
+3. JPEG Mode
+
+JPEG is the most common image format and arguably the best! It not only reduces the size of the photograph but it also lowers the quality of the picture. That is why it is called the lossy mode. A lot of pixels are lost when the photograph is changed to the JPEG format. This makes the image less suitable for photo-editing. The advantage is that the JPEG images take less space to store. They are easier to transmit and can even be sent over dial up connections. It is highly recommended that you use this file format.
+
+

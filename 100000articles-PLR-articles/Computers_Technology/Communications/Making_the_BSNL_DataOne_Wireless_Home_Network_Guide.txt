@@ -1,0 +1,160 @@
+Title: 
+Making the BSNL DataOne Wireless Home Network Guide
+
+Word Count:
+877
+
+Summary:
+Step-By-Step guide to configuring a Wi-Fi network with BSNL DataOne.
+
+
+Keywords:
+India broadband, bsnl, bsnl broadband, dataone broadband
+
+
+Article Body:
+So, Here is my Step-By-Step guide to configuring a Wi-Fi network with BSNL DataOne. Though many wireless routers claim that it is a no-brainer setup to configure the wireless network, I found it to be not as easy as it looks to be. For example, NetGear comes with a wizard that never works with BSNL broadband connected via HUAWEI SmartAX 880. For those of you desperate to take your BSNL DataOne broadband wireless, follow these steps. It took me more than 2 days to figure and come out with these configuration details.
+
+Before I start, let me share what I have:
+
+1)BSNL DataOne 256Kbps connection.
+2)HUAWEI SmartAX MT880 (The modem supplied by BSNL).
+3) (configuring netgear dg632 for BSNL)NetGear WGR614v5
+
+There are 2 steps to configuring your wireless network. First, you have to change the default settings of the SmartAX MT880 modem and configure it to enable PPPoE (PPP over Ethernet). Second, you have to configure the NetGear Router to talk to the modem.
+
+Keep your modem, wireless router and your username and password from BSNL handy before you proceed to the next step.
+
+If you want to change your existing configuration, take a backup of your configuration. This guide is to build your network from the ground-up.
+
+1)Configuring and testing your Broadband connection
+·Setup the modem as per the instructions mentioned in the manual. Ensure that the RJ11 (thin) cable from the splitter is connected to the ADSL port and the RJ45 cable connects your machine to the Ethernet port of the modem.
+
+·Change the IP properties of your Ethernet card to the following:
+192.168.1.2
+255.255.255.0
+192.168.1.1
+
+·Open the browser and type http://192.168.1.1 to go to the HUAWEI configuration tool.
+
+·Enter ?admin? as username and ?admin? as password
+
+·Expand the Home node and select the WAN Setting
+
+·Under this web page, configure the following:
+PVC Number ? PVC 0
+Wan Type ? PPP
+Connection Type ? PPPoE
+VPI/VCI ? 0 / 35
+Default Route - Enabled
+User Name ? <Your ISP UserName>
+Password ? <Your ISP Password>
+Use DNS ? Enabled
+Max Idle Time ? Always On
+
+·Click on Apply and allow the modem to restart.
+
+·Close the browser window
+
+·Open the browser and type http://192.168.1.1
+
+·Enter ?admin? as username and ?admin? as password
+
+·You should see the Summary page. The Status is normally Red indicating that the connection is not ON.
+
+·Click on the Plug icon in the Note column to connect.
+
+·After the Connecting message, you should see the summary page again with the Status turning Green. Notice the IP Address and the Gateway Address.
+
+·Expand Tools node and click on Misc.
+
+·Type www.msn.com and click on Ping
+
+·You should see Ping Result: Successful
+
+·Click on the Lan Settings link under the Advanced node.
+
+·Configure the following:
+IP Address ? 192.168.1.90
+Subnet Mask ? 255.255.255.0(/24)
+Local Domain Name ? Blank
+
+·Click on Apply and allow the modem to restart
+
+·Open the Network properties of your Ethernet card and change the IP properties to the following
+
+
+IP Address ? 192.168.1.2
+Subnet Mask ? 255.255.255.0
+Default Gateway ? 192.168.1.90
+Preferred DNS server ? 61.1.96.69 (BSNL DNS Server IP)
+Alternate DNS server ? 61.1.96.71 (BSNL DNS Server IP)
+
+·Open your browser and type your favorite URL. You should be online by this time!
+
+
+2)Configuring the Wireless Router and enabling the WPA security
+·Connect the network cable from the NetGear wireless router to the machine.
+
+·Open the IP Properties of your Network card and Enable DHCP. Select the following on the IP properites dialog.
+Obtain IP Address Automatically
+Obtain DNS Server Address Automatically
+
+·Open the browser and type http://192.168.1.1/basicsetting.htm
+
+·Enter ?admin? as username and ?password? as the password
+
+·Click on Wireless Settings link on the navigation pane and configure with the following values
+
+Wireless Network
+Name (SSID) - <YourSSID>
+Region ? Asia
+Channel ? 11
+Mode ? g and b
+Security Options
+WEP (Wired Equivalent Privacy)
+Security Encryption (WEP)
+Authentication Type ? Automatic
+Encryption Strength ? 64bit
+Security Encryption (WEP) Key
+Passphrase - <YourPassphrase>
+·Click on Generate
+
+·Record the value of Key1 ? This is required when you log on to your Wi-Fi network the first time.
+
+·Click on Apply and wait till the router reboots
+(Wireless will not be enabled till you complete the next step)
+
+·Click on the Basic Settings link on the left side navigation pane and configure the following
+
+Does your Internet connection require a login? ? No
+Account Name ? blank
+Domain Name ? blank
+Internet IP Address
+Use Static IP Address
+IP Address ? 192.168.1.91
+IP Subnet Mask ? 255.255.255.0
+Gateway IP Address ? 192.168.1.90
+Domain Name Server (DNS) Address
+Use These DNS Servers
+Primary DNS ? 61.1.96.69
+Secondary DNS ? 61.1.96.71
+Router MAC Address
+Use Default Address
+·Click on Apply and wait till the router restarts
+
+·Connect the Network Cable coming from the ADSL Modem to the Wireless Router
+
+
+Few things to remember ?
+·Don?t connect the ADSL Lan Cable to the Internet Uplink port of the Wireless Router. It never worked for me. Always connect it to one of the 4 ports excluding the designated Internet port.
+
+·IP Addresses can be anything of your choice. But it is a good idea to follow the 192.168.x.x convention
+
+·If you get lost any time, feel free to reset the configuration by poking a pin into the reset slot on the modem and the router.
+
+·Don?t compromise on the security. Always enable WPA and save your key. Don?t let your friendly neighbors ride on your network!
+
+Have a happy Wi-Fi surfing and drop a comment in case you want more inputs.
+
+

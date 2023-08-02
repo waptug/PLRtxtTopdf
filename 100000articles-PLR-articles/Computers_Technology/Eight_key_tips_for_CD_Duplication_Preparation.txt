@@ -1,0 +1,35 @@
+Title: 
+Eight key tips for CD Duplication Preparation
+
+Word Count:
+299
+
+Summary:
+Here are eight tips which may help you when preparing for CD duplication.
+
+
+Keywords:
+cd duplication, cd duplication preparation, master disc
+
+
+Article Body:
+The master of your CD or DVD disk, is of the utmost importance for replication or duplication.  Here are some tips which may help you create a high quality master disc:
+
+1.  Always use the highest quality discs that you can obtain.  Do your research, take your time, then choose a brand that will produce a high quality disc each and every time you duplicate or replicate.
+
+2.  Avoid copying from a network source if at all possible.  If the source files for your disk are on a network drive then copy the files to your computer before you burn a disc.  If you can't, try using the copy to hard drive first feature.  When doing this, your 
+burning software will create a temporary image file during the burning process. Once the burning has been completed, it will delete the temporary file.
+
+3.  Avoid burning on a laptop computer that is low on battery power. The fluctuations that will occur in the available battery power may cause poor results. 
+
+4.  Ensure that you finalise your disc.  If you fail to finalise, the disc may not play back.  Finalising will also help increase the reading compability in other CD-ROM drives.
+
+5.  Never use the packet writing method to burn a master disc.   
+
+6.  Avoid any type of impact or movement of the drive when burning.  Movement can cause the laser to skip or jump tracks which in turn may lead to errors or a bad disc.
+
+7.  Use the "burn-proof" feature if possible. This will allow the drive to slow  down the burn speed if your computer can't supply data fast enough.  It may increase the burn time but the quality of the disc will be enhanced.
+
+8.  Avoid having multiple applications open when burning.  This can  adversely affect your computer's ability to supply data to the burner.
+
+

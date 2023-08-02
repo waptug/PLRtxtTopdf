@@ -1,0 +1,32 @@
+Title: 
+Offsite Data Backup Exposes Potential Threats of Traditional Tape Backup
+
+Word Count:
+702
+
+Summary:
+Are you still using traditional tape backup methods?  If you are a small to medium company now is the time to start investigating more cost effective and automated data backup solutions.
+
+
+Keywords:
+data backup, offsite backup, online backup, remote backup, internet backup, backup
+
+
+Article Body:
+Tape backup is notorious for its inadequacy. It is unreliable, as its properties are dependable on human errors and technologically failures. Tapes are prone to mechanical, thermal and other kind of physical intervention, which can reduce their quality. The data recovery from tapes is only 60% true, as most information is lost due to the technical disadvantages. Tape backups can have slower recovery time than any other off-site backup driver.  The potential threats that tapes can bring to the extraction of data is stronger than in any types of information containers.  So, the next logical question to be posed here is why should rational businessmen or data admins depend on the inadequate tape systems? Offsite backup is much more reliable, faster and efficient, in comparison to the slow and old-fashioned tape backup.
+
+Tapes have a technical annual failure in score of 1 to 12 percent. Due to this technical drawback, you should provide more tapes for containing information, as you can never be sure if they would work or would crack down. The multiple tapes that you will need for storing all the information will gradually ruin your budget, that’s why tape backup is often more expensive than offside backup, but it resumes its inadequate and slow working features nevertheless. The number of tapes that fail from either technical or administrative mistakes is estimated around 60 %. Just imagine the total budget for restoring the lost information: it will be enough to make your bankrupt! 
+  
+But even more astonishingly, tape backups are still used today in many organizations, which are storing all their valuable files on mere tapes. The span that tapes are reliable is about a year: they tend to gradually decay and lose the stored information. Literally every user has experienced a tape deterioration when storing some files. Many end users are seriously disappointed when this happens to them , and start searching for other ways to protect their data. Some companies acquire daily backup regime, which is time and money consuming. Although it serves the requirements put by tape backups, it is highly stressing and can impede the daily regime of the enterprise. Tape backups are likely to have drawbacks, the same as disk . Using both methods is probably the best way to have your data protected. 
+
+Recovery procedures in the organizations cost a lot of time and money. You should think of all the things that can cause a disaster, and try to prevent them. You should either hire a security specialist, or make sure your network is protected, or even do both. A disaster recovery planning of a company can be a nerve racking experience for the new employees. The larger you organization is, the more data are likely to vanish into thin air (or network gaps). That’s’ why you should protect the system mainly from hackers , as well as from your own mistakes in file storage. 
+
+Offsite backup helps you eliminate the threats posed by ordinary tape backup. You eliminate manual intervention, thus reducing any possible human mistakes that can occur. You make everything works in an automatic and simple way, thus saving a lot of precious time for dealing with other tasks. By automating the entire process, you save installation failures, technical breaks, or property loss. Tape needs physical handling, which surely means MISTAKES: people often make mistakes when dealing with important data. By computizing the whole storing, you can easily reach the expected results, rather than shout at your managers and employers for making something wrong.  This whole operation reduces the risks of malfunction up to 20 %: more than a double off the risky percent in tape backup.  
+
+Maybe the one and only advantage that tape backup has over digital stores, is that it is removable: it can be moved everywhere, and read everywhere, if you have the proper technology. This is a plus, though, it may soon become a minus: the mobility of the tape backups can also lead to someone taking over your information files. Perhaps it is better if you make an offsite backup.
+
+To find out more information about secure offsite data backup solutions, please visit
+<a href="http://www.perfectbackup.co.uk/" style="color: blue; text-decoration: underline; text-underline: single">
+www.perfectbackup.co.uk</a>
+
+

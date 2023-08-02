@@ -1,0 +1,22 @@
+Title: 
+Material Requirements Planning (MRP)
+
+Word Count:
+237
+
+Summary:
+Material requirements planning (MRP) is a computer-based inventory management system designed to assist production managers in scheduling and placing orders for dependent demand items. Dependent demand items are components of finished goods such as raw materials, component parts, and subassemblies for which the amount of inventory needed depends on the level of production of the final product. For example, in a plant that manufactured bicycles, dependent demand inventory items might include aluminum, tires, seats, and derailleurs.
+
+
+Keywords:
+mrp, production control, control software, production software, production control software, IT Consultant
+
+
+Article Body:
+The first MRP systems of inventory management evolved in the 1940s and 1950s. They used mainframe computers to explode information from a bill of materials for a certain finished product into a production and purchasing plan for components. Before long, MRP was expanded to include information feedback loops so that production personnel could change and update the inputs into the system as needed. The next generation of MRP, known as manufacturing resources planning or MRP II, also incorporated marketing, finance, accounting, engineering, and human resources aspects into the planning process. A related concept that expands on MRP is enterprise resources planning (ERP), which uses computer technology to link the various functional areas across an entire business enterprise.
+
+MRP works backward from a production plan for finished goods to develop requirements for components and raw materials.MRP begins with a schedule for finished goods that is converted into a schedule of requirements for the subassemblies, component parts, and raw materials needed to produce the finished items in the specified time frame, Thus, MRP is designed to answer three questions: what is needed? how much is needed? and when is it needed?
+
+MRP breaks down inventory requirements into planning periods so that production can be completed in a timely manner while inventory level and related carrying costs are kept to a minimum. Implemented and used properly, it can help production managers plan for capacity needs and allocate production time.
+
+

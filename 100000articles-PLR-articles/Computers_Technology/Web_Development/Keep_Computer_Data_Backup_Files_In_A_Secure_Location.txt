@@ -1,0 +1,32 @@
+Title: 
+Keep Computer Data Backup Files In A Secure Location
+
+Word Count:
+406
+
+Summary:
+You just cannot predict when something is going to go wrong with your computer or one of the files you have stored there, and when it does happen, any information you have stored is going to be lost, usually forever. It is always recommended that computer data backup files be kept separately where it can be recouped in event of loss.
+
+Security for your computer data backup information may not always imply security from theft or intrusion. It may mean to protect it from simi...
+
+
+Keywords:
+data backup, data storage, computer data backup, backup data program
+
+
+Article Body:
+You just cannot predict when something is going to go wrong with your computer or one of the files you have stored there, and when it does happen, any information you have stored is going to be lost, usually forever. It is always recommended that computer data backup files be kept separately where it can be recouped in event of loss.
+
+Security for your computer data backup information may not always imply security from theft or intrusion. It may mean to protect it from similar damage that has affected your main file system. If you store backup files on the same computer hard drive as the original files, if something happens to the hard drive, your backup files will be lost as well.
+
+Although you may believe that since you have not had a problem with your computer data backup is a waste of time. Just like wearing your seat belt. If you have never had a car accident, you probably still wear it just in case. There are numerous ways the information on your computer can be lost or corrupted, including system failure, and when that happens your life, as you know it, is lost.
+
+What Files Need Backed Up And Where
+
+Generally speaking, you should look at the information stored on your computer and determine which files cannot be recreated if destroyed or no longer accessible. The files you mark for computer data backup may include financial information, family photographs, music you bought and downloaded as well personal projects and email address books. 
+
+Whether you decided to use disks, CDs or another form of external device for computer data backup is not really important, rather making sure you will have the means to recover the files from that source available later on, is. Looking back a few shorts years, every computer has at least one drive for three and half inch floppy disks. Not anymore. If you backed up your information on your old computer with these disks and your new computer does not have that drive installed, your filed are still inaccessible.
+
+You may also consider looking for online computer data backup services, where using a secure file transfer protocol (FTP) site, your files, which may include the entire content of your hard drive, can be transferred and securely stored for easy retrieval. Saving your files locally may work, but in event of a disaster could still be lost along with everything else.
+
+

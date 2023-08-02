@@ -1,0 +1,25 @@
+Title: 
+How long should I backtest a online daytrading system?
+
+Word Count:
+252
+
+Summary:
+Day trading expert, Markus talks about the ideal time span for backtesting a daytrading system. Read on to know more.
+
+
+Keywords:
+online daytrading system,online daytrading .
+
+
+Article Body:
+I am frequently asked how long one should backtest a <a href="http://www.rockwelltrading.com/daytradingcoach/01_dtc_moreinfo.html#STRATEGIES"><b>online daytrading system</b></a>. Though there's no easy answer, I will provide you with some guidelines. There are a few factors that you need to consider when determining the period for backtesting your online daytrading system: 
+Trade frequency 
+How many trades per day does your daytrading system generate? It's not important how long you backtest a daytrading system; it's important that you receive enough trades to make statistically valid assumptions*: If your <a href="http://www.rockwelltrading.com/daytradingcoach/01_dtc_landing_page.html"><b>online daytrading</b></a> system generates three trades per day, i.e. 600 trades per year, then a year of testing gives you enough data to make reliable assumptions*. But if your trading system generates only three trades per month, i.e. 36 trades per year, then you should backtest a couple of years to receive reliable data. 
+Underlying contract 
+You must consider the characteristics of the underlying contract. The chart below shows the average daily volume of the e-mini S&P: 
+ 
+ 
+It doesn't make sense to backtest a trading system for the e-mini S&P before 1999, because the contract simply didn't exist! In my opinion it doesn't make sense to backtest an e-mini trading system before 2002 because at that time the market was completely different; less liquidity and different market participants. I believe that a reliable testing period for the e-mini S&P are the years 2002 - 2004.
+
+

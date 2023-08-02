@@ -1,0 +1,70 @@
+Title: 
+How to Find a Day Trading System that Works
+
+Word Count:
+1308
+
+Summary:
+Find out the steps that would enable you to find a Day Trading System that works wonders for you and allow you to start from scrath and grow big with time.
+
+
+Keywords:
+Daytrading system
+
+
+Article Body:
+Trading with a system will dramatically improve your chances of making money in the markets. 
+The next challenge is to find a <a href="http://www.rockwelltrading.com/daytradingcoach/01_dtc_moreinfo.html#STRATEGIES"><b>daytrading system</b></a> that works. Today you have the chance to choose from more than 300 trading systems available. Unfortunately just 10% of them are trading profitably. 
+In the next three minutes I will present you the 10 Power Principles for Successful Day Trading Systems, which will help and support you in your research. 
+Principle #1: Few rules - easy to understand
+It may surprise you that the best <a href="http://www.rockwelltrading.com/daytradingcoach/01_dtc_moreinfo.html#STRATEGIES"><b>daytrading systems</b></a> have less than 10 rules. The more rules you have, the more likely you "curve-fitted" your trading system to the past, and such an over-optimized system is very unlikely to produce profits in real markets.
+It's important that your rules are easy to understand and execute. The markets can behave very wild and move fast, and you won't have the time to calculate complicated formulas in order to make a trading decision. Think about successful floor traders: The only tool they use is a calculator, and they make thousands of dollars every day.
+
+
+Principle #2: Trade electronic and liquid markets
+We strongly recommend that you trade electronic markets because the commissions are lower and you receive instant fills. You need to know as fast as possible if your order was filled and at what price, because based on this information you plan your exit. 
+You should never place an exit order before you know that your entry order is filled. When you trade open outcry markets (non-electronic) you might have to wait awhile before you receive your fill. By that time, the market might have already turned and your profitable trade has turned into a loss! 
+When trading electronic markets you receive your fills in less than one second and can immediately place your exit orders. Trading liquid markets you can avoid slippage, which will save you hundreds or even thousands of dollars.
+
+Principle #3: Make consistent profits
+You should always look for a trading system that produces a nice and smooth equity curve, even if in the long run the net profit is slightly smaller. Most professional traders prefer to take small profits every day instead of big profits every now and then. If you trade for a living, you need to pay your bills from your trading profits, and therefore you should regularly deposit profits into your trading account. 
+Making consistent profits is the secret of successful traders!
+Principle #4: Maintain a healthy balance between risk and reward
+Let me give you an example: If you go to a casino and bet everything you have on "red", then you have a 49% chance of doubling your money and a 51% chance of losing everything. The same applies to trading: You can make a lot of money if you are risking a lot, but then risk of ruin is very high. You need to find a healthy balance between risk and reward. 
+Let's say you define "ruin" as losing 20% of your account, and you define "success" as making 20% profits. Having a trading system with past performance results let you calculate the "risk of ruin" and "chance of success". 
+Your risk of ruin should be always less than 5%, and your chance of success should be 5-10 times higher, e.g. if your risk of ruin is 4%, then your chance of success should be 40% or higher. 
+
+Principle #5: Find a system that produces at least five trades per week
+The higher the trading frequency the smaller the chances of having a losing month. If you have a trading system that has a winning percentage of 70%, but only produces 1 trade per month, then 1 loser is enough to have a losing month. In this example, you could have several losing months in a row before you finally start making profits. In the meantime, how do you pay for your bills?
+If your trading system produces five trades per week, then you have on average 20 trades per month. Having a winning percentage of 70% - your chances of a winning month are extremely high. 
+That's the goal of all traders: Having as many winning months as possible!
+
+Principle #6: Start small - grow big
+Your trading system should allow you to start small and grow big. A good trading system allows you to start with one or two contracts, and then increase your position as your trading account grows. This is in contrast to many "martingale" trading systems that require increasing position sizes when you are in a losing streak. 
+You probably heard about this strategy: Double your contracts every time you lose, and one winner will win back all the money you previously lost. It's not unusual to have 4-5 losing trades in a row, and this would already require to trade 16 contracts after just 4 losses! Trading the e-mini S&P you would then need an account size of at least $63,200, just to meet the margin requirement. That's why martingale systems don't work.
+
+Principle #7: Automate your trading
+Emotions and human errors are the most common mistakes that traders make. By all means you have to avoid these mistakes. Especially during fast markets, it is crucial that you determine the entry and exit points fast and accurately; otherwise, you might miss a trade or find yourself in a losing position. 
+Therefore you should automate your trading and look for a trading system that either already is or can be automated. Automating your trading makes it free of human emotion. The buy and sell operations are all automatic, hands-free, with no manual interventions and you can be sure that you make profits when you should according to your plan.
+
+Principle #8: Have a high percentage of winning trades
+Your trading strategy should produce more than 50% winners. There's no doubt that trading systems with smaller winning percentages can be profitable, too, but the psychological pressure is enormous. Taking 7 losers out of 10 trades and not doubting the system takes great discipline, and many traders can't stand the pressure. After the sixth loser they start "improving" the system or stop trading it completely.
+Especially for beginners it is a big help to gain confidence in your trading and your system if you have a high winning percentage of more than 65%.
+
+Principle #9: Look for a system that is tested on at least 200 trades
+The more trades you use in your back testing (without curve-fitting), the higher the probabilities that your trading system will succeed in the future. Look at the following table:
+Number of Trades 50 100 200 300 500 Margin of Error 14% 10% 7% 6% 4% 
+The more trades you have in your back testing, the smaller the margin of error, and the higher the probability of producing profits in the future.
+
+Principle #10: Chose a valid back testing period
+I recently saw the following ad: "Since 1994 I've taught thousands of traders worldwide a Simple and Reliable E-Mini trading methodology". 
+That's very interesting, because the e-mini S&P was introduced in September 1997, and the e-mini Nasdaq in June 1999, therefore, none of these contracts existed before 1997. What kind of e-mini trading did this vendor teach from 1994-1997???
+The same applies to your back testing: If you developed an e-mini S&P trading strategy, then you should back test it only for the past 2-4 years, because even though the contract has existed since 1997, there was practically nobody trading it (see chart below):
+Now you know how to separate the scam from good working trading systems. By applying this checklist you will easily identify trading systems that work and those that will never make it.
+
+Author’s name
+Markus Heitkoetter
+Author's Info:
+Markus Heitkoetter is a 19 year veteran of the markets and the CEO of Rockwell Trading. For more free information and tips and trick how to make consistent profits with online daytrading, visit his website www.rockwelltrading.com.
+
+

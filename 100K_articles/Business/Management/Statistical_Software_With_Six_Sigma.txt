@@ -1,0 +1,49 @@
+Title: 
+Statistical Software With Six Sigma
+
+Word Count:
+656
+
+Summary:
+Six Sigma is about numbers. Six Sigma produces a flood of data about your process that are critical to your success. If you don't measure it and understand what you are measuring, you can't manage it. Six Sigma's clear strength is a data-driven analysis and decision-making process — not someone's opinion or gut feeling. 
+
+The value of statistical analysis cannot be underestimated. Through an analysis of all of that data, you begin to understand your process and develop meth...
+
+
+Keywords:
+Six,Sigma,handling,data,cricritical,efficient,powerful,manual,calculations,time,software,Excel,
+
+
+Article Body:
+Six Sigma is about numbers. Six Sigma produces a flood of data about your process that are critical to your success. If you don't measure it and understand what you are measuring, you can't manage it. Six Sigma's clear strength is a data-driven analysis and decision-making process — not someone's opinion or gut feeling. 
+
+The value of statistical analysis cannot be underestimated. Through an analysis of all of that data, you begin to understand your process and develop methodologies to identify and implement the right solutions to improve your process. Statistical evaluation of the data identifies key areas which can have an adverse effect on product quality if not controlled. Once you have identified these key areas you can focus your process improvement efforts 
+
+Given the importance of intelligently handling all of this data, you need to find an efficient and powerful method of crunching the numbers. Naturally, you want to avoid the drudgery of manual calculations and save a whole lot of time by using a statistical software application. You may be tempted to use Excel or another spreadsheet application as a calculator and database to store your statistical process control data. However, you will quickly find out that a basic spreadsheet is too cumbersome to handle the volume and sophistication of the data keeping and analysis you need to perform in a Six Sigma project. 
+
+Advanced statistical software such as Minitab (http://www.minitab.com/) or Statgraphics (http://statgraphics.com), are very useful if not essential for gathering, categorizing, evaluating, and analyzing the data collected throughout a Six Sigma project. Both Minitab and Statgraphics are powerful full standalone statistical process control software applications for performing statistical analysis. Both are highly recommended for Six Sigma use as they are tools that can help you utilize one of Six Sigma's biggest advantages: the ability to make better decisions based upon data. They will work with the DMAIC Define-Measure-Analyze-Improve-Control methodology and Lean Six Sigma. 
+
+Both Minitab and Statgraphics are designed to support the Six Sigma philosophy offering a range of tools for graphical analyses, collecting powerful statistics, quality analyses with potential for a range of custom designed uses. 
+
+Statistical Process Control Charts 
+Analysis of Variance and Regression Analysis 
+Design of Experiments 
+Factorial and Matrix Plots 
+Relationships between variables 
+Life Data Analysis and Reliability 
+Process Capability Analysis 
+Hypothesis Testing 
+Correlation and regression 
+Time Series Analysis and Forecasting 
+Measurement Systems Analysis 
+Regression Analysis 
+Multi-variation analysis 
+ANOVA tools and techniques 
+Six Sigma Quality Assessment 
+Both applications provide you with nearly real time statistical data, enabling you to respond quickly to prevent further defects. Statistical evaluation of the data identifies key areas to focus process improvement efforts on, which can have an adverse effect on product quality if not controlled. 
+
+However, while it is easy to purchase a statistical software application, it is harder to use it effectively. It is smart analysis of the data that create real change. All too often, Six Sigma/DMAIC teams collect and load data into Minitab or Statgraphics only to find themselves overwhelmed by the prospect of where to start and how to use their new tool to successfully analyze their data that comes up with, not just any answers, but meaningful and useful answers. As a result, Six Sigma/DMAIC projects often fall far short of the productivity expectations associated with statistical software. 
+
+Training in use of Minitab is often offered integrated with Six Sigma training. Minitab training will focus on solving practical problems with Minitab. This includes learning the practical aspects of major statistical tools like Control Charts, Capability Analysis, Regression Analysis, and ANOVA. There is a strong emphasis on learning how to get data into Minitab, learning how to manipulate data once in Minitab and learning how to display graphically major findings from the data. Proper training will teach you how to drive Minitab like a pro and thus bring greater statistical power to your Six Sigma projects.
+
+

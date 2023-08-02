@@ -1,0 +1,93 @@
+Title: 
+SEO Terms For Newbies – Part 1 Of 2
+
+Word Count:
+860
+
+Summary:
+A newbie is someone who is new to something and SEO stands for Search Engine Optimization. So if this is you, here are some terms you will be hearing and need to be familiar with.
+
+A couple of years ago, SEO did not even exist, so in some way we are all newbies. It’s just that some are more new than others.
+
+This list of terms, is by no means exhaustive but is meant as a basic introduction to the language used in SEO. At the rate new terms area appearing, by the time you ...
+
+
+Keywords:
+cooking,ingredients,flour,sugar,baking
+
+
+Article Body:
+A newbie is someone who is new to something and SEO stands for Search Engine Optimization. So if this is you, here are some terms you will be hearing and need to be familiar with.
+
+A couple of years ago, SEO did not even exist, so in some way we are all newbies. It’s just that some are more new than others.
+
+This list of terms, is by no means exhaustive but is meant as a basic introduction to the language used in SEO. At the rate new terms area appearing, by the time you have finished reading this list someone will have probably invented a new term, but at least you will have the basics. So lets get started.
+
+above the fold
+This is derived from the reference to the top part of a newspaper. Above the fold is used on the Internet to describe the top part of the page that the visitor can see without scrolling down.
+
+AdSense
+Google's contextual based ad program. Use AdSense, by placing the ads on your website and earning revenue from when visitors click on the ads.
+
+AdWords
+Google's pay per click (PPC) advertising program. Use AdWords when you want to buy advertisement to send traffic somewhere.
+
+algorithm
+Algorithms are complex sets of rules based on mathematical equations. With regard to SEO the algorithm is how the search engines rank web pages in it’s search results. Some SEOers feel that is they can figure out the algorithm, they can obtain higher search engine rankings.
+
+anchor text
+Also called link text. Is the blue underlined text on web pages that you click to go to another page or site. (Note: The link does not necessarily need to be blue or underlined but this is the traditional standard).
+
+backlink / back link
+A link on another page that links to the page you are viewing. Also known as inbound link.
+
+click through rate (CTR)
+Often used in Internet marketing to describe the percentage of users who click on a link or advertisement. IF a page has 100 visitors and 12 click on the link then the page has a CTR of 12%.
+
+cloaking
+The practice used by some web sites to send one page to a search engine for indexing while serving an entirely different page to everyone else. So what the search engine sees and what you see are two different things. It should be noted that the practice of cloaking can get your site banned from the search engines.
+
+conversion rate (CR)
+The percentage of site visitors that deliver your most wanted response (MWR). The CR is an important measure of the effectiveness of your online sales effort. If your site is selling an e-book and if 3 out of every 100 visitors buys your book then your site has a CR of 3%.
+
+CPC
+Cost per click. The total cost of an advertising campaign divided by the resulting number of unique visitors.
+
+CPM
+Cost per thousand impressions (M= Roman numeral for 1000). A pricing system often used in the banner advertising industry.
+.
+dead link
+A link to a page, that no longer exists or has been moved to a different URL. Search engine spiders regularly remove dead links.
+
+deep linking
+The practice of linking to the inner pages of another web site - as opposed to linking to the homepage.
+
+Google bomb / Google bombing
+The practice of using anchor text to make a page show up in the Search Engine Results Pages (SERPs) under keywords that are out of context for that page. It should be noted that Google is taking steps to prevent this practice.
+
+hand submission
+The practice of visiting each search engine and directory and submitting the registration form by hand as opposed to using a software program. Some systems will not accept automated submissions. Same as Manual Submission.
+
+heading tag
+A HTML tag represented by , etc, to H6. These tags denote a text size with H1 being the largest. The heading tags may have significance in SEO with search engines appearing to assign more weight to keywords within heading tags.
+
+
+hidden text
+Text on a web page that is visible to spiders but not to human visitors. The aim is to load the page with keywords without deterring from the visitor's experience. This is mostly done by making the text the some color as the background. Most search engines can now detect hidden text and consider it a form of spaming. Pages that contain hidden text are penalized or even de-listed.
+
+hit
+One hit is one request for a file on a web server. A visitor opening a page with 3images will in the process generate 4 hits.
+
+hot linking
+The practice of displaying images files, video files etc. on a web site when those files are on another (usually someone else's) server. Effectively the site displays content that uses up someone else's bandwidth. Hot linking is generally considered unethical unless prior permission is obtained.
+
+HTML
+Hypertext Markup Language is the primary language used to write web sites. Consists of tags .
+
+HTTP
+Hypertext Transfer Protocol is the most common transfer protocol used to facilitate communication between servers and browsers.
+
+With You in Technology
+Adam White
+
+

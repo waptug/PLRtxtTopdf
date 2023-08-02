@@ -1,0 +1,36 @@
+Title: 
+Ipod And Itunes - Friends Or Foes?
+
+Word Count:
+427
+
+Summary:
+Despite how user friendly iTunes is, it can nonetheless prove a real threat to the music collection stored on your iPod. Before saying anything else, rest assured that there are steps you can take to essentially eliminate this risk, but if you keep the default iTunes settings, the risk will remain.
+
+The first impression iTunes gives is that of a very simple and easy to use software to buy music online. It also servers as a library with a huge amount of music data as well as...
+
+
+Keywords:
+download music, ipod, iTunes
+
+
+Article Body:
+Despite how user friendly iTunes is, it can nonetheless prove a real threat to the music collection stored on your iPod. Before saying anything else, rest assured that there are steps you can take to essentially eliminate this risk, but if you keep the default iTunes settings, the risk will remain.
+
+The first impression iTunes gives is that of a very simple and easy to use software to buy music online. It also servers as a library with a huge amount of music data as well as the primary application through which you manage you iPod. Before that slick interface, however, lies cutting-edge encryption, authentication and digital rights management technology (DRM) that tries to make sure that what you download and play on your iPod is actually paid for!
+
+Apart from Apple's own DRM restrictions, iTunes seems to do everything in it's power to make sure you loose your music collection. Here is a list of dangerous iTunes behaviors and settings.
+
+Automation
+
+Even if you are a complete beginner using PCs or an iPod, you should never, ever allow for automatic synchronization between your iTunes' music library and the library stored on your iPod. You see, an iPod can only be tied to a single iTunes library, at least in terms of synchronization. Hence, if you connect your iPod to a friend's computer (or vice versa) and iTunes starts synchronizing the two libraries, all content on the iPod will be lost! To avoid that, go to Edit - Preferences - iPod and select Manual Synchronization.
+
+iPod is not a Backup
+
+Many people think that their iPod also acts as a back-up of their music collection. Guess again. Data transfer always happens from your computer to your iPod and not the other way around. So, in the unfortunate event that you computer's hard disk fails and you loose your iTunes library, you can't restore your tracks from an iPod.
+
+3rd Party Solutions
+
+Lucky for us, the huge user base of iPod and iTunes as well as the flexible design of the iPod's operating system have allowed for the creation of 3rd party programs that can help you better manage your iPod music library. SharePod, for example, is a very simple end easy to use application that allows you to transfer songs from your iPod to your PC (and vice versa), manage your iPod playlists, share your iPod tracks across a network and much more. Anapod explorer is a similar application that also allows you to manage photos, notes and contacts, as well as convert music tracks to different file formats.
+
+

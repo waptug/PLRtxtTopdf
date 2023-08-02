@@ -1,0 +1,28 @@
+Title: 
+Providing A Fiber Optic Light Source
+
+Word Count:
+459
+
+Summary:
+Today low loss fiber optic systems offer almost unlimited bandwidth and unique advantages over all previously developed transmission media. The basic optical transmitters convert electrical signals into modulated light for transmission over an optical fiber. The most common devices used as the light source in optical transmitters are light emitting diode. Fiber optic light source make a good use of this, as light emitting diodes have relatively large emitting areas and used f...
+
+
+Keywords:
+fiber cables,fiber optic tester,fiber optic light source,fiber cable,lc fiber,fiber patch cables
+
+
+Article Body:
+Today low loss fiber optic systems offer almost unlimited bandwidth and unique advantages over all previously developed transmission media. The basic optical transmitters convert electrical signals into modulated light for transmission over an optical fiber. The most common devices used as the light source in optical transmitters are light emitting diode. Fiber optic light source make a good use of this, as light emitting diodes have relatively large emitting areas and used for moderate distances. Fiber optic light source prove to be economical. 
+
+A fiber optic light source device is mounted on a package that enables optical fiber to couple as much light as possible into the fiber. In some cases a tiny spherical lens is also fitted to collect and focus each possible light onto the fiber. LED’s i.e. light emitting diode and light diodes operate in infrared portion of electromagnetic spectrum. Their operating wavelengths are chosen according to the need. Fiber optic light source is reliable and the most common wavelengths used by fiber optic light source today are 850 to 1300 nanometers or in some cases even 1500 nanometers. Both LED’s and LD’s (light diodes) are available in three wavelengths. 
+
+There are two methods through which light can be coupled into the fiber optic light source. One is by pig-tailing and the other is placing the fiber’s tip in very close proximity to an LED or LD. Since the only carrier in these systems is light there is no danger of electrical shock to the personnel repairing broken fibers. 
+
+Main function of fiber optic light source is to enable the light pulses move in fiber and works on the principle of total internal reflection, which states that when the angle of incidence exceeds a critical value light cannot get out of the glass instead it bounces back. The fiber optic light source works on this principle as it enables to transmit information down fiber lines in the form of light pulses.
+
+There are many kinds of sources available that act as a fiber optic light source. A fiber optic light source usually comes in a rugged splash proof case and has single switch operation. A fiber optic light source has combination source for showing on or low battery. A single battery in a fiber optic light source supplies over 40 hours of operation in case of stable temperature compensated LED with 850 nm and/or 1300 nm fiber optic light source supply. They provide 40 dB measurement ranges when used with Fiber OWL or Micro OWL. There are also laser models available in this category. 
+
+In case of 1310 nm or 1550 nm output supplies which are temperature compensated, a single battery provides over 60 hours of operation. It provides 50 dB measurement range when used with Fiber OWL or Micro OWL.
+
+

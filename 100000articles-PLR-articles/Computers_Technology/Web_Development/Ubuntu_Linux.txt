@@ -1,0 +1,28 @@
+Title: 
+Ubuntu Linux
+
+Word Count:
+372
+
+Summary:
+Ubuntu is a Linux distribution operating system software, meaning that it runs using Linux applications, kernels and libraries. Ubuntu is developed and sponsored by Canonical, Ltd., a South African company that is founded and funded by Mark Shuttleworth.
+
+The underlying focus of Ubuntu is mostly on the usability of the software and the freedom of software from existing restrictions. Ubuntu derives its name from an African term meaning “humanity to others.” Given this, Ubunt...
+
+
+Keywords:
+ubundu,linux
+
+
+Article Body:
+Ubuntu is a Linux distribution operating system software, meaning that it runs using Linux applications, kernels and libraries. Ubuntu is developed and sponsored by Canonical, Ltd., a South African company that is founded and funded by Mark Shuttleworth.
+
+The underlying focus of Ubuntu is mostly on the usability of the software and the freedom of software from existing restrictions. Ubuntu derives its name from an African term meaning “humanity to others.” Given this, Ubuntu is based on the principle that software should be made available to everyone, that they are tools that people can use regardless of the language they speak and whether or not they have disabilities, and that software should be customizable according to the needs of their users. Most of all, Ubuntu is developed based on the idea that software should be free, and should be used freely, without any cost.
+
+The core applications of Ubuntu are available for free, and they can be downloaded from the Ubuntu website, which is http://www.ubuntu.com. The CD that contains these core applications can also be ordered and shipped anywhere in the world free of charge. Aside from these core applications, Ubuntu also has around 16,000 programs to suit the needs of its users. It is also available for both desktop and server use.
+
+The desktop package of Ubuntu is complete and has features that make both working and playing viable through the use of this operating system. For word processing, spreadsheet and database creation, and other functions covered by Microsoft Office, Ubuntu has OpenOffice.org. Ubuntu also carries Mozilla Firefox in its package, which allows for tabbed browsing, has strong pop-up blocking and is well-known for its relative invulnerability to malware. Ubuntu’s counterpart for Microsoft Outlook is Evolution, which similarly acts as an email client, an address book and a schedule manager. Ubuntu’s answers to Microsoft’s Windows Media Player are Rhythmbox Media Player for audio files and Totem for videos.
+
+Another feature of Ubuntu that makes it attractive is the high level of customization it makes possible for its users. Ubuntu also supports 40 languages; it also has the Rosetta translation tool, which allows a user to create a dictionary and translator for his or her own language.
+
+

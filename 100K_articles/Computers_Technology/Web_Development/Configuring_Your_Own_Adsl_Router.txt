@@ -1,0 +1,40 @@
+Title: 
+Configuring Your Own Adsl Router
+
+Word Count:
+512
+
+Summary:
+Configuring an ASDL router with a local area network is no longer the exclusive domain of computer savvy network administrators and technicians. Routers are becoming increasingly easier to set up according to anyone’s specific needs. Many of these network devices offer an online feature that allows the user to do the configuring in a graphical interface setting after logging in.
+
+The various brands of ADSL routers differ in software design and in the options they offer. The...
+
+
+Keywords:
+adsl router, cisco adsl router , adsl linksys router
+
+
+Article Body:
+Configuring an ASDL router with a local area network is no longer the exclusive domain of computer savvy network administrators and technicians. Routers are becoming increasingly easier to set up according to anyone’s specific needs. Many of these network devices offer an online feature that allows the user to do the configuring in a graphical interface setting after logging in.
+
+The various brands of ADSL routers differ in software design and in the options they offer. The procedures I've sketched here are based on the Netgear routers with which I have been long familiar, and whose configuration interfaces I consider to be among the user friendliest.  
+
+Actually the settings to configure in all ASDL routers are alike. They just differ in the way they are explained or defined. It is best to consult your router’s manual or Web site to ascertain exactly how you are to go about working out the configuration for your particular model. 
+
+Port forwarding, local area network (LAN) set up, and Web site restriction are among the common requirements of router configuration. I am limiting the scope of the discussion in this article to port forwarding. We won’t be talking about setting up the other features of your ADSL router until later.
+ 
+Forwarding your port is the same as saying you are opening them up to use specific programs. There are programs that require an open port in order to function. Oftentimes, an ADSL router will close some ports. These need to be manuall opened. An example of a program requiring a specific port to be forwarded is one that makes file sharing possible. 
+
+You’ll need to know which ports ought to be opened. Type the program name followed by "port forward" into a Google search box to get information as to which port numbers to open, and then note each port number down. Next, log into your ADSL router’s configuration section with the username and password that was provided by the vendor.  A port forwarding configuration page will appear after you click the Port Forwarding link.
+ 
+Netgear router users will have to click Add Custom Service, and then key in the Service Name (which is the program name), followed by the starting and ending port numbers that had been jotted down earlier.
+
+Some programs call for the opening of a set of ports, some only need one. If you have only one number written down, type in the number into both number fields.
+
+Your server’s IP (Internet protocol) address should be the same as your Internet IP address, not your local network IP address. The WhatIsMyIp.com Web site makes it easy to know just what that set of numbers is. It will display the numbers on your computer screen. Type the numbers into the IP address field.
+
+By clicking Add and then Apply, you complete the process of configuring the router to open the ports necessary for your favorite programs to operate.
+
+So there you have it. You’re done with configuring your ADSL router in no time at all.
+
+

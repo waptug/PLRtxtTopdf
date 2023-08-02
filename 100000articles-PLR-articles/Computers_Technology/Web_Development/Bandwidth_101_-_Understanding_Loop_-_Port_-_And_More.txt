@@ -1,0 +1,48 @@
+Title: 
+Bandwidth 101 - Understanding Loop - Port - And More
+
+Word Count:
+537
+
+Summary:
+Here's the scenario....you're in need of increased bandwidth to meet your business voice and/or data applications. You're targeting T1 or DS3 as your solution...without a router (let's say you already have one or will get one seperate from the bandwidth provider).
+
+Before you go out and jump at the first "attractive" business bandwidth offer you see.....there's a few things you need to understand. Particularly the terms Loop and Port....as well as "dedicated" and "shared" c...
+
+
+Keywords:
+Bandwidth, Loop, Port, Business Data, T1, DS3, Dedicated Connection, Data Network, Internet Backbone
+
+
+Article Body:
+Here's the scenario....you're in need of increased bandwidth to meet your business voice and/or data applications. You're targeting T1 or DS3 as your solution...without a router (let's say you already have one or will get one seperate from the bandwidth provider).
+
+Before you go out and jump at the first "attractive" business bandwidth offer you see.....there's a few things you need to understand. Particularly the terms Loop and Port....as well as "dedicated" and "shared" connections. Otherwise....you risk paying more for something you don't really need. Or worse yet....paying less for something that doesn't do what you must have.
+
+So here we go....now pay attention and take notes.
+
+Loop is the connection from your building to the provider's interface point, which is usually the main central office for your region, not necessarily the local central office.
+
+Port is the actual connection to the internet backbone.
+
+If your equipment was in the provider's data center, you would not need loop, but there will always be a port.
+
+If your price quotes vary wildly, most likely you are running up against the "shared" vs "dedicated" issue. a "dedicated" connection (usually quoted by Tier I providers like AT&T, MCI, Sprint, Qwest, Savvis) will get you the full bandwidth to the internet backbone. A "shared" connection will get you full bandwidth to the carrier's interface point, from which they buy a big connection to their Tier I carrier.
+
+An example, they buy a T3 (aka DS3) which consists of 28 T1 connections. Then they sell 60 T1 connections, recognizing that not all users will be requiring their full bandwidth at any particular time. Kind of like the old AOL issues of them having 1 modem for every 12 customers, and then having to buy more modems as customers complained about busy signals.
+
+The issue of "shared" connections is a lively issue. You might trek over to the http://BroadbandReports.com forum for Wireless Internet Providers where you will see several discussions about how many customers can be supported by a link of a certain size.
+
+If you are hosting a web site at your location, or if you are running a real time application and need absolute time sensitive responses to your internet queries, then you want to pony up to pay for the dedicated connection.
+
+Another issue affecting your price would be how long is the loop from your central office to the carrier's interface point. Assuming that you're in Rancho Santa Fe CA (for example), a carrier requiring a loop all the way to Los Angeles would have a higher cost (and thus a higher price), than a carrier with an interface point in San Diego.
+
+As for any questions about IP addresses, and e-mails:
+
+Most Tier 1 providers will give you up to a class C (256) Block at no charge with justification. Plenty of IP address coverage for whatever your application.
+
+Email, is almost a none issue with T1 service, as most people buying a T1 don't need ISP Email's. But if you do need them, find the best offer. However most providers consider email a free service.
+
+There you go. Now you're armed with a priceless education. That should translate to smart price shopping.
+
+

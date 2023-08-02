@@ -1,0 +1,33 @@
+Title: 
+Cisco CCNP Certification / BSCI Exam Tutorial:  Route Summarization Basics
+
+Word Count:
+373
+
+Summary:
+To pass the BSCI exam and earn your CCNP certification, you’ve got to master the basics of route summarization.  Learn how to do just that in this article from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccnp, ccna, exam, pass, free, certification, route, summarization, rip, igrp, eigrp, ospf
+
+
+Article Body:
+As you earn your CCNA and CCNP certification, you're going to have to get comfortable with manually summarizing routes.  This isn't just another reason to learn binary math (although it's a good one!), but summarizing routes is a true real-world skill that can help your network operate more efficiently.   So the question isn't just how to summarize routes, it's why.  
+
+When you summarize routes in RIP, IGRP, EIGRP, or OSPF, you're replacing a series of routes with a summary route and mask.  With RIP, IGRP, and EIGRP, this actually lessens the size of the routing update packet itself - multiple routes are replaced with the summary route.  For instance, the routes 8.0.0.0/8, 9.0.0.0/8, 10.0.0.0/8, and 11.0.0.0/8 can be summarized as 8.0.0.0 252.0.0.0.  Only the summary address will be found in the update packet, making it concise yet complete.
+
+Summarizing routes can also make the routing table smaller, yet still allow for complete IP connectivity when done correctly. Using the above example, the four more-specific routes will be replaced by a single summary route.  Since the entire routing table is parsed before the routing process is complete, keeping the routing table as small as possible does help speed the routing process as a whole.
+
+To prepare for success on your CCNA and CCNP exam, you've got to know how to summarize routes as well as the specific commands for doing so with OSPF, EIGRP, RIP, and IGRP - but knowing why to summarize routes is just as important as knowing how!  Here are some additional tips on route summarization.
+
+With RIP version 2 and EIGRP, manual route summarization is configured on the interface that will be advertising the summary.  This is done with the route summarization command "ip summary-address."
+
+RIP version 2 and EIGRP also both perform autosummarization on routes that are advertised across classful network boundaries.  This is disabled with the protocol-level command "no auto-summary".
+
+
+OSPF offers two different route summarization commands. To summarize routes from one OSPF area to another, use the "area range" command; to summarize routes learned via redistribution, use the "summary-address" command on the ASBR.
+
+With proper planning and an understanding of binary math, you'll master route summarization quickly with some practice - and you'll be ready for success on real-world networks as well as the CCNA and CCNP exams!
+
+

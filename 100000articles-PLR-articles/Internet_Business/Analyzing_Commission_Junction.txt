@@ -1,0 +1,64 @@
+Title: 
+Analyzing Commission Junction
+
+Word Count:
+889
+
+Summary:
+Commission Junction is one of the 800 pound gorillas of Affiliate Marketing. CJ is part of the publicly held ValueClick, which earned $39 million last year on marketing programs, including affiliate programs, email marketing and software for advertising agencies.
+
+CJ handles affiliate programs for a lot of the big names, including Home Depot, Yahoo and Citibank.
+
+Can you make money with Commission Junction? Like most affiliate programs it depend on the theme or niche of y...
+
+
+Keywords:
+
+
+
+Article Body:
+Commission Junction is one of the 800 pound gorillas of Affiliate Marketing. CJ is part of the publicly held ValueClick, which earned $39 million last year on marketing programs, including affiliate programs, email marketing and software for advertising agencies.
+
+CJ handles affiliate programs for a lot of the big names, including Home Depot, Yahoo and Citibank.
+
+Can you make money with Commission Junction? Like most affiliate programs it depend on the theme or niche of your web site, and how well you match your content and the CJ programs.
+
+Our spider ran through the site recently, and I’ve made a list of the major categories and their average Earnings Per Click (EPC). You will recall that EPC is calculated by taking the total commission payout for the advertiser and dividing it by the number of clicks that advertiser gets, so EPC measures how profitable each click is for the publisher. We used 7 day EPC, which measures EPC across the last seven days.
+
+The spider also only saves the top ten advertisers in each category/subcategory, and since some advertisers are in more than one category/subcategory it tends to skew the results a bit (higher). We came up with an average of .56 (fifty-six cents) per click across the board averaging every category and subcategory. 
+
+We’ve created a metric we call True EPC or TEPC, which measures the actual Earnings Per Single Click, rather than the earnings per hundred clicks that companies like CJ use to make the numbers look bigger.
+
+Note: I only included the first 5 categories here, and only part of the data. All of the data can be found at www.affiliateblog.com.
+
+Here’s a very interesting list by category:
+
+Category True EPC / Top Ad & TEPC 
+ 
+Financial Services $ 2.41 / Get Smart $ 32.98 
+Insurance $ 1.25 / American Life $ 2.98 
+Home & Garden $ 1.16 / Sunsetter $ 8.21 
+Web Services $ 1.13 / Yahoo Hosting $ 3.75 
+Computer & Electronics $ 0.87 
+Accessories $ 0.80 
+Health & Beauty $ 0.76 
+
+What does it all mean? Well, to me it means that if you have a website that gets visitors interested in Loans, Insurance, Sunsetter awnings or Yahoo hosting, you should be a member of Commission Junction.
+
+More generally, if you think you can get decent clickthrough on Finance, Home & Garden, Insurance or Web Services, I would include some Commission Junction ads. 
+
+Some commentary on the top 4 ads: what strikes me right off the bat is that the little Yahoo text ad at #4 pulls almost four bucks. I actually signed up for that program myself, and I’m going to put it on this site when I get the chance. My calculations tell me that 1:5 to 1:7 clicks results in a signup.
+
+What’s the flip side of all this data? There are categories that aren’t so great at CJ. If your site is about web services advice, handbags, new age, car travel or rentals, commercial insurance or weddings, I’d look elsewhere. Another way to interpret the data would be to say that the marketers CJ has for those categories don’t pull well. Still another would be that the type of sites that sign with CJ just don’t attract the type of people that would click on ads in those categories. No matter how you slice it it still comes out the same — it seems like CJ isn’t the place to look to fill that ad space.
+
+Not content with my mountain of data, I opened the firehose a little more. I ran a program that compared the average EPC for Pay-per-sale programs vs. Pay-Per-Lead programs. For per-sale, the EPC was .36. For per-lead it was .67. Intutitively I would say that advertisers pay more for sales than leads, so the clickthrough on leads has to be much higher on CJ, which also seems correct since less of a commitment is required from the visitor for a lead than a sale. So if you have a choice in programs between sale and lead, take the lead program.
+
+So what did we learn here? It seems to me that if your site visitors would respond to banners or text links about mortgage financing, insurance, gardening or web services, add some CJ banners to the mix. What the heck, add them anyway if you have room, because experimentation is important to success in affiliate marketing. If you have a site with content that fits those categories or is a general interest or entertainment site, there are many good programs to choose from at CJ.
+
+Lastly, I did a quick comparison of the average Adsense payout (using 80% of the average of keyword bids for different categories), and Adsense comes out a better EPC about a quarter of the time. So check Adsense first before you put up a CJ ad that has an EPC of a dollar or more. A big banner ad vs. an Adsense ad may seem like a good idea because more exposure may translate into more clicks, but you can fit three Adsense text ads in that banner space.
+
+There are many hidden insights in the data, and I encourage you to go to the website, print out the page and take a look. There might be some terrific-paying programs you can ad to your website.
+
+I’d like to put together a free weekly email service that provides stats like the ones on this page. If this is something you might be interested in, drop me a line.
+
+

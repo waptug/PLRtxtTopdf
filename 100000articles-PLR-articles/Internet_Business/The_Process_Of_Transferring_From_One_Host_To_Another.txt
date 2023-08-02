@@ -1,0 +1,55 @@
+Title: 
+The Process Of Transferring From One Host To Another
+
+Word Count:
+888
+
+Summary:
+The idea of transferring from one host to another can be a little intimidating. You may not be happy with your current host, but you do not want to interrupt your website’s activity. There are effective ways to transfer to another host; you just need to know what you should do ahead of time.
+
+If you are considering leaving your current host you probably have issues you are not happy with. Look for a host that can eliminate these issues, give your website all the features it...
+
+
+Keywords:
+transferring web hosts, moving hosting, web hosting directory
+
+
+Article Body:
+The idea of transferring from one host to another can be a little intimidating. You may not be happy with your current host, but you do not want to interrupt your website’s activity. There are effective ways to transfer to another host; you just need to know what you should do ahead of time.
+
+If you are considering leaving your current host you probably have issues you are not happy with. Look for a host that can eliminate these issues, give your website all the features it needs, and evaluate as much as possible so you can stay with the new host for the long-term. Some things you may want to consider when choosing a host are:
+
+• The web host’s terms and conditions
+• Do they require a long-term contract or can you cancel at anytime?
+• How accessible is the customer service department?
+• Are you locked into the current price?
+• Do they want full payment in advance? If you are unhappy will you be refunded?
+• Email service(s).
+
+Once you have found a web host you feel you will be happy with, you need to sign-up for a new account. Before you go any farther with the new host, you need to back up or upload all of the files and databases from your current site. You can use an FTP utility to download all the files from the current host to your computer. Dreamweaver users can use the “Get” command to copy all of their files. Another thing you could do is to store a local copy in your computer. Whether it is PHP or another format you can always up-load the info later if there was a mishap. You can save the HTML information by viewing your source page, which opens up in Notepad. Just go to “File” and then save that page (make sure your file names match up with the current names for each web page).
+
+
+Upload or Transfer Files to the New Web Host
+
+Now you can upload all the files to the new server or web host. If you saved the HTML information from your source page you may be able to just enter the information and be done. You need to test the site to make sure the new IP address is working and make possible adjustments to coding (depending on the server situation). Although it may be a tedious job, you need to check every page, every link, every image, and the formatting on your website.
+
+
+Your New Email Server
+
+You will need to re-create all email accounts you currently have in use. You can create –auto-responders and aliases and/or forward emails at the same time. Your new email address(es) will not work until the transfer of your domain is completed. Therefore you cannot test your new email until the transfer is completed. This may make a few business owners nervous, but you can always set up an auto-responder on your old server and the new server. By doing this, your customers will receive an email explaining the situation during and after the transfer. Another idea is to start the transfer process on a Friday, a weekend, or over a holiday if possible. Choose a time when the traffic on your site will be slow.
+
+
+Domain Name Server (DNS) Transfer
+
+Next, you need to transfer your domain name. You can contact the domain name registrar, which is where you registered the domain name. You need to change the Domain Name Server (DNS) to your new web host’s DNS information. When you set up your new server first and then update your DNS second, you will experience zero downtime. The idea is to move from your old server to the new server that is already set up and functioning which allows your site to appear as if it never moved at all.
+
+Transferring the DNS is a critical part of transferring to another web host. If you move your site your website’s IP address changes. The DNS servers route traffic to your site with the website’s current IP address, not the domain name. If you transfer to another web host without changing the DNS information people will not be able to find your website. The new web host’s DNS information will let all of the DNS servers know your website’s new IP address and customers will then be able to find your site. This process will take 24-72 hours to complete.
+
+
+Additional Tips
+
+Leave your old web hosting account open for at least a couple of weeks and if possible an entire month. This will help you make sure you are receiving all your emails that may be switched around during the transfer and it will be a backup if there are problems with the DNS servers. Once things are working smoothly and reliably you can cancel the old web host.
+
+Some domain registrars will confirm a web hosting change by sending an email to the address you used when your registered the domain name. This email will require a reply and the transfer will not take place if you do not reply. This email is for your website’s security; the registrar needs to make sure that it is really “you” asking for the transfer and not someone trying to hijack your site.
+
+

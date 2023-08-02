@@ -1,0 +1,28 @@
+Title: 
+Cisco CCNA / CCNP Home Lab Tutorial:  The 2503 Router
+
+Word Count:
+307
+
+Summary:
+The 2503 router can be an important part of your CCNA / CCNP home lab.  Learn how from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+ccna, ccnp, home, lab, router, switch, best, 2503, serial, ethernet, bri, interface, cisco, exam
+
+
+Article Body:
+I know from experience that part of the excitement and anxiety of putting together your own CCNA / CCNP home lab is deciding what to buy! While you can make a workable home lab out of almost any combination of Cisco routers and switches, some routers are better suited for home lab work than others because they can fill multiple roles.
+
+When you buy CCNA or CCNP "lab kits" - bundles of routers and switches - you can get a little confused about whether you're getting a good deal.  One router I get asked about quite a bit is the 2503.
+
+2503 routers are fantastic for CCNA and CCNP home labs.  They come with two serial interfaces, allowing you to connect one interface directly to another router (you'll need a DTE/DCE cable for that, too) while connecting another to a frame relay switch if you like.  If you don't have a frame relay switch, you can connect a 2503 directly to two other routers via the serial interfaces.
+
+You also have an AUI port, which requires a transceiver to operate as your Ethernet interface. Transceivers are pretty cheap and readily available from Cisco resellers and ebay vendors, so pick one up for each 2503 you decide to buy.
+
+2503 routers also come with a BRI interface.  Even though you may not have an ISDN simulator right now, you may choose to add one later.   That makes a 2503 a great bet for future lab expansion.
+
+All in all, 2503 routers are great for your CCNA / CCNP home lab.  They run about $125 each on ebay, or less, so they're also very affordable.  There's no better training than training on your own CCNA or CCNP home lab, and you can always sell the equipment later if you like.  Basically, you're renting the routers and switches, and the experience you get by working with the real deal is invaluable.
+
+

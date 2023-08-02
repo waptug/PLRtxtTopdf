@@ -1,0 +1,43 @@
+Title: 
+Use of intranets / extranets for HIPAA compliance
+
+Word Count:
+217
+
+Summary:
+Intranets and extranets are now available that meet the rigorous security requirements of the healthcare industry.
+
+
+Keywords:
+HIPAA,compliance,intranets,extranets,intranet,extranet
+
+
+Article Body:
+Collaboration among healthcare professionals, particularly in circumstances that require the sharing of confidential patient information, requires an intranet or extranet that offers enhanced security features.
+
+The Health Insurance Portability and Accountability Act (HIPAA) has three major requirements:
+
+•	Protect the privacy of individual health information
+•	Provide the necessary security to protect the privacy of individual health information
+•	Provide standardization of electronic data interchange in health care transactions
+
+Addressing this need, intranets and extranets are now available that meet these security requirements. As you consider the implementation of an intranet or extranet, look for the following security features:
+
+•	Secure web server with 128bit SSL encryption
+•	Server monitoring
+•	Secure IDs and passwords
+•	Defined authority levels 
+•	Viewing permission controls
+•	Session time out after 30 minutes 
+•	The ability to disable user-specific cookies, 
+•	The ability of users to change their own password, 
+•	The ability to create strong passwords.
+•	Complete, un-editable activity log for security audits
+
+Choosing a web-based solution
+
+To speed the implementation of an intranet or extranet with these features, an increasingly popular approach is to use an Application Service Provider (ASP).
+
+In addition to providing an immediate solution that has the appropriate security features in-place, the advantages of a web-based ASP include a lower cost of entry, a proven track-record of performance and no need to install intranet software or extranet software.
+
+

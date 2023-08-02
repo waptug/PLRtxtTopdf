@@ -1,0 +1,18 @@
+What is Web Hosting?
+
+
+A web hosting service provides a service that allows individuals and businesses to post web pages to the internet. A web hosting service provider sells or for free (with advertisements on the web page) is a business that provides the servers and technologies to view web-sites on the internet.
+
+Web hosting services are services that customers can utilize after they have purchased monthly dial up or broadband services that allow them access to the internet. Web hosting services use hosting and client architecture to load content to the server so web pages and information can be viewed on the internet in its original HTML format.
+
+A web hosting company will offer clients access to a server that will provide the clients’ content to individuals on the World Wide Web after they make a URL or domain name request. To view pages on the web, you must have a web browser, such as Microsoft Internet Explorer or Netscape Navigator to request the web page from the server after you have purchased internet access.
+
+Web sites are pages that are stored on a computer called a server. The server is a part of a network of computers on the internet or World Wide Web that allows users of the internet to reach your site anywhere in the world at anytime. The internet is open 24 hours, seven days a week around the clock.
+
+Host computers are configured so that when your URL or domain name is typed in, the address will use a pointer routine (look for the address from terminal to terminal) until it reaches the computer that hosts your web-site. Then, if all is okay, your web site should display itself on the users screen.
+
+Hosting companies require that you buy your URL or domain name first before you purchase hosting services. Most hosting companies have a package that will allow you to buy the domain name and hosting at the same time.
+
+
+
+

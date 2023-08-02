@@ -1,0 +1,54 @@
+Title: 
+Getting the Best Value on a Monitor
+
+Word Count:
+618
+
+Summary:
+This is a brief article on the different types of computer
+monitors and different monitor specifications to look at when buying a monitor.
+
+
+Keywords:
+Computer, Monitor, LCD, CRT, Value
+
+
+Article Body:
+Getting the Best Value on a Monitor.
+
+A computer monitor, or simply a monitor, is the screen on which you view things from your computer. As you are reading this, you’re probably reading it on a monitor - either on your laptop, your desktop, or even a mobile phone or PDA. In any case, the monitor has a very important job. A good monitor should see you through several computer upgrades, so it is important to choose a good one.
+
+There are several types of monitor - cathode ray tube (or CRT) and Liquid Crystal Display (or LCD). 
+
+CRT.
+
+CRT monitors work by an electron gun shooting electrons down the CRT to the screen, where the electrons cause the phosphor coating lining the screen to glow. On the coating there are dots, one of each colour (red, green and yellow) - each dot is called a pixel. 
+
+CRT monitors are large and bulky but cheap. They generally need slightly more room than their screen size, so a 17" monitor will need 18-19 inches deep (size is measured diagonally).
+
+They are not as common these days, with the more advanced LCD monitors becoming the choice for people updating their systems. 
+
+LCD.
+
+LCD works by blocking light - specifically, they are made of two pieces of polarised glass, with a liquid crystal material between them. A light is passed through the first piece of glass, and at the same time, electrical currents cause the molecules of liquid crystal to align, allowing varying levels of light to pass through to the second substrate, creating the colours and images that you see.
+
+Thin Film Transistor LCD (or TFT-LCD) is a type of LCD that works by arranging tiny transistors and capacitors in a matrix on the glass of the display. To turn on particular pixel, the proper row is switched on, and then a charge is sent down the correct column. Since all of the other rows that the column intersects are turned off, only the capacitor at the designated pixel receives a charge. The capacitor is able to hold the charge until the next refresh cycle. 
+
+Generally speaking, no matter how big a screen on a LCD monitor, they are usually only an inch or two deep. However, the angle at which the monitor is positioned can make it difficult to view due to fading.
+
+Other things to consider are:
+· The refresh rate, as it can help reduce eye strain - at least 60 Hz is recommended, 75Hz is ideal. This does not apply to LCD screens, as they turn each pixel off individually.
+
+· Resolution is the amount of pixels on a screen, and together with refresh rate they decide picture quality. See what the highest resolution is at 85Hz to give you an idea of how good the picture will be. Something to note is that when resolution increases, the writing on a screen will decrease. LCD monitors only display well at the resolution at which they were designed - this is called the native resolution. 
+
+· Dot pitch is the distance between adjacent pixels - around 0.26 for a 17" monitor is good. 
+
+· Controlling the picture quality is essential - check to see how easy they are to use, so you know how to adjust contrast, brightness and alignment.
+
+· Warranty - how long is it and do they offer an extended warranty?
+
+· "Dead Pixel Policy" - what do they allow for? Look carefully before you decide to buy a monitor. You don’t want to be stuck with a monitor full of dead pixels that disturb your viewing on the monitor.
+
+Knowing what you want is only half the battle of getting a good bargain on a monitor - knowing what’s what so you can go in well-armed with knowledge is the other half.
+
+

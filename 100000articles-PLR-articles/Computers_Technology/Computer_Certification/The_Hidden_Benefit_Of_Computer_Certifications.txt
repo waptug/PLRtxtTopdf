@@ -1,0 +1,66 @@
+Title: 
+The Hidden Benefit Of Computer Certifications
+
+Word Count:
+467
+
+Summary:
+Computer certifications can lead to a better career and more money - but they also have a hidden benefit.  Chris Bryant, CCIE #12933, fills you in!
+
+
+Keywords:
+ccna, ccnp, free, pass, exam, cisco, certification, computer, mcse, ccie, chris, bryant
+
+
+Article Body:
+The web is covered with stories regarding the benefits of professional computer certification, and most of them are backed up with salary surveys and the like.  While there’s certainly nothing wrong with making more money and having better job prospects, there’s one benefit of certification that many candidates forget about.
+
+ 
+
+Confidence.
+
+ 
+
+You can’t pay your rent with confidence you can’t pay for gas with confidence you can’t pay for ANYTHING with confidence, right?  So who cares, right?
+
+ 
+
+Wrong.  The confidence you build from truly earning a certification, whether it’s an MCSE, CCNA, or CCIE, cannot be purchased, borrowed, or stolen.  It has to be earned.
+
+ 
+
+What do I mean by “truly earned”?  First, I’m referring to those little documents out there generally referred to as “braindumps”.   If you buy one of these things and happen to skate by a certification exam, did you learn anything?  No.  Did you learn anything?  No.  Are you going to be effective on the job?  No.  As I tell my students, when you’re standing in front of a server or router that isn’t working, and all eyes are on you to troubleshoot the problem, the correct answer is not “B”.  There is no multiple choice.
+
+ 
+
+Secondly, I’m referring to the hope that the certification you earn was earned by taking a demanding exam.
+
+ 
+
+Now, you’re probably thinking “okay, Chris has lost his mind.  I should HOPE the test is demanding?”
+
+ 
+
+Yes, you should.  There’s nothing more useless than earning a certification that’s easy to get.  There’s no feeling of pride, of achievement furthermore, if everyone else has that certification, what value does it have?
+
+ 
+
+I can speak from experience on this one.  Those of you relatively new to the field may never have used NT 4.0, but the MCSE NT 4.0 was the certification that ended up causing a lot of damage to the value of professional certifications.  EVERYBODY had one.  The tests were repetitive and far too simple, there were no simulation questions, and the exams required no real hands-on experience.
+
+ 
+
+As a result, my MCSE NT 4.0 had little value.  I also felt no sense of pride in achieving it.
+
+ 
+
+Thankfully, exam vendors and authors seem to have learned their lesson.  Cisco exams are not easy to pass, and the initial Cisco certification, the CCNA, demands hands-on knowledge and experience.   Microsoft is (finally) adding simulator questions to their certification exams as well, and the MCSE exams have gotten tougher as well.
+
+ 
+
+So if you should happen to fail an exam along the way to the top – and almost all of us do – just keep in mind that if the exams were not demanding, they would have no value. 
+
+ 
+
+After all, if it were easy, everyone would be doing it!
+
+

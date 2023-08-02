@@ -1,0 +1,36 @@
+Title: 
+4. Learn How You can Make Gains from Using the Forex trading Grid Technique
+
+Word Count:
+596
+
+Summary:
+In this forth article in the series you can learn how to make money trading the no stop, hedged Forex trading system by having a buy and a sell active at each grid trading level. A mathematical calculation is shown of the basic 100% retracement formation.
+
+
+Keywords:
+Forex Trading, Hedged Trading, Hedged Forex Trading, Hedged Grid Trading, Trading Strategies, Mathematical trading method
+
+
+Article Body:
+The most important part of how to make money using the no stop, hedged, Forex trading strategy will now be covered. In the preceding articles in this series we reviewed trading without stops, not being concerned about which way the price moves and places to cash in on profitable transactions. We are now going to show how you would make money buying and selling simultaneously using the grid strategy.
+
+The no stop, hedged currency trading grid system uses the rule that one should be able to close a transaction at a gain no matter which way the market moves. The only way this is logically possible is that one would have a buy and a sell transaction active simultaneously. Most traders will say that doing this is not recommended but let’s look at this in more detail. 
+
+Assuming a grid with grid gaps of 100 pips. We are going to use the simplest formation to show the principles involved. This formation is the 100% retractment formation where the price goes up to a grid level and then returns back to the starting grid level. Regrettably things become quite mathematical from here. We are also ignoring broker spreads to keep things simple. 
+
+Let us say that a trader enters the market with a buy (buy 1) and sell (sell 1) deal active when a currency is at a level of say 1.0100. The price then goes to level 1.0200. The buy will then be positive by 100 pips. The sell will be negative by 100 pips. Now we would cash in our positive deal and bank our 100 pips. The sell is now however is carrying a loss of -100 pips. The grid system requires one to ensure that the trader can cash in on any movement in the Forex market. To do this one would again enter into a buy (buy 2) and a sell (sell 2) deal at this level (level 1.0200). 
+
+Now, for convenience let us say that the price moves back to level 1.0100 (the starting point). 
+
+The second sell (sell 2) has now gone positive by 100 pips and the second buy (buy 2) is making a loss of -100 pips. According to the grid trading rules you would cash the sell (sell 2) in and another 100 pips will be added to your account. That brings the grand total cashed in at this point to 200 pips (buy 1 and sell 2). At this stage the first sell that is active has moved from level 1.0200 where it was -100 to level 1.0100 where it is now breaking even. 
+
+The 4 transactions added together now  incredibly show a gain:- 1st buy (buy 1) cashed in +100, 2nd sell (sell 2) cashed in +100, 1st sell (sell 1) now breaking even and the 2nd buy (buy 2) is -100. This gives an overall a gain of 100 pips in total. We can liquidate all the deals and have some champagne as we have made a profit of 100 pips.
+
+Please make sure you understand the mathematics behind the activities discussed above. You may have to reread and draw the movements on a piece of paper to make sure you understand the concept. 
+
+This formation is the 100% retracement formation where the price goes up to a grid level and then returns back to the starting grid level and results in a nice profit for the forex trader. There are many other market movements that turn this strange Buy and Sell at the same time activity into profits. The next article will cover the 50% retractment formation which produces the same amount of profit.
+
+There will be much more on the no stop, hedged grid trading system in future articles in this directory. Do not miss them, whatever you do.
+
+

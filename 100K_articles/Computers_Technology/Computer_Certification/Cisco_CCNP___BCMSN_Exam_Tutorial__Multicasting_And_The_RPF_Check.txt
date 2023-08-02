@@ -1,0 +1,30 @@
+Title: 
+Cisco CCNP / BCMSN Exam Tutorial: Multicasting And The RPF Check
+
+Word Count:
+318
+
+Summary:
+Multicasting's confusing at first, but for your CCNP and CCIE studies, you must master the details.  Learn about the RPF Check from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+cisco, ccnp, bcmsn, multicasting, rpf, check, reverse, path, forwarding, pass, exam, free, tutorial
+
+
+Article Body:
+Multicasting is a vital topic on your BCMSN, CCNP, and CCIE exams, and it can also be very confusing when you first start studying it.   Multicasting uses concepts that are unlike anything you've run into in your routing protocol studies, and that can throw you at first.  I speak from experience that multicasting is like any other Cisco technology - learn the basics, master the fundamentals, and then build your skills on that foundation.  
+
+One such fundamental is the RPF Check, or Reverse Path Forwarding Check.
+
+A fundamental difference between unicasting and multicasting is that a unicast is routed by sending it toward the destination, while a multicast is routed by sending it away from its source.
+
+"toward the destination" and "away from its source" sound like the same thing, but they're not.  A unicast is going to follow a single path from source to destination.  The only factor the routers care about is the destination IP address - the source IP address isn't a factor.
+
+With multicast routing, the destination is a multicast IP group address.  It's the multicast router's job to decide which paths will lead back to the source (upstream) and which paths are downstream from the source.  Reverse Path Forwarding refers to the router's behavior of sending multicast packets away from the source rather than toward a specific destination.
+
+The RPF Check is run against any incoming multicast packet.  The multicast router examines the interface that the packet arrived on.  If the packet comes in on an upstream interface - that is, an interface found on the reverse path that leads back to the source - the packet passes the check and will be forwarded.  If the packet comes in on any other interface, the packet is dropped.
+
+The RPF Check serves to verify the integrity of your multicasting network, and also serves as a reminder that the basic operation of multicasting is a lot different than unicasting!
+
+

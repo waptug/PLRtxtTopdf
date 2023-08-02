@@ -1,0 +1,58 @@
+Title: 
+Aim Your Sights at Your Customers' Downstream Success
+
+Word Count:
+955
+
+Summary:
+The way we approach projects can profoundly influence our customers' success. Often, we think primarily about what our customers asked for, even if it's not the best fit for their needs. Although it's commendable to listen to our customers’ wants, it's also possible to generate an incomplete or incompatible result based on superficial information. Here are three ways to turn "20:20 hindsight" into "20:20 foresight" in this regard.
+
+
+Keywords:
+Project, projects, project planning, customer satisfaction, pleasing customers, interviewing clients, requirements, requirements analysis, persona, personas
+
+
+Article Body:
+Copyright 2006 Adele Sommers
+
+Do you strive to ensure that your customers enjoy downstream success? Are you mostly concerned with your own financial gain, or do you also express a desire to see that your customers will succeed? If it's the latter, are you consciously considering the success of your customers' customers, or even of your customers' customers' customers?
+
+Without a plan for ensuring an ongoing chain of satisfaction, you can run the risk of developing products, services, or customized solutions that might fill your coffers but not provide any significant or lasting benefits to others.
+
+The way we approach our projects can influence our customers' success. Too often, we myopically limit ourselves to deliver only the "first-line" requirements. In so doing, we think primarily about what our customers or clients asked for, even if it's not the most suitable fit for their own -- or their customers' -- intended needs.
+
+And although it's commendable to listen to what our customers want, and to try hard to fulfill their stated desires to a "T," it's also possible to generate an incomplete or incompatible result based on superficial information. This article offers three ways to adjust our project vision from "20:20 hindsight" to "20:20 foresight" in this regard.
+
+1. Consult Your Client's or Customer's "Crystal Ball"
+
+This method involves more types of questions than you might normally ask about the downstream benefits your product, service, or solution will deliver. It entails querying your clients or customers about the results they envision from the product, service, system, training program, or whatever your project will produce for them, as follows:
+
+* "Imagine the project results six months to a year after completion. What payoffs do you see for people in your organization? Describe the benefits in detail, and any limitations they may still be experiencing after everything is delivered."
+
+* "Now imagine how your customers or clients will benefit in the same period. What improvements in your products and services do you believe you will pass along to them from this project? Will those improvements significantly enhance your clients' or customers' situations? If not, where are the gaps in the picture?"
+
+2. Conduct Interviews at Your Customer's or Even Their Customers' Sites
+
+In some situations, a customer or client may agree to have you interview people at their site or possibly at one of their customers' sites. This process can be considered part of an initial needs assessment. If you are providing an estimate for the project, you might even want to separate information-gathering into its own distinct phase.
+
+When the possibility of onsite interviewing presents itself, the purpose would be to learn from as many different sources as possible how people perceive the situation that has led to the request for a solution.
+
+Using the information gathered in this phase, you might acquire insights that will reshape the initial set of requirements the client had requested. This could be the case if you and your client ultimately determine that the requirements do not seem to address the client's -- or the client's customers' -- needs in the best possible way.
+
+3. Use the "Persona Interview" Approach
+
+This method is especially useful if your project entails developing offerings for mass consumption -- where there is no specific client or customer to please. It can also, however, work extremely well when you are working with a client, to help pinpoint specific kinds of concerns and options that would not have been readily apparent.
+
+With this technique, you begin by identifying a few imaginary characters known as "personas." These characters embody typical customers of your products or services. Regardless of what you'll be creating, you'll want to make your personas as realistic as possible. Give them names, ages, genders, professional or personal roles, families and friends, hobbies, educational backgrounds, and major challenges, for example.
+
+If the project involves creating a financial planning Web site, for instance, you might conclude that one representative visitor is a retired electrician with limited computer skills. In contrast, another frequent visitor is a computer specialist who likes access to "power user" shortcuts. The solution you design will need to satisfy each persona's preferred way of using the Web site, without complicating life for the others.
+
+After I've identified two or three personas, I like to "interview" each one about how they are using my offerings, as well as the benefits they are receiving. (Note that I do this before doing any development.) I let them tell an entire story about their circumstances, company situation, personal concerns, or whatever else "comes up."
+
+These "interviews" often reveal new ideas and angles to consider. Once, I used this technique to "find out" how people might respond to a new information product I was planning to create. To my astonishment, one of my personas disclosed that she was taking advantage of the licensing program I had developed to allow others to teach the material. Up until that point, licensing had not even once crossed my mind -- but you can be sure that I added it to my requirements list after that! This is a great example of how a downstream customer benefit can emerge in a persona interview.
+
+Yes, these exercises do take some imagination. Once you start the process, however, you'll be surprised at how much you can learn about the benefits -- and any potential shortcomings -- of a product, service, or made-to-order solution as defined by your initial assumptions.
+
+The point is that by using a variety of techniques to expose more of your clients' and customers' needs, you can pinpoint more completely the project, product, or service requirements. And by consistently emphasizing the downstream "chain of successes" that your customers and their customers will enjoy, you'll create perpetual value for all who use your offerings or your final project results.
+
+

@@ -1,0 +1,70 @@
+Title: 
+Do High Tech Acquisitions Make Sense?
+
+Word Count:
+1598
+
+Summary:
+I was reading recently about the proposed merger between StorageTek and Sun. Two major technology companies, one making a comeback from bankruptcy and the other mired in a long slump, with several years of negative predictions about their business prospects. I don’t have enough solid knowledge of the situation to decide whether it’s a good idea from a strategic perspective or not. What I do know is that it probably will fail.
+
+
+Keywords:
+technology,mergers,acquisitions,M&A,software,high tech,failure,success
+
+
+Article Body:
+Copyright 2006 PJM Consulting
+
+I was reading recently about the proposed merger between StorageTek and Sun. Two major technology companies, one making a comeback from bankruptcy and the other mired in a long slump, with several years of negative predictions about their business prospects.
+
+I am not an insider and don’t know the specific details of this merger. It seems to make at least some sense, as Sun has not historically been strong in Storage, which is StorageTek’s forte. Sun has been Private Labeling storage systems from a company here in San Diego for the past several years (probably doesn’t bode well for that supplier!). So having Storage Technology in-house could be a big plus for Sun. The analysts have generally panned this deal, however. They don’t think it does anything to reignite Sun’s growth, which is what they’re looking for. I don’t have enough solid knowledge of the situation to decide whether it’s a good idea from a strategic perspective or not.
+
+What I do know is that it probably will fail.
+
+ODDS AGAINST IT
+
+Predicting failure is a pretty big statement for someone with limited knowledge of the specifics of the deal. But I can make that statement because numerous studies have shown that 40-80% of all mergers fail. That’s a whole bunch of investor money down the drain. And in High Tech, it seems like it’s very hard to find an example of a really good merger or acquisition.
+
+Of course, there are examples to the contrary. Computer Associates built a huge business and shareholder value with an aggressive acquisition strategy, over a long period. Cisco Systems has made many acquisitions of smaller technology companies, purportedly with great success. They profess to have the “secret sauce” on how to make acquisitions a success-and maybe they have. These are two high profile examples of large companies succeeding with M&A as a major part of their strategy. But for every Cisco or Computer Associates, there’s probably 10-20 who have failed with a prominent M&A strategy. Symantec made claims like Cisco for a long time, but recently ended up unraveling a number of their acquisitions. The recent HP-Compaq mega-merger hasn’t panned out too well (especially for one former rock star CEO name Carly!).
+
+TOUGH FOR THE UNINITIATED
+
+So how do deals usually work out for the “average” company that might make an acquisition every couple of years or so? Not very well, in my experience.
+
+I have been involved in numerous acquisition projects, both as a consultant and on the inside of an acquirer. I spearheaded one project internally which led to acquisition of a software company, which I then had to integrate into my business unit I was running at the time. You know what? The buying is much easier than the integrating!
+
+And this, I believe, is where the great majority of mergers and acquisitions fail. People at the top fall in love with the “deal”—the strategic fit, the potential boost in short term revenue, the new products added to the portfolio, and generally with the “numbers” of the deal. Investment Bankers and M&A consultants emphasize the financial terms and other “hard” aspects of the potential deal—to the near exclusion of the “soft” factors of the deal. Most of all, I think it’s easy for senior management to become “deal-junkies”—quickly addicted to the adrenaline rush that comes with deal making. Unfortunately, all of this tends to obscure a really important fact. In High Tech, when you acquire a company, you don’t really gain ownership of the people—the key factor that makes a company in our business a success or failure.
+
+MANY PATHS TO FAILURE
+
+The integration of the two organizations and their employees is almost always an afterthought. No one gives much thought to this aspect until Senior Management has already decided they want to do the deal. Then it’s time to start to figure out how two, often disparate, cultures will mesh. In reality, these steps should be reversed—the cultural fit should be studied very closely at first, then other factors of the deal should be examined. IF THE CULTURES DON’T FIT--USUALLY YOU HAVE A DISASTER ON YOUR HANDS. It won’t matter how well the numbers work, how much cost you can take out, or how much geographic or product synergy you envision. It will be a disaster.
+
+Sure, there are many other ways an acquisition can turn out badly. Let’s list a few:
+
+Integration of MIS: There have been many good companies that have struggled (or even choked to death) trying to integrate incompatible back office systems
+
+Product Integration: This is especially true in the case of software companies. A software company “takes out” a competitor. They then spend the next five years trying to integrate the two code bases. Or they kill one of the products, alienating the user base they just acquired. This one occurs over and over again.
+
+Overlapping Brands: The HP-Compaq merger is a good example of this problem. HP paid a huge price for Compaq, and much of the value was in the Compaq brand. Did they need another brand—and what have they done with it since the merger? To this day, I don’t know which brand of computer I should consider buying—HP or Compaq. They kept both, and haven’t segmented them in any meaningful way. This causes confusion as well as duplicitous expenditures. What's worse, many times one of the brands is simply ditched—which is the equivalent of throwing millions (or billions!) of dollars out the window after your purchase.
+
+Dueling Managements: This is symptomatic of that really funny deal, the “merger of equals”. No one decides who will run the company until after the merger is final. This results in an internal “struggle to the death” for control of the company for the next year or two, while the remaining competitors run past.
+
+Channel Conflict: Maybe both companies have large dealer networks with a lot of overlap. Or the acquirer is primarily a direct seller, and the target primarily sells through the channel. These issues can be some of the toughest to manage. If done poorly it will lead to large, sudden revenue reductions.
+
+Exit Strategy for the Target: Often times there doesn’t even need to be “cultural” people problems for disaster to strike. If the acquired company views the deal primarily as an opportunity to “cash out”, there will be a mass exodus of key people to the nearest beach, people that you need for the acquisition to make sense. Or worse yet, they stay and become working zombies until their obligation runs out. It’s pretty hard to put effective “golden handcuffs” on everyone.
+
+IT’S THE PEOPLE, STUPID
+
+There are many more ways to failure than I could list. But they are all minor in scope compared to the likelihood of the “culture clash”. To begin with, all of the people in the company being acquired are “freaking out”. Will I have a job? Will I being doing the same thing in the combined company if I keep my job? Will I have the same benefits? Who will I report to? I’ve heard the managers in the new company are raving lunatics who eat their young! In the acquiring company often the same fears exist to a slightly lesser extent. All of this leads to suspiscion and distrust between employees of the two companies.
+
+A proposed merger is an opportunity for the rumor mill and imaginations to run wild. Key talent is now open to exploring what opportunities might be available in the outside world. Sometimes the brain drain might start almost immediately, well before the deal is even consummated. So the problems begin early on. The stage may be set for failure, and the ink isn’t even dry on the merger agreement. All the while the guys in the Executive Suite are toasting themselves with Scotch, and patting themselves on the back. Eventually they get around to forming a committee to look at “integration issues”. But management focus usually doesn’t really shift to this potential culture clash until the merger is consummated--and the fires have already start. Productivity crawls to a halt, while new turf battles emerge. People you don’t want to lose are leaving left and right. The guys in the suits don’t know what hit them--until the wall of fire is too high to extinguish.
+
+ACQUISITIONS CAN WORK—BUT SHOULD COME WITH A WARNING LABEL
+
+I hope that all of this doesn’t come off as negative to the extreme. It’s only meant to caution. There are actually many good scenarios that can lead to successful acquisitions. Software companies who look to buy to fill a hole in their product line or aquire technology to quickly jump on an emerging market segment, as an example. These types of deals can make tremendous sense, if executed properly. I’ll talk about more about acquisitions scenarios and success factors in a future column.
+
+But in Software and other High Tech markets, product cycles are short and differential advantages are fleeting. As a result it’s all about the people, since differential advantage needs to be continually re-created. So the next time you think about making an acquisition to solve a business problem or accelerate your growth—think about the people first.
+
+I’d like to hear about your M&A experiences—drop me a note.
+
+

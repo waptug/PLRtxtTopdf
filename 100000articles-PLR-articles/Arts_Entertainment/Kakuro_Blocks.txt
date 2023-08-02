@@ -1,0 +1,30 @@
+Title: 
+Kakuro Blocks
+
+Word Count:
+602
+
+Summary:
+There is no straight up, easy way in solving kakuro puzzles. You either sweat it out, thinking of possible combinations, or do the tedious paper and pencil method. Usually, people spend more time trying to think of combinations than actually filling in the puzzles. You know the buzz people get after solving kakuro puzzles? It usually comes after a person boasts of solving his puzzle just as his friends pointed out that he got double 8's in a single block.
+
+But there is a wa...
+
+
+Keywords:
+kakuro puzzles
+
+
+Article Body:
+There is no straight up, easy way in solving kakuro puzzles. You either sweat it out, thinking of possible combinations, or do the tedious paper and pencil method. Usually, people spend more time trying to think of combinations than actually filling in the puzzles. You know the buzz people get after solving kakuro puzzles? It usually comes after a person boasts of solving his puzzle just as his friends pointed out that he got double 8's in a single block.
+
+But there is a way to stop and prevent this kind of frustration. This is not about a miracle kakuro trick; rather, this is an age-old stand-by that few people take care to know. There are numbers in kakuro puzzles that only have a single valid combination and possibly, a limited number of cells. These number combinations and cells are called kakuro blocks. Accordingly, there are people who swear by using kakuro blocks to make puzzle-solving easier. This is not surprising since kakuro blocks shorten puzzle-solving time, thereby allowing players to solve more puzzles.
+
+But before we get on with kakuro blocks' advantages, let us first define what they are. Kakuro blocks, simply put, is just a list of digits that provide special clues. These clues are often in the form of possible combinations. Also, these are blocks of a definite size and sum that only have a solution in terms of a single choice of digits. These blocks are reserved for a definite combination; only one valid set of digits can fill these in. Kakuro blocks come in cells that require as little as two digits or in blocks that require as many as seven or eight digits. Kakuro blocks base their combinations on the rules of the puzzles. In the puzzles, only the digits 1 to 9 can be used. Also, each number can only be used once in each sum. Consequently, each kakuro block uses only digits less than 10 and assigns each digit to combinations without repetition.
+
+After defining kakuro blocks and their functions, let us examine the advantages of using them in solving kakuro puzzles. Since the blocks follow the rules of kakuro, the risks or possibilities of incurring mistakes are minimized. We all know that an unnoticed mistake in a kakuro puzzle leads to other mistakes, especially if the wrong block is not isolated. Basing other answers on a wrong block or digit often causes problems in solving the puzzles and can eventually lead to redoing the whole thing. Thus, more time and effort are wasted.
+
+Kakuro blocks also save time. Since the blocks provide the only legit combinations for some sums, players only need to identify the digits' correct positions. The blocks also enable the use of techniques such as "unique intersects", "locked values", and "reducing combination". In using "unique intersects", the player only has to look for kakuro blocks with shared cells. Logically, the common number of both blocks is positioned inside the shared box. "Locked values" refer to isolating block values. "Reducing combination" is usually employed if a non-kakuro block intersects with kakuro blocks. Since the non-kakuro block has many possible combinations, crossing kakuro blocks limits the choices. With these tricks, solving kakuro puzzles is a cinch.
+
+Indeed, solving kakuro puzzles is easier with kakuro blocks. They minimize mistakes and shorten solving time. In addition, they are also easy to memorize. In fact, the more frequent you use these blocks, the more you would be familiar with them. Thus, memorizing them takes no time at all. These blocks are also very easy to find; just browse through any site that offers kakuro puzzles and solving strategies.
+
+

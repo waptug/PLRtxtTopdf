@@ -1,0 +1,42 @@
+Title: 
+What is ERP?
+
+Word Count:
+681
+
+Summary:
+Enterprise Resource Planning, also known as ERP, is a method designed to integrate several different data sources and/or processes into one single unified system.
+
+
+Keywords:
+ERP
+
+
+Article Body:
+Enterprise Resource Planning, also known as ERP, is a method designed to integrate several different data sources and/or processes into one single unified system. This system will require the use of both hardware and software for planning and development and is essentially designed to be used in large enterprises looking for complete integration of their systems. The most important point in most ERPs is the unified database which will store all of the necessary information for each of the system’s modules.
+
+What are the necessary components for a successful ERP system?
+
+There are two main components that are required for any successful ERP system. The first is the common, unified database. This allows the ERP system to have access to each and every byte of information as well as all of the data that is required to make each part of the enterprise run as a whole unit. It also allows all of the enterprise’s information to be quickly and easily shared in a reliable and accessible manner.
+
+The second key component to a successful ERP system is a modular software design. This essentially means that an ERP uses software that can be added or removed as needed in order to maximize the efficiency and usefulness of the system as a whole. While there are a few companies that can provide all of the software for a particular ERP, most enterprises will mix and match their software from different companies in order to attain maximum efficiency in the enterprise. Every modular application must be able to interface with the common database so that all of the data can be shared as needed.
+
+Where would an ERP system be used?
+
+ERP systems can be used in any large organization that has a lot of data flowing through its computers. Generally, small or medium sized businesses do not have any need for a full scale ERP system. Larger corporations, such as major banks, auto manufacturers, and retail chains can benefit the most from a well planned ERP. Furthermore, individual enterprises often break up their ERPs into smaller units, such as manufacturing, financials, and consumer management so that data can be more easily shared between those resources that would most likely benefit from the data portability.
+
+How is an ERP designed and implemented?
+
+No matter how large of a system is being implemented, all ERP systems require a lot of thought and careful design in order to operate successfully. Traditionally, smaller ERP systems require only months to prepare while larger ERP systems can take as much as a year or two to properly develop and implement. Larger corporations generally seek the advice of ERP consulting firms while smaller corporations will likely use an in-house team to cut costs.
+
+The most critical step to implementing any ERP system is to migrate the data to the ERP. Migrating data, though a critical step, often receives the least attention in many ERP systems. There are six steps to successful data migration. First, identify the necessary data. Second, plan the timing for the migration. Third, build data templates. Fourth, freeze the necessary data migration tools. Fifth, determine data migration setups. Sixth, archive the necessary data.
+
+What are the advantages of using an ERP system?
+
+The most common advantage of an ERP system is that data is easily transferred from one place to another. Also, many ERP systems can also improve the security of an enterprise thanks to its built in safeguards. Other positives factors include low operational costs, better customer service, and improved productivity of employees.
+
+What are the disadvantages of using an ERP system?
+
+The most common disadvantage of an ERP system is the cost. Many ERP systems are extremely expensive to design and implement. Furthermore, despite their modular nature, the software customization options are limited and can be difficult to adapt to certain businesses. Also, the data entered into an ERP system must be high quality, lest it decay even further over time. Finally, the system may be too complex and not be right for businesses that are organized into many smaller departments.
+
+

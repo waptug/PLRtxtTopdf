@@ -1,0 +1,20 @@
+Developing Cold Fusion Hosting
+
+Cold Fusion Hosting is all about databases, really. Cold Fusion, a software suite brought to us by the fine folks at Macromedia, which allows web-interactivity with databases. With Cold Fusion web hosting, you can now query, update, index, and chart databases from any web browser. 
+
+Cold Fusion hosting adds versatility and interactivity to ecommerce sites. Cold Fusion allows you to publish and then have automatically removed from your site time-sensitive content, such as flight schedules or event calendars. It adds functionality to creating and managing mailing lists and business reports. It allows you to offer your visitors printable content and customized menus. 
+
+Anytime you see .cfm as the extension on a web page, as opposed to .htm or .asp for example, you know you're dealing with Cold Fusion Markup Language (CFML). 
+
+Though cold fusion is built on the Java platform, CFML allows web developers the benefits of Java without its inherent technical complexities. You need not know Java scripting in order to use cold fusion. CFML is a tag-based language quite similar to HTML and XML which makes it easy for anyone with even the most basic knowledge of web scripting to learn. 
+
+Cold Fusion is a server-side language which means that any web pages using CFML are read and interpreted by the Cold Fusion hosting company's server and converted into an HTML page prior to being sent back to the user's browser. 
+
+Cold Fusion web hosting can be significantly more expensive than other forms of web hosting, and should therefore only really be considered if its unique set of tools are relevant for your site's intended uses. Cold Fusion hosting is usually run on Windows 2000/NT/2003 operating systems, though you can also find support for Cold Fusion hosting on Linux and Sun servers. 
+
+In addition to all the usual factors you must consider when choosing any web host - cost, disk space, bandwidth, uptime, scalability, support - you now also have to consider certain factors specific to cold fusion hosting, including: potential tag restrictions, additional security concerns, whether the cold fusion hosting company provides database support, and which version of Cold Fusion they're using. 
+
+One type of tag restriction that is also a security concern is "high risk" tags, such as those that can be used to find and erase selected files from a server. For some larger businesses, this functionality is crucial to their operation, though potentially detrimental if accessed by the wrong hands, in which case a dedicated server is probably in order. Fortunately, cold fusion hosting is offered on shared, virtual, and dedicated servers. 
+
+Cold Fusion is well worth considering if you'd like the functionality of the Java platform with the facility of a comparatively autonomous and user-friendly software system. Especially if your website is expected to generate an income, you may find that the intimidating price tag, in the long run, turned out to be a bargain. 
+

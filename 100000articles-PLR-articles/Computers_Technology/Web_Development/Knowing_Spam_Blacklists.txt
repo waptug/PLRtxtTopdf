@@ -1,0 +1,34 @@
+Title: 
+Knowing Spam Blacklists
+
+Word Count:
+410
+
+Summary:
+The term "blacklist" gives you either a kid image of a list that is colored dark black, or a list that functions the way the Schindler's List does. You are wrong either way.
+
+A blacklist is just a list of electronic mail addresses or domains that are quite known to be sending spam. If a certain email address or website is part of this list, then that means that particular email address or domain is blocked. By blocked, meaning no further mail or message can be received from...
+
+
+Keywords:
+spam blocking,blocking spam,spam filter,spam software,blacklist spam
+
+
+Article Body:
+The term "blacklist" gives you either a kid image of a list that is colored dark black, or a list that functions the way the Schindler's List does. You are wrong either way.
+
+A blacklist is just a list of electronic mail addresses or domains that are quite known to be sending spam. If a certain email address or website is part of this list, then that means that particular email address or domain is blocked. By blocked, meaning no further mail or message can be received from them.
+
+In the world today, many have learned the magic of the computer and are, thus, quite experts in avoiding any "cyber punishments". In this case, having his or her email address or site blocked. Spammers, as they have already been given a name, learned certain methods on how to keep changing their return addresses to be able to foil the blacklists.
+
+This is why blacklists are not usually utilized. They are more usually deceived, and thus they do not get to perform their purpose quite well. Spammers are becoming more and more talented and skilled each day, which makes blacklists less and less effective everyday as well.
+
+It is a total waste of time when you have that confidence in you that tells you your system can't be invaded by spam anymore. Why? It is so because spam still keeps on coming even if you have tons of blacklists installed in your system.
+
+You just do not know it, but there could be a couple of viruses that might have entered as well. So you not only have spam that slowly occupies your computer space, but you also have to worry about having your hard drive scanned.
+
+If you are thinking that you should just trash every blacklist you come in contact with, do not be in such a rush. Blacklists still serve one purpose that is of use. They are instruments of pressure to prevent Internet service providers from relaying spam. Just so you would know, they are quite good in this skill, but in this skill ONLY. Aside from the aforementioned service, they might as well not exist.
+
+The applause you could possibly reward to blacklists is to no avail, however. Aside from their provision of this fine and extremely dependable service, they are pretty much useless when it comes to the subject of modern anti-spam systems. They are definitely no competition with the other anti-spam projects that exist.
+
+

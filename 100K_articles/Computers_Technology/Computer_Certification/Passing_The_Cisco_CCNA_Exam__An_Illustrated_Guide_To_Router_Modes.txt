@@ -1,0 +1,101 @@
+Title: 
+Passing The Cisco CCNA Exam: An Illustrated Guide To Router Modes
+
+Word Count:
+670
+
+Summary:
+Keeping the many Cisco router modes straight is a real challenge for the CCNA candidate.  Learn the five common router modes you'll need to know to pass the CCNA exam from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+ccna, free, ccnp, pass, exam, certification, icnd, interface, password, router, switch, cisco, mcse
+
+
+Article Body:
+When you're getting started on your CCNA studies, learning the different router modes is key to passing your Intro and ICND exams. But keeping those modes straight can be very difficult. (At least it was for me!) Let's take a look at the various router modes you'll need to know about to pass your CCNA, and use IOS Help to illustrate the different uses of each mode.
+
+The first mode you'll see on a router (if the person before you logged off as they should have) is user exec mode. This is also the default mode a user is placed into when using Telnet to connect to a router. The prompt will look like this:
+
+R1>
+
+You can't write or add to a configuration in this mode, but you can run quite a few show commands. This is a good mode to have users in who need to see the configuration, but shouldn't be allowed to change it.
+
+To get to the next level, type enable at the user exec prompt:
+
+R1>enable
+
+R1#
+
+Notice that the prompt changed. This mode has two names, the official one being privileged exec mode. It's more commonly referred to as enable mode, since "enable" is what you type to get into this mode.
+
+This mode gives you more options for show and other commands, but you still can't configure anything. To configure global commands, use "configure terminal", or "conf t", to enter global configuration mode.
+
+R1#conf t
+
+Enter configuration commands, one per line. End with CNTL/Z.
+
+R1(config)#
+
+The prompt has changed again, and now global configuration commands such as hostname and no ip domain-lookup can be entered.
+
+From here, you've got a lot of options, but we'll look at three you need to know for your CCNA exams. To apply configuration commands to an interface, enter interface configuration mode, as shown here:
+
+R1(config)#interface serial0
+
+R1(config-if)#
+
+You must be in global config mode to get into interface config mode you cannot go from enable mode straight to interface configuration mode.
+
+R1#interface serial0
+
+^
+% Invalid input detected at '^' marker.
+
+Interface configuration mode allows you to apply an IP address to the interface, as well as many other commands related to frame relay, ISDN, and dynamic routing protocols.
+
+For the CCNA, you need to know about two other configuration modes. To configure console commands (such as password protection), enter line configuration mode as shown here:
+
+R1#conf t
+
+Enter configuration commands, one per line. End with CNTL/Z.
+
+R1(config)#line console 0
+
+R1(config-line)#password cisco
+
+R1(config-line)#login
+
+The prompt "(config-line)" indicates that you're in line configuration mode. Your console line is not the only line you'll be configuring for the CCNA, though your vty lines are used for incoming telnet connections and must be configured in a similar fashion.
+
+R1#conf t
+
+Enter configuration commands, one per line. End with CNTL/Z.
+
+R1(config)#line console 0
+
+R1(config-line)#password cisco
+
+R1(config-line)#login
+
+R1(config-line)#line vty 0 4
+
+R1(config-line)#password cisco
+
+R1(config-line)#login
+
+Notice that you do not have to exit one interface mode to go to another one. Let's say that you've configured your vty lines and now want to put an IP address on your Ethernet interface. You don't have to go out with ctrl-z and then start again you can go straight to interface config mode from line config mode. Just make sure you see the prompt change!
+
+R1(config-line)#line vty 0 4
+
+R1(config-line)#password cisco
+
+R1(config-line)#login
+
+R1(config-line)#interface ethernet0
+
+R1(config-if)#ip address 15.1.1.1 255.255.255.0
+
+When you're preparing for CCNA exam success, there's a lot to absorb. Just take it one piece at a time, get some hands-on experience to go with your theory, and before you know it you're moving around in the different Cisco router configuration modes without giving it a second thought. Keep studying and your CCNA exam success is assured!
+
+

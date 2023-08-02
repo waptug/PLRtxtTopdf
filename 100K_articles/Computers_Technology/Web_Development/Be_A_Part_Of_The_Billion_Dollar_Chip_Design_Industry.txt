@@ -1,0 +1,40 @@
+Title: 
+Be A Part Of The Billion Dollar Chip Design Industry
+
+Word Count:
+346
+
+Summary:
+Introduction 
+
+The word of Chip designing means building an integrated Chip, by integrating billions of transistors to achieve an application. An Application could be suiting a particular requirement like Microprocessor,Router,cell phone,etc. An Integrated circuit designed for a specific application is called as ASIC(Application Specific Integrated Circuits). 
+
+Todays ASIC Chips is prettly complex packed with larger chunk of transistors targetted to a specific manufacturi...
+
+
+Keywords:
+chip,hardware,computer
+
+
+Article Body:
+Introduction 
+
+The word of Chip designing means building an integrated Chip, by integrating billions of transistors to achieve an application. An Application could be suiting a particular requirement like Microprocessor,Router,cell phone,etc. An Integrated circuit designed for a specific application is called as ASIC(Application Specific Integrated Circuits). 
+
+Todays ASIC Chips is prettly complex packed with larger chunk of transistors targetted to a specific manufacturing process for fabricating the integrated circuits, in a sub nanometer regime, involving lots and lots of challenges, like knowledge of various protocols, architectures, models, formats, standards, knowledge about CMOS logic, Digital Design concepts, taming the EDA tool for the various design requirement's like area, timing, power, thermal, noise, routability, lithography aware, knowledge about Various variabilities like channel length, Vt, line width variations, lens abrreations, IR drop effects,inter-die, intra die-variations, effects, and various noise-effects like Package noise,EMI noise,power grid noise,cross-talk noise and ability to test and validate and know to model and characterize all these effects upfront in the design-phase,steps to increase yield to increase profitability curve, with short span of time-to market to minimize the risk and maximize the predictability and an modular approach to Success. Now let's dwelve in to the "Art of Chip Designing" 
+
+Used lot of Technical Jargons, nothing to worry about we will get in there soon...Be with me promise you to understand the Concepts behind Chip Desiging. 
+
+Before Designing a Chip? Need to Brain Storm 
+
+1. What market the Chip is targetted for? 
+2. What are the Protocols involved in the Chip? 
+3. What is going to be our Processor/Bus Architecutes? 
+4. what is the power/IR-drop/timing/Area/Yield/ targets and how to budget it in the Chip? 
+5. What is the process in which the Chip going to be manufactured? 
+7. what are the various third party IP's/Memory requirements? 
+8. what is our Design flow and EDA tools and methodology involved? 
+9. What is the estimated Chip Cost? 
+10. Above all the bottom line of any business model is money, What will be our Profit model ,estimation of our ROI(Return of investment).
+
+

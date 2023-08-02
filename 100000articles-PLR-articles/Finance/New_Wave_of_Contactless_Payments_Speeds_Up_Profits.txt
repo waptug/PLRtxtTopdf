@@ -1,0 +1,45 @@
+Title: 
+New Wave of Contactless Payments Speeds Up Profits
+
+Word Count:
+874
+
+Summary:
+Everything you always wanted to know about contactless payments from the top pundits in the field.  This story demystifies contactless payments and puts it into terms that anyone can understand.  How will the world be paying for coffee, burgers and parking in the future?  Find out in this concise user-friendly article
+
+
+Keywords:
+ontactless payments, Tap N Go, RFID, radio frequency, credit cards, how-to
+
+
+Article Body:
+Contactless payments create a whole new field of payment options for merchants. Contactless payments are quick, simple and pave the way for greater profits. A smart computer chip, with data and an antenna is embedded into a credit card, debit card or fob. When the card or fob is tapped on a radio frequency reader, the reader sends out a radio signal that activates the card, the information on the card is read and the payment is processed without a signature for purchases less than $25.00 with no chargebacks to the merchant.
+
+“Merchants don’t need to worry about compatibility with their present systems or security” said, Mohamed Khan, President and Founder of ViVOtech, Santa Clara, Calif.-based developer of contactless software, transaction management systems and readers.
+
+“We have been working closely with processors, card issuers and terminal providers to create an open system using the IS0 14443 standard. It uses secure encryption technology. The contactless card doesn’t leave the customers’ hands therefore it is more secure and there’s no skimming of data,” assured Kahn who sees contactless as a great opportunity for merchants to increase revenue. He envisions contactless payments as a replacement for cash because they are faster, more convenient and cost less due to less shrinkage and less labor involved.
+
+There are two types of contactless readers available: Peripheral Contactless Readers (PCRs) that plug in to existing POS terminals, and Integrated Contactless Readers (ICRs) that replace traditional readers and offer both magnetic-stripe- and contactless-reading capabilities. Merchants can purchase either type of reader. The PCRs usually cost around $150. Some merchant service providers such as Acies, however, are offering deals competitive plans and free readers with terminals.
+
+David Robertson, Publisher of The Nilson Report (Carpinteria, Calif.) estimates that there are 12 million contactless cards currently in circulation in the U.S. He predicts that first contactless successes will be at the brand name retailers and then merchants in the areas where cards are deployed will follow suit when their customers ask to use their contactless cards.
+
+Customers are asking for contactless in the New York Metro area where many cards have been “dropped,” says Oleg Frier CEO and President Acies, Inc, a New York City-headquartered national payment processing and financial services provider. Other areas where there are substantial contactless readers and cards include Atlanta, Philadelphia, Denver, Dallas and Orlando, says Khan.
+
+Studies show the speed and added value of contactless payments because typically when someone does not pay with cash the amount of the transaction increases. Visa trials showed their contactless card transactions were 25% faster than cash. MasterCard PayPass trials showed an increase in transaction amounts and 12 to 18 second reductions in payment times for drive-thru transactions. Aite Group reports that CVS, the drug store chain, has found the average contactless transaction takes 12.5 seconds, versus 26.7 seconds for magnetic-stripe card payments and 33.7 seconds for a cash transaction.
+
+Merchants who have a small time frame to service customers, such as fast food restaurants, coffee houses, movie theatres, drug stores, convenience stores and drive-thrus can benefit greatly from contactless payment methods. McDonald’s, AMC Theatres, CVS, Meijer, Duane Reade, Regal Entertainment, Ritz Camera, Arby’s, Cold Stone Creamery, Eckerd, Carl’s Jr., Good Times Burger, KFC, RaceTrac, Subway, Sonic (Drive-In Restaurants) and Walgreens have installed contactless readers. Convenience stores are gearing up to accept contactless payments. Contactless readers are being installed in 5,300 7-Eleven stores and 350 Sheetz stores. WaWa markets is installing over 2000 readers in its 540 stores co-branded with a credit card and loyalty program.
+
+Card associations are also gung-ho for contactless payments.
+
+“It takes a village to launch a new technology, at Visa, we have an absolute commitment to assure success of contactless payments,” said Elvira Swanson, Visa spokeswoman. Visa, with four million Visa Contactless cards in circulation, offers collateral materials, online demos, and merchant support teams to help educate merchants.
+
+“This is the real thing. Contactless is beyond the ‘chicken and egg’ concept stage now, when you look at how many financial institutions have made the decision to offer contactless and the number of national merchants accepting it,” said T.J. Sharkey, Vice President, Business Development, U.S. Acceptance, MasterCard International. MasterCard is supporting contactless in many ways. Merchants who accept contactless payments are listed at the MasterCard Web site where there are demonstrations on how their Tap N Go, PayPass cards work. Television commercials illustrating their PayPass cards are airing nationally.
+
+Banks issuing contactless cards include Citibank, MBNA, HSBC (debit cards), JP Morgan Chase, Key Bank (debit cards) and Citizen.
+
+There have been several pilot contactless programs in sports stadiums including San Francisco, Seattle, Baltimore, and Philadelphia. Recently, another form factor of contactless has been added into the mix, with the trial of NFC (Near Field Communications) contactless payments from cell phones at the Philips Arena in Atlanta. Season ticket holders with Chase-issued Visa credit accounts and Cingular Wireless accounts can make contactless payments by simply holding their Nokia mobile phones equipped with Philips' NFC semiconductor chips and ViVOtech software near one of the 150 terminals. NFC is compatible with ISO 1443 readers has other features such as the ability to transmit a coupon to a reader.
+
+“Contactless payments are the wave of the future and will change the way the world pays for purchases,” Khan said enthusiastically.
+###
+
+

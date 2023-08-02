@@ -1,0 +1,28 @@
+Title: 
+When To Buy And Sell
+
+Word Count:
+462
+
+Summary:
+The mechanism of buying and selling is quite easy. It is as easy as pressing a button in front of your computer screen. The question of when investors should buy and sell warrant a more detailed analysis.
+
+
+Keywords:
+Finance Stock Investing Article Submission Link Popularity
+
+
+Article Body:
+The mechanism of buying and selling is quite easy. It is as easy as pressing a button in front of your computer screen. The question of when investors should buy and sell warrant a more detailed analysis.
+
+<b>When to sell:</b> Ideally, we should sell when a stock reaches its fair value. There are 9 other reasons to sell but I won't cover it here. So, what is a stock's fair value? I have covered this plenty of time. But, in general, a stock reaches its fair value when it is yielding 3% above the current free risk interest rate. I am using 10 year treasury bond as a proxy for free risk interest rate. Currently, the 10 year bond is yielding 4.46%. Fair value of a stock is therefore when it is yielding 7.46%. Inverting yield, we then got the widely used Price Earning Ratio. Yield of 7.46% corresponds to P/E ratio of 13.4
+
+<b>When to buy:</b> This is an easier question to answer. We, of course, should buy stock lower than we sell. If we sell the stock at a P/E ratio of 13.4, then we should buy it when the P/E ratio is less than 13.4. How much lower ? It depends on how much return you aim for. If, say, you are aiming for 50% return, then your buying price is when the stock is trading at a P/E of 8.93. If you are aiming for a 34% return, then your buying price is at a P/E of 10.
+
+In short, we should buy at a P/E of 8.93 and then sell at a P/E of 13.4, correct? Yes, but with a lot of caveats. I've covered those caveats in 5 common misuse of P/E ratio. To emphasize, the P/E ratio used here is not trailing P/E ratio, does not ignore the value of cash in the balance sheet, does not ignore one-time event and does not ignore the change in interest rate. At this point, I am ignoring earning growth simply because the fair value calculation is for a company with 0% growth.
+
+You might be wondering where you might find stocks that are trading at a P/E of 13, let alone 8.93. Here is a few candidates to help you getting started. Seagate Technology (STX) has a forward P/E of 7.5 and $ 2.30 per share of net cash in the balance sheet. Western Digital Corporation (WDC) has a forward P/E of 9.75 with $ 2.65 per share of net cash. OmniVision Technologies Inc. (OVTI) is trading at a forward P/E of 10.3 with $ 5.30 per share of net cash. Magna International (MGA) is trading at a forward P/E of 9.72 with $ 4.58 per share of net cash.
+
+Please note that this is not a buy/sell recommendation. You would do very well if you do your own homework.
+
+

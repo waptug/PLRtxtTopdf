@@ -1,0 +1,15 @@
+Web Server Hosting Types
+
+There are different types of hosting services that you can choose from depending on what type of web development and web site that you want to host.
+
+Dial-Up Access Hosting – This is the most basic access/hosting service and these providers also provides a web page for hosting your site. Dial-up access hosting was the first hosting available and is still around. Most ISP’s specialize in just internet access and it’s rare that you will see an ISP do both. These companies make their money off of providing access to the Internet.
+
+Development Hosting - Web site developers are buying their own servers and offering independent hosting services for their clients. This is called development hosting in which they provide web development services along with a host server located at their place of business. The consumer gets charged for the development and the maintenance of the web-site.
+
+Web-Hosting ISP’s. – These are companies that specialize in hosting business web sites. There is no dial up access needed and site owners access their pages via File Transfer Protocol (FTP). This is what the majority of small businesses use to put their site information on the internet. Other services are also included in the Web Hosting ISP package depending on their service plans.
+
+These types of hosting plans are usually for corporations that need a lot of bandwidth to run their web applications. These companies run T1 access lines for big packets of internet data and have multiple connections to an internet backbone. They have fully staffed data processing facilities and the prices are substantial for using these types of services.
+
+Corporate/Industrial Hosting - Companies like Hewlett Packard, Dell or IBM, run the server infrastructure for most of these host companies.
+
+The SOHO business owner will usually need the Web-Hosting ISP services. It is the middle ground between the basic and advanced services.

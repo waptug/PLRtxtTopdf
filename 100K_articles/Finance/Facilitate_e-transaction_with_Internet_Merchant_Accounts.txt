@@ -1,0 +1,36 @@
+Title: 
+Facilitate e-transaction with Internet Merchant Accounts
+
+Word Count:
+426
+
+Summary:
+Anybody familiar with electronic transaction or e-commerce over the internet like purchasing products by paying through credit cards will be familiar with the term Internet Merchant Account.
+
+
+Keywords:
+online merchane account, internet merchant account, merchant account
+
+
+Article Body:
+Anybody familiar with electronic transaction or e-commerce over the internet like purchasing products by paying through credit cards will be familiar with the term Internet Merchant Account.
+
+It is mandatory for every organization to have an Internet Merchant Account to accept payment online. Various companies, MNCs, offer the required software to run and maintain such accounts.
+
+Every organization should have a checking account with any bank in the US to maintain an Internet Merchant Account. If the organization has not obtained a checking account, there are institutions that will help in obtaining an account from the bank. Some local banks do not offer Internet Merchant Account service.
+
+Many banks offer the entire product, Internet Merchant Account, right from receiving the payment online to crediting it to the organization’s official account. The Internet Merchant Account is also useful to individuals engaged in web-based business activities.
+
+The Internet Merchant Account is the second of the three layers that exist between a customer and the organization. The first and last layers are the payment gateway and the website respectively.
+
+The Payment Gateway completes the initial process like screening the credit card, registering its details, the product ordered, accepting the customer billing information and the necessary validation. This Payment Gateway subsequently transfers all these details to the Merchant Bank Account along with the payment downloaded in an electronic format from the credit card.
+
+To enable this transaction, the website selling the product or engaged in web-based business, should be integrated with the Payment Gateway and the Merchant Bank Account. Without integration, an electronic transaction is not possible.
+
+The Internet Merchant Accounts come at a cost. Usually, there are three price ranges for upfront application fee, ongoing fixed rate, discount rate, fixed transaction fee, termination fee and miscellaneous fee. The range depends on the volume of the business the organization or the website can generate. To begin with, start from a low volume generating business as the prescribed fee is lower. There is scope for scaling up the business and changing the range of the account.
+
+It is advisable to visit banks to evaluate the offers for Internet Merchant Account. Banks are flexible when they offer the package for Internet Merchant Account provided the applicants convince them on the volume of business generation.
+
+Information about Internet Merchant Accounts can be obtained from the internet as well as the banks offering such services. These banks also advertise this particular service on the internet since it is one of the most popular e-transactions adopted by various individuals and organizations engaged in e-commerce.
+
+

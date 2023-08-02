@@ -1,0 +1,35 @@
+Title: 
+Bar Codes Faxing Improve Business Document WorkFlow
+
+Word Count:
+628
+
+Summary:
+Incorporating bar code faxing into an organization will improve the business document workflow and mission critical data access to the various departments such as human resources, marketing, etc.
+
+
+Keywords:
+document imaging,fax automation,fax server,bar code fax
+
+
+Article Body:
+Reliably integrating important electronic and paper documents received by fax such as invoices, expense reports, purchase orders, employment applications, claims and legal contracts into the daily business workflow is a common challenge. These documents are critical to many revenue related business processes and yet they are commonly misplaced, lost or misfiled in a never-ending row of filing cabinets. 
+
+In addition, the reproduction of these paper documents decrease productivity and increase daily soft costs such as manual labor burden, fax retransmission, paper, toner, and printer wear and tear. 
+
+Incorporating bar code faxing into an organization will improve the business document workflow and mission critical data access to the following departments in your organization:<ul><li>Human Resource Departments</li><li>Accounts Payable</li><li>Accounts Receivables</li><li>Sales</li><li>Marketing</li><li>Legal Departments</li><li>Production</li><li>Manufacturing</li></ul>
+Bar code faxing will also help eliminate the need to purchase or develop special forms applications and processing procedures, minimize lost documents and help with any eDocument initiatives your organization may have. 
+
+<b>What is bar code faxing?</b>
+
+Bar code faxing is a computer based fax methodology in which commonly faxed documents are given bar codes for identification, routing, metadata and indexing purposes. Bar code faxing is simple to implement, reliable and depending on the bar code symbology used, very secure. Bar code symbologies used in bar code faxing include 1D and 2D bar codes, most commonly referred to as Code 39, Code 128, PDF417 and DataMatrix. Code 39 and 128 are the most inexpensive and easiest to implement because applications like Microsoft Word support bar code fonts. Code 39 and 128 fonts are readily available on the internet free of charge. PDF417 and DataMatrix bar codes can hold larger amounts of data, support Check Sum and various types of encryption. In some cases, implementation of these PDF417 or DataMatrix is more expensive due to proprietary application requirements. 
+
+Bar code faxing can be accomplished with the actual document itself or with a bar code fax cover page. The bar code is computer generated and added to the actual document/cover page. Another method of adding a bar code is with a hand held bar code printer or bar code label maker. The bar code can be placed and easily identified in the one of the four corners of the document. It is recommended to use slightly larger font sizes when using bar code faxing because fax documents shrink slightly during actual fax transmission. The use of intelligent fax hardware minimizes the shrinking and provides the highest quality fax images. Information captured in a bar code will vary depending on the document type. For invoices the bar code may contain the invoice number, customer name, and account number. It may also contain the name of the department it is being routed. For expense reports the bar code may contain the employee ID number, month of report, total amount due etc. Employment applications may contain phone number, social security number, position applying. The information that can be contained within a bar code is unlimited.
+
+Once the fax with the bar code is received, the fax server software has the ability to read the bar code and extract the information or metadata. This metadata is then used to a) Identify, b) Route, c) Store & Deliver and d) Retrieve documents efficiently and effectively. 
+
+<b>Summary</b>
+
+The use of bar code faxing isn’t new by any means. In the past several years however it has gained traction and acceptance in the fax server, scanning, document management, content management and imaging industries due to the introduction of the multi-function devices (scanner, fax, printer, copier), better imaging technologies, more robust computers, operating systems, intelligent fax boards and the need to resolve compliance and regulatory issues.
+
+

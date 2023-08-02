@@ -1,0 +1,58 @@
+Title: 
+Audio and Video File Formats:  An Introduction
+
+Word Count:
+699
+
+Summary:
+Audio and video file formats are continually being developed to meet the demands of modern file distribution and playback software and hardware requirements.  Corporations such as Sony and Microsoft have developed their own custom formats for security and commercial purposes and this introduction should make the muddy waters just a little bit clearer.
+
+
+Keywords:
+audio file formats, video file formats, audio video file formats, audio video files, mp3 format, mpeg files, mpeg-4, aac, ogg, real audio format, wav format, wma format, how audio files work, codecs, avi files
+
+
+Article Body:
+FILE FORMATS There are several audio file formats in common use. There are fewer video file formats, but audio video file extensions can be confusing. This is just a brief description of what the more commonly used audio and video file formats and systems are. 
+
+AAC:Advanced Audio Coding This is the audio file format used by Apple for the iTunes Music Store, and it may appear with the M4A filename extension. It is better than MP3 for sound quality. It was developed as part of the MPEG4 group owned by Dolby (see below). 
+
+AU: This audio file format is the standard used by Java, Sun and Unix. 
+
+MPEG: Moving Pictures Expert Group There are a number of MPEG types now, described below. 
+
+MPEG-1: This is used in digital cameras and camcorders for small video clips. VHS quality playback can be expected from MPEG-1. 
+
+MPEG-2: Used for digital satellite TV, professional movie recording and recording of home DVD recordings. Provides provision for multi-channel surround sound recordings. 
+
+MPEG-3: MPEG-3 was propose as an entity, but eventually merged into MPEG-2. 
+
+MPEG-4: This is the newest MPEG system and is used for streaming internet content. It is also used in portable video recorders and for internet downloads. Required for DivX. It improves digital broadcasting and interactive graphics and multimedia. 
+
+MP3: Digital audio files, most commonly used to store and playback music. It compresses the files to about 10% of a normal audio file, and a normal music track will be about 5 -6 MB in size. MP3 stands for MPEG-1 Audio Layer 3, not MPEG-3 as many people think. A typical MP3 audio file is near CD quality. 
+
+OGG: An audio file format supporting a variety of codecs, the most popular of which is the audio codec Vorbis. However, MP3 files are much more broadly supported than Vorbis. 
+
+RA: Real Audio This format is designed for streaming audio over the Internet. It is a self-contained file format with all the audio information stored within the file itself. 
+
+WAV: The simplest of the audio file formats, developed by Microsoft and IBM, and built into Windows 95. It is an uncompressed audio file format with large file sizes (10 x MP3), and does not need further processing to play. The WAV file consists of three blocks of information: The RIFF block which identifies the file as a WAV file, The FORMAT block which identifies parameters such as sample rate and the DATA block which contains the actual data, or music sample. 
+
+WMA: Windows Media Audio A digital system invented by Microsoft, and is used in portable digital audio players. Using WMA, a file can be programmed so that it cannot be copied, and can be used to protect copyright. 
+
+WMF: Windows Media Format These are audio-video files comprising WMA and video codecs. They provide high quality and media security for streaming and download and play applications on computers. 
+
+WMV: Windows Media Video Used in the Windows media Player, this is used to stream and download and play audio and video content. 
+
+When dealing with audio and video file formats, you will sometimes notice the term 'codec'. A codec is simply short for encoder-decoder (or compressor - decompressor). A main function of a codec is to compress audio or video data streams so that transmission of digital audio samples and video frames can be speeded up and storage space reduced. 
+
+The objective of all codecs is to reduce the file size to a minimum while maintaining audio and video quality. A quick indication of the codec's place in the path of transmission and reception is: 
+
+Video device (e.g. camcorder) - video capture card - video digitized - codec (compresses digital info) - result (MPEG2, AVI, WMV etc) - codec (decompress) - video frames - display device. 
+
+Between the two codecs the compressed result is transferred to the display device transmitted, stored on file, etc). So to condense the flow even further, we could basically describe it as: 
+
+raw data - codec - transmit - codec - play 
+
+This is simplistic, but it shows where the codecs are used. Therefore, in order to play a movie, video or piece of music of a certain format, you need a codec in your computer to allow you to decompress the file and play it.
+
+

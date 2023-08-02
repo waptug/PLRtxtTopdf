@@ -1,0 +1,84 @@
+Title: 
+Making sure your daytrading plan works
+
+Word Count:
+1457
+
+Summary:
+In this article you would find inputs regarding how to "Define your Trading Goals and Make a Trading Plan". How to define your financial and trading goals! How to select the right market for your trading goals and the right daytrading plan.
+
+
+Keywords:
+Daytrading system, day trading system.
+
+
+Article Body:
+In our article "Define your Goals and Make a Plan" you learned:
+How to define your financial and trading goals.
+How to select the right market for your trading goals.
+What timeframe you should trade in.
+The difference between trading styles and how to find the right one for you.
+How to create a basic daytrading plan.
+Now that you defined your goals and created your daytrading plan, you need to make sure it really works. Thus far everything might look great, but how can you be sure that the day trading system works when you start trading it with real money?
+Evaluating a trading system is easier than you think. Below you'll find 10 Principles of Successful Day Trading Systems that we developed and refined over the last couple of years. You should use these Power Principles to evaluate your trading system, whether you developed it on your own or think about purchasing one. By checking a system against these principles you can dramatically increase the chances of being successful.
+Here we go:
+Principle #1: Few rules - easy to understand
+It may surprise you that the best <a href="http://www.rockwelltrading.com/daytradingcoach/01_dtc_moreinfo.html#COACHING"><b>daytrading systems</b></a> have less than 10 rules. The more rules you have, the more likely you "curve-fitted" your trading system to the past, and such an over-optimized system is very unlikely to produce profits in real markets.
+It's important that your rules are easy to understand and execute. The markets can behave very wild and move fast, and you won't have the time to calculate complicated formulas in order to make a trading decision. Think about successful floor traders: The only tool they use is a calculator, and they make thousands of dollars every day.
+
+
+Principle #2: Trade electronic and liquid markets
+I strongly recommend that you trade electronic markets because commissions are lower and you receive instant fills. You need to know as fast as possible if your order was filled and at what price, because based on this information you plan your exit. 
+You should never place an exit order before you know that your entry order is filled. When you trade open outcry markets (non-electronic) you might have to wait a while before you receive your fill. By that time, the market might have already turned and your profitable trade has turned into a loss! 
+When trading electronic markets you receive your fills in less than one second and can immediately place your exit orders. Trading liquid markets you can avoid slippage, which will save you hundreds or even thousands of dollars.
+
+Principle #3: Realistic expectations
+Losses are part of our business. A trading system that doesn't have losses is "too good to be true". Recently I ran into a trading system with a whopping winning percentage of 91% and a drawdown of less than $500. WOW!
+When looking at the details it turned out that the <a href="http://www.rockwelltrading.com/daytradingcoach/01_dtc_moreinfo.html#COACHING"><b>daytrading system</b></a> was only tested on 87 trades and - of course - curve fitted. If you run across trading systems with numbers too good to be true, then it's probably exactly THAT: Too good to be true.
+Usually you can expect the following from a robust trading system:
+·	A winning percentage of 60-80%
+·	A profit factor of 1.3 - 2.5
+·	A maximum drawdown of 10-20% of the yearly profit.
+Use these numbers as a rough guideline, and you will easily identify curve fitted systems.
+Principle #4: Maintain a healthy balance between risk and reward
+Let me give you an example: If you go to a casino and bet everything you have on "red", then you have a 49% chance of doubling your money and a 51% chance of losing everything. The same applies to trading: You can make a lot of money if you are risking a lot, but then risk of ruin is very high. You need to find a healthy balance between risk and reward. 
+Let's say you define "ruin" as losing 20% of your account, and you define "success" as making 20% profits. Having a trading system with past performance results let you calculate the "risk of ruin" and "chance of success". 
+Your risk of ruin should be always less than 5%, and your chance of success should be 5-10 times higher, e.g. if your risk of ruin is 4%, then your chance of success should be 40% or higher. 
+
+Principle #5: Find a system that produces at least five trades per week
+The higher the trading frequency, the smaller is the chances of having a losing month. If you have a trading system that has a winning percentage of 70%, but only produces 1 trade per month, then 1 loser is enough to have a losing month. In this example, you could have several losing months in a row before you finally start making profits. In the meantime, how do you pay for your bills?
+If your trading system produces five trades per week, then you have on average 20 trades per month. Having a winning percentage of 70% - your chances of a winning month are extremely high. 
+And that's the goal of all traders: Having as many winning months as possible!
+
+Principle #6: Start small - grow big
+Your daytrading system should allow you to start small and grow big. A good trading system allows you to start with one or two contracts, and then increases your position as your trading account grows. This is in contrast to many "martingale" trading systems that require increasing position sizes when you are in a losing streak. 
+You probably heard about this strategy: Double your contracts every time you lose, and one winner will win back all the money you previously lost. It's not unusual to have 4-5 losing trades in a row, and this would already require to trade 16 contracts after just 4 losses! Trading the e-mini S&P you would then need an account size of at least $63,200, just to meet the margin requirement. That's why martingale systems don't work.
+
+Principle #7: Automate your trading
+Emotions and human errors are the most common mistakes that traders make. By all means you have to avoid these mistakes. Especially during fast markets, it is crucial that you determine the entry and exit points fast and accurately; otherwise, you might miss a trade or find yourself in a losing position. 
+Therefore you should automate your trading and look for a trading system that either already is or can be automated. Automating your trading makes it free of human emotion. The buy and sell operations are all automatic, hands-free, with no manual interventions and you can be sure that you make profits when you should according to your plan.
+
+Principle #8: Have a high percentage of winning trades
+Your daytrading strategy should produce more than 50% winners. There's no doubt that daytrading systems with smaller winning percentages can be profitable, too, but the psychological pressure is enormous. Taking 7 losers out of 10 trades and not doubting the system takes great discipline, and many traders can't stand the pressure. After the sixth loser they start "improving" the system or stop trading it completely.
+Especially for beginners it is a big help to gain confidence in your trading and your system if you have a high winning percentage of more than 65%.
+
+Principle #9: Look for a trading system that is tested on at least 200 trades
+The more trades you use in your back testing (without curve-fitting), the higher the probabilities that your day trading system will succeed in the future. Look at the following table:
+Number of Trades 50 100 200 300 500 Margin of Error 14% 10% 7% 6% 4% 
+The more trades you have in your back testing, the smaller the margin of error, and the higher the probability of producing profits in the future.
+
+Principle #10: Chose a valid back testing period
+I recently saw the following ad: "Since 1994 I've taught thousands of traders worldwide a Simple and Reliable E-Mini trading methodology". 
+That's very interesting, because the e-mini S&P was introduced in September 1997, and the e-mini NASDAQ in June 1999, therefore, none of these contracts existed before 1997. What kind of e-mini trading did this vendor teach from 1994-1997???
+The same applies to your back testing: If you developed an e-mini S&P trading strategy, then you should back test it only for the past 3-4 years, because even though the contract has existed since 1997, there was practically nobody trading it (see chart below):
+ 
+ 
+As you can see, it's rather easy to find a trading system that works. By applying this checklist you will easily identify trading systems that work and those that will never make it.
+
+
+Author’s name
+Markus Heitkoetter
+Author's Info:
+Markus Heitkoetter is a 19 year veteran of the markets and the CEO of Rockwell Trading. For more free information and tips and trick how to make consistent profits with online trading, visit his website www.rockwelltrading.com.
+
+

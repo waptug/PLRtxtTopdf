@@ -1,0 +1,49 @@
+Title: 
+Why You Need to Visit WhoIs
+
+Word Count:
+550
+
+Summary:
+An incredible number of web sites disappear every year, and not intentionally
+
+
+Keywords:
+domain registration listing, whois, isp, internet service provider, administrative contact
+
+
+Article Body:
+Recent case studies of 5 small business owners who had their web sites disappear from the internet may be the subject of an upcoming eBook.  The situation happens more frequently than some people realize, so the following advice is being released now.  Free domain registration information is easily retrieved and should be reviewed by any site owner who is unfamiliar with the term "WhoIs".
+
+Many web site owners may not know what WhoIs means, so here is the short version and action plan.  Do this today!
+
+Web sites disappear for a variety of reasons, and small business owners are particularly susceptible to this problem because they are too busy running a business to learn about risks involved with a www domain or hosting.
+
+Here is an outline of the basic cause in each of the 5 case studies:
+
+1. Inactive Administrative Contact Email Address
+2. Hidden Registrar and Incorrect Registrant
+3. Expired Credit Card for Hosting
+4. Hijacked Domain and Identity Theft
+5. An Example of an ISP Shown as the Registrant
+
+Learn from the mistakes that others have made, and in a few easy steps you can prevent this unfortunate surprise.  Advice includes a cast of characters that may not be familiar.  Let's introduce them first so you understand the difference between registry, registrar, and registrant.
+
+Registry - the worldwide authority that controls issuing of www domains to avoid duplicates
+
+Registrar - a service company authorized to register or renew domains with the registry
+
+Registrant - the entity, person or company, who owns the license for a particular www domain
+* Note: No one owns a domain.  Registering is an exclusive license for a set period of time.
+
+Most web site owners acquire a www domain for personal or business use through a registrar who acts on your behalf and applies for your domain with the registry.  Approval is usually received within 24 hours.  Your registration information is then kept on file with the registry.  This is long forgotten until a problem occurs, usually by surprise!
+
+The solution: Using any major search engine, do a search on "whois" and follow the links to access a whois database.  Most have a search box for entering your www domain name, and once you hit enter or the go button the report is retrieved in a matter of seconds.
+
+Reports may vary in format, however, all should display key information including registrar, registrant, administrative contact, technical contact, and perhaps billing contact.  Confirm the accuracy of each, however, if any ONE piece of data is critical it is the administrative contact.  It should be you, and it should list a current active email address. If either is untrue, it needs to be corrected.  Next, let's explore the importance of the administrative contact.
+
+The only recognized authority for controlling your domain, including changes, is the administrative contact, but wait.  Changes can only be made by email correspondence, therefore your name as the registrant (or admin contact) does not make you the authorized person for changes.  It is whoever answers the email listed under administrative contact, so an old or invalid email address will not work.  The admin email address needs to be yours, and it needs to be kept current.
+
+Review your registration information.  Problems?  Begin with your internet service provider to learn how to have entries corrected.  You may need to contact your registrar, also.
+
+

@@ -1,0 +1,42 @@
+Title: 
+Take Your Drive With You With A Usb Drive
+
+Word Count:
+521
+
+Summary:
+Universal Serial Buses are a category of hardware that allows the easy addition or connection of extra serial devices into your personal computer. In Windows, USB supports are built in the Windows Driver Model Specification, or WDM, to grant compatibility and support to later developments in USB drivers.
+
+For installation of a USB device or computer peripherals, simply plug the cord of said device into the USB port of your host system. Another device known as IEEE 1394 is a...
+
+
+Keywords:
+
+
+
+Article Body:
+Universal Serial Buses are a category of hardware that allows the easy addition or connection of extra serial devices into your personal computer. In Windows, USB supports are built in the Windows Driver Model Specification, or WDM, to grant compatibility and support to later developments in USB drivers.
+
+For installation of a USB device or computer peripherals, simply plug the cord of said device into the USB port of your host system. Another device known as IEEE 1394 is a similar device, however the latest version of the USB works faster than the IEEE 1394. Though both the USB devices and the IEEE 1394 devices process on same technologies, their connections cannot be used interchangeably. This incompatibility is mainly due to the differences in size of the ports.
+
+The IEEE 1394 port measures approximately 1mm by 5mm while the USB port is 7mm by 1mm.
+
+In addition, the Institute Electrical and Electronics Engineer 1394 or IEEE 1394, or more commonly known as the FireWire, gained popularity over the previous version of the USB because of its faster speed in transferring data. Moreover, it is more commonly used for transferring digital photo and video into the computer. For this reason, the majority of digital cameras and video come with FireWire ports rather than the USB ports.
+
+Generally speaking, USB drives are used to provide an additional backup system for easier storage and retrieval operations. Also, you can widen the capacity of your mother system by adding USB drives.
+
+USB drives may appear in many forms. Two of these are Zip drives and the USB Flash drive (better known as the pen drives).
+
+USB drives may often function like hard drives, only that they are portable and can be carried around anywhere and can be plugged into different computer units.
+
+Flash drives or the pen drives have the same general characteristics. Basic features include light weight, small sizes, and portability. There is a wide variety of brands for USB drives. They almost always perform in the same way, only differing greatly in functionality, price, design, and other add-in features.
+
+This form of USB drive can be compared with other data transfer and storage media. USB drives are now available in both online and offline computer accessories stores, electronic distributors and e-retailers.
+
+USB drives are ideal for end users who are frequently transferring data from one individual computer unit to another, or for storing files which require large memory. Also, USB drives may benefit people who regularly transport documents, information, and digital files like digital pictures and videos.
+
+Oftentimes, USB drives are handier when compared to USB external hard drives and other forms of hard drives. Normally, the operating system does not require the configuration or the rebooting of the system before it recognizes and operates the USB drive. Also, most USB drives do not contain moving parts or separate components that can be damaged by being dropped or crushed.
+
+Moreover, USB drives can hold larger-sized data. Instead of the meager capacity of a 1.44 MB floppy disk, the USB drive can store as much as 2 gigabytes of memory. The most effective drives, however, can have a memory capacity of 8 GB.
+
+

@@ -1,0 +1,102 @@
+Title: 
+Upwardly Mobile
+
+Word Count:
+1868
+
+Summary:
+Strategies to bring sleek content from Hollywood movie producers and the highly-regarded Sundance Film Festival were presented alongside projects to make it easier for poor migrant workers to transfer money at last week's 3GSM World Congress, the largest event for the mobile telecommunications industry with an estimated 55,000 visitors this year.
+
+While the two initiatives may seem largely incompatible, it's a reflection of where the mobile sector is today: On the one hand ...
+
+
+Keywords:
+mobile phone, phone, mobile, cell, cell phone, technology, gsm, 3G, cellular
+
+
+Article Body:
+Strategies to bring sleek content from Hollywood movie producers and the highly-regarded Sundance Film Festival were presented alongside projects to make it easier for poor migrant workers to transfer money at last week's 3GSM World Congress, the largest event for the mobile telecommunications industry with an estimated 55,000 visitors this year.
+
+While the two initiatives may seem largely incompatible, it's a reflection of where the mobile sector is today: On the one hand there are many markets approaching saturation, where competition has seen the price of a call plummet and forced operators to look at new sources of revenue _ such as mobile entertainment. At the other extreme are the so-called "emerging markets," where mobile phone penetration can be as low as a single-digit percentage of the population and where average earnings mean that the price of a phone and the accompanying service charges are seen as luxury items.
+
+Somewhere in the middle is Thailand, with a fairly healthy mobile penetration rate hovering around 50 percent and healthy competition to match. Where the country falls down is the lack of the faster "third generation (3G)", http://www.mobilephoneportal.info/3g.htm , networks that are enabling new data services in many other places, including neighbouring Asian countries _ and a lack of any clear timetable to license 3G services.
+
+And with new technologies being introduced that are starting to bring mobile connection speeds to the Internet equal to that from fixed connections such as a DSL, Thailand could risk falling further behind.
+
+For example, in a video presentation Telstra CEO Sol Trujillo told congress delegates that it was already testing data access cards that offer Internet connections of 7.2Mbps, with plans to boost its "Next G" network to 14Mbps speeds. That's a great deal faster than most companies can get from their regular fixed broadband connection here in Thailand, and about 50 times faster than dial-up connections or the data connections available through Thai mobile operators.
+
+Telstra is using a technology called HSPA (high-speed packet access)http://www.mobilephoneportal.info/hspa.htm , which is an "add-on" to existing 3G networks and currently being deployed by many operators around the world. According to the GSM Association, there are now 149 HSPA networks in use or in trial in 69 countries.
+
+"It's a marriage of 3G with HSPA, what we call mobile broadband, and that's where the opportunity is," said Rob Conway, CEO of the GSM Association.
+
+Development won't stop there, however, and many vendors were openly talking about a new technology called "LTE" (for long-term evolution) that is expected to offer peak download speeds of up to 100Mbps _ although it will be up to five years before such networks and phones are widely available.
+
+Monetizing the mobile
+
+Mobile entertainment is not the only bet the industry has on the table, either, as plans were unveiled to marry the mobile phone with the finance and advertising sectors.
+
+The "marriage" with the finance sector would make it easier for overseas workers from developing countries to transmit money, according to Conway, who detailed plans in a keynote speech for a trial project with MasterCard that aims to tap into the estimated $230 billion revenue generated from international remittances.
+
+Conway said the challenge would be to "use mobile to connect the 'unbanked' and the 'underbanked' around the world," noting that to send 50 pounds from England to India can cost 12 pounds using the traditional banking system. "Mobile remittances also resonates with governments, as you can create transparency," he said, adding that for operators it can reduce churn, the industry term for when users transfer to rival operators.
+
+Conway said the programme will complement existing local remittance channels and make transferring money internationally significantly more affordable.
+
+Nineteen mobile operators representing more than 600 million users are participating in its programme, while the pilot project is being conducted in association with mobile operators in India and the Philippines.
+
+In another mobile-finance initiative announced last week, the association detailed plans to use a new technology called Near Field Communications (NFC) to link mobile devices with payment systems. The Pay-Buy Mobile scheme would make use of embedded technology in the SIM card for credit and debits, and already has 14 operators signed up to take part.
+
+While many mobile payment schemes have been proposed over the years, Conway believed this one would succeed as it is the "first truly global approach" and would leverage existing technologies being introduced by the major credit card companies.
+
+A trial will be done in Korea later this year, led by mobile operator KTF and including all key participants such as banks and credit card providers, retail outlets and handset manufacturers.
+
+Get ready for ads
+
+Also on the horizon, according to many in the industry, is mobile advertising. While that's not necessarily the mobile content that the average consumer was looking for, it will most likely come on an "opt-in" basis, according to Conway.
+
+As well as overcoming potential user resistance, he said that a key requirement for mobile advertising would be standardisation and a code of conduct for the industry. As a result, the association recently set up a Mobile Advertising Forum that would address such issues.
+
+If operators can agree on things such as common formats for mobile ads, there is a lot of potential, according to Vodafone CEO Arun Sarin. "We are clearly in a good environment to monetize what we can get from advertisers," Sarin told delegates, although he also warned that the industry needs to work together. "We need to seize the moment and if we don't we'll have a fragmented media and a fragmented user base," he said.
+
+Another company that sees potential in mobile advertising is Yahoo, which last week launched its mobile display advertising platform on the Yahoo! Mobile Web service (http://m.yahoo.com) in 19 countries _ including here in Thailand. The advertisements will run near the top of the Yahoo mobile homepage and will allow users to directly call the advertiser or access more information.
+
+Initial advertisers that have been signed up include Hilton's Embassy Suites, Infiniti, Intel, Nissan, Pepsi, Procter & Gamble Asia Pacific and Singapore Airlines.
+
+However, mobile advertising platforms from major Internet players such as Yahoo and rival Google also have the potential to by-pass the operator, cautioned analyst firm Analysys, which said that mobile carriers needed to use their detailed customer databases to gain a significant share of advertising revenues.
+
+"If this information is used intelligently, mobile operators have an opportunity to gain significant new revenues from mobile advertisers, who may be willing to pay a premium for access to a well-segmented audience," said Analysys consultant Andrew Kloeden.
+
+"Provided a business model that does not bypass the operators' networks emerges as dominant, mobile advertising may represent a source of significant ARPU [revenue] gains from mobile data services," he added.
+
+Pull down the walls
+
+While faster speeds for accessing mobile data and high-profile entertainment options _ such as mobile music and more lately mobile TV _ are what the industry likes to emphasise, the reality is that mobile data is still dominated by a relatively primitive service _ the humble SMS text message. That's the case whether the user is in the SMS-leading Philippines or in the UK, which boasts the largest share of data revenues in Western Europe, according to research firm Informa.
+
+One reason for the slow take-up of "richer" content offerings is because mobile operators in the past have tried to sell their own content and rope off the wider Internet, according to many industry observers. This so-called "walled garden" approach might have to change to get the average user interested in mobile data offerings.
+
+"There is only one Internet and I think we misunderstood that as an industry," said Simon Beresford-Wylie, CEO-designate of the soon-to-be-merged Nokia Siemens Networks. "Services and content [in the future] will come predominantly from the Internet and we have to understand that," he explained, adding that "we're moving from a world where there was a telecom rhythm to one that has an Internet rhythm."
+
+Michiel Verhoeven, general manager of Microsoft's Asia Pacific Communications Sector business, says that the walled garden approach is changing and notes that user-generated content will also come to the mobile world in the same way that it has been a major disruptor on the Internet.
+
+"It's about building communities and the ability to create communities drives revenues," said Verhoeven, who believes that rather than a "killer app" for the mobile Internet, operators should look for a "critical mass" of applications that they can offer.
+
+"A lot of operators have had a 'build it and do-it-yourself' mentality, but today you have to collaborate and partner more than any time in the past," he said, adding that content re-use across different platforms such as mobile phones, the web and IP-TV should become standard practice.
+
+In December Microsoft launched its Connected Services "Sandbox", an environment that allows software vendors, developers, system integrators, network equipment providers and service providers to leverage a pool of content and services. Applications created can either be hosted by operator partners or directly by Microsoft.
+
+"It's a new way of service aggregation but it can only work with a critical mass of services. Many fail, so you don't want huge investments in any one service," Verhoeven explained, adding that Thai mobile operators could also share from the Microsoft sandbox.
+
+At last week's event Microsoft and BT announced a competition around the Connected Services Sandbox with prizes up to US$25,000. The aim is to develop services that merge traditional telecommunications offerings such as voice or text messaging with Web 2.0 applications such as mapping or search. According to Microsoft, developers will be given the task of creating managed network mash-ups that address the specific service requirements of multiple usage scenarios.
+
+The fourth screen
+
+Despite the fact that it will be more likely proven services such as email and messaging that will build on the existing SMS-dominated revenues in the mobile world, it's things like Mobile TV and films made for the so-called "fourth screen" that dominate industry events like last week's Mobile World Congress.
+
+Rather than Hollywood, it was India's "Bollywood" and the independently-minded Sundance Film Festival that provided the fare in Barcelona. Premiering from Bollywood were two short films, Zahir and Matriomony _ part of the feature film Dus Kahaniyaan (10 Stories) produced by Sanjay Gupta of White Feather Films and starring more than 20 leading Bollywood stars. The films will be available through content provider Hungama Mobile.
+
+Meanwhile the Sundance Institute introduced five "made for mobile" short films commissioned as part of the Sundance Film Festival Global Short Film Project. The five mobile films are now available for mobile users to download at http://www.sundance.org/globalshortfilms.
+
+Unfortunately, downloading them here in Thailand could take a long time, given the lack of 3G services. Let's hope that situation changes soon so that we can take part in the mobile evolution that's occurring in the rest of the world. And not just for entertainment reasons, either.
+
+According to a study by Deloitte released last week in Barcelona, usage of mobile communications can spur growth. In a developing country, the study found that an increase of 10 percentage points in mobile penetration will lift the country's annual economic growth rate by 1.2 percentage points. What are we waiting for?
+
+

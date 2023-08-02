@@ -1,0 +1,22 @@
+Title: 
+Disaster Recovery More Than Meets the Eye
+
+Word Count:
+328
+
+Summary:
+As the Vice President of Operations for an online retailer of contact lenses, I am used to the potential problems related to doing business on the World Wide Web.
+
+
+Keywords:
+ business continuity, disaster recovery, IT services, IT security
+
+
+Article Body:
+As the Vice President of Operations for an online retailer of contact lenses, I am used to the potential problems related to doing business on the World Wide Web. Like any other online retailer, we have a responsibility to our customers to maintain their personal and payment information with the strictest of confidence and within regulatory guidelines mandated by our government. Security is a top priority, as it should be for any business who, by the very nature of the marketplace, exposes itself to the potential hazards of doing business in cyberspace. With so many opportunities for things to go wrong, businesses such as mine must take a proactive approach to avoid falling victim to an ever-increasing variety of threats. 
+
+Recently, a virus infiltrated our system through a disk brought in by an employee. It worked it's way onto our database in no time at all, and the potential for serious restriction of our ability to maintain functional operational status was obvious. While we have administrative and IT security safeguards to protect us from things of this nature, our precautions were inadequate to avoid this particular problem. Luckily, we had instituted a disaster recovery plan some years earlier that allowed us to rid our databanks of the virus without any loss of data, even the data collected on the day in question.
+
+For me, this was an eye opening event.  My previous thoughts on disaster recovery were limited to external events that might pose a potential risk. Despite all our efforts to the contrary, we were exposed and vulnerable. It wasn't the things that we worked on daily to maintain security that protected our company, but a plan of action conceived years earlier that had all but been forgotten. I now realize that there is so much more to disaster recovery than I previously thought.  We were lucky in this instance, but now I can't help but think of what might have happened had we not been prepared.
+
+

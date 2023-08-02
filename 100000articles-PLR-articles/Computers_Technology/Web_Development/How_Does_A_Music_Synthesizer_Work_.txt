@@ -1,0 +1,24 @@
+Title: 
+How Does A Music Synthesizer Work?
+
+Word Count:
+339
+
+Summary:
+A music synthesizer makes sounds by using an electrical circuit as an oscillator to create and vary the frequency of sounds in order to produce different pitches. As long as the pitch is within the range of frequency that can be heard by a human ear, it’s known as a “musical pitch” (so a dog whistle wouldn’t count) as a musical pitch. You can use a keyboard to vary these pitches at discrete intervals that correspond to the notes on the musical scale. If you put several oscill...
+
+
+Keywords:
+MIDI, electronic music, music synthesizers, synthesizers
+
+
+Article Body:
+A music synthesizer makes sounds by using an electrical circuit as an oscillator to create and vary the frequency of sounds in order to produce different pitches. As long as the pitch is within the range of frequency that can be heard by a human ear, it’s known as a “musical pitch” (so a dog whistle wouldn’t count) as a musical pitch. You can use a keyboard to vary these pitches at discrete intervals that correspond to the notes on the musical scale. If you put several oscillators together, you can combine several pitches to create a “chord”.
+
+OK, we’ve got pitch down (at least in a very simple sense). How do you vary the tone of a particular pitch? That is done by playing a given pitch with waveforms of different shapes (common waveforms include sine, square, sawtooth, and triangle waveforms). Since the harmonic structure of these waveforms differ, our ears interpret them as different tones. The sound you will hear can also be modified by voltage-controlled amplifiers (VCA) and voltage-controlled filters (VCF).
+
+Synthesizers are able to only mimic the sounds of non-synthetic instruments, but also to create sounds that absolutely cannot be played by anything but a music synthesizer. That is because a music synthesizer is well-suited to delicate manipulations of its oscillators. Nevertheless, it’s a lot easier for a synthesizer to create entirely new sounds than to mimic the sounds of acoustic instruments because the waveforms of acoustic instruments are so complex. Interestingly, once complex sound that synthesizers so far have been very bad at reproducing is the human voice (although improvements are being made in this technology).
+
+The entire electronic music scene would be virtually impossible without the use of synthesizers (no doubt some wish it were). Nevertheless, the number of sounds that a musician has to work with has been exponentially increasing in recent decades, and we have only scratched the surface of the creative possibilities. Imagine the consequences if a machine was invented that could generate 100,000 hitherto unknown colors?
+
+

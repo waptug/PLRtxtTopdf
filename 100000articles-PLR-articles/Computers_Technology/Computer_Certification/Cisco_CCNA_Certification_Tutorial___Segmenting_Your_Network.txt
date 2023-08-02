@@ -1,0 +1,28 @@
+Title: 
+Cisco CCNA Certification Tutorial:  Segmenting Your Network
+
+Word Count:
+305
+
+Summary:
+Learn how to use hubs, repeaters, switches, and routers to create collision and broadcast domains from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccna, cisco, certification, free, tutorial, switch, router, hub, repeater, osi, model, collision, broadcast, domain
+
+
+Article Body:
+When you're getting started on your CCNA studies on your way to earning this certification, you're swamped with network device types that you're familiar with, but not quite sure how to use. Let's look at these networking devices and their main purposes.
+
+Hubs and repeaters operate at Layer One of the OSI model, and they have one main purpose - regenerating the electrical signal that Layer One technologies carry. This regeneration helps to avoid attenuation, the gradual weakening of a signal. Much like a radio signal, the electric signals that travel at Layer One gradually weaken as they travel across the wire. Hubs and repeaters both generate a "clean" copy of the signal. 
+
+While hubs and repeaters can be helpful, they do nothing as far as network segmentation is concerned. The first such device we encounter as we move up the OSI model is the switch. Operating at Layer 2, a switch creates multiple collision domains by default each switch port is considered its own little collision domain. If 12 PCs are connected to a Cisco switch, you have 12 separate collision domains. 
+
+Switches can be used to segment the network into smaller broadcast domains, but this is not a default behavior. Virtual LAN (VLAN) configuration segments the network into smaller broadcast domains, since a broadcast sent by a host in one VLAN is heard only by other devices in the same VLAN.
+
+Routers operate at Layer 3 of the OSI model and segment a network into multiple broadcast domains by default. Routers do not forward broadcasts as switches do, making the router the only device of the four we've discussed today that create multiple broadcast domains by default.
+
+Knowing what each of these devices can and cannot do is essential to passing the CCNA and becoming a great network administrator. Good luck to you in both of these goals!
+
+

@@ -1,0 +1,44 @@
+Title: 
+Download Spam Blocker Now And Stop Spam Immediately
+
+Word Count:
+990
+
+Summary:
+Not everyone will like changing his email address to get rid of spam because many people share their email addresses with their friends, colleagues, subscribers, and customers. They also may have business cards and other material with the email addresses printed on them. Moreover, getting a new email address won’t free you from spam forever. It will work the first time while your email is new. But as far as you will be using it to communicate with your contacts, the spam flow...
+
+
+Keywords:
+Spam Filter, spam blocker, antispam software, spam killer
+
+
+Article Body:
+Not everyone will like changing his email address to get rid of spam because many people share their email addresses with their friends, colleagues, subscribers, and customers. They also may have business cards and other material with the email addresses printed on them. Moreover, getting a new email address won’t free you from spam forever. It will work the first time while your email is new. But as far as you will be using it to communicate with your contacts, the spam flow coming to that email address will be growing. So, how to combat spam? Where is the right solution? One of the effective ways to combat spam is using an anti-spam filter. Fortunately, there are a lot of anti-spam tools available on the Internet.
+
+I am using the anti-spam filter is called SpamCombat. For me, it’s a “must-have” tool. I've been using it for about 2 years and my statistics show that 80% of emails I receive are deleted by SpamCombat.
+
+The particularity of SpamCombat is that it works at the source i.e. it connects directly to your inbox on the server and manages the emails there. It’s not the same when you are using the filters in your email software, for example Outlook or Thunderbird. The major difference is that SpamCombat deletes spam and junk emails on the email server so that you never have to download them. Using an anti-spam filter in Outlook, for instance, would mean that you have to pull down the messages onto your computer first and then analyze and manage them accordingly. This may pose a threat if some emails contain viruses.
+
+SpamCombat is easy to use. It’ll take just a few minutes to set it up. The downloadable version of SpamCombat will never expire so you have plenty of time to decide if it is working for you. SpamCombat is provided with 6 filters, which detect spam emails with great accuracy and precision. You can customize the filters for your needs. On the company’s user forum there is a topic dedicated to SpamCombat filters: http://www.justlan.com/forum/viewtopic.php?t=937
+
+The program users gratefully share their filters with others and I found many useful anti-spam filters there. I added some of them to my SpamCombat installation and the amount of spam that was identified increased to 80%. This means that on average, 3 of every 10 emails I receive are legitimate and are allowed through by SpamCombat. The rest are deleted at the server and I don't have to spend time downloading them. This is a big deal if you are using dialup access to the Internet.
+
+There is a concept of a blacklist and a whitelist. You can “whitelist” and “blacklist” the emails by any field from the message header (not only by the From field where the message sender’s email address is) and by any word or phrase from the message content. SpamCombat will allow all emails through that are on the whitelist, and it will mark for deletion or automatically delete all those that are on the blacklist. Adding or removing someone from the whitelist or blacklist is a very simple point and click exercise.
+
+SpamCombat also allows using wildcards and regular expressions to set legitimate filters up. For example, if you specify all emails coming from your company domain name as being legitimate, then all messages from your colleagues will be allowed through without you having to specify each person. You can achieve this by using a wildcard setting such as "*@youworkdomain.com". This can also be used to blacklist an entire domain such that all messages are immediately marked for deletion or automatically deleted depending on your settings.
+
+There is also the Bayesian filter, self-learning system based on legitimate and spam emails you receive. I trained the Bayesian filter well and now it identifies my legitimate and spam emails in the proper way.
+
+SpamCombat also has more advanced filters. One of them is known as "DNSBL filter". There are servers on the internet which list known spam addresses. When you receive a message from one of these addresses, SpamCombat automatically marks it as spam without your filters even being invoked. This is a remarkable filter. It identifies about 10% of spam emails that I get.
+
+Another advanced filter is called Complex Filter. This filter is based on the VBScript. If you are familiar with the VBScript, you can write a script and add it to the Complex Filter. A nice filter is described there: http://www.glocksoft.net/sc/discover-amazingly-powerful-anti-spam-filter/
+
+The software configuration is very flexible. You can choose a deletion mode for spam emails by yourself: you can specify the emails to be deleted automatically without your participation, or you can have the program mark them for deletion but let you preview them just in case. This is important at the beginning until you tailor the program for your mail.
+
+You can also set SpamCombat to move spam emails to the internal program trash or delete them permanently. The emails will be stored in the trash for a number of days depending on your settings. There is also a way to recover an email from the trash and receive it with your regular email client.
+
+SpamCombat is independent software and does not interfere with your email client. It sits in the system tray and does its work thoroughly. On my computer, it checks my inbox every 20 minutes and notifies me that new emails arrived. I then review them and do a cleanout. I have my email client setup to only receive messages when I instruct it to so that SpamCombat has the most opportunity to do its work.
+
+SpamCombat is an indispensable tool in my email arsenal. If spam is a vital problem for you, it could do likewise for you. Download your free copy today and use it for as long as you want to fight spam on your main email account.
+
+

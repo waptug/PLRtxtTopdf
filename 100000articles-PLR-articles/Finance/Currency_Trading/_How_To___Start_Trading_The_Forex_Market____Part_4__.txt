@@ -1,0 +1,120 @@
+Title: 
+“How To”  Start Trading The Forex Market ? (Part 4 )
+
+Word Count:
+874
+
+Summary:
+How Currencies are quoted and what moves individual currencies?
+
+ONE of the best advantages in FOREX Trading is 
+
+The amount of money you need to place a trade (known as "margin") is all that can be lost !
+
+You have to know, that despite the super-high leverage offered by some Forex brokers up to (400:1); meaning if you put up $ 1000 the broker will allow you to trade like you really have $400.000).
+
+Forex trading is still less riskier than Stock or Futures Trading, w...
+
+
+Keywords:
+forex trading, forex exchange, online currency trading
+
+
+Article Body:
+How Currencies are quoted and what moves individual currencies?
+
+ONE of the best advantages in FOREX Trading is 
+
+The amount of money you need to place a trade (known as "margin") is all that can be lost !
+
+You have to know, that despite the super-high leverage offered by some Forex brokers up to (400:1); meaning if you put up $ 1000 the broker will allow you to trade like you really have $400.000).
+
+Forex trading is still less riskier than Stock or Futures Trading, where you can loose more than you have deposited in your account.
+
+This type of LEVERAGE does NOT EXIST in the equities or futures market
+
+In the Equities or Futures markets, very often, sudden and dramatic moves occur, against which you can’t protect yourself, even by having placed your protective stops.
+
+Your position may be liquidated at a loss, and you’ll be liable for any resulting deficit in the account.
+
+But because of the FX market’s deep liquidity and 24-hour, continuous trading, dangerous trading gaps and limit moves are almost eliminated.
+
+Orders are executed quickly, without slippage or partial fills. And finally, there are no margin calls. For your protection, the broker will automatically close out some or all of your open positions if your account equity falls below the level required to hold the positions.
+
+Think of this as a final, automatic stop, always working on your behalf to prevent a debit balance. 
+
+Currencies are traded in dollar amounts called “ LOTS”
+
+In Forex trading, with most Brokers, you have the choice between 2 different lot sizes.
+
+Standard Lots or Mini Lots.
+
+One Standard lot is equal to $100,000 in currency. The margin requirements, using a 400:1 Leverage, would be US$ 250, in other word you control $100,000 worth of currency for only 250 US dollars. 
+
+You mean, depositing $250 with a broker, I could trade 100,000$ worth of currency ???
+
+NO, be aware, that your account size has to be more than the required margin of US 250. For example, if you place an order to buy 1 Standard lot ( @100,000) of USD/JPY and USD/JPY is quoted as 112.10/112.13, you buy USD/JPY at 112.13.
+
+Your account balance would be $220, because you paid 3 pips or $ 30 for this trade. 
+
+If you would close this trade immediately, you have to sell it at 112.10 (the bid price) , for a loss of $ 30.
+
+In fact you could not get executed on this trade, as the brokers trading platform would reject your order, for the reason of having insufficient funds in your account).
+
+So, your account balance has to be minimum $280. $250 for margin and $30 for the trade.
+
+BUT....IF, after you have initiated the trade to buy USD/JPY at 112.13, and the USD/JPY falls the next second 1 pip ( approx. $8), your position would be closed automatically, because of margin deficit.
+
+I will explain later about having an adequate account size to trade the Forex Market.
+
+Currencies are always traded in pairs in the FOREX. The pairs have a unique notation that expresses what currencies are being traded.
+
+The symbol for a currency pair will always be in the form ABC/DEF. ABC/DEF is not a real currency pair, it is an example of a symbol for a currency pair. In this example ABC is the symbol for one countries currency and DEF is the symbol for another countries currency.
+
+Some of the most common symbols used in Forex are:
+
+USD - The US Dollar 
+EUR - The currency of the European Union "EURO"
+GBP - The British Pound or cable
+JPY - The Japanese Yen
+CHF - The Swiss Franc
+AUD - The Australian Dollar
+CAD - The Canadian Dollar 
+
+There are symbols for other currencies as well, but these are the most commonly traded ones.
+
+A currency can never be traded by itself. So you can not ever trade the USD by itself. You always need to BUY one currency and SELL another currency to make a trade possible. 
+
+Some of the most traded currency pairs are:
+
+EUR/USD Euro against US Dollar 
+
+USD/JPY US Dollar against Japanese Yen 
+
+GBP/USD British Pound against US Dollar 
+ 
+USD/CAD US Dollar against Canadian Dollar 
+
+AUD/USD Australian Dollar against US Dollar 
+
+USD/CHF US Dollar against Swiss Franc 
+
+EUR/JPY Euro against Japanese Yen 
+
+The currency left of the / is called the base currency. 
+
+The currency right of the / is called the counter currency.
+
+When you place an order to buy the EUR/USD, for instance, you are actually buying the EUR and selling the USD. 
+
+If you were to sell the pair, you would be selling the EUR and buying the USD. So if you buy or sell a currency PAIR, you are buying/selling the base currency. 
+
+The best way to remember is, by just thinking of the entire currency pair as one item. 
+
+If you buy it...you buy the first currency and sell the second currency. If you sell it...you sell the first currency and buy the second currency. 
+
+That means you would to be able to short-sell with no restrictions so you could make money when the market drops as well as when it rises.
+
+The problem with traditional stock market or commodity trading is that the market has to go up for you to make money. With FOREX trading you can make money in all directions.
+
+

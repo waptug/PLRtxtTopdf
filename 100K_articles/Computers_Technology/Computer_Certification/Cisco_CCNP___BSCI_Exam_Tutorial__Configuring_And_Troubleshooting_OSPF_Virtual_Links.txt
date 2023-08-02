@@ -1,0 +1,101 @@
+Title: 
+Cisco CCNP / BSCI Exam Tutorial: Configuring And Troubleshooting OSPF Virtual Links
+
+Word Count:
+606
+
+Summary:
+Configuring and troubleshooting OSPF virtual links are skills you'll need to pass the BSCI exam. Learn these skills from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+cisco, ccnp, certification, bsci, ospf, virtual, links, stub, total, area, ccna, pass, free, transit
+
+
+Article Body:
+Knowing when and how to create an OSPF virtual link is an essential skill for BSCI and CCNP exam success, not to mention how important it can be on your job! As a CCNA and CCNP candidate, you know the theory of virtual links, so let's take a look at how to configure a virtual link, as well as some real-world tips that many CCNA and CCNP study guides leave out!
+
+In this configuration, no router with an interface in Area 4 has a physical interface in Area 0. This means a logical connection to Area 0, a virtual link, must be built.
+
+In the following example, R1 and R3 are adjacent and both have interfaces in Area 0. R4 has an adjacency with R3 via Area 34, but R4 has no physical interface in Area 0 and is advertising its loopback 4.4.4.4 into OSPF. R1 doesn't have the route to that loopback.
+
+R1#show ip route ospf
+
+6.0.0.0/32 is subnetted, 1 subnets
+
+O 6.6.6.6 [110/11] via 10.1.1.5, 01:05:45, Ethernet0
+
+172.23.0.0/27 is subnetted, 1 subnets
+
+O IA 172.23.23.0 [110/74] via 172.12.123.3, 00:04:14, Serial0
+
+7.0.0.0/32 is subnetted, 1 subnets
+
+O 7.7.7.7 [110/11] via 10.1.1.5, 01:05:45, Ethernet0
+
+To resolve this, a virtual link will be built between R3 and R4 through Area 34. The area through which the virtual link is built, the transit area, cannot be a stub area of any kind.
+
+R4(config)#router ospf 1
+
+R4(config-router)#area 34 virtual-link 3.3.3.3
+
+
+R3(config)#router ospf 1
+
+
+2d07h: %OSPF-4-ERRRCV: Received invalid packet: mismatch area ID, from backbone area must be virtual-link but not found from 172.23.23.4, Ethernet0
+
+
+R3(config)#router ospf 1
+
+R3(config-router)#area 34 virtual-link 4.4.4.4
+
+R3(config-router)#^Z
+
+2d07h: %OSPF-5-ADJCHG: Process 1, Nbr 4.4.4.4 on OSPF_VL0 from LOADING to FULL, Loading Done
+
+A few details worth noting... the virtual link command uses the remote device's RID, not necessarily the IP address on the interface that's in the transit area. Also, don't worry about that error message you see in the output from R3 that is normal and you'll see it until you finish building the virtual link. 
+
+Always confirm the virtual link with show ip ospf virtual-link. If you've configured it correctly, the VL should come up in a matter of seconds.
+
+R3#show ip ospf virtual-link
+
+Virtual Link OSPF_VL0 to router 4.4.4.4 is up
+
+Run as demand circuit
+
+DoNotAge LSA allowed.
+
+Transit area 34, via interface Ethernet0, Cost of using 10
+
+Transmit Delay is 1 sec, State POINT_TO_POINT,
+
+Timer intervals configured, Hello 10, Dead 40, Wait 40, Retransmit 5
+
+Hello due in 00:00:00
+
+Adjacency State FULL (Hello suppressed)
+
+Index 2/4, retransmission queue length 1, number of retransmission 1
+
+First 0x2C8F8E(15)/0x0(0) Next 0x2C8F8E(15)/0x0(0)
+
+Last retransmission scan length is 1, maximum is 1
+
+Last retransmission scan time is 0 msec, maximum is 0 msec
+
+Link State retransmission due in 3044 msec
+
+Virtual links are actually simple to configure, but for some reason they seem to intimidate people. It's my experience that the error message highlighted in R3's output above causes a lot of panic, but the only thing that message means is that you're not finished configuring the virtual link yet.
+
+There are three main misconfigurations that cause 99% of virtual link configuration issues:
+
+Using the wrong OSPF RID value
+
+Trying to use a stub area as the transit area
+
+Failure to configure link authentication on the virtual link when Area 0 is running authentication
+
+That last one is the one that gets forgotten! A virtual link is really an extension of Area 0, and if Area 0 is running link authentication, the virtual link must be configured for it as well. Pay attention to the details. don't panic when you see the error message on the second router you configure with the virtual link, and you'll be ready for any virtual link situation on the job or in the CCNA / CCNP exam room!
+
+

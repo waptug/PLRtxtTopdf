@@ -1,0 +1,48 @@
+Title: 
+Cisco CCNA Exam Tutorial:  Five OSPF Hub-And-Spoke Details You Must Know!
+
+Word Count:
+440
+
+Summary:
+OSPF hub-and-spoke networks have many details that you must know for the CCNA exam and the real world. Learn these vital details from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccna, cisco, certification, exam, free, tutorial, ospf, hub, spoke, neighbor, isdn, demand, circuit, adjacency
+
+
+Article Body:
+CCNA exam success depends greatly on knowing the details, and if there's one protocol that has a lot of details, it's OSPF!  This is true particularly of hub-and-spoke networks, so in this CCNA OSPF tutorial we'll take a look at some of the more important hub-and-spoke OSPF details.  This will help you in working with real-world networks as well, since this OSPF network type is one of the more typical network topologies.
+
+In OSPF, the hub must become the designated router (DR).  The DR election's deciding value is the OSPF interface priority, and the default value is 1.  It's not enough to set the hub's OSPF interface to 2, however, since the spoke routers must not become the DR or BDR.  You must set the spoke interfaces to an OSPF priority of zero.
+
+R2(config)#int s0
+
+R2(config-if)#ip ospf priority 0
+
+This ensures that the spokes will not become the DR or BDR if the hub goes down.
+
+The hub does require a bit more configuration, though.  The neighbor command must be used on the hub to indicate the IP address of the potential neighbors.
+
+R1(config)#router ospf 1
+
+R1(config-router)#neighbor 172.12.123.2
+
+R1(config-router)#neighbor 172.12.123.3
+
+It's common to have an ISDN link as a backup in an OSPF network, and when that ISDN link comes up the hello packets must be able to cross the link.  What you don't want is to have the hellos keep the link up!  By configuring the ISDN link as an OSPF demand circuit, the link will drop in the absence of interesting traffic, but the OSPF adjacency that formed across the ISDN link will be assumed by the router to still be up.  (You usually see this command configured on both sides of the ISDN link, but it's only needed on one side.  It doesn't hurt anything to put it on both sides, though.)
+
+R2(config)#int bri0
+
+R2(config-if)#ip ospf demand-circuit
+
+A final detail of OSPF hub-and-spoke and demand circuits actually takes place at Layer 2.  For the OSPF hello packets to successfully be transmitted across an ISDN link or a frame relay network, the broadcast option must be enabled in the appropriate frame and dialer map statements.  Failure to enable this option can lead to a situation where pings will be successful, but OSPF adjacencies will not form.  
+
+R2(config-if)#dialer map ip 172.12.21.1 name R1 broadcast 5551111
+
+R2(config-if)#frame map ip 172.12.123.1 221 broadcast
+
+When you're troubleshooting OSPF in a production network or your CCNA / CCNP home lab, don't just look at Layer 3 - because everything's got to be right at the physical and data link layers in order for the network layer to function correctly!
+
+

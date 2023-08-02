@@ -1,0 +1,24 @@
+Title: 
+The Origin Of The Species Of Search Engines, Part 1
+
+Word Count:
+333
+
+Summary:
+Search engines have revolutionized the way that we use computers. Instead of data being a bunch of files in an archive that requires file cards to look up, data is extremely versatile and constantly at the tips of our fingers. If you want a document that you wrote a few weeks ago, you only have to remember a few of the words that you used to be able to search for it across your whole hard drive. It is easy to take this convenience for granted, until you consider what the alte...
+
+
+Keywords:
+
+
+
+Article Body:
+Search engines have revolutionized the way that we use computers. Instead of data being a bunch of files in an archive that requires file cards to look up, data is extremely versatile and constantly at the tips of our fingers. If you want a document that you wrote a few weeks ago, you only have to remember a few of the words that you used to be able to search for it across your whole hard drive. It is easy to take this convenience for granted, until you consider what the alternative would be – tedious systems of archival.
+
+The first true search engine was called Archie. It was coded in 1990 by a student. The program would go through all of the files on a particular sites, and scour them for information used for directories. Then it would save all of this information, and turn it into a database of files. This database was easily searched using Archie. Archie was not known to the public, but created lots of excitement in the world of computer science.
+
+The next important advance in search engines was the Gopher program. Archie had a weakness that Mark McCahill noticed, and that was that it only searched titles, and not the contents of files. So he wrote Gopher, which indexed text files for quick and easy searching. Gopher is usually associated with other programs called Veronica and Jughead, which dealt with the actual searching algorithms for finding files within the Gopher index.
+
+These file services were all leading up to the next big advance in search engines, and that was to put one on the web. The first search engine on the internet was Wandex, which allowed users to search for words in the titles of web pages that had been indexed by the crawler program. The first search engine to show a sign of things to come was WebCrawler. This engine established many modern standards, including the ability to search entire web pages for any word contained within.
+
+

@@ -1,0 +1,65 @@
+Title: 
+Buyer's Guide: CCTV, Video Surveillance, and Security Cameras
+
+Word Count:
+586
+
+Summary:
+In today's environment, businesses are increasingly relying on video surveillance systems. But how do you choose the best CCTV system, camera, or DVR?
+
+
+Keywords:
+cctv, security camera, dvr, digital video recorder, video surveillance, nuvico camera, geovision
+
+
+Article Body:
+In today's environment, businesses increasingly rely on video surveillance systems. But how do you choose the best CCTV system, camera, or DVR? Read on to learn the steps to take in choosing the right video surveillance system for your needs.
+
+CCTV Objectives
+
+The first step in designing a CCTV system is to determine the following:
+
+* How many cameras are required?
+* What are the key fields of view?
+* What are your recording requirements?
+* What are the lighting conditions at each camera location?
+* Where do you need live video monitoring?
+* How long do you need to keep the video files?
+
+Security Camera
+
+The types of security camera you choose depend upon whether they'll be used indoors or outdoors, during the day and/or night, and where they will be mounted. 
+
+Indoor Dome Camera: In nine out of ten instances, and indoor dome camera is used for general indoor applications. It's typically mounted on the ceiling, and can be configured for standard color, day/night, or infrared. 
+
+Box Camera: Box cameras are usually sold independent of lenses, which are mounted to provide flexibility for different fields of vision. Box cameras can be mounted alone or in an enclosure.
+
+Outdoor Dome Camera: Common for locations that have entry and exit points with limited night lighting, outdoor dome cameras typically have hard shell vandal-proof casings and a variety of lens options.
+
+Day/Night Camera: For low light conditions, the day/night camera is the best choice. During the day, the camera records in standard color, then switches to a low-lux black and white mode at night.
+
+Infrared Camera: When there is no available light, an infrared camera is the way to go. Infrared LEDs are automatically illuminated and the camera records in black and white mode, offering camera views in complete darkness. 
+
+PTZ Camera: A pan-tilt-zoom camera gives the operator the ability to view and zoom in all directions. The CCTV operator can set the camera to automatically rotate to different fields of vision. Plus, a PTZ camera can include optional applications that dynamically track objects in defined areas.
+
+Digital Video Recorder
+
+DVRs are integral to the success of any CCTV project. With higher video resolution, data compression, and faster recording speeds, DVRs are better than every. Professional DVRs allow for network or remote monitoring of CCTV video. With video distribution across LANs, WANs, and the Internet, the DVR is also used for business systems monitoring.
+
+Choosing the correct DVR means answering the following questions:
+
+* How many cameras do you have?
+* What recording speed do you require?
+* How long do you need to keep the recordings?
+* Where will the DVR system be located?
+* Do you have remote monitoring requirements?
+
+The most important aspect of a CCTV system layout is the location of the DVR. It is the lifeline of the CCTV system, so must be kept in a secure location, preferably in a lockbox. 
+
+Leading Brands
+
+Nuvico and GeoVision are leading brands for cameras and DVRs. With a Nuvico camera, you have many choices, and both Nuvico and GeoVision offer superior DVRs. Complete CCTV systems are also available with four cameras, eight cameras, or 16 cameras, depending on your needs. These systems often feature a Pentium-based Dell computer, a GeoVision DVR, and Samsung CCTV cameras.
+
+Whichever CCTV system you choose, remember to ask yourself important questions about location, lighting conditions, and the length of time you need to keep the video files. Once you have those answers, it will be much easier to find the right CCTV system to fit your needs.
+
+

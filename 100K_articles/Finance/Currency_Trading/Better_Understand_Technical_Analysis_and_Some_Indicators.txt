@@ -1,0 +1,60 @@
+Title: 
+Better Understand Technical Analysis and Some Indicators
+
+Word Count:
+807
+
+Summary:
+We’re focusing on technical analysis in this article with a description of some of the important indicators.
+
+
+Keywords:
+Forex, trading, technical analysis, MACD, RSI, Fibonacci, RSI, Bollinger
+
+
+Article Body:
+We’re focusing on technical analysis in this article with a description of some of the important indicators.
+
+We could say, all wealthy traders use technical analysis but not all technical analysis traders are wealthy although T.A. is the most precise way of trading the Forex market. It’s also useful note that fundamentals play their part in indicating whether a price will move up or down. It gives you the edge over other traders.
+
+Technical Analysis is so powerful because of a few reasons
+
+1)	it represents numbers. All information and its impact on the market and traders is represented in a currency’s price.
+2)	It helps to predict trends and the foreign exchange market is very ‘trendy’.
+3)	Certain chart patterns are consistent, reliable and repeat themselves. T.A. helps us to see them.
+
+Here’s one way of putting technical analsysis into perspective (wish I had a dollar each time I said ‘technical analysis’). We all know that prices move in trends. Research has shown that those that trade ‘with the trend’ greatly improve their chances of making a profitable trade.
+
+Trends help you become aware of the overall market direction and often rescue us from less then profitable entry points. I attended a 2 day course costing me over $2500 AUD and the biggest thing I learned from it was the need for discipline and emotional control. The content was so basic that within the next 3 or 4 articles, I would have covered all of it. So learning the ‘tools of the trade’ the technical indicators and their applications will help you to diagnose what the market is doing but even then you need to expect ups and down and trade with emotional control.
+
+Stay with the trend, follow the price. 
+
+Find the price of the currency pair. If EUR/USD is 1.4224 and moves to 1.4180 then 1.4090 then the market is in a down trend. Concern yourself only with what the market IS doing not what it might do. Listen to the markets and the indicators will backup what they are telling you.
+
+Moving Averages.
+Tell you the price at a given point of time over a defined period of intervals. They are called moving because they give you the latest price while calculating the average based on the selected time measure.
+
+They lag the market so to give you an indication of a change in trend, use a shorter average such as a 5 or 10 day moving average. By combining a shorter term and longer term M.A. you can detect a buy signal when the shorter term crosses the longer term moving average in the upward direction. Or a sell signal if it crosses in a downward direction. For example, you could use a 5 day versus a 20 day moving average or a 40 day versus a 200 day moving average.
+There are simple moving averages, linearly weighted which gives more importance to the recent prices or exponentially weighted. The latter is a favourite because it considers all prices in a time period but emphasizes the importance of the most recent price changes.
+
+MACD
+Based on moving averages, a MACD plots the difference between a 26 exponential moving average and a 12 day exponential moving average, with a 9 day used as a trigger line. If a MACD turns positive when the market is still plummeting it could be a strong buy signal. The converse also works.
+
+Bollinger Bands (sounds like an elastic band)
+Prices tend to stay between the upper and lower bands. They widen and become more narrow depending on the volatility of the market at the time. A sell signal would be when the moving average is above the Bollinger bands and vice versa for a buy signal. Some traders use it in conjunction with RSI, MACD, CCI and Rate of Change.
+
+Fibonacci Retracement
+Describe cycles found throughout nature and when applied to technical analysis can find shifts in the market trends.  After a climb prices often retrace a large portion sometimes all of the original move. Support and resitance levels often occur near the Fibonacci retracement levels.
+
+RSI
+Relative Strength Index measures the market activity to see whether it’s overbought or oversold. This is a leading indicator so helps to indicate what the market is going to do (awesome!). Ahigher RSI number indicates overbought (so expect a bearish shift) and a lower number indicates oversold.
+
+Successful traders will generally use 3 or 4 signals to provide a more conculsive signal before entering a trade. 
+
+Always remember, “If in doubt, stay out!” . Technical analysis doesn’t factor in political news, a country’s economic profile or fundamental supply and demand.
+
+Technical Analysis helps us figure out how much money to risk on a trade. How and when to enter the market and how to exit the trade for profit or to minimize loss.
+
+I sincerely hope you found this article useful.
+
+

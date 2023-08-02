@@ -1,0 +1,124 @@
+Title: 
+Cisco CCNP / BSCI Exam Tutorial:  Introduction To Policy Routing
+
+Word Count:
+785
+
+Summary:
+You've got to know policy routing to earn your CCNP, but what is policy routing to begin with?  Learn the basics from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+ccnp, bsci, exam, tutorial, policy, routing, bgp, route, map, set, match, clause, show, ip, bryant
+
+
+Article Body:
+Policy routing is a major topic on your BSCI exam, and you'll find quite a bit of policy routing going on in today's production networks.  But what exactly is policy routing?
+
+Policy-based routing, generally referred to as "policy routing", is the use of route maps to determine the path a packet will take to get to its final destination.  As you progress through your CCNP studies and go on to the CCIE (or to a Cisco Quality Of Service certification), you'll find that traffic can be "marked" by policy routing in order to give different levels of service to various classes of traffic.  (This is done by marking the traffic and placing the different classes of traffic in different queues in the router, allowing the administrator to give some traffic higher priority for transmission.)
+
+There are some basic policy routing rules you should know:
+
+Policy routing doesn't affect the destination of the packet, but does affect the path that is taken to get there.
+
+Policy routing can forward traffic based on the source IP address or the destination IP address (with the use of an extended ACL).
+
+Policy routing can be configured at the interface level, or globally.
+
+
+Applying policy routing on an interface affects only packets arriving on that interface:
+
+R2(config)#int s0
+
+R2(config-if)#ip policy route-map CHANGE_NEXT_HOP
+
+Applying the policy globally applies the route map to packets generated on the router, not on all packets received on all interfaces.
+
+Whether you're running policy routing at the interface level, on packets created locally, or both, always run the command show ip policy to make sure you've got the right route maps on the proper interfaces.
+
+R2#show ip policy
+
+Interface      Route map
+
+local             CHANGE_NEXT_HOP
+
+Serial0        CHANGE_NEXT_HOP
+
+And here's the big rule to remember....
+
+If a packet doesn't match any of the specific criteria in a route map, or does match a line that has an explicit deny statement, the data is sent to the routing process and will be processed normally.  If you don't want to route packets that do not meet any route map criteria, the set command must be used to send those packets to the null0 interface.  This set command should be the final set command in the route map.
+
+There are four possibilities for an incoming packet when route maps are in use.  The following example illustrates all of them.
+
+R2(config)#access-list 29 permit host 20.1.1.1
+
+R2(config)#access-list 30 permit host 20.2.2.2
+
+R2(config)#access-list 31 permit host 20.3.3.3
+
+R2(config)#access-list 32 permit host 20.4.4.4
+
+R2(config)#route-map EXAMPLE permit 10
+
+R2(config-route-map)#match ip address 29
+
+R2(config-route-map)#set ip next-hop 40.1.1.1
+
+
+R2(config-route-map)#route-map EXAMPLE permit 20
+
+R2(config-route-map)#match ip address 30
+
+Assuming the route map has been applied to the router's ethernet0 interface, a packet sourced from 20.1.1.1 would meet the first line of the route map and have its next-hop IP address set to 40.1.1.1.
+
+A packet sourced from 20.2.2.2 would match the next permit statement (sequence number 20).  Since there is no action listed, this packet would return to the routing engine to undergo the normal routing procedure.  All traffic that did not match these two addresses would also be routed normally - there would be no action taken by the route map.
+
+Perhaps we want to specifically block traffic sourced from 20.3.3.3 or 20.4.4.4. We can use multiple match statements in one single route map, and have packets matching those two addresses sent to the bit bucket - the interface null0.
+
+R2(config)#route-map EXAMPLE permit 30
+
+R2(config-route-map)#match ip address 31
+
+R2(config-route-map)#match ip address 32
+
+R2(config-route-map)#set ?
+
+  as-path           Prepend string for a BGP AS-path attribute
+
+  automatic-tag     Automatically compute TAG value
+
+  comm-list         set BGP community list (for deletion)
+
+  community         BGP community attribute
+
+  dampening         Set BGP route flap dampening parameters
+
+  default           Set default information
+
+  extcommunity      BGP extended community attribute
+
+  interface         Output interface
+
+  ip                IP specific information
+
+  level             Where to import route
+
+  local-preference  BGP local preference path attribute
+
+  metric            Metric value for destination routing protocol
+
+  metric-type       Type of metric for destination routing protocol
+
+  origin            BGP origin code
+
+  tag               Tag value for destination routing protocol
+
+  weight            BGP weight for routing table
+
+R2(config-route-map)#set interface null0
+
+Any traffic matching ACLs 31 or 32 will be sent to null0, resulting in its being discarded by the router.  Any traffic that didn't match any of the route map statements will be returned to the routing engine for normal processing.
+
+Knowing policy routing and how to apply it are essential skills for passing the BSCI exam, earning your CCNP, and becoming more valuable in today's job market.  Get some hands-on practice in a CCNA / CCNP home lab or rack rental to go along with learning the theory, and you'll be writing and applying policy routing in no time at all.
+
+

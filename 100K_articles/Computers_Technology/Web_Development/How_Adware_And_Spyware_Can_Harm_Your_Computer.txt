@@ -1,0 +1,28 @@
+Title: 
+How Adware And Spyware Can Harm Your Computer
+
+Word Count:
+553
+
+Summary:
+We all know that computer viruses exist and have heard the many horror tales of how they can take out thousands of computers in one shot.  Unfortunately for those whose computer has been damaged by a computer virus, these tales are not only true, but very destructive and time-consuming.  However, even if you know how to protect your computer from one of these malicious viruses, there are other malware programs that can be almost as damaging and is far more common.  The culpri...
+
+
+Keywords:
+pc security,computer security,adware,spyware,computer virus,pc virus,firewall,computer firewall
+
+
+Article Body:
+We all know that computer viruses exist and have heard the many horror tales of how they can take out thousands of computers in one shot.  Unfortunately for those whose computer has been damaged by a computer virus, these tales are not only true, but very destructive and time-consuming.  However, even if you know how to protect your computer from one of these malicious viruses, there are other malware programs that can be almost as damaging and is far more common.  The culprits are called spyware and adware.  
+
+These irritating programs can interfere with your computer every time you jump online. Adware is more or less harmless when settled onto your computer by itself.  Mostly it simply generates a lot of spam (unsolicited and unwanted email) for products that bring advertising directly to your email.  Adware can also produce "popup" ads on your computer.  
+
+Spyware, however, is much more threatening and dangerous to your computer.  Spyware not only floods you with advertisements, but it also accesses information on your computer and delivers it to other companies and potentially dangerous people.  Additionally, spyware can change your entire computer through PC configurations which open you up to a world of trouble.  Spyware is utilized by unscrupulous people as one of the main means of identity theft because it fishes information from your computer and can "learn" about almost anything you do on the Internet, then report back to the originator.  
+
+There are numerous methods for ridding your computer of spyware, but the most effective is learning to avoid it in the first place.  You can begin this process by adjusting your computer settings appropriately.  Depending on your operating system, you may need to do some informal reading of your system's help files. You should find your Internet connectivity options and then look for a tab that refers to the security of your computer system.  You should always adjust this to at least Medium security, or Medium-High.  If you change it to High security, that setting might actually prevent you from accessing web sites that you need; so Medium is normally recommended. 
+
+You also need to ensure you have a firewall in place on your computer.  A firewall is sofrware that can be configured to automatically block out unidentified programs which attempt to gain uninvited access to your computer.  The parameters of your firewall are easy to set, and by doing so you allow certain programs in while keeping harmful (or questionable) ones out.  Given most people's lack of knowledge about programs that need to run on a computer, a firewall will sometimes try to block program resources that are indeed harmless.  That, however, it is a small inconvenience for keeping your computer and information safe from intruders.  
+
+Lastly you certainly will need an anti-spyware program running on your computer's background.  This helpful software can be downloaded from an Internet merchant or purchased at any store selling computer software.  You need a program that can detect and intercept spyware as it attempts to invade your computer; it should also have the ability to scan your computer for existing spyware and isolate it.  Make sure to keep your anti-spyware program up-to-date with new daily or weekly "definition" files so that it works effectively. You never want to leave your computer unprotected and open to spyware or adware.
+
+

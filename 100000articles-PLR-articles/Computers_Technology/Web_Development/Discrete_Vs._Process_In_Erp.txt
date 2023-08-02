@@ -1,0 +1,32 @@
+Title: 
+Discrete Vs. Process In Erp
+
+Word Count:
+413
+
+Summary:
+One of the saddest things is a manufacturer who chooses an ERP software system that does not a fit with what they do. For example, a chemical producer who selects and implements software designed for a type of company which manufactures solid objects such as furniture. There once was a company that provided consumer packaged goods to the convenience marketplace who selected fish disassembly software. These are obvious mismatches. But the specifics may not be clear.
+
+There a...
+
+
+Keywords:
+ERP, ERP failure, Discrete, Process, Manufacturing software, enterprise resource planning, selecting
+
+
+Article Body:
+One of the saddest things is a manufacturer who chooses an ERP software system that does not a fit with what they do. For example, a chemical producer who selects and implements software designed for a type of company which manufactures solid objects such as furniture. There once was a company that provided consumer packaged goods to the convenience marketplace who selected fish disassembly software. These are obvious mismatches. But the specifics may not be clear.
+
+There are two types of manufacturing. There is discrete manufacturing, or a company that assembles products from widgets. There is also process manufacturing, or companies that blend liquids. Process manufacturing companies process formulas or recipes. While the majority of manufacturing is discrete (automotive, aerospace, or anyone else who builds component parts), there are a select group of manufacturers who are process manufacturers. These include food processors, cosmetics, chemical producers, paints and coatings manufacturers, and anyone else who deal with liquid or batch produced products.
+
+What makes process manufacturing different from discrete? Process manufacturing uses formulations or recipes. A discrete manufacturer uses Bills of Materials (BOMs). A discrete manufacturer assembles along a routing, whereas a process manufacturer blends in a batch.
+
+There are companies who operate in both environments and are often called mixed mode manufacturers. These manufacturers need both a process and discrete manufacturing system.
+
+So what sort of ERP system works with these types of manufacturing modes? This can only be answered by looking at the markets these software companies serve. There are certain products which are clearly process, such as BatchMaster Software or Ross Software. These software deal with formulations, batching, and the other specific issues around process manufacturing. There are other software systems that are clearly discrete such as DBA Software, Intuitive, or Made2manage. These handle Bills of Materials, Routings, and specific discrete requirements. These are all systems that serve their niche.
+
+When you get into larger systems, there is not a clear cut solution as they operate in Mixed-Mode. For example QAD software can handle both discrete and process requirements. Others that can do the same are MS Dynamics AX, Deacom, Ramco, and of course the Tier 1 players SAP and Oracle.
+
+So the real lesson is to understand what you do first before looking at software. Are you a processor of liquids, or do you assemble individual items to create an assembled product? Knowing this will go a long way to help you properly choose software that fits you like a glove.
+
+

@@ -1,0 +1,99 @@
+Title: 
+Cisco CCNP Certification / BCMSN Exam Tutorial: The HSRP MAC Address
+
+Word Count:
+508
+
+Summary:
+To pass the BCMSN exam and earn your CCNP certification, you've got to know how the HSRP MAC address is arrived at, and how to change it!  Learn both from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccnp, certification, cisco, hsrp, mac, address, standby, switch, multilayer, router, bcmsn
+
+
+Article Body:
+To pass the BCMSN exam and earn your CCNP, you've got to know HSRP inside and out!  Part of that is knowing how the MAC address of the virtual router is derived, and another part is knowing how to change this address.  We'll look at both features in this tutorial.
+
+We've got two routers on a segment running HSRP, so first we need to find out what the MAC address of the HSRP virtual router is. The show command for HSRP is show standby, and it's the first command you should run while configuring and troubleshooting HSRP.  Let's run it on both routers and compare results.
+
+R2#show standby
+
+Ethernet0 - Group 5
+
+  Local state is Standby, priority 100
+
+  Hellotime 3 sec, holdtime 10 sec
+
+  Next hello sent in 0.776
+
+  Virtual IP address is 172.12.23.10 configured
+
+  Active router is 172.12.23.3, priority 100 expires in 9.568
+
+  Standby router is local
+
+  1 state changes, last state change 00:00:22
+
+R3#show standby
+
+Ethernet0 - Group 5
+
+  Local state is Active, priority 100
+
+  Hellotime 3 sec, holdtime 10 sec
+
+  Next hello sent in 2.592
+
+  Virtual IP address is 172.12.23.10 configured
+
+  Active router is local
+
+  Standby router is 172.12.23.2 expires in 8.020
+
+  Virtual mac address is 0000.0c07.ac05
+
+  2 state changes, last state change 00:02:08
+
+R3 is in Active state, while R2 is in Standby.   The hosts are using the 172.12.123.10 address as their gateway, but R3 is actually handling the workload. R2 will take over if R3 becomes unavailable.
+
+An IP address was statically assigned to the virtual router, but not a MAC address.  However, there is a MAC address under the show standby output on R3, the active router.  How did the HSRP process arrive at a MAC of 00-00-0c-07-ac-05?
+
+Well, most of the work is already done before the configuration is even begun.  The MAC address 00-00-0c-07-ac-xx is reserved for HSRP, and xx is the group number in hexadecimal.  That's a good skill to have for the exam, so make sure you're comfortable with hex conversions.  The group number is 5, which is expressed as 05 with a two-bit hex character.  If the group number had been 17, we'd see 11 at the end of the MAC address - one unit of 16, one unit of 1.
+
+On rare occasions, you may have to change the MAC address assigned to the virtual router.  This is done with the standby mac-address command. Just make sure you're not duplicating a MAC address that's already on your network!
+
+R2(config-if)#standby 5 mac-address 0000.1111.2222
+
+
+1d12h: %STANDBY-6-STATECHANGE: Ethernet0 Group 5 state Active -> Learn
+
+
+R2#show standby
+
+Ethernet0 - Group 5
+
+  Local state is Active, priority 150, may preempt
+
+  Hellotime 4 sec, holdtime 12 sec
+
+  Next hello sent in 3.476
+
+  Virtual IP address is 172.12.23.10 configured
+
+  Active router is local
+
+  Standby router is 172.12.23.3 expires in 10.204
+
+  Virtual mac address is 0000.1111.2222 configured
+
+  4 state changes, last state change 00:00:00
+
+
+1d12h: %STANDBY-6-STATECHANGE: Ethernet0 Group 5 state Listen -> Active
+
+The MAC address will take a few seconds to change, and the HSRP routers will go into Learn state for that time period.  
+
+A real-world HSRP troubleshooting note:  If you see constant state changes with your HSRP configuration, do what you should always do when troubleshooting -  check the physical layer first.    Best of luck on your BCMSN exam!
+
+

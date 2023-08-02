@@ -1,0 +1,62 @@
+Title: 
+Software to Go
+
+Word Count:
+848
+
+Summary:
+When a change agent is overseeing multiple projects at the same time, he’ll need software to free him from the tasks of inputting data by hand.  In a big business where there are many of players and conflicting issues to manage, software is a “necessary evil.”
+
+
+Keywords:
+green belt, management, gannt, black belt, lean flow
+
+
+Article Body:
+When a change agent is overseeing multiple projects at the same time, he’ll need software to free him from the tasks of inputting data manually.  In a large company where there are hundreds of players and conflicting issues to manage, software is a “necessary evil.”
+
+Since the era of globalization is upon us, we need to adapt to changing technologies.  An essential factor to consider is to weigh the pros and cons of software programs, bearing in mind that most people don’t really use all of a software’s features and capabilities.  The fundamentals must be addressed:  does it serve our purpose, how will it increase productivity, is it user-friendly, how steep is the learning curve, and how quickly does it spew out critical information?  
+
+Don’t Say No Right Away
+
+If you’re a project person, there are project management software programs that you could look into.  Common features of project management software are:
+
+•	scheduling
+•	critical path calculation
+•	information (roles, assignments, history of project activities, workload, warning signals
+
+Other software programs are much more sophisticated and industry-focused and therefore have additional and advanced features.
+
+Indeed there have been criticisms against project management software.  These criticisms range from focusing on schedules rather than on project objectives, deviating from a sound project management philosophy, not distinguishing between the pre-planning and post-planning phases, not being able to keep up with project progress, having too many features that don’t serve a purpose and removing the personal interaction of the project administrator with team members.
+
+These are all valid arguments no doubt, but when you’re handling large projects, you need a tool to alleviate some of the burden that comes with manual file-keeping.  The smart thing to do would be to test different software programs and request a demonstration and trial period from the manufacturer.  To actually turn your back to software just because other people have criticized it is not the right approach.  You’ll have to find out for yourself; don’t close the door to possibilities that technology has to offer.
+
+Heard of Gantt?
+
+If you work in project management, you’ve probably heard of the Gantt Project.  It is one of the more popular project management software that managers use.  It falls under the open source category and runs on Windows, Linux and Mac.
+
+By the way, it’s free.  No need to request a special budget for it!
+
+Some key features of this software program are the abilities to: (a) set up task hierarchies and dependencies, (b) generate a PERT chart and a resource load chart and to (c)  produce reports in PDF and HTML formats.  If you go to the Gantt Project web site (type “ganttproject dot com”), you will see screen shots that will help you visualize how you can adapt the software to your needs.
+
+Given that the GanttProject software program is based on scheduling, you can divide your project into small tasks and assign people to each of these tasks.  The software also lets you decide dependencies between tasks.  Dependencies simply mean that you create a link between one or more phases of a given project.
+
+To illustrate:  your project consists of three principal phases:  the first phase is to  order raw materials from three potential suppliers, the second phase is to analyze the suppliers’ costs and delivery schedules, and the third phase is to request management for a raw material budget.  You can establish that the third phase cannot be done until the second phase is 100% complete.  
+
+
+What About Open Workbench?
+
+Another popular project management software is Open Workbench.  It is also open source and while it can be downloaded for free, users will need to purchase the Clarity upgrade if the program is to be used on an enterprise-wide basis.
+
+Unlike Gantt, Open Workbench is available only for Windows and is considered an excellent substitute for Microsoft Project.  It has four main uses:  
+<li>project planning (definition of tasks, dependencies, sub-projects and guidelines, calendars),</li>
+<li>project scheduling  (this is performed in the program’s Auto Schedule), </li>
+<li>resource management (resources are in the form of people, equipment, materials, cash)</li>
+<li>project review (track progress, determine rate of completion, estimate dates for final completion, resetting of project if necessary)</li>
+
+
+There are at least 30 other project management software programs that are available either as free or fee-based programs.  Before you argue against software, it won’t harm to try at least a couple.  Who knows, you may fall in love with one of them and blame yourself for not hopping into the bandwagon sooner.
+
+If you do decide to adopt a software program for your projects, make sure that you have the permission to do so.  Be sensitive to the IT platforms of your company and speak with your IT department to verify if the software program you’re about to choose will be compatible with the company’s existing platforms.  Explain to your members also that the software should be used strictly for office projects.  It cannot be used to monitor their personal projects.
+
+

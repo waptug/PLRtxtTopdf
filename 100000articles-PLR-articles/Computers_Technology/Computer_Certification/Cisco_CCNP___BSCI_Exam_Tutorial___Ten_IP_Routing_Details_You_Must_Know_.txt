@@ -1,0 +1,52 @@
+Title: 
+Cisco CCNP / BSCI Exam Tutorial:  Ten IP Routing Details You Must Know!
+
+Word Count:
+381
+
+Summary:
+In preparing for your CCNP BSCI exam, it's easy to overlook basic routing details while concentrating on more complicated topics.  Review these vital details with Chris Bryant, CCIE #12933.
+
+
+Keywords:
+cisco, bsci, exam, routing, pass, free, hsrp, ip, route, prefix, match, review, bryant, ccie, 12933
+
+
+Article Body:
+To pass the BSCI exam and earn your CCNP, you've got to keep a lot of details in mind. It's easy to overlook the "simpler" protocols and services such as static routing and distance vector protocols. With this in mind, here's a quick review of some details you should know for success in the exam room and real-world networks!
+
+When packets need to be routed, the routing table is parsed for the longest prefix match if multiple paths exist with the same prefix length, the route with the lowest AD is preferred. If there are still multiple valid paths, equal-cost load-sharing goes into effect.
+
+The ip route command is used to create static routes the command ip route 0.0.0.0 0.0.0.0 < next-hop-IP or local exit interface> creates a default static route.
+
+A static route with a next-hop IP address has an AD of one, while a static route with a local exit interface has an AD of zero.
+
+A floating static route is a static route with an AD higher than that of the dynamic routing protocols running on the router, ensuring that the static route can only be used if the routing protocol goes down.
+
+On-Demand Routing (ODR) is only appropriate in a hub-and-spoke network. The spokes effectively become stub routers. ODR uses Cisco Discovery Protocol (CDP) to send route information.
+
+To propagate a default route with IP routing, use the ip default-network command. To do so with IP routing disabled, use ip default-gateway. You can also redistribute a static route into most protocols, but not IGRP. IGRP does not understand a static route to 0.0.0.0.
+
+The ip helper-address command takes certain broadcasts and translates then into unicasts in order to allow the router to forward them. These default ports are:
+
+TIME, port 37
+
+TACACS, port 49
+
+DNS, port 53
+
+BOOTP/DHCP Server, port 67
+
+BOOTP/DHCP Client, port 68
+
+TFTP, port 69
+
+NetBIOS name service, port 137
+
+NetBIOS datagram services, port 138
+
+To name other ports, use the ip forward-protocol command. To remove any of these ports from the default list, use the no ip forward-protocol command.
+
+ICMP Router Discovery Protocol (IRDP) hosts hear multicast Hellos from routers, allowing host-router discovery. HSRP routers create a virtual router that hosts think is a real router. Both protocols help networks cut over to a functional router quickly when their primary router goes down.
+
+

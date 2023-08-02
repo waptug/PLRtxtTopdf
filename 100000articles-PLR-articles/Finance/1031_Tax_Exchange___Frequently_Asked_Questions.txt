@@ -1,0 +1,127 @@
+Title: 
+1031 Tax Exchange – Frequently Asked Questions
+
+Word Count:
+1472
+
+Summary:
+After years of conducting tens of thousands of successful 1031 exchanges, we found that there are a number of frequently asked questions related to this type of transaction…
+
+Equity and Gain
+
+Is my tax based on my equity or my taxable gain?
+
+Tax is calculated upon the taxable gain. Gain and equity are two separate and distinct items. To determine your gain, identify your original purchase price, deduct any depreciation which has been previously reported, then add the va...
+
+
+Keywords:
+1031,tax,exchange,faq,questions,common,frequently,asked,real estate,property
+
+
+Article Body:
+After years of conducting tens of thousands of successful 1031 exchanges, we found that there are a number of frequently asked questions related to this type of transaction…
+
+Equity and Gain
+
+Is my tax based on my equity or my taxable gain?
+
+Tax is calculated upon the taxable gain. Gain and equity are two separate and distinct items. To determine your gain, identify your original purchase price, deduct any depreciation which has been previously reported, then add the value of any improvements which have been made to the property. The resulting figure will reflect your cost or tax basis. Your gain is then calculated by subtracting the cost basis from the net sales price.
+
+Deferring All Gain
+
+Is there a simple rule for structuring an exchange where all the taxable gain will be deferred?
+
+Yes, the gain will be totally deferred if you:
+
+1) Purchase a replacement property which is equal to or greater in value than the net selling price of your relinquished (exchange) property, and
+2) Move all equity from one property to the other.
+
+Definition of Like-Kind
+
+What are the rules regarding the exchange of like-kind properties? May I exchange a vacant parcel of land for an improved property or a rental house for a multiple-unit building?
+
+Yes, "like-kind" refers more to the type of investment than to the type of property. Think in terms of investment real estate for investment real estate, business assets for business assets, etc.
+
+Simultaneous Exchange Pitfalls
+
+Is it possible to complete a simultaneous exchange without an intermediary or an exchange agreement?
+
+While it may be possible, it may not be wise. With the Safe Harbor addition of qualified intermediaries in the Treasury Regulations and the recent adoption of good funds laws in several states, it is very difficult to close a simultaneous exchange without the benefit of either an intermediary or exchange agreement. Since two closing entities cannot hold the same exchange funds on the same day, serious constructive receipt and other legal issues arise for the Exchangor attempting such a simultaneous transaction. The addition of the intermediary Safe Harbor was an effort to abate the practice of attempting these marginal transactions. It is the view of most tax professionals that an exchange completed without an intermediary or an exchange agreement will not qualify for deferred gain treatment. And if already completed, the transaction would not pass an IRS examination due to constructive receipt and structural exchange discrepancies. The investment in a qualified intermediary is insignificant in comparison to the tax risk associated with attempting an exchange, which could be easily disqualified.
+
+Property Conversion
+
+How long must I wait before I can convert an investment property into my personal residence?
+
+A few years ago the Internal Revenue Service proposed a one-year holding period before investment property could be converted, sold or transferred. Congress never adopted this proposal, so therefore no definitive holding period exists currently. However, this should not be interpreted as an unwritten approval to convert investment property at any time. Because the one-year period clearly reflects the intent of the IRS, most tax practitioners advise their clients to hold property at least one year before converting it into a personal residence.
+
+Remember, intent is very important. It should be your intention at the time of acquisition to hold the property for its productive use in a trade or business or for its investment potential.
+
+Involuntary Conversion
+
+What if my property was involuntarily converted by a disaster or I was required to sell due to a governmental or eminent domain action?
+
+Involuntary conversion is addressed within Section 1033 of the Internal Revenue Code. If your property is converted involuntarily, the time frame for reinvestment is extended to 24 months from the end of the tax year in which the property was converted. You may also apply for a 12-month reinvestment extension.
+
+Facilitators and Intermediaries
+
+Is there a difference between facilitators?
+
+Most definitely. As in any professional discipline, the capability of facilitators will vary based upon their exchange knowledge, experience and real estate and/or tax familiarity.
+
+Facilitators and Fees
+
+Should fees be a factor in selecting a facilitator?
+
+Yes. However, they should be considered only after first determining each facilitator's ability to complete a qualifying transaction. This can be accomplished by researching their reputation, knowledge and level of experience.
+
+Personal Residence Exchanges
+
+Do the exchange rules differ between investment properties and personal residences? If I sell my personal residence, what is the time frame in which I must reinvest in another home and what must I spend on the new residence to defer gain taxes?
+
+The rules for personal residence rollovers were formerly found in Section 1034 of the Internal Revenue Code. You may remember that those rules dictated that you had to reinvest the proceeds from the sale of your personal residence within 24 months before or after the sale, and you had to acquire a property which reflected a value equal to or greater than the value of the residence sold. These rules were discontinued with the passage of the 1997 Tax Reform Act. Currently, if a personal residence is sold, provided that residence was occupied by the taxpayer for at least two of the last five years, up to $250,000 (single) and $500,000 (married) of capital gain is exempt from taxation.
+
+Exchanging and Improvements
+
+May I exchange my equity in an investment property and use the proceeds to complete an improvement on a vacant lot I currently own?
+
+Although the attempt to move equity from one investment property to another is a key element of tax deferred exchanging, you may not exchange into property you already own.
+
+Related Parties
+
+May I exchange into a property that is being sold by a relative?
+
+Yes. However, any exchange between related parties requires a two-year holding period for both parties.
+
+Partnership or Partial Interests
+
+If I am an owner of investment property in conjunction with others, may I exchange only my partial interest in the property?
+
+Yes. Partial interests qualify for exchanging within the scope of Section 1031. However, if your interest is not in the property but actually an interest in the partnership which owns the property, your exchange would not qualify. This is because partnership interests are excepted from Section 1031. But don't be confused! If the entire partnership desired to stay together and exchange their property for a replacement, that would qualify.
+
+Another caveat. Those individuals or groups owning partnership interests, who desire to complete an exchange and have for tax purposes made an election under IRC Section 761(a), can qualify for deferred gain treatment under Section 1031. This can be a tricky issue! See elsewhere in this publication for more information. Then, only undertake this election with proper tax counsel and only with the election by all partners!
+
+Reverse Exchanges
+
+Are reverse exchanges considered legal?
+
+Although reverse exchanges were deliberately omitted from Section 1031, they can still be accomplished with the aid of an experienced intermediary. Since reverses are considered an aggressive form of exchanging, your intermediary and tax advisor should assist you with exchange and tax planning based upon successful reverse exchange case law.
+
+The Taxation Section of the American Bar Association has submitted suggested guidelines for the IRS in evaluating reverse exchanges and issuing new regulations. Although it is unknown when the IRS will make a definitive reverse exchange ruling, one is expected in the future.
+
+Identification
+
+Why are the identification rules so time restrictive? Is there any flexibility within them?
+
+The current identification rules represent a compromise which was proposed by the IRS and adopted in 1984. Prior to that time there were no time-related guidelines. The current 45-day provision was created to eliminate questions about the time period for identification and there is absolutely no flexibility written into the rule and no extensions are available.
+
+In a delayed exchange, is there any limit to property value when identifying by using the 200% rule?
+
+Yes. Although you may identify any three properties of any value under the three property rule, when using the 200% rule there is a restriction. It is when identifying four or more properties, the total aggregate value of the properties identified must not exceed more than 200% of the value of the relinquished property.
+
+An additional exception exists for those whose identification does not qualify under the three property or two hundred percent rules. The 95% exception allows the identification of any number of properties, provided the total aggregate value of the properties acquired totals at least 95% of the properties identified.
+
+Should identifications be made to the intermediary or to an attorney or escrow or title company?
+
+Identifications may be made to any party listed above. However, many times the escrow holder is not equipped to receive your identification if they have not yet opened an escrow. Therefore it is easier and safer to identify through the intermediary, provided the identification is postmarked or received within the 45-day identification period.
+
+

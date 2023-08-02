@@ -1,0 +1,110 @@
+Title: 
+FIve Questions To Ask Before Attending A Computer Tech School
+
+Word Count:
+844
+
+Summary:
+Attending a tech school can be the most important decision of your life, and you need the right information before choosing a school and paying tuition.  Chris Bryant, Cisco Certified Internetwork Expert #12933, gives you five questions that you must ask before putting down your hard-earned money.
+
+
+Keywords:
+ccna, ccnp, free, pass, exam, cisco, certification, computer, mcse, ccie, chris, bryant
+
+
+Article Body:
+As with any field, there are good technical training schools, and bad ones.  When you sign up with one of these schools, you’ve made a significant investment in time and money.  You deserve to know everything about the school and your job prospects after leaving that school before you put down your hard-earned money.   The problem is, sometimes it’s hard to know the right questions to ask.
+
+ 
+
+The point of this article is not to bash technical training schools.  That’s how I got my start in IT eight years ago, and today I’m a CCIE™ and own my own Cisco training company and my own consulting firm.  
+
+ 
+
+Before I ever put down the first dime, though, I asked some tough questions.  So should you.
+
+ 
+
+What are my true job prospects and legitimate salary levels after I graduate from your school?
+
+ 
+
+We’ve all heard the ads on the radio… “Did you know the average salary of an MCSE is $80,000?”  “Are you worth $65,000 a year?  If not, call us!”
+
+ 
+
+I’m an optimist, and I often tell people that no field rewards individual achievement and drive like IT does.  Having said that, none of us start at the top, and darn few of us start at that kind of salary.
+
+ 
+
+I’m sure that there are some people who broke in at $80,000, but I haven’t met very many of them.  Be very wary of technical schools that use the famous/infamous MCSE Salary Survey as a marketing tool.  They tend to represent those salaries as starting salaries.
+
+ 
+
+Ask your technical school what the average starting salary of their graduates is.   And keep in mind that salary is not the most important factor to consider when looking for your first job in IT it’s the experience you’ll be able to put on your resume later on that you should weigh heavily at this point.
+
+ 
+
+In short, be very careful about schools that brag about starting salaries.   It’s not where you start, it’s where you end up.
+
+ 
+
+How up-to-date are the courses you’re offering?
+
+ 
+
+Make sure the school you’re going to attend has made efforts to keep their courses relevant.  Ask what changes have been made to their curriculum in the last three years.  No field changes faster than IT.   If the answer to that question is “none”, look somewhere else.
+
+ 
+
+I want to work in IT security.  Have you placed anyone in this field lately?  If so, can I talk to them?
+
+ 
+
+Technical schools are jumping on the security bandwagon, with a couple of schools running ads about training you to work in Homeland Security.  If that’s your goal, that’s great, but keep in mind that you have to get a security clearance for any job like that.   
+
+ 
+
+And how do you get a security clearance?  You have to be sponsored.  
+
+ 
+
+And who will sponsor you?  Your employer.  
+
+ 
+
+Can you get employed in a Homeland Security job without having the clearance in the first place? 
+
+ 
+
+Hmmm.  Probably not.
+
+ 
+
+Hello, Catch-22.
+
+ 
+
+Again, I’m certainly not saying you can’t eventually get an IT security job if that’s where you want to go, you can eventually get there.  The key word there is “eventually”.  Ask the school you’re thinking of attending whether they’ve actually been able to place graduates in such jobs.  Ask to talk to them.  If the school’s managed to do so, they’ll be glad to put you in touch with such graduates.
+
+ 
+
+What textbooks does your school use?
+
+ 
+
+Some technical school chains use only books that someone in their organization wrote.   I’ve heard some of their own teachers complain about the quality of these books.  The technical school I attended used off-the-shelf books, and the quality was very good.
+
+ 
+
+If you’re looking into entering the IT field, you probably know someone who’s already in it.  Use that resource for everything it’s worth.  Ask that person what they think about the books, or for that matter, what the local reputation of the school is.   IT is a small world, if the school has a good or bad reputation, most of the IT personnel in your city or town probably know about it.
+
+ 
+
+The fifth question is a question to ask of HR representatives.  Every technical school lists companies where they’ve placed their graduates on their promotional material.  Pick up the phone, call these companies, and ask to speak to someone in HR.  Ask that person about the reputation of the school.  Five to eight phone calls will give you a good picture of where the school stands with local employers.
+
+ 
+
+Making the decision to attend a technical school can be the best decision you’ve ever made it certainly was for me.  Make sure to ask the right questions before writing a check or taking a loan to attend the answers to those questions will indicate to you whether this school is truly the school that can help you achieve your dreams.
+
+

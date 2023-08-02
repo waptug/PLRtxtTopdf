@@ -1,0 +1,26 @@
+Title: 
+Home Network Data Storage
+
+Word Count:
+455
+
+Summary:
+If you have two or more computers at home that are wired together to share resources, then you have a home computer network. Anyone who uses a computer, which encompasses almost everyone, should be aware of the need to back up important data. There are options available for network data storage that may not be available for the single computer. The first step in deciding how to conform your network data storage is to determine the type of backup you should use. Usually a back...
+
+
+Keywords:
+data backup, data storage, computer data backup, backup data program
+
+
+Article Body:
+If you have two or more computers at home that are wired together to share resources, then you have a home computer network. Anyone who uses a computer, which encompasses almost everyone, should be aware of the need to back up important data. There are options available for network data storage that may not be available for the single computer. The first step in deciding how to conform your network data storage is to determine the type of backup you should use. Usually a backup is done by making a copy of all of the existing files, like a snapshot in time, and then adding backups of the changes as they occur. The other decision to make is the location of where to keep the backups.
+
+Here, There and Everywhere
+
+If you don&#8217;t store very much on your home computer network, you may be able to manage your home network data storage project on DVD&#8217;s. With a small amount of information needing backup, you might just use rewritable DVD&#8217;s and make a full copy of chosen files as needed. If there is one or more computers on your network that is primarily used for internet use, email, web surfing and games, then the need for data backup is limited. The benefit of this type of home network data storage is that you have control over whether or not to back up a file and you choose how often to do the backups. The downside that many people don&#8217;t update their backups often enough and frequently the discs become lost or damaged due to inadequate storage practices. 
+
+The next step up is to create a server to store backup files for all of the computers on the network. A server is simply a hard drive, and software is available for small home networks. There are also network-attached storage (NAS) devices which act as a dedicated backup server. The benefit here is that the software can be set to automatically perform backup procedures at regular intervals. The drawback is that the backups are in the same place as the computers, and may fall victim to whatever type of disaster makes it necessary to use the backups. 
+
+Finally, there are remote services that will automatically use the Internet for home network data storage. Once signed up, the user is charged according to the amount of storage is needed. The benefit is that data is stored remotely and the updates are automatic. Drawbacks are that large amounts of data can be costly and that it&#8217;s only as reliable as the company. The decision on the type of home network data storage to use is based on the needs and resources of the network users.
+
+

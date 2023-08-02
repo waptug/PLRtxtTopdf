@@ -1,0 +1,30 @@
+Title: 
+Cisco CCNP / BSCI Certification:  Introduction To ISIS Terminology
+
+Word Count:
+347
+
+Summary:
+One major difference between ISIS and OSPF is the terminology.  Learn ISIS basics in this free CCNP tutorial from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccnp,certification,bsci,exam,pass,isis,ospf,level,routing,hello,area,domain,intermediate,end,system,ccna,ccie,chris,Bryant,12933
+
+
+Article Body:
+When you're studying to pass the BSCI exam and earn your CCNP certification, you're going to be introduced to ISIS.   ISIS and OSPF are both link-state protocols, but ISIS works quite differently from OSPF.  You must master these details in order to earn your CCNP.
+
+One of the major differences between OSPF and ISIS will be evident to you when you first begin your BSCI exam studies, and that is the terminology.   ISIS uses terms that no other protocol you've studied to date uses, and learning these new terms is the first step to BSCI and CCNP exam success.
+
+First off, what does "IS" stand for in "ISIS"?  It stands for "Intermediate System", which sounds like a group of routers.  As opposed to Autonomous Systems, which are logical groups of routers, an Intermediate System is simply a single router.  That's it.
+
+You'll also become familiar with End Systems, referred to in ISIS as an "ES".  The End System is simply an end host.  
+
+ISIS and OSPF both use the concept of areas, but ISIS takes a different approach to this concept.  ISIS routers use three different types of routing levels, according to the area a router has been placed in.  Level 2 routers are connected only to the backbone and serve as a transit device between non-backbone areas.  Level 1 routers are totally internal to a non-backbone area.  
+
+ISIS uses both Level-1 and Level-2 Hellos, meaning that the two types of routers just mentioned cannot form an adjacency.   Luckily for us, there is a middle ground, and that is the Level 1-2 router.  These routers connect non-backbone areas to backbone areas.  L1-L2 routers keep two separate routing tables, one for L1 routing and another for L2 routing.  This is the default setting for a Cisco router, and L1-L2 routers can form adjacencies with both L1 and L2 routers.
+
+Part of the challenge of learning ISIS is getting used to the differences between ISIS and OSPF.  Keep studying the terminology, master one concept at a time, and soon you'll be a master of ISIS and a CCNP to boot!
+
+

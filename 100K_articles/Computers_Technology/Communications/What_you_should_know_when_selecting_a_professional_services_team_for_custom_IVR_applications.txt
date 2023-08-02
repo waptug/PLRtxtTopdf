@@ -1,0 +1,48 @@
+Title: 
+What you should know when selecting a professional services team for custom IVR applications
+
+Word Count:
+567
+
+Summary:
+IVR solutions, as they grow more complex in their capabilities, are assuming a more prominent role in enterprises. Once merely a front line for call centers, IVR has now evolved into a tool that facilitates not only customer service, but also other processes that are ripe for automation such as workforce management, payment solutions or service order fulfillment.
+
+
+Keywords:
+IVR, hosted IVR, VoiceXML, IVR technology
+
+
+Article Body:
+What you should know when selecting a professional services team for custom IVR applications  
+
+By Matt Ervin, Co-Founder, Plum Voice  
+
+IVR solutions, as they grow more complex in their capabilities, are assuming a more prominent role in enterprises. Once merely a front line for call centers, IVR has now evolved into a tool that facilitates not only customer service, but also other processes that are ripe for automation such as workforce management, payment solutions or service order fulfillment. The vast potential of IVR-enabled automation is now prompting more and more enterprises to seek feature-rich IVR solutions that are best delivered via custom IVR application development.  
+
+When selecting a professional services team to build your custom IVR application, there are a number of things look for to ensure the quality, reliability and performance of your IVR solution.  
+
+1. Vertically integrated. When choosing an IVR vendor, look for a company that develops and owns the IVR technology .  IVR vendors that build, own and support their technology, (the core of which is the VoiceXML IVR platform), will provide superior technical expertise in all phases of your application development and deployment. Engineers who designed and built their own VoiceXML platform from the ground up will be better qualified to create custom IVR applications that exhibit faster performance, greater functionality and superior call quality.  
+
+2. VoiceXML platform certification. VoiceXML platform certification ensures interoperability of VoiceXML platforms, tools, service providers, and applications 
+
+As VoiceXML adoption continues to grow in enterprises and carriers, certification assists customers in choosing from a wide variety of vendors and deployment options to solve their particular business needs The certification program is managed and developed by VoiceXML Forum members and provides impartiality through the use of independent third-party test laboratories.  
+
+3. Support for multiple speech technologies. Look for a vendor whose VoiceXML platform supports as many speech technologies as possible. 
+
+VoiceXML IVR systems should support outside resources such as speech recognition engines or text-to-speech engines in a modular manner. This is important, because as these technologies are upgraded, application functionality can be improved without modifying VoiceXML code.  
+
+4. Clear project management framework to guide each phase of the design, development and deployment process. 
+
+Stages of a custom application development project should include:  
+
+-Design Phase: Expect complete design specification to be written by your IVR vendor to define the application’s functionality, behavior, caller/user interface, and XML-based application programming interface (API) for the database interface. 
+
+-Implementation Phase: Expect high-quality voice application development by our experienced IVR software engineers freeing you to focus on business data while your IVR vendor focuses on the call flow. 
+
+-QA and Deployment: Expect a thorough and well-managed application test process that exercises your application end-to-end to ensure a smooth transition to production.  
+
+5. Support, maintenance and management Although often underestimated, support and maintenance will strongly affect the performance and reliability of your IVR application. Look for a vertically integrated IVR vendor that has a lengthy track record of proven customer satisfaction in the industry.  
+
+6. Deployment options: Seek a vendor that offers both on-site IVR and hosted  IVR deployments. This will allow you choice in terms of equipment management. For those that prefer to manage their own telco connection or their own IVR servers, an on-site solution will be a better fit. For those that want to outsource all aspects of the their IVR solution, including telco connectivity, infrastructure and the IVR application, hosted IVR will be the right choice.
+
+

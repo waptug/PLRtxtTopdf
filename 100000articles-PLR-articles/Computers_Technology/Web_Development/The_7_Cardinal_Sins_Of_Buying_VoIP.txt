@@ -1,0 +1,44 @@
+Title: 
+The 7 Cardinal Sins Of Buying VoIP
+
+Word Count:
+367
+
+Summary:
+For most companies and many individuals, signing up with a VOIP service is a no brainer.
+
+For a fraction of what most people pay for a tradional telephone service, you can have a feature rich communications sytem.
+
+But there are a few pitfalls that people fall into time and again. Make sure you aren't one of them.
+
+1) Missing Out on the Best Deal - So you know that you can make a big saving by switching from your traditional phone carrier to a VOIP service. But did you ...
+
+
+Keywords:
+voip, phone, telephone
+
+
+Article Body:
+For most companies and many individuals, signing up with a VOIP service is a no brainer.
+
+For a fraction of what most people pay for a tradional telephone service, you can have a feature rich communications sytem.
+
+But there are a few pitfalls that people fall into time and again. Make sure you aren't one of them.
+
+1) Missing Out on the Best Deal - So you know that you can make a big saving by switching from your traditional phone carrier to a VOIP service. But did you know that you can also make a huge saving again by shopping around? Some VOIP companies are up to 50% cheaper than others that offer similar featured packages.
+
+2) Taking the Cheapest Without Looking - VOIP beats tradition networks in so many ways. Why not make sure that you have a feature rich package? Again, you need to compare features between companies!
+
+3) Going With the Biggest Names - If you follow the VOIP scene, you will know that some of the biggest names in VOIP have had serious system outages. Make sure your carrier has a history of reliability because you don't want to be caught without a phone service!
+
+4) Low bandwidth - Make sure that you discuss your WAN service provider to make sure you have enough bandwidth for VOIP. This is really important for heavy users such as businesses and call centers.
+
+5) IP Phones - Poor quality hardware (IP Phones) can really reduce your user experience. Don't buy the cheapest phone you can find, because you will be disappointed at your call quality.
+
+6) Configure Your Firewall - A lot of people get frustrated when their new VOIP service doesn't work. You need to check your firewall settings to ensure your VOIP service can operate!
+
+7) Ignore Security - A VOIP conversation is data like any other data. It can be stolen and misused (ie. people can listen to your conversations). Make sure you are aware of the problems by asking your vendor and consider encryption to protect your data.
+
+VOIP opens up a massive potential cost saving to home and business users. It can be as secure and high quality as traditional lines, if you take a little time to research and make the right purchasing decisions.
+
+

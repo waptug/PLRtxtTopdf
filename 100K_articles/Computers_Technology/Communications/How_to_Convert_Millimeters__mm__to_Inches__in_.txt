@@ -1,0 +1,34 @@
+Title: 
+How to Convert Millimeters (mm) to Inches (in)
+
+Word Count:
+223
+
+Summary:
+To convert a unit from millimeters to inches, multiple steps are necessary as the two units are in a different system of units. Millimeters is in a number form, 1 x 10-3 meters (the standard unit of length), and is one of the metric unit systems and a part of the International System of Units (SI). On the other hand, an inch is a unit of length in a few systems such as in the English units, Imperial units, and the United States customary units. It is basically 1/36th of a yard or 1/12th of a foot.
+
+
+Keywords:
+Millimeters, Inches, Convert
+
+
+Article Body:
+To convert a unit from millimeters to inches, multiple steps are necessary as the two units are in a different system of units. Millimeters is in a number form, 1 x 10-3 meters (the standard unit of length), and is one of the metric unit systems and a part of the International System of Units (SI). On the other hand, an inch is a unit of length in a few systems such as in the English units, Imperial units, and the United States customary units. It is basically 1/36th of a yard or 1/12th of a foot.
+
+
+Direct Rates
+1 millimeters = 0.0393700787 inch
+1 inch = 25.4 millimeters
+
+
+Using the Factor-Label Method of Conversion
+So, to convert millimeters to inches, method known as the factor-label method of conversion must be done.
+1.	Firstly, we know that 25.4 x 10-3 meters equals 1 inch. But before that, meters must be converted to millimeters. 1 meter = 1,000 millimeters
+2.	Considering how 25.4 x 10-3 meters equals an inch, and 1,000 millimeters equals a meter, we can find the relationship between an inch and a millimeter by finding the product of: 25.4 x 10-3 x 1,000
+3.	This equals to 25.4 millimeters equaling an inch. This basically means that 1 millimeter equals 1/25.4 of an inch.
+
+Work Shown
+1 mm / 1 x 10-3 m = 1 m / 100 cm = 1 cm / (1/2.54) in.
+Crossing out the meters (m) and centimeters (cm) gives us a relationship between the millimeter (mm) and the inch (in.).
+
+

@@ -1,0 +1,26 @@
+Title: 
+Online Banking Security Requires Several ‘Layers’ Of Security
+
+Word Count:
+419
+
+Summary:
+Online banking can also be called Internet banking and is used to describe when individuals carry out transactions, payments and other bank dealings on the Internet using their bank’s secure web site. Many people have already discovered the convenience of banking online and the flexibility it offers as opposed to traditional banking at a local banking company. People who use online banking enjoy being able to access their bank account, account information and other features w...
+
+
+Keywords:
+
+
+
+Article Body:
+Online banking can also be called Internet banking and is used to describe when individuals carry out transactions, payments and other bank dealings on the Internet using their bank’s secure web site. Many people have already discovered the convenience of banking online and the flexibility it offers as opposed to traditional banking at a local banking company. People who use online banking enjoy being able to access their bank account, account information and other features without time restrictions from just about anywhere. Those who are not using online banking services most likely don’t because they have concerns about online banking security.
+
+Any online banking security that offers only password authentication like a simple Internet retail web site is simply not secure enough for the type of business and information involved in Internet banking. Online banking security should be far more complicated. Online banking ports should be secure sites, many times using the ‘https’ prescript that is encrypted. Encryption is simply the process of converting plain text into code. Online banking security measures that include encryption makes it very difficult for hackers to access personal information in a home computer by intercepting a password as it is entered on the site (also known as ‘keylogging’.)
+
+Most online banking security measures include a second step to ensure customer’s security. The most popular method used in online banking security is the use of transaction numbers, which are also known as TANS. These TANS are basically passwords that are intended for use in a single session online. Other methods of online banking security measures that can be used include using a chip card unique to each customer, using two passwords entering only random parts and using digital certificates. The most common method using in the United States for online banking security remains single password protection.
+
+Another online banking security concern many people have involves fraud. Some people believe that online banking security isn’t secure enough to prevent their person information from being used in fraudulent situations. The truth is that identity theft, credit card fraud and signature forgeries are much more common that bank fraud. In fact, bank transactions are highly traceable and penalties for this crime are quite severe.
+
+Despite concerns over online banking security, more and more people are enjoying the convenience of online banking every day. With features like electronic bill payment and instant access to account statements have become a valuable way for people to maintain their accounts without the restraints of traditional banking hours.
+
+

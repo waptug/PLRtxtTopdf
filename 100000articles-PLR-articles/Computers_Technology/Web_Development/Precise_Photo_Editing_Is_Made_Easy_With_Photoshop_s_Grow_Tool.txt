@@ -1,0 +1,24 @@
+Title: 
+Precise Photo Editing Is Made Easy With Photoshop’s Grow Tool
+
+Word Count:
+312
+
+Summary:
+If you have been learning to do digital photo editing in Photoshop and have been going crazy trying to do precise object selection the following information is going to be music to your ears. Just about everything you do in Photoshop seems to involve selecting objects or people for purposes such as copying, color correction, special effects, and more. Have you ever wanted to cut an irregular shaped object out of the photo for use with another background? It can be difficult i...
+
+
+Keywords:
+photoshop,adobe,tutorials,paint,computers,design,websites,internet,business,services
+
+
+Article Body:
+If you have been learning to do digital photo editing in Photoshop and have been going crazy trying to do precise object selection the following information is going to be music to your ears. Just about everything you do in Photoshop seems to involve selecting objects or people for purposes such as copying, color correction, special effects, and more. Have you ever wanted to cut an irregular shaped object out of the photo for use with another background? It can be difficult if not darned near impossible to perfectly select the object using your mouse and the selection tool.
+
+Let me introduce you to the “grow” tool. The grow tool give you the ability to easily select an object with a photograph with almost perfection. What used to be an enormous source of frustration is now a breeze. In fact, the “grow” tool makes what was previously often considered impossible possible.
+
+Here is how the grow tool works. Let’s say you have an irregularly shaped object that you need to select for the purpose of extracting it from the original image for use in digital photo collage. Without the grow tool you would have to increase the size of the image and slow move your curser around the object until you had selected the entire object and even then your selection would probably be off quite a bit. Another option might be to use he magic wand tool but the grow tool works wonderfully for this purpose.
+
+When you select an area within an object the grow tool makes the selection grow or expand to the areas adjacent that are similar in color. Using the grow tool you don’t need to worry about selecting your object perfectly to the edge. Just select the best you can and let the grow tool expand your selection to the edge of the object.
+
+

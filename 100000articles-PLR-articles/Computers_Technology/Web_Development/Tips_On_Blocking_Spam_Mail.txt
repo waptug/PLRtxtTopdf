@@ -1,0 +1,42 @@
+Title: 
+Tips On Blocking Spam Mail
+
+Word Count:
+527
+
+Summary:
+What, exactly, is spam? Well, spam can be defined in various ways, along with numerous sorts of definitions. But to make it very simple, spam is any form of junk or commercial advertising electronic mail that you receive, which you most certainly did not ask for. Any method to block spam is definitely a blessing.
+
+TCH introduces Spam Assassin to the world as a tool to be able to block spam email from a particular server. By default, Spam Assassin will be disabled when your ...
+
+
+Keywords:
+spam blocking,spam blocking software,blocking email spam,free spam blocking software,blocking spam
+
+
+Article Body:
+What, exactly, is spam? Well, spam can be defined in various ways, along with numerous sorts of definitions. But to make it very simple, spam is any form of junk or commercial advertising electronic mail that you receive, which you most certainly did not ask for. Any method to block spam is definitely a blessing.
+
+TCH introduces Spam Assassin to the world as a tool to be able to block spam email from a particular server. By default, Spam Assassin will be disabled when your specific website is first setup by TCH. With Spam Assassin, those spam mails are sure to be blocked.
+
+You can also block spam mail according the words that exist in its subject line. How can you do that? It is quite simple, actually. First, you have to click on Email Filtering, and then click on Add Filter. Afterwards, the first Drop down box will come into your view, which is when you select Subject. 
+
+In the second Drop down box, you must select contains. And a there is also a third Drop down box where you are supposed to type stop pay, or whatever word or words it is or are that you are filtering on. 
+
+In this field, however, you have to be careful because it is very much case sensitive. Therefore, typing in marijuana may not be able to block MariJuAnA. After you have done all these, click Discard, then click Activate, and lastly, click Go Back.
+
+The above stated procedure is quite simple but is also a little lengthy. You can just automatically discard the spam mail that has long been threatening your inbox space. The aforementioned process can also be done to do such, but with slight variations. 
+
+First, you must click on Email Filtering, and then click Add Filter. When that is done, you have to select Spam Assassin Spam Header in the first Drop down box. In the second Drop down box, still, contains is what you must select. But in the third box, you must type in *****SPAM*****. After doing so, click Discard, Activate, and then Go Back.
+
+Fortunately for you, blocking spam mail has become a whole lot easier. You can try the straightfoward method for it works greatly for all sites but the biggest sites. 
+
+This method is successful in blocking access to your SMTP so that it can't be utilized to inject spam. The other method you can make us of if you really want to block spam mail so badly is to traverse your system. 
+
+As you might already know, this is more difficult due to the fact that old mailers will probably not give you a good way to look at the address where it originated.
+
+Whatever method you use, blocking spam mail is definitely a necessity, most especially for those who live by their email addresses regularly. Who would want receiving those useless advertisements everyday? They not only make your head swim in irritation, but they also take more of your inbox space. 
+
+You must not wait for tomorrow to come. Whenever you have the chance, block those spam mail now before they multiply to an even greater number.
+
+

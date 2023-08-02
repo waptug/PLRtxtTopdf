@@ -1,0 +1,28 @@
+Title: 
+Cisco CCNA / CCNP Certification Exam: Creating A Study Plan
+
+Word Count:
+427
+
+Summary:
+To pass your CCNA and CCNP exams, you’ve got to have a plan for success.  Learn how to create an unbeatable study plan from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccna, ccnp, pass, exam, study, plan, Bryant, advantage, chris, router, switch, network, cisco, certification
+
+
+Article Body:
+Whether you're just starting to think about passing the CCNA or CCNP exams, or you've been on the certification track for a while, you've got to have a plan for success. If you wanted to drive your car from Florida to California, you'd create a plan to get there. You'd get a map and decide how far you wanted to drive per day, and maybe even make some hotel reservations in advance. You certainly wouldn't get in your car, just drive it randomly down the nearest highway, and hope you ended up in California, would you?
+
+Certainly not. Earning your CCNA certification is the same way. It's not enough to just study a few minutes "when you feel like it", or tell yourself that you'll start studying for the exams "when I get such-and-such done". The perfect time to start on the road to Cisco certification is not tomorrow, and it's not next week. It's today.
+
+You're much better off with one hour of solid study than three hours of interrupted, unfocused study. Here are a few ways to go about getting the kind of quality study time that will get you to the CCNA or CCNP (or any Cisco certification, for that matter!).
+
+Schedule your study time, and regard this study time as you would an appointment with a client. If you were to meet a customer at 10:00 to discuss a network install, would you just decide not to show up and watch television instead? Not if you wanted the job. The same goes for your study time. That's an appointment with the most important customer of all - YOU.
+
+Turn your cell, iPod, TV, instant messenger, and all other electronic collars off for the duration of your study time. I know those of us in information technology don't like to say this, but we can actually exist without being in touch with the world for a little while. You may even get to like it! Having uninterrupted study time is key to CCNA and CCNP exam success.
+
+Finally, schedule your exam before you start studying. Contrary to what many people think, "deadline" is not a dirty word. We do our best work when we have a deadline and a schedule to keep. Make out your study schedule, schedule your exam, and get to work just as you would a network project for a customer. The project you're working on is your career and your life, and by following these simple steps you can make it a highly successful project - by passing your CCNA and CCNP exam!
+
+

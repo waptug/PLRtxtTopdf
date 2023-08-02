@@ -1,0 +1,52 @@
+Title: 
+Creating A CRM Data Capture Procedure Checklist
+
+Word Count:
+503
+
+Summary:
+The number one reason why CRM systems fail is because of poor data quality yet it doesn’t have to be that way. When it comes to data “garbage in equals garbage out” so if the information you are saving is not accurate the results given back will not be accurate. There are many ways to ensure this doesn’t happen and one of them is creating a CRM data capture procedure checklist.
+
+The best thing you can do is hold a staff meeting with those that use the program and hash out w...
+
+
+Keywords:
+
+
+
+Article Body:
+The number one reason why CRM systems fail is because of poor data quality yet it doesn’t have to be that way. When it comes to data “garbage in equals garbage out” so if the information you are saving is not accurate the results given back will not be accurate. There are many ways to ensure this doesn’t happen and one of them is creating a CRM data capture procedure checklist.
+
+The best thing you can do is hold a staff meeting with those that use the program and hash out what your data capture procedure checklist is going to look like. Start by spelling out the following:
+
+1. Determine who is allowed to do what. Who has the rights to create new records, modify existing ones, or delete existing ones? Your system administrator needs this information so that the system is set up accordingly.
+
+2. What procedure is going to be used to ensure duplicates are removed? This is often referred to as data scrubbing. Delegate who will be responsible for data scrubbing as well as how often it will be done.
+
+3. Decide if acronyms are going to be allowed. For example will it be I.B.M. International Business Machines Inc or IBM. You need to have a policy so that the data integrity remains intact.
+
+4. Decide if abbreviations are allowed. For example is Inc allowed or is Incorporated required.
+
+5. Are records going to be created in lower case, upper case, or are upper case going to be used for the start of names? In fact what is your policy going to be on CAPS?
+
+6. How often are records going to be updated? Continuously as in real time, once a day, once a week, or once a month?
+
+7. Is the clients address going to be set up as the physical address or mailing address.
+
+8. Make sure all staff check spelling and if they aren’t sure always use a spellchecker.
+
+9. Define how new profiles are going to be created and how user defined fields are allowed to be configured. This is a very important step so give it the time it deserves.
+
+10. These days email is as important as the telephone so make sure email address are properly entered.
+
+11. Define which fields if any are going to be mandatory.
+
+12. Address how backups will be done and how often as well as who will be responsible for doing those backups.
+
+13. Decide how training is going to be done and if training refreshers are going to be offered.
+
+14. You need to decide if updates are going to be done at the three month or six month mark. How often will depend on the size of your company and if there are changes that occur regularly.
+
+Once your CRM data capture procedure checklist is in place make sure all staff members have signed off as reading it. New employees should receive a copy of the checklist when they are hired. And the procedures should be refreshed at least a couple of times a year.
+
+

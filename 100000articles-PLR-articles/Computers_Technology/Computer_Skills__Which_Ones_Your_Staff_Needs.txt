@@ -1,0 +1,45 @@
+Title: 
+Computer Skills: Which Ones Your Staff Needs
+
+Word Count:
+418
+
+Summary:
+Computer skills, especially more advanced ones, can be easily self-taught and shared among your staff. This article shows you what your clients are looking for in technical computer skills.
+
+
+Keywords:
+computer skills, computer consulting, it support
+
+
+Article Body:
+Don't worry too much if you lack advanced technical computer skills.  A lot of that can be remedied by just putting in a little bit of time each week in doing some self-study. In this article, you'll learn which computer skills are necessary to serve your sweet spot small business clients. 
+
+If It Works, Break It
+You can do something as simple as getting a not-for-resale (NFR) copy of a product that you want to sell, install, and support and then working with the product in your lab. When you or one of your lead technicians or engineers has a spare half-hour to an hour, you can walk through the basic installations. Then, deliberately break the lab installations. Next, reinstall the software until you get more comfortable with the package.
+
+Most of these products that you'll be installing for small businesses are very mature technologies. They're very wizard-driven, and at least for plain-vanilla configurations, they don't require tremendous levels of computer skills.
+
+Installations Are Easier Now
+Years ago, it was much more difficult to install the Novell small business suite or IBM equivalent, or the original 1997 Microsoft Small Business Server. But all of these companies, especially Microsoft, put a lot of money into making it easier for people who don't have advanced IT backgrounds and networking computer skills to install their small business server application suites.  
+
+In terms of your technical computer skills to service sweet spot clients, your staff needs to: 
+1.	have good strong PC hardware skills
+2.	be able to handle a peer-to-peer setup
+3.	understand what TCP/IP is all about
+4.	know what POP3 and SMTP are
+5.	know how to work with basic SOHO routers
+
+If your staff possesses the above skills, you're definitely at a good starting point to get started with at least the smaller sweet spot small businesses (10-20 PCs).
+
+Share the knowledge among your employees
+Make sure your staff members cross-train each other and you. This way, no one's ever “too knowledgeable” to the point where they can blackmail you, extract huge raises or huge bonuses, or walk away with your client base. You have to make sure your company's internal know-how or intellectual capital can't just get up and walk out the door to your biggest competitor.
+
+The Bottom Line about Computer Skills
+In this article you've learned about which technical computer skills are necessary to service your sweet spot clients.
+
+Copyright Notice:
+
+Copyright MMI-MMVI, Computer Consulting 101. All Worldwide Rights Reserved. {Attention Publishers: Live hyperlink in author resource box required for copyright compliance}
+
+

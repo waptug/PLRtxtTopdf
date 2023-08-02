@@ -1,0 +1,46 @@
+Title: 
+Internet Client Confidentiality
+
+Word Count:
+596
+
+Summary:
+The people who own and maintain Web sites have a responsibility to the customer to ensure those who make use of the services and products of that Web site never have their private information compromised.
+
+To help ensure this, only the information that is absolutely required to process a transaction should be transferred. Details such as the name of the customer, residence, contact number and the credit card number should be sufficient for most online transactions.
+
+To en...
+
+
+Keywords:
+
+
+
+Article Body:
+The people who own and maintain Web sites have a responsibility to the customer to ensure those who make use of the services and products of that Web site never have their private information compromised.
+
+To help ensure this, only the information that is absolutely required to process a transaction should be transferred. Details such as the name of the customer, residence, contact number and the credit card number should be sufficient for most online transactions.
+
+To ensure that this data is securely transferred between the owner of the Web site and the client, an encryption system is invaluable. There are several different options available to fit every need and budget.
+
+For those customers that may be unconvinced an encryption program installed on the Web site a certified document is usually reassuring. Every reasonable step should be taken to assure every customer that the information exchange is completely safe.
+
+There are, unfortunately, people who masquerade as customers but actually aim to gain entry to the system for unscrupulous reasons. Conducting a background check of suspicious individuals prior to continuing a transaction is an effective way of ensuring the safety of the others who patronize a Web site.
+
+Consumers want privacy. One way of building trust with customers is by posting a disclaimer. A simple message assuring the client that information given will never be revealed to anyone can go a long way toward alleviating concerns.
+
+The federal government has offices that assure the consumer that there is adequate security in place on a specific Web site through a system of certification. A Web site owner need only complete the necessary paperwork and following certain requirements to have one of these offices evaluate and certify a site.
+
+Most transactions conducted by electronic businesses use credit card information transmitted via the Web. Since even the most stringent security measures aren’t enough to satisfy some skeptics, other ways of transacting business should be made available. Posting the mailing address of the company or adding information such as the telephone and facsimile number is a common method for handling transactions outside the Internet.
+
+Many small businesses require employees to meet the labor demands of the company. Limiting the nature of information about clients that is available to these employees, client safety is further enhanced. Should it be absolutely necessary for an employee to be privy to this data, a background check on the individual should first be done.
+
+The biggest threat to consumer confidentiality is hackers trying to break into the system to steal information. To the simplest protection against such incidents is to put a password and change it regularly. The password should never be shared with anyone or written down where anyone might read it.
+
+A similar threat is spy-ware and viruses, which can bring the entire Web site down. It is absolutely critical to obtain protection for the Web site using the best anti-virus and anti spy-ware products available.
+
+Without the necessary Web site security a business cannot long prosper. This can be as simple as getting the right security software products and applicable certification from the proper authorities. Conducting regular random security checks in the system is also an excellent idea to assure the safety of the clients information at all times.
+
+The profound damage any incident that compromises customer confidentiality will cause cannot be overstated. A single breach can irrevocably shake customer confidence and destroy the credibility of the business for months, years, or longer. Even once improvements in security are complete, it will prove difficult to win back the trust of the people.
+
+

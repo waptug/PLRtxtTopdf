@@ -1,0 +1,34 @@
+Title: 
+Spyware - Is Somebody Watching
+
+Word Count:
+543
+
+Summary:
+These days most people who regularly use a computer online will be familiar with computer viruses and terms such as spyware and adware. Stories circulate about new viruses all the time and the crippling effect they may have on a network. Although these stories are sometimes blown out of proportion they do unfortunately accurately portray how potentially damaging computer viruses can be.
+
+In addition to viruses over the past few years we have seen the emergence of other comp...
+
+
+Keywords:
+spyware,adware,antivirus,anti spyware,spyware scan,spyware removal,adware spyware
+
+
+Article Body:
+These days most people who regularly use a computer online will be familiar with computer viruses and terms such as spyware and adware. Stories circulate about new viruses all the time and the crippling effect they may have on a network. Although these stories are sometimes blown out of proportion they do unfortunately accurately portray how potentially damaging computer viruses can be.
+
+In addition to viruses over the past few years we have seen the emergence of other computer programs in the form of spyware and adware and these programs have the potential to be equally destructive. Adware on its own is usually undamaging, albeit frustrating. Are you being spammed with never ending or unsolicited advertising – chances are an adware program has installed itself on your pc unbeknown to you.
+
+Spyware on the other hand is a much more shadowy program that poses a lot more threat. On initial investigation certain types of spyware seem like simple adware in that you will find that you are inundated with unsolicited advertising. However, beneath its surface spyware allows or enables monitoring and access to information within your computer. Additionally, certain types of spyware will cause further problems by altering your pc system configuration and thereby providing opportunity for an array of further system intrusions.
+
+Fortunately, you can help prevent your system or pc becoming infected by viruses, spyware and adware and some of the most effective methods are as follows:
+
+Check the security settings on your computer – I’m constantly surprised by the amount of people who are oblivious to security settings on their PC. Obviously, the method for checking these settings will differ depending on your operating system. However, in general you will usually access the security settings in internet options. Everybody has different requirements but a medium security setting is generally recommended for home users. Setting your security setting too high may block access to sites that you wish to access.
+
+Firewalls – these days a firewall is a real necessity. A firewall is basically a security program that automatically blocks unidentified programs that try to remotely access your computer. Make sure you are familiar with your firewall settings and how to configure or amend the firewall parameters. This gives you the capability of filtering different program types and limiting accessibility so that data can only be received or sent from specified sources. The only downside of a firewall is that occasionally it may block information you try to retrieve even if the source is known and trusted by you. Again, becoming familiar with your firewall settings will lessen this problem.
+
+There are numerous online companies offering an array of online programs that can be downloaded instantly and are particularly designed to target spyware. When shopping around for anti spyware programs choose one that has the capability of detecting and intercepting spyware on your computer as well as performing regular automatic scans of your system. It’s also important that your anti spyware program can detect spyware that may have installed itself prior to running your first system scan.
+
+Finally, always ensure that the company who provides you with antivirus or spyware products includes an update service whereby you will automatically receive updates to tackle the latest virus or spyware that hackers are using.
+
+

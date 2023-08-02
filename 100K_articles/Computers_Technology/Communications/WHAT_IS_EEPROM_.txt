@@ -1,0 +1,34 @@
+Title: 
+WHAT IS EEPROM?
+
+Word Count:
+373
+
+Summary:
+EEPROM is a type of ready-only memory that can be modified by the user of the ROM.
+
+
+Keywords:
+EEPROM
+
+
+Article Body:
+EEPROM is a type of ready-only memory that can be modified by the user of the ROM. This is different from more standard types of read-only memory that are locked and not subject to any type of modification by the average user. Short for electrically erasable programmable ready-only memory, EEPROM can be modified with the use a higher than usual jolt of electricity. One unique form of EEPROM is flash memory, which will make use of the normal PC voltage to manage the functions of erasing and reprogramming the memory. 
+
+What is the Advantage of EEPROM?
+
+For most end users, there is no real advantage to EEPROM. Generally, the ROM included on most computers is enough for consumer needs. Only in the event that there is a need to completely erase details from the read-only memory, such as with corporations who are worried about security breaches, is there any real benefit to EEPROM.
+
+Are EEPROM Chips The Same Thing?
+
+While EEPROM chips are essentially configure the same, they are a little different from the read-only memory resident on the system. For one thing, chips have to be removed from a system in order to be wiped.  EEPROM can actually remain in the hard drive and be wiped with a sufficient dose of electricity.  
+
+Can I Pick and Choose What To Erase?
+
+No. With EEPROM, it is an all or nothing situation. There is no way to select certain files or other data stored in the read-only memory and protect it from the erasing activity. Therefore, it is recommended that no attempt be made to modify the content on EEPROM unless the user is sure that nothing contained in the memory needs to be retained for some reason. Once the data is wiped, it cannot be retrieved. 
+
+How Often Can I Erase EEPROM?
+
+Keep in mind that there is a limited life to EEPROM. That is, there are only so many times that the memory can be erased before it fails. The exact number of times will depend on the manufacturer guidelines. It is important to realize that the recommended number of times that EEPROM can be erased and reprogrammed is an approximation, so this action should only be conducted on as needed basis.
+
+

@@ -1,0 +1,41 @@
+Title: 
+Computer Mice And Their Origin In Our Telephones
+
+Word Count:
+636
+
+Summary:
+Like so many developments that we take for common on our computers the humble mouse had its origins in the innovative work done for more than two decades at the Xerox Palo Alto Research Center (PARC).  The PARC mouse had two rollers for horizontal and vertical motion and a single button. The deucedly boxy shape was favored by many of developers at PARC and remarkably has persisted through many mouse (or mice) incarnations.
+
+Firstly the Microsoft mouse design has had major i...
+
+
+Keywords:
+mice , computer , mouse , Micrososft  , Logitech , vintage , computers , history , manuals
+
+
+Article Body:
+Like so many developments that we take for common on our computers the humble mouse had its origins in the innovative work done for more than two decades at the Xerox Palo Alto Research Center (PARC).  The PARC mouse had two rollers for horizontal and vertical motion and a single button. The deucedly boxy shape was favored by many of developers at PARC and remarkably has persisted through many mouse (or mice) incarnations.
+
+Firstly the Microsoft mouse design has had major impacts in the mice industry. Microsoft mice always had ergonomic design. The first Microsoft mouse had a broad teardrop shape with two buttons. The original green buttoned model had a steel ball that spawned an industry in foam mouse pads. The next iteration had larger buttons, a larger body, and a rubber coated ball.
+
+When Microsoft decided that the mouse needed to be redesigned, it turned to the venerable firm Matrix Design of San Francisco. Microsoft routinely used and uses third parties to design and software develop many of the items and software that we take for granted today that Microsoft devoted alone . Mike Nuttal, one of Matrix Designs founders was intrigued by Microsoft’s project: reshaping the exterior without altering the internal mechanism.
+
+Matrix did change one internal element: the position of the mouse ball. “Almost the first thing we tried was to move the ball forward”, Nuttal remarked later. In the old design the ball sat forward under the palm. A computer mouse user has a natural tendency to put their weight on the palms of their hands and thus on the ball. By moving the mouse ball forward the result was much greater accuracy of the mouse.
+
+“We knew the buttons had to be larger “Nuttal as well said  “We tried several button sizes and in the process of designing we ended up incorporating the buttons into the body of the mouse.” Another change was in the relative size of the buttons. It was felt that the left buttons should be larger than the right. The results were more than favorable especially with left handed users. By making the left button larger finger position no longer was a major factor therefore the index finger could curve form lower left to upper right ( vice versa in lefties ) . This is the position the index finger naturally favors. In addition the previous rubber-dome switches were replaced with micro switches that had a short travel depression and better tactile feedback.
+
+It was not long before the firm Logitech responded to Microsoft’s mice innovations.
+Logitech’s first mouse was truly one of the first examples of the upcoming international efforts in product development and design. A Swiss based Professor: Professor Niklaus Wirth spent a year on sabbatical at Xerox PARC in 1970 and returned to Europe to test mouse designs, working closely with Inria, a French design center for office automation products. In the end their final design was a round mouse with front mounted buttons.
+Product development and testing ensued over the position of the buttons, and the front position won over the top.
+
+
+However, Logitech soon found that the buttons on the front made the mouse jump backward slightly when clicked. The design was abandoned in favor of a wedge shape, which was followed by the rectangular shape that we today.
+
+
+What is interesting about all of this is the effect of outside products on an item that we take for granted today - the humble mouse which so functional that we seldom give it second thought.
+
+The rounded heel that fits so well in the palm of your hand, the large buttons, and the smooth edges all have roots in the most universal of electrical / electronic products.
+Mr. Nuttal and Matrix Design’s area in great expertise was in the design and development of telephones.
+
+

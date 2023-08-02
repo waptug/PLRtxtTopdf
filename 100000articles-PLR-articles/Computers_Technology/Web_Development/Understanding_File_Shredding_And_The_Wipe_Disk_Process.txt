@@ -1,0 +1,36 @@
+Title: 
+Understanding File Shredding And The Wipe Disk Process
+
+Word Count:
+500
+
+Summary:
+File shredding, which is also referred to as file wiping or as wipe disk, is a process that involves securely deleting a computer file.  Through file shredding, the information that was saved on the file cannot be retrieved by any means.  
+
+There are a couple methods you can use to shred a file.  One of these methods is to use special file shredder software, while the other method is to write a “secure delete” demand.  
+
+If you simply write a “delete” command, the saved i...
+
+
+Keywords:
+wipe file,file security,file shredder
+
+
+Article Body:
+File shredding, which is also referred to as file wiping or as wipe disk, is a process that involves securely deleting a computer file.  Through file shredding, the information that was saved on the file cannot be retrieved by any means.  
+
+There are a couple methods you can use to shred a file.  One of these methods is to use special file shredder software, while the other method is to write a “secure delete” demand.  
+
+If you simply write a “delete” command, the saved information can be retrieved with the right software and computer skills.  This is because it is considered a waste of resources to completely delete a file.  Therefore, when a file is deleted within an operating system, the space previously occupied by the saved information will simply be marked as a available and the file is removed from the directory.  The actual contents, however, remain on the disk.  This also makes it possible for files that have been deleted to be restored and recovered.  This can easily be accomplished with the “undelete” command.
+
+In order to conduct file shredding, the file must actually be overwritten several times.  As such, a file that has undergone defragmentation cannot be completely overwritten.  This is because any file that has been moved within the file system cannot be completely removed because it cannot be effectively overwritten multiple times.  
+
+If a file has been moved in the file system and you wish to shred it, you can accomplish this by addressing the entire partition.  Even with this method, the information may still be retrieved because the hard disk controller might mark sectors as bad, which means the data is not visible to your operating system.  In addition, it is unlikely that the desired file is only on the hard disk just once.  This is because a file that has been edited will contain several copies, which can be found in any number of sectors and may even be found in a swap file.  
+
+When shredding a file for security purposes, it is far safer to shred the entire disk rather than individual files.  If the disc has failed and is to be thrown away, however, shredding will be impossible.  Therefore, the only option for truly protecting the information is to burn the hard drive or otherwise destroy the disk, such as with acid.
+
+The main reason for wiping a file is to protect confidentiality.  For this reason, file shredding is routinely conducted  by government agencies such as the United States Department of Defense.  According to their specifications, files must be overwritten at least three times.  Some researchers, however, believe that this is not a sufficient number of times.  
+
+Software used to shred files overwrites the data while also making sure that none of the file information remains in the file system's metadata.  This includes removing files under partial file names, which is an issue since the FAT file system only replaces the first character of a file name when removing a file.
+
+

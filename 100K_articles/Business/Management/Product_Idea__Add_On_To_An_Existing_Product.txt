@@ -1,0 +1,50 @@
+Title: 
+Product Idea: Add On To An Existing Product
+
+Word Count:
+364
+
+Summary:
+Recently I had a conversation with Andi Sikumbang, the person who owns and manages templateplazza.com.
+
+He gave me some information which I want to share it with you. He made me aware of how to make money from open source project like joomla.org.
+
+As you might be aware, joomla is one of the most successful open source software on the web and it’s written with php and most of the webmasters are familiar with it.
+
+So now the question in your mind must be -how can we make ...
+
+
+Keywords:
+
+
+
+Article Body:
+Recently I had a conversation with Andi Sikumbang, the person who owns and manages templateplazza.com.
+
+He gave me some information which I want to share it with you. He made me aware of how to make money from open source project like joomla.org.
+
+As you might be aware, joomla is one of the most successful open source software on the web and it’s written with php and most of the webmasters are familiar with it.
+
+So now the question in your mind must be -how can we make money from successful software?
+
+Let me first tell you on how Andi Sikumbang earns over $2000 from his website selling joomla templates.
+
+The site makes it’s money through membership subscription.
+
+He offers yearly membership template for only $35. This is amazing because he started his collection with only 5 templates and it sold very well. He now has 9 templates and still keeps attracting new members.
+
+Did you get an idea? If you are able to fulfill a demand of the market, then even you have little to offer, people will come and take it. The most important point here is that you may have little but that little should be of high quality.
+
+Now let’s look at how to start a software business based on joomla project as successfully demonstrated by Templateplazza.com.
+
+There is an add on software for joomla which is called ‘extension’. In other words it’s a plug-in system where you will need the main software (joomla) to run it.
+
+At the joomla website (http://extensions.joomla.org/), you’ll see a huge collection of extentions developed by some individual or a company. Most of them are free. Our purpose is to make money. So use the advance search option to look for commercial extentions.
+
+I found about 60 commercial software based on joomla. The price varies, ranging from tens to hundreds of dollars.
+
+This is a good business idea and the main advantage is that you do not need to build community, they and their community will be happy to promote your software.
+
+This way you already are a step ahead and need to concentrate only on developing the product.
+
+

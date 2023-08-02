@@ -1,0 +1,26 @@
+Title: 
+Computers at war in the 70’s and 80’s
+
+Word Count:
+299
+
+Summary:
+In the ‘70s, two computers nearly became dominant: the Apple II and the Commodore 64
+
+
+Keywords:
+computers, pc, technology
+
+
+Article Body:
+The ‘70s and the ‘80s could be easily described as the ‘computer war’. Every company had a new kind of computer, better than the last that they wanted to change the world. Everyone knew it was only a matter of time before one was adopted as the standard, with all the advantages for software compatibility this would bring – and they were desperate for it to be their model that made the big time.
+
+In the ‘70s, two computers nearly became dominant: the Apple II and the Commodore 64. Both of these computers sold in the millions, inspiring a whole generation – they were used for everything from office tasks to games. 
+
+It was in 1980, however, that IBM launched its IBM PC, and things really went crazy. IBM’s PC wasn’t patented. IBM went to a small company named Microsoft to get an operating system for this computer, and ended up with DOS, but Microsoft was willing to license DOS to anyone else who paid their fee. By 1984, ‘IBM PC compatible’ computers were available, and a de facto standard was born. Software makers could finally write their programs for one operating system and one hardware configuration – and anyone computer that didn’t follow the specification to the letter was quickly left with no programs to run.
+
+In 1990, Microsoft released Windows 3.0 (the first version of Windows to be really successful), and the PC’s lock on the marketplace was set in stone. The release of the Pentium and Windows 95 made it finally the fastest, cheapest and easiest system around, and it quickly stopped making sense to develop software for anything else.
+
+From then on, the PC was the dominant computer – today, it is estimated to have between 95% and 98% of the market, with almost all the rest being held by Apple Macintosh computers.
+
+

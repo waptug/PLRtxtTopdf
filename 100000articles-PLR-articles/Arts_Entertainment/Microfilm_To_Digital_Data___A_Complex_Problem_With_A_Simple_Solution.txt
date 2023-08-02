@@ -1,0 +1,30 @@
+Title: 
+Microfilm To Digital Data – A Complex Problem With A Simple Solution
+
+Word Count:
+372
+
+Summary:
+Microfilm was the format of choice for the document management industry for several decades prior to the emergence of electronic document management and the CD-ROM in the early 1990s. The technology for digitizing microfilm is readily available: the decision to be made is how to employ it to best effect.
+
+
+Keywords:
+scanning microfilm for digitization
+
+
+Article Body:
+Microfilm was the format of choice for the document management industry for several decades prior to the emergence of electronic document management and the CD-ROM in the early 1990s.
+
+It follows, therefore, that there is a huge backlog of microfilm of many different formats in the system, all requiring specialized (and expensive) equipment for viewing and printing back to hard copy.   As they stand, they cannot be integrated into an EDM system, even though they may contain mainstream information which is frequently required.
+
+The technology for digitizing microfilm is readily available: the decision to be made is how to employ it to best effect.
+
+A digitizing reader printer incorporating its own printer can be used as a stand-alone device in much the same way as the old microfilm reader printer, but making use of scanning technology rather that the old Xerox process.   A picture file is produced which outputs to A4 using the machine's own laser printer, the downside being that originals larger than A4 will be produced at much reduced size.   The solution to the scaling problem is to install the reader printer as a network drive, allowing the scanned image to be sent to a network plotter.   If the original microfilm incorporated a scale, then an accurate full-size print can be produced: if not, the printer software can be set to print at one of the standard paper sizes, A0 to A4.
+
+This set up serves a requirement for low volume on-demand access, where the microfilms are going to be retained in their original form.
+
+On the other hand, high volume conversion can best be served by specialist machines that will scan roll microfilm, microfiche or 35mm aperture cards automatically and at high speed.   The high capital cost of these devices means that they are not cost effective unless large backfile conversions are being contemplated.   Alternatively, the use of a specialist scanning company will achieve most of the cost benefits without a large capital investment.
+
+There are specialist organizations which provide a range of scanning services, including all microfilm formats.   The scanned images can be converted to hard copy, to exact scale if required, or assembled into a searchable database which can be interfaced with an EDM or workflow system.
+
+

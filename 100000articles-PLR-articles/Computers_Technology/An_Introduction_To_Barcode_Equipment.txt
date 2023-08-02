@@ -1,0 +1,40 @@
+Title: 
+An Introduction To Barcode Equipment
+
+Word Count:
+499
+
+Summary:
+A complete barcode system will consist of software, scanners, a printer or labeler and labels for thermo transfer or thermo direct printing. Also of interest are mobile terminals for mobile data acquisition with a built-in scanner or reader, a display and a keyboard. A POS (point of sale) solution will require laser barcode scanners with high throughput and automatic triggering for hands-free barcode scanning.
+
+Barcode Software
+
+Barcodes are created with special software....
+
+
+Keywords:
+barcode, business,software,computer,scanner,printer
+
+
+Article Body:
+A complete barcode system will consist of software, scanners, a printer or labeler and labels for thermo transfer or thermo direct printing. Also of interest are mobile terminals for mobile data acquisition with a built-in scanner or reader, a display and a keyboard. A POS (point of sale) solution will require laser barcode scanners with high throughput and automatic triggering for hands-free barcode scanning.
+
+Barcode Software
+
+Barcodes are created with special software. While barcode software for Microsoft Windows is available, best suited for barcode creation are Apple Macintosh computers. Macs are preferable due to their strong position in the DTP, prepress and graphics market segment. A typical barcode software will support the common symbologies, calculate checksums automatically and will provide a variety of output options with support for the most common images formats (like PNG, TIFF or JPG) and also for Post Script or EPS.
+
+A cheap alternative to dedicated barcode generators are so called barcode fonts. However, the quality a barcode created with such a font will usually not conform to the respective standards.
+
+Depending on the application the use of dedicated, barcode enabled, label printing software may be advised. For example, such software can be used to print sequential barcodes (for serial numbers) or print logos or product images next to the actual barcode.
+
+Barcode Scanner
+
+Barcode Scanners, also known as barcode readers exist in various forms: The most common type are laser scanners. Here a moving laser beam scans the code which results in fast and error free reading. A cheap alternative to laser scanners are CCD scanners that feature a row of light emitting diodes and photo detectors. The earliest type of barcode reader where so called barcode wands, also known a magic wands. Here a single light emitting diode (LED) and a single photo detector are used to detect the typical black and white pattern of a barcode. While laser and CCD barcode scanners scan a barcode as a whole the barcode wand has to be swiped across the code to read it.
+
+Barcode Printers
+
+Barcode printers are used to print the barcode on self adhesive labels. Today most barcode label printers work in either thermo direct or thermo transfer mode. Using the thermo direct principle the print head applies heat to selected parts of the label which then turn dark. This is the same principle as is used with older fax machines. Thermo direct labels are sensitive to light and should not be used if they have to last longer than a few days or weeks. Typical applications are address labels which only have to last a few days.
+
+With thermo transfer printers a heat sensitive ribbon (thermo transfer ribbon) sits between the print head and the label. As heat is applied to the ribbon, ink transfers (hence the name) from the ribbon to the label. Labels that were printed with thermo transfer are very durable. However, besides the actual label the transfer ribbon is another consumable which will increase the printing cost.
+
+

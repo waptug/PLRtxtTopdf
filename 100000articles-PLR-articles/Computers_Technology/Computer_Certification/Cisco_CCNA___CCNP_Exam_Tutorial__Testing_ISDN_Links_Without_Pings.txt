@@ -1,0 +1,65 @@
+Title: 
+Cisco CCNA / CCNP Exam Tutorial: Testing ISDN Links Without Pings
+
+Word Count:
+371
+
+Summary:
+Testing ISDN links with pings is fine, but there's another way to do it that ensures your basic ISDN link is functioning. Learn all about this method from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+ccna, ccnp, isdn, bri, test, call, disconnect, ping, d, b, channel, pass, free, exam, certification
+
+
+Article Body:
+To earn your Cisco CCNA and CCNP certifications, you've got to master ISDN - and despite what some people say, there's still a lot of ISDN out there that needs to be supported.  And when it comes to troubleshooting ISDN, there's a lot to look at.  Is the correct ISDN switchtype configured? Are the dialer map statements correct?  What about the dialer-group and dialer-list commands?  And that's just the start.
+
+I always say that all troubleshooting starts at Layer 1, the Physical layer of the OSI model.  The usual method of troubleshooting ISDN is sending pings across the link, but the connection can be tested without using pings or even before assigning IP addresses to the BRI interfaces!
+
+It's a good idea to place these test calls before configuring the interfaces - that way, you know you've got a valid connection before beginning the configuration (and there's a lot of config to go along with ISDN!)
+
+To place a test call without using pings, use the isdn call interface command.
+
+R1#isdn call interface bri0 8358662
+
+R1#
+
+03:54:43: BR0 DDR: Attempting to dial 8358662
+
+03:54:43: %LINK-3-UPDOWN: Interface BRI0:1, changed state to up
+
+03:54:44: BR0:1 DDR: dialer protocol up
+
+03:54:45: %LINEPROTO-5-UPDOWN: Line protocol on Interface BRI0:1, changed state to up
+
+03:54:49: %ISDN-6-CONNECT: Interface BRI0:1 is now connected to 8358662 R2
+
+To tear the test call down correctly, use isdn disconnect interface.  IOS Help displays the options with this command.
+
+R1#isdn disconnect interface bri 0 ?
+
+  all  Disconnect the data call(s) on all b channels
+
+  b1   Disconnect the data call on b1 channel
+
+  b2   Disconnect the data call on b2 channel
+
+R1#isdn disconnect interface bri 0 all
+
+03:58:36: BR0:1 DDR: disconnecting call
+
+03:58:36: BR0:2 DDR: disconnecting call
+
+03:58:36: %ISDN-6-DISCONNECT: Interface BRI0:1  disconnected from 8358662 
+R2, call lasted 20 seconds
+
+03:58:36: %LINK-3-UPDOWN: Interface BRI0:1, changed state to down
+
+03:58:36: BR0:1 DDR: disconnecting call
+
+03:58:37: %LINEPROTO-5-UPDOWN: Line protocol on Interface BRI0:1, changed state to down
+
+I say "correctly" because the one thing you don't want to do to end an ISDN call, test or otherwise, is just shut the interface.  Telcos don't like it, and ISDN lab devices like it even less.  Always let the d-channel do its work and tear the call down in an orderly fashion - don't just cut it off by shutting the interface down.
+
+

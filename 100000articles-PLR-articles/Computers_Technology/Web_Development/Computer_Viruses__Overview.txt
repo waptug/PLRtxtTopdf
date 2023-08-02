@@ -1,0 +1,40 @@
+Title: 
+Computer Viruses: Overview
+
+Word Count:
+778
+
+Summary:
+Computers have incredible capabilities.  They can accomplish great tasks, communicate clearly, make things move and think beyond human measure.  Computers have become like humans in nearly every conceivable manner, so it's no surprise that computers can also get sick.
+
+The computer revolution first began picking up speed in the late 1980s.  Since then, it has evolved to be a vital element in our society, our corporate and our personal lives.  Computers have become part and ...
+
+
+Keywords:
+
+
+
+Article Body:
+Computers have incredible capabilities.  They can accomplish great tasks, communicate clearly, make things move and think beyond human measure.  Computers have become like humans in nearly every conceivable manner, so it's no surprise that computers can also get sick.
+
+The computer revolution first began picking up speed in the late 1980s.  Since then, it has evolved to be a vital element in our society, our corporate and our personal lives.  Computers have become part and parcel to virtually everything we do day in, and day out. But with all good comes a little bad.  Some users have maliciously created computer viruses that have grave effects.  The range of computer viruses existing in our modern networks has a huge prominence in our lives, because of all the ways we depend on computers.  Despite our need for dependable computers, some people have nothing better to do but exercise their computer knowledge in a destructive way, creating computer viruses.
+
+The first computer virus, called "The Brain", was created in 1986.  The Brain is a boot-sector virus, which occupies unused space on the disk to eliminate further use of memory space.  After it was created, The Brain quickly spread worldwide in 1987. The Brain virus was considered first to use stealth techniques, making the virus difficult to detect. 
+
+On November 1, 1987 another virus appeared.  The Lehigh virus was named after Lehigh University, the place where this particular virus was first discovered.  One Friday the thirteenth, in December of that same year, the Jerusalem virus was discovered at Hebrew University.  This virus has also gone by the names "ArabStar", "Friday the 13th" and the "Black Window".  This is one of the oldest and best-known computer viruses in the world.
+
+Two more viruses surfaced in 1988:  the Stone, which was the first bootstrap virus, and the Internet Worm.  The Internet Worm caused mayhem in the corporate world as it crossed the United States overnight through a series of computer networks.  Then in 1989, the Dark Avenger was introduced.  This was a fast-infector that possessed the capability to infect new files despite the presence of anti-virus software.  The Dark Avenger computer virus was designed to damage a system slowly.  The virus would go unnoticed at first, and damaged files would not be backed up. Slowly it would consume more and more of your computer until it had created permanent damage.
+
+Computer manufacturers and software engineers began the public war against computer viruses around 1990.  Corporations began to respond to growing public concern and the number of anti-virus products began to rise.  The threat of computer viruses was finally taken seriously.  McAfee, IBM, Digital Dispatch and Iris all introduced their anti-virus products and software in 1990.  Despite their efforts, computer viruses grew faster, stronger and sneakier.  Symantec Norton anti-virus was introduced was introduced in 1991. 
+
+The introduction of Windows 95 brought both relief and discomfort to anti-virus companies when it was released in 1995.  At that time, most common computer viruses were still boot viruses that worked on DOS, but couldn't replicate on Windows 95.  Then micro viruses were discovered in late 1995.  These computer viruses performed in the MS-Word environment, rather than DOS.  Again, the anti-virus industry faced challenges to fight against these new batches of viruses.  With the introduction and growing popularity of the Internet in the late 1990s, viruses began to spread at a much faster rate.
+
+Throughout 1998 there was no lessening of computer virus attacks MS Office, MS Windows, MS Office and network applications.  New viruses continued to appear, and computers and advanced network-to-do applications continued to be affected.  In 1999, another virus appeared, infecting computers using Microsoft Word.  This computer virus may have been passed on via MS Outlook, or through Outlook Express e-mail programs.
+
+The "Loveletter" virus, also known as "Love Bug" and the "I Love You" virus, is believed to have struck one in five PCs worldwide, making it the most widespread and the most costly computer virus the world had ever seen.  The "I Love You Virus" created panic and discord around the globe.  The virus was transferred by e-mail.  When the receiver opened the attachment, the virus was automatically sent to everyone in the user's address book. The "I Love You" computer virus spread at a dizzying rate of speed.
+
+As long as we continue to use the Internet and share computer files, we are at risk of catching computer viruses.  Even today, more and more viruses are still being discovered, leading to big problems for all users, and creating ongoing dilemmas for the creators of anti-virus programs.
+
+Like people, getting sick is an unfortunate fact of life for computers.  Using up-to-date anti-virus software is a sort of preventative medicine, helping to keep computers healthy and computer viruses at bay.
+
+

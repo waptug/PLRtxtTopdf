@@ -1,0 +1,52 @@
+Title: 
+Taking Ctrl - 20 Keyboard Shortcuts
+
+Word Count:
+569
+
+Summary:
+There may be times when it is inconvenient to use the click of your mouse for a specific command or even for an entire working session on your computer.  You can save time and hand movements by implementing these helpful “tricks”.
+
+
+Keywords:
+keyboard shortcuts, ctrl key, function key
+
+
+Article Body:
+There may be times when it is simply inconvenient to use the click of your mouse for a specific command or even for an entire working session on your computer.  Believe it or not, repeated clicking of the mouse can cause physical pain and nerve damage in hands, wrists, arms, shoulders or even the neck of some people.  Minimize this risk by taking note of your computer habits and replacing some of the most frequently used mouse movements with simple, easy to learn, keyboard shortcuts.  You can save time and hand movements by implementing these helpful “tricks”.   No special keyboard is needed for the shortcuts described below.
+
+Because each program has its own unique shortcuts it would be impossible and a bit overwhelming to try to list them all here.  I will attempt to demonstrate the most common shortcuts generally used in most Windows applications.
+
+FUNCTION KEYS -- Hitting the F1 key in any program will bring up the Help menu for that particular program.  F7 will activate a spelling and grammar check.  F10 activates the menu bar so that you can then type the corresponding underlined letter to drop down that menu list.  You can then use the up/down arrow keys to select the appropriate command and press Enter to activate it.  Or, while holding down the Alt key, press the spacebar to activate the control menu to minimize, maximize or close out your active window.  Again, type in the corresponding underlined letter to carry out the desired command.  All this can be done without taking your hands off the keyboard and reaching for that mouse.
+
+HOME/END KEYS -- You can also navigate within any document or file by the use of your arrow keys and the “Home” and “End” keys.  Pressing the Home key will bring you to the beginning of the line on which your cursor sits, while pressing the Home key while holding down Ctrl will bring your cursor back to the beginning of the entire document.  Similarly, pressing the End key will take your cursor to the end of that line, while pressing Ctrl plus the End key will take you to the end of your entire document.  Pressing your up and down arrow keys will take you either up or down one line, while pressing the left and right arrow keys will move your cursor one character to the right or left.
+
+CTRL KEY -- Now that you have found a way to navigate around your screen without using the mouse, here are a few more helpful shortcuts to try.  The following are 2-key combination commands.  While holding the Ctrl key down, press the following keys to carry out the commands.  (Note - do not press the “+” key – that is only instructing you to press the second key while still holding down the Ctrl key.)
+
+Ctrl + C… to copy file, folder or selected text
+
+Ctrl + X… will cut selected data (remove and place in memory) 
+
+Ctrl + V… will paste that file, folder or text 
+
+Ctrl + U… to activate the underline command (or turn it off)
+
+Ctrl + B…to activate the bold command (or turn it off)
+
+Ctrl + I…to activate the italic command (or turn it off)
+
+Ctrl + A…will select all
+
+Ctrl + P…to print document
+
+Ctrl + S…to save document
+
+Ctrl + O…to open a document
+
+Ctrl + L…left justifies selected text
+
+Ctrl + R…right justifies selected text
+
+Ctrl + E…centers selected text
+
+

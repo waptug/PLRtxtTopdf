@@ -1,0 +1,24 @@
+Title: 
+ECG paper signals are usually recorded standard grid papers in hospitals.
+
+Word Count:
+351
+
+Summary:
+This paper presents a system prototype designed to convert ECG paper records into electronic ECG recording forms so that they can be analysed by ECG signal processing algorithms, or transmitted through computer networks for clinical purposes.
+
+
+Keywords:
+ECG Paper
+
+
+Article Body:
+ECG paper signals are usually recorded onto standard grid papers in hospitals as a routine clinical examination for diagnosis of possible cardiac failure. There is a need to convert the existing ECG paper records into electronic forms for efficient retrieval for clinical uses. This paper presents a system prototype designed to convert ECG paper records into electronic ECG recording forms so that they can be either efficiently retrieved as needed, or analysed by ECG signal processing algorithms, or transmitted through computer networks for clinical purposes. In the current system prototype, the scanned binary images of ECG paper records are analysed by using image processing techniques, such as filtering and thinning procedures. The extracted ECG waveforms are then stored and indexed in ASCII data files.
+
+A window based user-friendly interface is also incorporated to provide users with easy access to the system. Experimental results on sample ECG paper records are very encouraging and show promise of efficiency in ECG data storage and retrieval and easy manipulation for clinical uses. This paper also briefly discusses other possible alternative techniques such as frequency domain analysis being investigated in the current system prototyping for ECG paper record conversion.
+
+A typical electrocardiograph runs at a paper speed of 25 mm/s, although faster paper speeds are occasionally used. Each small block of ECG paper is 1 mm2. At a paper speed of 25 mm/s, one small block of ECG paper translates into 0.04 s (or 40 ms). Five small blocks make up 1 large block, which translates into 0.20 s (or 200 ms). Hence, there are 5 large blocks per second. A diagnostic quality 12 lead ECG is calibrated at 10 mm/mV, so 1 mm translates into 0.1 mV.
+
+It is used as a screening tool for ischemic heart disease during a cardiac stress test.  It is occasionally helpful with non-cardiac diseases (e.g. pulmonary embolism or hypothermia). The electrocardiogram does not directly assess the contractility of the heart. However, it can give a rough indication of increased or decreased contractility.  A typical electrocardiograph runs at a paper speed of 25 mm/s, although faster paper speeds are occasionally used. Each small block of ECG paper is 1 mm2.
+
+

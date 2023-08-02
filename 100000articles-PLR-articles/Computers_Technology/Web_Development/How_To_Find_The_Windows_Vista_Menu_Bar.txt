@@ -1,0 +1,42 @@
+Title: 
+How To Find The Windows Vista Menu Bar
+
+Word Count:
+525
+
+Summary:
+Getting used to a new operating system is always hard, but there are many little tips and tricks that you can learn along the way to make the transition much easier.
+
+One of the tools available in Windows that I use all the time is the Menu Bar. This is the bar across the top of most program windows that includes items like; File, Edit, View, Tools, Insert, Help, etc. The "Tools" menu is especially helpful when I want to change the settings for a program or window.
+
+Let m...
+
+
+Keywords:
+Computer, Vista, Windows, How to
+
+
+Article Body:
+Getting used to a new operating system is always hard, but there are many little tips and tricks that you can learn along the way to make the transition much easier.
+
+One of the tools available in Windows that I use all the time is the Menu Bar. This is the bar across the top of most program windows that includes items like; File, Edit, View, Tools, Insert, Help, etc. The "Tools" menu is especially helpful when I want to change the settings for a program or window.
+
+Let me give you a quick example:
+
+When I am hunting for a file, it is not always visible with the default windows settings, so I have to be able to view hidden files. To turn these hidden files on, I click on "Tools" in the menu bar, then click on "Folder Options" and then click on the "View" tab in the folder options window. On the View page, I can quickly scroll down and click on "Show hidden files and folders", then I click the "OK" button to save my changes. Once I have followed these steps, it is much easier to find the file that I am hunting for, especially if it is a hidden system file. Once I have found my file, I can quickly go back and follow the steps above to turn off the hidden files by clicking on "Do not show hidden files or folders".
+
+In Windows Vista, the menu bar is not visible in most windows. I find the loss of these menu bars very frustrating because I am always changing settings using those menus. If you are reading this article on a computer that is running Microsoft Windows Vista, check it out; click on "Start", then click on "Documents" you will see the contents of your documents folder, but unless you have turned on the menu bars, you will not see them. I cannot tell you how many times I was stumped by the absence of these menu bars when I first started using Windows Vista computers!
+
+Today, however, I have good news for you! If you are working on a computer that is running Vista, and you need to make a change or two that you know you used to be able to find in the menu bar, you can make the menu bar temporarily visible in Vista just by tapping the "Alt" key on your keyboard!
+
+If you are using Vista, try it now by following these steps;
+
+1. Open a window by clicking on the "Start" orb (new name for the round buttons in Vista and Office 2007" and then click on "Documents" in the right hand side of the start menu.
+
+2. Your documents window will open. You will notice that there is no menu bar showing though.
+
+3. Now, tap the "Alt" key on your keyboard just once. The menu bar will appear near the top of the window. It will stay visible until you use it, or until you tap the "Alt" key again.
+
+I can't begin to tell you how much time this little trick has saved me when I am using or working on computers!
+
+

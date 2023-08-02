@@ -1,0 +1,50 @@
+Title: 
+Canon Pixma inside out – the iP4200 Photo Printer
+
+Word Count:
+931
+
+Summary:
+So you might have already heard about the new Canon Pixma iP4200 that’s doing the rounds in the computer hardware industry nowadays. Everybody is reviewing it, including us.
+
+
+Keywords:
+Canon Pixma, photos, refill ink, cartridges, colours, computer, monochrome photos, iP4000, iP4000, 
+
+
+Article Body:
+So you might have already heard about the new Canon Pixma iP4200 that’s doing the rounds in the computer hardware industry nowadays. Everybody is reviewing it, including us. 
+
+Canon has been keeping mum over the longest-lasting-photo-prints debate for sometime now. Possible explanations include the newly released Pixma iP4200, with built-in duplex printing; individual cartridges; two paper-input trays; easy operation; inexpensive; great-looking photos; and 100-year print life. Epson, the leading contender for lasting prints, now has competition. The key ingredient to long-lasting prints is Canon’s ChromaLife 100 ink set, included in the Pixma iP4200. The company claims that when used with their branded photo papers, photos printed using ChromaLife 100 inks will last up to 100 years when stored properly.
+
+Compared with the iP4000, the iP4200 is less expensive, faster for business applications, and offers more longevity for photos. However, photos take a little longer to print and earn a lower quality rating than the iP4000, but the overall balance of features makes for an impressive package.
+
+The Pixma iP4200 uses Canon's Full-Photolithography Inkjet Nozzle Engineering (FINE) print head, which releases droplets as small as 1pl for each of the 1,536-nozzle cyan, magenta, yellow, and black print heads (plus 320 nozzles for pigment-ink black text), providing an effective color resolution of 9,600x2,400dpi. Two separate black ink cartridges for both a pigment-based black and a dye-based black, significantly improve photo output. 
+
+Apart from five inks, the photo printer offers the advantage of two paper inputs: a standard paper feed tray in the rear and a second paper tray that slides into the front bottom. You could now easily load standard paper in one tray and photo paper in the other, and switch back and forth between standard printing and photos without having to swap out paper every time. One eco-friendly feature of this printer includes the ability to automatically print on both sides of a sheet of paper. However, it might take you three times as long to print a 10-page Microsoft Word document in this mode compared with printing one-sided sheets.
+
+The iP4200's driver can automatically adjust colour balance, you can access sliders that modify the intensity of the individual inks; you can also switch from sRGB to Windows Image Color Management (ICM). Grayscale printing simply requires the tick of a check box, and a simplistic Print Advisor wizard can quiz you on the type of document you're printing and recommend an appropriate paper.
+
+Other than duplexing, the Page Setup options include size and orientation, number of copies, border/borderless printing, and addition of a background image or a watermark. An Effects tab provides settings for optimizing the image; reducing noise; boosting contrast; or adding effects such as sepia, pink, and other colours. You can save your settings as a profile for reuse in another printing session. 
+
+The Maintenance tab offers functions such as nozzle checks and cleaning, printhead alignment, and other tasks, including a bottom-plate-cleaning function that uses a folded letter-size sheet to tidy up before duplex printing.
+
+Graphics quality, rated at the high end of good, is suitable for schoolwork or internal business use, and is marginally good enough for an important client or customer you might want to impress. However, some visible problems with photos include a slight pink tint in monochrome photos and a tendency for some colours to be overly punchy. It was also a little troublesome to get a neutral gray out of the printer as prints tended toward either green or blue depending on the driver settings used.
+
+Refilling the Pixma iP4200 Cartridges
+
+The new Canon PGI-5 and CLI-8 cartridges have an onboard chip to measure the ink level of each individual cartridge. The five individual ink cartridges in the Pixma iP4200 feature bright red LEDs that light up when properly installed. The cartridge lights also start blinking when ink is running low, and the blinking gets faster as the tanks get emptier. The numbers of the Pixma iP4200 cartridges are:
+
+PGI-5BK - Black pigment ink
+CLI-8BK - Black dye based ink
+CLI-8C - Cyan dye based ink
+CLI-8M - Magenta dye based ink
+CLI-8Y - Yellow dye based ink
+These cartridges are also suitable for Pixma iP5200, iP5200r printers, MP500, MP800 and MP950 MFPs. 
+Needless to say, many people would like to know if these cartridges can be refilled, or if compatible cartridges are available. As of now (February 2006), compatibles are not available for the PGI5 or CLI8 inks, probably for 2 reasons:
+The ink formulations are quite complex, and refill ink manufacturers need to ensure their inks will perform equivalent to the original Canon inks.
+Canon has patented the on-board chip; consequently, compatible manufacturers have to be very careful not to infringe that patent, which could leave them open to litigation. Canon recently won a lawsuit against a company in Japan, which was involved in the business of refilling and resale of Canon cartridges. Naturally, this will set back any plans for compatible cartridges.
+However, there are refill inks available on the market and refilling instructions are available from ink vendors. Canon has very cleverly adapted their printers; if you refill the cartridges and re-insert them into the machine, a warning message will appear on your computer along the lines of:
+“You are using refill ink in your cartridges. If you continue, your printer warranty will be void.” You are prompted to press OK, and after doing so, the low ink warning facility on the printer no longer works. If this is the case, you must be very careful never to let the inks run dry, as this will burn your print head.
+
+

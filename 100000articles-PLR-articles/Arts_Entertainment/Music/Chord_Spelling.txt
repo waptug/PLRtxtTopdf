@@ -1,0 +1,43 @@
+Title: 
+Chord Spelling
+
+Word Count:
+387
+
+Summary:
+With the growing interest in Jazz and other forms of music, I find more and more people asking about chord symbols and chord construction. While there are many books out there on the market, there is very little explanation of how chords symbols are interpreted. I’d like to share some of my insight with all you music enthusiasts.
+
+
+Keywords:
+music lesson, music theory, chords, guitar, piano
+
+
+Article Body:
+Understanding Chord Symbols 
+With the growing interest in Jazz and other forms of music, I find more and more people asking about chord symbols and chord construction. While there are many books out there on the market, there is very little explanation of how chords symbols are interpreted. I’d like to share some of my insight with all you music enthusiasts. In many song sheets chords are given for guitar or keyboard players. Functional names are not used for this purpose. Instead, the root and quality of the chord are given in what may be termed lead-sheet notation (for example, Amaj and F#dim7).
+Chord symbols are made up of 3 component parts:
+1. The ROOT
+	The alphabetical name of a chord.
+		i.e. A, Bb, G F# etc.
+2. The Chord Type
+	Indicating either Major, minor, dominant, augmented or diminished.
+3. The extension:
+Tones added to the basic three note chord (triad) that changes its sound but not its type. Extensions are represented by scale step numbers	i.e. 9, 11, 13 
+
+Here are the basic chord types:
+MAJOR	indicated by GMaj., GMa, GM or just G (Note: the capitol “M” is used to designate Major chords.) Major chords are sometimes written without chord type designation. Symbols are also used to designate Major chords i.e. , .
+
+Minor		Indicated by Gmin., Gmi, Gm or G- (NOTE: The lower case “m” is used to designate minor chords).
+
+Dominant 7	Indicated with only the root and extension numbers. Since some major chords and all dominant 7 chords can be written without chord type designations, the following will help you to distinguish between a major chord and a dominant chord: If the FIRST extension number following the root or letter name of the chord is 7 or greater, and it does not specifically state major or minor then it is a dominant chord.
+EXAMPLE: 	C7b5, C13, C9 and C7sus4 are all dominant chords, but Cm11 is a minor chord and CMaj.9 is a major chord.
+If the FIRST extension number following the root or letter name of the chord is 6 or under, it is a major chord.
+EXAMPLE: C6/9, C2, Csus4 are all major chords
+Augmented
+These are 3 note chords indicated by G aug, G+, or G#5
+EXCEPTION: G+7 is always a dominant chord as is G7#5
+
+Diminished
+	Indicated by G dim, Gdim7, or Gº, or Gº7
+
+

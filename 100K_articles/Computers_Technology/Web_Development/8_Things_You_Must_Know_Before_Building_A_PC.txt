@@ -1,0 +1,89 @@
+Title: 
+8 Things You Must Know Before Building A PC
+
+Word Count:
+1012
+
+Summary:
+Perhaps you're interested in learning how to build your own computer. That's great, really!
+
+I've put together a list of 8 things you MUST know before you ever start to build your own PC. You'll be in a world of hurt if you don't have these down.
+
+Tip #1 – Safety First
+
+I hope you didn’t think the last time you’d hear “safety first” was in your Drivers Education classes! Working on any electronics, including computers, has its risks and requires certain precautions. Hav...
+
+
+Keywords:
+computer, pc, build, hardware, software
+
+
+Article Body:
+Perhaps you're interested in learning how to build your own computer. That's great, really!
+
+I've put together a list of 8 things you MUST know before you ever start to build your own PC. You'll be in a world of hurt if you don't have these down.
+
+Tip #1 – Safety First
+
+I hope you didn’t think the last time you’d hear “safety first” was in your Drivers Education classes! Working on any electronics, including computers, has its risks and requires certain precautions. Having said that, what’s the first part you should purchase when building your own computer?
+
+* Motherboard?
+* Processor?
+* Computer Case?
+
+Nope, those are all wrong. And honestly, they aren’t even close!
+
+A computer tool kit should be the first thing you purchase. Normal household tools aren’t suited to working on a computer because they’re often dirty, rusty, and magnetic. Here are some things you must have in your computer tool kit :
+
+Antistatic wrist band – This is a must-have for any computer builder. Your computer's components are very sensitive to static electricity. Make sure that you ALWAYS have your antistatic wrist band on when working on your computer. You must attach it to a ground source, usually a large piece of metal works well. This removes any free electrons, which cause static charge, from your body to the ground. Also, as an additional measure, before touching any hardware, touch your computers metal frame. This will also help put your body’s charge at equilibrium with your PC’s.
+
+Needle-nose pliers and Tweezers - These tools are useful when handling small screws and bits of metal. Your computer's circuitry is very precise and you'll need some good tweezers and pliers to hold things into place.
+
+Screwdrivers – This is an obvious requirement for computer tool kits. You should have at least one small Phillips and Flathead screwdriver in your kit.
+
+Spare parts container - You'll be surprised how handy one of these will be. They can be used to store small parts, screws, spacers, etc.
+
+Nut drivers - Although these aren't a requirement for your tool kit, most tool kits come with some nut drivers. I have yet to use mine, but someday I'll probably need them.
+
+Small flash light - Most computer tool kits don't come with a small flashlight, but it is a good thing to have when you’re working in a dark computer case. A keychain type flashlight works great for this purpose!
+
+Also, make sure all of your tools are NOT magnetic. Many screwdrivers for small screws are magnetic to help hold the screw in place. You don’t want this when dealing with your computer hardware because the magnetic field could damage your components.
+
+I can’t stress this enough; having the correct tools is the easiest way to avoid damaging your components that could easily cost you hundreds of dollars. And please turn off and UNPLUG your computer before working on it, the last thing you need is a phobia of computers after you’ve been inadvertently shocked by one.
+
+Tip #2 - Buy everything at once
+
+This is was a major mistake that I made as a rookie computer builder. I know how anxious you may be to build your first computer; I can still remember how excited I was when UPS delivered my first part. But before you start buying parts left & right, you should set down and answer the following questions:
+
+* What do I want to do with my computer?
+Simple internet browsing? Word processing? Graphic design? Audio and video editing? Play video games?
+* How long do I want this computer to last me?
+Only for a couple years. Forever!
+
+The idea here is to decide where your money will be best spent to maximize the use and/or life of your computer parts. For long term and/or intensive use, such as video/image editing, you’ll want something that you can easily upgrade over time. While for short term and/or simpler tasks, a cheaper, less upgradeable PC should work fine.
+
+The easiest way to assure that all of your computer components will be compatible is to purchase them all at the same time. This way you can compare the features and requirements all at once.
+
+I recommend that you start with your motherboard and processor. Many companies sell motherboard & processor bundles . A bundle is great way to start buying your computer parts because usually you’ll get a deal when you buy the processor and motherboard together. In addition, the processor will be compatible in that particular motherboard, which is one less thing you’ll have to worry about.
+
+Next, select the type of RAM that is compatible with your motherboard and decide how many MB’s of power you want with it. Generally 512 MB of RAM will be sufficient. If you plan on doing image/video editing, or playing video games on your PC, 1 GB of RAM would be better suited for this job.
+
+Now you can decide what types of extra components you want, such as a video card, hard drives, CD/DVD drives, etc.
+
+Once you’ve picked those out, determine roughly how much wattage of power you’ll need from your power supply . I’ve attached a power usage chart below with how much each component uses, but these are only averages, so I can’t guarantee this is what you’ll observe.
+
+Device [Power required (Watts)]
+Video card [20 - 30]
+PCI card [5]
+Floppy Drive [5]
+CD, DVD-ROM [10-25]
+RAM per 128 MB [8]
+Hard Drive [15-35]
+Motherboard [20-30]
+CPU [25-70]
+
+Generally 400 watts should be plenty of power, even for the most power hungry systems you can build. Also consider purchasing a quiet power supply, because the power supply is generally your noisiest piece of hardware. I personally use a 400 Watt Zalman Quiet Power Supply (pictured at left) that I love. It provides tons of power with virtually no sound.
+
+By purchasing everything at once you can ascertain that your computer parts will support all of your computing needs. Another benefit is that you’ll save money on shipping charges by purchasing everything at once rather than separately.
+
+

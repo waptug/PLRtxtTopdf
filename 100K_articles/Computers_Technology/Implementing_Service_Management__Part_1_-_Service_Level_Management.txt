@@ -1,0 +1,38 @@
+Title: 
+Implementing Service Management: Part 1 - Service Level Management
+
+Word Count:
+408
+
+Summary:
+What is Service Level Management?
+
+Service Level Management is one element of the 11 ITIL disciplines, and details the need to plan, draft, agree, monitor and report on service achievement within the business. It also incorporates the requirement for an organisation to implement actions to eradicate potential unsatisfactory service.
+
+Service Level Agreements are one component of Service Level Management; these are documented agreements and are written from the perspective...
+
+
+Keywords:
+
+
+
+Article Body:
+What is Service Level Management?
+
+Service Level Management is one element of the 11 ITIL disciplines, and details the need to plan, draft, agree, monitor and report on service achievement within the business. It also incorporates the requirement for an organisation to implement actions to eradicate potential unsatisfactory service.
+
+Service Level Agreements are one component of Service Level Management; these are documented agreements and are written from the perspective of both the supplier and recipient or end user. These agreements dictate the Service Levels and include services provided, metrics, responsibilities and help to ensure that all support requests are responded to and fixed within the agreed timeframes.
+
+“Implementing effective Service Level Management can dramatically increase an organisation’s ability to respond to and fix users requests.” – Emma Anderson, Service Manager (SSI Computer Services)
+
+Why introduce Service Level Management?
+
+Service Level Management is fundamental to an effective service provision, however it’s a topic not widely discussed among organisations looking to improve their Service Delivery. Most organisations have the impression that new tools alone will increase their organisations ability to respond to a growing number of requests. In fact, a major factor in Service improvement is in the ability of the IT resource to understand its own limits and set realistic Service Level Agreements (SLA’s) with its own end users. This enables the service department to provide a reliable, and more importantly, repeatable service to its users, which in turn raises the IT Service perception in addition to service delivery itself.
+
+How best to introduce Service Level Management into the Business?
+
+When implemented successfully Service Level Management benefits can be achieved by organisations who embrace the methodologies, however, careful planning must be taken into consideration before undertaking this sort of service improvement process. As mentioned previously an assessment must be made of the service provision before any SLA’s can be agreed with end users. If the Service provision itself is unable to provide the service requested by the end user community a decision must be made as to whether the service department gear-up or make alternative arrangements to meet the user’s expectations – for example outsourcing or 3rd party assistance.
+
+Educating the end user community is a key factor in implementing Service Level Agreements and ensures that the users are aware of the service they should expect to receive. This process should be in partnership with the end users as buy-in at this stage ensures a smooth transition.
+
+

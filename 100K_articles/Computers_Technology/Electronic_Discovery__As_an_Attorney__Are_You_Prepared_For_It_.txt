@@ -1,0 +1,32 @@
+Title: 
+Electronic Discovery: As an Attorney, Are You Prepared For It?
+
+Word Count:
+627
+
+Summary:
+You’re sitting in your office when your secretary buzzes you and says you have a letter in from the mail. Upon opening it you realize it’s a request for electronic discovery. The opposing attorney is asking for your client’s hard drives, emails, phone records, tape backups, and other legacy media.
+
+
+Keywords:
+electronic discovery, ediscovery, electronic evidence, concordance, summation
+
+
+Article Body:
+You’re sitting in your office when your secretary buzzes you and says you have a letter in from the mail. Upon opening it you realize it’s a request for electronic discovery. The opposing attorney is asking for your client’s hard drives, emails, phone records, tape backups, and other legacy media.
+
+Do you know how to respond to their request? Do you know what is relevant or not to the litigation? How do you review and do productions on electronic discovery? What kind of software exists out there to help? And can’t you just give them paper and let them be happy with that?
+
+So many questions, and not surprisingly, so many answers. To begin, you need to know what electronic discovery is before undertaking any kind of response. Electronic discovery is the term coined to indicate any information in electronic format that is passed between two parties for the sake of discovery during or before litigation commences. Such information can be electronic files on a hard drive, emails on a pda, server, laptop, or desktop, and voice and video recordings among other things. 
+
+Generally, most electronic discovery is centered on anything that could be paper, but is usually electronic. Emails, word documents, and excel spreadsheets seem to be the most highly sought after items in discovery. Whereas an attorney could get away in the past with printing out an email and handing it over the other side, these days that is generally not good enough. Email files contain what is called meta data which shows who sent the email, what time, who was cc’d and who was even bcc’d. It may even show what email servers sent the data out originally.
+
+Because emails are kept in electronic format during the ordinary course of business, it seems only right to ask for it in the same format. There are many vendors out there that can assist with processing emails and electronic files for the sake of discovery and productions. Doing a price comparison won’t always give you the best solution for a service provider. Ask around. See who is doing a good job among other firms and who isn’t. Vendors will take the electronic data, process it by taking out the metadata and create what is called a tiff image and a corresponding data record linked to that image that you can search on. These vendors will even OCR the image so that you can search on the words actually on the image.
+
+Computer forensic experts also exist and would be happy to provide consultation to the attorney who needs help in deciding how to handle this new realm of discovery. Such consultants are usually well versed in discovery requests and can assist in making your own discovery request as well.
+
+Once you have received the electronic data from the opposing attorneys, you now need to review it. The same vendors who assisted you with your own processing can now process the opposing attorneys files as well. They will either process and give you back searchable data files for various popular litigation support software (Concordance, Summation, etc) or some vendors have hosted solutions available that are web based and allow you to do online reviews for relevancy, confidential, and other hot coding issues that you would normally do in your own office with paper. 
+
+Now that I’ve given a little primer on what electronic discovery is, don’t be alarmed if you are not up to date on everything. There is more than enough information on the web that will allow you to sink your teeth in and absorb this ever growing field of electronic discovery. A good source of reading about this field is http://www.electronicdiscoverycenter.com
+
+

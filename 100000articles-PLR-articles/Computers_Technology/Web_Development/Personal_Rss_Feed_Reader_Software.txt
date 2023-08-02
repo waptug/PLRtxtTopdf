@@ -1,0 +1,40 @@
+Title: 
+Personal Rss Feed Reader Software
+
+Word Count:
+887
+
+Summary:
+RSS feed readers offer one of the most efficient ways to follow news, web site and software updates, newsletters and more. Subscribe to your favorite site's feeds, and your RSS feed reader will go out and check them all for news. Then it displays new items in an easy to use format. Some RSS Feed Readers will let you do much more like filtering and searching and archiving and posting.
+
+RSS Feeds Reader are a spam-free, quick and efficient way to read news and weblogs. To get...
+
+
+Keywords:
+RSS Feed,Feed Reader,RSS Feed Reader
+
+
+Article Body:
+RSS feed readers offer one of the most efficient ways to follow news, web site and software updates, newsletters and more. Subscribe to your favorite site's feeds, and your RSS feed reader will go out and check them all for news. Then it displays new items in an easy to use format. Some RSS Feed Readers will let you do much more like filtering and searching and archiving and posting.
+
+RSS Feeds Reader are a spam-free, quick and efficient way to read news and weblogs. To get the most out of newsfeeds, you need a powerful aggregator, though, that lets you organize, search, categorize and use news items just like emails. Here are my top picks for reading news on Windows.
+
+RSSOwl collect data from RSS-compliant sites are called RSS readers or "aggregators." RSSOwl is such an application. RSSOwl lets you gather, organize, update, and store information from any compliant source in a convenient, easy to use interface, save selected information in various formats for offline viewing and sharing, and much more. It's easy to configure, available in many many languages and the best of all: It's platform-independent.
+
+Guru News Ticker & RSS Reader displays a customizable set of news and RSS/XML feeds in a ticker bar in your taskbar or as browser toolbar (supports IE, Firefox and Macthon). The program comes with a selection of available news sources, and you can also add any RSS/XML feed of your choice. It offers article preview on mouseover and launches the full article when you click on an item. You can also customize colors, fonts, scrolling speed and specify how often news headlines should be updated. Additional features include adjustable scroll speed, keyword filtering, username/password authentication and support for HTTPS servers.
+
+Thingamablog is a cross-platform, blogging application and RSS feed reader. It allows you to easily publish your own weblog without the need for any HTML knowledge. Unlike most other blog tools, it does not require the use of any third party services, but publishes the blog directly to the FTP server or network location that you specify. The interface provides a neatly organized overview of your blogs and a word processor like interface to create new entries. You can chose from several professional template designs, and all you have to do is click a button and your blog will go online. In addition, the program also allows you to keep track of your favorites XML/RSS feeds with the integrated feed reader interface. It can also generate a RSS compatible version of your own blog and import entries from RSS/Atom feeds.
+
+RSS Magnet Reader news aggregator that allows you to manage web feeds, read headlines, mark articles for follow-up, blog them and more. It comes with a library of popular feeds that you can use, and you can add your own feeds or import them from an OPML file. The program supports keyword watches, that allow you to automatically sort out news items that match your interest, as well as.
+
+Alnera FeedBuster is a web feed reader with support for RSS, RDF and Atom feeds as well as OPML import. It provides a large, easy to read and use interface that lets you access your feeds and preview linked pages with the built-in browser display. The program can automatically update (all) your feeds every X minutes and notifies you from the system tray if new items are found. Alnera FeedBuster comes with support for HTTP authentication, but otherwise does not offer any feed specific settings, keyword alerts or other advanced features. If you are looking for an easy to use RSS reader with core functionality and an attractive interface, give it a try.
+
+Taskable RSS and OPML Browser is a small RSS feed reader that works from the system tray. It lacks all the bells and whistles or regular RSS readers, and is limited to headline displays. You can add your own feeds, but other than that there are no options available. Useful for those that just want a (very) basic feed reader.
+
+RssFeedEater is a RSS Reader that can gather information from various sites that offer syndicated content (RSS or ATOM). The program comes pre-loaded with various feeds in several categories. You can easily create new feeds for your favorite sites (if they offer it) by simply adding them to a category. RssFeedEater provides a clean, easy to use interface and additional features like headline filtering, integration with Blogger, built-in browser, Blogger publishing and more.
+
+RSS Radio is a RSS and Atom feed reader that is specialized for the use with audio podcasts. It offers a built-in player interface, integration with iTunes, Windows Media Player, jRiver Media Center as well as right-click subscriptions from IE ad Firefox. You can manage your podcasts subscriptions from an easy-to-use interface and also add new feeds from the integrated podcast directory browser. Other features include an option to stream audio podcasts without having to download the entire feed, integrated BitTorrent client, a holiday catch-up options, download resume, OPML export and more.
+
+Download and install your free Personal RSS Feeds Reader today. Access thousands of RSS and Weblog sources or subscribe to your own. RSS Feeds Reader Software is a free personal news and information tool that allows you to search, subscribe, read and track any of syndicated feeds.
+
+

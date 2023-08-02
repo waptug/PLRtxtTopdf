@@ -1,0 +1,50 @@
+Title: 
+Playing the Better Trades Earnings Cycle
+
+Word Count:
+1626
+
+Summary:
+Not all exciting companies report during this time. The brokers shook the up the markets in mid September and RIMM has often rocked the trading world 
+like it did last Monday but in general, most of the companies you know will report over the next three weeks.
+
+
+Keywords:
+better trades, bettertrades, investing, investments, finance
+
+
+Article Body:
+ALCOA (AA), this is the bell weather sign that earnings are upon us again. AA is the first major component of the DOW to report and it is the unofficial signal that the earnings cycle has started. The fact is that earnings never stop and while the numbers may dwindle to a trickle at times there are companies reporting constantly. But now we will see a swell of daily reporting that builds to as many as 3-400 per day over the next two weeks and then it will peak and drop off again sharply. Not all exciting companies report during this time. The brokers shook the up the markets in mid September and RIMM has often rocked the trading world like it did last Monday but in general, most of the companies you know will report over the next three weeks.
+
+The reporting excitement has an overall effect on the market and while companies can benefit from reporting good information while everyone is watching, the earnings cycle can also work against them if they get caught up in a list 300 companies reporting that day. Also a couple high profile companies can influence the market for a day or two and others will be swept along with the momentum regardless of what their earnings were. Tough to report good news on a bad day.
+
+So, some ideas on how to play the market during the earnings season;
+
+First - find out what day your company is going to report. This is not as easy as it may seem. It is possible to get several different dates on different reporting sites. Companies make adjustments to their schedules and sites may or may not be updated. The best way to verify is to call the company investor relations department. In Dedicated Trader there is a phone number listed in Company Profile. It will usually get you to a person who will (by law) give you the most accurate update of the earnings report date. You may have to work through a person or two to get the data but just ask clearly to know when the earnings are being released for the quarter. For this article I selected General Electric (GE). I went to Dedicated Trader and called 203 373 2211, the receptionist referred me to 800 786 2543 for Investor Relations. The nice young man had to ask a supervisor to verify that it will be October 25th. Now that I knew for sure I could look at a strategy for playing GE's earnings or I could make sure I was not sitting (unaware) in a GE option position on the day the earnings were released.
+
+Second - Time of day is very important to traders. The young man could not tell me what time of the day the data would be released. I was given another number (800 242 0134) where another nice man verified that it is always after the market close for GE. This is quite common for a company to have a standing policy for release time but it is not guaranteed. Lately there have been a number of companies with accounting problems and that can cause reporting to be delayed. The release time allows you to position earnings plays correctly. If a company releases after market, plays can be put together during the day before release and sensitive to the days movements going into the close. Before market open is interesting because after market trading can tip the scales but your decision had to be made the day before so you get to feel the anxiety (good or bad) as you watch the price movement prior to open.
+
+Third - Play or No Play. If you do not have experience playing earnings you must do some learning and practicing. There are specific earnings plays that can work well. Guessing is not a good one. So many examples can be shown where the opposite of what most people expected, happened when the report came out. A one sided (bullish or bearish) trade is a huge risk when the earnings are reported after the market is closed and should only be played with money that will not be missed. It is a guess, a pure guess. For most traders it is a good idea to sit out earnings plays and play the reaction. Practicing can also be done by playing the earnings with non funded positions. Many trading platforms have mock trading accounts where the trades are tracked completely but not funded. These practice accounts are tremendous tools.
+
+Fourth - History. The history of the stock can be very valuable. Many stocks have historical earnings patterns. Running up before the announcement is a common trait. Gapping (large or small) is another trait to be aware of. Inconsistency or lackluster reactions etc. help you plan for contingencies and set realistic targets and strike prices. As stated before, it is not a guarantee but it needs to be factored in.
+
+Fifth - Option Pricing. The price of options can be a big tip off. High volatility can produce huge time premium which often gets reduced dramatically after the earnings come out. This can make a Long position (owning a Call or Put) a big disappointment even if the stock moves in favor of the position. The intrinsic value can be eaten up by the drop in time premium. Look for big differences between Fair Value and Actual time value as one of the tip offs. Fair or slightly bloated time premium may work fine for long positions if you know how to judge it.
+
+Sixth - Time of the month. The date of the release also has significance relative to the expiration of the options. Option strategies have expiration dates and you must have a clear idea of how long you will be staying in the trade before you choose an expiration month. It may be fine to enter a trade by buying a Call or Put even if there is only a week left until expiration if you will only be in it for one or two days. The lack of time helps to depress time premium which might otherwise have stopped you from making a play.
+
+Seventh - Strategies. The riskiest and so most profitable earnings play is the one sided Long Call or Put. Again, it is a crap shoot and must be played with VERY disposable cash. Most often some sort of combination play such as a Strangle or Straddle is used. Often the reaction to the release will also give an opportunity for a secondary play after the release. The require skills with countermoves and unwinding can be very profitable even doubling or more the original gains from a big gap open, and they can also turn a bad play into a good one if you know how to react. These are powerful tools in a potentially dynamic and highly volatile trading scenario. Remember though, the selection of the strategy and the selection of the strike prices will generally be determined by history and option pricing. One last determinate is how close the stock is trading to the strike prices. Half way in between two strikes will call for a different strategy than sitting close to one.
+
+
+This showed that there was actually a bit of pricing bias to the downside as the puts were a little more expensive that the calls. A Long Strangle was chosen at the $80 puts and the $90 calls because they were the next price targets (support and resistance) for either an up or down Gap. The cost of the two position was $ $1.50 + $ 2.30 = $3.80 total. The Cost of the At the Money (time value) was $4.00 so with prices not inflated dramatically and the cost of both 'Legs' at and less than the time value the risk was fairly neutral.
+
+The next morning RIMM opened up $16 points at $102.19. At the first sign of retracement the calls are sold for $ 13.30. This was interesting because the time value was actually inflated quite a bit at the opening, opposite of the reaction to a bloated pre-announcement price. The puts were worthless so the trade totals; Selling $90 calls $13.30 minus trade cost of $3.80 cost, gross profit $ 10.50. Now if RIMM had not moved that far the results would have been less. A move to $90 or $80 would have probably been close to a break even but the move to $90 or $80 was probable, so the risk was reasonable.
+
+Now there is a lot of good information in this newsletter but if it seems short on details... Sorry… if it were a book it could be more complete, right? But there is still a lot of usable information for those who want to avoid getting blindsided by earnings and those who want to play earnings. May I invite you to attend the Traders Forge two day training to develop and hone your trading skills and then the Advanced Trader Forge (ATF) for specific Options Training? The ATF should be attended after the Forge and it will address all the details of strategy and option selection for all situations including earnings plays.
+
+So… please have fun during earnings season but be careful. Know where your skill level is before you put money into trades but do not be afraid to play earnings. You will not learn as much or as fast on the sidelines and you do not have to put very much if any money into the trades to practice in real time with the market. Practice makes Permanent! So you must Practice Perfectly and that means get trained Properly.
+
+Please join me for the free web shops I teach on the FIVE trading skills that are trained in the Traders Forge. I teach them to prepare you to get the most out of the Traders Forge. Hope to see you soon.
+
+Ryan with Better Trades
+
+

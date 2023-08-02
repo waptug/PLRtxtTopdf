@@ -1,0 +1,50 @@
+Title: 
+How To Install A Motherboard
+
+Word Count:
+961
+
+Summary:
+(Important make sure you read through this guide before you begin installation of your new motherboard.)
+
+The motherboard is the largest and one of the most important components of your computer. It’s reliability and health is utmost important.
+
+Once you have picked out and purchased your motherboard you are ready for installation.
+Carefully remove the motherboard from the box, do not remove it out of the ESD (electro static discharge) bag. Do a quick inventory to make s...
+
+
+Keywords:
+computer hardware
+
+
+Article Body:
+(Important make sure you read through this guide before you begin installation of your new motherboard.)
+
+The motherboard is the largest and one of the most important components of your computer. It’s reliability and health is utmost important.
+
+Once you have picked out and purchased your motherboard you are ready for installation.
+Carefully remove the motherboard from the box, do not remove it out of the ESD (electro static discharge) bag. Do a quick inventory to make sure you have all of your parts. Most likely you should have all of you IDE cables for the hard drive and cdrom, and possibly I/O plate. If you purchased a motherboard that support ATA hard drives you should have those cables.
+
+Once you have verified that you have all the parts, pick up the user manual, and read through it, you don’t have to read it from cover to cover but you want to familiarize yourself with the motherboard, in addition many motherboard manufactures will also include a quick installation guide so take a look at that also.
+
+Now you are ready, your work area should be clean and static free. Put on your anti static wrist band, if you have one. A anti static wrist band is just basically a cloth wrist band that has a snap on stretchable cable that is grounded, the grounded surface area helps keep electrostatic discharge in control.
+
+Remove the motherboard from the box and all of the parts. Then remove the motherboard from ESD bag and lay it inside the empty box. Cut open your ESD bag on each side and turn it inside out so that you can lay your motherboard inside of it. Just laying your new motherboard on top of your ESD bag is not enough protection from electro static discharge.
+
+Prepare your computer chassis. If you have already installed and mounted your power supply, tie the power cords out of your way with some wire ties, or some Velcro. You need a clear path from the opening of your chassis to the bottom of your chassis, where your motherboard will be mounted.
+
+Something’s you need to think about before you drop your new motherboard into your chassis is, cooling. Depending on what type of processor you have purchased, the processor may run hot. So you have to think about good ventilation for your chassis. Heat can destroy your new investment in a matter of hours. If you do not already have at least two exhaust fans on your chassis you may have to think about actually cutting a hole either at the top of your chassis or on the side to mount the exhaust fans. Ok pick your jaw off the ground; it’s not as bad as it sounds. If you have a dremel with a cutting blade it can be very easy. Use an old CD as a template and draw around the CD with a washable marker. Then just follow the line with your dremel. Now you don’t have to do this, you can buy a chassis with plenty of exhaust fans already installed, so that is something to consider when you are in the process of buying all of your parts.
+
+Now let’s get back to installing your new motherboard. Once you have a clear path to the bottom of your computer chassis, make sure that you have your bag of screws handy, and a long neck Philips screw driver. Take a look at the motherboard mounts, they are installed inside your chassis, these are the mounts that you will align with the holes on the motherboard. If you do not have any mounts you will have to installed them your self. The hardware should have come with your chassis if your chassis is new; if not make sure you save your screws, when you remove your old mother board.
+
+Remove the old I/O plate and install the new one, take a look at the manual for reference. Make sure that it is secure. Look at the mounts that are on the bottom of your, chassis you want to make sure that you line up the mounts with the holes that are drilled on your mother board. (Important DO NOT DRILL ANY HOLES IN YOUR MOTHERBOARD) Angle the motherboard so that I/O ports will match with the holes on the I/O plate. There is a good chance that you might need to remove the break away pieces of metal the cover some I/O holes on the I/O plate. It is a good idea to check for proper match before installing the mother board.
+
+As you angle the motherboard towards the I/O plates make sure that mounting holes on the motherboard are lining up with the mounts on the chassis. Gently push the motherboard towards the back of the chassis so that the I/O ports are snug against the I/O plate, and that all of the ports are protruding all the way out.
+
+Once you have the motherboard correctly align with the I/O plate you are ready to mount the motherboard to the chassis with the screws provided. Tighten each screw down so that they are snug; do not over tighten the screws.
+
+Use the manual as your guide and connect the power LED, speaker, reset switch ECT, coming off of the chassis to the F_panel (Front Panel) of your motherboard. Since each motherboard will be slightly different make sure to refer to the manual for exact instruction.
+
+Ok well there you have it. You just installed your new motherboard. Need more information on motherboards, and motherboard form factor like the AT or ATX head on over http://www.amecomputers.com/form-factor-motherboards.htm
+
+

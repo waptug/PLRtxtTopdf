@@ -1,0 +1,32 @@
+Title: 
+Searching For The Best PDF To Text Conversion Tool
+
+Word Count:
+547
+
+Summary:
+Converting PDF files into regular text files is a common problem of many users who utilize this file format to support document exchange. Thankfully, numerous PDF to text conversion tools have already been developed.
+
+Portable Document Format (PDF), developed by Adobe Systems, is a file format that is commonly used for document exchange. A PDF file contains a complete description of a two-dimensional document including its text, images, fonts and two-dimensional vector grap...
+
+
+Keywords:
+pdf to txt,pdf2txt,convert pdf to text
+
+
+Article Body:
+Converting PDF files into regular text files is a common problem of many users who utilize this file format to support document exchange. Thankfully, numerous PDF to text conversion tools have already been developed.
+
+Portable Document Format (PDF), developed by Adobe Systems, is a file format that is commonly used for document exchange. A PDF file contains a complete description of a two-dimensional document including its text, images, fonts and two-dimensional vector graphics that may compose it. Early versions of PDF creation programs required users to purchase separate software for printing and viewing PDF files.
+
+Moreover, since early PDF versions were not compatible with external hyperlinks, PDF files were not often used in the world wide web. Since the early part of the 1990s, eight versions of the PDF file format had been introduced by Adobe Acrobat. To further expand the user base of PDF, Adobe also distributed Acrobat Reader Program for free. At present, PDF is considered as the standard for all documents that are to be printed. The file structure of a PDF typically consists of objects that may belong to eight types which are as follows: Boolean values, strings, arrays, numbers, names, streams that contain large data, collections of objects arranged by names or dictionaries, and the null object.
+
+PDF is a combination of three technologies namely, a subset of the PostScript programming language used to obtain layout and graphics data, a font-embedding or replacement system that allows fonts to come with documents, and a storage system that allows all document elements to be contained in a single file. Adobe still retains PDF patent ownership but the company licenses this file format for free when used to develop software applications that conform to PDF specification. Any party that develops applications that can read and write PDF files does not have to pay Adobe any royalty fees.
+
+A common problem of PDF users is the retrieval of texts and other contents out of this file format. Recognizing this need, a number of PDF to text conversion tools have emerged in the market. Adobe also has it own PDF conversion tools. The Acrobat Professional, in particular, has been singled out for its capability to support foreign languages like Japanese, Chinese, and Korean. Another commonly used conversion utility tool is PDF2Text, a plug-in tool also produced by Acrobat.
+
+Aside from converting PDF documents into regular text documents, this application allows users several options such as extraction of page range, text sorting, vertical and horizontal formatting, spacing of characters per inch and many other features. In addition, PDF2Text can be used even without Adobe Acrobat or other similar software as it is a standalone program.
+
+Another PDF converter available in the market is the PDFTextStream. Its makers claim that it is the best content extraction program today. It supports all fonts and languages and facilitates PDF to text conversion in a speedy process. Perhaps its most remarkable feature is the fact that it need not be downloaded because it can work in a user’s browser. Regardless of which PDF conversion tool to use, users should be aware of the pros and cons of all options in order to make an informed choice. To help in the decision-making, trial versions of these applications may be used.
+
+

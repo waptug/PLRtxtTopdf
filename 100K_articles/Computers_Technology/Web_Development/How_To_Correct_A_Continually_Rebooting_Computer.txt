@@ -1,0 +1,52 @@
+Title: 
+How To Correct A Continually Rebooting Computer
+
+Word Count:
+730
+
+Summary:
+When you sit down at your computer desk and press the power switch on your desktop, the last thing you want to experience is a continually rebooting computer.
+
+There are a variety of causes that contribute to this problem, from something as simple as a stuck power button to a much more serious problem as your power supply slowly failing. Other causes for this problem may be overheating PC components, or viruses affecting your system.
+
+Now, if you’re like the rest of us, h...
+
+
+Keywords:
+computer repair,computer upgrades,computer training,software
+
+
+Article Body:
+When you sit down at your computer desk and press the power switch on your desktop, the last thing you want to experience is a continually rebooting computer.
+
+There are a variety of causes that contribute to this problem, from something as simple as a stuck power button to a much more serious problem as your power supply slowly failing. Other causes for this problem may be overheating PC components, or viruses affecting your system.
+
+Now, if you’re like the rest of us, having a computer that reboots constantly is not our idea of a productive day. So how do you diagnose this problem and where do you start to to make corrections. Here are some common but often overlooked causes and solutions that will get your system running again.
+
+First take a look at the power button and see if its stuck in the socket. If so, you may be able to simple tap the front of the case to release the button. In some cases, you may have to remove the system unit cover to get the button to return to the out position.
+
+If you cannot stop the computer from rebooting by pressing the power button and releasing it, turn off the power switch in the back of the computer next to the power supply. If your power supply do not have a power switch, you will have to unplug the system from the wall outlet.
+
+This must be done as soon as possible so that the constant rebooting will not damage components such as the hard drive. Constant rebooting also have the danger of power surges that can further damage larger components such as the motherboard.
+
+Second you check your computer’s software by checking to be sure no virus or malware have not effected your hard drive. Virus and malware are small software that is downloaded along with other files that is designed to cause mischief.
+
+To remove any viruses and malware, use a anti-virus program that will search your hard drive and remove these file quickly. These files can cause such damage as wiping your hard drive of all data or hijacking your web browser so you have no control over your online surfing.
+
+If you find no malware on your computer, take a look at your BIOS to see if it has become unstable or has been changed. BIOS stands for Basic Input Output System and is a small program designed to check all components for proper operation when the computer is turned on.
+
+If your BIOS has been changed or if you’re not sure if its been changed, try to reset the BIOS settings to the default settings after you access the BIOS as the computer reboots.Once inside the BIOS, you should have the option to load your default settings, save the change, and reboot the computer.
+
+However, there are times when a continually rebooting computer will not allow you to access the BIOS. You can then reset the BIOS by removing the system unit cover and locating the jumper on a three pin header.
+
+You must consult your computer or motherboard manual to properly perform this procedure and it should be done as a last resort. Before making any changes to your BIOS, you should backup your BIOS if your computer reboots at long intervals.
+
+After checking your computer’s software for its rebooting problem, you must check to be sure hardware is not at fault. This problem may exist because one of your memory modules are unseated from its socket . Memory modules are long, narrow sticks that attach to the motherboard.
+
+Remove any static electricity from yourself, remove the system unit cover and check these memory modules to be sure they are secure. Check the connections to the hard drive and the connections leading from the power supply.
+
+Power supply connectors should be checked if you’ve done work inside your computer recently. Power Supplies are known to slowly fail and lead to rebooting problems. There is no way to check an ailing power supply and this should be considered the problem as a last resort.
+
+Following these steps will help you correct any computer that continually reboots itself. If no virus or malware is found, carefully and thoroughly check all connections. And if the problem still exist, the most likely cause would be the Power Supply.
+
+

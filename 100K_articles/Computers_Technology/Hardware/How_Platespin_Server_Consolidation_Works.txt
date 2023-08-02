@@ -1,0 +1,30 @@
+Title: 
+How Platespin Server Consolidation Works
+
+Word Count:
+352
+
+Summary:
+It is no secret that servers can take up a lot of floor space, and power. As a result, they can sometimes seem inconvenient. One way to save space and power is to consolidate servers. Server consolidation is very important in order to ease some of the frustrations of overdue consolidation processes.
+
+
+Keywords:
+Server consolidation, data recovery
+
+
+Article Body:
+It is no secret that servers can take up a lot of floor space, and power. As a result, they can sometimes seem inconvenient. One way to save space and power is to consolidate servers. Server consolidation is very important in order to ease some of the frustrations of overdue consolidation processes. Server consolidation projects can also be accelerated via automation and virtualization. Platespin server consolidation helps to accelerate consolidation projects, and reduce errors. This is done without actually having to have contact with the physical machines. 
+
+
+Platespin allows managers to measure and evaluate resource utilization in order to speed up capacity planning for consolidation projects. This is accomplished by remotely gathering information about the server. This information can be the server operating system, memory, CPU speed, the network, and memory. Platespin server consolidation works on Windows NT, 2000, and 2003 systems. The system works without the help of agents. Therefore, the need to manually deploy software is eliminated. The risk of missing certain agent dependencies is also eliminated in this case. Platespin is also very simple and lightweight, so it can start to collect data in almost one minute. 
+
+
+Platespin completely automates the physical to virtual migration of data. This allows the servers to be consolidated quickly and with more ease. There is a drag and drop interface that allows the user to convert machines running Windows or Linux into one fully functional virtual machine that is hosted on several types of servers. These servers include VMware GSX Server, Microsoft Virtual Server 2005, or simply a Platespin Flexible Image file.
+
+
+Network configurations, CPU cycles disk space, and memory allocations can all be converted rather quickly.  This ease allows users to right-size target servers as the conversion process is occurring. As a direct result, data centers are made able to increase the number of servers that are able to be consolidated. This further optimizes resource utilization rates.
+
+
+Sever consolidation may seem complicated, but the right program can make it quite simple. Platespin automates many processes and allows many different factors to be converted quickly. This means that the total time for consolidating servers is reduced.
+
+

@@ -1,0 +1,26 @@
+Title: 
+Converting FAT32 to NTFS
+
+Word Count:
+112
+
+Summary:
+These instruction will assist you in converting the C: partition from FAT32 to NTFS. If you wish to convert another partition instead, just use that drive letter instead of C: while following these instructions.
+
+
+Keywords:
+FAT32, NTFS
+
+
+Article Body:
+These instruction will assist you in converting the C: partition from FAT32 to NTFS. If you wish to convert another partition instead, just use that drive letter instead of C: while following these instructions.
+1.	First, back up your data. The conversion process almost always works flawlessly, but there is no point in taking the risk. 
+2.	Click the <Start> button. 
+3.	Click <Run>. 
+4.	Enter "cmd" into the text field labeled "Open". 
+5.	Click the <OK> button. 
+6.	Enter the command "vol c:" to find the volume label for the C: partition. 
+7.	Enter the command "convert c: /fs:ntfs" to convert the C: partition from FAT32 to NTFS. 
+8.	When prompted, enter the volume label for the partition.
+
+

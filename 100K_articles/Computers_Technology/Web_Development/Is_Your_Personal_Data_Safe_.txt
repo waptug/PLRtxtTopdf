@@ -1,0 +1,40 @@
+Title: 
+Is Your Personal Data Safe?
+
+Word Count:
+413
+
+Summary:
+If you store credit card numbers, electronic bank statements, account numbers, and other personal data on your computer you are at risk. The risk is even greater if you have a broadband or DSL connection that is available 24/7.
+
+Spyware are programs that typically enter your computer through your browser. These programs can compromise your personal data. Additionally there are millions of hackers out there looking for ways to get into your computer. The internet is not the ...
+
+
+Keywords:
+internet security, file security, antispyware software, antivirus software
+
+
+Article Body:
+If you store credit card numbers, electronic bank statements, account numbers, and other personal data on your computer you are at risk. The risk is even greater if you have a broadband or DSL connection that is available 24/7.
+
+Spyware are programs that typically enter your computer through your browser. These programs can compromise your personal data. Additionally there are millions of hackers out there looking for ways to get into your computer. The internet is not the only way your personal data can be compromised. Your computer can be stolen or compromised within your home.
+
+What can you do?
+
+(1) Ensure that you have up to date anti-virus software installed. If you run Windows 2000 or XP both Avast and Antivir are great programs that have freeware versions. Google the names to find their websites. Both programs offer auto updates.
+
+(2) Enable the Windows firewall and ensure that you have the latest Windows service pack and security patches installed.
+
+(3) Use antispyware software. SuperAntiSpyware, AdAware, Spyware Blaster, and Spyware Terminator are all freeware programs that do a good job. Run them regularly and get frequent updates. Spyware is so prevalent it is a good idea to use more than one of these programs. Also, install McAffee SiteAdvisor. It is also free. This program works with Yahoo and Google and lets you know if you are going to a safe or unsafe site. Half the battle is not going to unsafe sites.
+
+(4) Turn off your computer or turn off your cable modem when you are not online. Most cable modems have an on-off button. Log off your computer when it is not being used. This will keep you safe at home, though it will not keep you safe from internet intruders.
+
+Is doing all of this enough?
+
+Doing these four things will be a great start. There is still more that you can do. Obtain a copy of Cryptainer. This program comes in a freeware and shareware version. This programs allows you to turn one or more of your Windows folders into a vault as safe as Fort Knox.
+
+The freeware version is limited to holding 25mb per folder which should be more than sufficient for most folks needs. This is a very secure program so you do not want to lose your password. Forget your password and you will never get to your files again.
+
+You can get the free version of cryptainer from the http://anglesanddangles.com website. It can be found under the software tab.
+
+

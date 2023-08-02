@@ -1,0 +1,42 @@
+Title: 
+Types Of Mobile Display Technologies
+
+Word Count:
+741
+
+Summary:
+A handset might seem to be just a device tnat lets you zaiK on a cellular network, but actually, there is a lot you need to know about handsets before you go out and buy one. What do you need? What kind of form factors are available? What about the battery? Then, there’s the camera to be considered. Also, if a mobile phone is to be really mobile, you need to consider connectivity options. Then there are accessories to jazz up your phone -We round off this chapter with descrip...
+
+
+Keywords:
+mobile,nokia,samsung,themes,symbian,wallpapers,softwares,skins
+
+
+Article Body:
+A handset might seem to be just a device tnat lets you zaiK on a cellular network, but actually, there is a lot you need to know about handsets before you go out and buy one. What do you need? What kind of form factors are available? What about the battery? Then, there’s the camera to be considered. Also, if a mobile phone is to be really mobile, you need to consider connectivity options. Then there are accessories to jazz up your phone -We round off this chapter with descriptions of a few especially desirable phones.
+
+Display Types
+
+Not only do mobile phone displays show caller information, menu options, contacts, etc., mobile phone displays these days need to be capable of displaying thousands of colours so that high-end features such as images and video playback offer the desired user experience. The followingis a brief on the various types of display technologies in use for mobile phones.
+
+LCDS
+
+LCD displays utilise two sheets of polarising material with a liquid crystal solution between them. Crystals in this suspension are naturally aligned parallel with one another, allowing light to pass through the panel. When electric current is applied, the crystals change orientation and block light instead of allowing it to pass through, turning the crystal region dark.There are two main types of Liquid Crystal Displays: STN and TFT.
+
+STN
+
+Super Twisted Nematic LCDs use the passive matrix screen technology, which has no active or controlling element inside the display cell. Pixels are controlled by energising the appropriate row and column drive lines of the matrix from outside the display, resulting in a slow frame rate. STN screens have limited colour range and viewing angles (~15 degrees max).
+
+TFT
+
+With Thin Film Transistor (TFT) LCDs, each pixel is controlled by one to four transistors. Typically one transistor is used for each of the RGB colour channels. Because of this direct control technique, TFT screens are also called Active-Matrix LCDs.TFT technology provides more accurate colour control, allowing it to display more colours and also offer a wider viewing angle range than other types of LCDs.
+
+OLED
+
+OLED stands for Organic Light Emitting Diode. OLED is a flat-panel display technology that is now being used in a variety of devices. Apart from mobile phones, you can also find OLED screens on portable audio players, car audio systems, PDAs and digital cameras. The basic property of OLEDs was discovered in 1985, over a decade before the first displays were seen. Ching Tang, a Kodak researcher, noticed that an organic material glows green if you pass an electrical current through it.An OLED is made by placing a series of organic thin films between two conductors. They operate on the attraction between positively and negatively charged particles. When voltage is applied, one layer becomes negatively charged relative to another transparent layer. As energy passes from the negatively charged layer to the other layer, it stimulates organic material between the two, which emits light visible through a layer of glass. There must be blue, red, and green light-producing organic material to produce the different colours. Because screens using OLED technology produce light themselves, they do not require a backlight as compared to LCD screens. This means that OLED displays require less power and also can be made very thin. Without any other source of illumination, OLED screens can display bright images that are viewable from almost any angle.Like LCDs, OLEDs also come in passive-matrix and active-matrix flavours.Passive-matrix OLEDs are made up of a matrix of electrically-conducting rows and columns making pixels. Between the rows and the columns are the organic layers. On the other side is the substrate, the material which gives the electricity. The more cur-rent applied, the brighter the display.In Active-matrix OLEDs, there is a TFT back plate instead of rows and columns. This controls the brightness of each pixel. There are two TFT arrays per pixel: one to start and stop the charging of the capacitor, and one to provide a constant electrical current to the pixel. Active-matrix OLEDs consume much lower power than passive-matrix ones.OLEDs have the following advantages over LCD or plasma displays: New-age displays: OLEDs can bring in new types of displays, like ultra-thin, flexible or transparent displays.
+
+Power efficiency:
+
+Since OLED screens do not require a back-i hey require much less power compared to other types of displays. This makes OLED a far better choice for portable devices.
+
+

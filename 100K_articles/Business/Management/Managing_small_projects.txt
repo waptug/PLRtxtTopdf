@@ -1,0 +1,97 @@
+Title: 
+Managing small projects
+
+Word Count:
+1944
+
+Summary:
+Project management best practices can easily be applied on small projects to enable you to plan and manage your project successfully.
+
+
+Keywords:
+project management
+
+
+Article Body:
+As both an active  project manager and project management trainer, I often get asked whether the project management best practices that are applicable for large projects can be applied on smaller projects. This is a really important question and one which all project managers must face up to when managing small projects.  
+
+Focusing on project delivery 
+
+One of the arguments against using project management methodologies is that they are very process-centric resulting in vast quantities of project documentation which are simply not practical or desirable on small projects. This is a powerful argument and any method which focuses on producing documentation at the expense of delivering the real business benefits of the project will be a hindrance rather than a benefit. After all, the name of the game in project management is delivering business objectives, not producing reams of documents. 
+
+There is an ongoing and active discussion within the software development community about the best way to produce 
+software on projects. More recently, some software professionals have argued for more agile methods of producing software rather than the more traditional heavyweight methods which focused on producing vast quantities of documentation.  
+
+Agile methods focus on delivery of software rather than documentation. With this in mind, I think project managers everywhere can learn something from the agile methods employed in software development. In short, this leads us to focus on project delivery rather than project documentation, although the critical choice project managers everywhere 
+need to make is how much documentation is really necessary? 
+
+Apply the best practices
+
+I am a firm believer in only producing as much as is required by the project. Nothing more and nothing less. A simple rule of thumb is: if it's useful in helping us to deliver the business objectives of the project then produce it, if it isn't useful in helping us to deliver the business objectives of the project then don't waste time to produce it. With this in mind, I believe that in all projects, at a minimum it is best to apply project management best practices. 
+
+Let’s consider the best practices in turn and see whether or not the overhead lost in applying best practices is worth the benefits which can be gained. 
+
+Defining objectives and scope
+
+Even on the smallest project there will be objectives which must be achieved. As a project manager, it is in your interest to define what these objectives are since you are likely to be assessed on whether the project meets those objectives. It is your responsibility to ensure the project meets those objectives and you are accountable for this. In short, the book stops with you. 
+
+Now suppose you don't define and write down what the objectives are, you are always going to be at the mercy of any boss who decides he's got it in for you. The defined and documented set of objectives is your insurance policy against your manager later coming along and saying you didn't meet the objectives. 
+
+However, there is another reason why you still need to define and document the objectives even on a small project. You want to satisfy the needs of the stakeholders since that is what you are paid to do as a project manager. If the objectives aren't defined, then you won't be able to meet those needs through your project. 
+
+Similarly with defining the scope. The scope forms the boundary of your project. If you don't define what it is, the likelihood is that it will grow and grow as the project progresses and although you might have started managing a very small project, before long your project could become very much bigger than when you set out. 
+
+You still need to document who are the stakeholders on a small project as well. By defining who these are, you can ensure that you cover all of their needs when you define the objectives and deliverables. 
+
+Defining deliverables
+
+Somebody is going to have to carry out the actual work to produce whatever is delivered from your project. Even if the deliverables might be small and don't take much time to produce, they should still be written down. By documenting these things and then having them reviewed by others allows errors to be found. Your aim should be to document a detailed enough set of descriptions of the products to be delivered.  
+
+These descriptions will then be used by the people who will produce the deliverables. Even if these descriptions take no more than a page of text, it is important to write them in a clear and unambiguous way. If you don't write down a description, it means that the person making the deliverable can interpret what is required in unexpected ways which will only result in work being done later to correct the mistakes. So, always define and document the deliverables. 
+
+Project planning
+
+If you were to walk up Mount Everest, you would never do it without a considerable amount of planning. Even if you walk up the hill at the back of your house, there is probably some planning involved - what time do you go? What should you take with you? It is the same on even the smallest project where you will still need to work out which activities are required to produce a deliverable, estimate how long the activities will take, work out how many staff and resources are required and assign activities and responsibilities to staff. 
+
+All of these things need to be written down and communicated effectively to the project team members. I've seen lots of people become unstuck because they think they need to use some kind of project management planning software such as Microsoft Project. This is an unnecessary overhead. I've noticed that people tend to waste too much time making their Microsoft Project Gantt charts look pretty, so that they lose sight of the reason why they are using the tool. 
+
+Instead, for small projects I find that creating a bar chart in Microsoft Excel is the best. It is simple and more than adequate for small projects. Just make each column a sequential date, write your tasks in the first column, and fill in the cells to represent the time the activity takes. 
+
+In addition to the bar chart, you will need to document the milestones on the project. Milestones are the dates by which you need to deliver certain things, or may be the date on which a major activity ends. The responsibilities of each project member must also be documented in the project plan. 
+
+Communication
+
+Even in the smallest project team comprised of just a project manager and one other person, the project manager will still need to assign tasks and responsibilities to the other person. It can't be assumed that they will know what they should do without it being effectively communicated from the project manager. If the project manager doesn't assign them specific activities, then the chances are they will go ahead and work on things which are not needed by the project. So, either the project will end up delivering the wrong things, or the project will get delayed since time will need to be spent later on doing the activities which should have been done earlier.  
+
+You can communicate the plans via email, or give a print out of the plan to your project team member(s), or better still, call a meeting and run through the plan with the project team members. Remember, if the plan changes, you will also need to communicate the changes to your team as well. 
+
+Tracking and reporting progress
+
+If we still consider our two person project team - the project manager and one other person - the project manager will need to know the progress of the activities which the other person is working on. This can be done in a variety of ways: a short daily email detailing the work completed, the work still left to do, and a list of any issues/problems. In most cases this will be sufficient.  
+
+Alternatively a short 15 minute face to face catch up can accomplish the same thing. Or a combination of the two things might be best. In any event, the project manager still needs to be fully aware of the progress that is being made so that progress can be tracked effectively. 
+
+Change management
+
+Even on our two person project, changes are likely to occur. Requests for change usually come from stakeholders and it is your responsibility as project manager to assess the impact of accepting these into the project. To do this, you need a good estimate of the impact the change will have in terms of the extra effort and cost involved. This will often impact the schedule as well, so by having a clear understanding of how the schedule and budget will be affected you can make the decision as to whether or not you will accept the change into your project.  
+
+On a small project there shouldn't be any need for any fancy change control board to decide if the change is accepted. A quick discussion with the key stakeholder(s) should be sufficient for you to come to a decision providing you have worked out the impact on cost and schedule. 
+
+One thing you should never do is simply accept the change. Even if you think the change is small, you should never accept any change(s) without fully understanding what its impact will be on cost and schedule. That is a recipe for what we call 'scope creep' where the project grows bigger and bigger as more and more changes are added into the project. Before you know it, your small project has become a much larger one and you will inevitably fail to deliver your project to your original budget and schedule. 
+
+Risk management
+
+There will be risks even on a small project. Make sure you have thought through all the potential risks at the beginning of the project, monitor the top ten risks each week (or top five if the number of risks is small) and keep looking out for new risks. Failing to manage risk properly is one the main causes for projects to fail.  
+
+The overhead in managing risks is very low. On a recent project, I drew up a list of what I considered to be all the risks on the project. It came to about 10 risks in all. Of these, five were serious risks. I worked out a plan to avoid or minimise each risk. In all, it took me little over a couple of hours to do this. Then, each week on the project, I would spend say half an hour reviewing all the risks and thinking of any new ones. At the end of the project, whilst some risks actually had materialised, because I'd identified a plan at the start of the project to minimise the impact of these risks, the impact of these risks on the project ended up being minimal.  
+
+So, with little up front and ongoing effort, you get a big pay back if you manage the risks throughout the project. 
+ 
+Summary
+
+So, in summary, applying the best practices to even a small project can be done without creating too much paperwork or overhead. The best practices are the things which countless project managers have done on thousands of projects and are 
+deemed to be the 'best practice' because they tend to help you to achieve the best results. 
+
+Don't think that because you're managing a small project that you can ditch these best practices because if you do, you will regret it later when your project gets in a mess.
+
+

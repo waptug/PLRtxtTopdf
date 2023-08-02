@@ -1,0 +1,37 @@
+Title: 
+Internet Provider Connection Software - Why?
+
+Word Count:
+555
+
+Summary:
+As a computer technician I encounter many misconceptions about computers. Internet provider software is one that is often misunderstood. Internet service providers often give customers the false impression that their software is necessary to connect to the internet. If you are one of these folks, you may be asking yourself what other impressions your cheap Internet service provider is giving you.
+
+
+Keywords:
+internet provider,internet service provider,ISP,Internet access provider, AOL, NetZero, EarthLink, PeoplePC, AT&T,Netscape
+
+
+Article Body:
+<p>As a computer technician I encounter many misconceptions about computers. Internet provider software is one that is often misunderstood. Internet service providers often give customers the false impression that their software is necessary to connect to the internet. If you are one of these folks, you may be asking yourself what other impressions your cheap Internet service provider is giving you.
+</p>
+<p><b>Do I need software to connect to the Internet?</b></p>
+
+<p>Absolutely not. The Windows operating system provides all the networking software needed to connect to the Internet and most other types of networks for that matter. Some ISPs require that their branded software be installed to connect to their service. This required software is used by the service provider to capture your attention for the purpose of showing you advertisements and the ISPs own focused content.
+Usually when you click to connect to one of these service providers your browser opens and you are bombarded with ads while the home page loads. You may be able to customize the content posted on the home page to your liking, but lets face facts, You have become a captive audience and you are being taken for a ride.
+</p>
+
+<p><b>What does the Internet Service Providers software do?</b></p>
+
+<p>Internet access provider software does 2 things immediately on install. First it hijacks your Windows connection software so that it can not be used to connect to any other service provider. Usually other Windows network services are also disabled, such as Internet connection sharing. Second, it hijacks your web browser so that you must log on to their home page, which I find ironic since internet service providers are always warning us about spyware that hijacks your browser.</p>
+
+<p>The perpetrators of this type of hijacking is a list of the most popular service providers. You know them as, AOL, NetZero, EarthLink, PeoplePC, AT&T, Netscape... and the list goes on. AOL being the ring leader and takes control of your computer beyond the extreme to the point of being criminal. All of these service providers prefer to hijack the Internet Explorer browser because all Windows users have it installed and it is easy to build software for. But most can also be used with Netscape or Firefox.</p>
+
+<p><b>So what is the alternative?</b></p>
+
+<p>Simply contact a service provider and ask  them if internet connection software is required to use their service. Not all Internet service providers require that you install connection software and are very willing to help you set up your Windows connection.  
+While doing research for this article, I expected to find price to be a factor in the connection software equation. ISPs that require connection software obviously make money force feeding you advertisements, allowing them to offer lower rates. To my surprise that does not appear to be the most important factor in setting price. I found that bandwidth has more affect in determining rates.</p>
+
+<p>So, escape from the hijackers. There are many national Internet service providers out there that don't require that you be held hostage to pop up ads and stale content. Search the Internet for ISPs, do your homework and you will find the freedom to surf the web the way you deserve.</p>
+
+

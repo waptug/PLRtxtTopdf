@@ -1,0 +1,23 @@
+Decentralizing IT
+
+For decades, the classic model of how a business organizes its computer services department was to establish a separate IT department with an independent management structure which may extend all the way to the executive suite.  Over the years, the autonomy of that centralized IT function took on almost mythic proportions and in some cases resulted in abusive attitudes and ways of doing business that almost gave the impression that the business existed to serve the IT department rather than the other way around.
+
+This was a particularly prevalent model when all business computer processing was done by a large centralized mainframe computer, usually made by IBM.  These mega computers are and were expensive and complicated to program and operate which dictated that to be successful, a business had to keep on staff a small army of computer specialists, many of whom seemed to speak an entirely different language and come from a different culture than those in the rest of the business.
+
+This was a natural and necessary business paradigm under the circumstances when “big iron” ruled the IT community.  However, the last several decades have seen changes to how IT gets its business done.  First was the introduction of smaller, powerful systems driven by operating systems like UNIX that were capable of great efficiencies that challenged the supremacy of the mainframe in business.  
+
+The movement toward network computing which was a natural business evolution to facilitate greater data access and to build stronger communications between spread out departments in the business world further eroded the need for one centralized powerful computer operated by a select few who spoke a cryptic language.  Network computing started the process of democratizing computing power in the business world.  With the new dominance of the internet and the need to take the business paradigm into cyberspace, the business model of decentralized data processing has taken on new meaning and importance.
+
+In many businesses, the final stage of IT decentralization has begun to become a reality.  By locating centers of operations and development authority and responsibility directly at the department level, the efficiencies of IT decentralization have become possible at every level of the business. 
+
+This trend in locating department specific applications along with the computing resources to support them to the department level is a significant change to the business culture.  Not only do the departments who benefit from those applications take ownership over the operation of those computing systems, programming and development resources will be become part of the department structure as well.
+
+For example, if the HR department has a suite of applications that are used to tracking payroll, benefits, etc., that application will be placed completely under the authority of HR.  As such, areas of authority that were formerly the sole responsibility of IT such as systems analysis, development, programming and computer operations will become part of the HR management structure.  As a result, each department develops an ability to converse in IT terminologies which results in a higher IT awareness across the business that is healthy for long-term analysis of needs and resources to meet those needs.
+
+This is not to say that new problems and challenges do not come along with the decentralization of IT.  Some IT issues must be addressed at a global level because they impact the business as a whole.  So there is still need for a CIO and some high level IT controls to which each of the departmentalized systems must be accountable.  
+
+Further, the issue of systems integration and finding synergies between systems to maximize the efficiency of systems becomes more difficult when each department operates its own IT operation.  If each department owns and operates its own hardware and network, communications across the business are challenged and there is a higher chance that underutilization of systems will be a result.  Quality control at the systems administration level is more difficult because systems administrators may be answerable only to the department level more so than to the business in general.
+
+These organizational issues must be resolved at a high level so the transition from a centralized to decentralized way of doing business can be successful.  But the rewards of putting computing power at the department level outweigh the risks of failure and justify the effort that will go with such a large change to the corporate culture.
+
+PPPPP 728

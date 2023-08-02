@@ -1,0 +1,74 @@
+Title: 
+Summer Sizzle Brings Blackouts, Sags and Spikes to Your Computer Systems
+
+Word Count:
+772
+
+Summary:
+It is no accident that valuable and precious computer systems are fried during the summer season.  Powe rgrid problems arising from summer air conditioner use  and weather patterns such as lightning  as wel as tornadoes and hurrucanes are all to blame.
+
+    Fire departments aim to prevent fires rather than fight them.
+ 
+   In the same  way be prepared with proper adequete surge protection tactics.
+
+
+Keywords:
+computers , electronics , surge , damage , destruction , surge protectors , surge protection , safety , systems 
+
+
+Article Body:
+Why tempt fate ?
+
+               Summer weather can not only zap your newer computer systems but also your vintage computer as well as irrereplaceable vintage computer software as well as the time and energy spent in setup, hardware replacement and running computer systems.
+
+               Why does the summer season bring so much trouble – brownouts, sags and electric currents spikes?
+
+               Summer heat does wonders. Not only does it allow you to acquire a lovely tan but if causes utility grids to be strained beyond their capacity due to the increased use of air conditioners. In such cases power utilities adjust their voltage output, sometimes causing erratic power sags and spikes, which are extremely dangerous for computer hardware as well as software. And you can expect utilities to be more conservative to avoid another outage like that which happened in the hot August summer of 2003.
+
+                On Aug 14, 2003 it was estimated that due to a summer electric heat surge 50 million people and businesses were plunged into the dark and heat.
+
+                The summary cost was an estimated $ 6 billion.
+
+                Similarly it is estimated that in the United States that smaller outages cost the U.S. economy in lost productivity the not unsubstantial cost of $ 50 billion.
+
+                   So says the IEEE – the Institute of Electronics and Electronics Engineers. The worlds’ leading professional organization for the advancement of technology.
+
+                  Secondly the unique geography of the U.S. produces favorable conditions for tornadoes, resulting in about 1000 tornadoes every year according to the weather channel.
+
+                    Tornadoes are highly unpredictable with wind speeds reaching 300 mph, a tornado is the most destructive storm of all, ripping up utility lines and leading to lengthy, unexpected blackouts.
+
+                      As well last years hurricane season was a record breaker with more than an alphabet’s worth of named storms, causing the National Hurricane Center to resort to the Greek Alphabet ever. It was also the first season since 1851 to have three categories of five storms. (Katrina, Rita, Wilma).
+
+                       Lightning is always the most obvious concern of most computer enthusiasts. Each lightening flash typically contains about 1 billion volts and between 10 and 20 thousand amps of current. Currents can transfer through wiring or plumbing and destroy everything in its path, of course including your irreplaceable  Computer and Software Collection.
+
+                        This damage is entirely possible. The National Oceanic and Atmospheric Administration (NOAAA) reports an average of 20 million cloud to ground flashes  have been detected every year since 1989.
+
+                         How can you protect yourself?
+
+                         First of all purchase proper surge protection and have it in place.
+
+                         There are various levels of surge protection devices.
+
+                                      1) Power bars with a simple switch. These are the choice of most as they are readily available and inexpensive. However the switch is just that a switch not a surge protector. The appearance of an electronic device fools many into believing that they “are protected”. Sadly they are not.
+
+                                       2) Inexpensive Surge Protection devices. This is a better step than the first. However the protection is limited by the fact that the surge protection is afforded by simple Silica sand. With time and moisture (usually no more than a year) the surge protection is highly diminished.
+
+                        If you use these inexpensive Silica sand based surge protectors replace them on a yearly basis. As well note the capacity of the surge protector. It does no good to have a very inadequate surge protector.
+
+                         Read the labels and descriptions on the packages.
+
+                         You can not protect a large computer system with a surge protector designed for one simple computer or laptop.
+
+                                           3) More expensive electronic surge protection units. A wise choice. However as noted above ensure that your protection is well rated above PEAK power use not a lower power use
+
+                                           4) Lastly you may well consider a more expensive though very safe solution an Uninterrupted Power Supply.
+
+                       An uninterruptible power supply, or UPS, (sometimes called an 'uninterruptible power source ') is a device which maintains a continuous supply of electric power to connected equipment by supplying power from a battery when utility power is not available. A UPS is inserted between the source of power (typically commercial utility power) and the load which is to be protected. When a power failure or abnormality occurs, the UPS will effectively switch from utility power to battery power .While they are not limited to any particular type of equipment, they are typically used to protect computers.
+
+                       Remember why tempt fate when it comes to your prized vintage computer system .
+
+                       Fire departments not only fight fires they are most effective in preventing fires.
+                
+                       Remember at the very worst you can always unplug your computer and devicesto be safe . And  as well remember to unplug the phone or broadband cable connection as well.
+
+

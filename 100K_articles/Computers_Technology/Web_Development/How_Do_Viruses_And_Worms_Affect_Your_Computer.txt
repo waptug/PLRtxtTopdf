@@ -1,0 +1,40 @@
+Title: 
+How Do Viruses And Worms Affect Your Computer
+
+Word Count:
+442
+
+Summary:
+Also, unlike viruses that most commonly infect an individual computer, the worms usually attack a computer network. A computer network functions by using a collection of servers and routers. This is what the internet is comprised of. A server is like a PC but has more speed and storage and a router is a server with specialized functions, it directs traffic through the network.
+PC Security - Worm Viruses, Deadliest of All
+
+A virus attacks the unit used to run programs on th...
+
+
+Keywords:
+technology, worms, computer
+
+
+Article Body:
+Also, unlike viruses that most commonly infect an individual computer, the worms usually attack a computer network. A computer network functions by using a collection of servers and routers. This is what the internet is comprised of. A server is like a PC but has more speed and storage and a router is a server with specialized functions, it directs traffic through the network.
+PC Security - Worm Viruses, Deadliest of All
+
+A virus attacks the unit used to run programs on the computer called the central processing unit or CPU for short. It does this by running programs and being constantly busy, so that none of the functions you select can be opened. Similarly, this is how a worm functions on a network. The routers rely on memory and processing time (similar to the CPU functions). These are attacked and as a result the network drastically slows down.
+
+Worms carry payloads which are comprised of other types of malware, backdoor installations or spyware. Spyware is a monitoring program that can keep an eye on activities on your computer and backdoor programs set up hidden access points used by hackers to steal your information or send spam.
+
+“My Doom” sent out at the beginning of 2004, was the fastest spreading worm to date. The worm came in the form of an email with the message "andy; I'm just doing my job, nothing personal, sorry."
+
+Although the culprit was never found, its intended victim is thought to have been a software company called Santa Cruz Operation or SCO for short.
+
+When a person opened this email, the worm was programmed to overwhelm SCO’s website with traffic. The worm spread through the internet and caused a massive slow down.
+
+For the individual computer, the worm’s payload is more serious because it allows ports to be opened on the computer where hackers have access to steal or delete information. In addition, a payload may come with a program to attack your antivirus software and disable it.
+
+De worming
+
+Using firewalls will help protect your computer. Firewalls reduce traffic and “hide” your computer. In this state, you are less likely to be attacked by worms spread over the network.
+
+Be careful not to open suspicious emails and if you don’t know the person or get and unexpected email don’t open it. If you find your computer is slow and reboots by itself or the internet is sluggish, you may have been infected. Try running antivirus software to check it out. If that doesn’t work, try to manually removing the virus. Information as to how this is done can be found on the internet.
+
+

@@ -1,0 +1,40 @@
+Title: 
+The Benefits Of USB Adapters
+
+Word Count:
+552
+
+Summary:
+Finding an available port for your computer peripheral could be very difficult, particularly if you need several ports for your numerous devices. And the difficulty gets more challenging if what you are looking for are ports with serial, parallel and non-USB connectors, because modern computers have either reduced or removed the use non-USB ports.
+
+If you cannot find any available non-USB ports, you can still your non-USB devices to use. Simply get yourself a USB adapter. Y...
+
+
+Keywords:
+
+
+
+Article Body:
+Finding an available port for your computer peripheral could be very difficult, particularly if you need several ports for your numerous devices. And the difficulty gets more challenging if what you are looking for are ports with serial, parallel and non-USB connectors, because modern computers have either reduced or removed the use non-USB ports.
+
+If you cannot find any available non-USB ports, you can still your non-USB devices to use. Simply get yourself a USB adapter. You may ask, is a USB adapter better than the conventional expansion card? Here are the advantages of employing a USB adapter:
+
+1. Compatibility. Whether you wish to connect the serial, parallel port, or any other non-USB ports to your computer using the USB adapter, you won't have any problem getting them to work properly. The USB adapter allows your devices to work if connected to a USB port.
+
+2. Price. Buying an expansion card is more costly than buying a USB cable.
+
+3. Universality. In the past, there were certain ports that were compatible with only specific devices like printers and modems, particularly for printer ports. USB Adapter accommodates all (depending on the sort of USB adapter) non-USB connectors of any computer peripherals. This short list would include joysticks, keyboards, modems, and mouse with 9- or 25-pin serial connectors.
+
+4. Availability. USB adapters are more plentiful than expansion cards and, in turn, are easier to locate. A local computer store or online store could be a rich resource.
+
+5. Practicality. While most of the devices on the market have USB connectors, computers and other host systems also have USB ports. And because non-USB ports are harder to find, you can resort to a USB adapter to connect your non-USB devices to your computer.
+
+6. No extra expansion cards required. Normally, when you link devices with a non-USB connector to your computer you would need additional expansion cards for each of these. If you would add a joystick and a modem or any peripheral with non-USB connectors, you would have to add an equal number of expansion cards for each use. With a USB adapter, all you require is a USB port to link any non-USB device to your computer.
+
+7. Multipliable. Because a single USB port can accommodate up to 127 devices (including hubs), you can attach several non-USB devices without the need of expansion cards. This means that if you have numerous non-USB devices, all you need to do is to provide each with USB adapter and a hub to connect them to the source.
+
+8. Simple installation. If you prefer to use an expansion card for your single device, you have to open up the computer casing in order for the expansion card to be installed on your motherboard. But that is not the end of it. You still have to turn on your computer to reboot it before the card will start working. With a USB adapter, all you have to do is to attach the connector of your non-USB device to the adapter, insert the adapter into the USB port of your computer and in no time, your device is working--even while your computer is turned on.
+
+With all these advantages, would you still prefer using expansion cards for your non-USB devices? Definitely not! The availability of USB adapters has made connecting devices to your computer quicker, cheaper, and easier.
+
+

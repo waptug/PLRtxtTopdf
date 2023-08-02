@@ -1,0 +1,26 @@
+Title: 
+Sarbanes Oxley and IT
+
+Word Count:
+284
+
+Summary:
+For most, the section 404 solution will serve as a central repository for internal control documentation. It will also facilitate the testing of internal and external audit controls and serve as a portal for executive review. Like most rollouts, Section 404 software requires education in processes and internal controls.
+
+
+Keywords:
+sarbanes oxley, IT
+
+
+Article Body:
+For most, the section 404 solution will serve as a central repository for internal control documentation. It will also facilitate the testing of internal and external audit controls and serve as a portal for executive review. Like most rollouts, Section 404 software requires education in processes and internal controls. 
+
+Most products offered by vendors are web-enabled, allowing clients with multiple locations to use software with a minimum of IT Staff. The use of Extensible Markup Language (XML), Extensible Business Reporting Language (XBRL), Java, and middleware languages is a success factor. These languages particularly XBRL, bring the publication, exchange, analysis of the complex financial information in corporate business reports into interactive realm of the internet. 
+
+XBRL provides a common platform for critical business reporting processes and improves the reliability and ease of communicating financial data among users, whether internal or external to the reporting enterprise. XBRL is an XML based royalty free open standard that is being developed by a consortium of more than 170 companies and agencies; the intent is to deliver benefits to investors, accountants, regulators, executives, business and financial analysts, and information providers. 
+
+Commercial packages typically include word-processing, spreadsheet, diagramming and flowchart tools to document processes and internal controls. These features allow users to custom-design their software. Some Solutions facilitate certification testing of controls by the business owner and the auditor. Others allow a view of best practices for internal controls or the committee of Sponsoring Organizations (COSO) integrated framework. 
+
+Various packages offer users the ability to resolve significant accounts from financial statements. Processes associated with selected accounts are identified and then assigned to process owners. Internal controls are documented and tested, and process owners can sign certifications for each process on a quarterly basis.
+
+

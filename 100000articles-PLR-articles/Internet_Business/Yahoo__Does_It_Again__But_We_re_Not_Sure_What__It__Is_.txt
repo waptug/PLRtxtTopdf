@@ -1,0 +1,47 @@
+Title: 
+Yahoo! Does It Again… But We’re Not Sure What ‘It’ Is!
+
+Word Count:
+677
+
+Summary:
+If you’ve searched with Y! lately – at least in some browsers – you may have noticed a new addition to their search result’s page. If you use Netscape or Firefox, the upper right-hand corner of your search result’s page now holds an orange box that holds – The Buzz. Yahoo!’s Buzz Log has been around for a few years, but you used to have to go looking for it to find out what people were Buzzing about. Now Y! puts it in your face - and frankly, I’m not sure what all it’s good f...
+
+
+Keywords:
+Blog Marketing, Blogs, Blog, Internet Marketing
+
+
+Article Body:
+If you’ve searched with Y! lately – at least in some browsers – you may have noticed a new addition to their search result’s page. If you use Netscape or Firefox, the upper right-hand corner of your search result’s page now holds an orange box that holds – The Buzz. Yahoo!’s Buzz Log has been around for a few years, but you used to have to go looking for it to find out what people were Buzzing about. Now Y! puts it in your face - and frankly, I’m not sure what all it’s good for.
+
+For those of you who aren’t up to speed on the Yahoo Buzz, here’s a quick recap. Every day, Yahoo records all the searches that are entered on its pages. Over the next twenty four hours, those searches are indexed, tabulated, calculated and sorted, and the next day – 48 hours later – Y! publishes ‘the Buzz Index’ in a number of different forms. Want to know what was on people’s minds two days ago? You can get a quick snapshot by checking today’s Buzz Index page. There’s a Buzz Index for entertainment, movies, music, sports, movie stars and overall. But what’s it all mean? Here it is straight from the horse’s mouth:
+
+A subject's buzz score is the percentage of Yahoo! users searching for that subject on a given day, multiplied by a constant to make the number easier to read. Weekly leaders are the subjects with the greatest average buzz score for a given week.
+
+So… it’s an index of the most popular searches on Yahoo! The Buzz publishes daily, weekly and monthly stats, so you can track trends over time. You can even get a subscription to the Yahoo Buzz Index and personalize it with customized search terms – but those don’t show up in your search results page when you do a search—you have to go to your Buzz Index page for them. What does show up is the top ten general daily searches. In fact, for today, no matter what I’m actually searching for, here’s what I get in that little box:
+
+1.pussycat dolls
+2.NFL draft grades
+3.the ultimate fighter
+4.may 1 boycott
+5.Madonna tickets
+6.Howard stern
+7.Chinese astrology
+8.project runway
+9.Terence Howard
+10.Bahamas hotels
+
+So exactly what is the point of plopping that orange box in one of the prime pieces of SERP real estate? It doesn’t tell me anything relevant to my search (I searched for test scores, for nursing degrees and for consumer index). If I click on one of the ranked items, it feeds me the search results for that term. If I click on ‘More Buzz’ at the bottom, it takes me to the Buzz Index where I can read the latest blog entry.
+
+To make it even more useless, the Buzz box only works in a few browsers. In the others, there’s either a blank column – or the Sponsor Results – which at least are contextually related to what I’m searching. Where’s the value added? About the only thing that it does is clutter up a space that could be used so much more profitably.
+
+Now if Y! wanted to actually make this thing useful, here are a few suggestions.
+
+First – make it contextually sensitive. If I type in a search for ‘tests,’ I’d find a list of related popular searches a WHOLE lot more useful than knowing that most of America is searching for info on the Pussycat Dolls two days ago.
+
+Second, never mind the ranking – give me the numbers! How many people searched for Pussycat Dolls? Maybe it’s something I should know about, hmm?
+
+Third – move it! I don’t refer to that place as ‘prime real estate’ for nothing. The upper right hand corner of your browser is one of the first places the eye lands on a page. It’s one of the reasons that you put important things in that space when you’re designing your pages. Why waste it?
+
+

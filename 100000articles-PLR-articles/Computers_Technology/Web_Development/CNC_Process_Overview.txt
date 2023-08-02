@@ -1,0 +1,56 @@
+Title: 
+CNC Process Overview
+
+Word Count:
+526
+
+Summary:
+Quick Explanation of the Process
+
+This is how I view CNC. I break it down into simple steps that I can remember. Now, they all interact, but it is good to keep them in boxes for simplicity sake. I also like to keep them in a logical, progression type order. Here they are: Design, CAD, CAM, Control and Machine.
+
+Today you are going on a journey. You are going to learn about the basics of CNC. I hope you are as excited as I am about this topic.
+
+I have been using CNC equi...
+
+
+Keywords:
+CNC Router, Hobby CNC, DIY CNC
+
+
+Article Body:
+Quick Explanation of the Process
+
+This is how I view CNC. I break it down into simple steps that I can remember. Now, they all interact, but it is good to keep them in boxes for simplicity sake. I also like to keep them in a logical, progression type order. Here they are: Design, CAD, CAM, Control and Machine.
+
+Today you are going on a journey. You are going to learn about the basics of CNC. I hope you are as excited as I am about this topic.
+
+I have been using CNC equipment in my home shop for six years now. The technology gets better and better every year.
+
+The software gets better every year. At one time large companies could only afford this technology. Now there are hundreds of thousands of these machines working in garages like yours and mine.
+
+There are basically five elements to a CNC Project that you need to know:
+
+Design - thinking and planning what you want to build
+CAD - translating it into the computer
+CAM - converting it into machine language
+Controlling - directing your machine's motion
+Machining - building the part to specifications
+
+These five elements are really the building blocks to a CNC project. As you see them above, that is generally the order people associate them in. For example, you can't control until you have a design. You can't use your CAM software before your CAD software. One of the main things you need to address is how these elements interact with each other.
+
+Right now this may seem confusing. Over time, it will seem very basic. The more you use these elements with one another, the more their order will become second nature.
+
+Note: The A-axis is the rotational axis. Why is it called that? I don’t know. It is also sometimes called the B-axis. I have even heard it called the W-axis. A-axis is the rotational axis around the X-axis. B-axis is the rotational axis around the Y-axis.
+
+Buying a completed CNC Machine
+
+If you purchase a CNC machine outright, it will have a machine controller as part of the package. Everyone does it a bit different though. Some try to make it a black box that only they can fix. Other use commonly used components so you could repair it if need be. You will just have to ask the manufacturer and see what they say. My experience says they usually tell you that it uses common components that you can get anywhere if needed. If something goes wrong, it seems you can only get the part from them. You will have to decide.
+
+Internal Machine Controller Parts
+
+There are many different electrical components that go into a machine controller. I won’t pretend that I am an expert on this. Actually, this is one of the components I buy pre-made so I don’t have to do it. If you are an electronics junkie you could build your own. I know where my skills are at and it isn’t in assembling and understanding electronics.
+
+Here is what I know about the guts of a controller. There will be drivers. One for each axis.
+
+

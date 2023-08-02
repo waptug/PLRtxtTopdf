@@ -1,0 +1,48 @@
+Title: 
+How Large, How Fast?  Choosing The Right Hard Drive Size And RPM
+
+Word Count:
+568
+
+Summary:
+One necessary and extremely important component of computers is the hard drive. The hard drive stores your games, applications, music, pictures, videos, and documents. As such, you should be sure the notebook computer you're thinking of buying has a hard drive that can give you the storage and performance that you need.
+
+There are two important considerations when looking at hard drive specifications for your computer notebook: hard drive size and hard drive RPM.
+
+Hard Dr...
+
+
+Keywords:
+hard drive,hard drives,computer,computers,laptops,laptop,notebooks,notebook computer
+
+
+Article Body:
+One necessary and extremely important component of computers is the hard drive. The hard drive stores your games, applications, music, pictures, videos, and documents. As such, you should be sure the notebook computer you're thinking of buying has a hard drive that can give you the storage and performance that you need.
+
+There are two important considerations when looking at hard drive specifications for your computer notebook: hard drive size and hard drive RPM.
+
+Hard Drive Size
+
+Hard drive size simply refers to the data storage capacity of a hard disk drive. Desktop computer hard drives offer sizes of up to 500 gigabytes (GB), while notebook computer hard dives offer sizes of up to 160 GB. Notebook computer hard drives are more expensive than desktop computer hard drives with more than twice the capacity of the notebook hard drive. This is due to the engineering difficulties inherent in making high-capacity hard drives for the smaller notebook computers form-factor.
+
+A notebook computer's hard drive size indicates how much data a notebook computer can store. If you are interested in storing large amounts of movies, pictures, or music, you want to go with a larger hard drive to avoid running out of space.
+
+A hard drive's size has very little to do with its performance, unless the drive is almost full. The Windows NTFS File System requires a minimum of 10% of the hard drive to be free space for optimum performance, and it frequently requests as much as 15%. This means that, on a 40 GB drive, Windows prefers that you use a maximum of 34-36 GB, leaving 4-6 GB of space unused. On a 160 GB drive, Windows prefers that you use a maximum of 136-144 GB, leaving a massive 16-24 GB unused. If you start to go over these Windows storage limits, you may notice your computer's performance taking drastic hits.
+
+Hard Drive RPM
+
+Hard drive RPM is a hard drive's rotational speed, measured in revolutions per minute (RPM). Desktop hard drives now have speeds as high as 15,000 RPM. Notebook hard drives, on the other hand, currently have an RPM ceiling of 7200 RPM.
+
+A hard drive's RPM indicates how fast the drive's spindle will move or how fast the hard drive platters will spin. The higher the spin rate is, the shorter the seek time and latency will be. This translates to quicker data access and transfer.
+
+How Large and How Fast
+
+The greater the free space and the higher the RPM, the better your notebook computer's performance will be, so go for a slightly-more-than-comfortable size and the highest RPM for your notebook computer's hard drive. A large hard drive gives you the option to expand in the future, and you can never go wrong with a notebook computer that can give you fast access to your stored data.
+
+It is even more crucial that you go with the top-of-the-line hard drive size and RPM for your notebook computer if you are fond of computer games, you have a lot of multimedia files, or you want to be able to easily upgrade your programs. These games, content and programs take up a lot of space. A high RPM hard drive can also cut down on game load times, giving you more time enjoying your games and less time staring at loading screens.
+
+This article may be republished freely as long as this copyright notice and box of resource links are included at the bottom.
+
+Copyright © 2007 MALIBAL, lLc
+
+

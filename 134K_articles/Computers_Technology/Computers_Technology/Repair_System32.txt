@@ -1,0 +1,26 @@
+Title: 
+Repair System32
+
+Word Count:
+300
+
+Summary:
+The System32 is a Microsoft Windows system directory, which is required on any Microsoft Windows system. If you are a widow user, you got to have System32 working in order, if you want your computer to run properly.
+
+
+Keywords:
+repair system32
+
+
+Article Body:
+The System32 is a Microsoft Windows system directory, which is required on any Microsoft Windows system. If you are a widow user, you got to have System32 working in order, if you want your computer to run properly.
+
+The Windows System32 directory is located in the C: drive under C:\Windows\System32 or C:\Winnt\system32. The most of your Windows system files that you use to run computer are stored in the System32 directory. Often, many of your Microsoft Windows errors are led by System32, because many of the system files Windows use to run are stored in this directory, but the System32 directory does not cause any errors unless it is missing. 
+
+If you get an error with a file in the System32 directory, often you could get message in case of error. You can go turn off and then to restart to find the error message that’ll say Windows could not start because the following file is missing or corrupt C:\windows\system32\config\system missing or corrupt.
+
+This indicates that you got to repair system32. You can repair system32 by searching and repairing the erroneous file instead of the full path., here are some steps to repair system32. Searching the erroneous file is the first step to getting started to repair sustem32. You can go to Start, Search, and then choose all files and folders to search for the file that is giving you trouble.
+
+After finding the corrupt file, you can attempt to repair system32 file by starting windows setup using the original setup CD-Rom. Select "r" at the first screen to start repair system32. Your Recovery Console can also help you repair system32. The Recovery Console is a command console (you know, MS-DOS window) that allows you some access to your crashed computer.
+
+

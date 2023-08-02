@@ -1,0 +1,34 @@
+Title: 
+Testing And Monitoring Of Networks For Security
+
+Word Count:
+587
+
+Summary:
+eBay, iTunes, PayPal – these are just a few of the places that most of us enter our credit card and personal information every day. Since the internet became an integral part of each of our lives, the treat of identity theft is a daily reality for all but the most paranoid of internet users.
+
+While we assume that the sites listed above are secure, how many of us have in fact checked to see to what lengths these companies go to keep their user’s information safe from hackers...
+
+
+Keywords:
+event planning,event planning software,conference,meeting,seminar,trade show, security
+
+
+Article Body:
+eBay, iTunes, PayPal – these are just a few of the places that most of us enter our credit card and personal information every day. Since the internet became an integral part of each of our lives, the treat of identity theft is a daily reality for all but the most paranoid of internet users.
+
+While we assume that the sites listed above are secure, how many of us have in fact checked to see to what lengths these companies go to keep their user’s information safe from hackers? I’m sure very few.
+
+Because we can’t count on our registrants to be careful when entering information onto the registration website, as event planners, we must make sure that we do the research to ensure that our registrant’s information is safe with our online registration company. We want to send potential registrants to a site that portrays our event in a positive light. This means a website designed to our specifications, with professional quality and ease of use. But, most importantly, it means knowing that all information put online for our event will be safe from identity thieves.
+
+One of the most important aspects of a strong security system is frequent testing and monitoring of those systems. To receive the highest rank of Level 1 PCI compliance from Visa, companies must invest a large number of resources to ensure that they are as secure as major banks and credit card companies. As of yet, very few registration companies hold this ranking, but wouldn’t it be nice to know that your registration company values your registrants’ security enough to make it one of their highest priorities?
+
+Constant monitoring and testing of security is a vital part of maintain the highest possible level of security. Some methods of monitoring include an independent daily audit for over 3,000 security checks, (exceeding the highest government standards including the FBI “Top twenty security vulnerabilities” test) and separate hourly, daily, weekly, and monthly backups that are archived for at least two years.
+
+Other important factors to look for are the TRUSTe and Thawte logos. These companies monitor the strength and maintenance of privacy policies and information encryption. According to the website, to be certified by TRUSTe, companies must have their privacy policy open for review by TRUSTe, post notice and disclosure of collection and use practices of personally identifiable information, and give users choice and consent over how their information is used and shared.
+
+While TRUSTe ensures that companies hold to their privacy policies and never use information without the user’s consent, Thawte verifies SSL (Secure Socket Layer) encryption, meaning that the encryption of credit card information entered on the site if of the highest level possible. However, to be verified by Thawte, companies must meet stringent checklist of qualifications including both authentication and verification processes. For the authentication process, Thawte must confirm that the company registration details are entirely true and that the domain is in fact owned by the requesting party. To complete the verification process, Thawte uses a third party telephone listing to confirm that the authorized person requesting a certificate is employed by requesting party.
+
+These are just a couple of the certifications to look for when choosing your online event registration system. When you send your attendees to the registration site, you want to be 100% sure that their data will be 100% safe so they won’t have to research the security, but if they do, you can be confident that they’ll like what they find.
+
+

@@ -1,0 +1,28 @@
+Title: 
+File Comparison-Things To Look For
+
+Word Count:
+502
+
+Summary:
+Individuals and organizations need to deal with lot of important data and it is indeed a huge and difficult task to wade through loads of data and find the right one at the right time. Handling data in organizations becomes very important and it is here that the file comparison comes to their help. The file comparison allows easy and automatic comparison of data between the files stored on the file system.
+
+There are many advantages of the file comparison tool for the users...
+
+
+Keywords:
+file compare,document comparison,compare programs
+
+
+Article Body:
+Individuals and organizations need to deal with lot of important data and it is indeed a huge and difficult task to wade through loads of data and find the right one at the right time. Handling data in organizations becomes very important and it is here that the file comparison comes to their help. The file comparison allows easy and automatic comparison of data between the files stored on the file system.
+
+There are many advantages of the file comparison tool for the users because the system can show the changes made in the files and thus one does not have to go on data hunting looking for the relevant file. The comparison tools also enable the user to draw attention to the difference between the files and the files can be two or more than that. The comparison is not only shown to the user but also is able to perform tasks in file systems, networks, and revision control. Text editors and Word Processors are generally equipped with the file comparison facility.
+
+File Compare Tools. There exist varieties of software programmes that perform the task of file comparison. Some programmes require license while others are open source programmes and are free to use for the users with their source code made available to the users. The open source file comparison tools are Diff, Diff3, Comm, Ediff, Emacs, Kompare, Meld, Tkdiff, WinMerge and others. Most of the programmes are windows compatible so users can use them on their systems. The other file comparison tools are Microsoft file compare, which is built on the MS-DOS 3.30, FileMerge that is compatible with the Mac operating system. This particular tool features graphic-based file comparison uses. Each of the above tools has its own features and works in a different way to show file comparison for the users.
+
+Features of some of the File Comparison tools. The Diff Doc file comparison software has features such as document comparison; it can compare files of Word, PDF, Excel, PowerPoint, HTM, XML, RTF, and TXT documents and also maintains the changes. The user can easily wade through the differences in files, if there are variations in paragraphs they are displayed in details, and the results can be saved in formats like Txt, Doc, HTML or RTF.
+
+Merge from Araxis is the file comparison and folder synchronization tool. This software can compare and synchronize web pages, source codes, and related text files using the native application performance. This programme lets the user to work with source hierarchies that contain many files. This file comparison tool is ideal for professionals, who deal in legal matters, software and web developments, code reviewers as well as auditors who need to compare files in their jobs. The Merge software supports the Windows OS and is available in languages like English, German, French, Spanish and Japanese. The KDiff3 tool runs irrespective of platform and can show changes in graphic and text files. It also enables individual character analysis and uses the text merging tool and editor.
+
+

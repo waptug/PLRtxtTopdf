@@ -1,0 +1,42 @@
+Title: 
+The Next Generation Of Computers Is Quantum Computers.
+
+Word Count:
+617
+
+Summary:
+Taking the Quantum Leap
+
+While it may seem that the evolution of computers is about at its end, that is not the case. The next generation of computers is quantum computers.
+
+The reason behind continuing computer evolution is the continuing thirst we have for speed and capacity of our computers. Way back in 1947 an engineer and computing expert, Howard Aiken, predicted that all the United States need to satisfy its need for computers were six digital electronic computers. ...
+
+
+Keywords:
+computers,internet,online,business,pc,laptops,laptop,notebooks,notebook,cases
+
+
+Article Body:
+Taking the Quantum Leap
+
+While it may seem that the evolution of computers is about at its end, that is not the case. The next generation of computers is quantum computers.
+
+The reason behind continuing computer evolution is the continuing thirst we have for speed and capacity of our computers. Way back in 1947 an engineer and computing expert, Howard Aiken, predicted that all the United States need to satisfy its need for computers were six digital electronic computers. Other scientists and engineers that followed Aiken added to the volume they predicted as being adequately massive, but were also far too conservative.
+
+What none were able to predict that scientific research would produce voluminous quantities of knowledge that needed to be computed and stored, nor did they predict the popularity of personal computers, and the existence of the Internet. In fact, it’s hard to predict if humankind will ever be satisfied with its computer power and volume.
+
+A basic computer premise, called Moore’s Law, says that the number of a microprocessor’s transistors doubles every 18 months and will continue to do so. What this means is that by no later than 2030 the number of microprocessor circuits found in computers will be astronomically high. This will lead to the creation of quantum computers, whose design will use the power of molecules and atoms for processing and memory tasks. Quantum computers should be able to perform specific calculations billions of times more quickly than can the current computers that are based on silicon.
+
+Quantum computers do exist today, though few and they’re all in the hands of scientists and scientific organizations. They are not for practical and common use – that is still many years away. The theory of quantum computers was developed in 1981 by Paul Benioff, a physicist with the Argonne National Laboratory. Benioff theorized going beyond the Turing Theory to a Turing machine with quantum capabilities.
+
+Alan Turing created the Turing machine around 1935. This machine was made up of a tape whose length was unlimited and which he divided into small squares. Each square either held the symbol one or the symbol zero, or no symbol at all. He then created a reading-writing device that could read these zero and one symbols, which in turn gave these machines – the early computers – the instructions that initiated specific programs.
+
+Benioff took this to the quantum level, saying that the reading-writing head and the tape would both exist in a quantum state. What this would mean is that those tape symbols one or zero could exist in a superposition that could be one and zero at the same time, or somewhere in between. Because of this the quantum Turing machine, in contrast to the standard Turing machine, could perform several calculations at once.
+
+The standard Turing machine concept is what runs today’s silicon-based computers. In contrast, quantum computers encode computer information as quantum bits, called qubits. These qubits actually represent atoms that work together to act as a processor and as the computer’s memory. This ability to run multiple computations at one, and to contain several states at the same time, is what gives quantum computers the potential to be millions of times as powerful as today’s best supercomputers.
+
+Quantum computers that have 30 qubits would, for example, have processing power equal to today’s computers that run at a speed of 10 teraflops (trillions of operations per second.) To put this in perspective, the typical computer of today runs at gigaflop speeds (billions of operations per second.
+
+As our cry for more speed and more power from our computers continues, quantum computers are predicted to be a readily available product sometime in the not so distant future.
+
+

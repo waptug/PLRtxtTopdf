@@ -1,0 +1,49 @@
+Title: 
+Regcure Registry Cleaner Review
+
+Word Count:
+315
+
+Summary:
+We wanted to run a series of tests on the new RegCure 2007 Registry Cleaner to see how effective it was at removing registry errors and improving PC performance.
+
+Our test system was an athlon based system running windows XP professional SP2, which conveniently enough had never had a registry scan performed on it before...
+
+RegCure Successfully scanned and found problems in the following registry categories: COM/ActiveX Entries, Uninstall Entries, Font Entries, Shared DLL...
+
+
+Keywords:
+regcure, registry cleaner, registry repair
+
+
+Article Body:
+We wanted to run a series of tests on the new RegCure 2007 Registry Cleaner to see how effective it was at removing registry errors and improving PC performance.
+
+Our test system was an athlon based system running windows XP professional SP2, which conveniently enough had never had a registry scan performed on it before...
+
+RegCure Successfully scanned and found problems in the following registry categories: COM/ActiveX Entries, Uninstall Entries, Font Entries, Shared DLLs, Application Paths, Help Files Information, Windows Startup Items, File/Path References, Program Shortcuts, Empty Registry Keys and File Associations.
+See Registry Terminology
+
+RegCure completed its registry scan on our test system in just under 3 minutes, and found a total of 822 errors. It also the speed and efficiency of our computer by a measurable 15% (test video of RegCure can be seen on our website link below), the results were very noticeable.
+
+Removal of detected items was simple, and you had the option of going down the list manually and only checking those Registry items for removal that you wanted. RegCure also featured an Ignore List: After a scan you can add detected items to the Ignore list. In these instances, RegCure does not remove the item and it will be ignored during upcoming scans.
+
+RegCure also came equipped with scheduling functionality so that your windows registry is scanned automatically on a regular basis. Once certain of your scan settings you can set up one or more schedules to automate the scanning and removal process. We found this feature particulalry useful during our review of RegCure. 
+
+What RegCure Did For Our Computer
+
+-Eliminated Annoying Registry Errors
+
+-No More "Blue Screen of Death!"
+
+-Increased Our PC Performance By a substantial 15%!
+
+-Allowed us to Manage Our Windows Startup Programs
+
+-Ran automatically and silently in the background with the Built in scheduler
+
+-Automatically Backed-up Registry settings before fixing or removing errors
+
+-Compressed and Defraged our Registry
+
+

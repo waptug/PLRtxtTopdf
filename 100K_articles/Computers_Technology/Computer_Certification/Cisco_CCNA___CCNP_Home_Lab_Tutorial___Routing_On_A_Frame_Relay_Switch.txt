@@ -1,0 +1,24 @@
+Title: 
+Cisco CCNA / CCNP Home Lab Tutorial:  Routing On A Frame Relay Switch
+
+Word Count:
+280
+
+Summary:
+A frame relay switch is a great addition to your Cisco home lab, but it’s got other capabilities as well. Learn about them from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccna, ccnp, home, lab, rack, frame, relay, switch, free, configuration, 2520, router, switching, 4000
+
+
+Article Body:
+When you're preparing for CCNA and CCNP exam success, the best investment you can make is to put together your own home lab.  There is no better way to learn Cisco technologies and prepare for the CCNA, BSCI, BCMSN, CIT, and other exams than by working with the many protocols and services you'll need to master in order to pass the exams.
+
+One of the most popular articles I've written over the few years dealt with buying and configuring a Cisco router as a frame relay switch. That article is still available on many websites (including my own), but I want to remind you that just because you configure a router as a frame relay switch, that doesn't mean you can't use it as a home lab router, too!
+
+The global command "frame-relay switching" allows a Cisco router such as a 2520 or 4000 to perform just that, frame relay switching, but this command doesn't disable IP routing.  Depending on the router model you use, you will most likely have some extra serial connectors as well as an ethernet port that you can use with your other routers in your home lab.
+
+Let's say you have a 2520 router as your frame relay switch.  This switch has four serial ports and an AUI port.  You could connect to up to four routers to the 2520's serial ports in order to serve as the frame relay switch for those other routers, and still assign an IP address to the ethernet port and run a routing protocol on the 2520. If you're connecting to less than four other routers as the frame relay switch, you can assign IP addresses to the leftover serial ports as well.
+
+

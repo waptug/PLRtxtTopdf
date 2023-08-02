@@ -1,0 +1,46 @@
+Title: 
+An Introduction To Anonymous Surfing
+
+Word Count:
+980
+
+Summary:
+Privacy is a right most people practice everyday. It’s why bathrooms have doors and locks, cubicles at the library are constructed to block out the glances of other patrons, voting laws that allow you to cast a ballot anonymously exist, and commuters don’t sit on your lap in the subway (unless it’s really crowded, of course!) So it’s no surprise that people expect a certain amount of privacy when surfing the Internet. In fact, many people think their online activities are ent...
+
+
+Keywords:
+Introduction,to,Anonymous,Surfing,phishing,protection,spyware,removal,
+
+
+Article Body:
+Privacy is a right most people practice everyday. It’s why bathrooms have doors and locks, cubicles at the library are constructed to block out the glances of other patrons, voting laws that allow you to cast a ballot anonymously exist, and commuters don’t sit on your lap in the subway (unless it’s really crowded, of course!) So it’s no surprise that people expect a certain amount of privacy when surfing the Internet. In fact, many people think their online activities are entirely anonymous – after all, no one can see you in the World Wide Web, right?
+
+Unfortunately, this is not the case. Internet browsing is not necessarily anonymous, even though it may seem to be. First of all, your ISP (Internet Service Provider) has the ability to log all the sites your IP (Internet Protocol) address visits. Your IP address is how your computer is identified every time you log on to the Internet. Secondly, the actual websites you visit can easily track your IP address and log it for future reference. Your IP address doesn’t specify your actual name, but it’s not difficult for the owner of a particular website to link your IP address to your ISP.
+
+It’s safe to assume most Internet surfers value anonymity online because that is what makes the Internet a unique experience. For the first time in history, people from around the world with access to a computer have been able to connect to each other, communicate, and share information without having to disclose personal information. On the Internet your alias is your identity. It is this opportunity to remain anonymous that has allowed many people to practice freedom of speech and use the Internet as a tool of expression.
+
+If used for legitimate activities, the Internet creates a forum in which the average person can correspond with other people who share similar interests and discuss issues that might be cause for embarrassment, reprimand, or persecution in other circles. For instance, using a pseudonym allows the individual to be creative, lets concerned citizens voice discontent over corporate practices, and makes it possible for mistreated minorities to express their feelings and discuss topics related to their experience without fear of reprisal. As a source of information, the Internet is also a good place to research sensitive topics, such as hair loss, without having to reveal your identity. It’s easy to see why people might want to protect their anonymity in the virtual world.
+
+You might want to remain anonymous online for other reasons as well. Some people require protection from the government, employers, or corporations. Businesses use anonymous surfing to research their competition incognito, while lawyers use it to visit websites that will help him/her make a strong case for a client without disclosing their conduct to the party under scrutiny, which could compromise a case. The average person wants to surf anonymously just to avoid the prying eyes of nosy websites and aggressive marketing companies.
+
+So how do you surf anonymously? The only way to keep your browsing habits under lock and key is to hide your IP address using anonymous web browsing technology. Anonymous web browsing entails the use of a proxy server, which is placed between you and the website you are visiting. Essentially, your web browser “talks” to the proxy server (instead of directly to the website) and the proxy server then “talks” to the website, shielding your IP address from view. The website only sees the proxy server. Just make sure you choose a proxy server you trust because the proxy server will know your IP address.
+
+Although all methods of anonymous surfing involve the use of a proxy server, there are several ways to go about it. The first method works through another website. You simply visit the website of the proxy server and then type the URL of the site you want to browse. You’ll then be taken to the website through the proxy server.
+
+Another method requires that you download a client application. This is a program that handles everything, regarding the proxy server, on your behalf so you don’t have to worry about anything except browsing.
+
+An anonymous web proxy service is another way to remain anonymous online. With this method you have to configure your browser to point to an anonymous web proxy, but once this has been accomplished your browsing experience should be relatively hassle-free. These services are public and exist for the sole purpose of anonymous surfing by proxy.
+
+You can also set up your web browser to surf through your choice of an anonymous server – the difference here is that an anonymous server does not advertise as a web proxy service. Instead, you can find lists of these servers published on the Internet. Another difference: you might not know who is running the service, and as a result, the server could potentially record your web traffic.
+
+If you choose to employ a web proxy service, here are some things to look out for:
+
+1. A reputable service should set up a TLS or SSL tunnel for you. This means network sniffers won’t be able to eavesdrop on your surfing habits.
+
+2. Choose a service that supports the protocols you want to use. Some services offer FTP, while others only support HTTP. Some also offer HTTPS, but not all.
+
+3. A good proxy service should do more than just hide your IP address. It should also remove traffic such as cookies, scripts, pop-ups, banners, and referrer information. Just make sure you have the option to configure these elements so that websites for which you need to use cookies and pop-ups won’t be rendered unusable.
+
+No matter how you choose to surf the web anonymously, you’ll surely rest easy knowing that your privacy isn’t being compromised every time you log on.
+
+

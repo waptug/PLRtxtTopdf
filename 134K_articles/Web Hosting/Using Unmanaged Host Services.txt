@@ -1,0 +1,14 @@
+Using Unmanaged Host Services
+
+If you are a customer that wants total control of your web site administrative functions then you might want to look at unmanaged web hosting services to give you complete remote control administration over your server. The technical side of the server can be controlled by a designated administrator that you pick to handle your web information.
+
+You have to have a technical person to install the server and manage the server if you don’t have the expertise because you as the customer will be responsible for maintaining the server environment. That’s why unmanaged servers are recommended for individuals and businesses with server administration resources.
+
+As far as developing applications and controlling the applications without going through technical support personnel on the managed server side, these types of servers are usually used when companies are developing real time response systems on the internet, such as geographical, science, engineering and multimedia/entertainment applications.
+
+Unmanaged servers allow you to add extra hard disk space to increase your space capacity and many computer companies sell physical servers that are configured for unmanaged hosting applications. Companies like Dell and HP have software programs that not only will run an office network but also handle web server and development applications.
+
+Small businesses that don’t need a server on site and deal with administrative web packages should go with the managed host packages that provide assistance and administrative support. Managed applications will do just fine because of the costs that are incurred with maintaining an unmanaged server. Unmanaged servers need constant upgrades of software and hardware constantly which could cost your small business a big chunk of change.
+
+Unmanaged servers are expensive to maintain and run unless you are a small firm that develops in house web applications. The best advice is to have a consultant draw up an IT plan to see if you need this type of hosting service or not.
+

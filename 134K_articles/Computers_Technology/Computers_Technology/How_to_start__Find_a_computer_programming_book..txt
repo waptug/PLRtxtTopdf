@@ -1,0 +1,24 @@
+Title: 
+How to start? Find a computer programming book.
+
+Word Count:
+294
+
+Summary:
+Everyone that starts to learn a programming language needs a book. Period. There's no way around it. Sure you have loads of info on the internet even complete and detailed tutorials. But nothing replaces a good. The real problem is to find a good book in the local book store. You'll get tons of computer programming books. Some decent, some really bad, some cheap, some stupidly expensive.
+
+
+Keywords:
+computer programming book
+
+
+Article Body:
+Everyone that starts to learn a programming language needs a book. Period. There's no way around it. Sure you have loads of info on the internet even complete and detailed tutorials. But nothing replaces a good. The real problem is to find a good book in the local book store. You'll get tons of computer programming books. Some decent, some really bad, some cheap, some stupidly expensive.
+
+First of all you have to decide what to learn. That's difficult, believe me. There's TONS(!!!) of programming languages. All of them claim that it will be only language one year from now. That everything else will become obsolete. Start by one. Anyone. As long as that programming language is widely used. If you're interested in web development (like I am) go for PHP. If you want to program on the Microsoft Windows environment, then go for C#. It's entirely your pick.
+
+Now, were to start looking for a book? The best way is to find someone you trust and that actually have the book. Not someone that eared from someone that that computer programming book is decent. No, that will not work. Then you ask to pick the book and look at the inner pages for a while. Read a couple of lines and decide if you understand the language used. Some authors of programming books can be cryptic on the English. After that, look at the index. If it pretty much covers it, then you're on the business. That's the book for you.
+
+I can give you insight on some books. I like O'Reilly books, Wrox and a few others. Drop me a mail or a comment on a particular language and I'll try to find out if I have a good book about it.
+
+

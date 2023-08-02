@@ -1,0 +1,50 @@
+Title: 
+Are You Safe From Hackers?
+
+Word Count:
+523
+
+Summary:
+We have up to date anti-virus and firewall software on our computer, we assumed we were safe. Not so!
+
+
+Keywords:
+anti virus, hackers
+
+
+Article Body:
+We don't use E-gold very often since most of our online business and customer sales are conducted through our online merchant account. However, we occasionally have someone who will request paying by E-gold so we keep an account there for this reason. Once a month or so we withdraw the funds and decided to do so yesterday. Imagine our dismay when we logged into our E-gold account yesterday and found our balance to be a big fat ZERO! We had checked the balance just a few days ago so we knew this was not correct. After investigating the history of the account, we found that a spend had been made to another e-gold account user WITHOUT our knowledge or authorization. We had been hacked!
+ 
+Since we have up to date anti-virus and firewall software on our computer, we assumed we were safe. Not so! It seems this is not enough to keep away the hackers as the software does not prevent "Spyware" from being installed on your computer.
+ 
+"Spyware" is software that gets onto your computer and literally "spies" on your activities. The spying can range from relatively harmless use of cookies tracking you across multiple websites... to extremely dangerous "keystroke loggers" which record passwords, credit cards, and other personal data. That data then gets relayed to the person who put the software on your computer.
+ 
+Spyware gets on your computer in one of several different ways.
+ 
+First, it rides along with software you download from the 'Net and install on your system.
+ 
+Second, they come as email attachments (much like viruses) and automatically install themselves on your computer when you open the email message.
+ 
+Third, hackers find an open port on your computer and use the "back door" to install basically anything they want.
+ 
+And fourth, the more malicious types, like keystroke loggers, can even get installed by someone with direct physical access to your computer such as an employer, suspicious spouse, business competitor, or someone who wants to know exactly what you're doing.
+ 
+So how do you protect yourself against these malicious hackers? You need a program that specifically scans your system for the tens-of-thousands of existing spyware programs along with the new ones appearing daily.
+ 
+Below are two programs which specifically check for and remove spyware from your system:
+ 
+"Spybot Search & Destroy" - http://www.safer-networking.org 
+"Ad Aware" - http://www.lavasoft.de/software/adaware/
+ 
+You may have spyware lurking on your computer right now so protect yourself today by downloading one of the above programs!
+ 
+As a point of reference, we contacted E-gold and informed them that we had been hacked. We provided them with the account number of the person who received the funds and asked for a contact e-mail address on the person. E-gold informed us that they could not provide that information without a "court order" and that basically there was no way of getting the money back!
+ 
+Take action today to protect yourself from this growing threat! The bottom line is: - Keep your anti-virus program current
+ 
+- Install a firewall
+- Carefully screen software before installing it
+- Scan specifically for spyware weekly
+- Stay current on this growing threat.
+
+

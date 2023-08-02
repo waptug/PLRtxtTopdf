@@ -1,0 +1,76 @@
+Title: 
+Potential Implications of Insolvency for Directors
+
+Word Count:
+1380
+
+Summary:
+An article about the liabilities directors may face personally in the event of corporate insolvency
+
+
+Keywords:
+director responsibilities, director liabilities, insolvency, liquidation, insolvent, shadow director, director, company director, company insolvency, company liquidation
+
+
+Article Body:
+Here is a note of the issues that a director of an insolvent company or potentially insolvent company has to take into account. The relevant legislation is primarily contained in the Insolvency Act 1986 (the "Act"). 
+
+Definition of Insolvency - Section 123 of the Act states that a company is "unable to pay its debts" (i.e. it is insolvent) when the company is unable to meet its debts as and when they fall due. This is commonly referred to as a "Cash Flow Insolvency"; or 
+the amount of the company's liabilities (including its actual and contingent liabilities) exceeds the value of its assets on a balance sheet basis. This is commonly referred to as a "Balance Sheet Insolvency". 
+Where a company is or is about to become insolvent its directors must act in the best interests of the company's creditors (as opposed to the company's shareholders) and there are certain corporate and personal consequences for those directors if they fail to do so. 
+
+The Corporate Consequences of Insolvency 
+
+Preference claim  - A preference is a transaction which has the effect of placing a creditor in a better position if the company goes into liquidation than if the transaction had not occurred. If the transaction occurs within six months of the company's liquidation, the liquidator can apply to have it set aside but he must prove that the directors in entering into the transaction were influenced by a desire to produce the preferential effect. In the case of a transaction with a creditor who is a connected person (for example any of the company's shareholders, subsidiaries or directors) the period of six months is extended to two years and it is also presumed (unless the contrary can be proved) that there was a desire to prefer the creditor. A classic example of a preference is where the company repays its inter-company debts or director's loan accounts ahead of its other creditors shortly before its liquidation. However paying a creditor who has refused to make further supplies may not be a preference if the primary purpose of the payment was to secure supplies which could not be obtained elsewhere. 
+
+Transactions at an undervalue 
+
+A transaction at an undervalue occurs when a company disposes of its assets for significantly less than they are worth. Once again, a liquidator can apply to have the transaction set aside if it occurred within two years of the company's liquidation. A classic example of a transaction at undervalue is where the company transfers its business and/or assets to a creditor, director or another party for a nominal amount. If you are considering a transfer to say a current client or any other third party it is important to ensure market value is paid and/or the transfer insured against set aside. 
+
+Personal Consequences of Insolvent Liquidation 
+
+Wrongful Trading - Section 214 of the Act states that, if the directors (including any shadow directors - see below) of a company allow it to continue trading when they knew or ought to have known that there was "no reasonable prospect" of the company avoiding insolvent liquidation (see 1 above), they can be held personally liable for the debts incurred. A shadow director is a person, or entity, who has effective control over the company's board (i.e. the company's directors are accustomed to act in accordance with that person's instructions). The only potential defence available to the directors is to show that they took every possible step to minimise the potential loss to the company's creditors. It is not sufficient to show, for example, that the directors believed that the company's financial situation might improve because of market forces that are beyond their control [MC Bacon Limited [1990]]. 
+
+The directors may be able to justify trading for a short period of time if they are: 
+
+Trying to sell the whole or part of the company's business and/or assets as a going concern; or 
+awaiting a decision regarding further funding (for example by the shareholders or by a venture capitalist). 
+In these circumstances the directors should: investigate whether the company's overheads and operating costs can be reduced; only pay the creditors that are crucial to the preservation of the business and assets (e.g. essential supplies, employees salaries, and judgment creditors who are about to or have taken "key" assets); 
+postpone all other payments; not incur any new liabilities (except for immediate payment in cash – see below); and 
+document their decisions (usually in suitably detailed minutes). Please note that such a minute will not be an effective defence to liability if there is no reasonable prospect of avoiding insolvent liquidation and steps are not taken to minimise losses to creditors. The director's goal should be to ensure that the company's liabilities do not increase. One way to do this is to "rule off" the account and pay for all further supplies and services on a "cash on delivery basis". 
+
+Fraudulent trading 
+
+Any director or shadow director who knowingly allows a company to continue trading with the intent to defraud its creditors or any other person can be held personally liable to pay compensation. Further, if fraudulent trading is established the director and/or shadow director will also be guilty of a criminal offence. It is unusual for a liquidator to pursue a fraudulent trading claim as the onus is on him to show that the director had the requisite fraudulent intent. 
+
+Disqualification 
+
+If, following liquidation, administration or administrative receivership, the DTI is able to demonstrate that the conduct of a director (including a shadow or de facto director i.e. a person who acts as a director without having been properly appointed) makes him unfit to be concerned in the management of a company (if, for example, a preference, a transaction at an undervalue and/or wrongful or fraudulent trading has occurred), then the director can be disqualified for a minimum period of two years up to a maximum of fifteen years. The disqualification will mean that the director will not be able to be involved in the formation, promotion or management of any company in the United Kingdom during the disqualification period. 
+
+A director also faces disqualification if: 
+
+He breaches any fiduciary or other duty he owes to the company (this may include a situation where there is an express or implied obligation to safeguard client monies such as in a principal – agent relationship); and/or 
+he fails to comply with any of the duties imposed by the Companies Acts (for example the obligation to maintain proper books and records). 
+
+Options 
+
+Where the directors believe that there is a serious risk that the company may not be able to avoid going into insolvent liquidation the directors should consider seeking the advice of an independent licensed insolvency practitioner (the "IP"). Most accounting firms have IP partners. The IP would review the company's financial position and consider with the directors the options available to the company. These options include: 
+
+1. Continuing trading under the guidance of the IP; 
+2. Requesting further funds from the company's shareholders; 
+3. Obtaining additional funds from a venture capitalist factoring or trade asset based finance company; 
+4. A sale of the company's business and assets as a going concern outside any formal insolvency procedure; 
+5. Administration, which is a court driven procedure which stops the creditors or any other party from taking adverse action     against the company while the IP considers the way forward. This process is similar to Chapter 11 in the United States ; 
+6. A company voluntary arrangement whereby the company agrees a payment schedule or some other proposal with its     creditors; 
+7. Making a request for the appointment of an administrative receiver if the company has granted a fixed and floating charge (I     am unaware of the funding arrangements of the Company); 
+8. A creditors voluntary liquidation whereby the company convenes a meeting of its creditors to appoint a liquidator; or 
+    compulsory liquidation whereby the company is wound up by the court following the presentation of a petition by its directors,     shareholders or any creditor who has an undisputed debt for more than £750. 
+
+Conclusion 
+
+Though incorporation can shield shareholders from liabilities, the directors (who are often the shareholders as well) face a series of challenges in the event of financial difficulties that can, if advice is not sought early, result in personal liability. 
+
+
+http://www.kaltons.co.uk
+
+

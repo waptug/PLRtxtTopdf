@@ -1,0 +1,32 @@
+Title: 
+How Viruses Contaminate Your Computer
+
+Word Count:
+519
+
+Summary:
+Viruses are little bits of software that normally have a negative impact on our computers when they are activated. Usually viruses are attached onto other software programs (games, disk utilities, office documents/Macros, screen-savers), and are activated when these normally harmless programs are started.
+
+A virus is inactive until the infected program is run or an infected boot record on a floppy/CD is read. When the virus is activated it loads into your computer's memory ...
+
+
+Keywords:
+antivirus software, norton antivirus, pccillin, anti virus, norton, virus, trojan horse
+
+
+Article Body:
+Viruses are little bits of software that normally have a negative impact on our computers when they are activated. Usually viruses are attached onto other software programs (games, disk utilities, office documents/Macros, screen-savers), and are activated when these normally harmless programs are started.
+
+A virus is inactive until the infected program is run or an infected boot record on a floppy/CD is read. When the virus is activated it loads into your computer's memory where it can perform its nasty job or spread itself to other programs on your system or computers in your network.
+
+Floppy disks used in an infected system (or CD-Roms/DVDs burned on an infected system) can then carry the virus to another machine. Programs downloaded from USENET, or file-sharing programs (Kazaa, Morpheus, Limewire etc.) can also spread a virus. More frequently now, email is also becoming a favourite way to spread viruses, Trojan horses and especially internet worms.
+
+It should be made clear, that USENET and file-sharing programs do not create viruses or infected files in any way. It is certain anti-social people who create viruses, and then use these services to spread the infected files to other users on the system.
+
+This is very similar to cars and highways in that Ford, Toyota or the highway makers do not cause traffic accidents, it is the idiot who got drunk and then drove who causes a 14 car pileup. Of course if there weren't cars or highways there wouldn't be an accident... then again, the idiot would still be getting smashed and driving his horse-carriage into the store window.
+
+When you get a virus on your computer, it can erase everything that you have on your hard drive. Each virus is different - some of them come up as strange messages on your screen, while others just work at eroding the files on the computer. A virus just doesn't appear in your computer - you have to put them there, usually by running program from the Internet that contain viruses. They sometimes come from attachments in emails. It is possible that an email from a friend could contain a virus if that person's computer is infected. With anti-virus software installed on your computer, this will tell you whether or not it is safe to open the email with a message such as "No virus detected in incoming mail:
+
+When you do get a virus through programs or mail, it hides in your computer and when you save data in the computer, you also save the virus. Then it starts to infect all the other files in your computer. When you send files to a friend or co-worker, you also send the virus to his/her computer. After a while the virus starts to crowd the data in your files and causes major problems with the system, such that you may not even be able to open important documents or you may not be able to open any of the programs on the computer. The virus won't affect the memory of your computer, but it will affect any disks that you use to save your work.
+
+

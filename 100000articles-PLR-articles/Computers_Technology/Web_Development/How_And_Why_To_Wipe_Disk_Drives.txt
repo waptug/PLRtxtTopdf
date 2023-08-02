@@ -1,0 +1,38 @@
+Title: 
+How And Why To Wipe Disk Drives
+
+Word Count:
+518
+
+Summary:
+Computers have become more widespread than ever, with every business and organization usually relying to some extent on these information machines. They facilitate the performance of many otherwise tedious tasks within any organization, and really help to boost productivity.
+
+For instance, there are programs called word processors for creating any sort of printed communication, from letters to memorandums. There are also programs called spreadsheets that can perform calcula...
+
+
+Keywords:
+wipe disk,wiping free disk space,free space wipe
+
+
+Article Body:
+Computers have become more widespread than ever, with every business and organization usually relying to some extent on these information machines. They facilitate the performance of many otherwise tedious tasks within any organization, and really help to boost productivity.
+
+For instance, there are programs called word processors for creating any sort of printed communication, from letters to memorandums. There are also programs called spreadsheets that can perform calculations and display data and results in tables and graphs.
+
+There is also software available for making databases, which are organized collections of data such as transaction information, employee information, and so on. These databases make it easy to store important information in an easily accessible form.
+
+Sometimes, confidential information might need to be stored digitally, in some form or other. When this is the case, there are usually built-in security measures to help keep the precious data protected. However, it might arise that a hard disk would be reallocated, or that the computer itself would be transferred to some other use.
+
+In this case, it becomes necessary to completely wipe the disk; that is, delete all the information on the disk, along with any traces that might be used to reconstruct this information. This is good computing practice, even for non-critical hard disks. Wiping down a hard disk does not take much effort, nowadays, since there are programs and the like available to do it for you. Getting used to wiping down hard disks to be deleted completely costs virtually nothing in the way of money or effort but pays off in the formation of a useful habit.
+
+There are disk wipe programs available designed for big businesses that might need to do it in large batches. These programs have features that make it easier to keep track of the many hard disk volumes to be wiped. Some can even automatically retrieve and store serial numbers, for instance to comply with legal requirements.
+
+Users of personal computers may also sometimes find it necessary to completely erase the data on their hard disks. When selling an old computer, for instance, it would be a good precaution to do a complete wipe-out of the data to prevent any possible identity theft.
+
+Simply deleting all files (using the current operating system, for example) may not be secure enough. There are known ways to recover data from a hard disk that has not been wiped cleanly enough. The traces of data that remain in some “deleted’ hard disks are sometimes enough to be analyzed and used to reconstruct pieces of information presumed lost.
+
+Apart from security purposes, using these disk wipers can also help when reinstalling an operating system. For systems that are heavily infected with viruses and other malicious software, a complete disk wipe and clean reinstall may be the more convenient solution.
+
+There are both free and commercial applications available for wiping disks. Commercial ones are of course not free, but usually technical support for these are readily available. It becomes a matter of choice whether to select a cost-free but unsupported disk wipe program over a commercial program, or vice versa.
+
+

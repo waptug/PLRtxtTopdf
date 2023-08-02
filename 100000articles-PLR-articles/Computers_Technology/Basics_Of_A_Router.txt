@@ -1,0 +1,42 @@
+Title: 
+Basics Of A Router
+
+Word Count:
+553
+
+Summary:
+Router is a computer device that receives or forwards data packets to and from the Internet towards a destination in the process called routing. Router is the essential component of the computer networking that enables any sent data to arrive at the right destination. 
+
+As an illustration, imagine that the Internet is the world and one computer is one household. Other computers connected through the Internet are households around the world. Say one household will send a let...
+
+
+Keywords:
+routers
+
+
+Article Body:
+Router is a computer device that receives or forwards data packets to and from the Internet towards a destination in the process called routing. Router is the essential component of the computer networking that enables any sent data to arrive at the right destination. 
+
+As an illustration, imagine that the Internet is the world and one computer is one household. Other computers connected through the Internet are households around the world. Say one household will send a letter to another household in any part of the world. The letter has an address right? And that address would determine the destination of the letter. But without one reading the address, the letter would not arrive to the right receiver. The letter also would not be able to reach the intended receiver if there is not medium. This medium would be the courier. And the courier of the computer data is the router. 
+
+A router (broadband router) is also a device that enables two or more computer to receive data packets from the Internet under one IP address at the same time. 
+
+Remember that to be able to connect to the Internet, a computer must have an IP address unique from the rest of the computers. Therefore, every computer connected to the Internet has it own IP address. It is like having a fingerprint or ID as an access pass to be able to enter the web. With the presence of the router, this “fingerprint” or “ID” could be shared by two or more computer at the same time. 
+
+In simplest form, a router makes two or more computer use the Internet at the same with one access pass. 
+
+One more thing: a computer with cable modem could also be considered as a router. In this, the computer would do the process of routing like normal routers do. Other computers are then connected to the computer with Internet connection that would give it with the Internet connection. The computer with cable modem has the direct contact with the Internet and the ones connected to it are sharing the connection.
+
+Why would anyone need a router?
+
+For households with two or more computers who would want to have Internet connection to every computers they have, taking subscription for each would be too much. The solution is to buy a router that would enable every computer in the house to have an Internet connection. In the definition above, the broadband router would act as a hub to the existing Internet connection. 
+
+If the router is comparable to a hub, would it affect the Internet speed?
+
+It should be taken into consideration that once a single Internet connection is divided, the connection speed is affected. But there are some broadband routers that would bring minimal slowdown to the Internet speed and the effect might not even be big. 
+
+Internet speed would also depend on the type of application used in a router. While some would inflict little effect on the speed like online games, others would terribly slowdown your connection and even hinder you to use the Internet at all. 
+
+Usually, offices use a more sophisticated router to redirect Internet connections to the large number of computers. These routers would give better data packeting compared to a typical router used at home that results to faster Internet speed.
+
+

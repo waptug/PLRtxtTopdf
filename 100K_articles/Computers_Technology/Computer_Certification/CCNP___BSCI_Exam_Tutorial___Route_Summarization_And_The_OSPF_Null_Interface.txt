@@ -1,0 +1,80 @@
+Title: 
+CCNP / BSCI Exam Tutorial:  Route Summarization And The OSPF Null Interface
+
+Word Count:
+346
+
+Summary:
+Route summarization requires a knowledge of binary conversion, as well as knowing how each protocol responds to summarization.  Learn how OSPF does so from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccnp, bsci, exam, free, pass, tutorial, route, summarization, ospf, null, interface, redistribution,, Bryant, advantage, 12933, ccie, ccna
+
+
+Article Body:
+CCNP exam success, particularly on the BSCI exam, demands you understand the details of route summarization.  This skill not only requires that you have a comfort level with binary conversions, but you have to know how and where to apply route summarization with each individual protocol.
+
+You also have to know the "side effects" of route summarization.  With OSPF, there will actually be an extra interface created at the point of summarization, and this catches a lot of CCNP candidates by surprise.  Let's take a look at the null0 interface and how it relates to OSPF summarization.
+
+On R1, the following networks are redistributed into OSPF, and then summarized.
+
+interface Loopback16
+
+ ip address 16.16.16.16 255.0.0.0
+
+
+interface Loopback17
+
+ ip address 17.17.17.17 255.0.0.0
+
+
+interface Loopback18
+
+ ip address 18.18.18.18 255.0.0.0
+
+interface Loopback19
+
+ ip address 19.19.19.19 255.0.0.0
+
+R1(config)#router ospf 1
+
+R1(config-router)#redistribute connected subnets
+
+R1(config-router)#summary-address 16.0.0.0 252.0.0.0
+
+The summary address appears on R2, a downstream router.
+
+R2#show ip route ospf
+
+
+O E2 16.0.0.0/6 [110/20] via 172.12.123.1, 00:00:05, Serial0
+
+
+Let's go back to R1 and look at its OSPF table.
+
+R1#show ip route ospf
+
+ 
+O    16.0.0.0/6 is a summary, 00:01:51, Null0
+
+Where did the null0 interface come from, and why is it there?  Packets sent to the null interface are dropped, and in this case, that's a good thing. 
+
+When you configure summary routes in OSPF, a route to null0 will be installed into the OSPF routing table.  This helps to prevent routing loops.  Any packets destined for the routes that have been summarized will have a longer match in the routing table, as shown below...
+
+C    17.0.0.0/8 is directly connected, Loopback17
+
+C    16.0.0.0/8 is directly connected, Loopback16
+
+C    19.0.0.0/8 is directly connected, Loopback19
+
+C    18.0.0.0/8 is directly connected, Loopback18
+
+O  16.0.0.0/6 is a summary, 00:01:51, Null0
+
+
+.. and packets that do not match one of the summarized routes but do match the summary route will be dropped.
+
+Preventing routing loops when performing route redistribution and summarization is vital.  OSPF gives us a little help in that regard in this situation, and as you study more complex redistribution scenarios on your way to the CCNP and CCIE, you'll realize that we'll take all the help we can get!
+
+

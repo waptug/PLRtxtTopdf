@@ -1,0 +1,28 @@
+Title: 
+Cisco CCNA / CCNP Home Lab Tutorial:  Planning Ahead For IE Study
+
+Word Count:
+434
+
+Summary:
+Should you keep an eye on your CCIE study when putting together a CCNA / CCNP home lab?  Learn the answer from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccnp, ccie, ccna, free, home, lab, router, switch, 2500, 2600, interface, pass, exam, certification, study, guide
+
+
+Article Body:
+Candidates preparing to pass the CCNP exams are putting together Cisco home labs like never before.  With CCNA and CCNP home lab equipment more affordable than ever, candidates have realized the importance of working on real Cisco routers and switches on the way to earning their certifications.
+
+One question I get often from CCNP candidates is goes something like this: "I'm planning on pursuing the CCIE after I get my CCNP. What kind of routers and switches should I buy now in order to use the same equipment in my CCIE home lab?"
+
+This is going to sound strange coming from me, because I'm the #1 proponent of CCNA and CCNP candidates buying their own home labs.  When it comes to the CCIE, though, I have to say that you're probably better off using rack rentals instead of investing big money now to buy more expensive equipment with which to earn your CCNP.
+
+There are plenty of 2500 and 2600 routers out there that you can buy to prepare fully for your CCNA and CCNP exams that may not have the capability needed for IE preparation.  (For instance, while 2500 routers are fantastic for CCNA and NP study, they shouldn't be used for IE study.)   The issue with buying more expensive equipment is that Cisco rightfully updates the CCIE lab equipment list twice a year, and these moves can prove very costly for those who get caught in the middle of these changes. 
+
+Let me give you an example that I lived through myself. When I began pursuing the CCIE, Catalyst switches were in use in the lab.  I had a Cat 5000 that I used for practice.  When I was in the middle of my preparation, Cisco introduced L3 switched to the lab in the form of TWO 3550 switches.  Not only was the Cat now almost useless for IE study, the new switches went for about $5500 apiece, so if I wanted to keep up with the new lab changes, it was going to cost me $11,000.  
+
+Again, I know that it's vitally important for today's CCNA and CCNP candidates to get hands-on experience with home labs.  It's also great to think ahead when you're earning your CCNP, and pursuing the CCIE is one of the best decisions you'll ever make.  Just keep this regular CCIE lab update in mind.  I recommend that you keep your CCNP budget down while not investing in more expensive routers with the IE in mind, and wait until you have passed the CCNP and are actively engaged in CCIE study before making the decision between rack rentals and putting together your own IE lab.
+
+

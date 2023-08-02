@@ -1,0 +1,60 @@
+Title: 
+IT Support Contracts
+
+Word Count:
+524
+
+Summary:
+IT support contracts should be complete and transparent, and should not confuse you with obscure wording. If there is some unavoidable legalese that you don't understand, discuss it with your IT support contractor and get clarifications in writing and agree the level of service you require so that the contractor can supply an appropriate service level agreement (SLA ).
+
+
+Keywords:
+IT Support, Support contract, IT help, computer support, IT Training
+
+
+Article Body:
+IT support covers a wide range of requirements and you might not need all the services offered. You should preferably select a contractor who allows you to tailor the kind of support to your specific needs.
+
+One point you should get clarified in particular is the kinds of response you can expect to support requests. Support companies and your expectations can vary widely in this matter.
+
+With the above general outline, let us delve into the major specifics of IT support contracts.
+
+Typical Terms of an IT Support Contract
+
+The contract should be clear about the items supported. 
+
+EQUIPMENT: An IT setup will typically have servers, PCs, Laptops, Printers and so on. Which specific items will receive support?
+
+AGE LIMITATIONS: Are there any clauses that put a limit on the age of the equipment that will be supported?
+
+SOFTWARE: You will be using many kinds of software such as server software, desktop OS, functional software like Payroll, system protection software like Anti-Virus, etc. Installing and configuring some of these pieces of software can be a daunting task. The software can crash during operations. Identify which software will be supported? What kind of support will be provided, e.g., will there be any support for installation and configuration or upgrades?
+
+HOME USERS: Under flexible working arrangements, many users might be working with company equipment from their homes. Will they be supported?
+
+
+
+
+
+The next important issue is how the support will be provided. HOW: Typically, support is provided over the telephone first, assessing the the extent of the problem, where possible guiding the user to rectify the problem by themselves. If this proves unsatisfactory, remote support by accessing the clients system from the support company's system may be attempted. To enable such remote support, the support company might install a VPN connection or remote desktop support client. If this also proves insufficient, a site visit may be needed. Understand exactly how a support request will be handled, and how the service level will be escalated to a higher level.
+
+WHEN: Response times can differ with different kinds of problems. Server problems will need to be attended without delay. How much delay is provided in the contract? Desktop problems can afford some delay. Don't insist on expensively short response times for these.
+
+
+
+
+
+IT support contracts will typically also contain certain obligations on your part. Some major obligations are listed below. Check that you have made arrangements to meet all such obligations. Designating a specified person as the person responsible for the preliminary fault identification and troubleshooting. This person will be the main contact person with the IT support company.
+
+Try not to make system changes without prior consent of the support company
+
+Doing regular housekeeping activities like backups, testing the backups, and so on (check who is responsible for these tasks and who is responsible for data recovery should the need arise).
+
+Paying bills as agreed in the contracts
+
+
+
+There will also be certain exclusions from the scope of support. Pre-existing faults and support for functional software such as accounting are examples of typical exclusions.
+
+Finally, there will typically be a clause on how to resolve disputes.
+
+

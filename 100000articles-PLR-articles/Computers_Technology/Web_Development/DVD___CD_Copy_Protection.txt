@@ -1,0 +1,42 @@
+Title: 
+DVD & CD Copy Protection
+
+Word Count:
+479
+
+Summary:
+There are a number of ways to protect your CDs and DVDS from being copied. Most of them depend on breaking conformity with the CD and DVD standards. In this article we will discuss the use of dummy files and illegal sectors, although there are other methods of protecting CD’s.
+
+Dummy files on CDS
+
+For the most part CD-ROMs use an ISO9660-filesystem to arrange the existing space into files and folders. The majority of times it is used underneath a further sophisticated fil...
+
+
+Keywords:
+dvd replication,cd replication,dvd duplication,cdduplication,copy protection,dvd copy protection
+
+
+Article Body:
+There are a number of ways to protect your CDs and DVDS from being copied. Most of them depend on breaking conformity with the CD and DVD standards. In this article we will discuss the use of dummy files and illegal sectors, although there are other methods of protecting CD’s.
+
+Dummy files on CDS
+
+For the most part CD-ROMs use an ISO9660-filesystem to arrange the existing space into files and folders. The majority of times it is used underneath a further sophisticated file system like Joliet to get round a few limitations. The most basic approach is to fake a little information inside the file system. Early production of software copied every file one at a time from the original medium and re-created a new file system on the target medium, losing the faked information, hence making a copy disk un-useable.
+
+Illegal sectors on CDS
+
+The top-level data structure of a CD-Rom is called a sector and it is the only one that is available to software (counting the OS). Every sector contains 2048 byte of user-data and 304 bytes of structural details (for a MODE1 CD-ROM), the sector number, signifying the sector's absolute and relative logical location
+
+Using the Error Detection Code(EDC) and Error Correction Code(ECC) field, the drive can spot and fix read-errors.
+
+Deliberately crafting sectors with improper EDC/ECC fields at some stage in manufacturing provides a distinguishing feature used in copy protection methods. The protection's software tries to read those sectors, awaiting read-errors. Since early versions of end-user software and hardware were not capable of generating sectors with illegal structural details, this characteristic could not be re-generated with such software and hardware. The disc is a copy if the sectors forming the distinguishing attribute have become readable.
+
+With modern machines the above approaches do not give the protection needed, as current software and hardware are capable of reproducing raw sectors.
+
+An adaptation of this approach uses large areas of unreadable sectors with tiny islands of readable ones in between. For the most part software trying to reproduce protected media will miss intervals of sectors once confronted with unreadable ones, expecting them all to be bad.
+
+DVD Protection
+
+DVDs can be protected with a new generation of technology, CSS (Content Scramble System) being the most effective and widely used. CSS is a relatively simple encryption technology. Every DVD is encrypted with a 40-bit key, generated for each movie. At the beginning of the disc, this key is encrypted by numerous keys representing potential keys for your DVD player. When the DVD is place in the DVD player it will scan through its internal keys, trying to match them to the 400+ keys on the disc. The exact method of how this process of protection works in detail is still confidential and protected as to avoid giving code breakers the information they need to crack it.
+
+

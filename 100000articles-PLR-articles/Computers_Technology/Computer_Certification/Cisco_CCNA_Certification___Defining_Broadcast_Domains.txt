@@ -1,0 +1,32 @@
+Title: 
+Cisco CCNA Certification:  Defining Broadcast Domains
+
+Word Count:
+460
+
+Summary:
+To become a CCNA and an outstanding network administrator, you’ve got to know how to limit broadcasts in your network.  Learn the basics from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccna, pass, free, tutorial, broadcast, domain, router, switch, hub, repeater, osi, Bryant, advantage, ccnp, bsci, collision
+
+
+Article Body:
+When you're studying to pass the CCNA exam and earn your certification, you're introduced to a great many terms that are either totally new to you or seem familiar, but you're not quite sure what they are.  The term "broadcast domain" falls into the latter category for many CCNA candidates.
+
+A broadcast domain is simply the group of end hosts that will receive a broadcast sent out by a given host.  For example, if there are ten host devices connected to a switch and one of them sends a broadcast, the other nine devices will receive the broadcast.  All of those devices are in the same broadcast domain.
+
+Of course, we probably don't want every device in a network receiving every single broadcast sent out by any other device in the network!  This is why we need to know what devices can create multiple, smaller broadcast domains.  Doing so allows us to limit the broadcasts traveling around our network - and you might be surprised how much traffic on some networks consists of unnecessary broadcasts.
+
+Using the OSI model, we find devices such as hubs and repeaters at Layer One.  This is the Physical layer, and devices at this layer have no effect on broadcast domains. 
+
+At Layer Two, we've got switches and bridges.  By default, a switch has no effect on broadcast domains; CCNA candidates know that a switch will forward a broadcast out every single port on that switch except the one upon which it was received.  However, Cisco switches allow the creation of Virtual Local Area Networks, or VLANs, that are logical segments of the network.  A broadcast sent by one host in a VLAN will not be forwarded out every other port on the switch.  That broadcast will be forwarded only out ports that are members of the same VLAN as the host device that sent it.
+
+The good news is that broadcast traffic will not be forwarded between VLANs.  The bad news is that no inter-VLAN traffic at all is allowed by default!  You may actually want this in some cases, but generally you're going to want inter-VLAN traffic.  This requires the use of a router or other Layer 3 device such as a Layer 3 Switch.  (Layer 3 Switches are becoming more popular every day.  Basically, it's a switch that can also run routing protocols.  These switches are not tested on the CCNA exam.)
+
+That router we just talked about also defines broadcast domains.  Routers do not forward broadcasts, so broadcast domains are defined by routers with no additional configuration.
+
+Knowing how broadcasts travel across your network, and how they can be controlled, is an important part of being a CCNA and of being a superior network administrator.  Best of luck to you in both of these pursuits!
+
+

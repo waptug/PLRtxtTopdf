@@ -1,0 +1,26 @@
+Title: 
+Choosing Fiber Optic Patch Panels
+
+Word Count:
+545
+
+Summary:
+When surmounting trouble rises, an optic fiber technician must choose the most suitable patch panel for a particular situation. That technician must recognize that when it comes to easy installation, proper termination and long term maintenance, not all patch panels are created equally. Optic fiber is robust and therefore deserves some special treatment. For example: if a horizontal copper cable is damaged, one user will be affected. If a backbone fiber goes down, it can take...
+
+
+Keywords:
+fiber cables,fiber optic tester,fiber optic light source,fiber cable,lc fiber,fiber patch cables
+
+
+Article Body:
+When surmounting trouble rises, an optic fiber technician must choose the most suitable patch panel for a particular situation. That technician must recognize that when it comes to easy installation, proper termination and long term maintenance, not all patch panels are created equally. Optic fiber is robust and therefore deserves some special treatment. For example: if a horizontal copper cable is damaged, one user will be affected. If a backbone fiber goes down, it can take a lot of users down with it. This is why using fully enclosed connecting hardware for optic fiber is crucial. This is where the technician must choose between using wall-mounted or rack-mounted hardware. The optic fiber density required will most likely influence the technicians choice between the wall-mounted and rack-mounted connectivity. Many technicians will choose to use fiber patch cables. Trust your technician to know what’s best.
+
+Wall-mounted enclosures are suitable for up to 24 optic fibers, although with small form factors and high density connectors, can extend the fiber optic cable count to as many as 144. Wall-mount enclosures also offer the benefit of reduced floor space requirements. Rack-mounted optic fiber enclosures can be used with higher fabric counts or depending on the proximity to communications equipment, where rack-mounted optic fiber enclosures are preferable. 1U enclosures can handle up to 24 optic fiber cables with ST or SC connectors, or up to 48 optic fibers by using small form factor connectors. For extra protection, 2U to 4U enclosures can be used to handle up to 144 optic fiber connections. 
+
+A 12 fiber MPO connector can speed installation time and increase the concentration of connection hardware. The factory terminated and tested cassettes take care of breaking out the optic fibers from the MPO connectors to ST, SC, or MT-RJ connectors. The MPO cassettes can double the concentration that are possible in rack-mount enclosures - up to 72 optic fibers in a 1U enclosure and 288 optic fibers in a 4U enclosure - making these optic fibers perfectly fit to meet high density applications, such as data center’s and storage area networks. 
+
+Accessibility is a concern for long term maintenance when choosing a rack-mount enclosure. The 1U enclosures may have a an access panel to reach the rear optic fibers, while larger enclosures may have a removable rear cover with adequate room inside to make changes or perform repairs. Strain relief and loop management for incoming cables must be provided, nonetheless management devices should be small enough as to not interfere with access to the optic fibers. Cable management for patch cords should be provided on the front of the enclosure with clear front covers and labeling arranged to ease moves, adds and changes and by ensuring that port identification is not obscured by patch cords. 
+
+Since copper patch panels need to be strong enough not to flex too much as the cables are punched down. The rolled edges on the panel sheet metal stock help to make the panels rigid. Copper patch panels should provide 24 ports in a 1U height or 48 ports in a 2U height. It's very important to make sure that the modular jacks and circuit traces on the panels are protected from debris that can short out circuits. All cable management systems must be easy to use and maintain to avoid any potential problems.
+
+

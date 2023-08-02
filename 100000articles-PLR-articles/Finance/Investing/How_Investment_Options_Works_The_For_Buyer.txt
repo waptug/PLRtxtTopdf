@@ -1,0 +1,28 @@
+Title: 
+How Investment Options Works The For Buyer
+
+Word Count:
+412
+
+Summary:
+A call investment option is a financial contract involving two parties, the buyer and the seller of this type of investment option. Often it is simply labeled a "call". The buyer of the option has the right but not the obligation to buy an settled quantity of a particular commodity or financial instrument from the seller of the option at a certain time for a certain price. The seller is obligated to sell the commodity or financial instrument if the buyer should decide to buy....
+
+
+Keywords:
+Investment Options
+
+
+Article Body:
+A call investment option is a financial contract involving two parties, the buyer and the seller of this type of investment option. Often it is simply labeled a "call". The buyer of the option has the right but not the obligation to buy an settled quantity of a particular commodity or financial instrument from the seller of the option at a certain time for a certain price. The seller is obligated to sell the commodity or financial instrument if the buyer should decide to buy. For getting this right the buyer pays a premium.
+
+As the buyer of a call investment option wants the price of the underlying instrument to rise in the future; the seller either expects that it will not, or is willing to give up some of the upside profit from a price rise in return for the premium plus retaining the opportunity to make a gain up to the strike price.
+
+Call investment options are most profitable for the buyer when the underlying instrument is going up, making the price of the underlying instrument nearer to the strike price. When the prices of the underlying instrument surpass the strike price, the option is said to be in the money.
+
+The initial transaction in this situation - buying/selling a call option - is not the supplying of a physical or financial asset - the underlying instrument. Instead it is the granting of the right to buy the underlying asset, in exchange for the investment option price or premium.
+
+Precise specifications may differ depending on option style. A European call investment option allows the holder to exercise, to buy, the option only on the delivery date. An American call option allows exercise at any time during the life of the option.
+
+Call investment options can be purchased on many financial instruments other than stock in a corporation. Investment Options can be purchased on interest rates as well as on physical assets such as gold or crude oil. A call option should not be confused with a stock option. A stock option is the option to buy stock in a particular company. And it is a right issued by a corporation to a particular person, normally an employee, to purchase treasury stock. When a stock option is exercised, new shares are issued. When a call option is exercised, if it involves shares, the shares are merely being transferred from one owner to another. Nor is stock investment options traded on the open market
+
+

@@ -1,0 +1,28 @@
+Title: 
+How To Become A Cisco VPN Specialist
+
+Word Count:
+319
+
+Summary:
+Security certifications are an important addition to your career path.  Learn how to add Cisco’s VPN Specialist certification to your resume.
+
+
+Keywords:
+Vpn, exam, certification, specialist, ccna, ccnp, pass, free, Bryant, advantage, 12933, chris
+
+
+Article Body:
+There's quite an emphasis on security in today's networks, and that's reflected in Cisco's certification tracks.  Cisco offers a CCIE Security track and the Cisco Certified Security Professional (CCSP) intermediate-level certification, but there is no real equivalent to the CCNA on the security side.  Instead, Cisco offers several different Security Associate certifications.
+
+The good news is that you’ve got a lot of security specializations from which to choose; the bad news is that you’ve got a lot of choices!  In choosing a specialization, take some time to choose a certification that will be of practical use to you in your current position or in your “dream job”.  
+
+One of the more popular Security Associate certifications is the Cisco VPN Specialist certification.  This two-exam track consists of a Securing Cisco Network Devices (SND, 642-551) exam and a Cisco Secure Virtual Private Networks (CSVPN, 642-511) exam.  To earn the Cisco VPN Specialist exam, you must hold a valid CCNA certification.
+
+What should you expect on these exams?  On the SND exam, expect to be grilled on basic security features on both switches and routers, as well as VPN 3000 concentrators, PIXes, and IDS/IPS Sensors.  You'll need to be ready to configure and troubleshoot basic AAA configurations, access-lists, syslog, AutoSecure, and much more.  You should also be solid with IPSec.
+
+IPSec will also be part of your CSVPN exam.  As you'd expect, you'll also be expected to be quite good with the VPN 3000 Concentrator series, including browser configuration, creating users and group, the Windows VPN Software Client, and more.
+
+This is a demanding certification that is an excellent addition to your resume and your skill set.  For the latest on this and other Cisco certifications, you should regularly visit the Learning & Events section of Cisco's website.  As a Cisco certification candidate, it's your responsibility to stay current of any additions and changes to Cisco's certification paths - and it's good for your career!
+
+

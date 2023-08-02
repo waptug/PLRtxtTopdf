@@ -1,0 +1,90 @@
+Title: 
+Really? You Don’t Need A Website Disaster And Recovery Program? Why?
+
+Word Count:
+1681
+
+Summary:
+If you answered YES to that, you’re dead wrong my friend. Let me prove it to you by giving you real true-to-life examples.
+
+Recently, I asked this question to one lady webmaster named Dorothy and she said quite simply,
+
+“Well, why should I do that? My webhost said that they guarantee 99.9% of the time, my website will be OK. Besides, I don’t know how to do it if that’s technical stuff. So why should I care?”
+
+That is the mindset of many people like her who really believ...
+
+
+Keywords:
+website backup, website restore, website management, cpanel, backup, downtime, restore,
+
+
+Article Body:
+If you answered YES to that, you’re dead wrong my friend. Let me prove it to you by giving you real true-to-life examples.
+
+Recently, I asked this question to one lady webmaster named Dorothy and she said quite simply,
+
+“Well, why should I do that? My webhost said that they guarantee 99.9% of the time, my website will be OK. Besides, I don’t know how to do it if that’s technical stuff. So why should I care?”
+
+That is the mindset of many people like her who really believed that the 99+% uptime guarantees found on the promises page of their webhosts is already their website insurance.
+
+First of, what’s a “Disaster and Recovery Program”?
+
+It’s all about a business owner’s plan of actions, systems and procedures that ensures business continuity when disruptions and disasters arise in the normal course of business.
+
+Every major corporations and businesses worldwide have this on their yearly agenda as part of their risk management assessment. It’s also known as the “Business Continuity Program” in the corporate world.
+
+I know your online business and your websites are important to you. So why then should it not apply to your online business as well?
+
+You know that many times, disaster strikes us when we least expect it. Sometimes it even happens when you have a major product launch or a full-blown advertising campaign when, all of a sudden, your websites went down and boom, all your efforts and investments went down the drain as well.
+
+If hackers happen to pick your site for fun and notoriety, managed to break in to deface it or release worms, Trojan horses, DDOS attack bots and the likes that damage your websites as a result, what will you do after?
+
+What about fires in the datacenter where your server is located or maybe a hard disk failure on your web hosting server? There are even cases of errors in technical configurations, substandard server hardwares, overcrowded hosting servers, technical incompetence of support staff and other problems your host wouldn’t tell you about.
+
+These disasters have ruined too many online businesses in the past.  And my websites are not spared as well. Believe me when I tell you that it happened to my websites many times even on my own dedicated server! It only shows that disasters do happen and even your webhost sometimes cannot do anything about it.
+
+Website hacking and defacing, viruses and worms, server crashes, server hardware failures, datacenter fires, network failures, electrical faults, technical support errors, long recurring service downtimes and other website disasters can immediately put you out of business. And that’s just one of the effects. Not to mention loss of face, loss of opportunities and loss of time.
+
+Why?
+
+Because downtime is just not acceptable these days. Your customers and visitors can’t wait all the time for you to be back online. If they can’t find you, they can’t buy from or trade with you and going to the competition is easy as a click of a mouse. Your advertising and promotional campaigns are put to waste because of your dead websites. Lots of money are lost in recovery and restoration as well as in lost opportunities that you will surely miss out.
+
+That’s why we all need to make the planning for disaster and recovery a high priority item in our online business especially if you are seriously making a lot of money from it.
+
+By the way, I’m not scaring you at all. But think about it for a moment. Imagine a situation wherein you and your websites are in total chaos, you don’t know what to do because you don’t have a website backup, you don’t have a restoration plan and you don’t really know who to run to or talk to about it.
+
+You see, each webmaster should have a comprehensive plan of action. Your disaster and recovery program should not only target your webpages (html, images, photos, audios, zips and other files). You should know that there are other website components that you need to take care of too.
+
+For example, many websites nowadays have MYSQL databases installed to store and manage their customers, sales, products, files and visitors data among other things. MYSQL is free to use so many people naturally are using it for their website scripts. There is a good chance that you are using or have used it too, right?
+
+So when disaster strikes, not only are your webpages at risk, your precious MYSQL databases are also at risk. Most of the time, webmasters have local backups of the webpages, files and scripts on their hard drive which can be easily restored.  But MYSQL databases need a special backup procedure for you to extract it straight from your website control panel. You can’t easily create it and upload it like your html, pdfs and zip files. Your web hosting server creates and grows these databases for you real time. So if you’re not technically inclined to know this as a webmaster, you might disregard it and face the risk of loss in the future. Yet losing your business data is like losing your business continuity. Once it’s lost, you’ll find it hard to recover.
+
+Another website component is your website scripts. They need a disaster and recovery plan too. Say for example you purchased a PHP script that has an auto-install auto-update feature from the seller. Most often than not, you have no copy of this script on your local harddrive (since the seller might have installed it for you for free) much more the version updates that are automatically applied to your website each time the seller releases a new one.
+
+If you fail to backup your whole PHP script configuration, then it will be very hard for you to restore this script to its last state. Imagine getting back to version 1 or older version of your scripts. You’ll end up paying the seller or a top programmer lots of money to restore this for you if you’re even lucky enough to have the script from the seller again for free. If not, you have to pay for it again.
+
+Crazy eh?
+
+What a waste of money just because you don’t have a disaster and recovery plan. Not only that. You will lose face, customers or visitors, momentum, opportunities and most of all, time to recover and restore everything to its last working condition.
+
+You sure wouldn’t want to go back to where you started, would you?
+
+So here are five (5) simple steps you can easily do to setup your own Disaster and Recovery Program for your online businesses:
+
+1. First, REALIZE that your websites and all the other components are always at RISK. If you still believe your webhost that nothing can happen to your website no matter what, you won’t be able to know until you’ve lost everything. I know this and I speak by experience. If you can sleep at night well knowing that as a webmaster, you’re in control, then it really pays to do it yourself. If you’re still not convinced, answer this question: “Would you really put on some stranger’s hands the fate of your online business?” Remember that, most of the time, you’ve never even met or talk to your webhost.
+
+2. Second, BACKUP ALL your website files, scripts and databases on your local hard drive, another remote server or another offsite media. This means you’ll download, store and update these files from time to time. You have to do this patiently on schedule (better once a week or best daily if you have high traffic database-driven websites). You will use these backup files to restore your website to its latest state when disaster strikes. Usually, web hosting control panels like Cpanel, Plesk, Ensim and Webmin have a backup and restore facility page where you can do this. Please check your control panel manual for details.
+
+3. Third, LEARN how TO recover and RESTORE your websites to its latest state. Since your online business is important, you must be able to quickly recover from any disaster. A quick restoration plan should be in place and rehearsed during the “good times” so that when “bad times” come, you’re well prepared for it. Remember, if you know how to build your websites, you must also know how to rebuild it too. This is needed not only during disasters but also if you’re transferring to another web host or web server.
+
+4. Fourth, COLLABORATE, if you’re not a programmer or technically knowledgeable about websites, scripts and MYSQL databases, with someone who has that knowledge. When disaster strikes, you should be able to quickly pull someone who can do the technical stuff for you if you don’t know how. My suggestion is to get someone from Elance.com or Scriptlance.com. Since these sites are working on a project bidding system, you’ll get better service at lesser price. There are risks involved here also but that’s another matter. What’s important is for you to know the places where to get help when you need it.
+
+5. And lastly, STICK WITH YOUR PLAN and do it DILIGENTLY. You can never tell when problems will occur so you have to be ready all the time. And this can only be achieved by being serious to the above four (4) steps.
+
+Remember, this disaster and recovery plan is your own insurance for your online business. You don’t have to pay someone to do it for you. You can do this if you’ll just realize that your online business is always at risk and it’s important that it continue so that you will benefit from it in the long term.
+
+As you become triumphant over any online disasters you will be facing, you will know how good it is to be in total control.
+
+And that, my friend, is a great feeling.
+
+

@@ -1,0 +1,34 @@
+Title: 
+How Do You Know You Are Getting Better?  Use Data To Drive Improvement
+
+Word Count:
+718
+
+Summary:
+The best quality improvement initiatives are driven by data! Why? How are you going to know how much you have improved if you don’t measure something? 
+
+All of you have been exposed to measures in many situations. Most of them were important. In school, you were graded. Perhaps you own shares of stock; how do you measure the success of the stock—its increase in value, a measurement. How do you know if your team wins? By its score, a measurement. The fact is that many daily ...
+
+
+Keywords:
+lean healthcare, quality improvement, quality management, change management, CQI
+
+
+Article Body:
+The best quality improvement initiatives are driven by data! Why? How are you going to know how much you have improved if you don’t measure something? 
+
+All of you have been exposed to measures in many situations. Most of them were important. In school, you were graded. Perhaps you own shares of stock; how do you measure the success of the stock—its increase in value, a measurement. How do you know if your team wins? By its score, a measurement. The fact is that many daily activities in life have accompanying measures to judge their success. 
+
+You might argue that you know if things are getting better; you can just tell. I am sure that you can. This is not enough, though. In the healthcare field it is important to measure improvement. One reason to do so is to prove to others that things are improving. For instance, suppose you are in charge of implementing electronic health records in a hospital setting. You meet resistance from several staff members, including a large number of doctors. How can you overcome this resistance? Collect data—lower percentage of wrong prescriptions, for instance—from a pilot program of willing participants and then demonstrate the positive benefits with your data. With such results in hand, you will overcome many doubters. 
+
+Another reason to measure improvement is to demonstrate the saving of time and money. With healthcare costing so much today that many find care out of their price range, it is important to find ways to lower costs. For instance, suppose that staffing at your facility is very expensive; the payroll costs are way over budget. I recently read of a lean six sigma project that demonstrated through the use of data collecting by staff charge nurses that staffing shortages and costs were significantly reduced. The right staff was present when needed and the facility eliminated the need for using short-term staffing of nurses through agencies; this saved a great deal of money. Besides lowering costs, staff morale improved significantly at this site. 
+
+I hope that I have convinced you that to make significant quality improvements, you should be actively measuring. What should you be measuring? The most common measurements are costs in providing a service, time taken in providing a service and various measures of patient health, such as the lung capacity of asthmatics. You can also measure improved bottom lines. One doctor I know improved his income 38% in 5 years by working hard to adopt quality measures in his solo practice. Many ER’s now boast of how they have significantly decreased waiting time for patients. One such local hospital did so well that they were overwhelmed by the increase of demand for service at their ER. You might want to measure if spending a few more minutes with patients talking about pursuing good life habits like eating the right foods leads to improved health, like lower cholesterol. 
+
+Once you have decided what to measure, you should first measure the variable (cost, time, etc.) as it is in the state before you begin an improvement initiative. This is a baseline against which you can measure your improvement. As you begin and proceed through a quality improvement effort, keep track of the measures and see what improvements occur. I suggest that you keep the data in a spreadsheet or database. For short term record keeping you might want to use charts. You will want to check to see if your means are significantly improving (you can use statistical tests if you choose—they are more accurate) and if your variation is decreasing. 
+
+Once you have reached your goals, revisit the new processes once in a while and collect new data on the variables you chose to measure. Doing so, will help keep you from backsliding to the old ineffective state. Backsliding is all too easy. It is hard to break old habits, but keeping data will help you. This is, in fact, what drives the success of many programs, such as Weight Watchers. 
+
+I hope that I have convinced you that data driven change is the best way to approach quality improvement. It will concretely demonstrate how you are progressing and will prove to others that your site is doing much better. It will help you earn your just rewards!
+
+

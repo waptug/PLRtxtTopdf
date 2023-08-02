@@ -1,0 +1,34 @@
+Title: 
+CNC Windows Software
+
+Word Count:
+767
+
+Summary:
+The development of computer numeric controlled (CNC) routing, using affordable personal computers has already begun to revolutionise all aspects of the woodworking industry. In so doing it has created new opportunities for large and small businesses as well as for individual craftsmen.
+
+CNC is a technique whereby the movement of a router head is controlled by instructions from a computer. These instructions come from a computer program or list that the user keys into the CN...
+
+
+Keywords:
+trend router, trend machinery
+
+
+Article Body:
+The development of computer numeric controlled (CNC) routing, using affordable personal computers has already begun to revolutionise all aspects of the woodworking industry. In so doing it has created new opportunities for large and small businesses as well as for individual craftsmen.
+
+CNC is a technique whereby the movement of a router head is controlled by instructions from a computer. These instructions come from a computer program or list that the user keys into the CNC 860 console or into a computer as ISO standard commands called 'G' codes.As an example, the code G01 X100 Y100, instructs the head to move in a straight line to a point horizontally and vertically 100mm away from its starting position.
+
+The CNC 860 The Trend CNC package is based around the Elu/DeWalt CNC 860 Machining Centre, which has a machining area of 860mm x 860mm x 90mm. These dimensions relate to the three axes, X,Y and Z (width, length and height). Each axis is served by a separate stepper motor, controlling the movement of the routing head. Two head options are offered: a modified portable router or a continuously rated, high cycle motor, that provides improved performance for intensive machining applications.
+
+Programming directly in G-codes through the console can be time consuming. To assist the operator, a PC software application called CNCTalk is included with the machine. This is a basic computer aided design (CAD) application which runs under DOS, the original PC operating system before Windows. It is useful for intermediate applications like cutting out irregular shapes. However, to gain the maximum versatility from the CNC 860,Trend’s Open Sign System Software for Windows is the most effective solution.
+
+OSS consists of two separate software applications: OSS Draw which provides the drawing tools to create any shape or sign, and OSS Work which handles all the routing and tooling-related parameters like depth and offset. Graphical simulations are shown for all tool parameters enabling the user to perfect a design before routing any material.
+
+Sign-writing As an example of how these products work together, the method of producing a simple sign is shown, incorporating two different lettering styles and a graphical logo. Having launched OSS Draw, the first step is to draw a box or boarder on the screen to indicate the overall area of the work. This can be either a simple rectangular boarder or a more decorative one. This border then needs to have a depth assigned to it. This is done by using colours to define the depth of each area.
+
+The logo is then created using the drawing tools within OSS Draw. The words are keyed in using the text function. Again, colours are assigned to each area to produce a graphical representation of how the finished sign will look. The next task is to define the routing parameters. In the example, the red and blue areas of the logo and the lettering have been assigned a depth of 5mm and the green area assigned a depth of zero. The same dialogue box lets you specify whether a letter or object is engraved or routed through the material. The cutter profile that will be used can now be defined. With lettering, particularly serifed fonts, the cutter used needs to have a small diameter, perhaps 3mm. However, to achieve a 5mm cutting depth this will have to be routed in several passes.
+
+A simulation of the cutting path is now drawn on screen. Having then created a G-code file of the sign ready for the CNC 860 to cut, the file is downloaded to the CNC 860. The design can now be routed, the material being held on the bed by an adaptable clamping mechanism. From the simulation, the path that the tool will take is known allowing a datum point to be set using the zero key on the console, and the program 8 INProfile is run using the start key. This type of routing operation takes around 20 minutes to complete and requires no further involvement by the machine operator. Other accessories Sign-writing is just one of the many complex and wide ranging routing operations that can be carried out using the OSS and CNC 860 package. OSS also has a range of tools for drawing component shapes and profiles directly or with an electronic sketchpad (graphics tablet). Vacuum Clamping To reduce the through-put time for this kind of operation, the CNC 860 can also be used with a vacuum bed. Trend offer a complete range of affordable vacuum pumps and jigmaking accessories to enable all CNC users to produce a highly automated production system to suit their own specific requirements.
+
+

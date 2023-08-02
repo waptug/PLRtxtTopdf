@@ -1,0 +1,34 @@
+Title: 
+What is a VLAN?
+
+Word Count:
+392
+
+Summary:
+A Virtual Local Area Network (VLAN) is a group of hosts that feature a like set of requirements and can communicate as though they were all connected via the same wires.
+
+
+Keywords:
+VLAN
+
+
+Article Body:
+A Virtual Local Area Network (VLAN) is a group of hosts that feature a like set of requirements and can communicate as though they were all connected via the same wires. However, unlike a traditional LAN, a VLAN is not necessarily all in the same place, and the hosts involved in the network can be located practically anywhere. All VLANs have the exact same attributes as a traditional physical local area network, though they can be configured via software instead of having to actually relocate the hosts.
+
+Many VLANs are designed as replacements to the services that are traditionally provided by routers on physical LANs. VLANs are able to tackle issues like network management, security, and scalability with ease.
+
+VLANs are known as Layer 2, or Data Link layer, constructs which transfer data between network nodes. Because they are Layer 2 constructs, they can interface with Layer 3 IP subnets with a one to one relationship.
+
+How are VLANs designed?
+
+The IEEE assigned IEEE 802.1Q as the protocol by which to configure virtual LANs. IEEE 802.1Q provides for a header with a 2-byte protocol identifier and another 2-byte tag control information. These are known as TPID and TCI, respectively. The TPID is fixed at 0x8100 while the TCI contains information pertaining to the user priority, canonical format indicator, and VLAN identifier.
+
+What are the two types of VLAN memberships?
+
+VLAN membership can be assigned in one of two ways. Static or Dynamic.
+
+A Static VLAN is also known as a port based VLAN. These types of VLANs are created by assigning specific ports to a VLAN. As new devices enter into the VLAN network, the device assumes a specific port. If end users change ports but require access to the same VLAN, network administrators are required to assign new port to VLAN assignments for the new port.
+
+A Dynamic VLAN is designed to be easily configured using software. The most common software for designing dynamic VLANs is CiscoWorks, a program developed by Cisco. A VLAN Management Policy Server (VMPS) must be set up first for a dynamic VLAN. This server will allow the VLAN to automatically switch ports whenever new devices connect to the VLAN. It uses information such as the device’s ports, unique usernames, and MAC addresses to determine whether or not to change ports to fit the needs of the incoming device.
+
+

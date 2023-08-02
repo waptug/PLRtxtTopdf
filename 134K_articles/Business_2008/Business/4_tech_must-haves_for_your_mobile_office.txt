@@ -1,0 +1,45 @@
+Title: 
+4 tech must-haves for your mobile office
+
+Word Count:
+1087
+
+Summary:
+Avoid work-trip catastrophes by ensuring your travel tools are up to scratch
+
+
+Keywords:
+Small Business Software, Small Business Idea, Small Business Startup
+
+
+Article Body:
+<p>Everything changes when you trade in your desktop for a laptop and your office for a hotel room. </p>
+<p>Sometimes this is for the better: You're liberated from your cubicle and free to go where your work takes you. </p>
+<p>But sometimes things change for the worse. Productivity suffers when you're in an unfamiliar place. The way a laptop keyboard cramps your hands is sometimes enough to keep you from getting the job done right. </p>
+<p>Here are four technology "must-haves" for the mobile office, plus some tools that can boost your productivity while you're away. </p>
+
+• <b>The Right Software </b>
+<p>It isn't just downloading the necessary applications onto your laptop or PDA, it's also knowing whether the programs are suited to a mobile office. Is your email program built for the road or adapted from a bigger application meant for a corporate network? Do the programs work together on your laptop or do they freeze when your processor gets busy? </p>
+<p>These considerations can become big issues when you're travelling. That's something Tab Stone, a doctor from Los Angeles, knows all too well. He installed a new email program on his laptop before leaving on a recent trip, but it wasn't suited for mobile use. He had to uninstall it shortly before takeoff, but that disabled his backup email program. That meant he couldn't download any messages to his PC. "I could not fix whatever was corrupted with either a fresh download or a copy downloaded from the internet," Stone recalls. </p>
+<p><b>The latest: </b> Contact-management software programs let you integrate data with your PDA, so you can download and synchronise contacts, calendar appointments and notes to your Palm Pilot or Pocket PC. There's also a web-based version for travellers who either lose their laptops or prefer to work from a desktop at their destination. </p>
+
+<p><b>What's next? </b> Look for more integration between applications for wireless users. Contact managers are already assuming the role of email program, address book and database. The next step is making it more accessible to people who are using cell phones or PDAs. </p>
+•<b> The Right Hardware </b>
+<p>I'm not talking about owning the newest laptop computer. I'm talking about hardware that's created for life on the road. Let's face it: A lot of the gadgets on which mobile professionals depend aren't made with travellers in mind. For example, when Joachim Martin's laptop battery ran out on a recent flight, a helpful flight attendant offered to recharge it in a "secret" outlet in the back of the plane. "The batteries charged," remembers the software developer. "But when I got home, they were dead." The power source had to be replaced. Blame the airline, the battery manufacturer or even the unfortunate business traveller for not knowing better, but this kind of thing happens often. Phone plugs don't always fit; neither do power outlets. And a lot of the gadgets we rely on are traveller-hostile, impractical or both. </p>
+<p><b>The latest: </b> Some hardware manufacturers are meeting the demand for traveller-friendly hardware with add-ons such as the Stowaway XT Keyboard. I've also been impressed with Microsoft's Mini Optical Mouse, which frees you from the restrictions of your laptop's finger-cramping pointer. </p>
+<p><b>What's next? </b> As the convergence between cell phones, PCs and PDAs continues, it wouldn't surprise me to see devices that offer the ergonomic comfort of a desktop with the portability of a PDA. It won't come a moment too soon for many road warriors. </p>
+
+• <b>The Right Connections </b>
+<p>Connections are everything to the mobile office. </p>
+<p>Remember Stone, the doctor without email? He eventually accessed his messages through an unwieldy web connection. Spencer Field, who recently returned from a trip to Melbourne, can also tell you about email trouble. He learned upon arrival that the dial-up numbers to his internet service provider (ISP) didn't work. "I thought that was probably the end of my online access," he says. "As a last-ditch effort, I let my fingers do the walking and checked out the Melbourne Yellow Pages for a local ISP." He found one and signed up for a one-month email account which gave him access to local numbers on his entire itinerary. </p>
+<p>It isn't just internet connections that matter, but also hooking up to other devices such as cell phones, PDAs and laptops. Technologies such as Bluetooth let you communicate with other devices in an office or hotel room without the need for cables. </p>
+<p><b>The latest: </b> According to a recent AT&amp;T study, the top barrier to working from a remote location is access to a high-speed data connection. Fast wireless networks are springing up everywhere — in hotels, airport lounges and coffee shops. And even though Bluetooth got off to a slow start, the concept behind it — which is to lose the wires — is fundamentally sound. </p>
+<p><b>What's next? </b> It won't be long before Wi-Fi is as ubiquitous as cellular coverage and a majority of devices are Bluetooth-enabled. That's good news for those of us who work in a mobile office. </p>
+
+•<b> The Right Web Applications </b>
+<p>Web-based applications are so important to the mobile office that I've decided to give them their own category, even though they technically belong in the "software" section. The web is one of the most efficient ways for a mobile worker to gain access to a back-office system, intranet or database. </p>
+<p>My ISP offers a rudimentary application that lets me check my email from the web. I can't remember how often I've had to use it because my email program failed to work properly. But I do remember the last time. I was stuck at a meeting out-of-town and my email account had sustained a spam attack — thousands of unsolicited messages — that would have taken hours to download. Instead, I logged on to the web and deleted them all in seconds. Were it not for the web application, I would probably still be downloading the spam. </p>
+<p><b>The latest: </b> One of the most innovative Web applications is GoToMyPC , which lets you access the desktop in your home or office through the web. Another useful application for mobile users is web conferencing services such as Microsoft Office LiveMeeting. </p>
+<p><b>What's next? </b> Expect these applications to become cheaper, more reliable and even more sophisticated. </p>
+
+

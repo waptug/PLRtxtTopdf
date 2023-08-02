@@ -1,0 +1,30 @@
+Title: 
+Multimodal Technologies For The Warehouse
+
+Word Count:
+320
+
+Summary:
+What is multimodal mobile computing and how does it work?
+
+Using multimodal technology all begins with a mobile, handheld computer that simultaneously uses several different peripherals. Devices such as those manufactured by Intermec and Symbol (Motorola) are examples of rugged mobile devices. Global positioning systems (GPS) and Bluetooth technology, barcode scanners, radio frequency identification (RFID) and Vulcan Voice, CTG’s voice technology, are just some of the perip...
+
+
+Keywords:
+multimodal, multi-modal, voice picking, voice recognition, WMS, warhouse management solutions
+
+
+Article Body:
+What is multimodal mobile computing and how does it work?
+
+Using multimodal technology all begins with a mobile, handheld computer that simultaneously uses several different peripherals. Devices such as those manufactured by Intermec and Symbol (Motorola) are examples of rugged mobile devices. Global positioning systems (GPS) and Bluetooth technology, barcode scanners, radio frequency identification (RFID) and Vulcan Voice, CTG’s voice technology, are just some of the peripherals available. When used along with the multimodal input and output software applications, the entire system can dramatically reduce costs. 
+
+The scanners used for barcodes have been used by both manufacturers and distributors for many years. Mobile devices can accomplish many tasks, but they are often used for one important one: scanning barcodes. But imagine if these powerful multimodal devices were used for many more operations?
+
+The barcode scanning device could be doing many more tasks than just scanning the barcodes. A store employee could be using this same mobile unit for cycle counting, reporting DOA items, shelf replenishing, doing inventory, or even communicating with other employees in the store. These devices can even be used to guide employees with voice technologies such as voice recognition.
+
+Many companies have discovered that adding voice recognition capabilities to their existing handheld computers results in an increase in safety and productivity. Voice guided warehousing operations such as voice picking allow users to listen to voice prompted work instruction which keeps their eyes on task and both hands available for moving inventory. Voice picking improves safety in the workplace while providing a 10% to 60% productivity increase and 99%+ order picking accuracy. Voice picking is just one of the many applications for voice recognition on rugged mobile devices in the workplace.
+
+Multi-modal  mobile computing allows the use of any integrated mobile peripheral within a single user interface. Operators no longer have to use disparate software packages across multiple multiple devices to handle the various tasks that have to be performed.
+
+

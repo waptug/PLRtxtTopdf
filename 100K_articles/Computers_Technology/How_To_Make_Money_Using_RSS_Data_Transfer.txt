@@ -1,0 +1,60 @@
+Title: 
+How To Make Money Using RSS Data Transfer
+
+Word Count:
+645
+
+Summary:
+RSS, (Really Simple Syndication) has become so popular today and is being referred to by internet users as "Pull" Technology rather than "Push" Technology.
+
+
+Keywords:
+RSS, (Really Simple Syndication)
+
+
+Article Body:
+RSS, (Really Simple Syndication) has become so popular today and is being referred to by internet users as "Pull" Technology rather than "Push" Technology. 
+
+It's difficult to imagine that anyone who logs on to the Internet has not heard of "Spam." Most, If not all Internet users are inundated with these advertisements, that we did not ask for or request.
+
+For those of you that may not be familiar with the term, rest assured we're not talking about canned meat here. LOL! Rather, it is unwanted advertising from people that we neither asked for or requested to recieve. Spam is "Push" technology. "Pushed" in your face and inbox, wanted or not. 
+
+Many believe this brand of "Push" technology is or will be, the death of email. Yet, as long as there are individuals and companies that continue to use the illegal spam process, email will be around for a long long time. The irony being, companies are raking in millions, selling spam solutions, to people and big corporations, that are Not Working!
+
+RSS, is the Total Opposite of the above "Push" technology. When subscribing to an RSS Feed, subscribers "Pull" information into their RSS Readers and can only be done so if someone voluntarily subscribes to a particular RSS Feed. If they find it's not the information they want, they can simply unsubscribe and never have to recieve 
+another message from the owner of that particular feed. Hence the term "Pull" Technology.
+
+Utilizing RSS "Pull" technology has become a popular source of income for webmasters that use RSS Feeds on their websites. Here's How: 
+
+Let's say, you set up a one page mini-site or you could even set up a Blog. A Blog would be a quick and easy 
+alternative.
+
+You can then host ads from either Google Adsense or the New Yahoo look alike Google Ads. When someone visits
+your page and clicks one of your ads, You Get Paid.
+
+If you've followed along and done the steps above, you've created a good starting place. You're going to need to make sure your pages are optimized properly. This will ensure you get your page ranked high in the search engines.
+Like any site or page, the more targeted traffic you get, greater are the chances that someone will click your ads.
+Which increases your Income. 
+
+Now, by using the power of RSS you increase your pages earning potential. When you add an RSS Feed to your page, you convert it into an ever changing, dynamic web page. Bringing you an abundance of visitors who, in all probability will return to read it.
+
+Especially if you add 10 or 15 RSS Feeds to your page. You will create a dynamic, ever changing, self updating page. Providing valuable content that readers will want to read, over and over again.
+
+
+Any web page can be turned into a dynamic web page. Just use the free RSS creator software called "Carp" This is one of the most popular free versions and  can be downloaded here:
+http://www.geckotribe.com/rss/carp/ 
+
+After you set the program up on your website and added the proper code to your website, then you will need to collect RSS feeds that relate to the topic of your web page. 
+
+You've got your web page, It's topic is about writing articles. Go to Google News, Get their RSS Feed
+Code, Insert it into the designated Carp Coding, then make the necessary changes found below: 
+http://news.google.com/news?hl=en&q=writing+articles&ie=UTF-8&output=rss 
+
+Same with Topix.net, adjust the code like this: 
+http://rss.topix.net/search/?q=writing+articles&xml=1 
+
+Once you've got your web page uploaded, It will automatically pull in fresh content from Google and Topix about writing articles. 
+
+Do these things for any web page and watch your search engine ranking soar and also your Income!
+
+

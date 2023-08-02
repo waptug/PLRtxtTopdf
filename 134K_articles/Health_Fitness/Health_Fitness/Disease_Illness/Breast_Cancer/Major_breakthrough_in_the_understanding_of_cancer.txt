@@ -1,0 +1,61 @@
+Title: 
+Major breakthrough in the understanding of cancer
+
+Word Count:
+1400
+
+Summary:
+At long last, some good news! A scientist found the cause of cancer, and it's not what many scientists in the academia, at the National Institute of Health (NIH), or in pharmaceutical/biotech companies think.
+
+
+Keywords:
+Cancer, cause of cancer, biology of cancer, chronic disease, NIH, tumor, cure for cancer, drugs, tumor, biotech, medical discovery, breast cancer, melanoma, lung cancer, treatment, remission
+
+
+Article Body:
+<b>Hunting for Genetic Mutations and Cancer</b>
+The current paradigm in medical research holds that the cause of most cancers is a genetic mutation. For instance, according to the National Human Genome Research Institute (NHGRI), an institute at the NIH, "all cancers are based on genetic mutations in body cells."  In fact, mutation hunting is big business. Just look at the NIH budget allocated to discoveries of genetic mutations, the number of biotech companies chasing genetic mutations, the magnitude of the licensing agreements between biotech and pharmaceutical companies aimed to utilize newly discovered genetic mutations, and the number of stories in the media on genetic mutations and their so-called "link" to disease. However, <b>this huge effort and billions of dollars has produced few discoveries and little benefits to the public</b>. The reason for this limited success is simple. <b>The cause of cancer is not a genetic mutation.</b>
+
+The story of the BRCA1 gene is a typical example of mutation hunting.
+
+<b>The Mystery of BRCA1</b>
+Genes, in general, produce proteins, which are the building blocks of cells. The concentration of the protein is tightly regulated. A mutated gene produces an abnormal concentration of its protein, which may lead to disease. In 1994, Mark Skolnick, PhD, discovered the BRCA1 gene (BRCA1 is short for BReast CAncer 1). Following the discovery, scientists observed an abnormally low level of the BRCA1 protein in breast cancer tissues. The BRCA1 protein is a cell cycle suppressor, which means that the protein prevents cell replication. This observation created a lot of excitement. At the time, scientists believed that they were on the verge of finding the cause of breast cancer. The reasoning was that breast cancer patients must have a mutated BRCA1 gene, which would explain the decreased production of the protein, and the excessive replication of breast cancer cells in tumors.
+
+In the United States, 180,000 cases of breast cancer are diagnosed each year. However, the BRCA1 gene is mutated in less than 5% of these cases. <b>In more than 95% of breast cancer patients the gene is not mutated</b>. 
+
+So here is the mystery. If the gene is not mutated in the great majority of the breast cancer patients, why are the tumors showing low levels of the BRCA1 protein? Today, this is one of the biggest mysteries in cancer research.
+
+The BRCA1 gene is not unique. Many normal (non-mutated) genes exhibit a mysterious abnormal (increased or decreased) production of proteins in cancer. Moreover, studies also report abnormal gene expression of normal genes in other diseases, such as atherosclerosis, obesity, osteoarthritis, type II diabetes, alopecia, type I diabetes, multiple sclerosis, asthma, lupus, thyroiditis, inflammatory bowel disease, rheumatoid arthritis, psoriasis, atopic dermatitis, and graft versus host disease.
+
+<b>The Discovery</b>
+A virus is a collection of genes. To replicate, some viruses settle in the nucleus of the host cell and use the cell machinery to replicate. What is the effect of a viral gene on the production of cellular proteins?
+
+Think of a gene as an assembly line of a protein. Like all assembly lines, the gene has two parts, a conveyor (the gene coding section), and a control panel (the gene promoter/enhancer). Imagine a cellular shop that assembles a product called BRCA1. One of the many buttons on the control panel is called N-box. Pressing the button increases production. However, only a small number of operators (called transcription factors), those who pass a special certification (called the p300 test), have permission to press this button.  What happens when a virus opens a shop across the street from the cellular shop (called latent infection) to produce its viral products? The control panel in the viral shop also has an N-box button. To start production, the virus begins to hire away some of the certified operators. What is the effect of this "hiring away" on the number of available BRCA1 units? The number decreases. Moreover, the decrease becomes apparent even before the virus starts production (the "hiring away" is what creates the effect, not the viral proteins). The viral assembly line competes with the BRCA1 assembly line for the certified operators, and by hiring them away prevents the cellular shop from producing the optimum, or "healthy" number of BRCA1 units. The lower number of BRCA1 units leads to excessive cell replication and breast cancer. (See a more technical description in a recent paper published in the European Journal of Cancer.)
+
+The infection with the latent virus causes abnormal production of other genes, and as a result, the development of other chronic diseases. This sequence of events easily explains why people who suffer from obesity are also more likely to suffer from diabetes, cancer, and heart disease, and why a recent large scale study found that a low-fat diet does not protect against breast cancer.  It also explains another surprising observation that male pattern baldness is associated with heart disease and prostate cancer. In general, this sequence of events easily explains the numerous observations indicating a co-existence or co-morbidity of some chronic diseases.
+
+This discovery was first described by Dr. Hanan Polansky in his book, Microcompetition with Foreign DNA and the Origin of Chronic Disease, published by The Center for the Biology of Chronic Disease. 
+
+To summarize: the cause of cancer, and other chronic diseases, is not a genetic mutation, it's an infection with a latent virus. 
+
+<b>Reaction of the Scientific Community</b>
+What is the scientific community saying about Dr. Polansky's discovery?  
+
+Consider what the famous heart surgeon and "Living Legend," Michael E. DeBakey, said about the discovery, "The theory underlying the basic concept concerning the origin of chronic diseases presented by Dr. Polansky is most interesting, indeed fascinating … Perhaps a symposium could be held to provide a forum for further discussions and critiques of this fascinating theory." 
+
+Elena N. Naumova, PhD, Associate Professor, Department of Family Medicine and Community Health, Tufts University School of Medicine, said, "Dr. Polansky's work compellingly demonstrates a framework that could bring together researchers from different fields. His proposed theory will work its magic by clarifying ambiguous definitions, identifying similarities and differences in various biological processes, and discovering new pathways … I believe that Dr. Polansky's book will catalyze the scientific learning process, promote interdisciplinary cross-fertilization, stimulate development of treatment strategies and drug discovery, and leave the reader inspired." 
+
+Sivasubramanian Baskar, PhD, Senior Scientist from the National Cancer Institute, NIH, said, "At first, I wish to congratulate Dr. Hanan Polansky for his scientific bravery to take such a unique, novel approach to further stimulate our understanding of the origin and establishment of chronic diseases. The philosophy underscored is an excellent one ... The amazing correlation between theoretical predictions and observed in vivo effects seems to bring us a step closer to a deeper understanding of such complex biologic processes."
+
+Marc Pouliot, PhD, Assistant Professor, Department of Anatomy and Physiology, Faculty of Medicine, Université Laval, Canada, said, "The concept of microcompetition will change our approach in the study of chronic diseases and will furthermore give scientists a higher level of understanding in biology. Presentation of this concept undoubtedly provides a new set of opportunities for attacking chronic diseases … They lead the way to new approaches in chronic disease treatment."
+
+Howard A. Young, PhD, Section Head, Cellular and Molecular Immunology Section, Laboratory of Experimental Immunology, National Cancer Institute, NIH, said, "In summary, Dr. Polansky is to be applauded for his attempt to provide a unifying basis for chronic diseases. His theories are stimulating and offer a basis for experimental testing and possible treatment."
+
+Michael J. Gonzalez, PhD, Professor, Medical Sciences, University of Puerto Rico, said, "I know this book will profoundly impact medical research, drug discovery, as well as natural therapies. I also believe it will benefit the scientific community and society in general by providing further means of treatment for conditions in which only palliative care is available."
+
+You can find more reactions and the biographies the scientists reacting to Dr. Polansky's discovery on the publisher's (see link below).
+
+<b>Hope for Cure and Protection</b>
+The significance of Dr. Polansky's discovery cannot be overstated. For the first time, we can start to feel a little better about these diseases. With his discovery, pharmaceutical and biotech companies can now start to design medications that will target the cause of the disease rather than its symptoms, and therefore, cure the sick and protect the healthy from these deadly diseases.
+
+

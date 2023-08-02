@@ -1,0 +1,52 @@
+Title: 
+Bandwidth Robbery Through Hotlinking
+
+Word Count:
+1014
+
+Summary:
+Have you heard of hotlinking? It's the number-one method that bandwidth is stolen from you by other web designers, and it can cost you a lot of money. It involves creating a direct link to a website's non-HTML files in such a way that these files are embedded on another person's page.
+
+For instance, imagine that you have created one of the best adult sites online. You have tons of images, and visitors love to come to your site. Now imagine that suddenly, though your user st...
+
+
+Keywords:
+internet scam, bandwidth robbery, webmaster tool
+
+
+Article Body:
+Have you heard of hotlinking? It's the number-one method that bandwidth is stolen from you by other web designers, and it can cost you a lot of money. It involves creating a direct link to a website's non-HTML files in such a way that these files are embedded on another person's page.
+
+For instance, imagine that you have created one of the best adult sites online. You have tons of images, and visitors love to come to your site. Now imagine that suddenly, though your user stats aren't increasing, your bandwidth (the amount of data transferred from your site to viewers) usage is going up. Your server administration contacts you to tell you that you are delivering 40% more images now than you were last week.
+
+Has your income gone up commensurately? No. Has the traffic served by your site gone up? No. What has happened is someone, instead of just ripping off your images, has decided to hotlink to them from inside his or her own website.
+
+This means instead of saving your image in their own images directory, they are linking to the image where it is hosted on your site. At one time in the early, early development of the web, this was an acceptable solution to stealing an image, provided you credited it properly. Today, with bandwidth usage at a premium and many, many more high-resolution images online, it is not acceptable.
+
+Why Do They Do It?
+
+There are many reasons for image hotlinking. For instance, suppose a relative newbie has started blogging or selling on eBay. They want an image, but they are alert enough to know that copying it and putting it on their own website is illegal. So, they figure, you won't notice if one person links out to your site. Besides, they really need that image.
+
+That's an innocent use, and unlikely to greatly increase your image serving. But what if you're running an image-heavy site – an art site, for instance – and a competitor decides to simply use the images you've uploaded to sell their own posters? That is malicious. And if they use all your images, they can double or more your bandwidth usage, with no benefits whatsoever coming to you. There are even malicious webmasters who use this as a way to drive competitors out of business, as extra bandwidth is either charged for by the web host or the site is taken offline. And, unfortunately, it is not illegal. Yet. (Though some web servers will shut down a hotlinking site after complaints.)
+
+A good analogy is someone wiring their home up to your electric utility pole. They don't pay for the electricity metered through your home – but you do. Many hotlinkers try to rationalize that what they are actually doing is akin to stealing cable – not at all the same, as cable users pay a flat rate for all the services they use total – or similar to using someone else's wireless WAN connection. Not only is this not true, but hotlinking is much more traceable than any of these examples. All it takes is patience and a good Google search.
+
+Am I Hotlinking?
+
+If you are linking directly out to any image or other non-HTML file that is not hosted on your own website, and you don't have permission from the webmaster to do it exactly that way, you are hotlinking. Anywhere you see a link starting src="http://" that goes on to list a domain that is not yours, you are hotlinking. Bandwidth to serve this image is not charged to you, but rather to the person you're stealing the image from. See the electricity analogy above!
+
+You can either host images and other files from your own image directory, or you can upload them to a free image server that states in its usage restrictions that you are allowed to hotlink. Otherwise, just don't do it.
+
+Though it is difficult to prosecute people hotlinking, there are ways to punish them. For instance, some webmasters use the "switcheroo" – they replace the image you've been stealing with something incredibly offensive, pornographic, or obnoxious. For example, they replace the beautiful flower you've used on your header with one of a body part – or with a guy holding a sign that says, "This person steals bandwidth." Any time you hotlink, you leave your site open for someone else to manipulate it.
+
+There are hotlink checking services that can check your image links one at a time to see if they have been stolen – or to see if they are safe from hotlinking. These consist of sites that allow you to enter your own image URL in their form; the next page either will or will not contain your image. If it does, you know you're vulnerable. If you need a lot of images checked, you may have to pay a service to do it.
+
+But there's a much simpler way to do it, if you have time to check all your images. Simply run a Google search for the complete URL link. If anyone is embedding your image URL in their page, it will turn up in the URL search. At that point, you get to administer whatever correction is appropriate – switcheroo, warning off the webmaster, or complaining to the host of the website.
+
+You can protect your images, movies, sound, etc. from hotlinking by proper use of an .htaccess file as well, or by speaking to your server administrator. Always check with an administrator before uploading an .htaccess file.
+
+What Else Should I Know About Hotlinking?
+
+Though there are few formal outlets to complain about hotlinking right now, it is certain that in the future this will be a more serious offense. Instead of hotlinking, email webmasters with content you like and see if they'll let you use their content in exchange for a link back to their website; because of the value of links back, many will agree. Protect your own images, and even if you have them secure check them regularly. And to prevent good old-fashioned plagiarism, learn about watermarking your valuable images.
+
+

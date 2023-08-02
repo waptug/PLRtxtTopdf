@@ -1,0 +1,48 @@
+Title: 
+Uninterruptible Power Supplies – Installation Options
+
+Word Count:
+502
+
+Summary:
+Single UPS installation
+
+As the description implies this represents a single uninterruptible power supply installation comprising of the UPS and battery where the battery can be internal or external and consist of single or multiple strings. Multiple strings can increase the autonomy and also provide greater security of load in the event of a utility mains failure.
+
+It should be noted that when the load has been transferred to the maintenance bypass mode it would be unpro...
+
+
+Keywords:
+uninterruptible power supplies,diesel  generators, load bank
+
+
+Article Body:
+Single UPS installation
+
+As the description implies this represents a single uninterruptible power supply installation comprising of the UPS and battery where the battery can be internal or external and consist of single or multiple strings. Multiple strings can increase the autonomy and also provide greater security of load in the event of a utility mains failure.
+
+It should be noted that when the load has been transferred to the maintenance bypass mode it would be unprotected in the event of a utility mains failure.
+
+Hot Standby UPS Installation
+
+This installation uses two UPS modules, referred to as a UPS System; one (A) is directly coupled to the load, the output of the second (B) supplies the reserve input of A. Therefore if UPS A inverter fails the load is switched to the inverter output of UPS B and is still protected in the event of a utility mains failure. Equally either UPS can be switched to the maintenance bypass condition with no loss of protection to the load in the event of a utility mains failure. This is used when either the UPS or Generator power protection system are serviced as part of a regular maintenance regime.
+
+Parallel Redundant UPS Installation- N+1
+
+This installation can consist of up to eight modules and can be complete with a static switch module. This type of installation is designed to ensure that when fully loaded there is sufficient capacity to remove one module from service either for repair or maintenance without altering the integrity of the system. The added advantage is that the system with support an overload situation where redundancy is lost.
+
+Parallel UPS Installation- Sharing the critical load
+
+This installation consists of two or more, normally up to a maximum of eight modules dependent upon UPS manufacturer, to support the load. The number of modules is designed to support the load and can be a convenient method of installation where one module on its own may be too large to physically fit in the desired location. Also, as in the parallel redundant installation, providing the number of modules has not exceeded the manufacturer's design requirements modules may be added as the site load increases.
+
+It should be noted that it is not possible to parallel all types of UPS systems and that the individual modules need to be the same make, module and capacity and will require additional circuitry to provide the parallel control.
+
+Disaster Preventative installation
+
+This usually consists of a substantial UPS system backed by a diesel Generator
+
+Remember, PowerContinuity Means Business Continuity. To ensure that failure is not an option, always take into consideration: is your power protected? If not, what steps should I take to ensure that it is?
+
+For further information regarding uninterruptible power supplies, diesel generators, power protection or any other related power query, please visit our website at http://www.powercontinuity.co.uk and/or give us a call on 0845 055 8455. Call or visit us now and find your solution. Your power – we protect. Power Continuity.
+
+

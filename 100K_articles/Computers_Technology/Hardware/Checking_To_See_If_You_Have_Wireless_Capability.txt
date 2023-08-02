@@ -1,0 +1,48 @@
+Title: 
+Checking To See If You Have Wireless Capability
+
+Word Count:
+778
+
+Summary:
+Do you know if your new computer already has wireless capability? Many new computers have the built-in software and connections in order for you to set up a wireless network. These wireless networking devices are so inexpensive that the manufacturers of the computers include them as part of the package and can be found on the system specification list.
+
+Like most people, however, you may not even know how much memory your computer has, let alone whether it arrived already w...
+
+
+Keywords:
+computers,wireless,intel,intel centrino
+
+
+Article Body:
+Do you know if your new computer already has wireless capability? Many new computers have the built-in software and connections in order for you to set up a wireless network. These wireless networking devices are so inexpensive that the manufacturers of the computers include them as part of the package and can be found on the system specification list.
+
+Like most people, however, you may not even know how much memory your computer has, let alone whether it arrived already wireless-enabled. This is especially true if you don't know what wireless networking is. It's easy to ignore this detail in the specifications that come with the computer and to fail to take the time to set it up and get it working. Let’s look at some things to look for if you want to check your computer's wireless capabilities.
+
+Intel Centrino
+
+If you own a laptop that comes with something called 'Intel Centrino mobile technology', this is what you’re looking for! Unfortunately, manufacturers of computers are not good at explaining what this technology is or does. Quite simply, it means that your laptop has wireless networking built right in; you don’t need to do a thing! Intel Centrino is a term used in marketing that stands for a combination of the Intel Pentium M processor and Intel's Pro/Wireless card.
+
+Your computer should have an 'Intel Centrino' sticker on it somewhere if it is enabled with Intel Centrino. If you don’t see this type of sticker, you can also check the name of your processor by right-clicking the My Computer icon in the Start Menu (or on your desktop) and clicking on “Properties” from the menu. Look at the wording following the word “Computer” in this section. It should tell you if it has the wireless feature.
+
+Intel Centrino technology has the capability of increasing the life of your computer’s battery and allows computers to be smaller in size. If you didn't buy an Intel Centrino laptop but your laptop has a free card slot, adding wireless capabilities will be no problem.
+
+Desktop Computers
+
+Desktop computers come with wireless capabilities, too. If you're not sure whether or not your desktop computer has a wireless connection, turn it around and look at the back of the computer. If a wireless connection is present, you can generally see a small aerial antenna sticking out of the back of the computer near the bottom of the computer.
+
+If you don’t see anything there, it's still possible that you have a wireless device in the computer, especially if the computer is relatively new. Unless you’re a computer expert, don’t open the back of your computer to determine if it has wireless capabilities. Instead, you should probably try and figure it out using Windows.
+
+Checking in Windows
+
+You can easily check your computer’s wireless capabilities by going into Windows' Device Manager. You must first right-click My Computer and choose Manage from that menu. Now click on “Device Manager”.
+
+In device manager, you will be able to see a list of the different devices you have or would be able to have on your computer. Look under 'Network Adapters'. Anything that uses the words '10/100' or 'Ethernet' is a normal network connection and isn’t related to wireless connectivity. Anything else may be a wireless device.
+
+If you think you have a wireless device but note that it has a yellow warning sign next to its name in the Device Manager, click its name to find out what is wrong with the device. Windows should be able to let you know why the device is not working. The computer may also suggest that you go into its troubleshooter program. Try doing that before trying anything else.
+
+The problem could be a driver problem. In that case, insert the drivers CD that came with your computer. If you can’t find the drivers CD, you can always find the drivers online. In order to do this, you should look on the website of the computer's manufacturer. From there, you can try searching for the particular name of the wireless device in Device Manager.
+
+Unfortunately, it could turn out that you don't have a wireless device after all. That’s too bad. On the bright side, it is much better to learn that now than it would be to buy wireless equipment and then realize you couldn’t run it on your computer. In any event, even if you did find a wireless device in one of your computers, you may decide that you need even more wireless capability. Fortunately, wireless technology is getting cheaper all the time!
+
+

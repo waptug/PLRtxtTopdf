@@ -1,0 +1,50 @@
+Title: 
+History of Six Sigma
+
+Word Count:
+569
+
+Summary:
+Initially developed by Motorola (and current Motorola’s registered service mark and trademark), the Six Sigma is a business management strategy. It is widely adopted in today’s many industries. By using various management methods such as statistical methods, the Six Sigma tries find and delete any defects or errors during the manufacturing and business process. The strategy is also responsible for training a group of quality management method experts. Similar to some other business management methods, the Six Sigma project teams always have a specific plan with milestones along with a clear financial target.
+
+
+Keywords:
+Six, Sigma
+
+
+Article Body:
+Initially developed by Motorola (and current Motorola’s registered service mark and trademark), the Six Sigma is a business management strategy. It is widely adopted in today’s many industries. By using various management methods such as statistical methods, the Six Sigma tries find and delete any defects or errors during the manufacturing and business process. The strategy is also responsible for training a group of quality management method experts. Similar to some other business management methods, the Six Sigma project teams always have a specific plan with milestones along with a clear financial target.
+
+
+History
+Originally, the Six Sigma was designed to be a practice to solely improve the manufacturing process by eliminating the defects, which is defined as anything that could dissatisfy a customer. It quickly became adopted in other parts of the business too as the Six Sigma showed great success.
+
+The idea was first proposed and developed by Bill Smith in 1986. However, the idea sprung from the works of others such as Shewhart, Juran, Taguchi, Deming, and Ishikawa and their contributions to quality control, TQM, and Zero Defects.
+
+The term and the symbol (6&#963;) itself comes from the study of process capability, a section from statistics. At first, its goal was to create a level of manufacturing so that a high number of the output will meet the minimum specifications. Now, it has grown, and the quality demands and strives to keep the defect level at 3.4 defects per million opportunities (DPMO) or below. Of course, its goal is to keep the number even lower.
+
+In 2006, Motorola reported a savings of over $17 billion US dollars and since, many other companies such as the Honeywell International (previously known as Allied Signal) along with General Electric adopted the model, headed by the famous Jack Welch. Recently, many corporations have been adopting the Six Sigma with lean manufacturing to conduct a methodology known as the Lean Six Sigma.
+
+
+The Core of Six Sigma
+There are quite a few things that the Six Sigma emphasizes:
+&#61548;	One is that constant effort should be made to achieve expected and stable results, as it is of high importance to the success of a business.
+&#61548;	Another is that all manufacturing and business processes can somehow be measured, analyzed, enhanced upon, and controlled.
+&#61548;	Commitment from the organization, especially those in the top-level management, is integral to maintaining continuous improvements.
+
+
+The Uniqueness of Six Sigma
+Six Sigma is quite different from other business improvement initiatives in a few ways.
+&#61548;	It has a very definite and straight plan to achieve quantifiable monetary returns.
+&#61548;	It calls for an enthusiastic management team with great leadership skills.
+&#61548;	It has a special infrastructure that administers the implementation of the Six Sigma.
+&#61548;	It requires decision making based on verifiable statistics rather than pure assumptions and guesses.
+
+
+Six Sigma Criticisms
+Although Six Sigma’s low defect rate is impressive, it has its downsides.
+&#61548;	Not Original: The Six Sigma has been dubbed “unoriginal” by a quality expert Joseph Juran, saying that it is just a fancy version of a simple quality improvement method.
+&#61548;	Not Progressive: The Six Sigma is said to be effective at solving the current programs that exist. However, it is not so effective at coming up with new and innovative technologies and products.
+&#61548;	Incorrect Standard: The 3.4 defects per million might be suitable for some products and some companies, but it certainly is not for all. Thus, its numbers are certainly not universal.
+
+

@@ -1,0 +1,26 @@
+Title: 
+Directories Post Big Daddy
+
+Word Count:
+708
+
+Summary:
+Unless you are a webmaster or attentive to the developments in SEO there is a very real chance you do not know of “Big Daddy”, but Big Daddy definitely knows about you –or at least your website. Google’s latest update is impacting directories all over the world. Described by Google as not a mere algorithm, but a ‘major infrastructure update’, Big Daddy (satirically referred to on some bulletin boards as ‘Big Brother) seems to be an oddly appropriate name for a Google update w...
+
+
+Keywords:
+web directory
+
+
+Article Body:
+Unless you are a webmaster or attentive to the developments in SEO there is a very real chance you do not know of “Big Daddy”, but Big Daddy definitely knows about you –or at least your website. Google’s latest update is impacting directories all over the world. Described by Google as not a mere algorithm, but a ‘major infrastructure update’, Big Daddy (satirically referred to on some bulletin boards as ‘Big Brother) seems to be an oddly appropriate name for a Google update which sent the SEO and web development world into total uproar over the ranking and indexing of their directories post Big Daddy; that is if one considers the explosion of webmaster bulletin board activity on that topic since the updates implementation. So intense and rapid was the discourse come mid-March that Google engineer and self-appointed webmaster liaison, Matt Cutt, advised Google to set up a team to address the ‘supplemental’ problem faced, for no clear reason.
+
+For this to make much sense for us less specialized folk, some rudimentary knowledge the Google search machine is required. At its most basic, Google serves an indexing and categorizing function so that when people search for something, certain algorithms have already determined (are always determining) where they will take the viewer to look. This indexing is performed by the Googlebot 2.1 and the Mozilla Bot, both of which ‘crawl’ directories while applying content-analyzing algorithms to web content and code. These algorithms determine, among other things, which directories go into the main index (which is where you want to be) and which into the supplemental index, referred to in webmaster jargon as ‘Supplemental Hell’ since not only does it exclude its contents from searches, but is notoriously difficult to escape once thrown in.
+
+The functionality of a special corner for inactive websites, spam sites, and other nuisances extant on the web is clear. The current problem and essential source of confusion, however, is that active, original, and non-spam directories, post Big Daddy, are being cast into the supplemental flames for no apparent reason. As one of the many people to comment in response to Matt Cutt’s ‘Gone Supplemental’ blog post of March 22, 2006, “Our site has been redesigned…If I do a search…most url’s are from our old site marked as supplemental results. Google is hardly indexing our new site…” And the problem was not limited to just one directory here or there, but thousands around the world, as the following comment, one of many, indicates. “I have a site with 4 sub domains including www. All of them have active content…all of them are supp and I do not see any return at all nor is google heavily crawling them. We are talking about 300k+ pages in the supp index for some reason.”
+
+If it has not occurred to you to do so yet, it may be a good idea to see where sit your directories post Big Daddy. To see if you are directories are affected, simply paste the URL as a Google search. If the page comes up as missing it has fallen from main index grace. If this is the case with your directories post Big Daddy the first thing you will want to do is look for any code or content which might cause the bots to reject the page.
+
+Any number of things from spam (or what the bots code as spam), hidden text, and copied or ‘scraped’ content (closely paraphrased with the same keywords) can push a directory into Supplemental Hell. Depending in the use and complexity of your directories, the services of an SEO expert or organization might come in handy to take a look at your directories post Big Daddy. While some webmasters are reporting a return to normal, others are still faced with difficulties regarding their directories post Big Daddy. While Big Daddy is drawing attention to the need for more and better communication between Google, the web design world, and users, it may be some time yet before all the kinks are worked out and fluid channels of communication for problems like these are in place. For now the best one can do is pay close attention to the indexing of their directories post Big Daddy.
+
+

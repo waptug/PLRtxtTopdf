@@ -1,0 +1,45 @@
+Title: 
+Cisco CCNP / BCMSN Exam Tutorial:  Dynamic Trunking Protocol (DTP)
+
+Word Count:
+313
+
+Summary:
+DTP works transparently, but you need to know the details of this protocol to pass the BCMSN exam!  Learn the vital details from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Dtp, trunk, ccnp, bcmsn, exam, free, tutorial, dynamic, trunking, protocol, switch, port, nonegotiate
+
+
+Article Body:
+When you're studying to pass the BCMSN exam on the way to earning your CCNP certification, you're going to add to your CCNA knowledgebase every step of the way.  Nowhere is that more than configuring a trunk between two switches.
+
+You know that IEEE 802.1Q ("dot1q") and ISL are your two choices of trunking protocols, and you know the main differences between the two.  What you might not have known is that there's a third trunking protocol that's running between your Cisco switches, and while it's a transparent process to many, you had better know about it for your BCMSN and other CCNP exams!
+
+The Cisco-proprietary Dynamic Trunking Protocol (DTP) actively attempts to negotiate a trunk link with the remote switch.  This sounds great, but there is a cost in overhead - DTP frames are transmitted every 30 seconds.  If you decide to configure a port as a non-negotiable trunk port, there's no need for the port to send DTP frames. 
+
+DTP can be turned off at the interface level with the switchport nonegotiate command, but as you see below, you cannot turn DTP off until the port is no longer in dynamic desirable trunking mode.  (Dynamic desirable is the default mode for most Cisco switch ports.)
+
+SW2(config)#int fast 0/8
+
+SW2(config-if)#switchport nonegotiate
+
+Command rejected: Conflict between 'nonegotiate' and 'dynamic' status.
+
+SW2(config-if)#switchport mode ?
+
+  access   Set trunking mode to ACCESS unconditionally
+
+  dynamic  Set trunking mode to dynamically negotiate access or trunk mode
+
+  trunk    Set trunking mode to TRUNK unconditionally
+
+
+SW2(config-if)#switchport mode trunk
+
+SW2(config-if)#switchport nonegotiate
+
+When you're working with Cisco switches in a home lab or rack rental environment, run IOS Help regularly to see what options are available for the commands you're practicing with.  Cisco switch ports have quite a few options, and the best way to find them is with one simple symbol - the question mark!
+
+

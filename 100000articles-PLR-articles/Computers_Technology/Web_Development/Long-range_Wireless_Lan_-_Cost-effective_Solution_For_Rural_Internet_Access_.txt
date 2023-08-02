@@ -1,0 +1,52 @@
+Title: 
+Long-range Wireless Lan - Cost-effective Solution For Rural Internet Access?
+
+Word Count:
+548
+
+Summary:
+Long-Range Wireless LAN, cost-effective solution for rural internet access?
+
+Is it finally the answer for cost-effective internet access in remote regions?
+
+The physical and geographic location of some remote regions of the world has made it difficult to establish a reliable communication link thus depriving it full benefits of Information and Communication Technology (ICT).
+
+Linking remote communities to the so-called communications highway by landline or by any of the...
+
+
+Keywords:
+
+
+
+Article Body:
+Long-Range Wireless LAN, cost-effective solution for rural internet access?
+
+Is it finally the answer for cost-effective internet access in remote regions?
+
+The physical and geographic location of some remote regions of the world has made it difficult to establish a reliable communication link thus depriving it full benefits of Information and Communication Technology (ICT).
+
+Linking remote communities to the so-called communications highway by landline or by any of the available fixed-line systems is simply expensive and financially not viable. The reality of few subscribers in rural areas can dampen every investors enthusiasm.
+
+Notwithstanding the phenomenal growth of cellular-mobile phones that brought tremendous impact to communication, high speed connection to the internet, is very much limited with early generation GSM/CDMA phones and to some extent next generation mobile wireless networks. It would take years for 3G technology to make an impact in remote regions.
+
+In order to catch-up with the ICT bandwagon, fill-in the demand for broadband connectivity and services in un-served areas, an opportunity awaits to be tap by utilizing long-range Wireless LAN (WLAN) and long-range cordless telecom platforms (also called as phone extender) which are fast gaining ground as a reliable, secure and cost-effective alternative to delivering broadband communications services in remote areas.
+
+This articles aims to harness and leverage new emerging Long-Range Wireless LAN technology to compliment existing fixed-line network resources and improve delivery of data communications in remote regions of the world.
+
+Discover how Long-Range Wireless LAN will answer the requirement for a true cost-effective solution internet access in remote regions.
+
+WIFI INDOOR VS OUTDOOR LONG-RANGE WIRELESS LAN PLATFORM:
+
+There are two types of Wireless LAN which is synonymous to short-range and long-range communication: indoor and outdoor.
+
+Indoor type equipment refers to traditional device, as the word suggest, connotes limited transmission coverage within 30-50m and up to 900m when fitted with outdoor antenna. However, being fitted with outdoor antenna does not make them true outdoor equipment. Synchronization and reliable operation are sometimes sacrificed. Indoor-type Wireless LAN equipment are "off-the-shelf", commercially available equipment that can be obtained from computer dealers. It is designed purely for indoor use.
+
+The second type is outdoor long-range Wireless LAN. The difference lies in the design and intended application. Some WLAN manufacturers are concentrating on making outdoor equipment, designing them for maximum transmission coverage while maintaining data throughput.
+
+Outdoor Long-Range Wireless LAN is designed to be robust, resilient, reliable, secure and weatherproof. As "true-outdoor" unit (as oppose to indoor fitted with outdoor antenna), both radio unit and antenna are installed outdoors utilizing Power-over-Ethernet (POE note: power is feed via CAT 5 cable) thus resulting in minimal gain loss because of their shorter antenna cables.
+
+Depending on the radiated power (250mW to 1 watt to 4 watts) and antenna-type (Omni, Flat-Panel, Yagi, Parabolic and Dish) range can reach from 9km to 60km long enough to reach remote areas. Data transmission speed varies though with up to 11Mbps max for 802.11b model with auto-fallback going 5.5 or 2Mbps sacrificing speed/throughput in favor of reliable transmission and up to 54Mbps and 108Mbps (in turbo-mode) for some 802.11g/a model also with auto-fallback.
+
+Outdoor Long-Range Wireless LAN on bridge and point-to-point mode can reach as much as 60Km transmission distance in open terrain (line-of-sight). Truly, Long-Range Wireless LAN is a cost-effective solution for rural internet access.
+
+

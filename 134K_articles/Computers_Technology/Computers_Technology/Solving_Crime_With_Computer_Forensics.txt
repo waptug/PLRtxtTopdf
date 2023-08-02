@@ -1,0 +1,28 @@
+Title: 
+Solving Crime With Computer Forensics
+
+Word Count:
+413
+
+Summary:
+Computer Forensics is the scientific study of computers or computer related data in relation to an investigation by a law enforcement agency for use in a court of law. While this technology may be as old as computers themselves, the advances in technology are constantly revising this science.
+
+In the technological old days, computer forensics was mostly related to data dumps, printing out every keystroke that had been logged on a computer in a series of eight digits, all of...
+
+
+Keywords:
+forensics, computer forensics, crime investigation, CSI
+
+
+Article Body:
+Computer Forensics is the scientific study of computers or computer related data in relation to an investigation by a law enforcement agency for use in a court of law. While this technology may be as old as computers themselves, the advances in technology are constantly revising this science.
+
+In the technological old days, computer forensics was mostly related to data dumps, printing out every keystroke that had been logged on a computer in a series of eight digits, all of them zeroes and ones. Literally cases of paper would be used for the printing of the materials. Systems analysts would then have to convert all of the data into hex and then translate the value into whatever the actual keystroke was. In this way, it was possible to go over all of the data and figure out at what point the computer and the corresponding program crashed. Like computers and technology, Computer forensics has evolved by leaps and bounds since those days of old.
+
+While all computer language still ultimately boils down to ones and zeroes or binary and then hex, the means by which programs are created, run and utilized has changed drastically. This new science has done well to keep up with the task at hand. Now hard drives can be wiped clean. However, without an unconditional format (and in rare cases, even with the unconditional switch) the data can still be retrieved. It takes an expert in computer forensics however. It takes someone who is familiar with the technology of the computer to reconstruct all of the data that has been wiped off of the hard drive.
+
+Computer forensics can be used to track emails, instant messaging and just about any other form of computer related communications. This can be necessary, especially in the world today. Experts have even advanced the technology to the point that they can track data real time, or while it is actually being sent and received. This is a mind-numbing task when you think about the billions of communications going on around the globe at any given time, but the science of computer forensics is constantly advancing every bit as quickly or sometimes even faster than the technology they are responsible for investigating.
+
+It is an interesting aspect of technology that is often overlooked. Computer forensics have been used to solve many crimes and should be considered a viable tool in many ways and the study of this subject is constantly growing along with technology.
+
+

@@ -1,0 +1,32 @@
+Title: 
+Cisco CCNA / CCNP Home Lab Tutorial:  A Guide To Cable Types
+
+Word Count:
+488
+
+Summary:
+One of the most confusing parts of putting together your CCNA / CCNP home lab is getting the right cables.  Learn how to make the right choices in this tutorial from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccna, free, icnd, intro, home, lab, tutorial, router, switch, cable, dte/dce, rolled, rollover, crossover, straight-through, ccnp, free, pass, exam, serial, etherchannel, access, server, frame, relay
+
+
+Article Body:
+When you're putting your CCNA and/or CCNP home lab together, you're not just buying routers and switches you're creating a blueprint for success. There is no better way to learn about how real Cisco routers and switches work than to work with the real thing!
+
+Of course, it's not enough to just get the routers and switches you've got to have the right cables and other devices to allow them to communicate. Let's take a look at the different cables and connectors you need to know about when putting together your CCNA and CCNP home labs.
+
+The basic cable you'll need is a straight-through cable. These are used to connect your switches and routers also, if you have an ISDN simulator, you'll need a straight-through cable to connect the router's BRI interface to the simulator.
+
+A more specialized cable type is the DTE/DCE cable. If you plan to use the serial interfaces on your routers (and you certainly should be!), you'll need some of these cables. To connect two routers directly via their serial interfaces, you must have a DTE/DCE cable. (If you have a Cisco router set up as a frame relay switch, you'll need more of these cables.)
+
+If you have multiple switches, you'll want to connect these switches in order to create a trunk line and possibly an Etherchannel. To successfully create a trunk between two switches, you'll need crossover cables. 
+
+To connect your PC directly to the router or switch you're configuring, you'll need a rollover cable, also referred to as a rolled cable. This cable has an Rj-45 connector on one end and DB-9 connector on the other. 
+
+Once you've added multiple routers and switches to your CCNA / CCNP home lab, you'll get tired of moving that rolled cable around. An access server (a special model of Cisco router, actually) will allow you to connect the rolled cable to it and communicate with all your devices via that connection. To use an access server, you'll need an octal cable. This unusual cable has a large serial connector on one end (this won't fit just any serial interface, so when purchasing an access server, make sure to get the right type of Cisco router) and has eight separate RJ-45 connectors at the other end.
+
+The best news of all for all CCNA and CCNP candidates is that like used routers and switches, all these cables are affordable. You can find vendors that sell these cables on ebay and through search engines, and the odds are that the vendor that sold you your lab equipment also sells these cables. This also gives you first-hand experience in cabling your own lab - and that is the best exam preparation of all! (Multiple-choice questions on cable types are easy when you've actually worked with them!)
+
+

@@ -1,0 +1,32 @@
+Title: 
+Software Review: Does Xcelerator Create Better Excel Workbooks?
+
+Word Count:
+394
+
+Summary:
+Operating directly from inside Excel, Xcelerator's suite of products not only saves time, but they also enhance Excel's formatting and analysis capabilities.
+
+
+Keywords:
+Excel workbooks, Excel, Chart, PivotTable, PivotChart, Formatting, EZ-Format, Xcelerator, EZ-Chart, EZ-Stat, EZ-Pivot, E
+
+
+Article Body:
+If you regularly use Excel workbooks and you're frustrated about the time you spend doing the mechanical, time-consuming tasks associated with formatting and analysis, help is near at hand. Data Presentation Products, a Microsoft Certified Business Solutions Partner, has developed Xcelerator, a suite of five products that quickly and easily performs mundane steps in minutes. 
+
+Xcelerator is a breeze to install, and easy to learn to use. It consists of EZ-Format, EZ-Chart, EZ-Pivot, EZ-Calc, and EZ-Stat. EZ-Format's better subtotaling is only one of over two dozen Excel formatting and analysis enhancements, while EZ-Chart automatically summarizes data and creates identically formatted user-customized Excel charts. EZ-Pivot creates formatted PivotTables, PivotCharts, and Drill worksheets in seconds, while EZ-Calc creates Excel formulas and seven different calculated fields that are too time consuming to create manually. Finally, EZ-Stat creates sum, count, average, max, min, standard deviation, and median for selected numeric fields. The beauty of Xcelerator is that it works its magic without modifying the original Excel data. 
+
+Operating directly from inside Excel, Xcelerator's suite of products not only saves time, but they also enhance Excel's formatting and analysis capabilities. For example, the software can easily extract subsets of data or split data into multiple workbooks. It also transparently creates workbook formats that you can re-use. The effect is that you can re-create identically formatted workbooks for new data in as little as 60 seconds. In other words, unlike using only Excel, you'll never lose the time you invest in formatting data for a specific set of fields.
+
+The bottom line? Xcelerator isn't a replacement for knowing and understanding Excel, but it enhances Excel's features in a way that saves you an incredible amount of time. The software truly addresses the major pain points of most Excel users, such as:
+
+* The amount of time it takes to implement most Excel features;
+* The fact that there is virtually no re-usability of the work performed in Excel; and
+* The knowledge that Excel does not automatically perform frequently and identically performed steps.
+
+In addition, in this day and age when software upgrades can cost $50 to $200 or more, Data Presentation Products include a lifetime of free updates for product enhancements and bug fixes. 
+
+When you use Xcelerator, you'll spend significantly less time formatting Excel Workbooks - time that can be better spent analyzing your data and developing actionable recommendations to improve your company's bottom line.
+
+

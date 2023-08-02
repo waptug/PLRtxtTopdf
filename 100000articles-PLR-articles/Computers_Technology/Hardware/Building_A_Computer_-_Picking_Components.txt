@@ -1,0 +1,53 @@
+Title: 
+Building A Computer - Picking Components
+
+Word Count:
+749
+
+Summary:
+A guide on how to pick the parts for your computer.
+
+
+Keywords:
+computer building, computer, build a pc, hardware
+
+
+Article Body:
+Picking the parts for your computer is one of the most important things in building a computer, because you cant assemble a computer without the parts! Picking parts for computers has become much easier than before, because things have been standardized, however, you need to make sure everything will fit. The first thing to think about when choosing the components for your computer is what you are going to be using it for. If you are creating a computer for just checking your eMail and using word, you are going to need much diffrent parts than a computer that you are going to be using for gaming.
+
+CPU
+The first thing you should pick out about your computer is what CPU you are going to use, because it determines what motherboard you are going to get, which determines what other components you get. There are two main CPU manufactruers, Intel and AMD. Both have their Pros and Cons, but they are pretty similar. I would suggest using AMD, because they give you a little more bang for the buck.
+
+Here is a brief overview of the diffrent Intel and AMD CPUs:
+Budget: AMD: Sempron
+Intel: Celeron D
+
+Midrange: AMD: Athlon 64
+Intel: Pentium 4
+
+High End: AMD: Athlon64 X2
+Intel: Pentium D
+
+If you are spending below $500, I would suggest a budget proccesor, Between $500 and $1000, midrange and $1000 and above I would suggest a high end proccessor.
+
+Motherboard
+Choosing the right motherboard is vital to building your computer. First, make sure you find a motherboard that has the right socket type for your CPU. Then, check the diffrent features of the motherboards you are looking at. If you arent going to buy a video or sound card, make sure your motherboard has onboard video and/or sound. Other things to check for on your motherboard are the hard drive interface, graphics card interface, expansion slots, the memory size and speed. Also, check for the chipset. There are too many to talk about, but generally Intel and nVidia chipsets are better than the other ones. Now that you picked out your motherboard, you know what to look for in your other components.
+
+RAM
+Getting the right speed and amount of RAM is vital to the speed and stability of your system. If you are running XP, you will probably need at least 256 or 512Mb of RAM. If you are going to be doing anything memory intensive, gaming, rendering or just want a faster computer, you should get 1Gb. Make sure your motherboard has enough DIMMs and the right type of DIMMs for your RAM. Also, be sure to check the speed and CAS Latency.
+
+Hard Drive
+Now its time to pick your hard drive. There are few variables in picking a hard drive. The first, and most important is size, 120Gb is usually enough for most people unless, you are going to be storing alot of pictures and video. Also, make sure you get an HD with the right interace that fits your motherboard. Almost all motherboards have IDE, but some have SATA (Serial ATA) Which is a much faster hard drive interface and uses a thinner cable which helps with airflow in your case. There is even SATAII now, which is twice as fast. Also look at speed, almost all desktop HDs are 7200RPM and Cache, most are 8Mb, dont buy a HD below those standards. If you want to spend some money, you can get 2 HDs and run them in RAID which increases performance.
+
+Video Cards
+If you are going to be doing any gaming, be sure to buy a video card, if youre not, onboard video is fine. The first thing to check for is the interface, most are AGP or PCI-E. I personally like nVidia cards better. If you are going to be doing graphic intensive games, I would suggest at least a 6600. If you have alot to spend, go with a 7800.
+
+Optical/Floppy drives
+Another thing you are going to is a CD drive, most are IDE. Get a DVD Burner if you are going to use it. Also, you should get a floppy drive, they are only $10ish and you might need it to install drivers when building your computer.
+
+Case and Power Supply
+Make sure you have a sufficient power supply!! If you have a high end computer, you should get a 450W PSU. Otherwise, 350W should be fine for most people. Most cases are ATX, but make sure it is the same type as your motherboard (ATX, MicroATX, BTX, etc...).
+
+Be sure to make sure all your components are compatible!
+
+

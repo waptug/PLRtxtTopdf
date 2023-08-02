@@ -1,0 +1,62 @@
+Title: 
+Move Inventory, Not Workers
+
+Word Count:
+1064
+
+Summary:
+Many companies think material handling automation is a nice idea, but something for the big guys. In reality, material handling automation comes in many sizes. It saves far more productive hours than it takes in training, installation and maintenance. In fact, it's an excellent way to help grow to the size you want to be.
+
+
+Keywords:
+carousel, horizontal carousel, vertical carousel, material handling automation, ASRS, pick to light
+
+
+Article Body:
+<b>A plant can save space, time and money with a carousel</b>
+
+Many companies think material handling automation is a nice idea, but something for the big guys. After all, computers and automated systems cost money. Automation is designed for high-volume shops. It takes up space. It requires training, and that means hours spent away from production. Once installed, automation needs to be maintained-and that means more downtime. Too often, the decision to automate is put off until a future day when the company thinks it's big enough to need it-or big enough to afford it.
+
+In reality, material handling automation comes in many sizes. It saves far more productive hours than it takes in training, installation and maintenance. It can actually save space. It's not something that requires a plant to be of a particular size. In fact, it's an excellent way to help grow to the size you want to be. 
+
+
+<b>Consider these examples:</b>
+
+An electronics company had four or five people picking orders from shelving on about 2,000 square feet of floor space. Installing two simple horizontal carousels allowed one or two people to handle the same volume while needing only 700 square feet.
+
+In another application, eight to ten people worked two shifts picking airline parts from an area of about 15,000 square feet. With the installation of an automated storage system and its software, the floor space requirement was reduced to about 8,000 square feet-and the payroll to three people.
+
+While the companies in these examples aren't huge multinationals, they still could use the savings. Eliminating perhaps 1,300 square feet of sorting space might mean putting off a move to larger facilities. Eliminating five or six related salaries might make the difference between loss and profitability.
+
+In both examples, the basic automation tool is the carousel-an automated storage and retrieval system that rotates to deliver the proper part to a particular workstation. Instead of sending people wandering around vast shelving storage areas, carousels send the shelves to the worker, who stands in one place ready to do the next step: load the delivered part to the machine, work on the delivered assembly or pack the part for shipping.
+
+At its simplest, the concept works like this. A vertical carousel in a machine shop is loaded with commonly used tools and small parts. This arrangement uses considerably less floor space than a standard shelving system. When a particular part or tool is required, the operator punches a keypad, the carousel rotates, and the needed item is brought within easy reach. Yes, it takes a little while for the operator to learn which buttons to push. But the first time the operator doesn't have to waste time looking for a part that has been mislabeled or placed on the wrong shelf makes up for the learning time.
+
+On a more sophisticated level, carousels can use software to control the flow of inventory from the delivery point to storage and, when an order is received, from storage to the fulfillment and shipping areas.
+
+<b>Storing Discontinued Parts </b>
+
+For example, a company regularly discontinues old parts and gives its distributors a specified time to return unsold merchandise. As the returned parts arrive, an operator keys the part number (or scans a bar code) into the system. The carousel sends the proper bin to the workstation for the operator to store the parts. Then the software updates inventory figures.
+When the grace period for returning this particular part ends, the system informs an operator, who empties the bin and sends the parts to inactive storage. The available bin now can be assigned another purpose-probably another discontinued part. Because software controls the system, similar parts don't need to be stored next to each other. Any available space can be used for anything that will fit, which eliminates the need for reorganizing the entire storage system periodically.
+
+<b>Volume</b>
+
+A plant with three or more workers, each making more than 1,000 picks a day from inventory, might benefit from the productivity gains that horizontal carousels offer. The horizontal carousel can serve several stationary pickers simultaneously. Workers no longer have to walk from bin to bin in search of parts.
+While vertical carousels also offer productivity gains, it's usually not as a result of increasing volume. Vertical units usually serve individual workers who become more productive when they don't have to spend time picking when they should be doing something else.
+If acreage is at a premium, carousels can help. Horizontal systems may reduce space requirements to some extent just because of more efficient storage and a reduction in the number of workers needed to do the work, but the real savings come with vertical carousels. They use the top half of a facility that most plants underutilize-without requiring extra space for forklifts or ladders to reach something stored on upper shelves. In this case, the carousel brings the parts down to the stationary picker standing on the floor.
+
+<b>Accuracy</b>
+
+Software-driven carousels encourage accuracy. Even with simple keypad-controlled systems, workers are far less likely to make mistakes. In addition, items are less likely to be stored incorrectly, eliminating time wasted looking for lost items. In most material handling applications, accuracy is important not only because it contributes to productivity: it also can have an impact on customer satisfaction, return rates or subsequent stages in the manufacturing process.
+
+<b>Inventory Control</b>
+
+When a plant installs a carousel system, it must revise storage procedures. This usually requires a thorough physical inventory and a rationalization of the process to produce a clean baseline for a fresh start with accurate information and better procedures. The carousel's accuracy makes it much easier to maintain the pristine condition.
+With software-controlled systems, the situation is even better. The computer specifies which picks to make and moves the proper bin to where it's a simple matter for an operator to make the picks accurately. Then it removes the picked items from the inventory record.
+
+<b>Productivity</b>
+
+Vertical carousels deliver the correct part or tool to a worker quickly and accurately. Horizontal carousels, like vertical types, allow for enormous productivity gains.
+Horizontal systems are usually installed in pods, with perhaps two carousels serving each operator. The now-stationary operator follows the instructions on the computer monitor and light trees on the carousel. Because the operator does nothing but pick, the number-of-picks rate rises dramatically.
+
+

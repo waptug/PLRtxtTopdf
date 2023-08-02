@@ -1,0 +1,22 @@
+Title: 
+Outlook Express Message Rules-the Rules That Make Your Life Easy
+
+Word Count:
+501
+
+Summary:
+In today’s business world the e-mails have become more common than any other source of communication. Instant messaging services and added to the dependence of people on means of communication provided by the internet. With all the benefits this medium has brought to us, there are some problems associated with it. Receiving unsolicited e-mails is one such problem. All the technology producers provide their clients with the solution to such problems. Outlook Express Message ru...
+
+
+Keywords:
+outlook express, email, filter, spam filter ,anti virus,anti spam, virus,spam,security
+
+
+Article Body:
+In today’s business world the e-mails have become more common than any other source of communication. Instant messaging services and added to the dependence of people on means of communication provided by the internet. With all the benefits this medium has brought to us, there are some problems associated with it. Receiving unsolicited e-mails is one such problem. All the technology producers provide their clients with the solution to such problems. Outlook Express Message rules are one such set. Outlook Express is the plat form used to e-mail in many intranets. As it comes with the complete Microsoft office package, it is easy to use and is in common use for last few years in office environments around the globe. 
+
+Outlook Express message rules are very helpful in organizing your incoming e-mails. The facility can use its intelligence to judge where should an e-mail be placed after it is received. The Outlook Express message rules help us in doing so. These rules are actually the step by step procedures which are easy to do and they make your life easy if you follow them. For Example, If you want to create a SPAM filter, the following Outlook Express message rules are to be followed. 
+
+You have to open the outlook express first. Go to the Tools option and click on the message rules. Click on “Mail” in the sub-menu that appears. A New mail rule dialogue box will appear in front of you. Now tick the option which says “Where the subject line contains specific words” and in the second box tick the option “Move to specified folder”. Following next few steps will enable the Outlook Express message rules to be able to identify and place the e-mails to your convenience. In the third box you will need to give the description of the e-mail types. Here you can tell the outlook express to keep all the e-mails named SPAM in one folder. Now you can click OK and the outlook express message rule thus created will help you arrange your e-mails in different folders. Finally, in the same window, at the third number point you will have to tell the outlook express message rules that what is the name of the folder you want to put your SPAM e-mail in. For example, you can name it SPAM or junk folder. Now click ok and the outlook express message rules will help you arrange your e-mails and will reduce your burden. Now you will not need to go through any and every e-mail. The Spam e-mails will directly go to the Spam or Junk folder. As a result your time will be saved. You can take a look on those e-mails once a day and can delete them if none is of importance to you. Outlook express message rules are a feature which makes this system very popular in the business environment. Not only it is easy to use, but also, the outlook express message rules make it more dependable.
+
+

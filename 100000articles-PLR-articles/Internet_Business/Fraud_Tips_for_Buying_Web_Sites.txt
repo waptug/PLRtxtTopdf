@@ -1,0 +1,81 @@
+Title: 
+Fraud Tips for Buying Web Sites
+
+Word Count:
+692
+
+Summary:
+Buying a web site can be a risky proposition.   Here are a few tips to help you avoid some of those risks.
+
+
+Keywords:
+web site buying buy fraud tips
+
+
+Article Body:
+Buying a web site can be a risky proposition.   Here are a few tips to help you avoid some of those risks. 
+
+<b>Revenue</b>
+
+When valuing a web site, revenue is king.
+
+The standard method for valuing web sites is to take the monthly revenue and multiply it by another number to determine a fair value for the web site.
+
+The number is called the multiplier. Sellers like multipliers of 36. Buyers like multipliers of 3. Most deals end up somewhere between those two extremes.
+
+Fraud Tip: Be sure to look at revenue numbers over a year's time. Some sellers will have one good month or one good quarter and try to overprice their web sites based upon that. Don't buy a store thinking that every month is December.
+
+<b>PageRank</b>
+
+A web site with a PR6 main page is worth more than a web site with a PR5 home page.
+
+Fraud Tip: <a href="http://www.internet-search-engines-faq.com/pr-page-rank.shtml">PageRank is</a> easy to spoof by using a 301 Redirect, waiting for a Google PR update, taking down the 301 Redirect, and then selling the web site before the next Google PR update. Be sure to examine the backlinks to a web site to ensure that it deserves its PageRank.
+
+Fraud Tip: Some sellers will sell PR0 domains and say "The site doesn't have PR yet." The truth is that these sites have often been banned by Google. You are better off to wait for the next Google PR update.
+
+Fraud Tip: A seller may have a lot of their own links pointed to a domain, artificially inflating the PR. After the domain sale is completed, the seller will take down their links to the domain. Be sure to examine the backlinks to a web site to ensure that they are not all coming from the sellers other web sites.
+
+<b>Page Count</b>
+
+A web site with 5,000 pages is worth more than a web site with only 5 pages.
+
+Fraud Tip: Don't listen to how many pages a seller says the web site has. Check with the search engines. Web pages that are not indexed by the search engine do not have much value. If the seller has web pages that aren't being indexed, there may be hidden problems with the web site.
+
+<b>Domain Name</b>
+
+A web site with a great domain name is worth more than a web site without one.
+
+Fraud Tip: Make sure that the domain name does not have potential trademark violations. Don't buy "buying-and-selling-on-ebay.net" and wait for eBay to sue you. They will.
+
+<b>Copyright Compliance</b>
+
+A web site which is built with copyrighted material can cost you a lot more than what you pay for it.
+
+Fraud Tip: Check the text of the website for originality using Copyscape.
+
+Fraud Tip: Check the web site graphics using Google Image Search.
+
+Fraud Tip: Lyrics and Ringtones are copyrighted material. Don't buy this type of site unless you know this material was used with permission.
+
+<b>Originality</b>
+
+Some webmasters build a web site, make a dozen clones of the web site, and then sell off each clone as an original web site.
+
+The clone web sites are then penalized by Google's duplicate content filter.
+
+In addition, if there are a dozen web sites offering substantially the same content, those web sites will have to divide the same limited number of web visitors between them.
+
+Fraud Tip: Check the originality of the website for originality using Copyscape.
+
+<b>AdSense</b>
+
+Some webmasters sell their websites after they have been banned by AdSense.
+
+Fraud Tip: If you intend to use AdSense on a web site, examine the web site to ensure that it is compliant with the Google AdSense ToS and Program Policies.
+
+Tip: Before placing AdSense on any new domain that you purchase, write adsense-support@google.com and notify them that you have purchased a used domain. This will prevent your AdSense account from accidentally becoming confused with that of an AdSense cheat.
+
+
+Nothing will protect you from every fraudster, but these guidelines will help to improve your chances of buying a quality web site.
+
+

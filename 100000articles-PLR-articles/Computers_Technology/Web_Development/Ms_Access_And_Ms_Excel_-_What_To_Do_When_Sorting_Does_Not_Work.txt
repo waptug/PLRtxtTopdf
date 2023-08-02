@@ -1,0 +1,54 @@
+Title: 
+Ms Access And Ms Excel - What To Do When Sorting Does Not Work
+
+Word Count:
+488
+
+Summary:
+In both Microsoft Access and Microsoft Excel it is very easy to sort columns of text or numbers. Both programs supply us with toolbar buttons that allow either ascending sorts (1 ... 999) or descending sorts (999 ... 1). The Ascending button has a blue "A" above a red "Z" with a downward pointing arrow to the right of the 2 letters. The Descending button has a red "Z" above a blue "A" with a downward pointing arrow to the right of the 2 letters. Simply put the cursor in the c...
+
+
+Keywords:
+ms access,ms excel,sort,sorting,microsoft access
+
+
+Article Body:
+In both Microsoft Access and Microsoft Excel it is very easy to sort columns of text or numbers. Both programs supply us with toolbar buttons that allow either ascending sorts (1 ... 999) or descending sorts (999 ... 1). The Ascending button has a blue "A" above a red "Z" with a downward pointing arrow to the right of the 2 letters. The Descending button has a red "Z" above a blue "A" with a downward pointing arrow to the right of the 2 letters. Simply put the cursor in the column you want sorted and click once on the appropriate button.
+
+As I stated in that first paragraph, this works great for text or numbers. The challenges start when you want to sort mixed text and numbers. Here are 2 simple real life examples. (NOTE: the remainder of this article assumes we want ASCENDING sort order)
+
+Example 1: Part Numbers. On a computer, which comes first?
+
+- W4 
+- W39 
+- W212 
+
+Example 2: Addresses. On a computer, which comes first?
+
+- 4 Main Street 
+- 39 Main Street 
+- 212 Main Street 
+
+In both cases, the computer sorts them opposite to the way a human would normally want them sorted. A human automatically looks at the entire string of characters and then sorts using a more complex algorithm than a basic computer program’s sort logic, like that found in Access and Excel. To a computer, 2 comes before 4, so W212 sorts before W4.
+
+Let’s examine the Part Numbers problem first.
+
+If possible, have the way parts are numbered standardized so that all part numbers have the same number of characters. In our example, use W000004 and W000039 and W000212. This scheme allows for 999,999 unique part numbers AND it sorts the way we would expect it to sort.
+
+If it is too late, and you cannot create the required pattern, then create a new field in Access or a new column in Excel, and call it PartNumberSortable. Then, in Access, create a query that converts all the existing part numbers to a sortable version. It will be an update query with update logic like this placed under the PartNumberSortable column in the query:
+
+left([PartNumber],1) & format(mid([PartNumber],2),"000000")
+
+All reports and queries can now continue to list your traditional part numbers, but they can be sorted by the new field, PartNumberSortable, which would stay hidden. You would also have to modify any of your data entry forms and routines so that they generate the new field automatically.
+
+In Excel you can create a formula for the new column. Here is one that works.
+
+=LEFT(A1,1) & RIGHT("000000" & MID(A4,2,8),6)
+
+This formula assumes that the original part number is in column A.
+
+The address problem? Trickier. I’ll tackle that one in another article. In the meantime, for more MS Access tips like this, visit http://www.databaselessons.com
+
+p.s. All the examples were processed on a computer with MS Office 2000; newer versions of Access and Excel may work slightly differently, or have more intelligent sort capabilities.
+
+

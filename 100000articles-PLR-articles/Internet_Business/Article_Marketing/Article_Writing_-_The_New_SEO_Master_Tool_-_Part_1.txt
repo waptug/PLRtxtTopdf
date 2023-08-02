@@ -1,0 +1,48 @@
+Title: 
+Article Writing - The New SEO Master Tool - Part 1
+
+Word Count:
+498
+
+Summary:
+Since search engines were invented, there has been a constant head to head between the search engine algorithm writers and webmasters.  Every time the algorithms changed the webmasters tried to outwit them.  The internet is full if conflicting SEO advice on how to achieve top rankings. This article hopes to clear up some of the confusion.
+
+
+Keywords:
+SEO, search engine optimization, search engines, Google, algorithms, article writing
+
+
+Article Body:
+Since search engines were invented, there has been a constant head to head between the search engine algorithm writers and webmasters.  Every time the algorithms changed the webmasters tried to outwit them.  The internet is full if conflicting SEO advice on how to achieve top rankings. This article hopes to clear up some of the confusion.
+
+In the beginning it was sufficient to have an adequate amount of keywords on your website in order to rank highly in the search engines. This led to keyword spamming, a practice which still continues today amongst inexperienced webmasters.
+
+Then along came Google and the goal posts shifted.  Google put more emphasis on webpage linking,  Their thought was simple - if one website had a link to another website, then it was as if the first website was placing a vote of confidence for the second website's content and therefore the second website must be useful and relevant to the readers of the first website.  Thus the Google Page Rank was invented.
+
+Soon the webmasters and internet marketers got to work.  This saw the emergence of link forms and reciprocal linking sites.  Internet marketers declared that the more links that appeared on your site, the higher it would rank in Google.  Suddenly link pages from websites started to run into multiple pages as the race was on to exchange links with whoever would agree.  Some sites started to have thousands of links point to their sites and began rising in the search engine rankings.
+
+Of course the game of cat and mouse with Google continued as the search engine giant once again changed its algorithms.
+
+It is now widely accepted that previous linking strategies are failing because of what Google now expects from links.
+
+RELEVANCY
+
+Google expects links on a site to be relevant to the readers of the original site.
+
+ONE WAY LINKS
+
+Google gives a much higher priority to one-way links without a reciprocal link in return.
+
+ANCHOR TEXT
+
+It is better for the anchor text (the actual text that contains the link) to be keyword relevant to the content and also to vary as numerous instances of the same anchor text without variance can be interpreted as keyword spamming.
+
+The importance placed on the above factors has all but eliminated the effectiveness of previous linking strategies.  Most links on link page directories were exchanged with any site who would reciprocate.  Therefore most of these sites were not relevant to the original site.
+
+The reciprocal linking strategy also negates the one-way linking preferred by Google.  Most link directories contain the same anchor text in all links, as this anchor text was advertised on the "link to us" page.
+
+Therefore Google now looks upon these reciprocal link directories as having no value.  They do not distribute page rank and therefore do not help the ranking of your website.
+
+That is why I now describe article writing as the new SEO Master Tool - please see Part II of this article for the reasoning.
+
+

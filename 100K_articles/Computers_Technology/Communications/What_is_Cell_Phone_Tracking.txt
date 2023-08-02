@@ -1,0 +1,22 @@
+Title: 
+What is Cell Phone Tracking
+
+Word Count:
+203
+
+Summary:
+Most new phones are equipped with GPS (Global Positioning System) to be able to be tracked by the provider. These type of phones can be tracked by satellites that are orbiting the earth. These satellites used to only be used by the government to help during warfare, but over the past several years, this technology has been put to use in many new different ways.
+
+
+Keywords:
+Cell Phone Tracking
+
+
+Article Body:
+Most new phones are equipped with GPS (Global Positioning System) to be able to be tracked by the provider. These type of phones can be tracked by satellites that are orbiting the earth. These satellites used to only be used by the government to help during warfare, but over the past several years, this technology has been put to use in many new different ways.
+
+The basic principle behind the GPS technology that makes this work is the ancient practice of triangulation. If you're not familiar about this practice, it basically works like this. You use two very distinctive landmarks to mark the center position. The thing is you have to know the exact distance between the two landmarks in order to make this practice become accurate. Once you know the exact distance between the two landmarks, you make your self become the third vector to complete the triangle.
+
+GPS uses your cell phone with the GPS system inside it, and uses the satellite as its two basic landmarks. Based on how far the signal is away from the satellite's relative position in the sky, a computer can figure the location of the device giving off the signal to within a few feet.
+
+

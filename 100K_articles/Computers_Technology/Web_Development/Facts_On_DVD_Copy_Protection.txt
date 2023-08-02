@@ -1,0 +1,61 @@
+Title: 
+Facts On DVD Copy Protection
+
+Word Count:
+449
+
+Summary:
+Content protection system architecture (CPSA) is a basic-level security provided by manufacturers control access to information on DVDs. IBM, Intel, Matsushita, and Toshiba (the famous DVD 4C entity) developed the technology. These companies followed the guidelines provided by the Copy Protection Technical Working Group (CPTWG) to develop encryption, watermarking, protection of analog and digital outputs.
+
+Given below are different levels of Copy protection used DVD compani...
+
+
+Keywords:
+dvd,copy,protection,protected,burn,burning,ripping,software
+
+
+Article Body:
+Content protection system architecture (CPSA) is a basic-level security provided by manufacturers control access to information on DVDs. IBM, Intel, Matsushita, and Toshiba (the famous DVD 4C entity) developed the technology. These companies followed the guidelines provided by the Copy Protection Technical Working Group (CPTWG) to develop encryption, watermarking, protection of analog and digital outputs.
+
+Given below are different levels of Copy protection used DVD companies to safeguard information.
+
+The Analog CPS (used in Macrovision Software)
+
+Macrovision 7.0 prevents basic level analog copying of videotapes. The copy protection is often exhibited in color, distortion, rolling, black & white picture, and dark/light cycling.
+
+Popularly known as Copyguard, this copy protection is present on Computer video cards with composite or s-video (Y/C) output.
+
+Macrovision uses Analog protection to alter the video in two ways:
+
+• Using Color stripe technique
+• Modulating the Colorburst signal
+
+As stated above, the protection is extremely basic and is easily overcome by small softwares like DVD Red, Video Clarifier, Image Stabilizer, Color Corrector, DVD Red, and CopyMaster. Modern DVD players can overcome the Macrovision facility with professional time-base correctors (TBCs) installed within them
+
+The SCMS or the CGMS system
+
+The SCMS is a serial copy generation management system that is embedded in an outgoing video signal. The protection prevents the creation of clones and master copies, which can be used to generate more copies.
+
+A CGMS system is available in two formats:
+
+CGMS- A
+
+The analog CGMS protection encrypts data on NTSC line 21. Digital camcorders and video capture cards are able detect the presence and absence of a CGMS-A
+
+CGMS-D
+
+CGMS-D is used to encode information in DTCP and HDMI digital connections. Information is used on the IEEE 1394/FireWire protocol.
+
+Content Scramble System (CSS)
+
+The Content Scramble system is a deeper copy protection used in DVDs. Content Scramble System involves higher-level data encryption and prevents direct copying of video and DVD files. Matsushita and Toshiba created the Content Scramble System to protect the uniqueness of their DVDs.
+
+A CSS algorithm was considered absolute offering 409 probabilities in copy protection. However, the problem ended in October 1999, when a software to overcome the CSS algorithm was posted on the Internet.
+
+Digital Copy Protection System (DCPS)
+
+The Digital Copy protection is the successor of the CSS system. It was used to modify digital connections between components without allowing perfect digital copies. Digital Copy protection are of two types DTCP and HDCP. Both these protections are used in Intel, Sony, Hitachi, Matsushita, and Toshiba DVD discs and Video connections.
+
+All the offered copy protections are optional for the producer of the discs. The hardware versions of copy-protections are not reliable and often error prone, on the other hand, software versions are more restrictive
+
+

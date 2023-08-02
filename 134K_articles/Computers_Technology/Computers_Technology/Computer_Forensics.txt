@@ -1,0 +1,29 @@
+Title: 
+Computer Forensics
+
+Word Count:
+313
+
+Summary:
+Computer Forensics: Unique computer use policy.
+Computer use policy to suit your business needs and applying computer forensics to prevent the unauthorized access to employees’ computers.
+
+
+Keywords:
+Computer forensics, computer forensics consultant, computer use policy, computer forensic policy
+
+
+Article Body:
+The investigator waited until midnight, when the plant was empty, and thousands of computers had “slipped into screen-saver slumber.” Furtively, he sat in front of a colleague’s personal computer. In half an hour, the detective made an exact copy of the colleague’s hard drive. Then, using a program called Encase, he uncovered hundreds of pornographic images, which eventually cost the coworker his job.
+
+Workplace computers are company property, so employers may inspect their contents. Only in Connecticut must employers inform workers of computer monitoring. According to the American Management Association, 45 percent of our nation’s large companies use “computer forensics” to electronically monitor workers’ computers.
+
+The number of employees involved in Internet-related crimes or violations of company computer use policy is rising. Dow Chemical fired or disciplined 200 employees for trading dirty jokes and photos by e-mail. Then Xerox fired 40 workers, and the New York Times terminated 23 employees for similar violations.
+
+Recently a small firm in Utah noticed that its servers were full. An employee remarked that several workers were regularly downloading music albums from Napster. The albums ended up on the servers, taking up megabytes of valuable space. An innocent (or intentional?) act had disrupted this company’s day-to-day operations.
+
+Smaller businesses usually can’t afford the $200-450-per-hour fees charged by computer forensics consultants. But, by publishing company computer/internet policies and corresponding consequences for violations, requiring employees to sign compliance documents, regularly checking e-mail and hard drive contents, and asking employees to report infractions, small businesses can begin to police their own computer systems. Making employees aware that forensic software and personnel are available could deter some workers from wrongdoing. Call AmCheck for assistance in developing a computer use policy at 888-AMCHECK.
+
+(Source: Miller, Greg  “High-Tech Snooping All in Day’s Work; Security: Some Firms Are Now Using Computer Investigators to Uncover Employee Wrongdoing” Los Angeles Times HR News Wire.)
+
+

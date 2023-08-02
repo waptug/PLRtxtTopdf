@@ -1,0 +1,26 @@
+Title: 
+Computer War Games: How To Estimate Decisions Made By C & C Trainees
+
+Word Count:
+600
+
+Summary:
+Now that the Russian military is cash-strapped and can afford only a limited number of field preparation exercises, computer warfare games (CWG) ar of special importance for in operation(p) grooming of C & C agencies and elements because they make it potential to upgrade career-area skills of officers and rehearse modern C & C methods. Estimation of decisions made in the procedure by members of missile forces and artillery (MF & A) C & C authorised personnel department presen...
+
+
+Keywords:
+computer simulation
+
+
+Article Body:
+Now that the Russian military is cash-strapped and can afford only a limited number of field preparation exercises, computer warfare games (CWG) ar of special importance for in operation(p) grooming of C & C agencies and elements because they make it potential to upgrade career-area skills of officers and rehearse modern C & C methods. Estimation of decisions made in the procedure by members of missile forces and artillery (MF & A) C & C authorised personnel department presents the hardest part of it. Modern theory and methods of estimating the results of CWG education numerous on the one hand and, on the other, there no sufficiently studied and in general accepted methods and templates to estimation decisions being interpreted. This can be put down first of all to objective difficulties involved in formalizing the outgrowth of estimating the decisions of commanders (persons in authority): the complexity of initial operating(a)-tactical situations; considerable uncertainty of stimulation information; the numerous criteria used in estimating the trainees' decisions and the need for reducing the -making values to one generalized value. 
+
+Moreover, existing methods of processing the results of CWG breeding not quite adequate for dealing with uncertain stimulus ; the many criteria used in estimating decisions made by authoritative personnel office of C & C agencies of MF & A during state of war games either not into history or into chronicle without due thoughtfulness. This, as a rule, reduces estimate objectivity. In order to achieve the main objective of CWG--to train C & C staff office of MF & A and pinpoint their errors--the CWG headquarters should have tools to promptly and objectively approximation the decisions ; to idea the caliber of work by C & C agencies in the main and by person members of its force; to appraisal the performance of trainees on a leg-by-microscope stage basis. 
+
+Meeting these requirements calls for careful preparations of CWG, designing appropriate methods of estimating the performance of C & C agencies and someone members of the who undergo . Continued from page 1. Estimation of armed combat employment plans is based on decisions made at the stagecoach of preparation for the functioning of MF & A subsystems: reconnaissance, command and control, effective engagement and support. 
+
+To this end, we take indicators of the selected system for stimulant , whereas indicators of the other subsystems selected and normalized to match the computed units. This organization of the modeling cognitive process makes it conceivable a more complete gauge of the calibre of decisions made by C & C trainees in provision the functioning of MF & A subsystems. Thus, comparative approximation of decisions made by C & C and the drafting of recommendations for upgrading these decisions include: the assignment of problem (formulation of basic characteristics of decisions to be made of C & C trainees); for variants of computation experiments (determination of the functional-tactical background, usable-tactical scenarios of MF & A fight trading operations, forecasts of enemy fighting ); the development of an integrated information model ( squad versus supporting team up); determining the values of indicators essential for idea of decisions related to variants of scrap under considerateness; analysis of values of the indicators essential for estimations; of decisions for every of C & C trainees; the selection of the best arrived at by the trainees; analysis of mistakes made by the trainees and the drafting of recommendations for upgrading their decisions. 
+
+The suggested methodological approach makes it imaginable to upgrade the timbre (validation and speed) of of decisions made in various forms of useable of C & C agencies, such as games, command post exercises and during the course of solving somebody problems of battle employment of MF & A in army (corps).
+
+

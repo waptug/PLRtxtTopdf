@@ -1,0 +1,88 @@
+Title: 
+Using OsCommerce Templates for Online Stores
+
+Word Count:
+487
+
+Summary:
+The explosion of popularity of the World Wide Web has enabled small businesses to reach out and distribute their products worldwide whereas before they could only distribute locally. In addition to enabling existing businesses to expand their markets exponentially, countless of online retail distributors have sprung up and successfully taken advantage of an almost limitless customer base. One thing that all of these online stores have in common is that in order to effectively sell to their onlin
+
+
+Keywords:
+OsCommerce, OsCommerce Templates, Online Stores, Web Designs
+
+
+Article Body:
+The explosion of popularity of the World Wide Web has enabled small businesses to reach out 
+
+and distribute their products worldwide whereas before they could only distribute locally. 
+
+In addition to enabling existing businesses to expand their markets exponentially, countless 
+
+of online retail distributors have sprung up and successfully taken advantage of an almost 
+
+limitless customer base. One thing that all of these online stores have in common is that in 
+
+order to effectively sell to their online customers, they must be able to showcase their 
+
+products; all of them require e-commerce and online store management software.
+
+OsCommerce is a popular e-commerce software application that has one major advantage over 
+
+almost every other commercial software application available: it’s completely free. 
+
+Oscommerce is what is known as open-source software which means that it has been developed 
+
+solely by individuals and organizations that volunteer their time and services in order to 
+
+develop comprehensive alternatives to commercial software applications. OsCommerce is 
+
+distributed under the GNU Public License, which ensures that the software remains free even 
+
+if it is altered or improved. Other popular open-source software includes the Linux 
+
+operating system and the Mozilla line of products including the Firefox browser.
+Os Commerce is highly customizable and relatively robust, especially when its price is taken 
+
+into consideration. Updates and patches are fairly frequently released and current releases 
+
+are competitively stable when compared to similar commercial software. OsCommerce has been 
+
+designed specifically to provide a functionally base that adequately meets the most common 
+
+needs of online businesses without overcomplicated functionality.
+ 
+This type of setup is able to accomplish this feat by maintaining the need for robust 
+
+applications without being an oversimplified system through the use of its community-driven 
+
+system of add-ons. Contributions or add-ons are custom code contributed by the members of 
+
+the osCommerce community that adds increased flexibility and functionality to the program.
+OsCommerce is able to be installed on any web server that features MySQL and PHP. While the 
+
+core package is compatible with PHP 4, it is a quick fix to enable it for PHP 5. It features 
+
+an automatic web-based installation, multi-language support (English, Spanish, German by 
+
+default), and can support multiple forms of currency when paired with an available update. 
+
+Other features are dynamic pages, supports down loadable products as well as physical 
+
+products, and can be paired with numerous e-commerce automated payment systems.
+
+One large benefit of using the <ahref="http://www.snerdey.com/templatemonster.html?category=84">OsCommerce Templates</a> 
+
+combined with and all open source software is the strong sense of community and support that 
+
+is available online. While users cannot utilize a telephone hotline to a tech-support group 
+
+of any kind, most common questions have already been answered in one form or another and are 
+
+easily search able. Even if a problem arises that hasn’t been answered before, the 
+
+open-source community is always more than willing to share their expertise with other 
+
+OsCommerce users.
+
+

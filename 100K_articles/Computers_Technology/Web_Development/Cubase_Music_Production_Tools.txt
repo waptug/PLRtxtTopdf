@@ -1,0 +1,36 @@
+Title: 
+Cubase Music Production Tools
+
+Word Count:
+507
+
+Summary:
+Cubase is the most widely-used sequencing program in the world with well over one million registered users. Designed for professionals from the ground up, Cubase converges extraordinary sound quality, intuitive handling and a vast range of highly advanced audio and MIDI tools for composition, recording, editing and mixing.
+
+The first version of Cubase appeared in 1989 for the Atari ST computer although the programmer, Charlie Steinberg who gave his name to the company, had ...
+
+
+Keywords:
+cubase, music, production
+
+
+Article Body:
+Cubase is the most widely-used sequencing program in the world with well over one million registered users. Designed for professionals from the ground up, Cubase converges extraordinary sound quality, intuitive handling and a vast range of highly advanced audio and MIDI tools for composition, recording, editing and mixing.
+
+The first version of Cubase appeared in 1989 for the Atari ST computer although the programmer, Charlie Steinberg who gave his name to the company, had been creating sequencers for the Commodore 64 and Atari since the early 80s.
+
+The release of Cubase in 1993 on the Atari Falcon was a breakthrough in DSP software technology as realtime manipulation of audio was possible without the assistance of additional processor cards, as was the case with the more costly Pro Tools and other similar systems. Cubase also sports a well-designed and fully functional midi and score editor, which seems to come as an afterthought in many sequencers even Pro Tools. If you want to record and tweak the sound with Cubase's native reverbs, eq and dynamics, all of the tools of the trade are there and much more improved from a graphic user interface standpoint.
+
+Now owned by Yamaha, Steinberg is greatly benefiting from the music giants ownership. After all Yamaha is the largest musical instruments manufacturer in the world.
+
+Designed for professionals from the ground up, Cubase 4 sets a new standard for integrated music production software by combining powerful audio and MIDI recording, synthesis, editing, mixing and effects. The brand new VST3 effect plug-in set and new first-class VST instruments are only the beginning. There are also new VST instruments, including three outstanding new synthesizers (Prologue, Spector and Mystic as well as HALion One sample player with hundreds of new instruments based on Yamaha Motif waveform), and the new Instrument Track class accelerates handling of VST Instruments and combines MIDI and plug-in automation within the same track.
+
+Tailored for composers, musicians and project studios as well as students and educators, Cubase Studio 4 still offers professional music production technology thanks to a high-quality set of essential tools, but at a lower price point than Cubase 4.
+
+Customers who purchase Cubase 4 will find additional advanced features required for the final production phases including surround support, full Control Room functionality and specialised plug-ins and tools for creating a final mixdown.
+
+These music tools will allow you to write tunes in a way that more directly relates to musical notation. But the input may instead be one of the time value reporters included in the Music Tools. Pro Tools MP3 OptionBy including the Pro Tools MP3 Option, the Music Production Toolkit makes it easy to listen to a new mix on a portable device or quickly share it with other band members without having to use a separate application. We all need the proper tools to create music, and by "tools" I don't mean acertain brand of instrument or amplifier, but rather the music we hear inside.
+
+In Summary Cubase in my opinion at least is the Dewalt Power tool of the production world. Powerful and Reliable.
+
+

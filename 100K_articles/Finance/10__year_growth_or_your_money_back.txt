@@ -1,0 +1,72 @@
+Title: 
+10%/year growth or your money back
+
+Word Count:
+359
+
+Summary:
+Previously available only to a private trading group, this EA is now publicly available only from myfxtools.com. This EA has been compared to other EA's in the market and outperformed every one of them. The key to success of this system is that it is flexible to changing market conditions.
+
+
+Keywords:
+pointbreak ea, forex trading, automated trading
+
+
+Article Body:
+Previously available only to a private trading group, this EA is now publicly 
+available only from myfxtools.com. This EA has been compared to other EA's in 
+the market and outperformed every one of them. The key to success of this 
+system is that it is flexible to changing market conditions.
+
+Some of Point Break features:
+Small trades are continuously added above and below the opening position.
+The system will pyramiding, hedging or closing some positions depends which way the market moves.
+All trades are closed only when a net profit is reached and added to your account balance.
+Built in money management will automatically calculate the  correct position size for your risk level, and it can be used as a full automatic trading system or use it to create your own trading system.
+
+The main goal of multiple trading strategies is to make the drawdown become 
+
+smoother when there is choppy market.
+
+Since Point Break version 4, we invented multiple close strategies. Beside each 
+
+cycle has its own close profit procedure, there is additional simultaneous 
+
+close technique which close all open positions together on specific rule, this 
+
+make the close profit target be reached even faster, and as a result the 
+
+expanding drawdown probability become decrease also.
+
+Money Management
+
+The probability is that the maximum largest expected drawdown is about $1,500 
+
+(using 0.01 standard lot) with Conservative setting. Although it is not 
+
+impossible exceed this drawdown. 
+
+Based on the drawdown risk when the cycle ranges become expanding, trading more 
+
+than 0.01 lot per $5,000 for standard account is discouraged.  
+
+Fortunately, the EA uses automatically money management system that it will 
+
+increase the lot size when the profit accumulated. For example when the EA 
+
+start with $10,000, it start using 0.02 lots, it will increase to 0.03 lots 
+
+when the equity become $15,000.
+
+
+Average Monthly Return: 
+
+5-8% for Moderate Strategy (Drawdown Risk: 30% from balance).
+10-15% for Aggressive Strategy (Drawdown Risk: 50% from balance).
+
+We have the utmost confidence in the EA and it has been used to managed forex 
+
+accounts for 2 years already.  This EA is available in a 30-day trial format, 
+available from our site, and we guarantee if you dont make 10% a year we will refund your money back.
+
+

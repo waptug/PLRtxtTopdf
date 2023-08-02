@@ -1,0 +1,46 @@
+Title: 
+Microsoft Or Not?
+
+Word Count:
+834
+
+Summary:
+Friday was another repeat, this time from May 15, 2006. However, TCR does not want to leave you empty handed and is bringing you an article by one of our staff members, Paul. Although Paul is from the UK, he takes a keen interest in reading about Jim Cramer's Mad Money (and of course at the best JCMM site on the 'Net - The Cramer Report!) and hopes you will enjoy his insight into one of Jim's opinions.
+
+
+Keywords:
+microsoft, windows, jim cramer, mad money, linux
+
+
+Article Body:
+Friday was another repeat, this time from May 15, 2006. However, TCR does not want to leave you empty handed and is bringing you an article by one of our staff members, Paul. Although Paul is from the UK, he takes a keen interest in reading about Jim Cramer's Mad Money (and of course at the best JCMM site on the 'Net - The Cramer Report!) and hopes you will enjoy his insight into one of Jim's opinions.
+
+Cramer is currently favouring a buy into Microsoft (MSFT), believing the bad times are behind and it's back on the up. An analysis of the share prices over the past few months shows that Microsoft is over its lowest points ($21.51) and gradually climbing (currently $24.40). One could argue that Cramer is right.
+
+However, continued changes in Vista's release date, even if it means a more stable and secure Operating System will be released (or that is the theory). Microsoft's OS and webbrowser cycle is poor as it is:
+
+    * Windows XP was released in 2001
+    * Internet Explorer was released in 2001
+
+Internet Explorer 7 is set for release in the first half of 2007 and Windows Vista is set for general release in the first quarter of 2007. Both products will offer many improvements and new features over the older versions but the reality is very little of it is new.
+
+One feature to finally reach Internet Explorer is tabbed browser. To a non-technical person, who just uses what's supplied on their MS Windows desktop, this may seem new and exciting, however tabbed browser has been around since 1996 (although it was a feature in a non-public beta version of InternetWorks since 1994) and has been available in popular browsers such as Opera and MozillaFirefox for several years.
+
+Microsoft won the first browser war but now it's coming to a battle in many areas. Product cycles are quicker for open source software such as OpenOffice.org, MozillaFirefox and MozillaThunderbird - new features, bug fixes, and security updates are released regularly. Due to the products' open source nature it is easier and cheaper to develop plugins and compatible applications.
+
+On the operating system side, Microsoft has competition from Linux. Linux is now becoming more mature and is being adopted by governments
+and educational institutes alike. Novell (NOVL) is investing a lot of money in Linux, having bought German company SuSE Linux GmbH in Janu
+ary 2004.
+
+One key area that they have invested a lot in over the past year is Xen, which is virtualisation software and allows multiple Operating Systems (Linux or Windows) to be run as guests on a single system (the host, which can be either Linux or Windows). This is one threat Microsoft has seen and responded to by improving its Virtual Server support offering and making it available for free. However, is this too little too late?
+
+Xen's benefit is that it's open source, therefore bugs and security issues will be fixed quicker, possibly even before the problem is public knowledge, as the source code is visible for everyone to evaluate and test for insecurities. A quick response to bugs and security is critical in a business environment and an area Microsoft can not compete within due to its closed source nature.
+
+Virtualisation is becoming a more important area due to the increasing costs for power. Fortunately, hardware is becoming more powerful, often more powerful than is actually required, so virtualisation is definitely for today as well as the future. Why invest in hardware for 6 servers when all 6 could run from within one operating system through virtualisation?
+
+With Vista and Internet Explorer 7, Microsoft is trying to play catch-up, but the fact is it now has seriously tough competition. There is now a big take up of alternative browsers, office applications and operating systems. While the market change might be slow, it's definitely happening. I cannot see Microsoft being in the same market position in 10 years that it is now. Its market share will continue to evaporate.
+
+The Bottom Line:
+Microsoft is facing serious threats in the home, education and business desktop arena. It's facing threats in the business environment as a server (aside from as a webserver, where Linux/Unix is in the majority). Microsoft might hit a high when Vista is (finally) released, however Bill Gates stepping down in the way that he is does suggest to me that the bulk of the money has been made and it's now time to do something with it. The IT industry is often a "come today, gone tomorrow" so it's always difficult to choose which company to invest in, especially as the current trend is "over priced " when those companies that have managed to stick around decide to float themselves on the stock market. I won't advise you who to invest in, but I will say don't just look at the software/operating system area, also look at hardware and consultancy companies too. Big Blue, International Business Machines Corp (IBM), has been around for a long time and there will always be a demand for such companies.
+
+

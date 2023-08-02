@@ -1,0 +1,24 @@
+Title: 
+A Brief Introduction To Fiber Optics Technology
+
+Word Count:
+501
+
+Summary:
+Understanding how fiber optics are made and function for uses in everyday life is an intriguing work of art combined with science. Fiber optics has been fabricated from materials that transmit light and are made from a bundle of very thin glass or plastic fibers enclosed in a tube. One end is at a source of light and the other end is a camera lens, used to channel light and images around the bends and corners. Fiber optics have a highly transparent core of glass, or plastic e...
+
+
+Keywords:
+fiber cables,fiber optic tester,fiber optic light source,fiber cable,lc fiber,fiber patch cables
+
+
+Article Body:
+Understanding how fiber optics are made and function for uses in everyday life is an intriguing work of art combined with science. Fiber optics has been fabricated from materials that transmit light and are made from a bundle of very thin glass or plastic fibers enclosed in a tube. One end is at a source of light and the other end is a camera lens, used to channel light and images around the bends and corners. Fiber optics have a highly transparent core of glass, or plastic encircled by a covering called "cladding". Light is stimulated through a source on one end of the fiber optic and as the light travels through the tube, the cladding is there to keep it all inside. A bundle of fiber optics may be bent or twisted without distorting the image, as the cladding is designed to reflect these lighting images from inside the surface. This fiber optic light source can carry light over mass distances, ranging from a few inches to over 100 miles. 
+
+There are two kinds of fiber optics. The single-mode fiber optic is used for high speed and long distance transmissions because they have extremely tiny cores and they accept light only along the axis of the fibers. Tiny lasers send light directly into the fiber optic where there are low-loss connectors used to join the fibers within the system without substantially degrading the light signal. Then there are multi-mode which have much larger cores and accept light from a variety of angles and can use more types of light sources. Multi-mode fiber optics also use less expensive connectors, but they cannot be used over long distances as with the single-mode fiber optics. 
+
+Fiber optics have a large variety of uses. Most common and widely used in communication systems, fiber optic communication systems have a variety of features that make it superior to the systems that use the traditional copper cables. The use of fiber optics with these systems use a larger information-carrying capacity where they are not hassled with electrical interference and require fewer amplifiers then the copper cable systems. Fiber optic communication systems are installed in large networks of fiber optic bundles all around the world and even under the oceans. Many fiber optic testers are available to provide you with the best fiber optic equipment.
+
+In fiber optic communication systems, lasers are used to transmit messages in numeric code by flashing on and off at high speeds. This code can constitute a voice or an electronic file containing, text, numbers, or illustrations, all by using fiber optics. The light from many lasers are added together onto a single fiber optic enabling thousands of currents of data to pass through a single fiber optic cable at one time. This data will travel through the fiber optics and into interpreting devices to convert the messages back into the form of its original signals. Industries also use fiber optics to measure temperatures, pressure, acceleration and voltage, among an assortment of other uses.
+
+

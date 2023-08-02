@@ -1,0 +1,32 @@
+Title: 
+Repairing Outlook Express Mail Database
+
+Word Count:
+412
+
+Summary:
+SoftAmbulance for Outlook Express {undeletes|recovers} deleted {messages|email} quickly, easily and completely automatically.
+
+
+Keywords:
+outlook express repair, inbox repair, dbx repair, outlook express recovery, recover inbox
+
+
+Article Body:
+There are a number of things that can and do go wrong with your email when you use Outlook Express frequently. The cure to the problem depends on the cause. This guide explains causes of these problems and outines solutions to fix your Outlook Express mailboxes.
+
+There are known bugs in Outlook Express, and there are other programs in Windows running at the same time as you use Outlook Express. An application crash or a system failure or a sudden power outage can cause corruption in the mail database used by Outlook Express. Mailbox corruption can also happen because of a hardware malfunction or as a result of a virus infection. One can unintentionally delete an important message from Deleted Item.
+
+A known issue in Outlook Express limits the size of its mail database to 2 GB. If you use Outlook Express frequently and don't put your mail to a number of different mailboxes, you'll hit the limit sooner rather than later. When you do, Outlook Express will be unable to access its mail database, and will fail to access your messages. 
+
+Corrupted and inaccessible hard disks are also a problem. While you could just format the corrupted drive and continue using it without a problem, all data stored on it, including Outlook Express mail databases, would be lost.
+
+In order to recover to your email messages, you have to repair the damaged mail database. SoftAmbulance for Outlook Express made by http://softambulance.com/ can repair Outlook Express mail databases no matter what caused the damage. Virus attacks and system failures, crashed Outlook Express and corrupted hard drives are not a problem. Even if you can't access the drive, SoftAmbulance for Outlook Express can scan its surface sector by sector, locate, recover and repair corrupted Outlook Express databases. 
+
+In case of a message removed from Deleted Items, the fix is even simpler. When you erase a message from Deleted Items, it is not erased immediately. Instead, it is simply marked as erased; Outlook Express will not wipe or overwrite its content until the next scheduled compression is performed on its mail database. By default, Outlook Express only performs automatic database optimizations once every 100 runs or so; chances are high you'll be able to recover the deleted email before the optimization takes place.
+
+SoftAmbulance for Outlook Express recovers deleted email quickly, easily and completely automatically.
+
+A free evaluation version of SoftAmbulance for Outlook Express is available for download at http://softambulance.com/download.php
+
+

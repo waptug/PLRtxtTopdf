@@ -1,0 +1,26 @@
+Title: 
+FOREX: Exiting positions at a right time
+
+Word Count:
+612
+
+Summary:
+The presented article covers one of the most important (in author’s opinion) aspects of trading in general and FOREX trading in particular – managing of orders and positions. This includes choosing entry points, making decisions about exit points, stop-loss and take-profit of the trader. I hope this article will help new traders, who just began to work with FOREX, and also to experienced traders who trade regularly and regularly make or loose their money to the market.
+
+
+Keywords:
+forex, trading, money, management, strategy
+
+
+Article Body:
+The presented article covers one of the most important (in author’s opinion) aspects of trading in general and FOREX trading in particular – managing of orders and positions. This includes choosing entry points, making decisions about exit points, stop-loss and take-profit of the trader. I hope this article will help new traders, who just began to work with FOREX, and also to experienced traders who trade regularly and regularly make or loose their money to the market.
+
+When I started to trade FOREX and made my first big losses and profits I began to notice when very important thing about the whole trading process. While the right time to enter a position was rarely a problem for myself (nearly 80% of all my open positions had gone into the “green” profit zone), the problem was hidden in the determining the right exit point for that position. Not only was it important to cut my risk on the potential losses with stop-loss orders, but to limit my greediness and take profit when I can take it and make it as high as I can. There are many known guidelines and ways to enter a right position at a right time – like major economic news releases, global world events, technical indicators combinations, etc. But while the entering into a position is optional and trade can decide to miss as many good/bad entry point moments as they wish, this is untrue if we talk about exiting a position. Margin trading makes it impossible to wait too long with an open position. More than that, every open position in a certain way limits trader’s ability to trade.
+
+Choosing the good exit points for positions could be an easy task if only the FOREX market wasn’t so chaotic and volatile. In my opinion (backed by my trading experience) exit orders for every position should be toggled constantly with time and as the new market data (technical and fundamental) appear. 
+
+Let’s say, you took a short position on EUR/USD at 1.2563, at the time you are taking this position the support/resistance level is 1.2500/1.2620. You set your stop-loss order to 1.2625 and your take-profit order to 1.2505. So now, this position can be considered as an intraday or 2-3 days term position. This means that you must close it before it’s “term” is over, or it will become a very unpredictable position (because market will differ greatly from what it was at the time you have entered this position). After the position is taken and initial exit orders are set, you need to follow the market events and technical indicators to adjust your exit orders. The most important rule is to tighten the loss/profit limit as time goes by. Usually if I take a middle term position (2-4 days) I try to lower the stop and target order by 10-25 pips every day. I also monitor global events, trying to lower my stop-losses when very important news can hurt my position. If the profit is already quite high, I try to move my stop-loss the entry point, making a sure-win position. The main idea here is to find an equilibrium point between greed and caution. But as your position gets older the profit should be more limited and losses cut. Also, trader should always remember that if the market began to act unexpectedly, they need to be even more cautious with exit order, even if the position is still showing profits.
+
+Every trader has their own trading strategy and habits. I hope this article will make its readers think about such an important aspect of trading as the exit orders and this will only improve their trading results.
+
+

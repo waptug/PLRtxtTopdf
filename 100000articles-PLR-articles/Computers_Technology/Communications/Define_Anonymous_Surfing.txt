@@ -1,0 +1,56 @@
+Title: 
+Define Anonymous Surfing
+
+Word Count:
+710
+
+Summary:
+Anonymous surfing is browsing web sites privately.
+Anonymous surfing encompasses two different forms of privacy.
+
+
+Keywords:
+Anonymous, Surfing
+
+
+Article Body:
+Anonymous surfing is browsing web sites privately.
+Anonymous surfing encompasses two different forms of privacy:
+•	Privacy protection from the web site you are browsing. 
+•	Privacy protection from eavesdroppers who may be watching your network connection. 
+Why Anonymous Surfing?
+There are many reasons why someone would want to do anonymous surfing. People surf anonymously to protect themselves from the government, their employers, or nosy family members.
+People in Iran use anonymous surfing to prevent being executed in the streets. People in corporate America use anonymous surfing to avoid sharing the details of their personal lives with their employers. Everyone uses anonymous surfing to protect their privacy from nosy web sites and annoying advertisers.
+How does anonymous surfing work?
+Anonymous web surfing works by putting a proxy server between the user and the web site. The web browser talks to the proxy server, and the proxy server talks to the web site.
+The web site does not know who you are, it only knows who the anonymous proxy server is. The anonymous proxy server does know who you are -- so you had better choose an anonymous proxy server that you trust.
+There are four technical approaches utilized to enable anonymous surfing through a proxy server:
+Anonymous surfing through a web site
+With these systems, you browse the web site of the anonymous proxy server and enter in the URL of the web page you actually want to surf.
+Anonymous surfing through client applications
+With these systems, you download and install a client application which manages the details of anonymous surfing for you.
+Anonymous surfing though an anonymous web proxy service
+With these services, you configure your browser to point to an anonymous web proxy. These systems are public and are setup and advertised for anonymous proxy usage.
+Anonymous surfing though an anonymous server
+With these systems, you configure your browser to point to an anonymous web proxy. These systems are published in constantly updated lists on many web sites on the Internet. You normally do not know who is running each of these anonymous proxy servers. You hope it isn't someone who is recording your traffic.
+Anonymous surfing is browsing web sites privately.
+Anonymous surfing encompasses two different forms of privacy:
+•	Privacy protection from the web site you are browsing. 
+•	Privacy protection from eavesdroppers who may be watching your network connection. 
+Why Anonymous Surfing?
+There are many reasons why someone would want to do anonymous surfing. People surf anonymously to protect themselves from the government, their employers, or nosy family members.
+People in Iran use anonymous surfing to prevent being executed in the streets. People in corporate America use anonymous surfing to avoid sharing the details of their personal lives with their employers. Everyone uses anonymous surfing to protect their privacy from nosy web sites and annoying advertisers.
+How does anonymous surfing work?
+Anonymous web surfing works by putting a proxy server between the user and the web site. The web browser talks to the proxy server, and the proxy server talks to the web site.
+The web site does not know who you are, it only knows who the anonymous proxy server is. The anonymous proxy server does know who you are -- so you had better choose an anonymous proxy server that you trust.
+There are four technical approaches utilized to enable anonymous surfing through a proxy server:
+Anonymous surfing through a web site
+With these systems, you browse the web site of the anonymous proxy server and enter in the URL of the web page you actually want to surf.
+Anonymous surfing through client applications
+With these systems, you download and install a client application which manages the details of anonymous surfing for you.
+Anonymous surfing though an anonymous web proxy service
+With these services, you configure your browser to point to an anonymous web proxy. These systems are public and are setup and advertised for anonymous proxy usage.
+Anonymous surfing though an anonymous server
+With these systems, you configure your browser to point to an anonymous web proxy. These systems are published in constantly updated lists on many web sites on the Internet. You normally do not know who is running each of these anonymous proxy servers. You hope it isn't someone who is recording your traffic.
+
+

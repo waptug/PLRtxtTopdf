@@ -1,0 +1,25 @@
+Do You Need A Lot Of Bandwidth?
+
+Bandwidth measures the volume of data transmitted over an internet connection. You have to know how much bandwidth you need while choosing hosting plans.
+
+Be careful when someone claims they provide unlimited bandwidth or monthly transfer. Anyone claiming "Unlimited Bandwidth" is simply lying. There's no such thing as "Unlimited Bandwidth".
+
+I’ve never seen any broadband company offering an internet connection as "Unlimited Megabytes per Second." So, how could a web hosting company, which normally doesn't even own its own access lines, claims to customers that it will give them "Unlimited Bandwidth"?
+
+Most of the time, high bandwidth sites on these "Unlimited" plans will be disconnected, and no refund given. Normally, the web hosting company will say that the site violated its Acceptable Use Policy or Terms of Service.
+
+Whenever you visit a site promoting "Unlimited Bandwidth" as one of the account features, be sure to visit the Acceptable Use Policy, or the Terms of Service. Read the fine text about the so-called "Unlimited" disclaimer. 
+
+When you first look for web hosting services (those who state clearly bandwidth offered), you have to make your best estimation and watch your usage carefully in the first few months. Take these factors into consideration while estimating.
+
+**How many users will access your web site? 
+
+**How many pages to be access? 
+
+**How big are the graphic and HTML files? 
+
+Large audio/video files, computer programs, and file downloads require more bandwidth. Flash web sites use tons of bandwidth. Virtual Reality (VR) and full-length three-dimensional audio/visual presentations require the most bandwidth of all.
+
+Though it is not accurate, but still gives you something to work with until your site has been online for a while and actual traffic statistics have been generated.
+
+Don’t fall for the unlimited bandwidth trap that some companies throw at you.

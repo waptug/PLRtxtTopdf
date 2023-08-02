@@ -1,0 +1,28 @@
+Title: 
+What is a netmask calculator and how do I calculate it?
+
+Word Count:
+342
+
+Summary:
+A netmask calculator is basically a script or a program that automatically calculates the netmask numbers for you. Netmask is simply a code of numbers that is used to correctly transfer messages among machines in the same subnet. So, a netmask would work together with the router to determine whether the data goes. For example, if the host’s IP address was 63.243.31.41 and the netmask was 255.255.255.0, the netmask is responsible for telling the machine what numbers in IP address are the subnet and what numbers in the IP address is the machine. In this case, 63.172.202 would be the subnet part while 41 would be the machine part. So, any machine in the 63.172.202 would be part of the (local) subnet and thus, the netmask is exactly what assists in differentiating the IP address.
+
+
+Keywords:
+Netmask Calculator
+
+
+Article Body:
+A netmask calculator is basically a script or a program that automatically calculates the netmask numbers for you. Netmask is simply a code of numbers that is used to correctly transfer messages among machines in the same subnet. So, a netmask would work together with the router to determine whether the data goes. For example, if the host’s IP address was 63.243.31.41 and the netmask was 255.255.255.0, the netmask is responsible for telling the machine what numbers in IP address are the subnet and what numbers in the IP address is the machine. In this case, 63.172.202 would be the subnet part while 41 would be the machine part. So, any machine in the 63.172.202 would be part of the (local) subnet and thus, the netmask is exactly what assists in differentiating the IP address.
+
+
+Behind the Calculation of a Netmask
+Before anything else, it is advised to use freely available online netmask calculators as most modern equipments do not need a full understanding of how the netmask works to correctly configure them. In fact, most of the newer models have been hard coded to force a 255.255.255.0 netmask. Nonetheless, such calculating knowledge in needed when dealing with older equipments.
+
+Firstly an internet protocol (IP) address is divided into three main sections when looking at the first octet (xxx.xxx.xxx.xxx): Class A, Class B, and Class C. One of the rules of the IP address are that Class A should be 0-127, Class B should be 128-191, and Class C should be 192-222 with everything else reserved for a special reason. Basically, these classes in the IP addresses are what determine the netmask. Class A means a netmask of 255.0.0.0, Class B means a netmask of 255.255.0.0, and Class C means a netmask of 255.255.255.0. Thus, a simple knowledge of which class implies which netmask is the key to calculating the netmask.
+
+
+Free Online Netmask Calculators
+Again, most of the modern equipments used today have been hardcoded to have a netmask of 255.255.255.0. However, there are also readily available scripts and softwares available that can help in the calculation.
+
+

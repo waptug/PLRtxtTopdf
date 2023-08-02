@@ -1,0 +1,116 @@
+Title: 
+AdSense Fraud
+
+Word Count:
+2428
+
+Summary:
+Google AdSense fraud is one of the diseases that plague the Ad Words advertisers. The AdSense program essentially allows website publishers/owners to sign up with Google, enabling them to display Google Ads on their sites.
+
+
+Keywords:
+Cclick fraud, Google click fraud
+
+
+Article Body:
+It's worthwhile to examine Google's definition of Google AdSense and Click Fraud , before delving deeper into “AdSense Fraud” . 
+
+Google AdSense fraud is one of the diseases that plague the Ad Words advertisers. The AdSense program essentially allows website publishers/owners to sign up with Google, enabling them to display Google Ads on their sites. These publishers essentially act as “Google Partners”. The ads chosen by the Google bot for display are contextual and the ads are related to the contents of the publisher's website, more specifically that particular web page. The intent for Google is to capitalize on the traffic to these (in practice) niche sites and provide highly direct targeted traffic to the advertiser. A subset of the users of the Google Partner website, click on those ads and Google charges the advertiser per click. Google shares the booty with the website publisher but the revenue sharing ratio falls under Google's “undisclosed “criteria. While the exact amount can be reverse engineered, the take home lesson is that the final amount is proportional to Google's income from that click. 
+
+In theory it's a match made in heaven. The advertiser gets good ROI through targeted traffic, the publisher gets to monetize the traffic on their website and the web browser gets to buy that classic CD that he couldn't live without. Not to mention that Google gets a wad of cash. The gods of lucre smile beneficently on all. 
+
+Unfortunately, this happy façade hides blemishes. Severe ones. For all Google AdSense Publishers are not created equal. While (we daresay) many advertisers have a genuine website, providing a valuable or interesting service to the world wide community, there is a significant number of unscrupulous operators who are out there to prey on the advertisers. These creatures of the night (and we will explain later why we use that term), make websites for the express purpose of milking AdSense revenue. 
+
+This category of fraudsters deserves a taxonomy of its own, which we have developed (the other categories, click fraud and impression fraud are even bigger problems in some industries). In the interest of not being gender biased, we have alternated between genders. We hope that our lighthearted tone does not mask the revulsion that we feel towards these cheats. 
+
+Regressive Fraudster ( aka ClickMonkey ): 
+
+This guy is at the bottom of the food chain. Inspired by the riches of his neighbor Ms. Jones, who has been making more than ten grand a month in AdSense revenue, he plans a course of action. He “invests” in a clickbot software( a simple google search reveals many) and gets a list of anonymous proxy addresses. He then goes to register a few domains and hires someone off of elance to create a “network of sites”and “ click bot ” . He hopes that the interlinked sites will provide each some “link popularity” and increase his page rank. If only it were that simple! He then proceeds to use the 30 dollar clickbot to start clicking on the sites. Or he could click on them himself manually using the proxies. We don't call him click monkey for nothing. He clicks and clicks all the way to see his account getting banned. No banana for this monkey! His calls of despair to google fall on deaf ears. This person is likely to quit, but sometimes retries to get up the food chain, the Wanna -Be-Fraudster. 
+
+Wanna -Be Fraudster ( aka BOZO): 
+
+This girl searches for high paying keywords like “home loan equity” (current ad words rate: 45 dollar), or “web hosting” (ad words costing 20 dollar). She correctly guesses that the AdSense payout is proportional to what Google earns and therefore homes in on such words. Her strategy is to make a page with contents that are appropriate for the targeted high payout keyword. She moves ahead by clicking on the link multiple times and recruits friends and family to give them a click. Or ten! 
+
+Little does she know that Google has a 45 day inspection period before she get her nubby little fingers on that cash. With little to no knowledge of Click through Ratio , her greed couples with her ignorance. Seeing her ill-gotten paper wealth multiplying in her AdSense interface, she increases the clicks. Google however inspects the CTR and throws a fit when they see a CTR exceeding 20%. Furthermore, Google notices clicks mostly originating from a few IP addresses and that essentially seals her fate (or rather docks her earnings). That virtual cash is now just some deleted bytes on a hard disk on Google's servers. She moans, nay she rail against the cruelty of Google's policy. Some of these people wisely cease and desist such activities, perhaps philosophizing about the NFL (no free lunch) theorem. Others however see it as ground school for the next stage of nefarious behavior. The Almost-There Fraudster. 
+
+Almost-There Fraudster ( aka SmartAlec ): 
+
+The archetypical ATF is supremely confident in his ability to fool Google. Like the BOZO, he looks for high paying keywords and makes appropriate website(s). Let's assume that he is in a third world country, just to make the case more interesting. The case described here is 1 year old news. He has read this article and taken the learnt the subsequent lesson . He knows that that the clicks from the IP Addresses of USA, UK & Canada are worth much more than the clicks from the IP Addresses from the third world countries. He therefore seeks to befriend people from such IP addresses by logging onto messenger services. 
+
+This way, he gets the unique, unrelated IP clicks and (he hopes) that Google is fooled. Remember “creature of the night”. Well, these people typically are more than a few time zone removed from the US or Canada and therefore are up at odd hours whenever they feel that their targets are most likely to be active. Plus they sometimes have to deal with “inconveniences” like a day job. 
+
+AT fraud thinks that the clicks he obtained by trolling on these sites is a job well done. He has got clicks from the IP address of his choice .. An interesting factoid is that for AdSense, state also matters. Clicks from Washington and New York State have the highest payout for AdSense Fraud. 
+
+He has just one problem. His tragic flaw. While he worked so hard to get the unique IP and high earnings, he is not able to maintain a good CTR. He is likely to cross the limit of 30-40% of daily CTR and 10-20% of overall CTR. He ends up in the same purgatory as the BOZO. The account is banned, and he gets the abominated email. Yes, the “AdSense account closure”. Almost-There is never good enough in this nether world of AdSense gaming. Although it is possible that he would have made a few thousand dollars before the punishment catches up to his crime. Crime doesn't quite pay, now does it? Well, gentle reader, unfortunately crime _is_ paying to the next category. Fraudster Maestro ( aka Satan's Spawn). 
+
+Fraudster Maestro ( aka Satan's Spawn): 
+
+This category of fraudsters is the most sophisticated and rarely gets caught by google . She has researched the high paying keywords as well as the CTR issues well. She has the smoothest lines in the business of soliciting clicks. She can flirt online, and ask to click the “link” for her picture. Or she may claim that clicking the link causes the hungry child to be fed in Ethiopia . Let's follow a typical “simple” chat session: 
+
+US User : hello
+
+FM Fraud: what are your coordinates, handsome?
+
+US User : NY , NY
+
+FM Fraud: Oh! Wish I could be there. Can you help out a damsel in distress?
+
+US User : sure
+
+AT Fraud: I have made a site and want to see if all the links on this page are working or not. Can you please click on the links and see if the other page loads?
+
+US User: Sure. Link?
+
+FM Fraud:www.fraudstersite.com/high-value-keyword-page.html
+
+US User : wait! Yes I checked all the links and they are working fine.
+
+FM Fraud:
+Thanks
+
+US User : so can we talk about you now? ( Message Not Delivered as the fraudster has blocked the User and is busy looking for a new victim)
+
+
+And she has lots of tricks up her repertoire besides chatting up strangers. She knows about opt in lists, usenet and blogs where she can snare the victims. Technically savvy and able to empathize with her victims she doesn't let arrogance get in her way to success. Since she is very mindful of the CTR issues she has a secret weapon. She has optimized her site for some low paying keywords which are really not competitive. She organically gets lots of traffic (but for things unrelated to those competitive high paying keywords). In her website, she may be giving away free greeting cards Or free screensavers. End result is a fabulous impression count. The second step for her is to makes unrelated pages on the same site and these pages pertain to the high paying keywords. These keywords are used to attract the victims of chat sessions. The process of getting the clicks is different but the results due to CTR are very lucrative. 
+
+So, how does all this geek talk affect the PPC advertiser? It's a 5 billion dollar+ dollar market(for exact projections onto the future, please check out our FAQ, and with a 20% + fraud rate, we are talking about a 1 BILLION dollars fraud per year. Even Dr. Evil may be impressed by such a number. It's greater than the cumulative GNP of a few banana republics. And a fair chunk is ending up in the coffers of these fraudsters. We know from anecdotal evidence, how people are clearing up to 20 grand a month. All, courtesy of the hapless PPC advertiser. 
+We want to emphasize that there are lots of authentic sites serving genuine content. But unfortunately the existence of these people (as discussed above) reduces the ROI of many advertisers to the extent that they rethink their interest in PPC. In the word of one of our organic SEO customers, with PPC “you always get a little less back than you put in”. It needn't be that way, if you watch carefully where your ad words traffic is coming from and take some steps (such as traffic analysis or at the very least a log file analysis) to protect arm yourself. Look for patterns, some of which are obvious(such as large traffic spikes from India). Unfortunately other patterns may require a doctorate in artificial intelligence. Still the keyword is to stay nimble. Convincing search engines to refund money is a lot tougher and a lot more work than proactively watching for problem visitors and taking steps that you deem appropriate. Before the situation goes out of hand. Remember, an ounce of prevention…
+
+
+
+We want to emphasize that there are lots of authentic sites serving genuine content. But unfortunately the existence of these people (as discussed above) reduces the ROI of many advertisers to the extent that they rethink their interest in PPC. In the word of one of our organic SEO customers, with PPC “you always get a little less back than you put in”. It needn't be that way, if you stay nimble. Convincing search engines to refund money is a lot tougher and a lot more work than proactively watching for problem visitors and taking steps that you deem appropriate. 
+
+Some things you can do to stay ahead of the game. This is by NO means an exhaustive list, but it's a start. It's sorted by the level of protection in ascending that you may need. 
+
+1> Let your visitors know that you are tracking them and know quite a bit about them. For instance, if you visit www.sofizar.com , you will see information about yourself. You can display this information to all your visitors, or only to some of them. It can be in-your-face or subtle, but it will remind at least some of the fraudsters that they are being watched. Sofizar provides free sample code and connection  to its database allowing you to display “premium” information(like City, ISP, ISP contact number). 
+
+2> Invest in a serious visitor tracking software. Set alarms based on the number of times a person clicks on your site in a certain time period(hourly, weekly, monthly). Display the same information to someone who is definitely PPCing your budget to death, as a custom message box. Something harsh, if the pattern keeps  up.  “We are logging the usage, and we are noticing that you keep clicking on our site through PPC. If you don't cease, we would be forced to call your local ISP at +91-23-344-5678”(if you see the information that we can glean about visitors, you will know we can get even more specific). This will weed some of the casual fraudsters. 
+
+3> Start checking for things that we have discussed earlier, by investing in an industrial strength data collection package. Based on your data collection, one strategy is to score each visitor, deducting(or adding points), based on the following (non exhaustive) list. 
+
+a. Visitor conversion/past conversion history. 
+
+b. Visit Depth Analysis. 
+
+c. Visit Time Analysis(time spent on each page, and time of day the visit happens). 
+
+d. Cookies/Javascript/”Unknown OS” 
+
+e. Keyword Cost analysis. 
+
+f. Anonymous Proxy Server 
+
+g. Is part of “Fraudster list”. 
+
+h. Country/Localization analysis(are you really targeting people in Sao Paolo , Brazil for your French Restaurant in New York ?). 
+
+4> Do pattern matching. See what your top 20% of your customers do as part of a “macro pattern” and match the visitor against that pattern. 
+
+Keep in  mind that you will get a few “false positives” and vice versa. A few innocent people may get tagged unfairly as “fraudsters” while a few “fraudsters” may well give you the slip. It's not an exact science, but over a period of time you can get fairly close. If you decide to take up your case with Google, you have to make a very convincing case. All based on meticulous data, instead of (what may be considered by them as) paranoia. 
+
+Over the long term, as the threat evolves and the  fraudsters improve, you have to keep adapting your strategy using your friends, diligent data collection, statistics and pattern matching. 
+
+If you have any further question, comments or want  us to give you a free evaluation if your PPC campaign  is a likely magnet for fraudsters, please email to: art@sofizar.com . 
+For more information about adsense fraud visit: http://www.sofizar.com/adsense-fraud.php
+
+

@@ -1,0 +1,28 @@
+Title: 
+How To Easily Speed Up Your Pc
+
+Word Count:
+353
+
+Summary:
+This is the age of instant gratification.  People can send mail to each other instantly, see and speak with people all across the world, and also pay for almost anything with no wait at all.  You can usually get the instantaneous results you want, because computers are becoming more and more powerful everyday.  
+
+However, over time a computer will start to run slower and slower unless some maintenance activities are performed to speed up the pc.  A few actions that you can ...
+
+
+Keywords:
+
+
+
+Article Body:
+This is the age of instant gratification.  People can send mail to each other instantly, see and speak with people all across the world, and also pay for almost anything with no wait at all.  You can usually get the instantaneous results you want, because computers are becoming more and more powerful everyday.  
+
+However, over time a computer will start to run slower and slower unless some maintenance activities are performed to speed up the pc.  A few actions that you can take to speed up your pc are to remove adware/malware programs, defragment your hard drive, and limit the amount of programs that startup automatically.
+
+One of the main reasons that computers run slow is that they have been infected with adware or malware.  Adware and malware usually are used to try to make their creator money by directing you to advertising that you did not request, or downloading programs that you do not want.  There are a few good programs available to find and remove adware and malware programs.
+
+A fragmented hard drive can also cause a major slowdown if it is not cleaned up.  Usually a hard drive tries to store files contiguously (together).  However as a hard drive gets more full; it is not able to put all of the new files together.  When this happens a computer will slow down.  This is very easy to fix by running the Disk Defragmenter to clean up these files, and put them back in order, which can really speed up your pc.
+
+The final step to speed up your pc is to limit the amount of programs that startup automatically every time your computer reboots.  Most of these programs will startup as a convenience so they are ready when you need them, but if you do not use them often, then they just become a resource hog.  The best thing to do is to set them to not startup automatically, but just run them as you need them.  Only allow the programs that you can’t live without run automatically.  This one simple step can speed up your pc dramatically.
+
+

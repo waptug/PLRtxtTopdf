@@ -1,0 +1,131 @@
+Title: 
+Cisco Routing:  "ip default-network" vs. Default Static Routes
+
+Word Count:
+526
+
+Summary:
+It's easy to think that "ip default-network" and default static routes do the same thing with the same results.  In this illustrated article, Chris Bryant, CCIE #12933, shows why this isn't quite the case.
+
+
+Keywords:
+cisco, ccna, ccnp, routing, ip default-network, default static route, pass, exam, free, routing, switching, ping
+
+
+Article Body:
+One point of confusion for some CCNA and CCNP candidates is the difference between configuring a static default route and using the Cisco routing command ip default-network.
+
+
+At first glance, they appear to do the same thing. Both configure a destination to which packets should be routed if there is no more specific route in the routing table. 
+
+
+The major difference between these two options is that configuring a static default route only defines a default route for the router you're configuring it on, while ip default-network will propagate the route via its routing protocol. 
+
+
+Let's examine the routing tables of a hub-and-spoke network using the ip default-network command. R1 is the hub and R2 and R3 are the spokes. They are directly connected via the network 172.12.123.0 /24, and each has a loopback with a 32-bit mask that are numbered according to the router number (1.1.1.1, etc.) RIP is running on all three routers and the loopbacks are advertised.
+
+
+R1 has another serial interface with the IP address 10.1.1.1 /24, and this network has been flagged as a default network with the command ip default-network 10.0.0.0 . It is not being advertised by RIP. 
+
+
+The routing protocol will then advertise this route. With RIP, the default network is advertised as 0.0.0.0 . (With IGRP, it appears as the network number, but is marked as an IGRP External route. ) This route has been designated a candidate default route on R1, as we see with the asterisk next to the 10.0.0.0 /24 network (code table removed for brevity): 
+
+
+R1#show ip route 
+
+
+Gateway of last resort is not set 
+
+
+1.0.0.0/32 is subnetted, 1 subnets 
+
+C 1.1.1.1 is directly connected, Loopback0 
+
+R 2.0.0.0/8 [120/1] via 172.12.123.2, 00:00:11, Serial0 
+
+R 3.0.0.0/8 [120/1] via 172.12.123.3, 00:00:11, Serial0 
+
+172.12.0.0/16 is variably subnetted, 2 subnets, 2 masks
+ 
+C 172.12.21.0/30 is directly connected, BRI0 
+
+C 172.12.123.0/24 is directly connected, Serial0 
+
+* 10.0.0.0/24 is subnetted, 1 subnets 
+
+C 10.1.1.0 is directly connected, Serial1
+
+
+On R2 and R3, a default RIP route is now seen (code tables again deleted):
+ 
+
+R2#show ip route 
+
+Gateway of last resort is 172.12.123.1 to network 0.0.0.0 
+
+
+R 1.0.0.0/8 [120/1] via 172.12.123.1, 00:00:00, Serial0.213 
+
+2.0.0.0/32 is subnetted, 1 subnets 
+
+C 2.2.2.2 is directly connected, Loopback0 
+
+R 3.0.0.0/8 [120/2] via 172.12.123.1, 00:00:00, Serial0.213 
+
+172.12.0.0/16 is variably subnetted, 2 subnets, 2 masks 
+
+C 172.12.21.0/30 is directly connected, BRI0 
+
+C 172.12.123.0/24 is directly connected, Serial0.213 
+
+R* 0.0.0.0/0 [120/1] via 172.12.123.1, 00:00:00, Serial0.213 
+
+
+R3#show ip route 
+
+Gateway of last resort is 172.12.123.1 to network 0.0.0.0 
+
+
+R 1.0.0.0/8 [120/1] via 172.12.123.1, 00:00:27, Serial0.31 
+
+R 2.0.0.0/8 [120/2] via 172.12.123.1, 00:00:28, Serial0.31 
+
+3.0.0.0/32 is subnetted, 1 subnets 
+
+C 3.3.3.3 is directly connected, Loopback0 
+
+172.12.0.0/24 is subnetted, 1 subnets 
+
+C 172.12.123.0 is directly connected, Serial0.31 
+
+R* 0.0.0.0/0 [120/1] via 172.12.123.1, 00:00:28, Serial0.31 
+
+
+And the default route works, since we can ping 10.1.1.1 from both R2 and R3. Since they have no other match in their routing tables, they use the default route. 
+
+
+R2#ping 10.1.1.1 
+
+
+Type escape sequence to abort. 
+
+Sending 5, 100-byte ICMP Echos to 10.1.1.1, timeout is 2 seconds: 
+!!!!! 
+
+Success rate is 100 percent (5/5), round-trip min/avg/max = 68/68/68 ms 
+
+
+R3#ping 10.1.1.1 
+
+
+Type escape sequence to abort. 
+
+Sending 5, 100-byte ICMP Echos to 10.1.1.1, timeout is 2 seconds: 
+!!!!! 
+
+Success rate is 100 percent (5/5), round-trip min/avg/max = 68/68/68 ms 
+
+
+When deciding whether to use a default static route or a default network, keep in mind that if you want the routing protocol to propagate the default route, the ip default-network command will do that for you. But if you want only the local router to have the default route, a static IP route is the way to go.
+
+

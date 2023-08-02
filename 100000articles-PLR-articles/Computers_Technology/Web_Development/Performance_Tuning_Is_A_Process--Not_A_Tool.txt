@@ -1,0 +1,71 @@
+Title: 
+Performance Tuning Is A Process--Not A Tool
+
+Word Count:
+600
+
+Summary:
+MULTI-MILLION DOLLAR loses occur every day due to poor application testing plans, too much trust in automated testing tools and a general lack of the big picture. Plans are made without understanding how IT all works together. Yet more automated tools hit the market every day.
+
+The Web is alive with ads for software that will do the following:
+
+Analyze your application response time from the perspective of the User experience.
+
+End to End transparent application monitor...
+
+
+Keywords:
+Sniffer, Wireshark, Application, Performance, Testing, Troubleshooting, Analysis, Network, TCP/IP
+
+
+Article Body:
+MULTI-MILLION DOLLAR loses occur every day due to poor application testing plans, too much trust in automated testing tools and a general lack of the big picture. Plans are made without understanding how IT all works together. Yet more automated tools hit the market every day.
+
+The Web is alive with ads for software that will do the following:
+
+Analyze your application response time from the perspective of the User experience.
+
+End to End transparent application monitoring.
+
+Create “Load” that exactly simulates user experience.
+
+Automate application performance analysis & troubleshooting.
+
+Based on these products and their claims, you would think that the goal of IT Management is to automate all aspects of Network & Application Performance Troubleshooting. Nevertheless, here is an important question: Is that not a little like asking a chicken to guard the chicken coop? Who is monitoring the monitor tool? Is it not just another application? This goes around in circles.
+
+Humans use tools, highly skilled and experienced humans. To rely so heavily on automation to monitor other automation is to hope one potential failure catches another potential failure. Furthermore, our experience has shown that companies all too often utilize under-skilled staff for these roles, hoping that the tool will know what to do with itself or simple default configurations will apply. Catch 22? Well, yes.
+
+You cannot take the need for skill, training and experience out of the equation; even if you believe automated tools can do the job. Yet experience has shown that not only do many automated tools not perform exactly as anticipated, the skill level of the human being configuring these tools and tests is critical to the success of the test.
+
+Here are a few typical problems:
+
+It is the business user, possibly backed up by the application Subject Matter Expert (SME) that designs most automated application tests. Between them there is little expertise regarding the network components, Operating Systems and TCP aspects of the way the application works on a network--or across a WAN. Frequently they create problems that are not reality based, resulting in testing artificial problems due to incomplete testing designs--and missing the true “gotchas.”
+
+Network & Application testing crosses many corporate departments and boundaries. This wears people down and makes them ready to accept any result that will at least get the testing completed. The results are not surprising from this perspective.
+
+The incident of “successful” application performance in testing is not equal to the incidence of successful application performance in real-life.
+
+Network & application performance problems continue on--month after month, year after year. Users stop sending in tickets but still complain to their manager. This results in a schism between perceived problems and reported problems.
+
+The Solution:
+
+There is really only one consistently successful approach to troubleshooting under-performing networks & applications, the Network & Application Performance Analysis Team. This approach has a near 100% success rate at providing resolution. It involves utilizing a highly skilled “SWAT” team of individuals that look at all the component factors. These factors include the following:
+
+Servers
+Directory Services
+Operating Systems
+TCP issues
+Other Protocol Issues
+Workstation builds
+LAN Issues
+WAN Issues
+User Skills & Training
+Database Optimization
+Interaction with other Applications
+Server Consolidation / Virtualization Issues
+
+The team works with a client’s Subject Matter Experts for the application and database involved. Frequently, a Network & Application Performance Analysis Team member is the first to understand the application from the bottom up to the top.
+
+People working with other humans--interviewing users, network staff, application staff and others--utilizing protocol analyzers such as Sniffer, Ethereal, WireShark and others, will find the problem consistently. Resolution is always the Primary Goal.
+
+

@@ -1,0 +1,73 @@
+Title: 
+Calculating Lease Payments…… Do Your Own Arithmetic…it's easy
+
+Word Count:
+965
+
+Summary:
+Determining new car lease calculations and payments can be intimidating but need not be. Just use common arithmetic. 
+
+Methods to calculate lease payments are not uniform between manufacturers, but there are two primary methods: the level payment and the money-factor method. A hand calculator is all that's needed. No need to go on the Internet.
+
+To save time, ask the prospective car dealer for the method it uses and the topic below may get you very close to home.
+
+
+Keywords:
+Calculate lease payments, lease, calculate, buy, car, resale value, calculate resale value, calculate lease payment
+
+
+Article Body:
+Calculate Lease payments…it's easier than you think
+
+There is no uniform method in the car industry to calculate lease payments because many car manufacturers develop their own mathematics to calculate lease payments.
+But, the two most widely used are the ones based on level payments and the one based on what is known as a money factor. And knowing how to calculate either one will help you equalize your negotiation challenge with the car dealer.
+
+<b>Most common…..level payments</b>
+In many ways this has a lot in common with any loan, or even a mortgage on a house. But a car lease is different because it has two parts, as follows:
+
+<b>The residual value</b>
+ This is what the car will be worth at the end of the lease. Assume the car costs $20,000 and the lease contract states that at the end of the lease it will still be worth $12,000….that $12,000 is called the residual value. It's the intrinsic value of what resides in the car. If the interest rate quoted is 4% then every year the lessee (that's you) must pay the dealer $4% of $12,000 or $480/year, or $40/month.
+
+<b>Depreciation</b>
+If the car costs $20,000 and the residual is $12,000, what about the other $8,000? That's considered a loan, and any banker (call one up and ask one……or use the Internet) will tell you from his little book that to repay an $8,000 loan in 36 monthly payments will cost $236.19/month.
+
+Add that to the $40/month residual interest payment and you get the calculated lease payment of $276.19/month.
+
+<b>Money factor calculations</b>
+This concept embodies some smoke and mirrors. It is mathematically unsound but is used because it is easy to figure out without calling a banker and works fine for a 360month lease even it if it is slightly inaccurate 
+
+<b>$20,000 car money-factor calculations</b>
+Divide the $ 8,000 loan by 36 (the term of this lease in months) and get $222.22. Don't ask me why.
+
+Then take the 4% interest rate, change it to .04 and divide it by 24. No one knows why to use 24, it just seems to work regardless of the number of months in the lease. Don't ask why, just do it. If you ask your former high school math teacher about it he will faint when you tell him this money-factor method is widely used in the car industry.
+
+This gives a money factor of .04/24 = .001666
+
+Now multiply this money factor times the cost of the whole car of $20,000 plus the $12,000 residual (isn't this really wild?) and we get .001666 x $32,000 or $53.33/month.
+Then the total lease is $53.33 plus $222.22 or $275.55. Now you see that the money-factor calculation is really mathematics black art.
+
+These two calculations, level payment and money-factor, are not precisely the same for several reasons. They differ only by $276.19 minus #275.55 or $0.64. The $40.00/month in the level payment method is based on a typical bank loan in which the payment is made at the start of the month. In a car loan it is usually made at the end of the month.
+
+In addition, some car leases require the first payment up front, which also changes the dynamics from a 36-month payoff to a 35-month payoff.
+
+<b>Finding accurate residual values</b>
+This will take a little homework and shoe leather. The Internet may not be the best place to try to get this information. Surveys show that 60% of people looking to buy or
+<b> lease</b> a <b>car</b> do some searching on the Internet. This has made the manufacturers less willing to disclose <b>residual values</b>. In fact, some of the Big Three (GM, Ford, Chrysler) will not print them in quotations previously offered by dealers. You have a legal right them (Reg. M Consumer protection, U.S.) before signing a contract. Ask for the residual value and it must be given, but likely it will be handwritten or verbal.
+
+<b>Residual values from the Internet</b>
+Although the Internet is jammed with car sites offering residual values, they are mostly approximations. The largest automotive database I know of ($50,000 annual license fee to use) offers differing residual values for each of four different geographical areas of the United States. In the Northeast U.S. it offers one set of values for the western half of a certain State and a different set for the eastern half.
+
+Therefore the only reliable residual value is the one you get from the local dealer you intend to deal with. But this also can become confusing. For a while, Chrysler published a percentage residual for the car, but different percent residuals for any accessories you intended to add. So there was no single residual % for the entire car until all the accessories were added in, stirred and shaken, and out came a number. Divide that number by the MSRP and there was the residual percent. Good luck. 
+
+<b>Internet sources for residual values</b>
+Residual values on the Internet are really an average. Manufacturers are uniform in not giving out residual values to third parties, so one has to wonder where the Internet sources get them. 
+
+<b>Best source for a residual value</b>
+Depending on whom you lease the car from, use whatever means of calculation it uses. 
+Ask for it ahead of time, before you intend to appear and negotiate a price If you buy a Ford, you're in for a surprise as it is rumored it uses still another method. But to get close to all of them use the level payment method described above.
+
+To get the same answer as the dealer's quote, always remember to add in the extras: license fee, first payment up front (sometimes) option to purchase, State taxes, fresh air in all the tires, and any other accessories.
+
+Copyright 2006 by Beacon Data LLC All rights reserved
+
+

@@ -1,0 +1,37 @@
+Title: 
+How to recover deleted or lost files
+
+Word Count:
+587
+
+Summary:
+There is no need to panic when your disk drive fails or you cannot find an important file. This article describes the common reasons for losing data, and the best ways to recover it.
+
+
+Keywords:
+hard disk, data recovery, undelete, unerase, recover deleted files, recover lost files, CD data recovery, recover, deleted, photos, documents, files
+
+
+Article Body:
+It's a sickening feeling, the moment you realise that some important document, or irreplaceable photos have vanished from your computer. But that is no reason to despair. The chances are that the data is still present, even if you know you deleted it. Your computer operating system just does not know how to find it any more.
+
+The four most common reasons for data loss are:
+
+    * Deletion. You deleted the file by accident during a disk cleanup, or because you thought it was no longer required. It is not in the Recycle Bin. However, the data will still exist until the space it occupied on the disk is are-used by another file. 
+    * Overwriting. You saved a new file over the top of the old one. However, the old data may still exist, and be recoverable.
+    * File system corruption. The disk suddenly appears empty, or the file and folder names contain gibberish. The files probably still exist, but the pointers to them have been lost or corrupted and the operating system cannot find them.
+    * Physical damage or hardware failure. You receive error messages when you try to read the disk, or it is not recognised by the computer at all. The data is still likely to be present on the disk itself, but the drive is incapable of accessing it. 
+
+In each case, there is a good chance that the data still exists. The computer operating system isn't able to see it, but data recovery software may be able to. If the problem is a hardware failure then a data recovery service may be able to get back the data using special equipment.
+
+Prepare for data recovery
+
+There is one cardinal rule of data recovery: for the best chance of recovering the files you must not write any new data to the disk they were stored on. The old data will only remain on the disk until the space it occupied is used by another file. If the disk is your computer's main drive, then the drive is being written to all the time. You should turn off the computer immediately, and use another computer to search for a solution to recover your data. You should put your computer's hard disk in another computer to do the data recovery, or use data recovery that runs from a CD or floppy disk, because installing the data recovery software on the drive could overwrite the very data you want to recover.
+
+Choosing the data recovery method
+
+Data recovery tools use different methods to try to recover data. Some tools are designed for recovering deleted files, others are better at restoring overwritten files, or recovering files from disks that are physically damaged. Some data recovery software products have been developed specifically for recovering photo images, or Microsoft Word or Excel document files. Such products may succeed where others fail because they understand what these files look like, and can recognise their data when other clues to its existence have vanished.
+
+It can be difficult to choose the most appropriate data recovery method. Tech-Pro has created a website called Get Data Back. It has a Data Recovery Wizard that asks questions about the data you have lost and how it was lost, and then recommends the product that is most likely to be successful. It will also advise you if it would be better to use a professional data recovery service. Give the Get Data Back data recovery site (http://www.get-data-back.com) a try if you need to recover lost files.
+
+

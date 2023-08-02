@@ -1,0 +1,15 @@
+What Are Use Case Studies?
+
+A use case study is designed to describe a situation in which the program is being utilized by the end user.  It will tell a story of sorts describing how the program works and the input of the user.  It does not tell how the program was developed.  The details of the programming are not included in the use case study.  You are trying to express the concept behind the creation.
+
+Use case studies are generally one of two types.  Type one is the essential use case.  This is the type of use case study which is created at the beginning of a project.  The idea behind the essential use case is to show what the program is going to do.  There is no technical jargon or reference to programming procedures in the essential use case study.
+
+The second type of use case study is the real use case.  This use case study will show the hands on of the application.  Usually there will be slides showing how the system is operated.  This use case study is developed mid-way through the development of the program.  Stakeholders can see how the program is instrumental in it's usage.
+
+There may be several use case studies written for every scenario the development team can think of.  This way the application is put through it paces, so to speak, on paper.  Notes can be taken or suggestions made to better the program.  Allowing the stakeholders to see the end results of the program without going completely through the development stage can save time and money.  
+
+The business analyst will ask for suggestions when writing the use case studies.  He or she will draw on the knowledge of the IT department.  He or she will account for what the end user is asking for as well.  The business analyst will draw up scenarios with the stakeholders in mind also.
+
+Use case studies are communication tools used to allow end users to express what they feel is necessary in the system.  The stakeholders can see how the user interacts with the system and can make suggestions to improve the system.  The use case studies communicate to the IT department what the system is being designed for.  It shows hands on applications the system will be used in.   The user will be able to say the system program is doing what is required.  The IT department will be able to say the system program is functioning as required.  When the system program is done and in place, everyone will know what to expect.  The stakeholders, end users, and IT should be satisfied with the outcome.
+
+Use case studies do more than just show scenarios of the application.  They can be instrumental in training documentation as well.  The stakeholder or end user may want to keep the use case studies for training purposes or to help in developing training manuals.  The business analyst who uses great care and painstaking intuition when developing use case studies may be rewarded in more ways than one.

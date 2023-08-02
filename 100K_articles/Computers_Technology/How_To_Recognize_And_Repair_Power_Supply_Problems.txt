@@ -1,0 +1,66 @@
+Title: 
+How To Recognize And Repair Power Supply Problems
+
+Word Count:
+859
+
+Summary:
+The Power Supply convert's your regular household current into low DC voltage used by the computer. When this component fails,there is simply no activity going on wih your computer.Remember to do the easy troubleshooting first.Inspect the Power Supply for any damage.Double-Check all connections.
+
+Learning how to check your power supply and how to replace it when needed can be a life saver if you're a computer buff or in business with the trusted PC.Don't take for granted th...
+
+
+Keywords:
+computer repair,computer upgrades,computer training,software
+
+
+Article Body:
+The Power Supply convert's your regular household current into low DC voltage used by the computer. When this component fails,there is simply no activity going on wih your computer.Remember to do the easy troubleshooting first.Inspect the Power Supply for any damage.Double-Check all connections.
+
+Learning how to check your power supply and how to replace it when needed can be a life saver if you're a computer buff or in business with the trusted PC.Don't take for granted the simple pleasure of turning on your PC and everything works just fine.
+
+We turned on one of our computers recently and in about one hour,it just re-booted itself.And it continued doing so about 10 times a day until we found out the power supply was the culprit.Things to look for when your power supply is going bad or just dies on you are the following.
+
+NO POWER TO THE COMPUTER
+
+Here you must first check the wall outlet for power by connecting another device such as a radio or lamp to be sure power is present.If the computer is connected through a surge protector,check it as well.
+
+If the wall out has power,check the power cable going to the PC to see if AC voltage is making its way to the system unit.Do this with the use of a multimeter.
+
+If there is power,you will have to open the PC and check for power from the power supply to the motherboard.
+
+When using a multimeter to check voltage,be sure you have a good ground for the black lead of the multimeter.
+
+RE-BOOTING PROBLEMS
+
+One main problem you may face with an ailing Power Supply is that it may re-boot the computer without any warning.All information is lost and it seems as though this happens at the worst possible time.
+
+Booting errors when the computer first start's up is another indicator of this component going on the blink.
+
+POWER DISTRIBUTION PROBLEMS
+
+When the power supply begins to fail,you may receive power at one device and not another.For example,the Hard Drive may receive power but the CDROM Drive has nothing at all.
+
+Another headache with would cause re-booting is the intermittent power going to the drives or the motherboard itself.Follow the steps below to check your power supply should you experience some of the above problems.
+
+CHECKING THE POWER SUPPLY
+
+If the wall outlet,and the power cord are good,make sure the connection at the motherboard is secure.Then you may have to face the fact that the power supply itself is bad.If you have a Multimeter you can test the power supply output before purchasing a new one.Simply follow these steps.
+
+Turn off the PC,but do not unplug it,open the system unit. Set the multimeter to read DC volts in the next range higher than 12 volts.Locate a power connector similair to the hard drive,or cdrom drive connector that is unused and turn on the PC.
+
+You can also unplug a drive connector and use it as well.Turn on the PC and insert the BLACK probe into the power connector on one of the BLACK wires.Touch the RED probe to the YELLOW wire on the power connector.
+
+The multimeter reading should be +12 volts Now touch the RED probe to the RED wire and the reading should be +5 volts.If no readings or different readings occured,you'll have to replace the power supply.If the readings were correct,you should check the P8 or P9 connectors at the motherboard. These connectors may also be named P4 and P5.To check these connectors,perform the following...
+
+Insert the BLACK probe into P8 at one of the BLACK wires. Insert the RED probe into the P8 connector at the RED wire. The reading on the multimeter should be +5 volts
+
+Check the power going to the Motherboard connections by inserting the RED probe into P8 at the YELLOW wire and you should get +12 volts.Leave the BLACK wire touching the black wire at the P8 connector.Check the BLUE wire and the reading should be a -12 volts.
+
+Now move the BLACK probe to the BLACK wire on the P9 connector.Test the WHITE wire by inserting the RED probe and the reading should be -5 volts.Check the RED wires on the P9 connector and you should get +5 volts on each red wire.You won't get exactly 5 or 12 volts but the readings will be very close, such as 5.02 volts.
+
+If the Power Supply is a couple of volts off,in either direction,such as when the RED wire should be reading -5 volts but it reads -8 volts,or if there are no readings,replace the power supply.
+
+DO NOT remove the power supply from the system unit case when performing these tests.DO NOT perform these tests if you do not feel comfortable.Be sure to remove any and all electrical static build-up from your clothes and body BEFORE touching any parts inside the system unit.And NEVER open the power supply case for any reason,since high voltage may be present.
+
+

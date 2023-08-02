@@ -1,0 +1,28 @@
+Title: 
+What is Subnetting?
+
+Word Count:
+378
+
+Summary:
+Subnetting is, at it’s essence, the process of allocating bits from a host portion of a network as a network portion of that same network.
+
+
+Keywords:
+subnetting
+
+
+Article Body:
+Subnetting is, at it’s essence, the process of allocating bits from a host portion of a network as a network portion of that same network. This is done with networks that are using the Internet Protocol, or IP address system to create a subnetwork (also known as a subnet) of logical addresses within a particularly limited address space that is assigned to a business, organization or other large group.
+
+With every IP address, there is a subnet mask associated with it. The subnet mask is designed to determine which and how many IP addresses are on any given local network. The router or firewall is known as a default gateway, as it is the device that is contacted every time a computer wants to access another computer that is not located within the same local network.
+
+The subnet mask that most people are familiar with is 255.255.255.0. This is the default mask for most systems. As is the case with all IP addresses, the last digit can range from 1 to 254--and that’s it. If there are more than 254 computers or other network devices that require IP addresses on a network, the subnet mask will run out of space.
+
+How is subnetting used to extend the number of devices on a local network?
+
+There are two different options for a systems administrator when a local network runs out of space in it‚Äôs subnet mask. One option is to change the subnet mask to allow for more devices. The other option is to add a router to extend the IP address range and essentially start over with a fresh subnet mask. Faster networks that have a lot of data transferring around should add a switch or router while smaller networks that will not exceed 300 devices should extend the subnet mask.
+
+While keeping with the same IP addresses, all hosts should have their subnet masks changed to 255.255.252.0. With this simple change via subnetting, the network will now be able to grow much larger and have a range of IP addresses from 192.168.0.0 to 192.168.3.254. With subnetting in this example, it is extremely important that all hosts are changed to the new subnet mask. If they are not, the network will experience communication issues and various other performance problems with the network.
+
+

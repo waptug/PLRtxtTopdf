@@ -1,0 +1,26 @@
+Title: 
+Rotary Tables and Rotary Stages
+
+Word Count:
+393
+
+Summary:
+A rotary table is designed to be used in conjunction with vertical mills. When a rotary table is put on a vertical mill what you create is a machine that is theoretically capable of reproducing itself.
+
+
+Keywords:
+linear motors rotary tables
+
+
+Article Body:
+A rotary table is designed to be used in conjunction with vertical mills. When a rotary table is put on a vertical mill what you create is a machine that is theoretically capable of reproducing itself.
+
+A standard milling machine set-up usually involves aligning the work with the table and then with the spindle. The table can be accurately moved with the hand wheels making this a simple operation for most. Aligning a part on a rotary table however can be difficult because the work has to be clamped into position. This is not always easy when you are working alone.
+
+Most experts suggest that you start by doing the rotary table work first which can eliminate the need for precision aligning. Aligning the milling spindle with the rotary table can be done by indicating the hole in the center of the rotary table. You then need to spot drill the center on the work you wish to have line up with the rotary table. Finally put a pointer in the spindle that is accurate. After doing this set the work under the spindle and lower the head until it engages with the center mark at this point clamp the part down. And there you have it, locked and ready to work with.
+
+Rotary stages are used in industrial robots, fiber optics and photonics, vision systems, machine tools, assembly, semiconductor equipment, medical component laser machining, electronic manufacturing, and other high-performance industrial automation applications. Rotary stages provide the best angular positioning and velocity control. Applications range from indexing to high-speed laser machining to precision wafer inspection. All of these applications are fine tuned to the best numbers possible using rotary stages.
+
+There are several types of rotary stages at this point in the game however the ones getting the most press are the laser guided rotary stages. Utilizing lasers helps create the most absolute positioning to date. Some of the newer rotary stages are ideal for applications that require X, Y and q degrees of movement for ambient and high vacuum environments. They tend to feature high resolution, high stability as well as being available for ambient and high vacuum environments. Experts also agree that having the choice of lateral and rotational degrees of freedom also lends that extra precision that is needed in delicate jobs as well as the strength for larger projects.
+
+

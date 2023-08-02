@@ -1,0 +1,46 @@
+Title: 
+Help to choose your monitor
+
+Word Count:
+767
+
+Summary:
+Making the right choice in a computer display or monitor is an important part of involving yourself in today's web-browsing and multi-media technology.
+
+
+Keywords:
+monitors,lcd monitors
+
+
+Article Body:
+Making the right choice in a computer display or monitor is an important part of involving yourself in today's web-browsing and multi-media technology. Right now, you are viewing this in a computer monitor (unless you've had someone print it for you and you're reading it on paper because your monitor made it completely unreadable) and how it appears to you depends entirely on the quality of your display.
+
+Monitors
+
+What are the differences between an LCD screen and CRT monitors?
+
+LCD screens are the current trendy looking; flat screen displays that are now sold with practically all bundles, whereas CRT screens are bulky older style technology. Apart from the space saving that the flat screen LCD (Liquid Crystal Display) offers, it also generates very little heat and radiation, uses considerably less power and is less reflective. LCD screens present excellent image quality. CRT (Cathode Ray Tube) monitors on the other hand, occupy a lot more space on your desktop, do generate heat and use more power and usually have a curved screen (although flat screen CRT monitors are available).
+
+From a display point of view, the major difference between the two lies in how the image is created, and the resolution that the screen can accommodate. Each pixel in a LCD screen is produced by a tiny cell containing a layer of liquid crystals that bend light in response to electric energy. While they can be clearer than CRT screens, they are limited by only one optimal resolution. Setting the screen at a higher than optimal resolution reduces the overall screen image, and at a lower one causes the screen image to appear "pixelated".
+
+A CRT screen creates its image through cathode ray emissions striking the phosphorous lining on the back of the tube glass. It offers more detail in images and colour at higher resolutions.
+
+One other difference to note is the display size. Display size is the diagonal measurement across the screen. A 17 inch (these have not been metricated yet) display is measured from one corner diagonally to its opposite. In a LCD display, this covers the entire framed display, but in a CRT monitor, the display image is usually 8%-10% smaller than the framed screen area, which means a 17" CRT monitor has to have a bigger framed screen than a LCD.
+
+Compatibility
+
+There are possibly two issues of compatibility to consider. One is the compatibility of the screen with your workspace and the work you want it to do. If you have a small space, then the slim features of the LCD will be a major part of your decision. It is better to buy an all-digital screen rather than one that plugs into a standard video card (which is analogue) and then translate an analogue signal to digital. An all-digital display will offer brighter images. Compatibility with your computer's video card is another consideration. You need to be sure that the video card you have in your computer will provide the screen resolution your require from your monitor and match the refresh rate.
+
+Technical considerations
+
+Dot Pitch. This is the distance between the same colour dots in any direction on a display. A smaller dot pitch enables easier reading of characters and better colour clarity. The maximum dot pitch you should consider for high quality graphics and text is .28 for a 17" monitor and .31 for a 21" monitor.
+
+Screen resolution. The number of pixels a screen displays determines the resolution. A resolution of 1024 x 768 has 1024 pixels in the horizontal plane, and 768 in the vertical. The higher the resolution, the more detail is displayed. Be sure that your video card matches the resolution you require.
+
+Refresh rate. This is the frequency at which the screen image is being refreshed to avoid flicker. A vertical refresh rate of 75 HZ (cycles per second) delivers a flicker-free environment and will reduce eyestrain and fatigue.
+
+Cost
+
+Of course it all comes down to what you can afford. But a good quality display is a good investment in your work environment. CRT monitors can be bought very cheaply. Digital LCDs can become very expensive. Manufacturers are now offering displays with inbuilt television receivers and speaker systems than can enhance your overall environment and improve the flexibility of your purchase. Ultimately, it depends on what you want to see on your desk as much as what youn want to see on your monitor. You can spend as little as $200.00 or well over $2,000 and you can do it all online. Myshopping.com.au offers you that special advanyage of being able to compare the specifications and prices of hundreds of different brands and vendors.
+
+

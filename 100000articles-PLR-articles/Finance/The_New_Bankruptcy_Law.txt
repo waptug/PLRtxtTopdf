@@ -1,0 +1,36 @@
+Title: 
+The New Bankruptcy Law
+
+Word Count:
+920
+
+Summary:
+With the new bankruptcy law in effect as of October 17, 2005, there is a lot of confusion with regard to the new "means test" requirement. The means test will be used by the courts to determine eligibility for Chapter 7 or Chapter 13 bankruptcy. The purpose of this article is to explain in plain language how the means test works, so that consumers can get a better idea of how they will be affected under the new rules.
+
+
+Keywords:
+new bankruptcy law,means test,median income,chapter 13,chapter 7
+
+
+Article Body:
+With the new bankruptcy law in effect as of October 17, 2005, there is a lot of confusion with regard to the new "means test" requirement. The means test will be used by the courts to determine eligibility for Chapter 7 or Chapter 13 bankruptcy. The purpose of this article is to explain in plain language how the means test works, so that consumers can get a better idea of how they will be affected under the new rules.
+
+When most people think of bankruptcy, they think in terms of Chapter 7, where the unsecured debts are normally discharged in full. Bankruptcy of any variety is a difficult ordeal at best, but at least with Chapter 7, a debtor can wipe out the debts in full and get a fresh start. Chapter 13, however, is another story, since the debtor must pay back a significant portion of the debt over a 3-5 year period, with 5 years being the standard under the new law.
+
+Prior to the advent of the "Bankruptcy Abuse Prevention and Consumer Protection Act of 2005," the most common reason for someone to file under Chapter 13 was to avoid the loss of equity in their home or other property. And while equity protection will continue to be a big reason for people to choose Chapter 13 over Chapter 7, the new rules will force many people to file under Chapter 13 even if they have NO equity. That's because the means test will take into account the debtor's income level.
+
+To apply the means test, the courts will look at the debtor's average income for the 6 months prior to filing and compare it to the median income for that state. For example, the median annual income for a single wage-earner in California is $42,012. If the income is below the median, then Chapter 7 remains open as an option. If the income exceeds the median, the remaining parts of the means test will be applied.
+
+This is where it gets a little bit trickier. The next step in the calculation takes income less living expenses (excluding payments on the debts included in the bankruptcy), and multiplies that figure times 60. This represents the amount of income available over a 5-year period for repayment of the debt obligations.
+
+If the income available for debt repayment over that 5-year period is $10,000 or more, then Chapter 13 will be required. In other words, anyone earning above the state median, and with at least $166.67 per month of available income, will automatically be denied Chapter 7. So for example, if the court determines that you have $200 per month income above living expenses, $200 times 60 is $12,000. Since $12,000 is above $10,000, you're stuck with Chapter 13.
+
+What happens if you are above the median income but do NOT have at least $166.67 per month to pay toward your debts? Then the final part of the means test is applied. If the available income is less than $100 per month, then Chapter 7 again becomes an option. If the available income is between $100 and $166.66, then it is measured against the debt as a percentage, with 25% being the benchmark.
+
+In other words, let's say your income is above the median, your debt is $50,000, and you only have $125 of available monthly income. We take $125 times 60 months (5 years), which equals $7,500 total. Since $7,500 is less than 25% of your $50,000 debt, Chapter 7 is still a possible option for you. If your debt was only $25,000, then your $7,500 of available income would exceed 25% of your debt and you would be required to file under Chapter 13.
+
+To sum up, first figure out whether you are above or below the median income for your state (median income figures are available at http://www.new-bankruptcy-law-info.com). Be sure to account for your spouse's income if you are a two-income family. Next, deduct your average monthly living expenses from your monthly income and multiply by 60. If the result is above $10,000, you're stuck with Chapter 13. If the result is below $6,000, you may still be able to file Chapter 7. If the result is between $6,000 and $10,000, compare it to 25% of your debt. Above 25%, you're looking at Chapter 13 for sure.
+
+Now, in these examples, I have ignored a very important aspect of the new bankruptcy law. As stated above, the amount of monthly income available toward debt repayment is determined by subtracting living expenses from income. However, the figures used by the court for living expenses are NOT your actual documented living expenses, but rather the schedules used by the IRS in the collection of taxes. A big problem here for most consumers is that their household budgets will not reflect the harsh reality of the IRS approved numbers. So even if you think you are "safe," and will be able to file Chapter 7 because you don't have $100 per month to spare, the court may rule otherwise and still force you into Chapter 13. Some of your actual expenses may be disallowed. What remains to be seen is how the courts will handle cases where the cost of mortgages or home rentals are inflated well above the government schedules. Will debtors be expected to move into cheaper housing to meet the court's required schedule for living expenses? No one has any answers to these questions yet. It will be up to the courts to interpret the new law in practice as cases proceed through the system.
+
+

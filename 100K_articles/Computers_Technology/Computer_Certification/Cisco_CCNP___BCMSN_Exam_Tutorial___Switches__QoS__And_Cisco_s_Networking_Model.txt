@@ -1,0 +1,34 @@
+Title: 
+Cisco CCNP / BCMSN Exam Tutorial:  Switches, QoS, And Cisco's Networking Model
+
+Word Count:
+336
+
+Summary:
+Learn how to use the Cisco three-layer hierarchical model to properly roll out QoS in your Cisco switched network.
+
+
+Keywords:
+cisco, ccnp, exam, pass, bcmsn, switch, quality, of , service, qos, core, access, distribution, ccie
+
+
+Article Body:
+QoS is a big topic on your BCMSN and CCNP exams, and for good reason.  As more and more traffic flows through today's networks, accurately applying QoS to both your routers and switches becomes more important.
+
+Note the phrase "accurately applying".  You must have a plan in place before you start configuring QoS on your switches, and to create such a plan you should use Cisco's Three-layer Hierarchical Model.
+
+This model breaks switches down into three main groups - Access, Distribution, and Core.  You're familiar with these groups from your CCNA studies, and now you've got to apply this knowledge.
+
+The QoS workload should be borne by the Access and Distribution layers, because the Core layer switches need to be left alone as much as possible to their primary purpose - switching!  
+
+Traffic should generally be classified and marked at the Access layer.  This allows traffic to be assigned the desired QoS values and carry that value throughout the network.  
+
+If you choose to change CoS-DSCP mappings, this will generally be done at the Distribution layer.  Since distribution layer switches will be receiving frames and packets with QoS values from the access layer switches, the appropriate "trust" and "no trust" statements should be configured on the appropriate distribution layer switches.
+
+Any traffic received by core switches should already be classified and marked as needed.  The key with core switches is to use a simple queuing setup to keep the switching process fast.   Fast, fast, fast!
+
+Real-world note - Low Latency Queuing (LLQ) is an excellent choice for core switches.  The name says it all - low latency!  The configuration of LLQ is not a BCMSN topic, but a quick search on the term low latency queuing will quickly bring up several Cisco LLQ configuration documents.
+
+Knowing the three layers of Cisco's networking model and the basic QoS operation and commands is vital to passing the CCNP exams, but even more importantly, you've got to apply this knowledge carefully and accurately to make QoS work for you in today's production networks.
+
+

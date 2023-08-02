@@ -1,0 +1,45 @@
+Title: 
+Is Your Laptop Or Home Computer Wireless Enabled?
+
+Word Count:
+872
+
+Summary:
+Built in wireless capabilities are becoming almost standard equipment on most laptop and home computers these days for a couple of reasons. One of the primary reasons is cost. Adding wireless capacity is so inexpensive that it would be silly for the manufacturers not to add it. The perceived value of any machine with wireless capacity far exceeds the cost to add it. Wireless is the wave of the future, so if the manufacturers want to stay ahead of the technology curve they nee...
+
+
+Keywords:
+wifi, wireless internet
+
+
+Article Body:
+Built in wireless capabilities are becoming almost standard equipment on most laptop and home computers these days for a couple of reasons. One of the primary reasons is cost. Adding wireless capacity is so inexpensive that it would be silly for the manufacturers not to add it. The perceived value of any machine with wireless capacity far exceeds the cost to add it. Wireless is the wave of the future, so if the manufacturers want to stay ahead of the technology curve they need to add it to all but there most basic models.
+
+However, if you're like most people you probably can't even check how much memory your computer has, let-alone if your computer is wireless enabled. Throw in the fact that you may not even know what wireless networking is and it's easy to ignore even trying to determine if your computer has that capacity. As a result, having ever taken the time to set it up is clearly out of the question.
+
+However, since you bought your computer you've probably heard more and more about "going wireless" because it's becoming the hip thing to do. If that's the case with you or I've simply peaked your imagination then read a bit more because I've outlined a few things you can to do to check if your computer has wireless capabilities.
+
+Laptops - Intel Centrino Mobile Technology
+Computer manufacturers do less than a perfect job at explaining what this means but if you if your laptop came with this built in then that's good news for you! In a nutshell, it means that your laptop has wireless networking built right in and you don't have to do a thing. Intel Centrino Mobile Technology is a marketing name for a combination of the Intel Pentium M processor and Intel's' Pro Wireless card.
+
+If you have Intel Centrino Mobile Technology then your computer should have a "Centrino" sticker on it somewhere. If you can't find a sticker but you suspect you had one at one time then simply do the following. Right click on your "My Computer" icon. It's probably on your desktop but if not then go to your Start Menu, find My Computer, right-click and select Properties. When the menu opens look at what it says after or under the word Computer.
+
+On a side note, Intel Centrino Mobile Technology also increases battery life and allows manufacturers to build computers smaller. If you can't find anything referring to Intel Centrino Mobile Technology under the word Computer -- don't worry because as long as your laptop has a free card slot, installing wireless is a piece of cake.
+
+Desktop Computers
+If you're not sure whether or not your desktop computer has a wireless connection, the easiest thing to do is to simply turn it around and look for a small aerial sticking out of the back towards the bottom. If it's there then you are wireless enabled. On the other hand, if there's nothing then it's still possible that you have a wireless device in the computer, especially if you purchased anytime in 2005 or beyond. However, because it's not the best idea (unless you've done it before) to try and open up your computer to check something I'll show you a way to check, if your wireless enabled, using Windows.
+
+Using Windows to Check Wireless Capacity
+Rather than messing with your computers hardware to verify what you've got installed, you can just as easily check using your Windows' Device Manager. To use it, right click My Computer / Choose Manage / and then click Device Manager.
+
+After you click Device Manager a list of everything you can install will appear on the right half of the screen. Take a look under Network adapters and ignore anything that says 10/100 or Ethernet because they are simply normal network connections -- not wireless ones. If there's anything else there, it could be a wireless device.
+
+If you think you have a wireless device, but it has a yellow warning sign alongside its name in the Device Manager, you should take a look at it to see what's wrong by double clicking on it. Windows should then tell you why the device is not working at the moment and may even suggest that you go through its troubleshooter program. Do that before you do anything else.
+
+If it turns out to be a driver problem, you should insert the driver CD that came with your computer. If you can't find the driver CD that came with your computer - don't worry because you should be able to find and then download the appropriate driver online. The first step would be to go to website of your computers manufacturer and do a search for the name of the wireless device that showed up in your Device Manager. Once you find the correct driver simply download it and follow the instructions.
+
+After all this (actually about 5 minutes) you may discover that you don't have a wireless enabled computer -- oh well, those are the breaks. However, it's clearly better to find out your computers wireless capacity now -- before you go out and buy some wireless equipment and then realize that you didn't even need it.
+
+This article may be reproduced only in its entirety.
+
+

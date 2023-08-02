@@ -1,0 +1,37 @@
+Title: 
+How Does a Touch Screen Work: iPhone Solution by Apple
+
+Word Count:
+329
+
+Summary:
+The corporation Apple has tendered the US patent agency with a new invention which will enable the users of sensor screen gadgets to cut, copy and paste fragments of text and work with files.
+
+
+Keywords:
+apple, cell phone, mobile phone
+
+
+Article Body:
+At the moment the company produces the Smartphone iPhone and multimedia player iPod Touch with multi-sensor displays. Their capabilities and the capabilities of notebooks Macbook Air with the analogical touchpad Apple in the document are called referring to the “major.”
+
+The additional functions are much wider and enable the users to, for instance, cancel the last action or teach the sensor to identify certain touches as the Tab button. For certain operations you can use up to 3 fingers – thumb, forefinger and middle fingers.
+
+Another novelty is the ability of the system to identify the side part of the little finger. Owing to the fact that the imprint of this part of the finger is completely different to the imprints of other fingers, the user will be able to change the volume of screen brightness in a few moments.
+
+Some time before, 5 Apple engineers patented a technology enabling to define to which application user’s touches refer to with the help of a touchpad. This helps to control a number of applications simultaneously.
+tiny_code_apple.jpg
+
+A few more words about Apple’s software development, from now on the group of developers Tiny Code works for Apple Inc.
+
+Their web-page features an announcement of the following content:
+
+Tiny Code no longer produces fixes or applications for firmware 1.1.3. We can’t say much, but we are working with Apple and with their SDK for the next firmware release and SDK applications and we shouldn’t be missed for long. We will no longer update our Installer. app repo for legality reasons and you should see us soon on iTunes.
+
+Who’s next? Zibri? Geo? Netkas?
+
+Update: Comments from the Tiny-Code developer:
+
+Yes, Tiny-Code.com was ordered to be removed from operation by Apple, Inc because by releasing firmware versions and stating I had possession of the firmware and SDK was apparently a violation of the Non-Disclosure Agreement I agreed to when I accepted a copy of the SDK and firmware.
+
+

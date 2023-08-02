@@ -1,0 +1,37 @@
+Title: 
+Cisco CCNP / BSCI Exam Tutorial:  Leading Zero Compression
+
+Word Count:
+391
+
+Summary:
+Learning how to express Ipv6 addresses is a required skill for CCNP certification.  Learn how to perform these expressions from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccnp, bsci, ipv6, ip, version, 6, zero, leading, compression, free, tutorial, pass, exam, ccna, chris, Bryant, advantage, 12933, zeroes
+
+
+Article Body:
+The BSCI exam and CCNP certification requires that you be well versed in the basics of IP Version 6, or IPv6.  If you're new to IPv6, you'll quickly learn that it's not exactly just two more octets slapped onto an IPv4 address!  IPv6 addresses are quite long, but there are two ways to acceptably shorten IPv6 address expression.  To pass the BSCI exam, become a CCNP, and get that all-important understanding of IPv6, you've got to understand these different methods of expressing an IPv6 address.  My last IPv6 tutorial discussed zero compression; today we'll take a look at leading zero compression.
+
+Leading zero compression allows us to drop the leading zeroes from every field in the address.  Where we could only use zero compression once in an IPv6 address expression, leading zero compression can be used as often as is appropriate. The key with leading zero compression is that there must be at least one number left in each field, even if that remaining number is a zero.
+
+You sometimes see books or websites refer to leading zero compression as "dropping zeroes and replacing them with a colon", but that explanation can be a little confusing, since the blocks are separated with a colon to begin with.  You're not really replacing the leading zeroes, you're dropping them. 
+
+Let's look at an example of leading zero compression.  Taking the address 1234:0000:1234:0000:1234:0000:1234:0123, we have four different fields that have leading zeroes.  The address could be written out as it is, or drop the leading zeroes. 
+
+ 
+Original format:  1234:0000:1234:0000:1234:0000:0123:1234
+
+With leading zero compression: 1234:0:1234:0:1234:0:123:1234
+
+There's no problem with using zero compression and leading zero compression in the same address, as shown here:
+
+Original format:  1111:0000:0000:1234:0011:0022:0033:0044
+
+With zero and leading zero compression: 1111::1234:11:22:33:44
+
+Zero compression uses the double-colon to replace the second and third block of numbers, which were all zeroes; leading zero compression replaced the "00" at the beginning of each of the last four blocks.   Just be careful and take your time with both zero compression and leading zero compression and you'll do well on the exam and in the real world. The keys to success here are remembering that you can only use zero compression once in a single address, and that while leading zero compression can be used as often as needed, at least one number must remain in each field, even if that number is a zero.
+
+

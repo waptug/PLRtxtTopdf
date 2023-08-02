@@ -1,0 +1,78 @@
+Title: 
+How to Develop a Profitable Day trading System
+
+Word Count:
+1705
+
+Summary:
+Developing a day trading system can be tricky, but it’s by far not as complicated as many vendors make you think. In the following we will present you a simple trading system that we developed using these steps.
+
+
+Keywords:
+day trading system
+
+
+Article Body:
+In this article I will explain to you how to develop a profitable <a href="http://www.rockwelltrading.com/daytradingcoach/01_dtc_moreinfo.html#STRATEGIES"><b>day trading system</b></a> in five steps:
+Step 1: Select a market and a timeframe
+Step 2: Define entry rules
+Step 3: Define exit rules
+Step 4: Evaluate your day trading system
+Step 5: Improving the day trading system
+Let’s take a closer look at these steps.
+Step 1: Select a market and a timeframe
+Every market and every timeframe can be traded with a day trading system. But if you want to look at 50 different futures markets and 6 major timeframes (e.g. 5min, 10min, 15min, 30min, 60min and daily), then you need to evaluate 300 possible options. Here are some hints on how to limit your choices:
+·	Though you can trade every futures markets, we recommend that you stick to the electronic markets (e.g. e-mini S&P and other indices, Treasury Bonds and Notes, Currencies, etc). Usually these markets are very liquid, and you won’t have a problem entering and exiting a trade. Another advantage of electronic markets is lower commissions: Expect to pay at least half the commissions you pay on non-electronic markets. Sometimes the difference can be as high as 75%. 
+·	When you select a smaller timeframes (less than 60min) your average profit per trade is usually comparably low. On the other hand you get more trading opportunities. When trading on a larger timeframe your profits per trade will be bigger, but you will have less trading opportunities. It’s up to you to decide which timeframe suits you best. 
+·	Smaller timeframes mean smaller profits, but usually smaller risk, too. When you are starting with a small trading account, then you might want to select a small timeframe to make sure that you are not overtrading your account.
+Most profitable <a href="http://www.rockwelltrading.com/daytradingcoach/01_dtc_moreinfo.html#STRATEGIES"><b>day trading systems</b></a> use larger timeframes like daily and weekly. These systems work, too, but, be prepared for less trading action and bigger drawdowns.
+Step 2: Define entry rules
+Let’s simplify the myths of “entry rules”: 
+Basically there are 2 different kinds of entry setups:
+·	Trend-following
+When prices are moving up, you buy, and when prices are going down, you sell.
+·	Trend-fading
+When prices are trading at an extreme (e.g. upper band of a channel), you sell, and you try to catch the small move while prices are moving back into “normalcy”. The same applies for selling.
+In my opinion swing trading is actually one of the best trading strategies for the beginning trader to get his or her feet wet. By contrast, trend trading offers greater profit potential if a trader is able to catch a major market trend of weeks or months, but few are the traders with sufficient discipline to hold a position for that period of time without getting distracted.
+Most indicators that you will find in your charting software belong to one of these two categories: You have either indicators for identifying trends (e.g. Moving Averages) or indicators that define overbought or oversold situations and therefore offer you a trade setup for a short term swing trade.
+So don’t become confused by all the possibilities of entering a trade. Just make sure that you understand why you are using a certain indicator or what the indicator is measuring. An example of a simple swing daytrading strategy can be found in the next chapter.
+Step 3: Define exit rules
+Let’s keep it simple here, too: There are two different exit rules you want to apply:
+·	Stop Loss Rules to protect your capital and
+·	Profit Taking Exits to realize your profits
+Both exit rules can be expressed in four ways:
+·	A fixed dollar amount (e.g. $1,000)
+·	A percentage of the current price (e.g. 1% of the entry price)
+·	A percentage of the volatility (e.g. 50% of the average daily movement) or
+·	A time stop (e.g. exit after 3 days)
+We don’t recommend using a fixed dollar amount, because markets are too different. For example, natural gas changes an average of a few thousand dollars per day per contract; however, Eurodollars change an average of a few hundred dollars a day per contract. You need to balance and normalize this difference when developing a day trading system and testing it on different markets. That’s why you should always use percentages for stops and profit targets (e.g. 1% stop) or a volatility stop instead of a fixed dollar amount.
+A time stop gets you out of a trade if it is not moving in any direction, therefore freeing your capital for other trades.
+Step 4: Evaluate your day trading system
+The first figure to look for is the net profit. Obviously you want your system to generate profits. But don’t be frustrated when during the development stage your day trading system shows a loss; try to reverse your entry signals. On our website www.rockwelltrading.com you already learned that trading is a zero sum game: So if you are going long at a certain price level, and you lose, then try to go short instead. Many times this is the easiest way to turn a losing system into a winning one.
+The next figure you want to look at is the average profit per trade. Make sure this number is greater than slippage and commissions, and that it makes your day trading worthwhile. Day trading is all about risk and reward, and you want to make sure you get a decent reward for your risk.
+Take a look at the Profit Factor (Gross Profit / Gross Loss). This will tell you how many dollars you are likely to win for every dollar you lose. The higher the profit factor the better the day trading system. A system should have a profit factor of 1.5 or more, but watch out when you see profit factors above 3.0, because it might be that you over-optimized the system.
+Here are some more characteristics you might want to consider besides the net profit of a system:
+·	Winning percentage
+Many profitable day trading systems achieve a nice net profit with a rather small winning percentage, sometimes even below 30%. These systems follow the principle “Cut your losses short and let your profits run”. However, YOU need to decide whether you can stand 7 losers and only 3 winners in 10 trades. If you want to be “right” most of the time, then you should pick a system with a high winning percentage.
+·	Number of Trades per Month
+Do you need daily action? If you want to see something happening every day, then you should pick a day trading system with a high number of trades per month. Many profitable day trading systems generate only 2-3 trades per month, but if you are not patient enough to wait for it, then you should select a day trading system with a higher trading frequency.
+·	Average Time in Trade
+Some people get really nervous when they are in a trade. I have heard of people who can’t even sleep at night when they have an open position. If that’s you, then you should make sure that the average time in a trade is as short as possible. You might want to choose a system that does not hold any positions overnight.
+·	Maximum Drawdown
+A famous trader once said: “If you want your system to double or triple your account, you should expect a drawdown of up to 30% on your way to trading riches.” Not every trader can stand a 30% drawdown. Look at the maximum drawdown the system produced so far, and double it. If you can stand this drawdown, then you found the right day trading system. Why doubling? Remember: your worst drawdown is always ahead of you.
+·	Most consecutive losses
+The amount of most consecutive losses has a huge impact on your trading, especially when you are using certain types of money management techniques. Five or six consecutive losses can cause you a lot of trouble when using an aggressive money management. 
+In addition this number will help you to determine whether you have enough discipline to trade the system: Will you still trade the system after you have experienced 10 losses in a row? It’s not unusual for a profitable trading system to have 10-12 losses in a row.
+Step 5: Improving your system
+There is a difference between “improving” and “curve-fitting” a system. You can improve your day trading system by testing different exit methods: If you are using a fixed stop, try a trailing stop instead. Add a time stop and evaluate the results again. Don’t look at the net profit only; look also at the profit factor, average profit per trade and maximum drawdown. Many times you will see that the net profit slightly decreases when you add different stops, but the other figures might improve dramatically.
+
+Don’t fall into the trap of over-optimizing: You can eliminate almost all losers by adding enough rules. Simple example: If you see that on Tuesdays you had more losers than on the other weekdays, you might be tempted to add a “filter” that prevents your day trading system from entering trades on Tuesdays. Next you find that in January you had much worse results than in other months, so you add a filter that enters trades only from February – December. You add more and more filters to avoid losses, and eventually you end up with a trading rule that I saw recently:
+IF FVE > -1 And Regression Slope (Close , 35) / Close.35 * 100 > -.35 And Regression Slope (Close , 35) / Close.35 * 100 < .4 And Regression Slope (Close , 70) / Close.70 * 100 > -.4 And Regression Slope (Close , 70) / Close.70 * 100 < .4 And Regression Slope (Close , 170) / Close.170 * 100 > -.2 And MACD Diff (Close , 12 , 26 , 9) > -.003 And Not Tuesday And Not DayOfMonth = 12 and not Month = August and Time > 9:30 ...
+Though you eliminated all possibilities of losing (in the past) and this trading system is now producing fantastic profits, it’s very unlikely that it will continue to do so when it hits reality.
+
+Author’s name
+Markus Heitkoetter
+Author's Info:
+Markus Heitkoetter is a 19 year veteran of the markets and the CEO of Rockwell Trading. For more free information and tips and trick how to make consistent profits with online daytrading, visit his website www.rockwelltrading.com.
+
+

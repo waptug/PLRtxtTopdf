@@ -1,0 +1,28 @@
+Title: 
+When Do Used Servers Make Sense?
+
+Word Count:
+523
+
+Summary:
+IT personnel are constantly faced with budgetary constraints in achieving their goals and completing projects. Refurbished IT hardware is often considered as a means to cut costs, but for which applications does it make sense to implement used servers and parts? We'll explore the scenarios in which it makes sense.
+
+The most common use of used servers at any given corporation is within their test and/or development environments. System administrators are less concerned about...
+
+
+Keywords:
+Used Servers, Refurbished Servers
+
+
+Article Body:
+IT personnel are constantly faced with budgetary constraints in achieving their goals and completing projects. Refurbished IT hardware is often considered as a means to cut costs, but for which applications does it make sense to implement used servers and parts? We'll explore the scenarios in which it makes sense.
+
+The most common use of used servers at any given corporation is within their test and/or development environments. System administrators are less concerned about failures within this setting as it won't result in the wrath of dozens, hundreds or thousands of users. Even hardware manufacturers will reach out to the used IT hardware industry to purchase equipment when they need systems to benchmark against their own equipment or to use in their test labs to measure compatibility. This saves these manufacturers from the uncomfortable dialogue of asking their competitors for hardware or worse yet paying them for it. It also often saves them thousands if not hundreds of thousands of dollars per acquisition.
+
+The second most common instance where used hardware is acquired is when older systems have been abandoned by the manufacturer. Often the organization is entrenched in a software application in which it would be unbearable to update their infrastructure in order to move to a newer version. Since the manufacturer no longer sells systems and upgrades and possibly no longer supports this hardware, the user reaches out to the remarketed industry for quality used systems and upgrades. Many remarketers can also provide them with support for their end of life systems. Other users prefer to buy parts and/or spare systems to keep on hand as hot spares since the pricing is so much lower than the original costs.
+
+The result of these interactions often determines how much further used hardware becomes embedded into their enterprise. In the majority of cases the client receives hardware that practically looks new, works just like the equipment they purchased brand new, but at a fraction of the cost. In some cases though they may run into a dealer that can't provide proper support, a rogue auction seller offering bad or counterfeit parts, a belligerent manufacturer's rep or just bad luck. In those cases the user typically isn't comfortable buying refurb beyond the above instances. For the most part though, the test/dev/EOL scenarios cited open the user's / buyer's eyes to the incredible savings they can get on equipment that works just like new expensive systems.
+
+Thus, the final scenario when used hardware makes sense is when the user is comfortable with it. The user is comfortable when they deal with a reputable dealer with strong support as this is what would have allowed them to have had good experiences. When the user is comfortable, they will begin buying used upgrades for production systems as they know they'll get quality products and vendor support. As the admin asks for newer and newer systems, they'll also realize that it isn't just older servers that are available used, but the latest systems and parts. In the end, it all comes down to the comfort level of the buyer and the reliability of their vendors.
+
+

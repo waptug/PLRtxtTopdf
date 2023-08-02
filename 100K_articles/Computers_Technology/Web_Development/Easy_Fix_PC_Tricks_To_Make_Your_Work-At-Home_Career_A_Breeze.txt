@@ -1,0 +1,50 @@
+Title: 
+Easy Fix PC Tricks To Make Your Work-At-Home Career A Breeze
+
+Word Count:
+598
+
+Summary:
+If you are a work-at-home mom on the PC all the time, you’d want to trade-in your old PC for a new one. A new PC would be great, but would your budget allow this now? Take up these fix PC easy tips instead.
+
+First tip to fix PC? Don't Panic!
+
+When there is work overload and your PC is really slow, take a long, deep breath. Better take a walk with your dog, or take the family to the park and have lazy a weekend afternoon. It does not pay to up your stress levels. These fix...
+
+
+Keywords:
+fix PC
+
+
+Article Body:
+If you are a work-at-home mom on the PC all the time, you’d want to trade-in your old PC for a new one. A new PC would be great, but would your budget allow this now? Take up these fix PC easy tips instead.
+
+First tip to fix PC? Don't Panic!
+
+When there is work overload and your PC is really slow, take a long, deep breath. Better take a walk with your dog, or take the family to the park and have lazy a weekend afternoon. It does not pay to up your stress levels. These fix PC tips will make your day.
+
+True, you have to get back on your PC to write those stories for the local magazine. Time spent away from the computer is money lost. As a writer, you know this. Don’t panic if you don’t know how to fix PC. The sky is not falling yet, only your PC is slowing down.
+
+Fix PC Easy Tips
+
+For all you know, it just takes a few blinks of the PC to help it start a new life. Shut it down and restart it. You will be surprised that it has picked up speed. When it doesn’t, read on.
+
+For a frozen PC (one that won’t start), here’s what you can do:
+
+1. If you are on Windows XP restore your PC to an earlier date. If not, restart your PC. Press the F8 key when your PC beeps. You will see the option tab. Select the last known good configuration button. This will undo the errors within the system files.
+
+2. If the above fix PC tip does not work, reboot your computer. This is how to do it: Restart your computer, go to the select menu, then click the control panel. Once there, click the Performance and Maintenance system and click the hardware tab. You will see the Device Manager, click on it again. Double click those devices that show question marks and uninstall the troublesome devices.
+
+3. If this does not rev up your PC, your system files need another operation. You will have to boot the system from your XP CD. When the option to set up Windows XP now appears, click enter. Read the tedious license agreement. Press R after this. The computer should work.
+
+Fix PC tips for tasks that won’t budge:
+
+1. The password maybe outdated when the right column displays that the task did not run. This shows up after you click the start menu and went to All Programs, Accessories, Systems Tools, and Scheduled Tasks. Right click the selected task that did not run as shown in the scheduled tasks header. Go to Properties and double check the run as box. Select the password button and type a new password.
+
+2. If there is another shut down after this, review the Windows Scheduler Wizard’s log. Again, go to the Start menu, select All Programs, then click Accessories. Click System Tools and after, click on the Scheduled Tasks list. Notepad will be launched. You’ll see some asterisks when you open the SchedLgU.txt Select Edit Find. If there are invalid accounts or program errors, these will be shown here.
+
+3. Create a new account for the Windows System and create a new password. Your new account details should be entered in the Wizard.
+
+Slow PC? Defragment and run and anti-spyware software. Reboot when it does not start up. These should be fix PC tips familiar to you. If not, call your friendly neighborhood techie. Save those dollars to boost your work-at-home career instead.
+
+

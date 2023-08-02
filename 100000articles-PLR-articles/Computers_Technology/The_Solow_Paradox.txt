@@ -1,0 +1,116 @@
+Title: 
+The Solow Paradox
+
+Word Count:
+2283
+
+Summary:
+Named after the Nobel laureate in economics, it was stated by him thus: "You can see the computer age everywhere these days, except in the productivity statistics".
+
+
+Keywords:
+
+
+
+Article Body:
+On March 21, 2005, Germany's prestigious Ifo Institute at the University of Munich published a research report according to which "More technology at school can have a detrimental effect on education and computers at home can harm learning". 
+
+It is a prime demonstration of the Solow Paradox.
+
+Named after the Nobel laureate in economics, it was stated by him thus: "You can see the computer age everywhere these days, except in the productivity statistics". The venerable economic magazine, "The Economist" in its issue dated July 24th, 1999 quotes the no less venerable Professor Robert Gordon ("one of America's leading authorities on productivity") - p.20:
+
+"...the productivity performance of the manufacturing sector of the United States economy since 1995 has been abysmal rather than admirable. Not only has productivity growth in non-durable manufacturing decelerated in 1995-9 compared to 1972-95, but productivity growth in durable manufacturing stripped of computers has decelerated even more."
+
+What should be held true - the hype or the dismal statistics? The answer to this question is of crucial importance to economies in transition. If investment in IT (information technology) actually RETARDS growth - then it should be avoided, at least until a functioning marketplace is in place to counter its growth suppressing effects.
+
+The notion that IT retards growth is counter-intuitive. It would seem that, at the very least, computers allow us to do more of the same things only faster. Typing, order processing, inventory management, production processes, number crunching are all tackled more efficiently by computers. Added efficiency should translate into enhanced productivity. Put simply, the same number of people can do more, faster, and more cheaply with computers than without them. Yet reality begs to differ.
+
+Two elements are often neglected in considering the beneficial effects of IT.
+
+First, the concept of information technology comprises two very distinct economic entities: an all-purpose machine (the PC) plus its enabling applications and a medium (the internet). Capital assets are distinct from media assets and are governed by different economic principles. Thus, they should be managed and deployed differently.
+
+Massive, double digit increases in productivity are feasible in the manufacturing of computer hardware. The inevitable outcome is an exponential explosion in computing and networking power. The dual rules which govern IT - Moore's (a doubling of chip capacity and computing prowess every 18 months) and Metcalf's (the exponential increase in a network's processing ability as it encompasses additional computers) - also dictate a breathtaking pace of increased productivity in the hardware cum software aspect of IT. This has been duly detected by Robert Gordon in his "Has the 'New Economy' rendered the productivity slowdown obsolete?"
+
+But for this increased productivity to trickle down to the rest of the economy a few conditions have to be met.
+
+The transition from old technologies rendered obsolete by computing to new ones must not involve too much "creative destruction". The costs of getting rid of old hardware, software, of altering management techniques or adopting new ones, of shedding redundant manpower, of searching for new employees to replace the unqualified or unqualifiable, of installing new hardware, software and of training new people in all levels of the corporation are enormous. They must never exceed the added benefits of the newly introduced technology in the long run. 
+
+Hence the crux of the debate. Is IT more expensive to introduce, run and maintain than the technologies that it so confidently aims to replace? Will new technologies emerge in a pace sufficient to compensate for the disappearance of old ones? As the technology matures, will it overcome its childhood maladies (lack of operational reliability, bad design, non-specificity, immaturity of the first generation of computer users, absence of user friendliness and so on)?
+
+Moreover, is IT an evolution or a veritable revolution? Does it merely allow us to do more of the same only differently - or does it open up hitherto unheard of vistas for human imagination, entrepreneurship, and creativity? The signals are mixed. 
+
+Hitherto, IT did not succeed to do to human endeavour what electricity, the internal combustion engine or even the telegraph have done. It is also not clear at all that IT is a UNIVERSAL phenomenon suitable to all business climes and mentalities. 
+
+The penetration of both IT and the medium it gave rise to (the internet) is not globally uniform even when adjusting for purchasing power and even among the corporate class. Developing countries should take all this into consideration. Their economies may be too obsolete and hidebound, poor and badly managed to absorb yet another critical change in the form of an IT shock wave. The introduction of IT into an ill-prepared market or corporation can be and often is counter-productive and growth-retarding.
+
+In hindsight, 20 years hence, we might come to understand that computers improved our capacity to do things differently and more productively. But one thing is fast becoming clear. The added benefits of IT are highly sensitive to and dependent upon historical, psychosocial and economic parameters outside the perimeter of the technology itself. When it is introduced, how it is introduced, for which purposes is it put to use and even by whom it is introduced. These largely determine the costs of its introduction and, therefore, its feasibility and contribution to the enhancement of productivity. Developing countries better take note.
+
+Historical Note - The Evolutionary Cycle of New Media
+
+The Internet is cast by its proponents as the great white hope of many a developing and poor country. It is, therefore, instructive to try to predict its future and describe the phases of its possible evolution.
+
+The internet runs on computers but it is related to them in the same way that a TV show is related to a TV set. To bundle to two, as it is done today, obscures the true picture and can often be very misleading. For instance: it is close to impossible to measure productivity in the services sector, let alone is something as wildly informal and dynamic as the internet. 
+
+Moreover, different countries and regions are caught in different parts of the cycle. Central and Eastern Europe have just entered it while northern Europe, some parts of Asia, and North America are in the vanguard. 
+
+So, what should developing and poor countries expect to happen to the internet globally and, later, within their own territories? The issue here cannot be cast in terms of productivity. It is better to apply to it the imagery of the business cycle.
+
+It is clear by now that the internet is a medium and, as such, is subject to the evolutionary cycle of its predecessors. Every medium of communications goes through the same evolutionary cycle. 
+
+The internet is simply the latest in a series of networks which revolutionized our lives. A century before the internet, the telegraph and the telephone have been similarly heralded as "global" and transforming. The power grid and railways were also greeted with universal enthusiasm and acclaim. But no other network resembled the Internet more than radio (and, later, television).
+
+Every new medium starts with Anarchy - or The Public Phase.
+
+At this stage, the medium and the resources attached to it are very cheap, accessible, and under no or little regulatory constraint. The public sector steps in: higher education institutions, religious institutions, government, not for profit organizations, non governmental organizations (NGOs), trade unions, etc. Bedeviled by limited financial resources, they regard the new medium as a cost effective way of disseminating their messages.
+
+The Internet was not exempt from this phase which is at its death throes. It was born into utter anarchy in the form of ad hoc computer networks, local networks, and networks spun by organizations (mainly universities and organs of the government such as DARPA, a part of the defence establishment in the USA). 
+
+Non commercial entities jumped on the bandwagon and started sewing and patching these computer networks together (an activity fully subsidized with government funds). The result was a globe-spanning web of academic institutions. The American Pentagon stepped in and established the network of all networks, the ARPANET. Other government departments joined the fray, headed by the National Science Foundation (NSF) which withdrew only lately from the Internet.
+
+The Internet (with a different name) became public property - but with access granted only to a select few.
+
+Radio took precisely this course. Radio transmissions started in the USA in 1920. Those were anarchic broadcasts with no discernible regularity. Non commercial organizations and not for profit organizations began their own broadcasts and even created radio broadcasting infrastructure (albeit of the cheap and local kind) dedicated to their audiences. Trade unions, certain educational institutions and religious groups commenced "public radio" broadcasts.
+
+The anarchic phase is followed by a commercial one.
+
+When the users (e.g., listeners in the case of the radio, or owners of PCs and modems in the realm of the Internet) reach a critical mass - businesses become interested. In the name of capitalist ideology (another religion, really) they demand "privatization" of the medium. 
+
+In its attempt to take over the new medium, Big Business pull at the heartstrings of modern freemarketry. Deregulating and commercializing the medium would encourage the efficient allocation of resources, the inevitable outcome of untrammeled competition; they would keep in check corruption and inefficiency, naturally associated with the public sector ("Other People’s Money" - OPM); they would thwart the ulterior motives of the political class; and they would introduce variety and cater to the tastes and interests of diverse audiences. In short, private enterprise in control of the new medium means more affluence and more democracy.
+
+The end result is the same: the private sector takes over the medium from "below" (makes offers to the owners or operators of the medium that they cannot possibly refuse) - or from "above" (successful lobbying in the corridors of power leads to the legislated privatization of the medium).
+
+Every privatization - especially that of a medium - provokes public opposition. There are (usually founded) suspicions that the interests of the public were compromised and sacrificed on the altar of commercialization and rating. Fears of monopolization and cartelization of the medium are evoked - and proven correct, in the long run. Otherwise, the concentration of control of the medium in a few hands is criticized. All these things do happen - but the pace is so slow that the initial apprehension is forgotten and public attention reverts to fresher issues.
+
+Again, consider the precedent of the public airwaves.
+
+A new Communications Act was legislated in the USA in 1934. It was meant to transform radio frequencies into a national resource to be sold to the private sector which will use it to transmit radio signals to receivers. In other words: the radio was passed on to private and commercial hands. Public radio was doomed to be marginalized.
+
+From the radio to the Internet:
+
+The American administration withdrew from its last major involvement in the Internet in April 1995, when the NSF ceased to finance some of the networks and, thus, privatized its hitherto heavy involvement in the Net.
+
+The Communications Act of 1996 envisaged a form of "organized anarchy". It allowed media operators to invade each other's turf.
+
+Phone companies were allowed to transmit video and cable companies were allowed to transmit telephony, for instance. This is all phased over a long period of time - still, it is a revolution whose magnitude is difficult to gauge and whose consequences defy imagination. It carries an equally momentous price tag - official censorship. 
+
+Merely "voluntary censorship", to be sure and coupled with toothless standardization and enforcement authorities - still, a censorship with its own institutions to boot. The private sector reacted by threatening litigation - but, beneath the surface it is caving in to pressure and temptation, constructing its own censorship codes both in the cable and in the internet media.
+
+The third phase is Institutionalization.
+
+It is characterized by enhanced legislation. Legislators, on all levels, discover the medium and lurch at it passionately. Resources which were considered "free", suddenly are transformed to "national treasures not to be dispensed with cheaply, casually and with frivolity".
+
+It is conceivable that certain parts of the Internet will be "nationalized" (for instance, in the form of a licensing requirement) and tendered to the private sector. Legislation may be enacted which will deal with permitted and disallowed content (obscenity? incitement? racial or gender bias?).
+
+No medium in the USA (or elsewhere) has eschewed such legislation. There are sure to be demands to allocate time (or space, or software, or content, or hardware, or bandwidth) to "minorities", to "public affairs", to "community business". This is a tax that the business sector will have to pay to fend off the eager legislator and his nuisance value.
+
+All this is bound to lead to a monopolization of hosts and servers. The important broadcast channels will diminish in number and be subjected to severe content restrictions. Sites which will not succumb to these requirements - will be deleted or neutralized. Content guidelines (euphemism for censorship) exist, even as we write, in all major content providers (AOL, Yahoo, Lycos).
+
+The last, determining, phase is The Bloodbath.
+
+This is the phase of consolidation. The number of players is severely reduced. The number of browser types is limited to 2-3 (Mozilla, Microsoft and which else?). Networks merge to form privately owned mega-networks. Servers merge to form hyper-servers run on supercomputers or computer farms. The number of ISPs is considerably diminished.
+
+50 companies ruled the greater part of the media markets in the USA in 1983. The number in 1995 was 18. At the end of the century they numbered 6.
+
+This is the stage when companies - fighting for financial survival - strive to acquire as many users/listeners/viewers as possible. The programming is dumbed down, aspiring to the lowest (and widest) common denominator. Shallow programming dominates as long as the bloodbath proceeds.
+
+

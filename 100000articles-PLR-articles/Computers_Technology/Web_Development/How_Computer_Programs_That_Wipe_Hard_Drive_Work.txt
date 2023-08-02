@@ -1,0 +1,28 @@
+Title: 
+How Computer Programs That Wipe Hard Drive Work
+
+Word Count:
+512
+
+Summary:
+It can be an advocacy but usually, companies that dispose old computers when they buy new units often donate the equipments to institutions and to some people who need personal computers. This is a widely acceptable practice. But are you ready to give much more than the worth of the personal computer you are donating? You might not be fully aware of it but when you are giving your old personal computer to other people, you are also giving the recipient the opportunity to acce...
+
+
+Keywords:
+wipe hard drive,wiping disk,wipe free space
+
+
+Article Body:
+It can be an advocacy but usually, companies that dispose old computers when they buy new units often donate the equipments to institutions and to some people who need personal computers. This is a widely acceptable practice. But are you ready to give much more than the worth of the personal computer you are donating? You might not be fully aware of it but when you are giving your old personal computer to other people, you are also giving the recipient the opportunity to access your old files and information saved previously on the hard disk.
+
+Even if you have deleted the files in the Windows operating system and in the Recycle Bin, there would always be traces of the deleted file somewhere within the hard drive of the computer. The simple process of deletion would only remove the shortcuts to the files. In actuality, the files are still there, though you could hardly trace them. But imagine if in the long process of donating, the personal computer goes to the possession of an expert who could be able to restore and retrieve the deleted files. There are many recovery and restoration software available in the market that could facilitate instant retrieval of deleted files.
+
+Will you be willing to afford to lose sensitive information like trade secrets, personal information, confidential data, bank and credit account numbers and contact details of clients? Much more, will you be willing to take the risk of sharing such important and confidential information to some unscrupulous people who might use the data inappropriately, maliciously and fraudulently? If not, then, it is high time you wipe hard drive of your computer.
+
+Disk wiping is the process of erasing saved data on storage devices like compact discs, thumb drives and hard drives. When you wipe hard drive, you are ensuring that all previously deleted files on the personal computer would never ever be recovered or accessed even with the use of the most powerful data recovery software. Wiping hard drive is actually working by overwriting the entire hard drive not just once but several times. Thus, you can rest assured that no data or file would ever remain in the computer memory for life. To put it simply, it is impossible to retrieve data that have already been overwritten. The process is irreversible.
+
+How does the process work? When you wipe hard drive, the process generally overwrites the whole disk with zero or one. A reformat would follow. The overwriting process takes on and repeats itself several times, solidifying the security purpose. That is the reason why such computer programs usually take some time to complete. When you wipe hard drive, you are practically disk wiping applications by overwriting master boot record, the partition table and each sector present in the computer hard drive.
+
+When you wipe a hard drive, you are ensuring the safety and confidentiality of all files that had been saved and later on erased from the computer memory. Such pertinent data and information would never ever be accessed by anyone, especially the unauthorized ones.
+
+

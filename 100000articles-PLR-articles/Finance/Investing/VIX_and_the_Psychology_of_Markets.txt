@@ -1,0 +1,111 @@
+Title: 
+VIX and the Psychology of Markets
+
+Word Count:
+1932
+
+Summary:
+We know that greed and fear rule the markets. But did you know that when investors gets too greedy, markets usually fall, and when investors are overcome with fear, markets usually rise. So how can  we monitor investors emotions and take advantage of investors emotional extremes?
+
+
+Keywords:
+Stocks, stock markets, investing, trading, stockmarket investing, investor sentiment
+
+
+Article Body:
+We know that greed and fear rule the markets. But did you know that when investors gets too greedy, markets usually fall, and when investors are overcome with fear, markets usually rise. So how can when we monitor investors emotions and take advantage of investors emotional extremes?
+
+Welcome to the world of investor sentiment analysis.
+
+Investor psychology has been analysed for at least 250 years. Charles MacKay wrote his book, ‘Extraordinary Popular Delusions And The Madness Of Crowds’, in 1841, describing, among other manias, the herd mentality that caused the South Sea Bubble. Since then, many academics have published financial theories based on the concept that individuals act rationally and consider all available information in the decision-making process.  But real life frequently demonstrates that the behavior of equity markets is irrational and unpredictable. A field known as “behavioural finance” has evolved over the years attempting to explain how emotions influence investors and their decision-making process. Studying human psychology helps predict the general direction of financial markets as well as many stock market bubbles and crashes.  At the height of a period of optimism, greed moves stocks higher, ignoring business fundamentals and therefore creating an overpriced market. At the other extreme, fear moves prices lower, ignoring obvious opportunities and creates an undervalued market. 
+
+One important study, (“Aspects of Investor Psychology,” The Journal of Portfolio Management, Summer 1998) found that investors are much more distressed by prospective losses than they are made happy by equivalent gains.  Some researchers theorize that investors “follow the crowd” and conventional wisdom to avoid any regret in the event their decisions prove to be incorrect. 
+
+QUANTIFYING INVESTOR EMOTIONS OR INVESTOR SENTIMENT
+
+When a stock or market index rises, we know that it means investors are more eager to buy than to sell. But how can we accurately gauge just how investors feel? 
+
+Most often, investors are somewhere between mildly positive and mildly negative, and only occasionally do they demonstrate the extremes of greed or fear.  It is easier to detect emotion when it is close to either irrational exuberance or outright fear. When markets act this way, it becomes "news" and moves from the business section, to being featured at the start of the evening news, and on the front page of the daily newspaper. 
+
+The success of charting as a tool, depends on investors repeating their behaviour patterns. There is always a comfort factor in doing the same as others and generally an aversion to behaving differently. Investors display herding instincts in their behaviour and this has become particularly noticeable among institutional investors. In the early stages of a rising trend in a market, positive sentiment can act as a positive driving force as everyone rushes in to join the party. However, there comes a time after the trend has been in place, when this positive sentiment acts as a warning that the trend is nearing its climax. That’s when smart investors will start switching to alternative investments.
+
+The most sophisticated and active players in the market use derivative products to effect their transactions. These players tend to display earlier changes in emotion than most investors and normally their emotions run to greater extremes. So, derivative markets are a good source of data on investor sentiment.  There are various options available on stocks, ETF's and indexes. By using an option pricing formula, we can extract a measure of how much investors are prepared to pay for the possibility of making a profit, or hedging against a loss. This is known as implied volatility, and it provides a mathematical valuation of investor emotion.  Implied volatility tends to be high (the scale is inverted) when the market has had a sharp fall and this is associated with investor fear. At the other extreme, low implied volatility often occurs after a rise in the market and when investors are becoming complacent.
+
+Implied volatility image
+http://www.theuptrend.com/ebook/ImpliedvolatilityAA.gif
+
+
+WHAT IS THE VIX?
+
+VIX is the symbol for the Chicago Board Options Exchange's volatility index for the S&P 500 (SPX). It is a measure of the level of implied volatility and not historical or statistical volatility. A numerical value for the VIX has been published by the CBOE since 1993. The method of calculating VIX was changed in early 2003. Instead of using the S&P 100 (OEX) Index options, it is now calculated using the options on the S&P 500 (SPX). Also note that the VXN is the symbol for the implied volatility index of the NASDAQ 100 index.
+
+The implied volatilities are weighted to give the VIX a value that in effect acts as the implied volatility of an at-the-money SPX option at 22-trading days to expiration.  The VIX represents the implied volatility of a hypothetical at-the-money SPX option. If implied volatility is high, the premium on options will be high and vice versa. Generally speaking, rising option premiums reflect rising expectation of future volatility of the underlying stock index, which represents higher implied volatility levels.  The higher the VIX, the more panic in the markets and the greater the chance that investors have given up hope, taken their money, and gone home.
+
+Comparing the movement of the VIX with that of the market can quite often provide clues as to the future direction the market might move. The more the VIX increases in value, the more "panic" is an issue in the market place. On the flip side, the more the VIX decreases in value, the more complacency there is amongst investors.  The psychological impact measured by a relatively high VIX is a clear indicator that tells traders markets are oversold.  A historic example was displayed on July 23rd 2002 when the VIX shot over 55. That big move coincided with a significant low in the Dow Jones Industrial Average that was followed by a 1,034-point, six-day rally. That rally didn't stick and the market again re-tested its July low in October of 2002. But throughout this double bottom in 2002 the VIX accurately identified a major directional shift in the market. At its core, the VIX is a statistical measure of emotions, and emotions are a major factor signalling capitulation in the market.
+
+Sample charts
+http://www.theuptrend.com/ebook/Impliedvolatility1.gif
+http://www.theuptrend.com/ebook/Impliedvolatility2.gif
+
+
+INVERSE RELATIONSHIP
+
+Extremely high readings of VIX indicate market  bottoms, while low readings indicate  market tops.
+
+The VIX actually has an inverse relationship to the stock market. This is one of the first things you'll notice when viewing the VIX on a bar chart. When the VIX goes down the stock market moves higher. When the VIX advances, the stock market is headed lower. Generally speaking, a rising stock market is considered less risky by investors. On the other hand, a declining stock market is considered more risky. Therefore, the higher the perceived risk by investors the higher the implied volatility. This will make options, especially put options, more expensive.
+
+When the phrase "implied volatility" is mentioned, keep in mind that it is not about the size of price swings. Rather it's the implied risk that is associated with taking a position in the stock market. When the stock market declines, the demand for put options usually increases. Increased demand means higher put option prices.
+
+USING VIX to TIME the MARKET
+
+One early study identified a VIX value of 25 as normal, and a value above 35 as high.  Between October 1997 and May 2001 the VIX indicator went above 35 eleven times.  In this study, the S&P 500 index as represented by SPY ETF. was purchased each time and held until the VIX retreated  below 25. There were 9 profitable trades for an average gain of 3.1% and an average holding period of about one month. By using this VIX timing scheme you could capture 80% of total gains in the market, but your money is only at risk one third of the time.
+
+Sample chart
+http://www.theuptrend.com/ebook/Impliedvolatility3.gif
+
+Extremes in fear mark great buying opportunities.
+
+Sample chart
+http://www.theuptrend.com/ebook/Impliedvolatility4.gif
+
+THE CONTRARIAN VIEW POINT OF THE VIX
+
+An extended and/or extremely low VIX suggests a high degree of complacency and is commonly considered bearish. From the contrarian view point ,many traders are of the opinion that if the VIX becomes low, they'll begin looking for a reason to begin selling stock. On the flip-side of the coin, a very high VIX can indicate a high degree of anxiety which often leads to panic among options traders. This action is often considered bullish by the contrarian, and they'll look for reasons to begin buying stock. High VIX readings usually occur after an extended or sharp market decline with investor sentiment still very bearish. Some contrarians view readings above 35 as bullish. Hence, they'll begin looking for a major market turn to the upside.
+
+The VIX should be used in conjunction with "regular" analysis of price action on price charts. The wise trader will never make a purchase or sale based solely on the price level of the VIX. The wise trader will use the VIX (and its support and resistance levels) in conjunction with the price action of charts of the S&P 500, the Dow, and the NASDAQ.
+
+Using the VIX with charts of these indices will help you get a good grasp of the current market psychology. Since market movements are based entirely on human emotions, it is important for traders to understand psychological indicators. When the VIX is used correctly it helps you stay on the right side of the market and make profitable trades. 
+
+SUMMARY
+Understanding Investor Sentiment (or  Investor Psychology) is by far the most powerful tool an investor can use to understand exactly where the stock market is, and where it is going. But it is often hard to digest, as it is counter intuitive to our human nature. 
+
+Here is a recent example that will help illustrate this point.
+
+In September 2005, the TSX was making multi year highs. While the VIX Indexes was down near multi year lows. Standing back and looking at these two pieces of information, you might question the wisdom of adding long-term money to this market at this time.
+
+You might, but human nature would not.
+
+From GARY NORRIS
+Canadian Press
+Mon Oct 17, 3:58 PM ET
+
+Canadians are shovelling money into mutual funds almost like it's 2001 again, with September purchases of $1.8 billion - up from net redemptions of $545 million a year ago. 
+
+The Investment Funds Institute of Canada said Monday that investments in long-term funds - equity, bond and other funds excluding short-term money market funds - topped half a trillion dollars for the first time. "This underlines the fact that investors are making long-term commitments to funds, and not simply parking their investments temporarily in money market funds," commented Tom Hockin, president of the fund industry association.
+
+Sales in the first nine months of the year, net of redemptions and excluding reinvested distributions, totaled $18.4 billion, "the highest net sales figure since the same period in 2001," Hockin observed.
+
+Yes, you read that correctly, Canadian have not been this enthusiastic since the last time the market was peaking. 
+
+TSX Sample Chart
+http://www.theuptrend.com/ebook/ImpliedvolatilityB.gif
+
+Now we don't have enough data yet, but since Canadian Mutual Fund investors did their "extreme" mutual fund shopping last month, the market has already dropped 800 points.
+
+Now ask yourself, if you were going to put money into this market, was September the best, low risk time to do so in the past 5 years? Were these investors thinking analytically, or did the emotion of greed cloud their judgments? 
+
+My guess is that this is what I like to call "Panic Buying", of Canadian Mutual Funds last month, will signal the very top of this market, and be the catalyst for a major sell off. 
+
+Only time will tell if I am right.
+
+

@@ -1,0 +1,67 @@
+Title: 
+Career Paths For Comptia A+ Certified Technician
+
+Word Count:
+502
+
+Summary:
+The world is your oyster. Where you decide to take your career after this is entirely up to you. There are some things to consider depending on your geographic location. If you happen to live in or near the larger populated cities, competition for entry-level technical positions can be fierce. More and more IT graduates enter the workforce each day. By obtaining your A+ certification you can have a substantial advantage over your competition in the career world, as well as ha...
+
+
+Keywords:
+CompTIA A+ certification, A+ Certification, comptia A+, A+ study, A+ certified, technician
+
+
+Article Body:
+The world is your oyster. Where you decide to take your career after this is entirely up to you. There are some things to consider depending on your geographic location. If you happen to live in or near the larger populated cities, competition for entry-level technical positions can be fierce. More and more IT graduates enter the workforce each day. By obtaining your A+ certification you can have a substantial advantage over your competition in the career world, as well as having a good foundation for adding more certifications too. 
+
+Computer repair and technical support can however be quite lucrative. Here are some of the common fields that your A+ cert can make you a part of: 
+
+*Field service technicians 
+*Help Desk and Customer Service 
+*PC technicians 
+*Computer Manufacturing (DELL, HP, IBM etc.,) 
+
+However the opportunities for advacement and alternate fields are virtually endless. Here are some areas where specialized training and skills are in large demand: 
+
+- Computer Forensics 
+(Due to an increase in computer related crimes such as identity theft etc., lead to a greater need for people to analyze data without corruption.) 
+
+- Disaster prevention and recovery 
+(Oh-No!, I forgot to back-up my files. Now what do I do?) 
+
+- Personalized Training 
+Teach corporate and home users how to use software applications, prevent data loss and identity theft.) 
+
+- LSDBMS and VLSDBMS 
+(Large Scale Database Management Systems and Very Large Scale Database Management Systems) otherwise know as terabyte data warehousing. 
+
+Other Career Paths: 
+Once you have gone through the IT industry right of passage, the CompTIA A+ certification. Your career path can go in any direction you decide to take it. Let's take a look at some different paths to follow. 
+
+The Hardware Path: 
+You can go from simple computer repair to manufacturing high-end workstations and servers. 
+
+The Technician Path: 
+The next step is taking the Net+ Exam and installing network cabling, supporting corporate end users and managing the corporate desktop. 
+
+Administration: 
+Network support, configuring routers and managing user accounts on the corporate servers. This is also the well known Nework+/ MCSE/NOVEL CNA/Cisco CCNA track. 
+
+Development: 
+Design and manage the companies web presence and intranet. 
+(.NET, ASP, MsSQL, PHP, MySQL, Oracle, ColdFusion) 
+
+As you can see from just this small list the possibilities are astounding. This is only a small percentage of the technologies and career paths for you to choose from. The table below lists various other certifications that you can combine with A+ to take your career in a new direction. Also visit Comptia's Related certification page for more information on how to apply A+ towards advanced certifications by vendors such as Cisco, Microsoft and more. 
+
+* Hardware: Server+, Manufacturing 
+
+* Technician: Net+, MCDSP, MCP/MCSA (Microsoft Track) 
+
+* Administration: Network+,CCNA/CCNP,CNA/CNE,Linux Track, MCSE 
+
+* Development: .NET, MCDBA, PHP/MySQL (Open-source Track) 
+
+Information technology is an ever changing arena. And while you may have decided on a specific career path, the benefits of the CompTIA A+ certification will remain a solid foundation for you to build on.
+
+

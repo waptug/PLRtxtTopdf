@@ -1,0 +1,99 @@
+Title: 
+Cisco CCNA Certification Exam Tutorial:  ISDN Details You Must Know
+
+Word Count:
+422
+
+Summary:
+Learn vital ISDN details you need to know to pass the CCNA exam from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+cisco, free, exam, pass, tutorial, isdn, dialer, map, interesting, traffic, group, access, list
+
+
+Article Body:
+CCNA exam success depends partially on knowing the details of ISDN, and there are plenty of them!  To help you review for your CCNA exam, here are a few ISDN details that you must know on exam day. (They help in the real world, too – and there are still plenty of ISDN networks out there!
+
+The Cisco-proprietary version of HDLC is the default encapsulation type for serial and ISDN interfaces.
+
+R2#show interface serial0
+
+Serial0 is up, line protocol is up
+
+  Hardware is HD64570
+
+  MTU 1500 bytes, BW 1544 Kbit, DLY 20000 usec, rely 255/255, load 1/255
+
+  Encapsulation HDLC, loopback not set, keepalive set (10 sec)
+
+
+While there’s only one D-channel in BRI, PRI (US) and PRI (EU), the bandwidth of that D-channel does vary from BRI to PRI.  It’s 16 kbps in BRI and 64 kbps in both PRI versions.
+
+The global command isdn switch-type must be configured before you can even begin to have ISDN work.  show isdn status will tell you whether or not you’ve done this correctly.
+
+R2#show isdn status
+
+ **** No Global ISDN Switchtype currently defined ****
+
+ISDN BRI0 interface
+
+        dsl 0, interface ISDN Switchtype = none
+
+    Layer 1 Status:
+
+        DEACTIVATED
+
+    Layer 2 Status:
+
+        Layer 2 NOT Activated
+
+    Layer 3 Status:
+
+        0 Active Layer 3 Call(s)
+
+PAP allows passwords to be different; CHAP requires that they be the same.
+
+PAP requires the “ppp pap sent-username” interface-level command.  CHAP has no equivalent command.
+
+Define interesting traffic with dialer-list and link that list to the interface with dialer-group.
+
+R2#conf t
+
+R2(config)#dialer-list 1 proto ip permit
+
+R2(config)#int bri0
+
+R2(config-if)#dialer-group 1
+
+The dialer idle-timeout value is expressed in seconds, not minutes.  (Even IOS Help isn’t totally clear on this.)
+
+R2(config)#int bri0
+
+R2(config-if)#dialer-group 1
+
+R2(config-if)#dialer idle-timeout ?
+
+  <1-2147483>  Idle timeout before disconnecting a call
+
+R2(config-if)#dialer idle-timeout 120
+
+
+Dialer map maps a remote IP address to a remote phone number.  You never dial the local router’s phone number.
+
+dialer load-threshold requires the ppp multilink command to be configured, and the value of dialer load-threshold is expressed as a ratio of 255, NOT 100.  For example, if you want the second b-channel to come up when the first reaches 50% of capacity, the value to express with dialer load-threshold would be 50% of 255 – which equals 127.
+
+R2(config)#int bri0
+
+R2(config-if)#encap ppp
+
+R2(config-if)#ppp multilink
+
+R2(config-if)#dialer load-threshold ?
+
+  <1-255>  Load threshold to place another call
+
+
+Success on the CCNA exam depends on knowing the details. Keep studying, keep practicing on real Cisco routers and switches, keep a positive attitude, and you're on your way to CCNA exam success!
+
+

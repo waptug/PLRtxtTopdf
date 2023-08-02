@@ -1,0 +1,68 @@
+Title: 
+Cisco Routing For The CCNA And CCNP:  Administrative Distance
+
+Word Count:
+445
+
+Summary:
+AD seems easy enough, but it's commonly misunderstood by Cisco certification candidates.  Chris Bryant, CCIE #12933, reviews this important topic with several illustrated examples.
+
+
+Keywords:
+ccna, ccnp, cisco, exam, pass, administrative distance, ad, study guide, nat, rip, ospf, eigrp, routing table
+
+
+Article Body:
+The textbook definition of "administrative distance" is simple enough: "the measurement of a protocol's believability". It's not enough to know the definition, however you've got to know when AD comes into the picture and when it does not.
+
+When a packet needs to be routed, the router looks in its routing table for the next-hop IP address the packet should take to get to the destination. There may be more than one matching path, in which case the router will look for the "longest match". The route that has the longest match - the route with the most bits in the mask set to "1" - will be the route that is used.
+
+Consider the following three routes from a fictional Cisco router:
+
+I 172.17.0.0 /24 via 172.1.1.1
+
+O 172.17.0.0 /25 via 173.1.1.1
+
+R 172.17.0.0 /26 via 174.1.1.1
+
+This router has three possible next-hop IP addresses that it can send packets destined for the network 172.17.0.0. The masks are of different lengths, meaning that the route with the longest match (again, the route with the most bits set to "1") will be used. In this example, the RIP route will be used, since it has the longest match with a mask of /26. The administrative distances do not matter.
+
+AD does matter when the masks are the same length, as shown here:
+
+I 172.17.0.0 /24 via 172.1.1.1
+
+O 172.17.0.0 /24 via 173.1.1.1
+
+R 172.17.0.0 /24 via 174.1.1.1
+
+The longest match rule always precedes the use of AD, but here there is a three-way tie regarding the masks. They're all /24 (or 255.255.255.0 in dotted decimal). AD will be used to break this tie.
+
+As mentioned, AD is a measurement of a protocol's believability. It is important to keep in mind that the lowest AD will be preferred. And while the routing table will show you the ADs of the respective protocols, it's a very good idea to know these ADs before taking the CCNA or CCNP:
+
+Connected route: 0
+
+Static Route: 1
+
+EIGRP Summary: 5
+
+External BGP: 20
+
+EIGRP (Internal): 90
+
+IGRP: 100
+
+OSPF: 110
+
+ISIS : 115
+
+RIP: 120
+
+EIGRP (External) : 170
+
+Unknown: 255 (A router will not believe a source with an AD of 255, and such routes will not be placed into the routing table.)
+
+The three protocols we looked at in the comparison were RIP, IGRP, and OSPF. While your first instinct may be that the OSPF route would be the most believable, IGRP actually has a lower AD than the other two and would be the route installed in the routing table.
+
+Since IGRP does not support variable-length subnet masking and OSPF does, you may never see this scenario outside of an exam question. But if you do see it in the exam room or in a production network, you'll understand how an IGRP route could be preferred over an OSPF route.
+
+

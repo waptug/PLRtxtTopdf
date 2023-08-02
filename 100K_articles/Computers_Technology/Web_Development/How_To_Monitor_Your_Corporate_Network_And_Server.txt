@@ -1,0 +1,28 @@
+Title: 
+How To Monitor Your Corporate Network And Server
+
+Word Count:
+543
+
+Summary:
+The purpose of this article is to provide you with the information needed to capture network traffic from a local area network and the internet using some latest Network Monitors software. Network Monitoring Software is a network diagnostic tool that monitors local area networks and provides a graphical display of network statistics. You can use these statistics to collect information from the network's data stream. These software will allow you to increase the reliability an...
+
+
+Keywords:
+network,software,downloads,reviews
+
+
+Article Body:
+The purpose of this article is to provide you with the information needed to capture network traffic from a local area network and the internet using some latest Network Monitors software. Network Monitoring Software is a network diagnostic tool that monitors local area networks and provides a graphical display of network statistics. You can use these statistics to collect information from the network's data stream. These software will allow you to increase the reliability and productivity of your corporate servers.
+
+Intellipool Network Monitor is an easy-to-use, browser based network monitor that can help you to monitor a variety of different protocols and services on LAN or internet machines. It runs as a service and consumes minimal system resources. The modern interface is web based and all you need is a device with a web browser to control Intellipool Network Monitor from the SSL protected web interface. Sentry is structured into actions, objects and agents as well as configurable operators and groups. Monitoring agents include RDP 5.0(Windows Terminal Server), ICA (Citrix Metaframe 1.7-1.8), ODBC, LDAP, HTTP, FTP, SMTP, POP3, DNS, TFTP, IMAP4.
+
+NetVizor is a strong network surveillance tool, that allows you to monitor your entire network from one centralized location. It enables you to track workstations and individual users that may use multiple PCs on a network. NetVizor combines real-time remote surveillance, administration, and individual user monitoring and can record keystrokes, web/email activity, software activity, documents viewed, screenshots and much more. All logs are store on the central server and a detailed report can be viewed from a browser interface.
+
+LANState is a visual network mapper with monitoring functionality which allows you to see the state of your network at any time. It displays network map and monitors device state (active/inactive) in real-time. LANState monitors shared resources, shows traffic speeds, and notifies you on miscellaneous events.The software includes a number of features for administrators such as sending messages, shutting down and turning on remote computers, ping, name lookup, trace route, obtaining information on remote computers, creating reports, etc. LANState does not require installing any client program on the remote computers on your network. 
+
+CommTraffic is a network utility for collecting, processing, and displaying traffic and network utilization statistics for network connections, including LAN and dial-up. It shows traffic and network utilization statistics for each computer in the segment. The program provides a very attractive an customizable interface, with an optional tray icon menu that displays general network statistics. You can also generate reports that reflect the network traffic volume and Internet connection expenses (if any). CommTraffic supports virtually any rate plan your ISP might use, such as the one based on connection time, traffic volume, time of the day, and other measures. You can set alarms, that will inform you when certain criteria (e.g. amount of traffic, expenses) are reached. 
+
+ManageEngine VQManager is from adventnet.com, It can monitor any device or user-agent that supports SIP (RFC 3261) and RTP / RTCP (RFC 3550). VQManager monitors real-time VoIP QoS metrics to give instantaneous reports, self-configurable alerts & in-depth fault probing all from a single web interface. How does VQManager help keep your VoIP infrastructure up and optimized? Real-time, 24x7 non-intrusive monitoring of various QoS metrics allows speedy identification of VoIP faults and quality deterioration.
+
+

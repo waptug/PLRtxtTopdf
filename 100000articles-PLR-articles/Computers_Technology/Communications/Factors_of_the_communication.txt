@@ -1,0 +1,41 @@
+Title: 
+Factors of the communication
+
+Word Count:
+684
+
+Summary:
+Factors of the communication are, in the information theory of the engineer and mathematician Claude And Shannon and the sociologist Warren Weaver, (mathematical The Theory of Communication, Urban: The University of Illinois Press, 1949) the six elements that take part in the transmission of a message or information. They are: source, transmitter, signal, noises, receiver and adressee. This scheme soon was extended with more elements: emitter, code, message, channel, redundancy, emitted signal, received signal, situation and context. Shannon was in charge of the cuatificables aspects of the process, whereas Warren Weaver expanded east scheme when indicating that the communication problems could be analyzed in three levels: technician, semantic (referred to the meaning and interpretation of the message) and pragmatic (on the consequences of the communication in the behavior of the people
+
+
+Keywords:
+Factors of the communication
+
+
+Article Body:
+Factors of the communication are, in the information theory of the engineer and mathematician Claude And Shannon and the sociologist Warren Weaver, (mathematical The Theory of Communication, Urban: The University of Illinois Press, 1949) the six elements that take part in the transmission of a message or information. They are: source, transmitter, signal, noises, receiver and adressee. This scheme soon was extended with more elements: emitter, code, message, channel, redundancy, emitted signal, received signal, situation and context. Shannon was in charge of the cuatificables aspects of the process, whereas Warren Weaver expanded east scheme when indicating that the communication problems could be analyzed in three levels: technician, semantic (referred to the meaning and interpretation of the message) and pragmatic (on the consequences of the communication in the behavior of the people.
+
+  Later, Californian investigators of the High Wood School adopted a very critical position with respect to this model, who considered was not able to include the universal complex of the human communication, a process filled with interactions. Watzlawick, Jackson and Beavin defined in 1967 five axioms of the human communication, of which we emphasized:
+
+1) It is impossible not to communicate. In the human interaction, all conduct has the value of a message. As noconducta does not exist, we are always communicating. 
+2) All communication has a content level (what we say) and a relational level (to whom and how we say it). We not only transmitted data, also we establish a relation with our interlocutor. 
+3) the people use so much the communication digital (linguistic symbols and/or written) like the analogical one (nonverbal language). 
+The factors or elements that take part in the communication are, more or less, the following ones:
+
+The source is the information or content in gross without codifying for being transmitted in the message. For example, the temperatures of a weather message. 
+The emitter is the element that takes and elaborates the source according to a code to transmit a message elaborated by means of the same one. The man of the time, for example. 
+The code is the set of signs and rules of combination of such that serves to transmit a information or source according to a comprehensible or decodable symbolic system for the emitter and the receiver. For example, the system of measurement of temperatures that we adopt in a weather message: centigrade, Réaumur scale, Fahrenheit... or the language that are used in a weather message: the Spanish, the English... 
+The message is the information of the source already elaborated and formed by means of the code: the weather message as it leaves emitted. 
+The emitted signal is the intensity of the transmission once leaves the emitter, always more intense and less modified or distorted than the received signal.   
+
+The channel is the average physicist through as the message is transmitted: nervous system, air, receive, water... 
+
+The noise is all element, psychic physicist or, whom a loss or distortion in the content causes or forms of the message: opacity of the channel, weakness of the signal, distances, fatigue of the emitter, bad understanding or possession of the code, ambiguity, deafness, distraction, madness, prejudices etc... 
+The redundancy is the recurrent repetition of information that is made in the message in order that the alterations, distortions and losses of information that causes the noise do not cause a flight of excellent information. 
+The context is the knowledge of a series of lingüísticas circumstances (previous messages to the message, necessary knowledge of presuppositions and data for the intelección of the message) that is to have the message to be able to be understood exactly. 
+
+The situation is the physical, temporary and space frame, of extralinguistic nature, in which the communicative process is developed, and that sometimes is essential to be able to interpret a message correctly. 
+The collector is that to that the message goes destined, but that it necessarily does not have to be the element that deciphers it. 
+The receiver is the one who receives and deciphers to the message codified by the emitter using the same code whereupon it was based if the transmission is ideal.
+
+

@@ -1,0 +1,66 @@
+Title: 
+Getting Professional Quality Sound From Your Camcorder
+
+Word Count:
+918
+
+Summary:
+Interviews and presenters
+
+Nowadays camcorders are used for more than just filming home movies. A large community of amateur videographers now film short clips to put on web sites such as ‘Google video’, ‘You Tube’ and their own personal sites. Some of these are purely for entertainment while others are for information purposes e.g. local history societies interview people for their memories of the locality.
+
+The quality of modern camcorders and computer based editing sys...
+
+
+Keywords:
+camcorder, mini dv, video, microphone, recording, sound, interview
+
+
+Article Body:
+Interviews and presenters
+
+Nowadays camcorders are used for more than just filming home movies. A large community of amateur videographers now film short clips to put on web sites such as ‘Google video’, ‘You Tube’ and their own personal sites. Some of these are purely for entertainment while others are for information purposes e.g. local history societies interview people for their memories of the locality.
+
+The quality of modern camcorders and computer based editing systems combined can produce excellent visual results which are often let down by poor quality sound. The main reason for this is that the built-in video microphone is usually too far away from the people being filmed.
+
+At the time of filming, our ears, eyes and brain work together to effectively suppress the reverberation and other unwanted sound sources in the room to allow us to hear what someone is saying, what we hear is different to what a microphone ‘hears’.
+
+This is where external microphones are required, the closer a microphone can get to the subject, the quieter other unwanted sounds effectively become.
+
+If at this stage you don’t have any external microphones then the best advice for getting good quality sound from the built in video microphone is to get your camera as close to your sound source as possible i.e. about 3 feet away, however you might still hear some camera motor noise. If you are taking videography seriously then it’s best to wear closed-back headphones so that you only hear what will be on the audio tracks.
+
+Usually camcorders have a built in stereo electret microphone which can either be unplugged from its socket or there are external microphone sockets and some means of switching between them and the built in video microphones. An A/V socket is usually available for plugging in an external audio mixer.
+
+It might be necessary to buy a ‘stereo plug to two mono sockets’ lead so that you can make full use of the two tracks that are available on most camcorders.
+
+Presenter
+
+If your presenter needs to be mobile then it would be best to buy or rent a radio microphone kit (make sure you get a kit that has a small battery powered receiver - not a large mains powered one), this allows a lapel microphone (usually omni pickup characteristics) or a plugged in handheld microphone (usually cardioid pickup) to be permanently close to the presenter’s mouth. The lapel microphone is usually worn on a tie, suit lapel or shirt, try to avoid placing it on a shirt collar since this picks up too much sound from the throat, which sounds un-natural.
+
+If the presenter is always static and fairly close to the camera at all times then an electret ‘line microphone’ can be worn connected via an extension lead, which should be framed out of shot.
+
+Presenter and Interviewees
+
+If the presenter is interviewing several people, one person at a time, then a handheld cabled or radio microphone can be used, this can be a cardioid dynamic or condenser microphone. To avoid missing parts of questions and/or answers due to poor microphone technique, a separate lapel microphone can be worn by the interviewer who then points the handheld microphone at the interviewees.
+
+If a large group of people are to be interviewed then it would be best to have a ‘boom operator’ to concentrate on pointing a hypercardiod microphone on a ‘fishpole’ at the interviewee who’s talking.
+
+Alternatively employ a sound recordist with an audio mixer with a sufficient number of microphone inputs and lapel microphones to fade up whoever is talking in the group of interviewees. The presenter’s microphone goes to one track and interviewees to the other.
+
+At the editing stage the relevant audio track can be favoured to get as ‘close’ a sound as possible, if both tracks are faded up all the time then the sound becomes too ‘open’ and less inteligible.
+
+If you only have one camcorder then it would be best to concentrate your shots on the interviewees and then after the interview to take some close-ups of the interviewer asking the questions and possibly an introduction and conclusion plus the ‘noddy’ shots to help your edit. A wide shot of the whole group where you can’t see the interviewer or interviewees talking is another useful shot for editing purposes.
+
+Camcorder technical issues.
+
+The built in microphones and pre-amplifiers on most domestic camcorders may not be good enough for professional requirements. It is best to use a separate audio mixer and microphones plugged into the A/V input and switch off any built in ‘auto’ functions and limiters and then set the recording levels in the camera manually according to the Tone generator in the audio mixer.
+
+Analogue camcorders will have to set their levels at -4vu and digital camcorders at 20db below full scale and set the audio sample rate to the highest setting i.e. 48khz.
+
+If you are using microphones plugged directly into the camera it is best to manually control their volume (sometimes quite fiddly on domestic camcorders) or accept the potential downside of ‘pumping’ audio if you elect to use the ‘auto’ functions.
+
+Condenser microphones will need a separate power supply on most camcorders unless they are the semi-professional and professional versions, in which case you’ll have to select phantom power to be active on each channel.
+
+For detailed advice on recording different scenarios go to http://www.recording-microphone.com/video-microphones.htm
+
+

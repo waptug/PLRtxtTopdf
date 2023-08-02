@@ -1,0 +1,42 @@
+The Role of Page Length in Website Usability
+
+The Internet has provided us with new ways of doing things such as communicating, gathering information and making business transactions. Websites form the backbone of the Internet. They are primarily created to be able to serve as a tool for people to live their lives in this modern world. 
+
+The use of Internet application is very important especially to the people who have impairments. 20% of the American population is affected by some kind of disability. The Internet has been able to give the disabled avenues through which they can perform functions that they have not been able to do before.
+
+Usability
+
+The usability of websites is one of the pressing concerns of web developers today. Usability refers to the easiness of navigation and overall access of information through a website. Websites are now being developed to be able to provide maximum usability to the widest range of surfers. A website’s features must be able to assist the surfers rather than be hindrances.
+
+There are many perceived benefits from improving the usability of a website. Not only will the surfers, particularly those who have some kind of impairment but also the web developers, the businessmen and the whole Internet community as well.
+Improved website usability will result in end-user satisfaction. A survey which involved people who were trying to avail certain services and products from the Internet revealed that 39% of all availing attempts are spoiled because the buyers are discouraged by the poor usability of the website. Improving the website will definitely end in user satisfaction.
+
+Usability will also result in the competitiveness of the website. There are millions of websites that are out there today, and the number is growing faster than ever before. What separates the popular ones from the not-so-popular ones is website usability. People want to access information through websites and they are particularly looking for two basic features: quality of content and access. There’s no sense in designing a website with poor information. Poor access tools will also make a website not likable even though it contains well written contents.
+
+Page Length 
+
+There are many factors in determining the usability of a website. A website with good usability will have quality contents, good accessibility, navigation and readability. The length of the pages might seem like an impertinent thing when it comes to usability, but it is actually a factor to consider in website development.
+
+The Internet browser is like a portal which takes people to wherever they may want to go in the virtual world of the Internet. This is why the length of the web page is important. The pages must be designed in a way that they accommodate and present the information to the visitors in a comprehensive way which is easy on the eyes.
+
+Short versus Long
+
+When it comes to determining the length of the page, it all boils down to a simple yet important decision- whether to use short or long pages. In determining this, one should always remember that the length of the web pages may not be uniform. The length of each page must correspond to its contents and its purpose.
+
+In determining the length of the page, one must consider the following:
+
+1) Contents
+
+Again, the length of the page is dependent on its contents. The homepage which contains the overview of the webpage utilize short pages most of the time. Pages which contain information which can be easily be browsed should also utilize short pages. Pages containing long graphics should be put in short pages as well.
+
+If the page contains information that need to match the size of its paper counterparts, the said web page must be long enough to do so. Sitemaps and other such pages must be long enough to accommodate all the information needed.
+
+2) Go back to the goals
+
+The overall determination of the length of the web pages must be structured within the whole planning process for the development of the website.
+
+3) Scrolling
+
+A developer can choose between providing a scroll bar or a page link in developing pages which contain reading materials. If speed is deemed as a key factor in the reading process, the developer might want to use a link instead of a scroll bar.
+
+These are just some basic ways on how to improve a website’s usability with the proper determination of the web pages. These should be integrated with the other ways of improving website usability.

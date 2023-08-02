@@ -1,0 +1,116 @@
+Title: 
+How To Prevent Thieves From Stealing Your PDF Ebooks!
+
+Word Count:
+1105
+
+Summary:
+There are 2 main options for protecting your PDF file:
+
+OPTION 1: Use Adobe Acrobat's basic protection.
+
+Adobe Acrobat allows you to set basic protection for your PDF document. This includes:
+
+* allow/disable the ability to copy text of document
+* allow/disable printing of file
+* allow/disable changing document
+* require password to open document (Yes their password protection was broken a few years back, but it's still adequate protection and will keep out most peop...
+
+
+Keywords:
+pdf, security, document, protection, password, lock, file, ebook, secure
+
+
+Article Body:
+There are 2 main options for protecting your PDF file:
+
+OPTION 1: Use Adobe Acrobat's basic protection.
+
+Adobe Acrobat allows you to set basic protection for your PDF document. This includes:
+
+* allow/disable the ability to copy text of document
+* allow/disable printing of file
+* allow/disable changing document
+* require password to open document (Yes their password protection was broken a few years back, but it's still adequate protection and will keep out most people.)
+
+Ideally, to use this option you should use Adobe Acrobat, however the high cost may put that out of reach of many. Fortunately, there are MANY, MANY inexpensive PDF creators that will allow you to also set some of these permissions.
+
+Such as:
+http://www.pdf995.com
+http://www.pdffactory.com
+http://www.deskpdf.com
+
+There are also some standalone applications like: http://www.verypdf.com/encryptpdf/index.htm
+
+Overall, option 1 is what I call "static protection". Meaning, once you choose the security and then distribute the file, you cannot change the security for those files that are already distributed. For example, you distribute a file to Client A in December. In January, your relations with the client become strained and you no longer want them to have access to your file. Unfortunately, with static protection, you cannot change their access permissions. It is already "set".
+
+Though this option may allow you to prevent copying text within the file, it does NOT prevent a user from copying the entire file and redistributing it to others. Though it may allow you to require a password to access the file, the password can be easily passed around so anyone can have access. So it's not entirely secure and easily circumvented. If protection of your document is critical, you should boost protection using additional mechanisms.
+
+OPTION 2: Use a third party protection system.
+
+This option includes systems that offer "real time" control over your document. "Real time" means that you have the ability to change or alter the document security after it has been delivered to the end user. This is what I choose to focus on as it provides the greatest amount of security and post-distribution control.
+
+Some just offer basic lock and unlock ability, while others go into more extensive PDF settings that can be altered at any point. Here are some things you should be looking for when evaluating a PDF protection system.
+
+1. Does the system offer complete protection?
+
+This the first thing you should look at because if the protection is not up to par, move on! You will never even get to the other points.
+
+When evaluating protection features, make sure you check each feature out for yourself and don't always take the company's word about protection. Many times I have seen companies advertising certain protection features on their website, but in testing, the product doesn't seem to do what is claimed. So, always check first.
+
+For PDF files, there are some basic areas that any adequate system must protect against. In order to be totally protected, the PDF security system you use MUST:
+
+* Prevent saving a copy of file.
+* Prevent emailing of file and exporting or extracting pages from file
+* Prevent copying of file from the TEMP folder
+* Prevent copying file and text to the clipboard
+* Prevent redistilling of the file
+* Prevent unlimited, uncontrolled printing of file
+* Prevent access to file without permission
+* Watermark all printed pages
+
+If any system that you look into does not cover these, I recommend that you move on to something that does.
+
+2. Can you afford it?
+
+If the system passes the security test, the next thing you should look at is the cost of the system. Is it within your budget? Can you justify the price of this type of service? Do you buy the entire system and run it on your server, or is it a hosted service that charges you a monthly fee. There are pros and cons of both.
+
+If you run the system on your server then you will avoid monthly fees, but these types of systems usually require extensive programming and integration work which can increase your overall costs and take weeks to months before you get up and running.
+
+If you choose a third party system that is hosted by another company, you avoid the integration issue as most of these services can get you up and running in minutes to hours.
+
+3. Does the system offer auto-distribution?
+
+Does it automatically deliver your document to your customers and clients hands-free? If so, does it integrate with your payment system and/or shopping cart?
+
+4. Is the system flexible?
+
+The next thing you should look at is the flexibility. Does it allow you to tweak and modify the security options to fit your unique requirements? The ability to customize things such as program icons, customer download emails, thank you pages, etc. makes a big difference.
+
+5. Is there any customer support?
+
+What kind of support and help will you receive when you purchase the product or service? Is their any documentation of all features and uses? What good is having the best system if you don't know how to use it?
+
+6. Is the Company reliable? Does it protect my data?
+
+Is this company reliable? Do you feel that the the company will shut down, thus leaving your documents inaccessible and/or unprotected? Ask them what measures do they provide to ensure that your information remains protected in this event? Do they back up your data? If so, how often?
+
+7. Can you demo the system?
+
+Most companies offer a trial or demo period for free or a small fee. You should always try the system out to see it "in action". Set it up to do exactly what you are looking for and see if it works the way you need. Never sign up or purchase something that you have not yet tested.
+
+8. Other questions?
+
+Those are the major criteria, of course there are other things that you may want to consider such as:
+
+* What is their cancellation/refund policy? Do they require a contract or can you sign up for a month to month service?
+
+* Does their system use Acrobat Reader or another PDF viewer? If they use Acrobat Reader, do they have an Adobe DRM license which is required for all Acrobat reader security systems?
+
+* Does it allow you to contact your database of users/clients
+
+* Can you export your user database
+
+There is a lot to consider when deciding on a PDF protection system. My advice is Do NOT rush into it. Because once you choose a system and start distributing files using that system, you are stuck with it.
+
+

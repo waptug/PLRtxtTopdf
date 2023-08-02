@@ -1,0 +1,18 @@
+The History of Internet Search Engines
+
+Just a little over ten years ago, if a person needed information they were forced to go to the local library and spend hours entombed amongst shelves of books. Now that the internet is available in almost every home finding information is easier then ever before. Now when someone needs information all they have to do is boot up their computer and type their needs into a search engine
+
+A search engine is an information retrieval system that is designed to help find information stored on a ca computer system.
+
+In 1990 the very first search engine was created by students at McGill University in Montreal. The search engine was called Archie and it was invented to index FTP archives, allowing people to quickly access specific files. FTPs (short for File Transfer Protocol) are used to transfer data from one computer to another ocer the internet, or through a network that supports TCP/IP protocol. In its early days Archie contacted a list of FTP archives approximately once a month with a request for a listing. Once Archie received a listing it was stored in local files and could be searched using a UNIX grep command. In its early days Archie was a local tool but as the kinks got worked out and it became more efficient it became a network wide resource. Archie users could utilize Archie's services through a variety of methods including e-mail queries, teleneting directly to a server, and eventually through the World Wide Web interfaces. Archie only indexed computer files.
+
+A student at the University of Minnesota created a search engine that indexed plain text files in 1991. They named the program Gopher after the University of Minnesota's mascot.
+
+In 1993 a student at MIT created Wandx, the first Web search engine. 
+
+Today, search engines match a user's keyword query with a list of potential websites that might have the information the users is looking for. The search engine does this by using a software code that is called a crawler to probe web pages that match the user's keyword. Once the crawler has identified web pages that may be what the user is looking for the search engine uses a variety of statistical techniques to establish each pages importance. Most search engines establish the importance of hits based on the frequency of word distribution.  Once the search engine has finished searching web pages it provides a list of web sites to the user.
+
+Today, when an internet user types a word into a search engine they are given a list of websites that might be able to provide them with the information they seek. The typical search engine provides ten potential hits per page. The average internet user never looks farther they the second page the search engine provides. Webmasters are constantly finding themselves forced to use new methods of search engine optimization to be highly ranked by the search engines.
+
+In 2000, a study was done by Lawrence and Giles that suggested internet search engines were only able to index sixteen percent of all available webpage's.
+

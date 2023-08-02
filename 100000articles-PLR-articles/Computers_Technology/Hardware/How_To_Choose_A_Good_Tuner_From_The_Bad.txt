@@ -1,0 +1,56 @@
+Title: 
+How To Choose A Good Tuner From The Bad
+
+Word Count:
+571
+
+Summary:
+Choosing a tuner for your system is of little difference from choosing other components. When auditioning other components, people are primarily concerned with their sound quality, not their technical performance. 
+
+For example, if a preamplifier under audition sounds good, you do not need to worry much about its technical performance. Because .if it sounds good, then it is working well. 
+
+Tuners, on the other hand, exhibit great variability in their technical performance...
+
+
+Keywords:
+tuners
+
+
+Article Body:
+Choosing a tuner for your system is of little difference from choosing other components. When auditioning other components, people are primarily concerned with their sound quality, not their technical performance. 
+
+For example, if a preamplifier under audition sounds good, you do not need to worry much about its technical performance. Because .if it sounds good, then it is working well. 
+
+Tuners, on the other hand, exhibit great variability in their technical performance. It will not only concern the tuner’s sound; tonal balance, sound staging, portrayal of timbre, etc., but also basic characteristics such as the ability to pick up weak or distant stations, reject adjacent stations, provide a noise-free audio signal, and stay tuned to a station without drifting. 
+
+A tuner’s performance in these areas can be accurately characterized by measurement; this makes tuner specifications much more significant than those of other audio components.
+
+There is a direct correlation between a tuner’s specifications and its sonic performance. You still have to listen to the tuner before you buy, but you can often separate poor performing models from better units by looking at the specification sheets. 
+
+Unlike most audio products, the best high-end tuners have more features, front-panel controls, and displays than the lower-end products.
+
+The price range for a good tuner from a mass-market manufacturer is between $400 and $1000. Some of the higher-end models from mass-market companies offer excellent performance. 
+
+The price range from $750 to $1200 is very competitive, with many superb units to choose from. The very best tuners cost as much as $12,000.
+
+The differences between mediocre and excellent tuners.
+
+Good tuners are characterized by their sensitivity or the ability to pull in weak stations. The greater its sensitivity, the better it can pick up weak or distant stations. 
+
+This aspect is more important in suburban or rural areas that are far from radio transmitters.
+
+On the other hand, a tuner characteristic of greater importance to the city dweller is adjacent-channel selectivity or the ability to pick up one station without interference from the station next to it on the dial. 
+
+This specification defines a tuner’s ability to reject a strong station two channels away from the desired channel. When stations are packed closely together, as they are in cities, adjacent-channel and alternate-channel selectivity are more important than sensitivity.
+
+Equally important to all listeners is the tuner’s signal-to-noise ratio, a measure of the difference in dB between background noise and the maximum signal strength. A tuner with a poor signal-to-noise ratio will overlay the music with an annoying background hiss.
+
+A poor tuner will have trouble receiving weak stations, may lack the ability to select one station when that station is adjacent to another station, have high background noise, and be overloaded by nearby FM transmitters or other radio signal sources.
+
+Many tuners have a high-blend circuit that automatically switches the signal to mono when the signal strength falls below a certain level. 
+
+The difference between high-blend and the mono/stereo switch just described is that the high-blend circuit puts only the treble into mono, leaving the rest of the spectrum in stereo. This gets rid of most of the noise, but maintains stereo separation through most of the midrange and bass.
+
+Lastly, all good tuners have a 75-ohm coaxial antenna input as well as the more commonly used 300-ohm flat-lead input. The coaxial input should be used for best signal transmission between the antenna and tuner.
+
+

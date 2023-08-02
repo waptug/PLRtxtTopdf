@@ -1,0 +1,40 @@
+Title: 
+Four Important Commands For Your CCNA / CCNP Home Lab
+
+Word Count:
+410
+
+Summary:
+There are four commands that probably won’t show up on your CCNA or CCNP exams, but are very helpful when you’ve got your own home lab set up.  Learn these commands from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccna,exam,certification,free,pass,how,home,lab,router,switch,intro,icnd,ccnp,bsci,bcran,cit,debug,show
+
+
+Article Body:
+More CCNA and CCNP candidates than ever before are putting together their own home practice labs.  It's more affordable than it ever has been, and I receive emails daily from new CCNAs and CCNPs who say it's the best thing they could have done to improve their studies.
+
+There are some commands you can configure on your lab routers that won't necessarily be on your CCNA or CCNP exams, but they will make life a lot easier for you.  Let's take a look at just a few of these.
+
+The command "no exec" is short, yet powerful.  Occasionally you'll have what is referred to as a "rogue EXEC" process tie up a line, and you end up having to continually clear lines, which disrupts your practice.  If you have an access server, I highly recommend you configure this command on your lines, as shown here:
+
+ACCESS_SERVER(con)#line 1 8
+
+ACCESS_SERVER(con)#no exec
+
+From your CCNA studies, you know that the command "no ip domain-lookup" prevents a Cisco router from sending a broadcast to find a DNS server anytime you enter something that is not an IOS command - and that includes mistyped commands, which happens to all of us sooner or later.  Make sure to run that command in global configuration mode on all your practice routers.
+
+There are two commands I like to configure on the console line on all my practice routers and switches.  The first is "exec-timeout 0 0", which prevents you from being kicked out of enable mode and back into user exec after a few minutes of inactivity.  (This doesn't sound like much, but you'll get pretty tired of typing "enable" after a while.)  The first zero refers to minutes, the second zero to seconds.  Setting them both to zero disables the exec-timeout function.
+
+The second command prevents the router from interrupting the command you're typing with a console message.  If you've ever been in the middle of typing a router command and suddenly you're interrupted with a logging message, you know that can be pretty annoying.  We don't want the router to not display the message, but we do want the router to wait until we're done entering data.  The command to perform this is "logging synchronous".
+
+R1(config)#line console 0
+
+R1(config-line)#exec-timeout 0 0
+
+R1(config-line)#logging synchronous
+
+You won't see many of these commands on your exams, but after you configure them on your home lab devices, you'll wonder how you did without them!
+
+

@@ -1,0 +1,30 @@
+Title: 
+The Importance Of Image Content Recognition
+
+Word Count:
+524
+
+Summary:
+Content based image search, also known as content based image retrieval (CBIR) is an intuitive development in search engines based on pictures or images rather than on text files. Content based image comparison checks the data on a pixel by pixel basis and checks the internet for like images.  This allows you to click on an image and find similar images on the web.  
+
+The content based image search doesn't look at the pixels and recognize them as an horse, for instance, but...
+
+
+Keywords:
+content based image search, content based image retrieval, CBIR
+
+
+Article Body:
+Content based image search, also known as content based image retrieval (CBIR) is an intuitive development in search engines based on pictures or images rather than on text files. Content based image comparison checks the data on a pixel by pixel basis and checks the internet for like images.  This allows you to click on an image and find similar images on the web.  
+
+The content based image search doesn't look at the pixels and recognize them as an horse, for instance, but instead uses technology to mirror and allow for fuzziness so that pictures that are similar can be identified and brought to the screen.  For example, if you were to go to www.airliners.net and run a search on the photos, you will find the option of viewing a large picture of the thumbnail images, but you can also select the option to view similar pictures.  This is done through the content based image comparison software. Another example of a such kind software is Image Comparer by Bolide Software. http://www.bolidesoft.com/imagecomparer.html
+
+For the person who is searching for just the right image to work with a feature article, or a mood piece, the content based image search is extremely helpful.  The images that have been indexed, and there are thousands, not only have the content based image comparison visual recognition feature, but many of the images which are indexed also have numerous text keywords attached to the images as well.  For example, clicking on a picture of a lightning strike and asking to see similar images brings up dozens of pictures of lightning and storms, as well as dark clouds.  Clicking on the individual images bring a list of content words such as lightning, clouds, electromagnetic phenomenon, thunderstorms, and weather events--among others. 
+
+By using content based image search software, you aren't dependent upon just the text to find a good sidebar image to attach to your article or story, you also have the many picture images that are available on the internet as well. Sometimes the keywords are not rigid, more like a free association type of exercise. Such the above mentioned lightning picture which also contains keywords such as amazement, awe, danger and menacing. 
+
+This makes it possible to write around the picture, or to start with the words and find an appropriate picture image to enhance the written words that you come up with. In addition to writing and blending images with writing. Content based image comparison is largely used in law enforcement as a standard platform for forensic analysis at the digital level.  This technology can be used to do such tasks as to find pornography, to look for copyright violations, to check facial characteristics and many other uses helpful in working with law enforcement tasks.
+
+Another application for the content based image search technology is that of an international property registry. The software has been applied to the identification and prevention of sale of stolen goods. Recovery of items looted during World War II and following before they can be traded or sold has been a direct result of such software technology.
+
+

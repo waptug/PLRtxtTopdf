@@ -1,0 +1,40 @@
+Title: 
+Compact Flash Memory and Data Recovery
+
+Word Count:
+1016
+
+Summary:
+Flash memory gets its name due to its microchip arrangement in such a way, that its section of memory cells gets erased in a single action or “Flash”.
+
+
+Keywords:
+Compact Flash Memory,  Data Recovery
+
+
+Article Body:
+Flash memory gets its name due to its microchip arrangement in such a way, that its section of memory cells gets erased in a single action or "Flash".
+Both NOR and NAND Flash memory were invented by Dr. Fujio Masuoka from Toshiba in 1984.The name 'Flash' was suggested because the erasure process of the memory contents reminds a flash of a camera, and it's name was coined to express how much faster it could be erased "in a flash". Dr. Masuoka presented the invention at the International Electron Devices Meeting (IEDM) held in San Jose, California in 1984 and Intel recognizes the potentiality of the invention and introduced the first commercial NOR type flash chip in 1988, with long erase and write times. 
+
+Flash memory is a form of non-volatile memory that can be electrically erased and rewrite, which means that it does not need power to maintain the data stored in the chip. In addition, flash memory offers fast read access times and better shock resistance than hard disks. These characteristics explain the popularity of flash memory for applications such as storage on battery-powered devices. 
+
+Flash memory is advance from of EEPROM (Electrically-Erasable Programmable Read-Only Memory) that allows multiple memory locations to be erased or written in one programming operation. Unlike an EPROM (Electrically Programmable Read-Only Memory) an EEPROM can be programmed and erased multiple times electrically. Normal EEPROM only allows one location at a time to be erased or written, meaning that flash can operate at higher effective speeds when the systems using; it read and write to different locations at the same time. 
+
+Referring to the type of logic gate used in each storage cell, Flash memory is built in two varieties and named as, NOR flash and NAND flash.
+Flash memory stores one bit of information in an array of transistors, called "cells", however recent flash memory devices referred as multi-level cell devices, can store more than 1 bit per cell depending on amount of electrons placed on the Floating Gate of a cell. NOR flash cell looks similar to semiconductor device like transistors, but it has two gates. First one is the control gate (CG) and the second one is a floating gate (FG) that is shield or insulated all around by an oxide layer. Because the FG is secluded by its shield oxide layer, electrons placed on it get trapped and data is stored within. On the other hand NAND Flash uses tunnel injection for writing and tunnel release for erasing. 
+
+NOR flash that was developed by Intel in 1988 with unique feature of long erase and write times and its endurance of erase cycles ranges from 10,000 to 100,000 makes it suitable for storage of program code that needs to be infrequently updated, like in digital camera and PDAs. Though, later cards demand moved towards the cheaper NAND flash; NOR-based flash is hitherto the source of all the removable media. 
+
+Followed in 1989 Samsung and Toshiba form NAND flash with higher density, lower cost per bit then NOR Flash with faster erase and write times, but it only allows sequence data access, not random like NOR Flash, which makes NAND Flash suitable for mass storage device such as memory cards. SmartMedia was first NAND-based removable media and numerous others are behind like MMC, Secure Digital, xD-Picture Cards and Memory Stick. Flash memory is frequently used to hold control code such as the basic input/output system (BIOS) in a computer. When BIOS needs to be changed (rewritten), the flash memory can be written to in block rather than byte sizes, making it simple to update. 
+On the other hand, flash memory is not practical to random access memory (RAM) as RAM needs to be addressable at the byte (not the block) level. Thus, it is used more as a hard drive than as a RAM. Because of this particular uniqueness, it is utilized with specifically-designed file systems which extend writes over the media and deal with the long erase times of NOR flash blocks. JFFS was the first file systems, outdated by JFFS2. Then YAFFS was released in 2003, dealing specifically with NAND flash, and JFFS2 was updated to support NAND flash too. Still, in practice most follows old FAT file system for compatibility purposes.
+
+Although it can be read or write a byte at a time in a random access fashion, limitation of flash memory is, it must be erased a "block" at a time. Starting with a freshly erased block, any byte within that block can be programmed. However, once a byte has been programmed, it cannot be changed again until the entire block is erased. In other words, flash memory (specifically NOR flash) offers random-access read and programming operations, but cannot offer random-access rewrite or erase operations. 
+
+This effect is partially offset by some chip firmware or file system drivers by counting the writes and dynamically remapping the blocks in order to spread the write operations between the sectors, or by write verification and remapping to spare sectors in case of write failure. 
+Due to wear and tear on the insulating oxide layer around the charge storage mechanism, all types of flash memory erode after a certain number of erase functions ranging from 100,000 to 1,000,000, but it can be read an unlimited number of times. Flash Card is easily rewritable memory and overwrites without warning with a high probability of data being overwritten and hence lost. 
+
+In spite of all these clear advantages, worse may occur due to system failure, battery failure, accidental erasure, re-format, power surges, faulty electronics and corruption caused by hardware breakdown or software malfunctions; as a result your data could be lost and damaged. 
+
+Flash Memory Data Recovery is the process of restoring data from primary storage media when it cannot be accessed normally. Flash memory data recovery is a flash memory file recovery service that restores all corrupted and deleted photographs even if a memory card was re-formatted. This can be due to physical damage or logical damage to the storage device. Data even from damage flash memory can be recovered, and more than 90% of lost data can be restored.
+
+

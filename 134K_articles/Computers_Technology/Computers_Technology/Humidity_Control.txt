@@ -1,0 +1,50 @@
+Title: 
+Humidity Control
+
+Word Count:
+470
+
+Summary:
+Most people are familiar with the importance of humidity control. After all, nearly every home has a humidifier, a dehumidifier, or an air conditioner. Or all three.
+
+The importance of temperature and humidity control systems reaches far beyond the realm of the home. Scientists, researchers and businesses utilize many different types of humidity control systems for a variety of purposes.
+
+Electrical Testing
+
+Humidity control is of paramount importance when it comes to t...
+
+
+Keywords:
+humidity control chambers,stability rooms,environmental chamber,humidity control system
+
+
+Article Body:
+Most people are familiar with the importance of humidity control. After all, nearly every home has a humidifier, a dehumidifier, or an air conditioner. Or all three.
+
+The importance of temperature and humidity control systems reaches far beyond the realm of the home. Scientists, researchers and businesses utilize many different types of humidity control systems for a variety of purposes.
+
+Electrical Testing
+
+Humidity control is of paramount importance when it comes to testing electronic products and components. Often times, a temperature-humidity-bias (THB) test is performed on electrical products within a humidity control chamber. These types of systems are also referred to as environmental chambers.
+
+The purpose of the THB test is to check for moisture induced failures within the electrical product. In order to accomplish this, the product must undergo this test, which uses a constant temperature and an elevated relative humidity. Voltage cycling is sometimes necessary in order to prevent the product from heating up.
+
+Package Testing
+
+Environmental chambers are also used to test the durability of packages as they undergo extreme variations in temperature throughout a specific amount of time.  Researchers observe how the package responds to the temperature and humidity variations while it is inside the humidity control chamber. Mechanical fatigue and thermal expansion are specifically monitored. Using these tests, researchers can determine the effectiveness of packaging materials, regardless of where they are being shipped.
+
+Product Reliability
+
+A number of products are also tested within humidity chambers. A process known as humidity cycling, or temperature-humidity cycling, is used to assess how moisture induced swelling effects the reliability of the product. Since these environmental chambers are capable of changing in a quick and cyclical nature, they accelerate the natural process of damage caused by moisture absorption and desorption, making it possible to determine the long term effects of environmental changes.
+
+Other Uses for Environmental Test Chambers
+
+There are numerous additional purposes for a humidity control chamber. Walk-in incubators, for example, require humidity control for proper hatching of specimens. Similarly, photographic storage rooms and crystal growth rooms have a need for humidity control.  Pharmaceuticals make use of temperature humidity chambers for proper storage of medication. Even restaurants and food processing plants utilize walk-in freezers that require humidity control.
+
+Types of Environment Test Chambers
+
+Environmental laboratory test chambers can be designed to suit any need an application. They are available in walk-in form as well as in reach-in form. Reach-in humidity control chambers are ideal when space is limited, or when only a smaller item needs to be tested in a humidity controlled environment. The walk in humidity control chambers, on the other hand, can be built to any size necessary.
+
+Walk in humidity control chambers generally create the most ideal environment for testing purposes. In addition, they can be built to include refrigeration, heating, dehumidification, humidification, and even lighting.
+
+

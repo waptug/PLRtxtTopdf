@@ -1,0 +1,28 @@
+Title: 
+Cisco CCNA / CCNP Home Lab Tutorial:  Cabling Your Access Server
+
+Word Count:
+381
+
+Summary:
+Learn about the hardware and cables needed to set up your Cisco home lab with an access server from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccna, exam, free, pass, home, lab, router, access, server, frame, relay, switch, 2509, 2511, chris, Bryant, advantage
+
+
+Article Body:
+A Cisco home lab is an invaluable study tool when you're preparing for CCNA and CCNP exam success.  Once you've gotten a couple of routers and switches, you'll quickly get tired of moving that blue console cable every time you want to configure a different device.  The solution to this problem is purchasing and configuring an access server (AS).
+
+For those of you new to access servers, note that these are not white boxes running Microsoft operating systems.  These are Cisco routers that allow you to connect to all the routers and switches in your home lab without moving a cable.  You can physically or logically connect to the access server and work with all your devices from there.
+
+When you're pricing access servers, please remember that you do NOT need an expensive AS.  Right now on ebay there are access servers costing up to $5000 - this is NOT what you want to buy.  What you're looking for is something like a 2509 or 2511, which is going to run you anywhere from $100 - $200.  It's money well spent, because once you get an AS, you'll really wonder how you ever did without it.
+
+The only additional hardware you need is the cable that will physically connect your AS to the other routers and switches in your home lab.  The cable you need is called an octal cable, so named because one end of this cable is actually eight ends, all terminated with a numbered RJ-45 connector.
+
+The large end of the cable is going to be connected to the AS itself.   The cable will connect to a port on the AS that will have "async 1-8" directly above the physical port. It is this port that makes an AS different from other Cisco routers.
+
+Once you've got your AS and this cable, you're ready to configure your AS.  Connect the cable to the AS as described above, and then you will connect one of the RJ-45 connectors to the console port of each one of your routers and switches.  Make sure to note the number that's on the cable itself right below the connector, because that's very important.  In the next part of this home lab tutorial, I'll tell you exactly how to configure your access server for best results, along with a few troubleshooting tips.
+
+

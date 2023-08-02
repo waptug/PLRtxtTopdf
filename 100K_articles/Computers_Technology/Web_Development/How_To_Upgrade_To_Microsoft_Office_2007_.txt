@@ -1,0 +1,61 @@
+Title: 
+How To Upgrade To Microsoft Office 2007?
+
+Word Count:
+371
+
+Summary:
+Microsoft Office 2007 (previously known as Office 12) is Microsoft's newest productivity suite and was made available to the public on 30th January 2007. Office 2007 contains numerous improvements over the previous Microsoft Office 2003, including new server-side tools, enhanced reliability and security, and an entirely different user interface called the "Ribbon" - replacing the aging menus and tools bars in previous Office versions.
+
+Microsoft Office 2007 runs on either W...
+
+
+Keywords:
+microsoft,office,2007,upgrade
+
+
+Article Body:
+Microsoft Office 2007 (previously known as Office 12) is Microsoft's newest productivity suite and was made available to the public on 30th January 2007. Office 2007 contains numerous improvements over the previous Microsoft Office 2003, including new server-side tools, enhanced reliability and security, and an entirely different user interface called the "Ribbon" - replacing the aging menus and tools bars in previous Office versions.
+
+Microsoft Office 2007 runs on either Windows XP (with Service Pack 2), Windows Server 2003 or Windows Vista and has the following hardware requirements:
+- 500MHz processor or higher
+- 256MB memory or higher
+- 2GB hard disk
+- CD-ROM or DVD-ROM
+- 1024x768 monitor
+
+It pays to understand the options available for a smooth upgrade to Microsoft Office 2007. Essentially, you should know the different product editions, versions and corresponding retail prices.
+
+There are 8 editions of Microsoft Office 2007 altogether but only 5 editions are available for retail purchase. The various editions differ by their bundled applications, i.e. Word, Excel, Powerpoint, Outlook (with Business Contact Manager), Accounting Express, Publisher, Access, Infopath, Groove, OneNote and Communicator.
+
+The suggested retail prices and bundled applications for the 5 product editions are listed below:
+
+a) Office 2007 Ultimate Edition
+MSRP: $679 (Full), $539 (Upgrade)
+Applications: Word, Excel, Powerpoint, Outlook with Business Contact Manager, Accounting Express, Publisher, Access, InfoPath, Groove, OneNote, Content Management, Intergrated Forms and Rights Management.
+
+b) Office 2007 Professional Edition
+MSRP: $499 (Full), $329 (Upgrade)
+Applications: Word, Excel, Powerpoint, Outlook with Business Contact Manager, Accounting Express, Publisher and Access.
+
+c) Office 2007 Small Business Edition
+MSRP: $449 (Full), $279 (Upgrade)
+Applications: Word, Excel, Powerpoint, Outlook with Business Contact Manager, Accounting Express and Publisher.
+
+d) Office 2007 Standard Edition
+MSRP: $399 (Full), $239 (Upgrade)
+Applications: Word, Excel, Powerpoint and Outlook.
+
+e) Office 2007 Home & Student Edition
+MSRP: $149 (Full)
+Applications: Word, Excel, Powerpoint and OneNote.
+
+Besides understanding the different product editions, you should know the different versions available and their limitations:
+
+a) OEM Version - you need to purchase new hardware to qualify for this version. However, the license lives and dies with that specific system and is non-transferable.
+
+b) Upgrade Version - more expensive than OEM but cheaper than a Full version. The license is transferable but you need to be upgrading from a previous Office suite to qualify, i.e. Microsoft Works Suite 2000, Office 2003 or Office XP.
+
+c) Full Version - the most expensive version and hence, has the least limitation.
+
+

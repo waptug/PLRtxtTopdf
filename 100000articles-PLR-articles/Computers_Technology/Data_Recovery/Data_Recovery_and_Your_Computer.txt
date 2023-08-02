@@ -1,0 +1,50 @@
+Title: 
+Data Recovery and Your Computer
+
+Word Count:
+403
+
+Summary:
+Data recovery for your computer
+
+
+Keywords:
+data recovery, computer data recovery
+
+
+Article Body:
+Have you ever wondered if what you know about data recovery is accurate? Consider the following paragraphs and compare what you know to the latest info on data recovery. 
+
+Sooner or later your company could become the victim of a natural disaster, or something much more common like a lightning storm or downed power lines.
+ 
+Just because your company may be a small business doesn't mean it's immune to data disasters. If a small business does not have a good and tested disaster recovery plan in place when disaster hits they may never fully recuperate and it may even cause them to go out of business. Sometimes even a data recovery service is unable to be of any help.
+ 
+Following are some questions that should be answered in order to give you some idea of what you need to do to that will help you if you do have a data disaster situation.
+ 
+Do you know where your company's most important data files are located?
+ 
+Are these files being backed up and by what means? 
+
+How often do you run these data backups and are they verified and tested? 
+
+Do you have automated controls that correctly and on a consistent basis do the backups? 
+
+Do your data backup tapes go off-site and how often? 
+
+Do you have some kind of security against tampering or theft of your data backups? 
+
+Do you keep your servers, routers, hubs, and phone system controllers in locked areas to keep them more secure? 
+
+Does just anyone have access to your servers and your other technology assets or do you limit access to at least two, but no more than four people? 
+
+Do you run a locally securable operating system, such as Microsoft Windows 2000 Professional, Microsoft Windows XP, or Microsoft Windows NT Workstation 4,on the company's desktop PCs and notebooks? 
+
+Do you have any confidential data stored locally on any desktop PCs or notebooks? Are any of these systems running an inherently in-secure operating system, such as Microsoft Windows 9x or Microsoft Windows Me? 
+
+Do you prevent unauthorized boot-ups or tampering with BIOS configuration settings by using power-on passwords? 
+
+On your desktop PCs and notebooks, how are main updates, service packs and releases kept current? 
+
+The bottom line is that you can't plan when a data disaster may strike but taking a few steps beforehand may help with your company's survival in the days and weeks following a disaster.
+
+

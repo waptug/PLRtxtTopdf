@@ -1,0 +1,24 @@
+Title: 
+Testing electronic Systems - DUTS
+
+Word Count:
+249
+
+Summary:
+Electronic test equipment, commonly called testgear, is equipment that is used to create stimulating signals and capture the responses from electronic devices under test. These devices are knowns as DUTS, Devices Under Test. Given this controls it is possible to prove the proper operation of a device through these tests, and deem them as being needed of repair or not.
+
+
+Keywords:
+used electronic test equipment, equipment telecom test used, used avionics test equipment, used electrical test equipment, automated equipment test used, used aircraft test equipment, used semiconduct
+
+
+Article Body:
+Electronic test equipment, commonly called testgear, is equipment that is used to create stimulating signals and capture the responses from electronic devices under test. These devices are knowns as DUTS, Devices Under Test. Given this controls it is possible to prove the proper operation of a device through these tests, and deem them as being needed of repair or not.
+
+Electronic test equipment is an essential element to any major electronics system. Ranging from a simple light bulb to expense and even automated tasks,electronic test equipment covers a very large range. In general it can be said that when developing electronic systems that more advanced equipment is needed opposed to when doing routine production testing on existing systems in the field. This rule is not always however true, because every system is different.
+
+Some examples of test equipment are: Ammeter, Voltmeter (Measures voltage), Multimeter (Measures all of the above), Oscilloscope (Measures all of the above as they change over time), Frequency counter (Measures frequency).
+
+In the past, it used to be that tests would have to be initiated by some type of man given command, through a controller or other. With the level of technology present today, the majority of testing is done automatically through the use of computers, either continuously or at given increments. This automation of testing greatly led to an increase in production and in reliability of electronic systems as they almost have the ability to monitor themselves and know when something is going wrong.
+
+

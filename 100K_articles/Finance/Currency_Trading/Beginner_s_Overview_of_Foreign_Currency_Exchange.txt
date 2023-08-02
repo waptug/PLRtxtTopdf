@@ -1,0 +1,82 @@
+Title: 
+Beginner’s Overview of Foreign Currency Exchange
+
+Word Count:
+1236
+
+Summary:
+Foreign currency exchange trading can be very rewarding, but can also be very intimidating to a beginner.  To get started, you will need to know some basics.
+
+
+Keywords:
+money, finance, freedom, financial freedom, currency, foreign currency, foreign currency exchange, forex, make money, compound, home business
+
+
+Article Body:
+Foreign currency exchange trading can be very rewarding, but can also be very intimidating to a beginner.  To get started, you will need to know some basics:
+
+   1. What is foreign currency exchange?
+   2. How is it traded?
+   3. What are the benefits?
+   4. What are the risks?
+   5. How can I get started?
+
+What is Foreign Currency Exchange?
+
+The Foreign currency exchange (FOREX) market is a cash (or “spot”) market for currency.  Unlike the stock exchange, the FOREX market is not located on a trading floor or centralized on an exchange.  Instead, it is entirely electronic within a network of banks and runs 24 hours per day Sunday evening (5:00 pm EST) through Friday evening (4:00 pm EST), excluding some holidays.  The fact that it is all electronic means that you can tap into it from your computer.
+
+How is it traded?
+
+FOREX is traded in currency pairs, for example EUR/USD is the Euro base currency and the US dollar counter (or quote) currency.  There are six major pairs: EUR/USD, GBP/USD (Great Britian pound vs. US dollar), USD/JPY (US dollar vs. Japanese yen), USD/CAD (US dollar vs. Canadian dollar), AUD/USD (Australian dollar vs. US dollar), and USD/CHF (US dollar vs. Swiss Franc).
+
+Currencies are traded in dollar amounts called lots.  For a “standard” account, one lot (called a standard lot) is $1,000 and controls $100,000 in currency.  For example, when you place an order to buy one lot of EUR/USD, you are buying the EUR and simultaneously selling the USD.  The margin you must put up to place the order is $1000 (for a standard lot).  You are going long the EUR and expecting it to strengthen against the USD.  For every increase of $0.0001 in the EUR, you make one “pip” (price interest point) equivalent to $10 per lot traded. 
+
+Similarly, for a “mini-account” when you place an order to sell one mini-lot (one-tenth of a standard lot) of EUR/USD, you are selling the EUR and simultaneously buying the USD.  You are going short the EUR and expecting it to weaken against the USD.  The margin requirement is $100.00 per mini-lot.  For every decrease in the EUR of $0.0001 you make one pip equivalent to $1 per mini-lot traded.
+
+Note that unlike trading stocks, there are absolutely no restrictions on short-selling in FOREX.  Short-selling is exactly like buying – except that you’re selling of course.
+
+The pip value and amount per pip per lot differs when the USD is not the counter or quote currency.  For example, when buying the USD/JPY pair with a ask price of 109.00 (meaning 1 USD equals 109.00 yen), a change in the Japanese yen of 0.01 yen is equivalent to 1 pip or $9.17 per pip per lot traded ($9.17 = $100,000 x 0.01 / 109.00).
+
+The broker makes money off the spread which is the difference in the quotation ask and bid prices.  You buy the base currency at the ask price and sell it at the bid price.  Generally, the major currency pairs have relatively low spreads.  The EUR/USD is commonly two to three pips and the GPD/USD is commonly four to five pips.  For example, the current bid/ask price for EUR/USD is quoted at 1.2322/1.2324.  This means that you can buy 1 EUR (the base currency) for $1.2324 USD (the counter-currency).  You buy at the ask price.  You can sell 1 EUR for $1.2322 USD (you sell at the bid price). You will pay the broker the spread or $1.2324 - $1.2322 = $0.0002 = 2 pips. For a standard lot, the broker fee (in this example) is $10 x 2 pips = $20 per standard lot for a roundtrip trade (1 buy and matching sell or 1 sell and matching buy).  For a mini-lot, the fee would be $1 x 2 pips = $2 per mini-lot for a roundtrip trade. The broker fee is automatically deducted from your account.
+
+Obviously, if you buy (go long) a currency pair, you expect the base currency to increase in price.  Your objective is to sell later at a price higher than you purchased and make a profit.  On the flip side, if you sell (go short) a currency pair, you expect the base currency to decrease in price.  Your objective is to buy later at a price that is lower than the price you originally sold, and thus make a profit off the difference.
+
+There’s more to it than can be explained in this overview, but you should get the basic idea. 
+
+What are the benefits?
+
+1. With FOREX trading, there is no inventory, no employees, and no customers.  Your overhead can be as minimal as a home computer with internet access. 
+
+2. You can get started with a “mini-account” investing as little as $300.  
+
+3. Currency prices tend to repeat in relatively predictable cycles creating strong trends. Once you learn how to trade properly, you can compound your money, and potentially turn a little into a lot.  
+
+4. You can trade for a few hours per week, or much more if you want to. It’s all up to you.
+
+5. The FOREX market is very liquid, with trillions of dollars traded every day.  On its slowest day, orders can usually be placed within a few seconds if you stay with the major currencies.  Instantaneous execution (1 to 2 seconds) is the norm during normal trade volume days (for the major currencies).
+
+6. You can trade from just about anywhere as long as you have a computer with internet access to your account. 
+
+What are the risks?
+ 
+1. The market can be very volatile, especially during times of major news releases, also known as “fundamental announcements.”  The time of these announcements is usually known in advance.  Many traders simply stay out of the market during these announcements and wait until market volatility has settled back down.
+
+2. If you use too much margin or risk too much on any one trade, your account could suffer badly on a trade that doesn’t go your way.  Proper risk management, including sound placement of stops and not risking more than 2 percent of your account on any one trade, can alleviate this risk.  Do not risk more money than you can afford to lose.
+
+3. A major world event could trigger a huge volatility swing that could wipe out your account (or even more).  However, some brokers limit the loss to the amount in your account.  (Of course, a major world event could also cause the trade to go your way.)
+
+4. Trader psychology (fear and greed) can play a big role in your success or failure as a trader.  Trading education is one of the keys to overcoming these human flaws.
+
+5. You could fail to place a stop loss with your order.  A change in price could force a liquidation of your trade if your account falls below the required margin maintenance.  To alleviate this risk, always set a stop loss when you place an order.
+
+This list is not meant to be inclusive. There are other risks.  
+
+How can I get started?
+
+You can easily open an online account by selecting one from many available FOREX brokers.  You can, and should open a demo account to practice (and learn) for several months for free.  The practice account makes simulated trades using real-time data.  This is called “paper trading.” You should not trade your real account until you have proven to yourself that you can be profitable in your demo account.
+
+Once you get started, you can trade currencies from just about anywhere.  About all you need is a computer with internet access to your trading account.  Many brokers also provide free charting software. 
+
+Jim McCabe
+
+

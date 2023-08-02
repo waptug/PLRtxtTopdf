@@ -1,0 +1,54 @@
+Title: 
+Why Search Engines Are Adverse To Identical Content
+
+Word Count:
+1021
+
+Summary:
+Reasons for Replicating Data
+
+According to a study done by Krishna Bharat and Andrei Brodner there are several reasons why data are replicated or why mirror sites are created – Load Balancing, High Availability, Multi-lingual replication, Franchises or Local versions, Database Sharing, Virtual Hosting, and Maintaining Pseudo Identities.
+
+In load balancing, replication of data is done to decrease the servers’ loads. Instead of just having one server to handle all the traff...
+
+
+Keywords:
+seo, internet, online marketing
+
+
+Article Body:
+Reasons for Replicating Data
+
+According to a study done by Krishna Bharat and Andrei Brodner there are several reasons why data are replicated or why mirror sites are created – Load Balancing, High Availability, Multi-lingual replication, Franchises or Local versions, Database Sharing, Virtual Hosting, and Maintaining Pseudo Identities.
+
+In load balancing, replication of data is done to decrease the servers’ loads. Instead of just having one server to handle all the traffic from web surfers interested in the data or content, the site is mirrored or the data replicated so that the traffic is split between two or more servers.
+
+Data are also replicated to make them more highly available. An example of this is when data are mirrored within the same organization for geographical purposes to make them easily available.
+
+Multi-lingual replication of data is also very common. Data translated into different languages are very useful for reaching a wider audience who all need access to the same data. Good examples of multi-lingual replication are many Canadian sites that are the same in everything except for the language of the content wherein English or French is used.
+
+Data is also replicated for franchises or local versions of data. This happens when data or content is franchised to another company, which then offer the very same data or product but under different branding.
+
+Sometimes data is replicated unintentionally. This happens when two independent websites share a common database or file system. The sharing of database sometimes results to mirroring even without the websites’ intention.
+
+Virtual hosting also sometimes result in mirroring. This happens to services with different websites and host names but use the same IP address and server. What happens is the path to one site is the valid one while the path to the other site simply gives an identical webpage as a result.
+
+The last reason, unlike the first six reasons, is often not a valid reason for site mirroring. This is because mirroring to maintain pseudo identities is often done to spam search engines with different websites of the same content as a means getting a higher page ranking. This reason is considered unacceptable and is one of the very reasons why search engines tend to be adverse towards identical content or replicated data.
+
+Google’s Webmaster Guideline about Duplicate Content
+
+Search engines are blatantly against replicated data so much so that Google even has a warning against them in their Webmaster Guidelines. Google’s Webmaster Guidelines were a list of Do’s and Don’ts that ought to be followed by websites to help the search engine in finding, indexing, and ranking websites. Following the Do’s will of course increase the chance that Google will list a specific website and ran it favorably as well. However, doing any of the Don'ts will of course detract from a website’s rank.
+
+In the specific guidelines for quality of the website part, it was stated clearly that websites should not create multiple pages, subdomains, or domains with substantially duplicate content. The term duplicate content is however a dubious term since it isn’t clear how many duplicate words it takes for search engines like Google to penalize a page. It can take ten words or maybe an entire sentence, or paragraph, or even need an entire document or page for content to be considered duplicate content. The key thing to remember is that the guideline says to not create pages with substantially duplicate content. So to be on the safe side it would be better to always have a fresh original content. This is however not possible at times especially when quoting articles so that it is your call to determine whether the duplicate content might penalize your website. If your conscience is clear that the duplicate content is there for the user’s benefit and not to up your page ranking then the crawlers will hopefully interpret it as the same and not penalize your site.
+
+Annoyed Surfers and Speedy Crawlers
+
+Search engines exist to point surfers to websites containing the information relevant to their search string. However, they do not exist to point surfers to different websites containing the exact same or nearly the same information. When surfers click on different links they expect to be getting different web pages with maybe the same or different take on the same topic but with definitely different content. However there are many sites out there with partial duplicate content and even the exact content simply replicated. Clicking on mirror sites irritate surfers since it is only a waste of time waiting for the same thing to load twice or maybe even more times. This is especially irritating if the site happens to be a spam site whose content is not of a good quality. Due to this problem web crawlers now do not crawl exact duplicate and near-duplicate web pages or websites that they have determined from a previous crawl. This means that the mirror sites not crawled will not even make it to the search engine’s results listing since only one of the duplicates is indexed by the web crawler. Because of this search engines will not have more than one of the mirror sites among its results listing thus avoiding irritating the web surfers.
+
+Satisfied surfers are not the only result of the new technique crawlers use. Search engines benefit as well since not having to crawl mirrored pages lessens the load of the crawlers and thus speeds up crawling. The bandwidth is also saved because of this resulting to a faster more efficient crawling operation wherein the web crawler can cover and index more significant websites.
+
+Valid Mirrored Sites
+
+However, for valid mirror sites like those mentioned above (multi-lingual, franchise, etc.) there should be no worry since search engines have provisions for such things and take into account the motive behind them. You can help your mirror site by making sure that you follow all the other guidelines to get noticed and ranked by Google. Following the guidelines will surely help not only your ranking with Google but with other search engines as well.
+
+

@@ -1,0 +1,32 @@
+Title: 
+Get On The Vintage Computer Bus
+
+Word Count:
+532
+
+Summary:
+Vintage Computer Add-in cards come in three basic flavors: 8-bit, 16-bit and 32-bit. These terms refer to the number of data bits the card sends out at one time. Ideally a 16-bit video card sends an image to the monitor in half the time it would take for an 8-bit version. It is important to know what kind of card your vintage computer accepts. The older PCs and XTs usually have an 8-bit or PC bus, which accepts the older PC bus, which accepts only the 8-bit cards. Vintage com...
+
+
+Keywords:
+vintage,computer,computers,bus,IBM,PC,ISA,EISA,PCI
+
+
+Article Body:
+Vintage Computer Add-in cards come in three basic flavors: 8-bit, 16-bit and 32-bit. These terms refer to the number of data bits the card sends out at one time. Ideally a 16-bit video card sends an image to the monitor in half the time it would take for an 8-bit version. It is important to know what kind of card your vintage computer accepts. The older PCs and XTs usually have an 8-bit or PC bus, which accepts the older PC bus, which accepts only the 8-bit cards. Vintage computers which are of more recent vintage use a PCI bus combined with ISA (Industry Standard Architecture).
+
+The ISA bus was basically the original AT vintage computer bus. This expansion bus originated with the IBM PC at an 8-bit bandwidth. IBM improved on the design with the PC/AT raising the bandwidth to the 16-bit standard.
+
+In addition to the ISA bus, there is typically an auxiliary bus such as the VL-bus or the even more recent and now accepted standard the PCI bus both were designed for video cards so that they could operate at faster speeds. The PCI bus as we know went on to become the industry standard all purpose bus. Another bus called EISA was going to become the industry standard but instead went on to have a life almost exclusively in the server realm.
+
+What was the basis of the development of the PCI bus? When the Pentium chip was released Intel saw the need for a more general purpose local bus that would eventually supplant the ISA/EISA and VL-bus designs completely. So Intel invented the Personal Computer Interconnect bus now more commonly without the comprehension of the historical background – the PCI bus.
+
+An important point to remember is that the EISA is backward compatible with 8-bit cards (8 bit cards fit into EISAand EISA slots) but MCA will not work with either of the other two standards. (Backward compatible means that the device works with all previous hardware technology, but will not necessarily work with newer configuration standards). In other words cards for an EISA bus computer the cards from an ISA bus computer will work in the EISA vintage computer. However if you try to use these cards in a newer IBM you are out of luck if you want to use your older cards.
+
+Many video cards manufactured later were available in AT-ISA, PCI and VL bus. What would be considered newer more recent vintage computers were equipped with either a couple of VL slots and / or some PCI slots? If the vintage computer supports PCI bus this is a wise choice for performance and should be utilized if at all possible.
+
+Vintage computer add-in cards can also be described in terms of length – ½ length, ¾ length and full size cards. This along with less common XT height refers to the physical size of the cards. However the terms were rather arbitrary and there were no actual industry standards.
+
+Basically what happened over the next time period for vintage computers there was a mixture of both the ISA and PCI buses on vintage computer motherboards until at some point the ISA standard eventually disappeared from view.
+
+

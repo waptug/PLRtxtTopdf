@@ -1,0 +1,31 @@
+Title: 
+'No Audio Device' Error
+
+Word Count:
+515
+
+Summary:
+If you have experienced a Windows "No Audio Device" error, it most likely means that your sound card is not installed properly.
+
+
+Keywords:
+'No Audio Device' Error
+
+
+Article Body:
+If you have experienced a Windows "No Audio Device" error, it most likely means that your sound card is not installed properly. Even though other problems can cause this error, an improperly installed sound card is the most common reason. If the audio card isn't properly connected in the motherboard or you do not have an audio controller connected, you will get this error. Also, it is possible that the device you are trying to use is not compatible to the motherboard you are using. 
+Troubleshooting the most common error
+Here are a few steps to take to solve the most common error, an improperly installed card:
+You will first need to find your audio controlling device or controller. This controller is what gives you the ability to adjust the sound for everything. From your start menu, go to your control panel. Then, go to add hardware and search for the hardware yourself. Don't let the computer search for it automatically, because if it is improperly installed it may not be seen. Then, scroll down to sound devices and search for your audio controller. Check the properties of the device, and see if it is installed properly. If it isn't installed properly you will see a yellow highlighted question mark beside the device's name
+•	The best way to solve this problem is to uninstall your sound card and drivers. You will reboot, enter the bios, disable the onboard audio, game port, and midi. Then boot back into windows, go to add remove programs and make sure that any programs for the device was removed.
+Next, you should reinstall the sound card and drivers. It is possible driver updates have been made since the sound card was manufactured and released, so it is a good idea to visit the manufacturer's site and see if there are driver updates. Once you do this, restart the computer again. The problem is (more than likely) the default device in audio properties is still the onboard, you can select the creative devices and it will probably work, but it will be better to disable the onboard all together.
+Uninstalling and reinstalling the sound card will more than likely fix your problem.
+Other troubleshooting tips
+If you are still experiencing difficulties, try these other troubleshooting ideas.
+•	If you think your sound card may be 'dead', before buying a new one, I would recommend borrowing one that is fully functioning from a friend, if possible, and installing that one to see if the error is in the card itself.
+
+•	Try using a different PCi slot, that way windows may detect it as new instead of trying to reconfigure it on the slots its currently on. This can also help you to determine whether one of the slots are bad.
+•	If you have an onboard sound card but are trying to use a sound card you bought separately, ensure the onboard one is disabled.
+Always ensure the sound card you purchase is compatible with your board. If it doesn’t say on the packaging, do a little research online prior to the purchase.
+
+

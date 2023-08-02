@@ -1,0 +1,50 @@
+Title: 
+Microsoft Certified Systems Engineer
+
+Word Count:
+452
+
+Summary:
+MCSE is a widely known certification provided by Microsoft Corporation and stands for Microsoft Certified Systems Engineers. This certification provides a qualitative impetus to your resume in the Information Technology field. MCSE engineers are known to get good offers financially compared to other engineers of equivalent education.
+
+The certification qualifies a person to analyze the business requirements and find solutions in information systems, and the individual is ab...
+
+
+Keywords:
+mcse,mcse certification,mcse training,mcse boot camp,mcse course,term papers mcse,mcse online course
+
+
+Article Body:
+MCSE is a widely known certification provided by Microsoft Corporation and stands for Microsoft Certified Systems Engineers. This certification provides a qualitative impetus to your resume in the Information Technology field. MCSE engineers are known to get good offers financially compared to other engineers of equivalent education.
+
+The certification qualifies a person to analyze the business requirements and find solutions in information systems, and the individual is able to design and implement the infrastructure required. MCSE is available in two streams Windows 2000 and Windows Server 2003. Both the streams have different sets of examinations. The certification is suitable for most engineers and analysts and is especially suitable for systems engineers & analysts and Network engineers & analysts.
+
+The objective of MCSE is to provide the individual with knowledge such as:
+
+Pin pointing the tasks involved in supporting Windows 2000/2003 networks.
+
+Knowing the network concepts and how to implement it in Windows 2000/2003.
+
+Gaining the knowledge of how to configure Microsoft Windows 2000/2003 Professional on stand-alone computers and on client computers, and to install configure windows 2000/2003 Server.
+
+Gain the knowledge and skills in designing a Microsoft Windows 2000/2003 directory service and infrastructure.
+
+MCSE Windows 2000
+
+For MCSE 2000 certification the candidate has to pass seven exams. The exams include four operating exams, one design exam and two electives. The subjects span syllabus such as installing, configuring and administering Windows 2000, implementing & administering Windows 2000 Network and Windows 2000 infrastructure.
+
+MCSE Windows Server 2003
+
+For MCSE Windows Server 2003 certification, the candidate must qualify seven exams. The exams include four networking exams, one client operating system, one design exam and one elective exam. The syllabus includes network infrastructure & security, SQL server, active directory, Microsoft products etc.
+
+TRAINING
+
+MCSE training is very intensive, time consuming and requires a lot of hard work. Many aspirants are not able to appear exams in the stipulated time. There are many ways to prepare for the examinations such as MSCE classes, boot camps, online study guides and practice exams. Many candidates prefer to approach local MCSE training centers. These training centers help the candidates in course work and practical sessions professionally and help the candidates in exam and career oriented study.
+
+The candidates must be aware of the practical applications, Microsoft products and services since the aspirants face multi-level testing on design implementation and administration skills in Microsoft Windows platform.
+
+BENEFITS OF MCSE
+
+MCSE is the most specialized certifications available today. It provides industry recognition and expertise in Microsoft products and technologies. As per Fairfield Research survey on MCSE, the certification provides a 12.6% rise in salary on an average. MCSE holders can also directly access technical and product information from Microsoft through the MCP Member site. There are spinoff benefits such as invitation to Microsoft conferences, technical training sessions and special events etc.
+
+

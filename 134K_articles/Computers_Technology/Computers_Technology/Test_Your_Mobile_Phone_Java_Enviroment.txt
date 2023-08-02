@@ -1,0 +1,34 @@
+Title: 
+Test Your Mobile Phone Java Enviroment
+
+Word Count:
+307
+
+Summary:
+Futuremark announced 3DMarkMobile06, a graphics performance benchmarking application for companies developing 3D mobile-device hardware. The product can also be used by consumers.
+
+3DMarkMobile06 is actuallt the only product designed specifically to benchmark next generation mobile hardware. 
+
+With the release of 3DMarkMobile06, mobile hardware developers, manufacturers and reviewers will have the first benchmark intended to provide accurate, consistent performance measur...
+
+
+Keywords:
+cell phone,software,futuremark
+
+
+Article Body:
+Futuremark announced 3DMarkMobile06, a graphics performance benchmarking application for companies developing 3D mobile-device hardware. The product can also be used by consumers.
+
+3DMarkMobile06 is actuallt the only product designed specifically to benchmark next generation mobile hardware. 
+
+With the release of 3DMarkMobile06, mobile hardware developers, manufacturers and reviewers will have the first benchmark intended to provide accurate, consistent performance measurements of embedded graphics solutions. The version, 3DMarkMobile06 Developers' Edition, is designed for use on development 3D hardware. It assists product development, design evaluation, and mobile hardware media reviews of next-generation devices.
+
+With this testing software, that you install on your cell phone, you can test your phones Java functionality. There are 3 versions available. The first consumer version is a free product, and the advanced edition with full testing features is available for $3.
+
+The main focus group for the software is propably device manufacturers, but as a consumer you do not have to be a tech freak or gizmo lover to install it on your cell phone. With SPMarkJava06 you can get the access to detailed information about the Java implementation present your phone.
+
+"3DMarkMobile06 features future workloads and game programming technologies that consumers will run in next-generation mobile 3D hardware," said Tero Sarkkinen, Executive Vice President of Sales and Marketing for Futuremark. "It is important for all companies in the value chain to evaluate how such hardware is able to support new content and services. High-detail game content, for example, generates workloads that make significant demands upon mobile 3D hardware. Companies that use our tools in their product development cycle will be able to deliver better performing hardware in the hands of the ultimate testers, the consumer." 
+
+I say the software was easy to install and it has some nice features that ordinary consumers can use. You do not have to be a tech freak to install it.
+
+

@@ -1,0 +1,70 @@
+Title: 
+Cisco CCNP / BSCI Exam Tutorial:  The BGP Attribute MED
+
+Word Count:
+389
+
+Summary:
+Mastering BGP attributes is a huge part of passing the BSCI and earning your CCNP.  Learn how to work with the MED attribute from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Cisco, ccnp, bsci, bgp, attribute, tutorial, med, multi, exit, discriminator, pass, exam, metric, lowest, path, selection
+
+
+Article Body:
+Your BSCI exam and CCNP certification success depend on mastering BGP, and a big part of that is knowing how and when to use the many BGP attributes. And for those of you with an eye on the CCIE, believe me - you've got to know BGP attributes like the back of your hand. One such BGP attribute is the Multi-Exit Discriminator, or MED.
+
+The MED attribute is sent from a router or routers in one AS to another AS to indicate what path the remote AS should use to send data to the local AS. 
+
+That sounds a little confusing on paper, so let's walk through an example. R1 is in AS 1, and R2, R3, and R4 are in AS 234. R4 is advertising a loopback into BGP, and R1 has two possible next-hops to get to that loopback - R2 (172.12.123.2) and R3 (172.12.123.3). Let's see which of the two paths R1 is using.
+
+R1#show ip bgp 4.4.4.4
+
+BGP routing table entry for 4.4.4.4/32, version 8
+
+Paths: (2 available, best #2, table Default-IP-Routing-Table)
+
+Flag: 0x208
+
+Advertised to non peer-group peers:
+
+172.12.123.3
+
+234
+
+172.12.123.3 from 172.12.123.3 (3.3.3.3)
+
+Origin IGP, localpref 100, valid, external
+
+234
+
+172.12.123.2 from 172.12.123.2 (2.2.2.2)
+
+Origin IGP, localpref 100, valid, external, best
+
+R1 is using 172.12.123.2 as the next-hop to enter AS 234. If all values are left at their default, we could have 100 routes being advertised from AS 234 to AS 1 and the next-hop would remain the same. 
+
+We can configure R2 and R3 to send different MED values to R1, and the router sending the lowest MED would be the preferred next-hop. (The MED is a metric, and the lowest metric is always preferred.) We'll configure the MED attribute on both R2 and R3, sending a MED of 200 from R2 and 100 from R3.
+
+R2(config)#route-map SET_MED_200 permit 10
+
+R2(config-route-map)#set metric 200
+
+R2(config-route-map)#router bgp 234
+
+R2(config-router)#neighbor 172.12.123.1 route-map SET_MED_200 out
+
+R3(config)#route-map SET_MED_100 permit 10
+
+R3(config-route-map)#set metric 100
+
+R3(config-route-map)#router bgp 234
+
+R3(config-router)#neighbor 172.12.123.1 route-map SET_MED_100 out
+
+After clearing the BGP table on R1, R1 will still see both next-hop addresses and will still consider both to be valid, but the path through R3 will be selected due to its lower metric.
+
+Just keep in mind that the MED is actually a metric, and lower metrics are more desirable in path selection. That will put you one step closer to passing the BSCI and earning your CCNP Certification!
+
+

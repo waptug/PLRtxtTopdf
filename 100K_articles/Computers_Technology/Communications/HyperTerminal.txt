@@ -1,0 +1,32 @@
+Title: 
+HyperTerminal
+
+Word Count:
+202
+
+Summary:
+HyperTerminal is communications software used to connect to other computers over modems, RS-232 serial connections, or telnet. In order to use HyperTerminal, the user will have to know details about the computer they wish to connect to, such as the number to dial or the IP address.
+
+
+Keywords:
+hyperterminal, software, modem
+
+
+Article Body:
+HyperTerminal is communications software used to connect to other computers over modems, RS-232 serial connections, or telnet. In order to use HyperTerminal, the user will have to know details about the computer they wish to connect to, such as the number to dial or the IP address.
+
+HyperTerminal can be accessed by:
+
+    * Clicking Start on the desktop
+    * Going to All Programs
+    * Clicking Accessories
+    * Then Communications
+    * Next clicking HyperTerminal to start the program 
+
+For first time users, a window will open asking you to insert "Location Information". This will include information such as your country, area code, the way you would like to connect (modem/TCP) or if your phone uses tone or pulse dialing. Then click OK.
+
+A "New Connection" window opens up, allowing you to choose a name and an icon for your HyperTerminal session. After this information has been filled out, use the "telephone" icons on the HyperTerminal toolbar to connect or disconnect a call to another computer.
+
+Other than connecting to other computers, HyperTerminal can be used to monitor the status of your modem. The details of any connection made using HyperTerminal are recorded in a log file. Reviewing this file can be one way to troubleshoot modem issues.
+
+

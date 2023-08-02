@@ -1,0 +1,50 @@
+Title: 
+Preparing For Windows Vista
+
+Word Count:
+546
+
+Summary:
+So what exactly is Windows Vista?
+
+Windows Vista is the next major operating system release from Microsoft. This highly anticipated release not only has many new and exciting features but Microsoft have also improved the graphical user interface and given it a new visual style. Windows Vista, which is due to be released to the business sector in November this year, sports hundreds of new features, many of which are designed for use within the business environment.
+
+Why sh...
+
+
+Keywords:
+
+
+
+Article Body:
+So what exactly is Windows Vista?
+
+Windows Vista is the next major operating system release from Microsoft. This highly anticipated release not only has many new and exciting features but Microsoft have also improved the graphical user interface and given it a new visual style. Windows Vista, which is due to be released to the business sector in November this year, sports hundreds of new features, many of which are designed for use within the business environment.
+
+Why should I care?
+
+Windows Vista brings many benefits to small, medium and large organizations. New features such as “Desktop Search” and the “Windows Explorer” improvements make finding and using information easier and quicker than ever before. It is stated that over 30% of an employee’s day is spent trying to find information - these new tools will help to reduce that figure and increase productivity within your company.
+
+As we move into an ever increasing “mobile age” it is becoming more important for employees to be mobile enabled. The “Sync Centre” feature of Windows Vista is at the heart of Microsoft’s desktop / mobile technologies. This application eases the pain of mobile device synchronization and ensures the whole process is completed securely enabling users to have a consistent view whether they are in or out of the office.
+
+Windows Vista also has many new security features that will aid in defending against the vast number of security threats that are present today on the Internet. With improved “Windows Firewall” and “Windows Defender” technologies, defending against spyware and unauthorized access is transparent. “User Account Control”, which protects against admin users inadvertently changing settings, ensures that any malware or virus that get onto your system cannot change any settings without you first agreeing to it. There are many other security features including granular auditing/logging, improved security update tools and full disk drive encryption - all of which combine to create the most secure Windows ever.
+
+What should I do to ensure a smooth transition?
+
+1. Windows Vista requires almost 4 times the processing power as Windows XP so it is important to know that your hardware is up to the task. In order to ascertain this produce an asset report on all of your desktop machines. This should detail processor type and speed, the physical size of memory and hard disk(s), the type of graphics card installed and the amount of graphics memory it has.
+
+2. Microsoft are going to release 6 different versions of the operating system so it is therefore important to decide which version meets your business needs.
+
+3. Understand what machines will be compatible with Windows Vista and what machines will need to be upgraded or replaced.
+
+4. Produce a report detailing all software applications that are used throughout the business. This report should detail the product name and version.
+
+5. Understand any compatibility issues between your installed software and Windows Vista.
+
+6. Ensure that your users know how to use the features in Windows Vista that will improve both productivity and ensure security/reliability.
+
+The next steps
+
+With the launch of Windows Vista only a few months away, it is important that you take action now. If you follow the steps outlined above, you will ensure that your transition to Vista is smooth and ensure that your business remains productive, reliable and secure.
+
+

@@ -1,0 +1,56 @@
+Title: 
+A Slow PC: Better A Slow Boat To China
+
+Word Count:
+589
+
+Summary:
+Knowing your PC inside and out keeps you in the groove. A tweak here and there is all you need to keep it happy. If you can do it yourself, you have an ace up your sleeve. If you can’t, however, then watch out for the common causes of a frozen or slow PC.
+
+A slow PC is an unhappy PC
+
+Just imagine thousands of cars trying to fit in a narrow highway. That’s the way it is with a slow PC. The files are crowding so there is little room to move about. In your daily race for off...
+
+
+Keywords:
+slow PC
+
+
+Article Body:
+Knowing your PC inside and out keeps you in the groove. A tweak here and there is all you need to keep it happy. If you can do it yourself, you have an ace up your sleeve. If you can’t, however, then watch out for the common causes of a frozen or slow PC.
+
+A slow PC is an unhappy PC
+
+Just imagine thousands of cars trying to fit in a narrow highway. That’s the way it is with a slow PC. The files are crowding so there is little room to move about. In your daily race for office or school deadlines, a slow boat to China would be better than a slow PC.  
+
+If the same thing is happening with your office PC, then somebody has been downloading large files. That is, if you are sharing a network. The network begins to respond slowly and times out frequently and completely when someone is monopolizing the network.  
+
+Knowing the reasons for the slowdown can help you pinpoint the cause and you can fix it yourself. Fixing your slow PC may run from the simplest operation like using the defragment feature or deleting some unnecessary files. If the computer problem is technical, don’t try to solve the problem. Get a computer expert to do the job for you.    
+
+What makes a slow PC?
+
+There are several culprits jamming the internal highways of your slow PC. Here are 10 of the common causes:
+
+1.  	Start up overload. When you add programs, these applications quietly add to your Window Start Up folder. Speed your boot time by limiting applications on your PC. Clean up your disk but be careful in uninstalling applications.  
+
+2.	Malicious spyware that embed themselves into your core file system and Windows Registry. These should be immediately zapped with manual spyware scanners.
+ 
+3.	Corrupted Windows Registry causes slow start up and shut down. The Windows Registry should be cleaned and compacted. Also give your Windows Registry a tweak by optimizing its performance 
+
+4.	Fragmented hard drive. Your computer files are scattered about and are slowing your PC. Defragment the hard drives. Go to Drive C:, click properties, and select the tools tab. Click the defragment button.
+
+5.	Security software demanding huge spaces of your system’s memory. Confirm this by checking out the task manager. To open the task manager, hold CTRL+ALT+DELETE. In the Task Manager tab, check out the processes and view how much of the system is used up by security apps. If this is so, then it is about time to fine tune your security software. 
+
+6.	Some uninstalled programs may be still lingering. This clogs up the arteries of your already slow PC, so remove this with cleaning software.
+
+7.	Small pagefile. Enlarge this by going to My Computer and click properties.  Choose the Advanced button and click change under virtual memory.  
+
+8.	Too many temporary files. Remove the programs you don’t use. You can also use a PC cleaner to do this job in no time.   
+
+9.	Viruses are hard hitting and can damage your computer. You get these from infected emails and instant messages. Downloaded files can also bring in viruses that contribute to a slow PC. 
+
+10.	Hardware components that want to be retired. In this case, better bring it to a trusted slow PC repair shop. 
+
+When it comes to computers, don’t let a snail-paced PC ruin your day. Get those tweaks and loosen up the space in your hard disk drive. A slow boat to China is better than a slow PC, right?
+
+

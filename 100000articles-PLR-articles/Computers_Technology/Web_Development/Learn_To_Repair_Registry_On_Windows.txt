@@ -1,0 +1,38 @@
+Title: 
+Learn To Repair Registry On Windows
+
+Word Count:
+441
+
+Summary:
+What is the Windows Registry?
+
+You can guess by the name that, it is a critical repair registry of programs and the settings that are stored on your personal computer. You can run the repair registry ‘regedit’ from a command prompt (Start -> Run -> type ‘regedit’ -> OK). Be ever so very careful not to make any changes or the computer will faced serious consequences.
+
+Indeed, it is people who make incorrect entries, in the registry, which I know are the main sourcing of ma...
+
+
+Keywords:
+registry, repair, software, free, windows, download
+
+
+Article Body:
+What is the Windows Registry?
+
+You can guess by the name that, it is a critical repair registry of programs and the settings that are stored on your personal computer. You can run the repair registry ‘regedit’ from a command prompt (Start -> Run -> type ‘regedit’ -> OK). Be ever so very careful not to make any changes or the computer will faced serious consequences.
+
+Indeed, it is people who make incorrect entries, in the registry, which I know are the main sourcing of many a computer error. It is best to leave the registry to the windows specialist software to repair registry errors and even the experts are so careful not to make any mistake, or suffer the consequences.
+
+So why is it so important? When you are installing software, hardware or make configuration changes in the ‘Control Panel’, remember, a number of settings are stored in the registry.
+
+It is important to be sure to allow these settings in your PC to run smoothly. Any inconsistency during manual amendments of these settings will lead your registry to computer malfunctions. Make sure it needs regular registry windows maintenance, so as not to be cluttered with superfluous entries and the settings become corrupted.
+
+The reasons for these errors are incorrect installation of the software or hardware in your PC. Just these mistakes will lead to several problems like generally poor performance, screen freezes, crashes in the computer and even will slow computer startup and shutdown.
+
+Give Your PC a Check! Human beings even have regular ‘check up’ every now and then, so does a machine. I believe if you send your computer for regular, ”check up” and maintained it will last longer and will performs better. As I mentioned before, regularly run of the registry scan on your PC, will be sure of a good functional computer. Repair registry software exists and has been specifically designed to operate on the registry by hunting down errors and extricating them.
+
+In Conclusion, I would not advice you to repair your system registry, as manual changes are not recommended by anyone who has very little knowledge. You may find yourself ending up with problems one after another, and more errors than you started off with!
+
+If you manage to find the problems, I am sure you are extremely unlikely to solve all the registry windows errors anyway. This is a pretty good advice, so why not leave the entire headache to the experts who will soon find all the hidden problems in the software solution, and fix all the errors for you. You will be one happy person to get your computer back in tip-top condition.
+
+

@@ -1,0 +1,26 @@
+Title: 
+Cisco CCNA Certification Exam Tutorial:  OSPF Hub-And-Spoke
+
+Word Count:
+303
+
+Summary:
+OSPF hub-and-spoke configurations contain details that you must know to earn your CCNA!  Learn how to avoid common OSPF errors from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccna, certification, exam, pass, icnd, intro, ospf, Bryant, advantage, hub, spoke, designated, router, backup, neighbor, frame, relay
+
+
+Article Body:
+CCNA certification demands that you master the basics of OSPF, and for many studying for the CCNA exam, their first exposure to OSPF is a hub-and-spoke configuration.  That's a tough way to get started, because a hub-and-spoke configuration built over an NBMA technology such as Frame Relay requires quite a bit of attention to detail.  Let's take a quick look at several common OSPF configuration errors and how to avoid them on your CCNA test.
+
+Make sure the hub is the designated router and that there are no backup designated routers.  This is done by setting the OSPF interface priority to zero on the spoke routers.  This not only ensures that the hub wins the DR election with its default OSPF interface priority of 1, but it prevents the spokes from ever having a chance to become the DR or BDR.
+
+Configure neighbor statements on the hub.  Since we're dealing with an NBMA network, the hub cannot dynamically discover its neighbors.  Neighbor statements are not needed on the spokes. (They don't hurt anything, but they don't do anything, either.)
+
+Finally, if your OSPF adjacencies do not form as expected, make sure to use your OSI model knowledge to approach the problem.  The issue may actually be at Layer Two, with your Frame Relay configuration.  If you don't use the "broadcast" option on your frame relay statements, OSPF hellos will not be transmitted successfully between potential neighbors.  OSPF hellos are multicast, but the "broadcast" option for Frame Relay includes multicasts.
+
+By paying special attention to these details, you're that much close to CCNA exam day success and earning your certification.  I recommend that you get some experience with configuring OSPF hub-and-spoke before taking the CCNA exam, because it’s by actually performing tasks such as this that makes you supremely confident on CCNA test day.
+
+

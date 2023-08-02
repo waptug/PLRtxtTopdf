@@ -1,0 +1,171 @@
+Title: 
+Leveraging Six Sigma in IT
+
+Word Count:
+3376
+
+Summary:
+Service providers bring complementary knowledge, ideas, and business methodologies and enable outsourcing companies to concentrate on core competencies. It is difficult to leverage these benefits in the absence of a defined set of tools and techniques. Application of process improvement techniques like Six Sigma can help realize these benefits. This paper examines the application of Six Sigma to the IT services industry holistically.
+
+
+Keywords:
+six sigma consulting, consultancy sigma six, consultant, six sigma process, it six sigma methodology, six sigma company
+
+
+Article Body:
+<b>INTRODUCTION</b>
+<b>CHANGING BUSINESS PARADIGM</b>
+The International Data Corporation (IDC) predicted that the worldwide outsourcing market would grow from $100 billion in 1998 to $151 billion in 2003, with a compound annual growth rate (CAGR) of 12.2 percent. 
+The 1990s witnessed a massive spurt in service outsourcing, particularly in the IT services sector.
+Over 60% of the Fortune 500 companies, located in Europe and America are outsourcing their IT operations offshore to developing economies like Asia, Africa, the Carribean and Latin America with a view to achieve cost reduction. The primary contributor to cost reduction was the wage disparity between outsourcing companies and the service providers. This first phase of outsourcing leveraging wage arbitrage is towards completion –with a large chunk of cost reduction potential being realized.
+Today, outsourcing companies, have identified quality and productivity as the key differentiators in evaluating service providers. These parameters are of prime importance since most software solutions have relatively small payback periods. Service providers also bring complementary knowledge, ideas, and business methodologies, and enable outsourcing companies to concentrate on core competencies. These benefits in addition to cost reduction are turning the tide in favour of outsourcing.
+It is difficult to leverage these benefits in the absence of a defined set of tools and techniques. Application of process improvement techniques like Six Sigma can help realize these benefits. This paper examines the application of Six Sigma to the IT services industry holistically.
+ 
+<b>SIX SIGMA - AN OVERVIEW</b>
+“Contrary to what some believe, the goal of Six Sigma is not to achieve six sigma levels of quality.
+Six Sigma is about improving profitability, although improved quality and efficiency are immediate by-products of Six Sigma.” – Mikel Harry
+<b>KEY SIX SIGMA CONCEPTS</b>
+Bill Smith, a senior engineer and scientist at Motorola introduced the Six Sigma concept in 1986, to standardize the way defects are counted. Motorola extended the benefit of its Six Sigma expertise to other organizations via the Motorola University. At its core, Six Sigma revolves around the following key concepts.
+<ul>
+<li><b>Critical To Quality (CTQ) </b>  – Attributes most important to the customer 
+<li><b>Outside In approach</b> – Looking at internal processes from the customer’s perspective and changing them accordingly 
+<li><b>Defect</b> - Any event that does not meet the specifications of a Critical to Quality (CTQ) attribute 
+<li><b>Defect Opportunity</b>- Any event, that provides a chance of not meeting customer requirements and which can be measured 
+<li><b>Defective </b>- A unit of product containing one or more defects 
+<li><b>Transfer Function – Y </b>= f (X1, X2, X3….Xn), where Y is the dependent or response variable and Xs are independent or predictor variable that control the performance of Ys. Focus of Six Sigma is to control Xs and not Ys. </ul>
+Before moving on to the application of Six Sigma to IT services, let us first understand the Six Sigma methodology.
+The evolution of the Six Sigma methodology can be explained with a brief description of sigma.
+·	 “s” is a Greek alphabet that denotes standard deviation. Standard deviation is a measure of dispersion in a given data set. The values (of the data set) are equally distributed on either side of the mean i.e. above and below. We delineate some data points within that timeline. The sigma value is measured against this. As we move farther away from the mean on the timeline, the sigma value goes on increasing. 
+·	Process Sigma (Z) – Measure of process capability. Process capability is process’ ability to meet customer requirements. 
+·	The Six Sigma methodology focuses on reducing the variation in any process and aligning the process mean with customer specified target. A process can be said to be at Six Sigma level if the nearest Customer Specification limit is six standard deviations away from mean of the process. 
+Six Sigma is a business strategy that results into achieving a near zero defect level. The sigma levels and their corresponding defects per million opportunities (DPMO) give an idea of the quantum of improvement in yield with Six Sigma.
+ The fundamental objective of the Six Sigma methodology i.e. implementation of a measurement based strategy to propel process improvement and reduce process variation is accomplished by means of two strategies – DMAIC (Define, Measure, Analyze, Improve and Control) and DMADV (Define, Measure, Analyze, Design and Verify).
+DMAIC is an improvement system for existing products or processes. Fundamentally DMAIC is –
+<ul>
+<li><b>Define </b>– Define project goals and customer deliverables based on voice of customer (VOC). 
+<li><b>Measure</b> – Measure the process to evaluate current performance with respect to customer requirements. 
+<li><b>Analyze </b>– Analyze and determine root cause(s) of poor performance. 
+<li><b>Improve </b>– Devise and evaluate multiple solutions to improve performance and eliminate defects; Pilot solution and compare performance. 
+<li><b>Control </b>– Quantify improvements; Implement control plans to sustain desired performance. 
+Design for Six Sigma (DFSS) is used to design or re-design a new product or service. One popular DFSS methodology is called DMADV. Fundamentally DMADV is – 
+<li><b>Define</b> – Define the scope of the project and initiate the project. 
+<li><b>Measure</b> – Measure customer needs and specify the CTQ parameters. 
+<li><b>Analyze</b> – Analyze the concepts that meet customer needs (CTQs). 
+<li><b>Design </b>– Develop a detailed design with respect to the customer needs and identify control plans. 
+<li><b>Verify</b> – Test and verify design performance with respect to customer CTQs. </ul>
+DMAIC focuses on only one or two CTQ (Critical To Quality) parameters at a time whereas DMADV focuses on an entire set of CTQs for a given product / service or process.
+ 
+<b>SIX SIGMA IN IT</b> 
+“Eighty-five percent of the reasons for failure to meet customer expectations are related to deficiencies in systems and process rather than the employee. The role of management is to change the process rather than badgering individuals to do better” – Dr. DemingSeveral process improvement methodologies like Six Sigma, Total Quality Management (TQM), Quality Circles, Taguchi, Statistical process control, etc. are being successfully implemented in the manufacturing industries sector. It was perceived that such improvement methodologies are ineffective in the IT services industry. GE, pioneers of Six Sigma implementation in a non-manufacturing set-up, has estimated benefits of the order of $10 billion during the first five years of implementation.
+Some commonly made arguments against the effectiveness of Six Sigma in IT services sector were
+<ul>
+<li>Software processes are difficult to measure. 
+<li>Software development is people intensive work that needs creativity. 
+<li>Software development is not a repeatable process. 
+<li>Six Sigma theories are based on assumption of normal probability distribution and Software processes cannot be included in this category. </ul> 
+Though these factors are true in some sense, the Six Sigma methodology can still be applied to IT processes.
+The software processes are definitely difficult to measure but it’s not an impossible task. Industry leaders like IBM and institutions like Software Engineering Institute have designed and published many metrics for software processes for the benefit of the entire industry. Capability Maturity Models prescribe the quantitative management processes as one of the Key Process Areas at level 4. Lot of books and other material is available publicly to choose right metrics from. Six Sigma offers strong tools like Quality Function Deployment (QFD), CTQ flow-down and other templates to convert high-level VOC into measurable CTQs.
+90% of the processes in a software services company are repeatable and can be improved by the process improvement DMAIC methodology. The DFSS methodology can be applied to the remaining
+5-10 % of the processes, which involve creativity.
+It is true that Six Sigma concepts evolved with normal distribution. But, Six Sigma tools can be easily adapted to handle processes having non-normal distribution
+Having discussed the arguments supporting the applicability of Six Sigma to IT processes, let us make an attempt to understand the applicability of Six Sigma to the processes that are an integral part of IT services.
+<b>CORE DELIVERY PROCESSES</b>
+The software development life cycle (SDLC) consists of four phases - Analysis, Design, Coding and
+Testing. Along with these core phases, processes like defect prevention, project management,
+Software Quality Assurance (SQA), Reviews, etc. are an integral part of the Quality Management System of any IT service provider. The effectiveness of these core processes directly impact the
+CTQ parameters. There is a large scope for improvement in these processes in most IT companies. Six Sigma can be deployed to improve these processes.
+One of the key factors in deploying Six Sigma is identifying the “Y” metrics (dependants). But for core processes this becomes simpler since historical data for key metrics such as review efficiency, review effectiveness, productivity, defect density, schedule variance and effort variance are already available. After prioritization, critical poor performing metrics can be taken as Six Sigma DMAIC projects.
+Six Sigma DFSS methodology can be applied for software development projects. Six Sigma in
+SDLC helps in making the software manufacturing process more predictable and ensuring that all
+Customer CTQs are met. Some Sigma tools that can be applied in this methodology are –
+<ul><li>Quality Function Deployment (QFD) helps in converting the high-level customer requirements (VOC) into detailed program specifications. Use of QFD ensures that no requirements are missed and it also helps in prioritizing the software elements. 
+<li>Failure Mode Effect Analysis (FMEA) is a tool that provides effective risk management for the entire SDLC, and identifies the probable failure modes of software at design phase. This initiates corrective action on the design. 
+<li>Pugh matrix enables software developer / analyst to compare different concepts with reference to customer CTQs and create strong alternative concepts from weaker concepts Scorecard is a predictive tool used for: 
+<ol><li>Predicting final quality (Y metrics) based on process (X) metrics
+<li>Quantitative Risk Assessment Identification of High Defect Drivers Linkage from Customer CTQs at lower levels in a flow down
+<li>Application of Design of Experiments in software testing is an emerging trend. Software testing based on orthogonal array, detects most possible defects at a fractional testing time. </ol></ul>
+<b>DELIVERY SUPPORT PROCESSES</b>
+The processes that are value enablers are equally important to consistently deliver best quality service to the customers. These processes consist of infrastructure and network services, Resource Management, HR processes, Finance and accounting, Training, Central Quality organization etc.
+Efficiency and effectiveness of delivery support processes directly or indirectly contribute to the productivity of core delivery processes. Processes like infrastructure and network maintenance are extremely important for offshore development / BPO models.
+Six Sigma DMAIC projects can be forked to improve any or all the processes mentioned above.
+Some Y metrics for Delivery support processes are
+<ul><li>Resource turnaround time 
+<li>Cycle time for recruitment 
+<li>Defects in payroll processing 
+<li>On time invoicing 
+<li>Accuracy of invoicing 
+<li>Network response time 
+<li>Network utilization 
+<li>Training effectiveness </ul>
+In effect, Six Sigma has a profound impact on the most critical resource in IT industry i.e. human resources.
+<b>PRODUCT QUALITY ATTRIBUTES</b>
+It is of paramount importance to deliver a high quality software product. The application of Six Sigma to the above two areas – Core Delivery Processes and Delivery Support Processes, directly or indirectly contributes to product quality. Metrics like response time, resource usage (Memory / CPU), and resources availability are critical to the quality of a software application. Six Sigma methodologies can be molded to optimize performance in keeping with the required metrics.
+The Six Sigma DFSS methodology enables us to predict product performance in the initial design stage so that adequate control measures are in place. Figure 3 depicts the impact of any error or missed requirement in design phase on the cost in the later phases of the software development lifecycle. It has been proved that time taken to fix a design or requirements defect during testing phase needs about 20 times of rework effort as compared to a defect fixed right at the induction phase. Here, deployment of Six Sigma can play a major role to reduce or control the development costs.
+The DFSS methodology as applicable for software processes cannot be directly mapped to DFSS methodology as implemented in manufacturing processes. In manufacturing, a product once designed is produced for years together. Whereas, in case of software development, a software design is manufactured (coded, to be precise) only once. This makes the application of DFSS in software development tougher. In a typical manufacturing setup, the crux of DFSS lies in achieving manufacturability at Six Sigma quality levels. For a manufactured product, the design budget might be flexible but in the case of software solutions, the budget for design is very limited and all the CTQs must be met in the given budget. The DFSS rigor ensures that the software is designed, coded and approved with minimum rework.
+The DMAIC methodology can be applied to improve the Product Quality Attributes of existing applications, too. Many a times, as the user base increases or if the application is deployed in a global environment, response time decreases. Round the clock availability of application has also become a critical issue in today’s global work culture and BPO scenario. DMAIC projects can be implemented to tackle such issues and find a cost effective fix. Improving reliability measures like MTBF (Mean time between failures) and MTTR (Mean Time to Repair) can be other focus areas of DMAIC improvement projects.
+<b>CUSTOMER’S PROCESSES</b>
+Most IT companies provide “End to End” solutions to their clients and therefore enjoy a long-term relationship with their customers. This has benefited the service providers in acquiring significant domain knowledge. The consultants possess fairly good amount of tacit knowledge about the client’s core business processes in addition to IT skills. Six Sigma tools and techniques provide an excellent channel to develop a basis for solution based consulting.
+Six Sigma methodologies can help core business processes as well as IT processes. Owing to the consultant’s exposure to customer’s processes through IT support, they are familiar with the best functioning processes, processes which are not operating efficiently and those processes which have reached entitlement. This enables prioritization to tackle the relevant processes and this prioritization of improvements makes implementation of Six Sigma easier.
+ 
+<b>PATNI’S APPROACH</b>
+Patni’s Process Consulting Practice offers customers a complete range of process improvement related solutions that covers the best of process/quality models and applied proven methodology and practices. PCP facilitates IT organizations to move to newer levels of business excellence through incremental process improvements that are either benchmarked against established models
+(ISO/CMM) or focused on specific process areas of improvement.
+With over 15 years of experience, Patni’s consultants provide the customer the high-quality and cost-effective solutions by offering the following services:
+<ul><li>Process Diagnostics 
+<li>Model Based Process Improvement Services 
+<li>Focused Approach to Process Consultation 
+<li>Six-Sigma Methodology for Process Improvement consultation 
+<li>Quality Management Practices & Training 
+<li>Customized solutions </ul>
+<b>SIX SIGMA METHODOLOGY FOR PROCESS IMPROVEMENT</b>
+Patni embarked upon its Six Sigma implementation initiative in 1998 in select software project delivery areas. In the year 2000, Six Sigma was implemented in one strategic business unit (SBU).
+Eventually, it was implemented at the company level. As of June 2003, Patni has a team of over 30 certified Black belts, over 300 certified Green belts and more than 1100 trained Green Belts.
+Patni Green Belts executed over 350 projects spanning across all SDLC processes, which resulted in benefit of more than $ 2mn to customers in addition to productivity gains and quality improvement in all SDLC processes. The projects focused on areas such as reduction in batch cycle time, testing time and time spent in resolving production abends. It also focuses on improving On Time Delivery, automation of customer’s processes and optimizing CPU utilization and so on. 
+Patni’s Six-Sigma consultation services endeavor to improve customer’s quality management processes and their returns on investment (ROI) by reducing operational expenses.
+Certified Six Sigma practitioners transfer critical knowledge and skills to the client organization to lay the foundation for lasting improvements in the dynamic business environment. Patni facilitates optimization of processes using the Six Sigma methodologies (DMAIC/DMADV).
+Patni’s portfolio of Six Sigma consultancy services includes:
+<ul><li>Performance Improvement 
+<li>Process Improvement 
+<li>People Development </ul>
+Patni has developed its own specific Six Sigma based methodology to execute development projects and maintenance projects respectively.
+ 
+<b>BUSINESS VALUE</b>
+<b>DEPLOYING SIX SIGMA FOR PROCESS IMPROVEMENT</b>
+Conseco, Inc., one of America's leading sources for insurance, investment and lending products offers its customers better products as an exchange to their current policies. The exchange process, involves the following two steps:
+<ul><li>Field related tasks like approaching the customer, to get his/her acceptance, and complete the necessary paperwork. 
+<li>Back office work in policy administration </ul>
+The objective of the solution was to process 10,000 applications between August -December 2001 with the existing workforce of 16 people.
+Patni implemented the Six Sigma , process improvement DMAIC methodology in the following manner.
+<ol><li>One Black Belt resource from Patni was deployed at Consesco site to facilitate process improvement using Six Sigma methodology. 
+<li>A model was developed to project staffing needs to process the desired number of applications. 
+<li>Formulate new process definition, Implementation Plan, Documentation/Control Plan. </ol>
+Patni deployed Six Sigma successfully by reducing the cycle time for processing application forms thereby increasing productivity.
+<b>DEPLOYING SIX SIGMA FOR ON TIME DELIVERY (OTD) </b>
+Patni has a project based Service Level agreement (SLA) about the task delivery schedule with one of its clients. On Time Delivery (OTD) is the metric used for measuring delivery schedule. Patni undertook the SPAN – Six Sigma DMAIC project to realign service levels for OTD and convert them to the following two parameters:
+<ul><li><b>SPAN</b> - A metric used to measure the variation in deliveries beyond the customer stated date 
+<li><b>Median</b> – A metric which specifies where the project is centered </ul>
+Patni implemented the SPAN – DMAIC project in the following manner:
+<ol><li>High level discussions were held to understand and gather the factors affecting high SPAN. 
+<li>The Six Sigma- DMAIC methodology was implementd for process improvement. 
+<li>Span Caluclator and Minitab Tools like Gauge R&R, Normality Test, Segmentation, Pareto, </ol>
+Regression and control Charts were used to undertake complex calculations.
+Patni deployed the SPAN – Six Sigma DMAIC project by reducing SPAN and Median and consistently meeting customer delivery dates. It successfully employed usage of statistical tools to track the causes of high process variation.
+ 
+<b>CONCLUSION</b>
+<ul><li>Six Sigma can be successfully applied to the IT services industry where human resources is a critical input 
+<li>Availability of reliable data and metrics is crucial to successful implementation of Six Sigma in IT arena 
+<li>In IT services sector, benefits of Six Sigma can be accrued from 
+<ol><li>Internal process improvement 
+<li>Product Quality improvement 
+<li>Better predictability 
+<li>Customer satisfaction improvement due to improved cycle time, waste reduction </ol>
+<li>Though some of the processes in IT industry may not fall under normal probability distribution, other quantitative and qualitative tools could be used to improve the process. 
+<li>Focus of DFSS methodology on Analyze and design phase significantly reduces the defects, rework during testing and hence productivity during the rollout phase 
+<li>Six Sigma rigor is a key differentiator in solution based consulting </ul>
+
+<b>ABOUT THE AUTHOR</b>
+<b>Rajesh Naik</b>
+Rajesh Naik has over 12 years of experience, including more than 6 years in the field of quality initiatives like Malcom Baldrige model, Balanced Scorecard, Six Sigma and Quality circles. He assumed Six Sigma black belt role at Patni in 2001 and was part of core Six Sigma team that rolled out Six Sigma in Patni-GE Global Development Center. During this tenure, his key role has been to identify improvement opportunities, coach / mentor the green belts for project completion, training of the consultants that include customizing Six Sigma training material for software professionals, deliver training. He successfully designed and launched the DFSS approach for Software development projects within the SBU. He also, worked on cycle time improvement project for a leading insurance company in US.
+Rajesh holds a post graduation in Software technology from NCST, Mumbai after graduation in Industrial Engineering.
+
+

@@ -1,0 +1,32 @@
+Title: 
+Device Drivers
+
+Word Count:
+309
+
+Summary:
+Not many people know about device drivers until they need to find one, be it for a printer or most commonly a modem driver. Finding one can be very difficult to say the least if you are using HSP based modem drivers.
+
+
+Keywords:
+driver, modem, printer, device, download, epson, hp, device driver, free
+
+
+Article Body:
+Not many people know about device drivers until they need to find one, be it for a printer or most commonly a modem driver. Finding one can be very difficult to say the least if you are using HSP based modem drivers.
+
+What is a Device Driver?
+
+Every device, be it be a printer, modem, or keyboard, must have a driver program. Many device drivers, such as the keyboard driver, come with the operating system. For other devices, you may need to load a new driver when you connect the device to your computer. Note that in the older DOS systems, drivers are files with a.SYS extension. now in Windows environments, drivers often have a.DRV extension.
+
+What do they do?
+
+A device driver is nothing more than a glorified translator which fits between the device and programs that use the device. Each device be it a modem or printer has its own set of commands that only its driver knows. That bieng said, however most programs access devices by using generic commands. The device driver, therefore, accepts generic commands from a program and then translates them into specialized commands for the device. 
+
+Finding them:
+
+Finding a driver can be very difficult as most manufactures manufacture a device and after 2 or 3 years change and make a different version. Finding a driver for your device becomes a task as the manufactures remove the drivers from their website and refuse to support them. They hope that you will upgrade to their new line of products, but there is no need if you know where to find your drivers. Try the following website which not only has more than 2,000 drivers but finds what you are looking for, free. 
+
+Remember, don't upgrade unless you want to. There is no need to buy new, when the old printer or modem worked just fine!
+
+

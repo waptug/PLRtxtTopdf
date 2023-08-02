@@ -1,0 +1,40 @@
+Title: 
+Infrared And Bluetooth: Connecting Things Easier
+
+Word Count:
+579
+
+Summary:
+With different electrical devices produced everyday, the problem of connecting things is becoming more and more complex. The system that comprises the computers and other electronic devices makes use of varieties of connecting wires, cables and the likes. These parts communicate trough light beams, lasers, radio signals and infrared. However, the problem with this devices and technologies is often the connection between each component. Thus, most systems are not used to their...
+
+
+Keywords:
+bluetooth
+
+
+Article Body:
+With different electrical devices produced everyday, the problem of connecting things is becoming more and more complex. The system that comprises the computers and other electronic devices makes use of varieties of connecting wires, cables and the likes. These parts communicate trough light beams, lasers, radio signals and infrared. However, the problem with this devices and technologies is often the connection between each component. Thus, most systems are not used to their full extent due to complexities.
+
+To simplify things, a solution was created to streamline the process of connections- bluetooth.
+
+Bluetooth is wireless and automatic and offers users with varieties of excellent features that has recreated the art of connection. It has revolutionized the standard method of connecting things that virtually anything can be connected on a single system. From computers to mobile phones and from keyboards to headphones by means of wireless, automatic and inexpensive connection.
+
+Other than the bluetooth technology, there are other ways of connecting things. Take for example the infrared or IR. It allows low frequency light waves which the eye can no longer interpret to transmit signals to another component. The technology is easy to create and cost of incorporating the IR device into a system is in barest minimum. Yet it has limited operations that seldom obstructs the process of connection. 
+
+Infrared technology is one to one process. Due to this limitation, you may only send signals from one component to another, like the case of the television set and the remote control. The same is true between laptops and desktops. You may only transmit signals between the two but not with another separate system, say a PDA through simultaneous actions.
+
+It also works only on the line of sight principle wherein one has to point the infrared device directly to the host system to achieve a desirable result. 
+
+In spite of the fact that these two natures of infrared technology are obstacles to acquiring results, these same qualities have worked in advantage to connection. Because infrared devices need to be lined up directly on opposing locations, too little interference occurs between transmitters and receivers. The one to one principle on the other hand is designed to transmit signals only to the original recipient. Given that there are varieties of infrared recipients in a location, the intended recipient alone will receive the signal coming from a transmitter.
+
+However, technology was not contented with what infrared offers. They resolved these limitations through creating the bluetooth solution.
+
+Bluetooth technology works by transmitting signals via low frequency radio signals. The path of communication is approximately working on 2.45 gigahertz. The same frequency band is utilized in ISM devices.
+
+The design of the technology was such that it has created a new system that does not interfere with the other devices that make use of the same frequency band (e.g. ISM). One way of doing this is the programming of the bluetooth technology to only transmit signals that has 1 milliwatt or less. Beyond this, other systems may be affected. By comparison, cell phones and other mobile devices send signals at a rate of 3 milliwatts and more.
+
+The standard range of the bluetooth is around ten meters. This lessens the possibility that interference between device may occur. With this low transmission, it is still possible for the user to transmit bluetooth signals between obstructing walls.
+
+Bluetooth in many ways have contributed much in connecting individual systems without being bothered by the bulk of the cables and wires.
+
+

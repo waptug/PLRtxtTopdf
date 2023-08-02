@@ -1,0 +1,63 @@
+Title: 
+Cisco Certification:  Introduction To ISDN
+
+Word Count:
+908
+
+Summary:
+ISDN is a tricky and complex subject that CCNA candidates must master.  Chris Bryant, CCIE #12933, explains the basics of this important subject.
+
+
+Keywords:
+ccna, ccnp, free, pass, exam, cisco, certification, computer, mcse, ccie, chris, bryant, isdn, interesting, traffic, cdp, nat
+
+
+Article Body:
+From the CCNA to the CCIE, ISDN is one of the most important technolgies you'll work with.  It's also very common in the field  ISDN is frequently used as a backup connection in case an organization's Frame Relay connections go down.  Therefore, it's important to know ISDN basics not only for your particular exam, but for job success.
+
+ISDN is used between two Cisco routers that have BRI or PRI interfaces.  Basically, with ISDN one of the routers places a phone call to the other router.  It is vital to understand not only what causes one router to dial another, but what makes the link go down.
+
+Why?  Since ISDN is basically a phone call from one router to another, you're getting billed for that phone call -- by the minute.  If one of your routers dials another, and never hangs up, the connection can theoretically last for days or weeks.   The network manager then receives an astronomical phone bill, which leads to bad things for everyone involved!
+
+Cisco routers use the concept of interesting traffic to decide when one router should call another.  By default, there is no interesting traffic, so if you don't define any, the routers will never call each other.
+
+Interesting traffic is defined with the dialer-list command.  This command offers many options, so you can tie interesting traffic down not only to what protocols can bring the link up, but what the source, destination, or even port number must be for the line to come up.
+
+One common misconception occurs once that link is up.  Interesting traffic is required to bring the link up, but by default, any traffic can then cross the ISDN link.  
+
+What makes the link come down? Again, the concept of interesting traffic is used.  Cisco routers have an idle-timeout setting for their dialup interfaces.  If interesting traffic does not cross the link for the amount of time specified by the idle-timeout, the link comes down.  
+
+To summarize:  Interesting traffic brings the link up by default, any traffic can cross the link once it's up a lack of interesting traffic is what brings the link down.
+
+Just as important is knowing what keeps the link up once it is dialed. Why?  Because ISDN acts as a phone call between two routers, and it’s billed that way to your client.  The two routers that are connected by this phone call may be located in different area codes, so now we’re talking about a long distance phone call.  
+
+ 
+
+If your ISDN link does not have a reason to disconnect, the connection could theoretically last for days or weeks before someone realizes what’s going on.  This is particularly true when the ISDN link is used as a backup for another connection type, as is commonly the case with Frame Relay.  When the Frame Relay goes down, the backup ISDN link comes up when the Frame Relay link comes back not billed for all that time.
+
+ 
+
+To understand why an ISDN link stays up when it’s not needed, we have to understand why it stays up period.  Cisco’s ISDN interfaces use the idle-timeout to determine when an ISDN link should be torn down.  By default, this value is two minutes, and it also uses the concept of interesting traffic.
+
+ 
+
+Once interesting traffic brings the link up, by default all traffic can cross the link.  However, only interesting traffic resets the idle-timeout. If no interesting traffic crosses the link for two minutes, the idle-timer hits zero and the link comes down.
+
+ 
+
+If the protocol running over the ISDN link is RIP version 2 or EIGRP, the most efficient way to prevent the routing updates from keeping the line up is expressly prohibiting their multicast routing update address in the access-list that is defining interesting traffic.  Do not prevent them from crossing the link entirely, or the protocol obviously won’t work correctly.  
+
+ 
+
+With OSPF, Cisco offers the ip ospf demand-circuit interface-level command.  The OSPF adjacency will form over the ISDN link, but once formed, the Hello packets will be suppressed.  However, the adjacency will not be lost.  A check of the adjacency table with show ip ospf adjacency will show the adjacency remains at Full, even though Hellos are no longer being sent across the link.  The ISDN link can drop without the adjacency being lost.  When the link is needed, the adjacency is still in place and data can be sent without waiting for OSPF to go through the usual steps of forming an adjacency.
+
+ 
+
+This OSPF command is vital for Cisco certification candidates at every level, but is particularly important for CCNA candidates.  Learn this command now, get used to the fact that the adjacency stays up even though Hellos are suppressed, and add this valuable command to your Cisco toolkit. 
+
+One myth about ISDN is that Cisco Discovery Packets keep an ISDN link up.  CDP is a Cisco-proprietary protocol that runs between directly connected Cisco devices.  There is a school of thought that CDP packets have to be disabled on a BRI interface in order to prevent the link from staying up or dialing when it's not really needed.  I've worked with ISDN for years in the field and in the lab, and I've never seen CDP bring up an ISDN link.  Try it yourself the next time you're working on a practice rack!
+
+Chris Bryant
+CCIE #12933
+
+

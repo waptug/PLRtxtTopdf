@@ -1,0 +1,20 @@
+Title: 
+The General Midi Standard – For The Budding Electro-musician
+
+Word Count:
+337
+
+Summary:
+One of the problems once faced by wanna-be MIDI musicians was that humans read musical notes differently than MIDI sound modules. To oversimplify, we use letters to represent each note (“C sharp in the fourth octave, for example), and MIDI sound modules use numbers. Since most MIDI sound modules can play up to 128 notes, a MIDI sound module will number them from 0 to 127. The problems arose when different manufacturers started using different numbers to correspond with differ...
+
+
+Keywords:
+MIDI, General MIDI
+
+
+Article Body:
+One of the problems once faced by wanna-be MIDI musicians was that humans read musical notes differently than MIDI sound modules. To oversimplify, we use letters to represent each note (“C sharp in the fourth octave, for example), and MIDI sound modules use numbers. Since most MIDI sound modules can play up to 128 notes, a MIDI sound module will number them from 0 to 127. The problems arose when different manufacturers started using different numbers to correspond with different notes. A C sharp in the sixth octave might correspond to number 61 on sound modules made by one manufacturer, and to a 49 on one made by another. We’re talking serious chaos here – imagine what it would do to your composition if you made it on a Roland and tried to play it on another manufacturer’s sound module. Even worse, some very disorganized manufacturers assigned different numbers to different notes even in the same sound module depending on which instrument you played. In other words, you just about needed a degree in computer science to figure it all out, and composing a song meant about 3 times as much grunt work as actual composing.
+
+The General MIDI standard organized this musical chaos by decreeing that all GM –compliant patches must play an A440 pitch in response to a MIDI command that included the MIDI note number 69. All other MIDI note numbers were calibrated according to this standard so that the same note number would play the same note on any GM-compliant sound module, regardless of who manufactured it. Drum sounds were similarly standardized; with 48 MIDI note numbers standardized to correspond with 48 particular drum sounds. For those of you interested in a bit more detail, MIDI Channel 10 is reserved as the default channel for drum sounds. So as long as you pound out your drum parts using the GM standardized codes, and be sure to use MIDI channel 10 for the drum parts of your composition, you shouldn’t be in for any nasty suprises when you try to play your composition.
+
+

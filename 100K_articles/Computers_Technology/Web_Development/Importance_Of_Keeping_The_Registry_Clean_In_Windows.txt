@@ -1,0 +1,28 @@
+Title: 
+Importance Of Keeping The Registry Clean In Windows
+
+Word Count:
+512
+
+Summary:
+What is the Windows Registry? The windows registry is simply a database that the operating system uses to keep track of relationships between the hardware and the software on the computer system. The registry keeps track of important start-up options, and knows all the software that's installed on the computer. That is why it is important to keep the registry clean in Windows.
+
+Back in the days of Windows 95, each program had separate .ini files that kept track of each indi...
+
+
+Keywords:
+
+
+
+Article Body:
+What is the Windows Registry? The windows registry is simply a database that the operating system uses to keep track of relationships between the hardware and the software on the computer system. The registry keeps track of important start-up options, and knows all the software that's installed on the computer. That is why it is important to keep the registry clean in Windows.
+
+Back in the days of Windows 95, each program had separate .ini files that kept track of each individual configuration for all the software that was installed. The problem with that was, because each program had a separate .ini file, they were scattered all over the hard drive, and too hard to keep track of. Then they decided to consolidate all of that information in a central database (ie the Registry) for easy access, and efficient work. The problem with having everything in one spot, however, is if that one location gets damaged or tampered with in the wrong way (accidents, viruses/spyware, kids maybe?), it could render the entire system unbootable and would require someone with some technical know-how to re-install the operating system software. In the most mild case, it would render a particular piece of software useless until a re-install occurred.
+
+Over time, and especially after continuous Internet and Computer use, the registry information can build up. Programs that were uninstalled leave traces behind in the registry. Spyware that automatically downloads to your computer as you are browsing puts information in there. Eventually, the registry can get bogged down. Think of it as a big office desk. When you first get it, it is nice and clean. Everything is organized an you know where to find whatever you want. Imagine if you continued to use it everyday you were at work but didn't clean up after yourself. Eventually there would be piles of papers scattered everywhere. Pens in the wrong places, books at the bottom stack of outdated documents—a big mess to say the least. Imagine what that would do to your work. You would be less efficient because it would take you longer to find what you needed to get your job done.
+
+The registry works the same way, and I'll re-iterate the importance of keeping your registry clean in windows. But how do you clean the registry? You certainly don't go into it with 'regedit' and do it yourself if you have not had any training and you don't know what you are doing. That can be worse than letting your system get bogged down because you can directly harm a piece of hardware or software on your computer. I suggest you invest in a good program that will regularly scan your registry and clean it out for you. Have your PC running at optimal speed, by keeping the registry clean in windows!
+
+Think of it as an oil change in your vehicle. If you waited to long after an oil change was due, eventually your vehicle would break down and cause you to spend even more money to get it fixed, or replaced.
+
+

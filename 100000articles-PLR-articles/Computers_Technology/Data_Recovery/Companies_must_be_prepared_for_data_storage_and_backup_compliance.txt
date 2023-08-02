@@ -1,0 +1,41 @@
+Title: 
+Companies must be prepared for data storage and backup compliance
+
+Word Count:
+668
+
+Summary:
+Are you aware of the data backup and storage legistlations governing your company.  Do you know the penalties of non-compliance.   Learn hhow easy it is to secure your data and comply with the most stringent legistlations.
+
+
+Keywords:
+data backup, offsite backup, remote backup, online backup, backup, internet backup
+
+
+Article Body:
+Companies must account and deal for new legislation governing how information is stored on IT systems.
+
+The EU is shortly to adopt many of the recommendations on corporate governance set out by the Sarbanes-Oxley Act in the US, UK firms are to be expected to deal with and manage explicit guidelines on how to store email and other documents on their IT systems.  IT managers should consider the necessary procedures and technologies needed for compliance now, in order ensure technology is able to deal with the new legislation.
+
+Regulations regarding data storage at the moment are fairly lax, but there will be a huge increase in the amount of data than must be held over the next 18 months to two years.
+
+Email archiving, the increased use of expencive write-once read-many media, information lifecycle management and content-aware storage as a few of the technologies which firms should consider for the future, though in some cases companies will simply need to improve the way they manage existing systems.
+
+It is anticipated that new legislations will demand that an organizations’ archiving solutions must guarantee that the information they hold has not been changed, and keep it for a specific period of time before automatically deleting it.
+
+A survey of 493 companies in the UK has shown that compliance with regulations has a high or fairly significant impact on the data storage strategies of 87% of the organisations surveyed. Back-up and recovery was also very important to the data protection strategy of 93% of organisations.
+78% of organisations future storage strategy is set to include Disk-to-Disk-to-Tape technology. This may be due to the highly affordable and flexible nature of this new technology. For example, recent deployments of disk-to-disk-to-tape (D2D2T) solutions by various companies have, on average, reduced the backup window by more than 70%, from fifteen hours to less than four, yielding significant time and cost savings in tape management.
+
+Interestingly, product features were far more important than the brand of the product, with 82% of organisations making a decision based on product features. When it came to the decision of choosing a specialist storage supplier or a general IT provider for storage solutions there was a very slight preference for specialised storage suppliers (51%) over general IT providers (49%). 
+
+This survey shows that compliance with regulations is a key driver in companies' storage security policy and that we are likely to see more companies deploying Disk to Disk to Tape technology in the future.
+
+All the above is fine if you are a corporate, you have an annual IT budget of £500,000 and numerous members of staff who can plan and complete such a system.  Is it very easy to talk about SANs, NAS’s Virtual Tape Libaries.  Organisations of this nature already have a very stable and flexible infrastructure, where it is comparably easier to implement such a system.
+What about the 1000’s of smaller companies such as solicitors, accountants, medical practices and manufactures etc, which may have only 2 servers on site, but still have the same reliance on data and have to adhere to the same legislations?  Backup to tape is an option, however, there is an upfront cost and a requirement for a trusted member of staff to take the tapes off site every night and store in a safe place.  Can you guarantee your backup has worked, and do you really trust your long term data on magnetic media?  Another option is to archive your data onto optical devices, however the cost is even more prohibitive than tape and you still need to take the disk offsite.
+No doubt your data is growing quickly; recently enforced legislations makes sure of this, so why not employ a backup and archival solution which has no upfront cost, is fully automated, secure and regardless of disaster will ensure your data is always available, Offsite Backup.
+
+To find out more information about  secure offsite data backup solutions, please visit
+<a href="http://www.perfectbackup.co.uk/" style="color: blue; text-decoration: underline; text-underline: single">
+www.perfectbackup.co.uk</a>
+
+

@@ -1,0 +1,24 @@
+Title: 
+What is Error 403?
+
+Word Count:
+114
+
+Summary:
+We get the 403 Forbidden HTTP error when the client was able to communicate with the server, but the server does not let the client access the required data.
+
+
+Keywords:
+Error 403
+
+
+Article Body:
+We get the 403 Forbidden HTTP error when the client was able to communicate with the server, but the server does not let the client access the required data. 
+
+In plain English, it roughly translates to “You don't have the required permission to access this”. The web server gives this response when directory listings have been turned off. 
+
+The most common reason is that directory browsing is forbidden as most Web sites want you to navigate using the URLs in the Web pages for that site. 
+
+It is also possible that there is no content in the directory there yet. Until the content is uploaded, anyone trying to access the site could encounter a 403 error.
+
+

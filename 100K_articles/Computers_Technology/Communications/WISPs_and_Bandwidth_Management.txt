@@ -1,0 +1,40 @@
+Title: 
+WISPs and Bandwidth Management
+
+Word Count:
+685
+
+Summary:
+Bandwidth limits imposed by ISPs can be good for Internet customers.  By helping to ensure that bandwidth is not oversold, customers can rest assured they will have great service provided to them.
+
+
+Keywords:
+wisp, isp, bmu, bandwidth management, service, internet, wireless
+
+
+Article Body:
+Most Internet service providers have a bandwidth limit.  Even if they advertise unlimited Internet, there is usually some level of transfer that will red flag in their system and cause them to take action.  This is usually in the form of calling you to up-sell their service or, in extreme situations, cutting off your service.
+
+Most people will never run into this problem.  ISPs can advertise unlimited data because the soft cap (this is the bandwidth limit) is so ridiculously high that a user would have to try pretty hard to hit it.  Most users can go about their business without ever coming even remotely close to the limit.
+
+So why impose limits?  From a consumer standpoint, many feel cheated by the fact that they are not really getting unlimited service when they’re paying for ¨unlimited service.¨  But this is more to protect an ISP or WISPs customer base than anything else, after all - they don’t make more money by cutting off people’s service.
+
+How does a bandwidth cap improve customer experience? The simple answer is that ISPs can ensure that they do not oversell their bandwidth.
+
+So what’s the big deal with bandwidth getting oversold?  As an ISP or WISP operator, you want to ensure that you are providing good service for your customers.  Unfortunately your pipe is only so big, so it has to be shared between your customers.  Giving one customer access to the whole pipe means that he could use all the bandwidth available and leave all the other customers with slow or no service.
+
+So you give each customer a fraction of the pipe.  Bandwidth is sold by calculating the average load per customer so you can sell to the most customers while still providing good service.  If all those customers get on and try to download a bunch of data at the same exact time, you will run into problems because the bandwidth is sold to accommodate average usage.
+
+So if one customer is maxing out his portion of the pipe most of the time by downloading huge amounts of data, it is more likely that other customers are going to run into problems.  The line needs to be shared, and one person hogging up the line is going to cause unhappy customers and possibly people dropping their service.  It is better to cut off the ¨trouble maker¨ and keep your customers who aren’t causing problems.
+
+With properly allocated bandwidth resources, you should never be running into problems.  Everyone will have great service and will be happy.
+
+Sometimes an ISP or WISP will want to sell service plans by bandwidth.  This is different from unlimited plans because instead of a soft cap you have a hard cap.  This may be set anywhere from a couple gigabytes a month an up, depending on several factors like the size of the service provider’s pipe.  When a customer reaches their limit - say 2GB - their service is simply cut off, or they are redirected to a page telling them they need to upgrade their plan.  This is the best solution for Wireless ISPs who don’t necessarily have the capacity to give unlimited transfer to everyone on their network.  
+
+Sometime these hard-cap plans are better for consumers because they know exactly what to expect.  Having an unlimited plan cut off from over usage can come as a surprise to a customer, but if you have a 2GB plan and you’re cut off after 2GB, you won’t be surprised at all.
+
+These plans are also better for environments where your average user is a light to medium Internet user.  Someone who checks their email every day, browses around for a few hours a week, and doesn’t download a lot of media will probably be fine with a plan that gives them a couple of gigabytes.  
+
+Bandwidth limits help to ensure high quality service on a shared line.  If you are an extremely heavy user, you should expect to pay more for your service - after all - you’re using more than most people on the network.
+
+

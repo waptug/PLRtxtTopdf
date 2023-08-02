@@ -1,0 +1,34 @@
+Title: 
+Can I Build My WiFi Antenna?
+
+Word Count:
+432
+
+Summary:
+As the number of portable computing and communication devices grew, so does the demand to connect them to outside world. To go on line the computers had to be plugged into a telephone wall socket. Requiring a wired connection to fixed network meant that computers were portable, but not mobile.
+
+To achieve true mobility the computers need to use radio(or wireless in that case) signals for communication. . In this manner, dedicated users would be able to read and send email w...
+
+
+Keywords:
+Wi-Fi, Get Wi-Fi Antenna, USB Wi-Fi
+
+
+Article Body:
+As the number of portable computing and communication devices grew, so does the demand to connect them to outside world. To go on line the computers had to be plugged into a telephone wall socket. Requiring a wired connection to fixed network meant that computers were portable, but not mobile.
+
+To achieve true mobility the computers need to use radio(or wireless in that case) signals for communication. . In this manner, dedicated users would be able to read and send email while driving or moving to other rooms etc. A system of portable computers that communicate by radio are known as wireless LAN. Therefore to provide mobility to the systems, wireless local area networks were developed and now a new technology “Wi-Fi” or 802.11x(IEEE standard for wireless LAN setup), has become the most popular worldwide standard for the wireless communication in LAN..
+
+Nowadays all major Laptop manufacturers provide an in built wi-fi system. Work is being done to make various devices like mobile phones, mp3 players etc to be wi-fi enabled.
+
+In order to meet the growing demand for wi fi networks, various public places are provided with them.
+
+In order to enhance the wireless capabilities the antennas are developed and are now available in the market, though they are easy to install but these antennas are very expensive. Hence it would be a great thing if it is possible to make our own antennas with some readily available goods. We would need a cable (also known as pigtail) to connect wireless interface card with the antenna. We would also need two kinds of connectors, a N-male connector to connect one end of the cable to antennas and an appropriate connector to connect the wireless interface card with cable. Since the making of antenna requires wire, we would also need a soldering iron to solder wires. For more info see http://www.topwifireviews.com/USB_Wi-Fi/ on USB Wi-Fi
+
+ADVANTAGES OF DESIGNING OUR OWN ANTENAS
+
+The construction of our own antennas provides various advantages to us. Apart from being cheaper than the antennas available in market they are also easy to configure into our system. So instead of investing huge amounts of money in antennas we can better manage that money by adding them to buy better Laptop systems.
+
+There is also time factor involved in making our own antennas system. Since it is easy and faster to make and install our own antennas, it saves lot of time.Hence designing and making our own antennas would provide a better facility to the total cost involved in configuring the communication system
+
+

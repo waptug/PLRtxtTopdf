@@ -1,0 +1,75 @@
+Title: 
+Currency Trading: Understanding the Basics of Currency Trading
+
+Word Count:
+833
+
+Summary:
+Investors and traders around the world are looking to the Forex market as a new speculation opportunity. But, how are transactions conducted in the Forex market? Or, what are the basics of Forex Trading? Before adventuring in the Forex market we need to make sure we understand the basics, otherwise we will find ourselves lost where we less expected. This is what this article is aimed to, to understand the basics of currency trading.
+
+
+Keywords:
+currency trading, forex trading, forex training, forex trading education, forex trading course
+
+
+Article Body:
+Investors and traders around the world are looking to the Forex market as a new speculation opportunity. But, how are transactions conducted in the Forex market? Or, what are the basics of Forex Trading? Before adventuring in the Forex market we need to make sure we understand the basics, otherwise we will find ourselves lost where we less expected. This is what this article is aimed to, to understand the basics of currency trading.  
+
+What is traded in the Forex market?
+
+The instrument traded by Forex traders and investors are currency pairs. A currency pair is the exchange rate of one currency over another.  The most traded currency pairs are:
+
+EUR/USD: Euro
+GBP/USD: Pound  
+USD/CAD: Canadian dollar
+USD/JPY: Yen
+USD/CHF: Swiss franc
+AUD/USD: Aussie 
+
+These currency pairs generate up to 85% of the overall volume generated in the Forex market.
+
+So, for instance, if a trader goes long or buys the Euro, she or he is simultaneously buying the EUR and selling the USD. If the same trader goes short or sells the Aussie, she or he is simultaneously selling the AUD and buying the USD. 
+
+The first currency of each currency pair is referred as the base currency, while second currency is referred as the counter or quote currency. 
+Each currency pair is expressed in units of the counter currency needed to get one unit of the base currency.
+If the price or quote of the EUR/USD is 1.2545, it means that 1.2545 US dollars are needed to get one EUR.
+
+Bid/Ask Spread
+
+All currency pairs are commonly quoted with a bid and ask price. The bid (always lower than the ask) is the price your broker is willing to buy at, thus the trader should sell at this price. The ask is the price your broker is willing to sell at, thus the trader should buy at this price. 
+
+EUR/USD 1.2545/48 or 1.2545/8
+The bid price is 1.2545
+The ask price is 1.2548
+
+A Pip
+
+A pip is the minimum incremental move a currency pair can make.  A pip stands for price interest point. A move in the EUR/USD from 1.2545 to 1.2560 equals 15 pips. And a move in the USD/JPY from 112.05 to 113.10 equals 105 pips. 
+
+Margin Trading (leverage)
+
+In contrast with other financial markets where you require the full deposit of the amount traded, in the Forex market you require only a margin deposit. The rest will be granted by your broker. 
+
+The leverage provided by some brokers goes up to 400:1. This means that you require only 1/400 or .25% in balance to open a position (plus the floating gains/losses.) Most brokers offer 100:1, where every trader requires 1% in balance to open a position.
+
+The standard lot size in the Forex market is $100,000 USD. 
+
+For instance, a trader wants to get long one lot in EUR/USD and he or she is using 100:1 leverage.
+ 
+To open such position, he or she requires 1% in balance or $1,000 USD. 
+
+Of course it is not advisable to open a position with such limited funds in our trading balance.  If the trade goes against our trader, the position is to be closed by the broker. This takes us to our next important term.
+
+Margin Call
+
+A margin call occurs when the balance of the trading account falls below the maintenance margin (capital required to open one position, 1% when the leverage used is 100:1, 2% when leverage used is 50:1, and so on.) At this moment, the broker sells off (or buys back in the case of short positions) all your trades, leaving the trader “theoretically” with the maintenance margin. 
+
+Most of the time margin calls occur when money management is not properly applied.
+
+How are the mechanics of a Forex trade?
+
+The trader, after an extensive analysis, decides there is a higher probability of the British pound to go up. He or she decides to go long risking 30 pips and having a target (reward) of 60 pips. If the market goes against our trader he/she will lose 30 pips, on the other hand, if the market goes in the intended way, he or she will gain 60 pips. The actual quote for the pound is 1.8524/27, 4 pips spread. Our trader gets long at 1.8530 (ask). By the time the market gets to either our target (called take profit order) or our risk point (called stop loss level) we will have to sell it at the bid price (the price our broker is willing to buy our position back.) In order to make 40 pips, our take profit level should be placed at 1.8590 (bid price.) If our target gets hit, the market ran 64 pips (60 pips plus the 4 pip spread.) If our stop loss level is hit, the market ran 30 pips against us. 
+
+It’s very important to understand every aspect of trading. Start first from the very basic concepts, then move on to more complex issues such as Forex trading systems, trading psychology, trade and risk management, and so on. And make sure you master every single aspect before adventuring in a live trading account.
+
+

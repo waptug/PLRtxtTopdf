@@ -1,0 +1,77 @@
+Title: 
+Cisco CCNA Certification Exam Tutorial:  Frame Relay DLCIs And Mappings
+
+Word Count:
+490
+
+Summary:
+Learn the basics of Frame Relay DLCIs and how to map them from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+cisco, ccna, certification, exam, frame, relay, dlci, mapping, inverse, arp, static, pass, free
+
+
+Article Body:
+Passing the CCNA is tough, and one of the toughest parts is keeping all the acronyms straight!  Frame Relay has plenty of those, and today we're going to examine what DLCIs do and how they're mapped on a Cisco router.
+
+Frame Relay VCs use Data-Link Connection Identifiers (DLCI - pronounced "del-see") as their addresses. Unlike other Cisco technologies, VCs have only a single DLCI in their header.  They do not have a source and destination. 
+ 
+DLCIs have local significance only.  DLCI numbers are not advertised to other routers, and other routers can use the same DLCI numbers without causing connectivity issues.
+
+Cisco uses the term global addressing to describe a technique by which a router in a frame relay network is reached via the same DLCI number from each router in the network.  For example, in a 25-router network, the same DLCI number would be used to reach “Router A” by each router.
+
+Global Addressing is an organizational tool that does not affect the fact that DLCIs have local significance only.
+
+The locally significant DLCI must be mapped to the destination router’s IP address.  There are two options for this, Inverse ARP and static mapping.
+
+In both of the following examples, the single physical Serial interface on Router 1 is configured with two logical connections through the frame relay cloud, one to Router 2 and one to Router 3.
+
+Inverse ARP runs by default once Frame Relay is enabled, and starts working as soon as you open the interface.   By running show frame-relay map after enabling Frame Relay, two dynamic mappings are shown on this router.  If a dynamic mapping is shown, Inverse ARP performed it.
+
+R1#show frame map
+
+Serial0 (up): ip 200.1.1.2 dlci 122(0x7A,0x1CA0), dynamic,
+
+              broadcast,, status defined, active
+
+Serial0 (up): ip 200.1.1.3 dlci 123(0x7B,0x1CB0), dynamic,
+
+              broadcast,, status defined, active
+
+ 
+Static mappings require the use of a frame map statement.  To use static mappings, turn Inverse ARP off with the no frame-relay inverse-arp statement, and configure a frame map statement for each remote destination that maps the local DLCI to the remote IP address.  Frame Relay requires the broadcast keyword to send broadcasts to the remote device.
+
+R1#conf t
+
+R1(config)#interface serial0
+
+R1(config-if)#no frame-relay inverse-arp
+
+R1(config-if)#frame map ip 200.1.1.2 122 broadcast
+
+R1(config-if)#frame map ip 200.1.1.3 123 broadcast
+
+ 
+The syntax of the frame map statement maps the remote IP address to the local DLCI.
+Broadcasts will not be transmitted by default; the broadcast option must be configured.
+
+ 
+R1#show frame map
+
+Serial0 (up): ip 200.1.1.2 dlci 122(0x7A,0x1CA0), static,
+
+              broadcast,
+
+              CISCO, status defined, active
+
+Serial0 (up): ip 200.1.1.3 dlci 123(0x7B,0x1CB0), static,
+
+              broadcast,
+
+              CISCO, status defined, active
+
+ 
+Hands-on practice is the best way to prepare for CCNA exam success.  Working with Frame Relay in a lab environment practically guarantees that you'll truly master the concepts shown here - and then you're on your way to the CCNA and becoming a master network engineer.
+
+

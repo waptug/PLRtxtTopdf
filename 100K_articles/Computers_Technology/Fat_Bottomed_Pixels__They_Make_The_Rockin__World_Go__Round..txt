@@ -1,0 +1,26 @@
+Title: 
+Fat Bottomed Pixels, They Make The Rockin’ World Go ‘Round.
+
+Word Count:
+475
+
+Summary:
+You know what a pixel is or a least you think you do. In reality it is something that you totally take for granted as the basic unit of the images that have literally invaded life in the last 15-20 years. Pixels are used generically for many, many different concepts that all have one thing in common and that is some sort of image. You could be talking about the dot in a printed image, or the cell of a lcd screen, or simply the resolution that a display is capable of displayin...
+
+
+Keywords:
+pixels
+
+
+Article Body:
+You know what a pixel is or a least you think you do. In reality it is something that you totally take for granted as the basic unit of the images that have literally invaded life in the last 15-20 years. Pixels are used generically for many, many different concepts that all have one thing in common and that is some sort of image. You could be talking about the dot in a printed image, or the cell of a lcd screen, or simply the resolution that a display is capable of displaying, or more technically the binary code that a computer uses to store an image file.
+
+The computer revolution has lead to huge advances and has taken computer graphics much closer to the true representation of objects in life that we see with our eyes. This is most apparent in the areas of video games and digital photography. When someone is referring to pixels as in the code that a computer uses to store the image digitally it may be more helpful to refer to them as texels.
+
+So how can such complex information be stored into a computer and understood in binary, that is a series of ones and zeros? Well I am going to attempt in the next one and one half paragraphs to give you a whirlwind explanation. So we will start with black and white. Here each number in binary code refers to an intensity of the pixel. Therefore all eight zeros in a eight bit image construct which equals zeros would represent black or in other words no intensity. On the other hand all 1’s which would equal 255 in binary would represent white or maximum intensity.
+
+In color the numbers represent the intensities of three colors – red, green, and blue (rgb format). The amount of colors in a palette depends on the amount of bits per pixel (bpp) in the image. In eight bpp (two bits for red, three for green, and 2 for blue) there can be two to the power of 8 colors or 256 colors. In 16 bpp there are greater than 60,000 possible colors to choose from. Pixels are amazing aren’t they.
+
+What you want to know is what this all has to do with internet marketing, so here is the deal. Pixels can also be used to describe space in an add. There are scripts that can automate the production of an add that contains the images of the different companies and if the pixel is clicked on the user is taken to the sales page for that company. The pixels are sold in 100 pixel blocks and this type of advertising has become huge since a student made a million bucks with one page by selling space like this. There are tools that can automate this process and you too could get in on this amazing money-making opportunity!
+
+

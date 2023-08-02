@@ -1,0 +1,40 @@
+Title: 
+Temporary Internet Files - Truth and Consequences
+
+Word Count:
+569
+
+Summary:
+Much has been written about temporary internet files. To my amazement, there seems to be a lot of misunderstanding about how these files are put on your computer and the effect they have on your computing experience. Some articles propose these files slow your computer to a crawl, others indicate they are memory hogs. While some suggest that these files only affect the MS Internet Explorer browser.
+
+
+Keywords:
+temporary internet files,
+
+
+Article Body:
+<p>Much has been written about temporary internet files. To my amazement, there seems to be a lot of misunderstanding about how these files are put on your computer and the effect they have on your computing experience. Some articles propose these files slow your computer to a crawl, others indicate they are memory hogs. While some suggest that these files only affect the MS Internet Explorer browser.</p>
+
+<p>One thing that most authors get right is the purpose of temporary internet files. Allow me to give another explanation just to be clear.</p>
+
+<p>Temporary internet files are a collection of web page copies stored on your computer's hard disk or in its random-access memory. Pages you view are normally stored in a special cache folder for quicker viewing the next time you visit the same page. The bowser compares the cached copy  to the original. If there have been no changes, the browser uses the cached copy rather than re-fetching the original, saving processing and download time.</p>
+
+<p><b>Slowing your computer down?</b></p>
+
+<p>The size of your file cache will cause your computer to slow down ONLY if the cache size is very, very large and fragmented. By nature cached files are relatively small and are only used when loading internet pages and do not remain in memory indefinitely. By adjusting your browser cache size to 5Mb or less you can avoid any slow down caused by the browser searching the hard drive for cached files. My personal browser cache is much larger, 50Mb, and I have no problems even on a dial-up internet connection. Internet slow down is almost always caused by network traffic.</p>
+
+<p><b>Slow Hard Drive:</b></p>
+
+<p>If your computer is running slow, there is a good chance it is not due to your temporary internet files. Slow hard drive access is usually due to fragmented files on your hard drive or the hard drive is getting close to being full. Windows needs at least 15% free hard disk space to operate correctly. That is 15% free space total, including your Windows Swap File</p>
+
+<p><b>Websites, security and temporary internet files:</b></p>
+
+<p>Websites do not put temporary internet files on your computer. The internet browser does file caching automatically. Do not confuse temporary internet files with 'cookies'. Website cookies are also cached, but they are cached separately from temporary files. Also any personal information such as saved passwords and form auto fill information is kept in still another more secure place.</p>
+
+<p><b>Internet Browsers:</b></p>
+
+<p>Is Internet Explorer just being a bad boy? Well...no. If IE is a bad boy, it is only because IE is a poor example of an Internet Browser. All internet browsers cache temporary internet files. Presently I have FireFox 1.5.0.4, Netscape 7.2., Netscape 8.0 and IE 6.0xxx installed and all of these browsers manage temporary internet file caching the same way.</p>
+
+<p>It is a good idea to adjust the cache file size and clear the cache occasionally to get rid of unused and possibly corrupt files. Caching of all file types by your browser can be managed from the browser's options menu. I hope you now have a better understanding of temporary internet files. Temporary internet files, passwords and auto fill data can be deleted manually, but that is another article. Surf on.</p>
+
+

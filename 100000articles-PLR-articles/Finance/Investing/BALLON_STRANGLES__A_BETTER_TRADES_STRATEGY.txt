@@ -1,0 +1,39 @@
+Title: 
+BALLON STRANGLES, A BETTER TRADES STRATEGY
+
+Word Count:
+656
+
+Summary:
+I have often taught that there is a countermove for everything that a market or stock can throw at you. You may not know it but there is one. This is generally a true statement because if you wait too long, there are some situations you can't get out of but for the most part there is a way to respond to and survive just a bout anything. IF YOU KNOW WHAT TO DO AND HOW TO DO IT. The emphasis is to make the distinction that knowing is not enough. You must know how and that takes training. However it does start with knowing what.
+
+
+Keywords:
+better trades, bettertrades
+
+
+Article Body:
+I have often taught that there is a countermove for everything that a market or stock can throw at you. You may not know it but there is one. This is generally a true statement because if you wait too long, there are some situations you can't get out of but for the most part there is a way to respond to and survive just a bout anything. IF YOU KNOW WHAT TO DO AND HOW TO DO IT. The emphasis is to make the distinction that knowing is not enough. You must know how and that takes training. However it does start with knowing what.
+
+I developed the Balloon Strangle as a way to counter the effects of high volatility and unpredictability (ie. Danger) of news announcements that happen when the market is closed. This would be like earnings after hours or an anticipated Board meeting or a court ruling. Something that could move the stock in a big way but you don't know for sure which way. Conventional wisdom (and it is good advice) is to avoid this like a plague.
+
+A conventional strategy to mitigate the effects of volatility is the strangle or straddle play. Traditional positions for a strangles and straddle are at or near the money. You take opposing positions so that either way it goes you have a winning position. You hope that the move is big enough that the losing position goes to zero and then the winning one can make money. Problem… near the money position are expensive and the move must be quite large to erase one position and still move far enough to make money on the other one. But the idea is that you are somewhat insulated from the unknown. At least you can stay even as one goes up in value and the other goes down.
+
+The Balloon Strangle was a twist using the leverage of Out of the Money positions. If you use a graphic to show the option prices you will often see a leverage point in the curve created by plotting the option prices. It occurs in the Out of the money positions. It represents a spot where the value of the option changes much faster in one direction than the other. In other words if the stock moves one way the value of the option changes very fast but very slow if it moves the other way.
+
+Here is an example of a Balloon Strangle on an earnings play with YHOO. I played this because of the potential YHOO had to move far enough to make the cost of both an Out of the money call and a put pay off. The potential was for a double of my money.
+
+Now YHOO sits ½ way between the important price levels. This is the perfect setup for this play. The YHOO earnings usually has a big move and it is has clear targets.
+
+Now here is what happened. YHOO moves like it was following a script. The upside move goes right to resistance.
+
+Now the results… YHOO moved up to resistance and hesitated. 2 hours into the trading day and at the next sign of hesitation I pulled the plug on the trade. Resistance seemed to be holding, I got what I was looking for in an up side move so I sold both positions. The net of $1.75 was very close to the estimate of $1.70.
+
+By the way, as the day wore on and YHOO did not make any attempt to move higher, the Oct 42.50 began to drop in value much faster than the stock sagged. This dropped the 42.50 calls over .50 while the stock pulled back .60. Waiting for the end of the day would have cost me over .50. The play was to be in only to catch the reaction to the news.
+
+This strategy takes practice and applies to potentially good sized moves. Always practice with out funding first.
+
+
+Ryan with Better Trades
+
+

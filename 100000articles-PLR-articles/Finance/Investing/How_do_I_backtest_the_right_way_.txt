@@ -1,0 +1,34 @@
+Title: 
+How do I backtest the right way?
+
+Word Count:
+526
+
+Summary:
+Backtesting the day trading system is vital for newbie traders. Markus, the day trading expert, tells you how to backtest the right way.
+
+
+Keywords:
+daytrading system,online daytrading 
+
+
+Article Body:
+In my opinion backtesting can be a very powerful tool if used correctly. 
+The problem is that many traders over-use the functions provided by the different backtesting software packages and think more is better. Many so-called system developers try to imply that the longer you backtest the better and more robust your system will be. That's not always true. 
+Let me use the e-mini S&P as an example. In 2000 the average daily range was 100-150 ticks per day; in 2004 it was only 40-60 ticks per day. If you backtest any trend-following <a href="http://www.rockwelltrading.com/daytradingcoach/01_dtc_moreinfo.html#STRATEGIES"><b>daytrading system</b></a> in the e-mini S&P you will see that it worked perfectly until 2002 and then suddenly fell apart. It seems that there are no more intraday trends. That's not surprising as the daily range of the e-mini S&P decreased by more than 50%. 
+What happened? 
+There are a couple of reasons. Probably the most important one is the introduction of the Pattern Day Trading Rule in August and September 2001by the NYSE and NASD: If a trader executes four or more day trades within a five business day period then he must maintain a minimum equity of $25,000 in his margin account at all times. Because of this rule made traders stopped online daytrading equities and started trading the e-mini S&P future instead. 
+Look at the sudden increase in volume in the e-mini S&P in the beginning of 2001: 
+ 
+Many of these stock daytraders used methods to scalp the market for a few penny. Using the e-mini S&P they suddenly had a much higher leverage, paying less commissions, and their methods were extremely profitable. 
+Unfortunately, these scalping methods kill an intraday trend almost instantly, making almost every trend-following approach fail. 
+Another reason for the dramatic change of the market was the introduction of the automated online daytrading strategy execution in TradeStation. In 2002 TradeStation's customers who were using this feature increased by 268%. Overbought/Oversold strategies became very popular and when the market made an attempt to trend these online daytrading strategies immediately established a contrary position. 
+Conclusion 
+When backtesting you need to know these things. It's not enough to just run a system on as much data as possible; it's important to know the underlying market conditions. 
+In non-trending markets like the e-mini S&P you need to use trend-fading systems, and in trending markets like commodities you should use trend-follwing methods. 
+And that's when clever backtesting helps you:
+If your backtesting tells you that a trend-following method worked in 2000-2002, but doesn't work in 2003 and 2004 then you should not use this strategy right now.And vice versa: When you see that a trend-fading method produced nice profits in 2003, 2004 and 2005, then trade it. 
+I haven't yet seen an <a href="http://www.rockwelltrading.com/daytradingcoach/01_dtc_landing_page.html"><b>online daytrading</b></a> strategy that works in all market conditions: trending and non-trending. Usually a strategy works very well in ONE market condition (e.g. trending) and produces small losses in the OTHER market condition. That's why you need to alter daytrading strategies. 
+And THAT'S where backtesting can help you.
+
+

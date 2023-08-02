@@ -1,0 +1,35 @@
+Title: 
+What is Active Directory?
+
+Word Count:
+349
+
+Summary:
+Since the creation of Active Directory, the service has proven to be widely successful and has helped to further spur development into ways to make the most of distributed networking environments.
+
+
+Keywords:
+Active Directory
+
+
+Article Body:
+Active Directory is one of the enhancements that first appeared on the computer technology scene with the launch of Microsoft's Windows 2000 architecture. This innovation in directories made use of many of the system directories of times past, and sought to enhance those features while adding additional functionality. Active Directory was designed with the specific idea of enhancing the function of distributed networking environments.
+
+How Does Active Directory Compare to Other Directories?
+
+Active Directory covers the same basic functionality that is found in other major directories designed for similar purposes. Like the Novell Directory Service, or NDS, Active Directory provides a central and standard platform to work with. This platform helps to automate the ability of the network to manage all sorts of resources, such as security protocols, user data, and the whole range of distributed sources. Because Active Directory is designed as a Microsoft product, it is especially configured to work with various Windows operating systems. 
+
+What Are Some Of The Features of Active Directory?
+
+Because Active Directory is meant to function as a support for distributed networking environments, several features speak to that functionality.
+
+1. Active Directory provides support for the secure extension of network functions onto the World Wide Web.
+2. Active Directory allows for a logical single point of access for overseeing the functions of the system, such as creating and managing user accounts, applications, and servers.
+3. Active Directory supports the X.500 standard required for directories involved in a global environment. 
+4. Active Directory makes use of an object-oriented programming and storage format, making it easier to access information
+5. Active Directory is configured to make use of both forward compatible and backward compatible functionality.
+6. Active Directory includes support for LDAP or Lightweight Directory Access Protocol, which helps to enhance the ability to make use of several subdirectories. 
+
+Since the creation of Active Directory, the service has proven to be widely successful and has helped to further spur development into ways to make the most of distributed networking environments. As access to the Internet have become more mobile in recent years, the important of Active Directory has continued to expand.
+
+

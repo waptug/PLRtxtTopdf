@@ -1,0 +1,28 @@
+Title: 
+Mozy - The Ultimate Online Backup Solution?
+
+Word Count:
+429
+
+Summary:
+Data backup is something that you just can't take for granted anymore. The risks from viruses, spyware and computer hardware problems are so many and so varied that not keeping at least one copy of your computer data backed up is just asking for the worst kind of trouble. Being protective of your data and having a data backup policy or procedure is no longer just in the domain of system administrators in big companies. Nope. Home users should now also have their own data prot...
+
+
+Keywords:
+computer, data, backup, recovery, pc, mac
+
+
+Article Body:
+Data backup is something that you just can't take for granted anymore. The risks from viruses, spyware and computer hardware problems are so many and so varied that not keeping at least one copy of your computer data backed up is just asking for the worst kind of trouble. Being protective of your data and having a data backup policy or procedure is no longer just in the domain of system administrators in big companies. Nope. Home users should now also have their own data protection policy. You no longer have a choice.
+
+Most people tend to look at storing their data on DVDs or external hard drives. This in itself is a positive step in terms of data backup - you're protecting your data from harm. There's one single and massive flaw in backing up your data in this way. It's still stored where you live or work and is at risk from fire, flood, theft, electrical storms or just plain old hardware failure. Any of these can wipe out all those carefully created backup sets in a few moments. 
+
+Is there a solution? Of course there is - using a remote or online backup service to keep a second copy of your absolutely mission critical data. This ensures that no matter what type of crisis might ruin the data you have stored locally the remote copy will always be safe and available to restore within a few moments if you need to.
+
+So where can you find a reliable online backup service? This is where most people run into problems. There are lots of "pretenders" out there - companies who claim to offer great service and features and always fall short on pretty much every count. Then along came Mozy and everything changed. 
+
+Mozy is, without doubt, the best online file backup service I've ever seen or used. It's very easy-to-setup, offers a free starter package, works flawlessly from within firewalls, is extremely configurable and runs scheduled incremental backups whenever you want it to. The application itself is tiny and doesn't take over 90% of your processing power (unless you configure it that way) and is easy-to-use for even the most novice computer user. Mozy is sleek and powerful - unlike some of the awful online backup services that exist on the market today. 
+
+If you really do value your data then you'll need to keep multiple copies of it and ideally keep one copy stored online so that you can restore it whenever or wherever you need to. Mozy fits the bill perfectly in that regard and comes highly, highly recommended.
+
+

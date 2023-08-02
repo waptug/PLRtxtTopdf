@@ -1,0 +1,28 @@
+Title: 
+Cisco CCNA Certification Exam Tutorial: The OSI Model’s Physical Layer
+
+Word Count:
+379
+
+Summary:
+To pass the CCNA exam and earn this coveted certification, you must master the OSI model.  In Part 1 of this seven-part series, learn all about the Physical Layer from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccna, exam, free, tutorial, osi, model, physical, layer, icnd, intro, certification, Bryant, advantage, chris, bits, ethernet, token, ring
+
+
+Article Body:
+To pass your CCNA exam and earn this coveted certification, you've got to master the seven layers of the OSI model and what each layer does.   For those of you taking the two-exam path, you can expect quite a few OSI model questions on the Intro exam. In this seven-part series, we'll spend some time taking a look at each of the OSI model layers, starting with the Physical layer.
+
+Often, CCNA candidates ask if the OSI model has any practical uses for network administrators.  I used to wonder the same thing, and I can now tell you that the answer is definitely yes!
+
+The OSI model isn't something you want to memorize and then forget about, as using the OSI model gives you a structured approach for troubleshooting.  Whenever a network device isn't working properly, I always say to "start at the physical layer".  The Physical layer is Layer One of the OSI model, and this is where troubleshooting should always start.  Is the device on?  Is it properly connected?  If everything is fine at Layer One, you just move up to Layer Two, and continue in this structured fashion until the problem is identified.  
+
+The Physical layer is the layer at which bits are transmitted over the physical media.  There is no routing or switching going on at this layer.  The data has been broken down into more manageable pieces until the data takes the form of ones and zeroes at the Physical layer.  
+
+Even though there's no routing or switching at the Physical layer, CCNA candidates should be familiar with a couple of network devices that work at Layer One.  A repeater is a device that regenerates an electrical signal, allowing the signal to travel longer distances without fading. (The process of an electrical signal gradually fading in strength over distance is "attenuation".) A hub is basically a multiport repeater, and both of these devices are considered Physical layer devices.   Ethernet and Token Ring both operate at the Physical layer as well.
+
+Learning the OSI model's Physical layer isn't just important in your CCNA exam studies, it's the first step in any network troubleshooting.  After all, your network's end users are going to have a tough time sending print jobs to a printer that's turned off!
+
+

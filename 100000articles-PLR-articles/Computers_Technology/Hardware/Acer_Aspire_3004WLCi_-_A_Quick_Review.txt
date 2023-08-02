@@ -1,0 +1,70 @@
+Title: 
+Acer Aspire 3004WLCi - A Quick Review
+
+Word Count:
+1410
+
+Summary:
+If you just need a basic system for work or school related tasks the Acer Aspire 3004WLCi is a solid performer that can handle average use with ease. I would definitely recommend this unit to college students or traveling professionals who need an inexpensive, user-friendly laptop, but who do not plan on using their laptop on batteries very often, or who do not intend on playing many games or movies. For the price conscious consumers out there, this system is definitely worth the money.
+
+
+Keywords:
+system,machine,integrated,acer,aspire,wlci,computer,laptop,aspire wlci,acer aspire,quick review,new laptop
+
+
+Article Body:
+I recently found myself in need of a new laptop. With a tight budget and moderate needs, I knew it wasn't going to be easy to find a product that would do what I wanted and still be in my price range. 
+
+As a Network Technician and a Web Designer, I needed a machine that would have enough storage to store all my software, projects for my clients, and still be able to handle an occasional temporary operating system backup from a client's machine. The qualifying candidate also had to have a decent amount of RAM and a reasonably fast processor to keep up with the demands of multitasking and using Studio MX '04 on a daily basis.
+
+At first, I checked the auction sites, the refurbished outlets, and the wholesale warehouses. I found a few good deals for under $500, but nothing that would handle the processing load that Studio MX 2004 would place on it. The average machine had 256MB of PC133 RAM, a 20GB HDD, and a 1.0GHz Pentium processor. Not too shabby for a student machine, but for daily service in the fields I work in, not nearly enough space or power to keep up with my demands.
+
+I quickly realized that a new laptop would be needed in order to meet my needs. Realizing that most decent laptops are priced at over $1,000, I wasn't expecting a whole lot when I started shopping around. However, to my surprise, a local retail chain had a special running on the Acer Aspire 3004WLCi for $600 after a $150 rebate. This was the top end of my budget, but the specs were far more than what I thought I would find in this price range.
+
+<strong>Quick Specs:</strong>
+AMD Mobile Sempron 3100+ (1.8GHz) w/ 256K L2 cache
+512MB DDR333 SODIM RAM (expandable to 2GB)
+60GB 4200rpm Hard Disk Drive
+15.4 Wide Screen WXGA Monitor
+CD-RW/DVD-ROM Combo Drive
+3 USB 2.0 Ports (1 front / 2 side)
+Front Audio / Microphone jacks
+Integrated Microphone / Speakers
+Integrated Audio Controller
+Integrated Video Controller (up to 128MB shared)
+Integrated 56Kbps Data/Fax Modem
+Integrated 802.3 10/100 Ethernet NIC
+Integrated 802.11b/g WiFi
+Maximum screen resolution: 1280 x 800
+External monitor maximum resolution: 2048 x 1536
+One type II PCMCIA Slot
+AC Power Adapter / 4-cell lithium-ion battery
+1.5"Hx14.3"Wx11"D / 6.2lb. w/ Battery
+Microsoft Windows XP Home SP2
+
+OK, before I go into the Pros and Cons of this system, let me first say this... As a Network technician, I'm a bit of a stranger to Acer products. I've seen them before, but I've never used them. In an industry dominated by Dells and HPs, Acer seemed more of an "off-brand" to me. With that in mind, I wasn't expecting a whole lot for my money. Fortunately, I was not disappointed, but neither was I entirely wrong.
+
+Also, it is worthy to note that before I used this machine, XP Home was trashed in favor of XP Professional SP2 and I went through the system and performed several minor software performance tweaks on the operating system; all of which can be performed using the native Windows XP Pro utilities.
+
+<strong>Pros:</strong>
+The Acer Aspire 3004 WLCi is a reasonably powerful system for $600. Even at the original $750, this system is hard to beat in the performance department. The Sempron 3100+ processor is surprisingly fast and capable. It handled running Dreamweaver MX 2004, Fireworks MX 2004, Microsoft Word 2003, Microsoft OneNote 2003, Firefox 1.5, Internet Explorer 6.0, Opera 8.5, Resize Browser, CPick, Java JRE, NOD32 Anti-Virus, Hotmail Popper, and several system services and minor utilities running in the background simultaneously and didn't complain or produce any unacceptable sustained CPU usage spikes. This is partly due to the generous and fast 512MB of DDR333 RAM, but even so, the processor surprised this long-time AMD user. 
+
+The 60GB hard drive provides an ample amount of storage for average users. It is on the lower end of my requirements, but sufficiently large enough to handle all my installed software, over 12GB of service software needed for service calls, all my client projects, and it still has enough space left over to easily accommodate a 20GB client system backup.
+
+In addition, this system has a very good Broadcom WiFi controller. In my 3 story townhouse, which has excellent insulation, this system can be used anywhere in my home with a signal strength of "Very Good" to "Excellent".
+
+The system is ergonomically laid out. I have rather large hands, and most modern laptops are entirely too small for me to realistically use for any extended period of time. Usually, within 20 or 30 minutes, my wrists and hands begin to ache from trying to maintain a very unnatural position in order to type the documents I'm working on. Not so with the Aspire 3000 series. These laptops have a relatively large chassis with a keypad that is almost perfect for someone with large hands. I've actually found that I can type nearly as fast (roughly 35wpm) on this laptop as I can on my desktop system that has an ergonomic split keyboard (40wpm).
+
+<strong>Cons:</strong>
+If you're looking for a Multimedia system, or if you plan to do any graphics intensive gaming, keep on looking; this system is not for you. Even with the widescreen WXGA display, this machine is not well suited for watching DVDs. The integrated video controller is only acceptable and the monitor requires a lot of "fiddling" with in order to find the "just right" position for viewing. Furthermore, the glare on the screen of this unit is terrible. I've found that in most brightly lit rooms I'm spending more time straining my eyes to see past my own reflection. Also, the viewing angle is unimpressive. If you try to view the screen from anything greater than 15 degrees in any direction, you're either looking at a washed out or negative variation of the original. I've never been a big fan of LCD. I've always felt that a high quality CRT always looks better, but this screen is more reminiscent of a LCD of three years ago than a brand new product.
+
+The integrated audio and video controllers are a definite sore spot as well. I've always preferred expansion controllers over integrated controllers, but in this price range, I knew I would be stuck with the so-so quality of an integrated controller. No surprise here. As usual, the quality and performance is sub-par with these controllers, but for my needs, they do the job. However, if you plan on listening to any audio playback on this machine, you had better pack a quality set of headphones. The tiny speakers on this machine are terrible sounding. Again, no big surprise.
+
+Now, about battery life. I don't know who was in charge of defining this aspect of this machine, but they need a checkup from the neck up. Battery performance on this machine is absolutely unacceptable. Unless you tune the system down significantly, it is very difficult to squeeze more than an hour of real usable time out of this system's battery life. The manufacturer states that it will run for 1.5 hours on the battery. I've never been able to get more than an hour out of the unit. In this day and age, this is not acceptable. Fortunately, there are very few occasions when I need to use this system where I'm not close to a power outlet.
+
+My only other major complaint is the lack of expandability of this system. You get two SODIM memory card slots (filled with 256MBx2 sticks from the factory), three USB 2.0 ports and a Type II PCMCIA slot on this machine, and that's it. No internal expansion capabilities, no firewire, no serial or parallel connections, and you cannot swap out the combo drive easily. Given the price range of this system, I'm really not surprised, but I am a bit disappointed. Fortunately, there are an abundance of USB adapters available that allow me to do whatever is needed.
+
+<strong>Summary:</strong>
+If you just need a basic system for work or school related tasks the Acer Aspire 3004WLCi is a solid performer that can handle average use with ease. I would definitely recommend this unit to college students or traveling professionals who need an inexpensive, user-friendly laptop, but who do not plan on using their laptop on batteries very often, or who do not intend on playing many games or movies. For the price conscious consumers out there, this system is definitely worth the money. In my humble opinion, you get more than what you pay for, but not by much.
+
+

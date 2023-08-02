@@ -1,0 +1,147 @@
+Title: 
+Upgrading To Microsoft Windows Vista Tips
+
+Word Count:
+1061
+
+Summary:
+The holidays are almost here and a lot of folk want Windows Vista.  Here are some tips to help you upgrade.  New install will follow next week.
+
+
+Keywords:
+upgrade, microsoft, windows vista, windows xp, windows 2000, tips, helpdesk
+
+
+Article Body:
+Upgrading To Microsoft Windows Vista Tips
+
+The traditional annual days of giving are at hand.  Some people will want to upgrade (if it can be called that) to Windows Vista.
+Here are some tips to help keep you out of trouble.
+Recommended minimum hardware requirements for Windows Vista 
+Windows Vista Home Basic
+•800-megahertz (MHz) 32-bit (x86) processor or 800-MHz 64-bit (x64) processor
+•512 megabytes (MB) of system memory
+Note On system configurations that use system memory as graphics memory, at least 448 MB of system memory must be available to the operating system after some memory is allocated for graphics.
+•DirectX 9-class graphics card
+•32 MB of graphics memory
+•20-gigabyte (GB) hard disk that has 15 GB of free hard disk space
+•Internal or external DVD drive
+•Internet access capability
+
+Audio output capability
+
+Windows Vista Home Premium, Windows Vista Business, Windows Vista Enterprise, and Windows Vista Ultimate
+
+1-gigahertz (GHz) 32-bit (x86) processor or 1-GHz 64-bit (x64) processor
+1 GB of system memory
+Windows Aero-capable graphics card
+Note This includes a DirectX 9-class graphics card that supports the following:
+•A WDDM driver 
+•Pixel Shader 2.0 in hardware
+•32 bits per pixel 
+128 MB of graphics memory (minimum)
+40-GB hard disk that has 15 GB of free hard disk space (the 15GB of free space provides room for temporary file storage during the install or upgrade.)
+Internal or external DVD drive
+Internet access capability
+Audio output capability
+
+Note A Windows Aero-capable graphics card is a graphics card that meets the following requirements: 
+•Supports a Windows Display Driver Model (WDDM) driver
+•Has a DirectX 9-class graphics processor unit (GPU) that supports Pixel Shader 2.0
+•Supports 32 bits per pixel
+•Passes the Windows Aero acceptance test in the Windows Driver Kit (WDK)
+
+Operating system requirements to upgrade to Windows Vista
+
+There is a table which outlines the upgrade options mapped to the different Windows Vista editions listed below:
+
+Home Basic
+Home Premium
+Business
+Ultimate
+
+Upgrading from the OS listed below:
+Windows XP Professional
+
+
+Windows XP Home
+
+
+Windows XP Media Center
+
+
+Windows XP Tablet PC
+
+
+Windows XP Professional x64
+
+
+Windows 2000
+
+You will find much more information at http://remotehelpdesk1.com/articles.htm
+
+Notes:
+If you are currently using Windows 2000 Professional or Windows XP Professional x64, you are eligible for an upgrade copy to a corresponding or better edition of Windows Vista, but a clean install is required.
+
+Upgrade copies are not available for versions of Windows earlier than Windows 2000. These earlier versions of Windows require you to install a full copy of Windows Vista.
+
+If the edition of Windows Vista that you choose to install will result in a loss of functionality over your current edition of Windows, you will need to do a clean install, or install Windows Vista to a new partition on your PC.
+
+Windows Vista Upgrade Advisor
+
+Before you begin
+Before you run the Upgrade Advisor, be sure to plug in any USB devices or other devices such as printers, external hard drives, or scanners that are regularly used with the PC you're evaluating.
+
+Download Windows Vista Upgrade Advisor
+
+Ready to upgrade? Check out these special offers from Microsoft partners.
+The Upgrade Advisor works with 32-bit versions of Windows XP and Windows Vista. Review the upgrade options available for earlier versions of Windows.
+
+Make sure your computer is ready for the edition of Windows Vista you want.
+The Windows Vista Upgrade Advisor will help you to determine if your Windows XP-based PC can run Windows Vista. You can also use the Upgrade Advisor to determine if your Windows Vista-based PC is ready for an upgrade to a more powerful edition of Windows Vista.
+
+This small software tool will scan your computer and create an easy-to-understand report of all known system, device, and program compatibility issues, and recommend ways to resolve them. Upgrade Advisor can also help you to choose the edition of Windows Vista that best fits the way you want to use your computer.
+
+Just download, install, and run the Windows Vista Upgrade Advisor.
+
+Please Note:
+The Windows Vista Upgrade Advisor works with 32-bit versions of Windows XP and Windows Vista, except Windows Vista Enterprise edition. It will not work with other editions of Windows.
+
+The Windows Vista Upgrade Advisor does not collect or send any personal, identifiable data to Microsoft Corporation or third parties.
+Upgrade procedure
+
+To upgrade your computer to Windows Vista, follow these steps:
+1.Start the computer by using the current operating system. Verify that the Microsoft Windows operating system that is currently installed on the computer is eligible for upgrade to Windows Vista.
+
+2.Insert the Windows Vista DVD in the computer's DVD drive. 
+
+3.Use one of the following procedures, as appropriate:
+
+If Windows automatically detects the DVD, the Install now screen appears. Click Install now.
+
+If Windows does not automatically detect the DVD, follow these steps:
+a. Click Start, click Run, type Drive:\setup.exe, and then click OK.
+
+Note Drive is the drive letter of the computer's DVD drive.
+
+b. Click Install now.
+
+4.When you reach the Which type of installation to you want? screen, click Upgrade to upgrade the current operating system to Windows Vista.
+The Upgrade option is unavailable, and you receive an "Upgrade has been disabled" message
+
+When you try to upgrade to Windows Vista, the Upgrade option is unavailable. 
+
+Additionally, you receive the following message:
+
+Upgrade has been disabled
+This issue may occur if one of the following conditions is true:
+•The operating system that is currently installed on the computer is not supported in the upgrade path to Windows Vista. 
+
+•You did not start the computer by using the current operating system. Instead, you started the computer from the Windows Vista DVD. To resolve this issue, start the computer by using the current operating system, and then run the Setup program from the current operating system.
+
+•The operating system is installed to a partition that uses the FAT32 file system. To resolve this issue, convert the file system on the partition to use the NTFS file system. For more information about how to resolve this issue, click the following article number to view the article in the Microsoft Knowledge Base: 307881 ( http://support.microsoft.com/kb/307881/ ) How to convert a FAT16 volume or a FAT32 volume to an NTFS file system in Windows XP 
+
+•The partition on which you want to upgrade to Windows Vista has insufficient free hard disk space. To resolve this issue, free additional space on the hard disk. 
+tmm
+
+

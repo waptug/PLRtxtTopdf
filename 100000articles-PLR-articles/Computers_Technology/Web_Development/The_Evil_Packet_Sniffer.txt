@@ -1,0 +1,50 @@
+Title: 
+The Evil Packet Sniffer
+
+Word Count:
+333
+
+Summary:
+A "Packet Sniffer" is a utility that sniffs without modifying the network's packets in any way.
+
+By comparison, a firewall sees all of a computer's packet traffic as well, but it has the ability to block and drop any packets that its programming dictates. Packet sniffers merely watch, display, and log this traffic.
+
+One disturbingly powerful aspect of packet sniffers is their ability to place the hosting
+machine's network adapter into "promiscuous mode." Network adapters...
+
+
+Keywords:
+sniffer, packet sniffer, tcp sniffer, sniffer code, code, source code, packet capture, network
+
+
+Article Body:
+A "Packet Sniffer" is a utility that sniffs without modifying the network's packets in any way.
+
+By comparison, a firewall sees all of a computer's packet traffic as well, but it has the ability to block and drop any packets that its programming dictates. Packet sniffers merely watch, display, and log this traffic.
+
+One disturbingly powerful aspect of packet sniffers is their ability to place the hosting
+machine's network adapter into "promiscuous mode." Network adapters running in promiscuous mode receive not only the data directed to the machine hosting the sniffing software, but also ALL of the traffic on the physically connected local network.
+
+In order to view an entire network session you will have to reassemble the packets back into sessions.
+
+To do so you will have to know deeply IP and TCP protocols.
+
+Reassembling the packets is not an easy task because some packets are lost on the way and the others do not come at the right order, but once you do that you are capable to "read" the entire network.
+
+After you have learnt to reassemble packets you will have the ability to develop several "evil" components:
+
+1. One thing you can do is to read the outgoing and/or incoming emails. The email protocol is called SMTP and is sent via PORT 25.
+
+2. Do not forget the FTP protocol ( PORT 21 ), it might come in handy.
+
+3. Monitor the HTTP protocol ( port 80 ) which is the World Wide Web. By doing so you will know which websites have been visited, files that have been uploaded to the web or downloaded from the web, text that was sent and so on.
+
+While those things are considered inappropriate and your colleagues will probably not like it, sometimes it is needed for security reasons.
+
+If you are a programmer and you want to start exploring the subject then I suggest you start with my free basic TCP sniffer which is available for download here: 
+
+http://www.noviway.com/Code/Basic-TCP-Sniffer.aspx
+
+Good luck and happy sniffing!
+
+

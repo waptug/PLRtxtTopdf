@@ -1,0 +1,55 @@
+Title: 
+How To Boost Your Internet Connection Speed
+
+Word Count:
+655
+
+Summary:
+Life without surfing the Web is as unthinkable as life without the telephone.No matter what you're doing in any given day, whether it be shopping, checking the weather, or catching up on the events around the world, we all have a tendency to go online to get the scoop on these matters.
+
+Whether you're thinking about starting your first Internet connection or you want to get the most out of your existing connection, knowing how to accomplish this can boost that connection an...
+
+
+Keywords:
+computer repair,computer upgrades,computer training,software
+
+
+Article Body:
+Life without surfing the Web is as unthinkable as life without the telephone.No matter what you're doing in any given day, whether it be shopping, checking the weather, or catching up on the events around the world, we all have a tendency to go online to get the scoop on these matters.
+
+Whether you're thinking about starting your first Internet connection or you want to get the most out of your existing connection, knowing how to accomplish this can boost that connection and make your web surfing much more enjoyable.
+
+If your starting out for the first time, you must find an ISP or Internet Service Provider in your area that serves as a middleman between your PC and the Internet.
+
+Once you have found yourself a reliable ISP, you have two choices of Internet connections. The slower of the two is the Dial-Up connection but its also the cheapest.If you can afford to pay a higher monthly fee, a broadband connection is the way to go.
+
+Whichever connection you have or start first, it can probably run faster with a little optimization. In order to improve your current Internet connection, it would be to your advantage to know your current connection speed.
+
+Check this by running a Speed Test at such sites as PC Pit Stop at www.pcpitstop.com and if you're running a broadband connection, try Broadband Speed at www.band withspeedtest.com and another is Broadband Reports at www.broadbandreports.xom/stest.
+
+You can go to such search engines as Google or MSN and perform a search for let's say, "Internet Speed Test" and you will have a ton of software allowing you to test your Internet connection and many are free.
+
+The Broadband Speed Test site allow you to test up to three times a month free.After that you can purchase a subscription and test up to 1,000 tests for $60.00. You can also purchase just 100 speed tests for just $12.00
+
+Run a few speed tests to objectively test the connection and its best to run tests at different hours of the day.These test sites report their values in different formats.
+
+In the evening Internet traffic is much higher and you want to know how fast your connection is during this time. With this data written down and safely put away, you should want to find out how fast your modem is at other times, especially in the mornings.
+
+
+This values may be reported in 1kb or 1 kilobyte or 1MB which is 1 megabytes.Look at the site's reporting values and take careful, detailed notes of each connection speed test.
+
+To optimize either connection you will need to tweak Windows Settings and install optimization software.If you have a Dial-Up connection and use Windows 98 or Me, click Start, Settings, and click Control Panel. Then right click the Modems icon.
+
+Now click Properties, and choose the General tab.Use the Maximum Speed Drop-Down menu to select 115200. If this setting causes your Modem to no longer connect, change it to 57600.
+
+Windows XP users should click Start, Control Panel and switch to classic view.Double-click the Phone And Modem options and choose the Modem tab.
+
+Change the maximum settings port speed to 115200 and if the Modem responds poorly or not at all, change the speed to 57600.
+
+Broadband users should consider using a tweak utility such as TCP Optimizer at www.speedguide.net/downloads.php and after downloading the software, you run it and make a backup of your current settings.
+
+Save the backup, and follow the instructions in the software to optimize your broadband speed.Don't forget to click apply changes and click Yes if the software ask you to re-boot the computer.
+
+And now you're on the home stretcth. Your computer should run faster now.If the new settings cause trouble, return to the program and restore your back up settings. If you failed to make a backup, restore Windows default settings.
+
+

@@ -1,0 +1,32 @@
+Title: 
+The Advantages Of Integrated Connector Modules
+
+Word Count:
+373
+
+Summary:
+A MagJack, or Integrated Connector Module (ICM for short) is a combination of up to 10 discrete components. They include: The RJ45 connector, the impedance matching transformers, 2 LED’s, 4 termination resistors, 1 high voltage capacitor, and often common modes chokes as well.
+
+Today’s ethernet or LAN hardware engineers have two ways to lay these components out on their boards. First, they can do it “discretely.” That is, they can lay out each of the parts I mentioned indiv...
+
+
+Keywords:
+magjack, bel, integrated connector modules
+
+
+Article Body:
+A MagJack, or Integrated Connector Module (ICM for short) is a combination of up to 10 discrete components. They include: The RJ45 connector, the impedance matching transformers, 2 LED’s, 4 termination resistors, 1 high voltage capacitor, and often common modes chokes as well.
+
+Today’s ethernet or LAN hardware engineers have two ways to lay these components out on their boards. First, they can do it “discretely.” That is, they can lay out each of the parts I mentioned individually on the board, and this is the way it was typically done up until the late 1990’s. The second, and I believe the better way, to attack this problem, is to use a MagJack, or Integrated Connector Module, from BEL.
+
+The advantages to using a MagJack in an ethernet design are numerous, but I will outline what I believe to be the top reasons to consider this approach.
+
+1. Maximize Avaliable Space. By combining up to 10 components into one housing, you can literally cut the real estate used on a PCB by more than 50%.
+
+2. Maximize Efficiency…in engineering, purchasing, inventory management, and manufacturing. By using 1 component instead of 10, you can turn designs faster, simplify the purchasing process, streamline inventory management, and reduce manufacturing time.
+
+3. Reliability. Most people don’t realize that magnetics are often the least reliable component on a PCB. That is because the fine copper wire used to produce today’s impedance matching transformers is very fragile. By keeping the magnetics, as well as the other 9 components, inside the RJ45 housing, they are protected from heat and other environmental exposure which can accelerate untimely and unexpected field failures.
+
+4. Noise Reduction. Today’s designers are faced with increased system “noise” manifesting itself in any number of forms, such as EMI, RFI, cross talk and jitter. As communication speeds increase, so do the problems brought on by noise. Using MagJacks is a simple way to reduce system noise. You see, by taking all 10 components, including the noise countermeasures like common mode chokes, and housing them within the RJ45, you reduce the number of exposed components, reduce the number of exposed traces, and reduce the overall signal path, all of which significantly reduces system noise. In addition, by using shielded MagJacks, you can reduce system noise even further.
+
+

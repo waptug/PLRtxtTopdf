@@ -1,0 +1,23 @@
+Title: 
+Define Combofix
+
+Word Count:
+220
+
+Summary:
+ComboFix is a spyware infection remover. ComboFix was designed and written specifically to target the following types of infections: SurfSideKick, QooLogic, Look2Me or any combination of that group.
+
+
+Keywords:
+Combofix
+
+
+Article Body:
+ComboFix is a spyware infection remover. ComboFix was designed and written specifically to target the following types of infections: SurfSideKick, QooLogic, Look2Me or any combination of that group.
+This software also has a built-in engine to target Vundo infections, now it may take care of some of these infections, but not all of them.
+Now while it can help and cure some other infections, it doesn't do that good of a job, as it does with the group listed above, because it was designed to look for the specific traits that are used by those infections.
+The software is constantly being updated to provide the latest protection to its users.
+As well as providing good support for removing spyware and infections, ComboFix also has other built in utilities that makes it a nice software to have. ComboFix also has the ability to unhook any .DLL files inside the Windows "System32" folder so that you can personally access them, and help to remove any infections manually that might have taken place with these files. 
+Also, ComboFix has a built in file deleting engine inside it, so that the user can delete any file, not just infected files. These can be locked or hidden files as well. Using the Command Line, a user can delete up to 8 files at one time.
+
+

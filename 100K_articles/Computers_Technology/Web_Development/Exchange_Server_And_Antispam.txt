@@ -1,0 +1,36 @@
+Title: 
+Exchange Server And Antispam
+
+Word Count:
+511
+
+Summary:
+Installing spam filters at server stage and especially on Microsoft Exchange Server allows businesses to be more efficient in controlling spam and maintain the confidentiality of their mails without revealing it to external factors.
+
+The unwanted commercial e-mail, known as Spam, is turning out to be an acute threat for the organizations and even individual users. In present time, spam, or the unsolicited junk e-mail, has become one of the biggest hazard intimidating the We...
+
+
+Keywords:
+
+
+
+Article Body:
+Installing spam filters at server stage and especially on Microsoft Exchange Server allows businesses to be more efficient in controlling spam and maintain the confidentiality of their mails without revealing it to external factors.
+
+The unwanted commercial e-mail, known as Spam, is turning out to be an acute threat for the organizations and even individual users. In present time, spam, or the unsolicited junk e-mail, has become one of the biggest hazard intimidating the Web world, and removing this menace from the computers has become a ‘task’ in itself. As per expert researches, worldwide, the cost of spam varies from millions to billions of dollars. All the security companies and researchers are working hard to find out ways to get rid of this ever-increasing giant and integrate spam filters into popular mail systems like Microsoft Exchange Server 2000, 2003 and 2007.
+
+Filtering loads of messages to identify which e-mails are spam and which are not is an exhaustive process. Thus, the primary function of every server administrator who is accountable for the messaging and collaboration server system is to install a superior spam e-mail filtering system.
+
+For several years, preventing spam at the connection stage has been considered as the ideal measure for organizations, as it prohibits entry of spam into the company’s network. This element works by simply assessing the incoming Simple Mail Transfer Protocol (SMTP) connections for probable spam that can be minimized if the connection SMTP host is a prominent Spammer.
+
+To protect the business atmosphere, an anti exchange server spam is highly indispensable and should undeniably be incorporated in the network security strategy to save the company’s time, money and despair related to system failure. Installing suitable and advanced software to counter spam a complex task but is very necessary so that all the mails, data and online information received by the computers through the server are completely protected against spam.
+
+Advantages of Exchange Server Spam filter
+
+There are numerous benefits of installing spam filters at the Microsoft exchange server stage. The improved security ensures the immediate elimination of the spam mail before its entry into the user’s system which saves time, bandwidth, storage and money. Any SMTP or POP3 mail server is often also safeguarded by the server-based spam filter. Besides, this technology also notifies the sender if any valid message was acknowledged as spam.
+
+Exchange Server filter operates from a central server, generally linked to several spam ‘blacklists’ that spots the recognized spam senders while evaluating every e-mail on the basis of its individual features. The efficiency of these systems can be improved with Exchange Server’s ability to collect information by analyzing large number of messages. The perfect Exchange Server anti spam filter allows easy installation/administration and does not require any client side software. Features for reporting and statistics are also important for the system administrator.
+
+Several anti-spam programs come with an alternative where recognized spam can be thrown to the junk e-mail box of a user, so that the computer can ensure that authentic messages have not been mistakenly acknowledged as spam.
+
+

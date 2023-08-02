@@ -1,0 +1,40 @@
+Title: 
+Top Ten Facts About Spyware
+
+Word Count:
+740
+
+Summary:
+Unless you've been on another planet for the last five or six years you have surely heard of Spyware and I would hope you are taking precautions against your PC being infected. But do you know that the precautions you take may be ineffective in protecting your PC? Here are my Top Ten Facts about Spyware - some of them may shock you!
+
+1. The average home PC contains 30 pieces of spyware according to an audit carried out in 2006 by security company Webroot Software. The type ...
+
+
+Keywords:
+anti-spyware, spyware, pc security, adware, spyware removal, spam, trojan horse
+
+
+Article Body:
+Unless you've been on another planet for the last five or six years you have surely heard of Spyware and I would hope you are taking precautions against your PC being infected. But do you know that the precautions you take may be ineffective in protecting your PC? Here are my Top Ten Facts about Spyware - some of them may shock you!
+
+1. The average home PC contains 30 pieces of spyware according to an audit carried out in 2006 by security company Webroot Software. The type of infections range from the relatively harmless adware programs to malicious system monitors and trojan horses. Adware programs are software installations that display advertisements. System monitors are much more malicious and track a computer user's Internet activity and capture personal information. Trojan Horse is the name given to malicious software which, although harmless itself, opens the way for more malicious software to be installed. Webroot Software found that, on average, the 30 pieces of spyware would contain at least 1 system monitor and 1 trojan horse.
+
+2. Your identity can be a few mouse clicks away for criminals. Spyware can gather and report all the personal information about you including credit card numbers, bank account details, user names and passwords. According to The Identity Theft Resource Center, 13.3 people in the U.S. become victims of identity theft every minute. Although not all of these are due to spyware, it's still a chilling thought that it can happen so easily if your PC is infected with this kind of malicious software.
+
+3. Spyware can slow down you computer. Any computer has a limited amount of system resources. Every time another piece of software is run the computer must share out its resources ever more thinly. Malicious software infections result in longer boot times and an overall slowing down of the PCs performance.
+
+4. Spyware can dramatically slow down your Internet connection. Every Internet connection has a limited amount of data it can transfer at any one time. All spyware communicates with the Internet thereby using up some of your available Internet communication. The more spyware, the more Internet communication will take place and the less space on your Internet connection for your own use.
+
+5. Spyware can turn you into a 'spammer'. Some spyware can download other software on to your PC that can relay Spam. In some cases this may lead to your Internet connection being blocked altogether if your ISP (Internet provider) traces instances of Spam to you.
+
+6. Spyware can easily be installed on your computer without your knowledge. In some cases just one piece of Spyware can lead to many, many more as the initial infection downloads and installs other malicious software stealthily in the background.
+
+7. Spyware can allow hackers to control your PC. Some versions install 'backdoors' to your PC that can allow someone from the outside to connect to your PC over the Internet and take full control of its use. Your PC can then be turned in to a 'zombie' that sends out spam, Trojan horses and computer viruses in their millions.
+
+8. Some Spyware removal programs install Spyware. Why would they do that? In order to hide their own spying software. Think about it. You install an Anti-Spyware program to protect yourself against Spyware. The bogus Anti-Spyware program sweeps your PC for all Spyware except it's own secret list of allowed spy software. You think it's doing a great job and feel secure in using your PC when all the while secret spy software is sending out spam or monitoring your use looking for personal details. See spywarewarrior.com for a list of bogus Spyware removal software.
+
+9. The best Anti-Spyware program only finds 90% of Spyware. Check out the review of Anti-Spyware software in any PC Magazine and you'll find that none of them detect any more than 90% and most cannot remove more than 80%. Don't be fooled in to thinking it's not worth using any Anti-Spyware programs, after-all 90% is a whole lot better than 0% which would be the detection rate without the Anti-Spyware software.
+
+10. Many computer users resort to wiping their PC and re-installing everything again in order to rid their system of Spyware. While this will do the trick, there is no guard against re-infection and can be a waste of time or lead to a loss of important data. After the system is back in use it may only be a matter of minutes before it's infected again (see the BBC 'Honeypot' report mentioned on my website).
+
+

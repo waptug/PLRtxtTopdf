@@ -1,0 +1,34 @@
+Title: 
+The Difference Between Deleting And Shredding Data May Mean The Difference Between Securing Your Bank Account And Becoming An Identity Theft Victim!
+
+Word Count:
+576
+
+Summary:
+Users think that placing a file into the recycle bin and then emptying the contents is all that they need to do to delete a file.  Performing the right mouse click and selecting delete for a file also makes the file vanish and you are safe.
+
+You'd better think again - the information is still there you just cannot see it because performing a file delete in Windows only acts to tell Windows XP not to display the file on your desktop or in the folder contents on your PC scree...
+
+
+Keywords:
+wipe file,wipe disk space,wipe pc,it security,computer,security,privacy
+
+
+Article Body:
+Users think that placing a file into the recycle bin and then emptying the contents is all that they need to do to delete a file.  Performing the right mouse click and selecting delete for a file also makes the file vanish and you are safe.
+
+You'd better think again - the information is still there you just cannot see it because performing a file delete in Windows only acts to tell Windows XP not to display the file on your desktop or in the folder contents on your PC screen.
+
+The actual fact is that the information is still there on the hard drive and with one of the hundreds of free file recovery programs available anyone can recovery your data.  Imagine you are just upgrading to Vista from XP and you need to upgrade your machine to something Vista ready.  Many people look to sell their old PC and format the hard drive or delete the user data and think "OK, this is all gone." Now imagine someone decides to run a file recovery on your machine and they have now recovered your folder with passwords for your online banking and credit card accounts, your eBay user ID and password, access to your Paypal or Paystone accounts and even have your digital photographs of your family that you thought had been permanently deleted.
+
+Permanently erasing data from a hard drive is in practice extremely difficult.  In fact the only guaranteed method of permanently erasing data from a hard drive is to physically remove the drive, take a lump hammer and smash the thing to little bits.  Some file recovery programs are so sophisticated that they can recover data that is on the hard drive and that has been over written up to 6 times by other information  but fortunately only law enforcement and serious computer geeks have access to that kind of software - we hope!
+
+Now we have set the scene for what the problem and issues really are, let's take a look at how we get rid of your data without using a lump hammer.
+
+Deletion of a file only removes the visibility of the file in Windows, what we need is a method to "shred" the file rather like you would do with a paper shredder in the office.  There are free file shredding utilities available and you can find them easily using a search engine, however if you really want the most secure solution available you are going to have to invest some money.
+
+Commercially available software for file shredding tends to approach file deletion by over writing data on the hard drive time and time again.  At the moment there is a logical and practical limit to how deep a file recovery utility can actually go and we've mentioned the recovery of data that has been over written up to six times already.  Using a utility that overwrites data with more randomly generated data repeatedly, effectively buries your data on the hard drive so deeply that it is unrecoverable.  You need to make sure that not only is the file being over written in the location where you have saved the data but also in the other locations that Windows uses to store information such as Temporary Documents, Temporary Internet Folder or the cache.  
+
+If you really have data that you need never to fall into the wrong hands, then perhaps you need to keep that lump hammer somewhere close to hand.
+
+

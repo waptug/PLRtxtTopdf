@@ -1,0 +1,24 @@
+Title: 
+At A Glance: ASP.net vs. PHP
+
+Word Count:
+500
+
+Summary:
+In the world of web development, the choice of which development language to use commonly comes down to two popular choices. Web applications, specifically those relying on back end databases, are typically being created using either Microsoft's ASP.Net language, or the Open Source alternative language of PHP. Reasons why one might choose one over the other can include: The cost of development tools, or availability of such tools, or even ones comfort level with the Open Sour...
+
+
+Keywords:
+website hosting, asp, php, compare, functionality, scripting
+
+
+Article Body:
+In the world of web development, the choice of which development language to use commonly comes down to two popular choices. Web applications, specifically those relying on back end databases, are typically being created using either Microsoft's ASP.Net language, or the Open Source alternative language of PHP. Reasons why one might choose one over the other can include: The cost of development tools, or availability of such tools, or even ones comfort level with the Open Source initiative. The goal of this article is to provide some perspective on reasons why one might choose one over the other.
+
+Active Server Pages or ASP has long been an option for creating dynamic web content. Active Server Pages facilitates the ability to use databases such as Access or SQL just to name a few, to create dynamic, feature rich websites. The work going on behind the scenes in serving up the dynamic content is being done at the server level by the Active Server Pages source code. Microsoft has spent a great deal of time and resources promoting their .Net family of programming languages of which ASP.Net is a member. In order to develop with ASP.Net one must obtain the extremely expensive Microsoft Visual Studio Programming Suite. While expensive, Visual Studio is an asset to any programmer due to its vast amount of features. As with all of Microsoft's products, support and updates are constantly made available for ASP.Net. The shear amount of features that Microsoft packs into Visual Studio, coupled with Microsoft's extensive support make certainly make ASP.Net an attractive solution for any corporation's web development needs, but the cost can be prohibitive, if not impossible to afford for the individual web developer.
+ 
+PHP which is in its 5th revision now, is an Open Source web development language that also facilitates the creation of feature rich, dynamic websites that can use databases. Being Open Source means simply that PHP isn't owned by anyone. Just as with Active Server Pages, the work going on behind the scenes of serving up the dynamic web content is being done by PHP at the server level. As with most Open Source products, the resources available to a PHP developer are free of charge. This makes PHP extremely attractive to the independent web developer. There are some commercial quality development suites available from companies like Zend, but there is also wealth of free resources just a Google Search away. Because there is really no corporate entity behind PHP, support and development on PHP is done by the community of its users and developers themselves. Surprisingly this does not seem to adversely affect the ability to find support for PHP. 
+ 
+All in all, ASP.Net and PHP are both excellent options, offering basically the same functionality. Whether the decision comes down to the cost of initial investment, or the comfort level one has regarding Open Source, or something else entirely, the end result depends upon the mastery of whichever language is chosen.
+
+

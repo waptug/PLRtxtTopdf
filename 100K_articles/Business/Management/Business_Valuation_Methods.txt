@@ -1,0 +1,94 @@
+Title: 
+Business Valuation Methods
+
+Word Count:
+1071
+
+Summary:
+This article will discuss six business valuation methods: 1) Value based on assets, 2) Value based on cash flow or net income, 3) Value based on the integrated method, 4) Value based on net present value of future earnings, 5) Value based on the market data approach, and 6) Value based on the replacement cost approach.
+
+
+Keywords:
+business value, business valuation, business evaluation, business appraisal, replacement cost, cash flow, market value, net present value of future earnings, net income 
+
+
+Article Body:
+Many types of business valuation methods are appropriate when estimating or defining a business value for certain kinds of business evaluations and appraisals. The reason for the evaluation determines which measure will be used. For example, if the purpose is to borrow money, asset values will be key because lenders will be interested in collateral. If the value is based on the selling price of the business, then what the business owns, what it earns, and what makes it unique will be important. The following is a list of many different types of business valuations that can be performed.
+
+    * Insurable value
+    * Book value
+    * Liquidation value
+    * Fair market / stock market value
+    * Replacement value
+    * Reproduction value
+    * Asset value
+    * Discounted future earnings value
+    * Capitalized earnings value
+    * Goodwill value
+    * Going concern value
+    * Cost savings value
+    * Expected return value
+    * Conditional value
+    * Market data value
+
+
+This article discusses six of the more popular business valuation methods: 1) Value based on assets, 2) Value based on cash flow or net income, 3) Value based on the integrated method, 4) Value based on net present value of future earnings, 5) Value based on the market data approach, and 6) Value based on the replacement cost approach.
+
+
+<b>1. Value Based on Assets</b>
+
+Uses: Used most often as a minimum value because a business should be worth at least the value of its assets. Exceptions might occur when a company is losing money.
+
+Steps: Determine the market value of the assets being sold. If business is being sold, deduct the value of any liabilities being assumed by the buyer.
+
+
+<b>2. Value Based on Cash Flow or Net Income</b>
+
+Uses: Used when a business has few assets, the cash flow being the important thing considered here. The value is based on the return on investment the cash flow represents.
+
+Steps: Adjust the income statement to reflect the true expenses of the business (for example, subtract personal items being paid for by the business). Calculate the appropriate, adjusted type of income to be capitalized: cash flow, net income before or after taxes, etc.. Decide, based on risk and yields of other, "comparable" investments, the desired rate of return or the capitalization (cap) rate. Divide the income to be capitalized (example, cash flow) by the cap rate.
+
+
+<b>3. Value Based on the Integrated Method</b>
+
+Uses: Used when a company has both assets and cash flow. This method accounts for the value of the assets and then capitalizes the cash flow, but only after reducing the cash flow by the cost of carrying the assets.
+
+Steps: Determine the market value of the assets. Multiply the value of the assets by the interest rate the company pays to borrow money to get the cost of carrying the assets. Adjust the income statement to reflect the true expenses of the business. Calculate the appropriate, adjusted type of income to be capitalized: cash flow, net income before or after taxes, etc.. Subtract the cost of carrying the assets to get the excess earnings. Decide, based on risk and yields of other, "comparable" investments, the desired rate of return (the cap rate). Divide the excess earnings by the cap rate to get the value of the excess earnings. Add the value of the excess earnings to the value of the assets and subtract the value of any liabilities being assumed by the buyer if business is being purchased.
+
+
+<b>4. Value Based on Net Present Value of Future Earnings</b>
+
+Uses: Used as a method to sell the value of a projected future stream of earnings at a discount. Used mainly with larger, well-documented companies for which the future is somewhat more predictable.
+
+Steps: Adjust the profit-and-loss statement to reflect the true expenses of the business. Calculate the adjusted actual cash flow. Based on supportable plans, project financial statements for 5 years. Forecasting techniques could use moving averages, trending, percentage increases/decreases, or multiple regression. External factors such as industry outlook, technological developments, and government regulation should be considered. Determine cumulative cash flow for the 5 years and discount it to establish the net present value. Each year may be discounted separately to give a more precise value.
+
+
+<b>5. Value Based on the Market Data Approach</b>
+ 
+Uses: Value of the business (or other property) is estimated from information on prices actually paid for other, similar, businesses or properties. This the most direct valuation approach and it is easily understood by laymen. However, it requires a reasonably active market, the necessity of making adjustment to actual selling prices in an attempt to compensate for differences and it is generally not applicable to estimating values of intangibles.
+
+Steps: Identify other businesses or properties generally similar to the one being appraised, that have actually been sold. Determine the selling price, then compare each comparable sale with the property/business being appraised, and adjust actual selling price of each comparable property/business to compensate for the significant differences between it and the subject property/business. Use these adjusted selling prices of the comparable properties/businesses as a basis for estimating, by inference, the market value of the subject property/business.
+
+
+<b>6. Value Based on the Replacement Cost Approach</b>
+
+Uses: Value of the business is determined from the estimated cost of replacing (duplicating) the business asset by asset and liability by liability. Very accurate in valuing tangible assets and reflects actual economic value. Used with asset-heavy businesses such as hotels/motels and natural resources (mining) businesses. Does not take into account the earning power of the business which contributes to total value.
+
+Steps: List all assets to be included in the valuation of the business. Omit any surplus or idle assets that do not contribute to the economic performance of the business. Also, list liabilities, if applicable to appraisal. Estimate the current cost to replace each asset with functionally equivalent substitute; also estimate current value of each liability to be included. Add the estimated costs to replace the individual assets, thus determining the total estimated cost of replacing all assets in aggregate. Subtract estimated current values of liabilities, if applicable. Add the values (liquidation value, wholesale market value, etc.) of any non-contributing assets omitted in the first step.
+
+
+Reconciling the Value Estimates & Determining the Final Estimate of Value
+
+    * Compare the value of estimates resulting from the use of different approaches
+
+    * Rank each by the relative degree of confidence
+
+    * Use judgment
+
+    * Test the final value estimate
+
+    * Round the final value
+
+    * No useful purpose is served by taking an average
+
+

@@ -1,0 +1,280 @@
+Title: 
+AMMONIA COMPRESSORS AND REFRIGERATION PLANT
+
+Word Count:
+5084
+
+Summary:
+1 This circular gives advice on the precautions to be taken against the toxic, fire and explosion hazards presented by refrigeration systems containing ammonia.
+
+
+Keywords:
+Shorting ,grading, packing of fruits and vegetables, Reefer logistics,  Reefer trucks , Temperature controlled 
+
+
+Article Body:
+INTRODUCTION
+
+1 This circular gives advice on the precautions to be taken against the toxic, fire and explosion hazards presented by refrigeration systems containing ammonia. These are most likely to be found by LA enforcement officers at cold stores and food distribution warehouses. It applies to the entire system not simply the compressor house. It provides interim advice on matters of concern to enforcement officers pending revision of BS 4434:1980.
+
+2 Appendix 1 outlines the general principles of refrigeration, Appendix 2 gives information on the results of the programme of special visits carried out in 1983 by Factory Inspectorate (F1) to examine present standards in the food industry and Appendix 3 gives detailed guidance on electrical standards. Enforcement officers should not overemphasise the hazards of ammonia compared with other refrigerants.
+
+HAZARDS
+
+Toxicity
+
+3 Ammonia is a chemically reactive gas that is very soluble in water and is much lighter than air (vapour density 0.59 of that of air). Cold vapour (e.g. from leaks) may however be denser than air. Although there have been incidents of exposure to harmful concentrations of ammonia in the UK there have been few fatal accidents. Ammonia is characterised by a typical pungent odour and is detectable by most people at levels of about 50 ppm in the atmosphere. Although workers become tolerant to this effect and in the past have been able to work without distress at levels up to 70 ppm, currently the recommended exposure limit for ammonia is 25 ppm, 8 hour TWA (0.0025%) and the short term exposure limit is 35 ppm, 10 minute TWA. At 400 ppm, most people experience immediate nose and throat irritation, but suffer no permanent ill-effects after 30-60 minute exposure. A level of 700 ppm causes immediate irritation to the eyes, and a level of 1,700 ppm (0.17%) will give rise to repeated coughing and can be fatal after about 30 minutes exposure.
+
+Exposure to concentrations exceeding 5,000 ppm (0.5%) for quite short periods can result in death. Response to the effects of ammonia varies widely between individuals, and the dose-response effects described above are likely to be those experienced by the more susceptible members of the population.
+
+Fire and explosion
+
+4 Ammonia forms a flammable mixture with air at concentrations between 16 and 25% v/v. There have however been very few incentive explosions involving ammonia compressor houses in the UK and all of the reported incidents involved ammonia leakage from plant under maintenance.
+Existing guidance
+
+5 Current guidance on the precautions which should be taken with ammonia refrigeration plant may be found in: British Standard 4434: 1980 "Requirements for Refrigeration Safety: Part 1, General". The requirements (particularly from the f ire and explosion standpoint) are similar to those in the earlier (1 969) version. However a' full revision of BS 4434 is taking place.
+
+Precautions
+
+6 Under normal circumstances people will not be able to bear ammonia concentrations at even a fraction of the flammable limit. The appropriate precautions are mainly those applicable against toxic effects in occupied areas and to work where sudden exposures are foreseeable, such as maintenance and repair work, including in particular filling and oil draining. Precautions against fire and explosion will be appropriate however, in unoccupied areas such as compressor houses and unattended plant such as cold stores where accumulations of vapour may go unnoticed.
+
+PRECAUTIONS AGAINST TOXIC RISK
+
+Respiratory protective equipment
+
+7 Any person entering an area in which ammonia vapour is likely to be present at a significant level (eg for rescue or fault-finding purposes) must wear self-contained or airline breathing apparatus. This does not include routine visits to plant rooms etc. A suitable and properly maintained set should be conveniently sited close to, but outside, any area in which high levels of .ammonia vapour might arise. In no circumstances should anyone enter an area where a flammable concentration of gas may be present. Details of suitable apparatus are contained in Form 2501 "Certificate of Approval (Breathing Apparatus)," published annually by HSE. See also Guidance Note GS 5 regarding entry into confined spaces.
+
+8 Suitable respiratory protective equipment must be worn by every person carrying out engineering maintenance work on any system where there is a risk of release of ammonia. Full face canister respirators with type A (blue) canisters give good protection in atmospheres up to 2% concentration or 20,000 ppm, for one hour. Work in such a concentration is likely to lead to discomfort quickly due to skin irritation as ammonia dissolves in perspiration. 
+
+A list of suitable equipment is given in form 2502 "Certificate of Approval (Canister Gas Respirators)". For substantial jobs impervious suits may be necessary if the gas cannot be cleared.
+
+9 Everyone who is likely to need to use respiratory protective equipment must be properly trained in its use and must be fully aware of its limitations. The equipment must be maintained, kept clean and examined at least once a month. Appropriate records should be kept. If canister respirators are used there must be an effective system for deciding when the canisters should be renewed.
+
+Evacuation and emergency procedures
+
+10 lt is essential that a clear emergency procedure is drawn up which details the precise duties of all staff and the arrangements for evacuation, rescue, first aid, plant isolation etc. It is particularly important that evacuation procedures are clearly set out and regularly practised where refrigeration systems are in working areas. A common method which may be suitable is to use the fire alarm provided that actuating points are immediately available at working areas. Personnel should be warned not to approach any vapour clouds. (Clouds may often look like steam because of the cooling of the released gas).
+
+11 Adequate exits should be maintained from plant rooms at, all times. Personnel seriously affected by an ammonia escape suffer streaming eyes and violent coughing and rapidly become disorientated. They therefore require clear prior knowledge of a safe exit route.
+
+Training in plant operation and maintenance
+
+12 All personnel involved in the operation and maintenance of the plant must be adequately trained. The training should cover not only general principles of refrigeration but also specific points related to the particular plant. This applies as much to maintenance contractors as to an employer's own staff.
+PLANT LOCATION
+
+Plant not designed for outdoor location
+
+13 In the case of standard refrigeration plant (ie plant not specifically designed for outdoor location) exposure to excessively low air temperatures may cause liquefaction of ammonia within the compressor leading to compressor damage, which could be hazardous. This type of plant should therefore be sited in a compressor house using the precautions described in BS 4434:1980 and outlined below. Compressor-houses should, where reasonably practicable, be fitted with explosion relief (eg by using lightweight fragile roof). Where loosely held panels are used as explosion relief, they should be suitably restrained (eg by chains) to prevent them becoming dangerous missiles in the event of an explosion.
+
+14 ln order to facilitate the provision of ventilation and explosion relief, compressor-houses should incorporate at least one external wall. The siting of compressors in confined areas, basements, etc should be avoided wherever practicable. Doors between plant rooms or compressor-houses and other parts of the building should be self-closing and well-fitting.
+Plant designed for outdoor location
+
+15 Only plant specifically designed for the conditions should be installed outdoors. Such installations should be sited in a safe position in the open air with, if necessary, weather protection using a Dutch barn type structure which has an evenly distributed minimum open area equivalent to at least 50% of the total wall area.
+
+Plant in workrooms
+
+16 As a general principle the amount of plant containing ammonia situated in workrooms and other populated areas should be minimised. Ancillary plant such as surge drums and liquid pumps should wherever possible be sited away from working areas. Compressors are often noisy and this is another reason for not having them in working areas.
+
+Ventilation
+
+17 Compress or houses should be provided with adequate and suitable ventilation to meet the following requirements:
+
+(1) Normal Ventilation Sufficient permanent ventilation should be provided to prevent build up of toxic concentrations of ammonia from operational leakage (eg from seals, glands etc). It is probable that the redrafted British Standard will insist on mechanical car ventilation rather than rely on rather uncertain natural ventilation.
+
+(2) Emergency ventilation Provision should be made for sufficient mechanical ventilation to prevent flammable ammonia/air mixtures accumulating in the event of reasonably foreseeable plant or operational failure (eg valve failure). In such circumstances the aim should be to keep concentrations below 25% of the lower explosive limit (ie 4%).
+
+18 The ventilation requirements for a particular installation will depend on the type, capacity, operating conditions and location of the plant and may require individual assessment by a ventilation engineer with appropriate expertise. However, the following general points apply:
+
+(1) permanent natural or mechanical ventilation, or a combination of both, may be used for normal or emergency ventilation. Mechanical ventilation initiated by gas detectors or manually (in the case of continuously manned plants) may also be used for emergency ventilation (see para 26); and Appendix 3 for electrical safety of the system;
+
+(2) the ventilation should discharge to a safe place in the open air;
+(3) in considering the ventilation to be provided, the potential effects of cold on plant should be taken into account (see para 12);
+
+(4) flow of air through cracks around windows, doors etc, or the opening of windows or doors should not be relied on for ventilation;
+
+(5) the formulae in BS4434 for quantifying ventilation requirements are rules of thumb based on unstated assumptions (eg they take no account of room size or leak rates). Inspectors should advise that the formulae may be used as a basic guide but discretion in their detailed application to a particular plant should be stressed. This is particularly important with very large systems when the ventilation required by the formulae becomes 
+impracticable; and
+
+(6) it should be noted that the standard of ventilation given by the formulae in BS 4434: 1980 is not intended to deal with prolonged releases from major plant failure. However, the latter is very unlikely to occur in properly designed, constructed and maintained plant. Control of sources of ignition and plant shutdown (see paras 22-26) should also provide protection in such circumstances. Manually operated controls for emergency ventilation should be located in a safe, easily accessible place along with the control or switch for turning off the compressor.
+
+Plant integrity
+
+19 There can be serious corrosion of the low pressure. parts of pipework and plant due to condensation. It can progress unnoticed under lagging which is not effectively vapour sealed and is particularly rapid on plants which run intermittently and pass-through OoC. The general principles relating to the safety of pressure systems are appropriate. The system should be thoroughly examined by a competent person at regular intervals in accordance with a written scheme. There should be an effective maintenance scheme.
+
+Pipework
+
+20 All parts of refrigerating systems and in particular pipework should be positioned or protected to minimise the risk of impact damage, for example by fork lift trucks. Pipework and valves should be clearly marked to indicate their contents and function.
+
+Oil drain system
+
+21 Many of the reported incidents involving ammonia refrigeration systems have been the result of a malfunction of the oil drain system (designed to catch the "carry-over" of oil from the compressors). In most cases oil is drained from below liquid ammonia and is saturated with it. In addition the oil is viscous because it is cold. In order to minimise the risk of escape from this cause the following measures should be advised:
+
+(1) where short distances are involved and adequate observation of the drain is possible oil drain pipes should terminate in a safe location in the open air. Valves on any pipe extension should not introduce the possibility of liquid ammonia being trapped; a bleed valve or hydrostatic relief valve venting to a safe place should be provided in the sections between valves, as appropriate;
+(2) a double valve arrangement should be provided at oil drains. In addition to the operational manual valve, there should be an automatic closing spring or weight-loaded valve; and
+
+(3) The use of oil drain catchpots. These are a useful feature on new plant, but existing plant cannot normally be easily modified. Before the oil is drained, the catchpot is isolated from the liquid ammonia/oil feedline and the catchpot is electrically heated to boil off any ammonia which flows as a vapour to the low pressure side of the system. When the catchpot is warm, it is also isolated on the vapour side and the oil is then drained from it.
+Ammonia filling point
+
+22 Ammonia filling points should be located in safe, well ventilated positions and, where reasonably practicable, in the open air. Filling points should be sited away from sources of ignition.
+
+PRECAUTIONS AGAINST FIRE AND EXPLOSION RISK
+
+Sources of ignition
+
+23 All likely sources of ignition (naked flames etc) should be eliminated from compressor houses and from the immediate vicinity of externally located plant.
+
+Electrical equipment
+
+24 Guidance on electrical apparatus for use in potentially explosive atmospheres is given in RS 5345: Part 1: 1976 "Code of Practice for the Selection, Installation and Maintenance of Electrical Apparatus for Use in Potentially Explosive Atmospheres, Part 1, Basic Requirements for all Parts of the Code"; BS 4434: 1980, Clause 13 "Electrical Installations". The approaches followed by the above documents differ.
+
+25 As a general principle, electrical equipment should be sited outside the compressor room in a safe location. However, when it is necessarily sited in the room, it should be in accordance with the guidance given in para 27.
+
+26 Where the ammonia compressors and refrigeration plant are located in the same room as the supply switch gear for the-premises relocation would probably be inconvenient and costly. In such cases, Field Consultant Group (FCG) advise on the most suitable safety precautions in the particular case should be sought.
+
+Electrical apparatus selection criteria
+
+27 The use of electrical apparatus in refrigeration plants using ammonia has been considered a special case because of the flammability characteristics of the gas (high LEL and narrow explosive range) and the fact that it can be detected at very low levels by smell. This has resulted in a number of options which may be considered when selecting electrical apparatus for ammonia plants and these are considered in Appendix 3.
+
+OTHER RISKS
+
+28 Refrigeration systems often have associated risks which may require attention, These include the risk of trapping in cold stores and chills, the handling of very cold products and microbiological problems associated with cooling towers used for the condenser.
+
+ENFORCEMENT APPROACH
+
+
+29 Enforcement officers should advise that ammonia refrigeration plant should comply with the guidance in BS 4434: 1980 as amended and augmented by the information in this circular. They should however bear in mind:
+
+(1) ammonia presents a toxic risk at concentrations far below those at which it presents any fire or explosion risk. There have been 2 gassing fatalities between 1977 and 1983 in the UK but only 3 incentive ammonia/air explosions in the last 20 years;
+
+(2) the potential consequences of an incident in terms of injury to personnel, and the general public should be assessed;
+
+(3) BS4434 was first published in 1969 and was not intended to be retrospective, although improvements in installations which pre-date the standard should be recommended, where reasonably practicable;
+
+(4) analysis of the l983 visits strongly suggest that where poor conditions of the plant are found there is often inadequate attention to evacuation and emergency action; and
+
+(5) where enforcement officers encounter maintenance contractors they should make enquiries about their working practices and training.
+Further advice
+
+30 This is a complicated technical subject and there are strong trade pressure groups. Enforcement officers are recommended to seek the advice of HSEs Field Consultant Group (FCG) via the Local Enforcement Liaison Officer (ELO), before considering enforcement action.
+________________________________________
+Ammonia is used as a refrigerant because of particular thermodynamic properties which enable it to move heat far more efficiently than other refrigerant gases such as halogenated hydrocarbons. It is particularly suited to working in the range approximately OoC to -30oC and hence is widely used for food preservation, the chilling of liquids such as milk, beer and soft drinks, and in the chemical industry. New systems continue to be installed.
+
+2. A simple system theoretically needs 4 components:
+
+(1) evaporator;
+
+(2) compressor;
+
+(3) condenser; and
+(4) reducing valve
+
+In practice other components such as oil separator, intercooler, liquid receiver, surge drum and liquid pumps are often found.
+
+3 The useful refrigeration is produced at the evaporator. Liquid ammonia at low pressure, and hence low temperature, takes in heat by vaporising. This vapour is removed by the compressor which, in compressing it, raises the temperature from below to above ambient. The hot compressed gas gives up the heat by condensing to a liquid in the condenser. The high pressure liquid then passes through the pressure reducing valve to the evaporator. At the valve the liquid is cooled as some vapour flashes off. The remaining liquid is available for use in the evaporator.
+
+4 In a practical system it is likely there will be other items of plant. An oil separator removes suspended oil carried over from the compressor and either returns it to the (pressurised) crank-case or holds it for draining in some way. There may be a multi-stage compressor with an intercooler. This is cooled by bleeding high pressure liquid into the low pressure side. 
+
+Downstream of the condenser is generally a liquid receiver. Downstream of the reducing valve is often found a surge drum which acts as a reservoir of cold liquid and evens out demand on the compressor and condenser. The liquid ammonia is drawn from the surge drum by a pump. Oil drains may be found on surge drums, liquid receivers, and elsewhere on large plants. There is also likely to be an automatic control system on all but the oldest and smallest plants.
+
+A simple practical refrigeration system
+
+1 The aim was to collect information about a cross section of installations. One hundred and forty eight returns were used in the analysis which used the Edinburgh FCG microcomputer.
+
+2 Returns covered a wide range of processes in the food and drinks industries. The largest single sector was dairying (chilled water supply) with substantial returns also from frozen food producers and cold stores. In the drinks sector cooling and soft drinks carbonators were the principal uses. 
+
+There were a wide range of other uses reported; most parts of the food industry require controlled temperatures below ambient at some part of their process. A wide range of sizes of installations from 45 kg to 45 tonne chargeweight were reported, 13% were over 5 tonnes, 40% between 1 and 5 tonnes, 35% between 100kg and 1 tonne and 12% 1 00 kg or below.
+The oldest component reported was pre-war and there was a fairly even spread of age from 1960 to the present.
+
+3 Eighty-nine per cent of installations had a separate compressor room. Forty-nine percent had the system charging point in the compressor room and 38% had it outdoors. Twenty-seven per cent of the sample could positively be identified as having doors to the outside of the building only. Thirty-six per cent of the other compressor rooms did not have self-closing doors and 17% did not have well-fitting doors. With compressors in a separate room this is a surprisingly large number where even the most rudimentary precautions to prevent the spread of escaping gas has not been taken. Fifty-five per cent had condensers mounted above ground level outside - typically on the roof. 
+
+This raises questions of safe access and also escape in the event of an emergency.
+
+4 Thirty-six percent, had the evaporator in the workroom. (These were usually product freezers in the frozen food sector and carbonators at the soft drinks plants). This points to the need for effective emergency procedures in the event of leakage, particularly if it is in the workroom.
+
+5 Only 3% of installations were identified as having pipework or plant capable of being damaged by, for example, fork lift trucks. Half of the entire survey however had unmarked pipework. (Notes of many proformas suggested that this would receive early attention).
+
+6 lt proved impossible to carryout meaningful analysis of the ventilation provided in compressor rooms. A common installation seemed to rely largely on natural ventilation (perhaps assisted by a small fan) for normal ventilation. Where there was provision of ventilation specifically for emergencies, it tended to be a separate system rather than a 2 speed fan on the normal ventilating system. Only 23% of the installations had 2 ventilation rates available and only half the ventilation systems of any kind could be controlled from outside the compressor room. Only half of these ventilation systems were automatically controlled.
+
+7 Only 16% of all system charging was done by a person on his own; the usual arrangement was 2 men. Oil draining was done by one man on his own at 30% of all Installations. At 51 % of all installations it was carried out more than once a month. Only 26% of installations had spring-loaded valves or a catchpot system at oil drains. Most of the rest had simply a short stub of pipe from a vessel containing liquid ammonia closed by a single valve. In 71 % of cases where the oil drain was unsatisfactory inspectors considered that the reasonably practicable improvement was the fitting of self-closing valves. The 30% of installations where one man did the oil draining on his own included 6 which had no respirator of any kind.
+
+8 Forty-two per cent of compressor houses had no gas detectors. Sieger was by far the most common supplier (60%) of all detection systems. The most common service period of twice per year reflects that company's normal service contract. Nineteen per cent of detector systems were never checked. 
+
+Approximately half of the detector installations only had one operating level. 
+Twenty-seven per cent of systems did not shut down the plant but merely raised the alarm. Ten per cent of the systems had no separate alarm.
+
+9 Sixty-six percent of compressor room electrical installations were not fully equipped to Zone 2 standard even where much of the plant was under the control of detectors. Seventy-five per cent of all compressor installations could be switched off elsewhere outside the compressor room (even if only at the main supply). Of the remainder, the main switchgear was either in the compressor room or access to it was through the compressor room.
+
+10 Eighty-eight percent of all sites had 2 or more sets of respiratory protection of some kind. Six installations (4%) had none at all. At 83% of sites there was said to be some sort of training in the use of respiratory protection but only 43% had some sort of systematic examination. At only 5 installations (3.4%) were there possible limitations of space which conflicted with provision of respiratory protection and the main problem seemed to be access up ladders or around congested items of plant.
+
+11 Forty-seven per cent of sites had reviving apparatus available usually for general first aid rather than specifically because of the ammonia.
+
+12 Twenty-seven percent of sites had Draeger (or similar) detector tubes for measuring low concentrations of ammonia. Many others had sulphur sticks or hydrochloric acid for detecting small leaks.
+
+13 Fifty-nine percent of installations were maintained at least partly by contractors. Apart from a few major suppliers and installers of equipment there were many local refrigeration engineers who only appeared once or twice in the survey. No information is available about the standard of training or workmanship of these contractors.
+
+14 Fifty-five percent of all sites appeared to have emergency evacuation procedures (43% used the fire alarm) but slightly fewer (50%) appeared to give any training in these procedures. Only 24% appeared to have detailed rescue arrangements. Twenty-two per cent had written systems of work which appeared comprehensive and only 34% had what appeared to be effective plant operator training.
+________________________________________
+APPENDIX 3 (paras 1 and 26)
+
+PROTECTION OF ELECTRICAL APPARATUS AT AMMONIA COMPRESSORS AND REFRIGERATION PLANT
+
+EXTERNALLY SITED PLANT
+
+1 Compressors and refrigeration plant sited in out door locations in accordance with para 14 of this Circular in otherwise non-hazardous areas will not normally require specially protected electrical equipment.
+
+INTERNALLY SITED PLANT
+
+2 A flow chart of the basic requirements relating to the electrical apparatus for internally sited plant is given in the supplement to this appendix. The operational approaches are given below.
+
+Option 1 - Use of explosion protected electrical apparatus
+
+3 Hazardous area classification should be carried out by a competent person. Electrical apparatus should then be selected in accordance with BS 5345: Part 1: 1976 Section 2. The majority of compressor-houses should be regarded as Zone 2 areas. Type "N" explosion protected equipment (including any emergency ventilation fans) will be suitable for these locations.
+
+Option 2 - Detection of leaks by personnel or gas detectors
+
+4 ln this approach, non-explosion protected electrical apparatus, with qualifications, may be used in combination with a readily available means of isolating the electricity supply. The method of achieving the latter can be accomplished either automatically after detection of a leakage by a gas detector system, or manually after a leakage has been detected by personnel. The use of these techniques as a first line of defence is limited to applications solely involving ammonia in refrigeration plants. This approach is considered acceptable provided that the general principles outlined in paras 10-17 are followed and that sufficient account is taken of paras 5-9.
+
+Gas detectors
+
+5 The detectors should be suitably positioned taking into account the physical characteristics of the plant room, the pattern of airflow movement in it and the most likely sources of potential leakage. Due regard should be paid to any dead pockets or recesses. Experience has shown that, in certain circumstances, it is possible for cold ammonia vapour to stratify initially at low levels. Unless the occupier has adequate expertise within his own organisation, it would be advisable for him to consult a firm which specialises in the design and installation of gas detection systems.
+
+6 As a rough guide only, one might expect to see detectors in the vicinity of the compressors and other non-static items of plant and at ceiling level where one detector per 36M2 of ceiling area would probably be sufficient, although more may be necessary if there are deep beams creating recesses. The objective is to ensure that the ammonia is detected and the apparatus rendered safe before flammable concentrations reach a source of ignition. 
+(This objective, which is also applicable to "detection" of a leak by personnel, is particularly critical with regard to electrical apparatus which is not specially designed to be non-sparking, non explosion-protected electrical apparatus and electrical apparatus with temperatures above 630'C).
+
+7 The detectors should be suitably explosion protected.
+
+8 The detectors used are of the "pellistor" type and may be subject to poisoning by airborne contaminants. They should therefore be properly installed and maintained and regularly checked. The operation of the detectors should be checked using standard ammonia gas mixtures. Certain V-belt dressings containing antimony have been shown to poison detectors and gradually reduce their response.
+
+9 The detectors should be capable of detecting concentrations of ammonia at 1 % v/v or less.
+
+Associated electrical apparatus
+
+10 Account should be taken of the electrical control system circuitry and the maximum possible degree of failure to safety should be achieved, so far as is reasonably practicable. General guidance is contained in BS 5304: 
+
+1975 "Safeguarding of Machinery" Section 6.
+
+11 The isolating device(s), whether manually or automatically operated, which cuts off the electricity supply to the ammonia plant room, should be located in a non-hazardous area. It can be either a contractor or circuit breaker. If the criteria in paras 5-9 above have been satisfied, the following recommendations in paras 13-17 should be adopted. (Although certain specific details have been taken from BS 4434:1980, by way of example, they are intended to indicate the general principles of this approach and not specific requirements -which will have, to be determined in each particular case).
+
+12 Attention will need to be paid to the control of other circuits which enter the plant room and are not directly associated with the plant, eg socket outlets for portable tools.
+
+Continuously manned rooms
+
+13 Isolation of all electrical circuits should be effected by isolating devices located in a non-hazardous area. These devices should be controlled by push buttons immediately outside the plant room, or controlled by a gas detection system as described pare 14, and arranged to give visual and audible alarms to switch on equipment for emergency ventilation and/or emergency lighting (if installed). Any electrical apparatus that is required to operate in the room after a leakage has been detected, such as ventilation equipment and emergency lighting, should be suitably protected for the hazardous area in which it is sited, ie Zone 2. Few compressor rooms are continuously manned. Detection of leakage by operators is only reliable if they are continuously present in the room. If for example they have other duties, or leave the area for meals etc, or use an isolated noise refuge then the speed of response is likely to be substantially slower than that of automatic detectors.
+
+Unmanned plant rooms
+
+14 lsolation of all electrical circuits should be effected by isolating devices located in a non-hazardous area and controlled by one or more suitable ammonia gas detectors which should also be arranged to give a visual and audible alarm and to switch on equipment for ventilation and/or emergency lighting, if installed. The ventilation air should be discharged to the outside of the building in such a manner as not to cause distress or danger to persons in the vicinity of the building. Circuit isolation should be effected at ammonia concentrations below 25% LEL and an alarm setting of 1.5% v/v followed by circuit isolation at 3% v/v is suggested.
+
+15 Maintenance personnel are required to enter unmanned plant rooms and adequate means of escape should be provided.
+
+16 Personal protection including breathing apparatus, and possibly impervious suits, may be needed in any room or space if maintenance men are likely to dismantle pipework or do any other operation liable to release liquid ammonia or substantial quantities of gas.
+
+Unmanned plant rooms linked to a continuously manned control room
+17 ln certain applications, (eg chemical plant), sudden loss of cooling facilities caused by automatic shut-down of a refrigeration plant might possibly create a hazard. It is unlikely that this situation will ever arise in any premises in the JA sector of enforcement. In these circumstances isolation of the electrical equipment by manual intervention may be acceptable, provided that the detector/alarm system is directly linked to a continuously manned control room. Other actions initiated by the detector such as the operation of emergency ventilation may still be feasible. Acceptance of this procedure, when automatic plant shut-down has been shown to be not reasonably practicable, will also require that:
+
+(1) the alarm arrangement and monitoring of the alarms (ie the manning of the control rooms) is satisfactory;
+
+(2) suitable isolation facilities for the compressor and unprotected electrical equipment are available in a safe place; and
+
+(3) as a safe system of work is provided for entry into the compressor room and for the overall assessment of the potential hazard and any other necessary action (eg plant isolation). (see paras 6-8 of this circular for personal protection).
+
+

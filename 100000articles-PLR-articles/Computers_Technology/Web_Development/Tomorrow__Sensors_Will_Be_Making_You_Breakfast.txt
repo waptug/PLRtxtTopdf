@@ -1,0 +1,52 @@
+Title: 
+Tomorrow, Sensors Will Be Making You Breakfast
+
+Word Count:
+373
+
+Summary:
+Introduction
+
+The world is changing at a greater rate than ever before. We can hardly keep up with the pace of technology. The future is approaching at such a great speed, that most of us can hardly conceptualize what will come next.
+
+Sensors are playing a tremendous role in the change. They are employed in many industries and achieving a multitude of tasks. Sensors track the behaviors of animals, detect machine malfunctions, facilitate war simulations, and assess the sta...
+
+
+Keywords:
+technology, gadgets, sensors, the future, sensor technology, innovations,
+
+
+Article Body:
+Introduction
+
+The world is changing at a greater rate than ever before. We can hardly keep up with the pace of technology. The future is approaching at such a great speed, that most of us can hardly conceptualize what will come next.
+
+Sensors are playing a tremendous role in the change. They are employed in many industries and achieving a multitude of tasks. Sensors track the behaviors of animals, detect machine malfunctions, facilitate war simulations, and assess the stability of buildings. The number of applications is growing as technology is advancing.
+
+Sensors working together
+
+A monumental achievement comes in the form of the networks in which sensors perform. Sensors function autonomously, but are able to perform greater tasks when working in networks. These networks enable sensors to “read” the environment and react to it.
+
+“Motes” are components of these networks. They are self contained, battery-operated entities that gauge light, temperature, humidity, as well as other factors. Data is collected by each mote, relayed amongst them, and finally sent to a centralized location for retrieval.
+
+Proactive interaction
+
+A new term supported by sensor technology is “proactive computing.” The term entails operations where computers anticipate and serve human needs. As of now, we “interact” with our computers, phones, and other devices. A proactive device will be virtually hidden, yet delivering our desires. This technology will warrant thousands of computers, making it impossible to interact with each of them; so, they will communicate with one another and act on our behalf.
+
+The speed at which proactive computing will commence is contingent on the momentum of technology. Motes are composed of microprocessors, microelectromagnetical systems (MEMS), and low-power radios. Time becomes a factor relating to science producing these components with the desired size and power in mind.
+
+In order for networks to “read” the environment, they will essentially have to be everywhere in the environment, blanketing an area to extract information.
+
+Impacting the environment
+
+The following illustrates some feats sensors are accomplishing:
+
+- Detecting, classifying, and tracking soldiers and vehicles amidst sight-evasive conditions to be used in battle scenarios
+
+- Guiding irrigation and planting on farms to increase crop yields
+
+- Monitoring patients’ vital signs and aiding in daily living
+
+- Calculating depth and stress of structures to aid in earthquake foresight
+
+

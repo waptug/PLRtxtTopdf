@@ -1,0 +1,28 @@
+Title: 
+Cisco CCNP / BCMSN Exam Tutorial:  BPDU Skew Detection
+
+Word Count:
+313
+
+Summary:
+Learn how and why BPDU Skew Detection works to prevent unnecessary STP recalculations from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+ccnp, bcmsn, bpdu, skew, detection, exam, pass, certification, switch, cisco, stp, recalculation
+
+
+Article Body:
+You may look at that feature's name and think, "What is a BPDU Skew, and why do I want to detect it?"  What we're actually attempting to detect are BPDUs that aren't being relayed as quickly as they should be.
+
+After the root bridge election, the root bridge transmits BPDUs, and the non-root switches relay that BPDU down the STP tree.  This should happen quickly all around, since the root bridge will be sending a BPDU every two seconds by default ("hello time"), and the switches should relay the BDPUs fast enough so every switch is seeing a BPDU every two seconds.
+
+That's in a perfect world, though, and there are plenty of imperfect networks out there!  You may have a busy switch that can't spare the CPU to relay the BDPU quickly, or a BPDU may just simply be lost in transmission.  That two-second hello time value doesn't give the switches much leeway, but we don't want the STP topology recalculated unnecessarily either.  
+
+BDPU Skew Detection is strictly a notification feature.  Skew Detection will not take action to prevent STP recalculation when BDPUs are not being relayed quickly enough by the switches, but it will send a syslog message informing the network administrator of the problem.  The amount of time between when the BDPU should have arrived and when it did arrive is referred to as "skew time" or "BPDU latency".
+
+A busy CPU could quickly find itself overwhelmed if it had to send a syslog message for every BPDU delivery that's skewed.  The syslog messages will be limited to one every 60 seconds, unless the "skew time" is at a critical level.  In that case, the syslog message will be sent immediately with no one-per-minute limit.
+
+And what is "critical", according to BDPU Skew Detection?  Any value greater than 1/2 of the MaxAge value, making the critical skew time level 10 seconds or greater.
+
+

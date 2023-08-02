@@ -1,0 +1,59 @@
+Title: 
+Andon - Lean Manufacturing
+
+Word Count:
+333
+
+Summary:
+Andon is one of the three elements that make up the principle of Jidoka -
+
+
+Keywords:
+andon,lean manufacturing,jidoka,JIT,kanban
+
+
+Article Body:
+Andon is one of the three elements that make up the principle of Jidoka - 
+
+Jidoka
+Jidoka is made up of three elements, these are: - 
+1.Andon 
+2.Full work system 
+3.Error proofing (pokayoke) 
+So exactly what does andon look like? 
+
+What an Andon System does:- 
+l.Andon allows timely corrective actions by alerting personnel when abnormal conditions occur. 
+2. Allows Shop floor Team Leaders to spend less time and effort monitoring the situation, and more time solving abnormalities. 
+3. Allows Operation teams to monitor equipment and personnel more effectively. 
+4. It can act as a 2 way communication device e.g. When indicator returns to green; this tells everybody it’s ‘back to normal’ 
+What an Andon System doesn’t do:- 
+l. Solve Abnormalities 
+2. Prevent all defects from being passed forward 
+3. Replace good verbal communication between work groups 
+4. Remove the need for rectification or customer protection 
+Direct Benefits of Andon 
+Control the production 
+Operators have the ability to ‘stop call wait’ 
+Defect reportability & correction, operators can report faults immediately and countermeasures can be implemented at source 
+Safety/ ergonomics, identifies safety and body stress concerns Even loading (balanced processes) will allow rebalance of process if over burden occurs 
+Workable design highlights problems with work density 
+Implementation Guidelines: 
+• Implement following Standard Operations – stability 
+• Team structure / ratio / roles and responsibility 
+• Identify work zones / stations 
+• Divide the process into manageable steps 
+• Determine what conditions must be measured 
+• Design the andon board 
+• Set the escalation procedure 
+• Determine the support structure 
+• Set the criteria for collating downtime data 
+• Determine confirmation points / regularity 
+•Set effective communication structure 
+•Visualise problem solving status 
+•Andon systems should be thought out and appropriate in design to be effective. 
+•Andon systems should be implemented when and only when an appropriate support system and escalation procedure is in place (Service Level Agreements, problem solving process etc.) 
+•Andon signals should be simple and easy to understand 
+•Avoid spending too much money on a ‘State of the art’ Andon System, prove the system out with a simple manual system to judge it’s worth
+
+

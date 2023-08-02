@@ -1,0 +1,111 @@
+Title: 
+What To Expect When Taking Your First Cisco Certification Exam
+
+Word Count:
+861
+
+Summary:
+Taking your first Cisco certification exam can be nervewracking! Chris Bryant, CCIE #12933, tells you what to expect at the testing center on the big day.
+
+
+Keywords:
+ccna, ccnp, free, pass, exam, cisco, certification, computer, mcse, ccie, chris, bryant
+
+
+Article Body:
+Cisco Certification:  Taking Your First Certification Exam
+
+ 
+
+You’ve studied hard you’ve practiced your configurations you’ve used your flash cards over and over again and finally, the big day is here.  Your first certification exam!
+
+ 
+
+For many Cisco certification candidates, their first exam is the CCNA Composite exam or one of the two exams that make up the CCNA, the Introduction To Networking exam or the ICND (Interconnecting Cisco Networking Devices) exam.  
+
+ 
+
+Walking into a testing center for the first time can be a nerve-wracking experience.   You’ve got enough on your mind just keeping all that new information straight without worrying about what the testing experience will be like.  
+
+ 
+
+You’re not there to take the exam.  You’re there to pass the exam.  With this aggressive attitude in mind, let’s take a look at what you should expect (and not expect) when taking your first Cisco certification exam.
+
+ 
+
+Be Early and Bring Your ID.
+
+ 
+
+If the testing center is not in a part of town that you drive to in the morning, and you’ve got a 9 AM exam, you may find the traffic is much heavier that time of morning than you expected.   Driving up to the testing center 10 minutes late is not a good way to get started.  If you’ve never been to the center before, check their website for directions, or call them for directions.  If at all possible, drive to the center the night before your exam.
+
+ 
+
+Make sure to bring your wallet or purse.   You cannot take the exam without proper identification.   You’ll probably be asked for two forms of ID, one of which must be a picture ID.
+
+ 
+
+Test Your Marker & Dry Erase Board
+
+ 
+
+The testing center will give you a dry erase board and a marker.  Make sure that the marker has a fine point when you’re answering subnetting questions or performing a hexadecimal-to-binary conversion, that will come in handy.
+
+Cisco policy states that you are no longer allowed to use paper during the exams.
+
+ 
+
+
+The Testing Room
+ 
+
+Despite the best efforts of VUE and Prometric, some testing center rooms are afterthoughts.  I strongly advise that if you’re taking your exam at a technical school, ask to see the testing room BEFORE you sign up for the exam.  If it looks like a converted broom closet, it probably is.  Those rooms also tend to be right next to classrooms, which can result in distracting noise during your exam.
+
+ 
+
+If your testing center specializes in giving computer-based exams rather than classes, you’re probably in good shape.  Again, feel free to drop by the testing center before your exam to take a peek at the testing room.  Most testing rooms have a window that employees use to keep an eye on testers, and you should be able to take a peek through the window.
+
+ 
+
+When you go in, you’ll be asked to enter your social security number as your testing ID.  Once you do that, the exam engine starts running. However, this doesn’t mean the test starts.
+
+ 
+
+The Survey
+ 
+
+When you take a Cisco exam, you’ll first be presented with a survey.  The survey consists of 10 – 20 questions asking about your background, preparation methods, and comfort level with different technologies.   This is a good time to catch your breath before starting the exam.  The survey will only take about five minutes, and this time does not count against your exam time.
+
+ 
+
+Pay Attention To The Exam Tutorials
+ 
+
+You’ll then be presented with an exam tutorial, showing you how to answer the different types of questions Cisco may ask.  While most of these questions types are common sense (multiple choice, single answer, fill-in-the-blank), I strongly urge you to pay special attention to the router simulator question tutorial.
+
+ 
+
+The simulator questions carry more weight than the other questions indeed, it’s almost impossible to pass the CCNA exams if you totally miss the simulator questions.   While the interface for these exams is intuitive, sometimes students who fail their exam complain that they were not given enough information to answer the question.  The real problem is that they didn’t look in the right place for that information.  It’s not hidden, but spend a few minutes with the tutorial and do not go forward until you’re comfortable with the simulator interface.
+
+ 
+
+The Exam Itself
+ 
+
+Finally, the exam starts!   Remember, you’re not being asked anything you don’t know.    If you have prepared correctly with the right tools, you’ll have a passing grade on your screen before you know it.
+
+ 
+
+Speaking of that grade, you’ll be presented with it about five seconds after you answer the final question.   Cisco exams no longer allow CCNA and CCNP candidates to go back once a question is answered, so be prepared for that.
+
+ 
+
+Knowing what to expect when you go into the testing room for the first time will magnify your chances of success.   Work hard (and smart!) while studying, achieve a combination of theoretical knowledge and hands-on work with real Cisco routers, and you are on your way to exam success!
+
+ 
+
+Chris Bryant
+
+CCIE #12933
+
+

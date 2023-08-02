@@ -1,0 +1,30 @@
+Title: 
+Cisco Certification:  The Most Important Study You'll Ever Do Is....
+
+Word Count:
+438
+
+Summary:
+Chris Bryant, CCIE #12933, has climbed to the top of the Cisco certification ladder.  In this article, he tells you what the most important part of his Cisco studies were.. and the answer might surprise you, but it will definitely apply to you!
+
+
+Keywords:
+ccna, ccnp, free, pass, exam, cisco, certification, computer, mcse, ccie, chris, bryant
+
+
+Article Body:
+All of us are familiar with the pyramids of Egypt. These magnificent structures have stood for thousands of years, withstanding extreme heat and other factors that would bring down an ordinary structure. 
+
+When we look at these pyramids, we instinctively look toward the peak. We tend to do the same with the Cisco Learning Pyramid. If you're not familiar with this, Cisco uses a pyramid to illustrate how the CCIE is at the peak of the Cisco certification structure, with the CCNP in the middle and the CCNA at the bottom.
+
+I'm often asked how to become a CCIE. My response is always "Become a master CCNA and a master CCNP first". That answer is often followed by a puzzled look, as though I've mentioned some new kind of Cisco certification. But that's not it at all. 
+
+The reason the pyramids of Egypt are so strong, and the reason they have lasted for thousands of years, is that their foundations are so strong. It's not the well-built peak that allows such a building to last it's the foundation.
+
+The same can be said for your Cisco certification studies. As a CCNA candidate, you may not even be thinking about the CCIE yet (although I hope you will!). You may be looking ahead toward the CCNP. You must realize, though, that the skills you will learn in your CCNP and CCIE studies are built upon the studies you do for your CCNA.
+
+Indeed, your CCNA studies are the most important studies of your career. Let me repeat that. Your CCNA studies are the most important studies of your career. Look at some of the topics you'll have to master for your CCNP and CCIE, such as OSPF and using binary math. You cannot understand how the many types of OSPF networks work unless you understand how OSPF works in the first place. And how can you possibly use wildcard masks, access control lists, and the many other applications of binary math you'll encounter in your CCNP and CCIE studies if you don't get that fundamental understanding of binary at the CCNA level?
+
+I know we work in a field where our customers tend to want things done yesterday. I know that it's hard not to be in a hurry when you're studying for your CCNA - I've been there! Keep in mind, though, that when you're studying for your CCNA, you're not just studying for a certification exam - you're building the foundation for the rest of your Cisco certifications and the rest of your career.
+
+

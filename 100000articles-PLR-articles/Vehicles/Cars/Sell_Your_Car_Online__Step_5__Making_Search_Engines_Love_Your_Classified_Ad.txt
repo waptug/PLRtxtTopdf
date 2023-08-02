@@ -1,0 +1,56 @@
+Title: 
+Sell Your Car Online: Step 5, Making Search Engines Love Your Classified Ad
+
+Word Count:
+1190
+
+Summary:
+Car classifieds websites can help you sell your car or truck very quickly. In step 4 of this series, you learned how to write a powerful description of your car that transforms the viewer of your classified ad from a browser to a buyer. The fifth step in placing an ad is making your listing search engine friendly.
+
+
+Keywords:
+Car, truck, sell your car, auto classifieds, sell my car, vehicle, car classifieds, automobile, classified ad, search engine friendly, search engine optimization
+
+
+Article Body:
+Car classifieds websites can help you sell your car or truck very quickly. In step 4 of this series, titled “Sell Your Car Online: Step 4, Writing a Compelling Description of Your Automobile“, you learned how to write a powerful description of your car that transforms the viewer of your classified ad from a browser to a buyer.
+
+The fifth step in placing an ad is making your listing search engine friendly. A crash course in search engine optimization is in order. Being “search engine friendly” means the web page in question has all the correct hidden and visible parts that search engines are looking for. A web page must have the following to be considered search engine friendly:
+
+  -  TITLE tag, which is shown in the title bar of the window (mine shows “Google – Microsoft Internet Explorer” when visiting Google.com).
+  -  META DESCRIPTION tag, which is only visible if you view the source code.
+  -  HEADER tag, which displays text in a larger font than the rest of the page (just like the headline in a printed newspaper).
+  -  Hyperlinks, which are simple text links that allow navigation on the internet.
+  -  Emphasized text, which is text that is bolded, italicized, or underlined.
+  -  Copywriting of at least 200 -250 words on the page (with a minimum number of images).
+  -  An ALT tag for the first 3 images on your page, which displays when the image is not available.
+  -  The ability for the search engine spiders to index the page.
+  -  A URL that is static, not dynamic.
+
+The key to search engine rankings is which keywords you use and where on the page you use them. For proper search engine optimization, your keyword should show up in the TITLE, the META DESCRIPTION, a HEADER, an ALT tag, a hyperlink, and an emphasized portion of text. Also your keyword should show up 2-3 times per 100 words on your page (once per paragraph should do).
+
+Your page must be indexed by a search engine. Search engines have a piece of code called a spider or robot that actively seeks out web pages to “crawl” or index. They follow links from one web page to another trying to find as many web sites and pages as they can. Once they crawl the site, they add the page to the search engine’s database so it will show up in the search results. But there is a problem. Some of the auto classified web sites do not allow their classified listings to be indexed by the search engines.
+
+The URL needs to be static and not dynamic. Pages that are driven by a database usually have dynamic URLs which include “?”, “=”, or “&” as part of the full address of the page (example: www.someclassifiedsite.com/index.php?a=5&b=222). Search engine spiders have problems indexing pages that have dynamic URLs, though they are ever improving. To ensure your page does not have a problem being indexed, it must be a static URL (example: www.someclassifiedsite.com/category5-222.htm).
+
+So, what does all this mean for you? First you should know that when you place an ad in an auto classified site, you only have control over 2-4 of the 9 criteria listed above. That makes it hard for you to give your listing an advantage over other similar listings in regards to search engine rankings. So let’s take a look at the things you do have control over.
+
+The description you write should have the correct keywords in it. For example, if you have a 1996 Pontiac Firebird Formula for sale, you should ad the term “1996 Pontiac Firebird Formula” once every paragraph. Place the term near the beginning of each paragraph. Also, the term should be emphasized (bolded, italicized, or underlined) in the first paragraph, if the web site allows you to add HTML tags to your description. To bold a word, put &#60;b&#62; before it and &#60;/b&#62; after it. To italicize a word, put &#60;i&#62; before it and &#60;/i&#62; after it. To underline a word, put &#60;u&#62; before it and &#60;/u&#62; after it.
+
+Let’s take another look at the sample description from step 4 in this series. Notice the HTML tags used around the keyword “1996 Pontiac Firebird Formula” in the first and last paragraphs. It is important not to emphasize every keyword. Only emphasize the first and last instance of the keyword in your description.
+
+“This &#60;b&#62;1996 Pontiac Firebird Formula&#60;/b&#62; is in great condition. It has alloy wheels, AC, power everything, and a 6-disc changer. The T-tops are a nice addition, especially in hot weather. Even though this Firebird is 10 years old, it looks like it belongs on the showroom floor. It has flawless red paint on the exterior and a super clean black interior. A brand new automatic transmission was installed only 12 months ago, which is still under warranty.
+
+The best feature about this 1996 Pontiac Firebird Formula is the engine. It has a 5.7 Liter HO V8 that has been well maintained. It does 0-60 in a respectable 5.2 seconds and has a top speed just under 160 MPH. Accelerate and you can hear every one of the 305 horses coming through the exhaust. Any sports car enthusiast would enjoy getting behind the wheel of this one.
+
+Don’t miss this &#60;i&#62;1996 Pontiac Firebird Formula&#60;/i&#62;. It’s a good deal on a great car. Call today.”
+
+It is important to choose the right title for your listing, if the classifieds site you are advertising on allows you to write the listing title. The title should be rather short and include only the most important information about your vehicle. A great title should have the keywords in it that people would use to search for your car or truck. A great title should have the year, make, and model in it, for example, “1996 Pontiac Firebird Formula.” If your car is convertible, you should ad the word “Convertible” to your title. 
+
+For a list of keywords that people actually search for on the internet, go to inventory.overture.com. Simply enter the make of the vehicle and it returns the most popular keyword combinations that include that keyword as well as how many times they were searched for in the Yahoo! Network. This will give you a good indication of what people are searching for.
+
+So how do you find an auto classified site that allows the search engines to index their classified listings, displays static URLs, allows you to control your TITLE tag, and allows you to emphasize the text in the Description field? Simple, just go to your favorite search engine and search for a popular make and model car for sale. There should be several classified listings near the top of the search results. Those classified sites are the ones that are the most search engine friendly and would be a great place to post your ad.
+
+By properly inserting these nine page elements that are essential for high search engine placement, your listings have the opportunity to be found by potential buyers when searching the internet. This concludes the series “Sell Your Car Online.”  I hope you learned some new techniques in online advertising. Try them out today and see how quickly your automobile will sell.
+
+

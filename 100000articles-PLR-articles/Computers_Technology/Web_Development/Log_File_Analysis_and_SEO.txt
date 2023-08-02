@@ -1,0 +1,153 @@
+Title: 
+Log File Analysis and SEO
+
+Word Count:
+1577
+
+Summary:
+If you own or manage a website, you are probably already aware of the importance of your log files or site statistics. Such data can give you insights about your site's usability, errors in your HTML code, the popularity of your site pages and the type of visitors your site attracts. But did you know it can also highlight the success or failure of your search engine optimization campaign?
+
+
+Keywords:
+seo, searchengines, optimosation, web
+
+
+Article Body:
+<p>If you own or manage a website, you are probably already aware of the 
+importance of your log files or site statistics. Such data can give you insights 
+about your site's usability, errors in your HTML code, the popularity of your 
+site pages and the type of visitors your site attracts. But did you know it can 
+also highlight the success or failure of your search engine optimization 
+campaign? </p>
+<p>There is specific data about your web site that you should be looking at in 
+your log files on a regular basis. Several variables should be examined monthly 
+or even weekly to ensure your site design and page optimization is on the right 
+track: </p>
+<p><b>1. Entry Paths</b> </p>
+<p>Most sites can be developed and analysed around the concept of visitor 
+pathways. If, for example, your site is a Business to Business (B2B) site and 
+you service small, medium and large businesses, there should be pathways through 
+your site designed for each class of visitor. An extremely simplified example 
+would be: </p>
+<p>Clients coming to the site through an optimized home page: </p>
+<p>home page ---> small business page ---> order page ---> order confirmation 
+page <br>
+home page ---> medium business page ---> order page ---> order confirmation page
+<br>
+home page ---> large business page ---> order page ---> order confirmation page
+</p>
+<p>The site entry pages for these pathways are often optimized home pages or 
+optimized content pages. The final page of this route is often the action that 
+you want clients to take on your site (e.g., sign up for your newsletter, buy 
+your products online or contact you for further information). You can easily 
+determine how effective your pathways are by tracking the entry paths on a 
+regular basis via your site stats. </p>
+<p>You should have some idea of the main pathways that clients take through your 
+site, both for monitoring the effectiveness of your page optimization and 
+conversions, and for the purpose of subsequent site redesign(s). A good starting 
+point to track the pathways through your site is via the graph or chart called 
+"Entry Paths" in your log files / site statistics. </p>
+<p><b>2. Top Exit Pages</b> </p>
+<p>These are pages from which most visitors click away from your site. Why is it 
+useful to track these? Because exit pages can tell you: </p>
+<p>a. If there is a technical problem with the page that is causing visitors to 
+leave your site. For example, if there are broken links, or the form on the page 
+is not working properly etc. </p>
+<p>b. If your site design is breaking the strategic pathway, for example, you 
+may have links to external sites that are inducing clients to click away before 
+buying your product or signing up for your newsletter. </p>
+<p>c. If there is something on these pages that is encouraging visitors to leave 
+your site. For example, an unprofessional design or confusing layout. </p>
+<p>In your log files / site statistics, the graph or chart called "Top Exit 
+Pages" is the place to learn why visitors are leaving your site. </p>
+<p><b>3. Single Access Pages</b> </p>
+<p>These are entry pages that are viewed once before the visitor clicks away 
+from your site. Similar to Top Exit Pages, Single Access Pages can tell you a 
+lot about why people are not staying on your site for long. </p>
+<p>Have a close look at the search terms used to find your site. Single Access 
+Pages can often indicate that your target search terms are too broad. For 
+example, you may be getting a lot of traffic by targeting "printer cartridges" 
+but if you only stock a particular brand of cartridge, then people seeking other 
+brands are not going to find what they truly seek when they arrive at your site 
+so they will leave immediately. This can be resolved by narrowing down your 
+search terms to be more targeted and focused on your niche products and 
+services, for example, by changing "printer cartridges" to "HP printer 
+cartridges" and so on. </p>
+<p>To see what pages of your site are viewed once, look for the graph or chart 
+called "Single Access Pages" in your log files / site statistics. </p>
+<p><b>4. Most Requested Page(s) and Top Entry Pages.</b> </p>
+<p>Tracking these pages is key to measuring the success of your SEO campaign. If 
+your optimization is effective, the Top Entry Pages and Most Requested Pages 
+should be those that you have optimized for target keywords. The Top Entry Pages 
+are particularly relevant as you consider the pathways through your site. Do the 
+most popular entry pages have any relationship to the start pages for your 
+plotted visitor pathways? Or are visitors entering and navigating your site via 
+ways you didn't intend? You can use this information to continually tweak your 
+page optimization to guide visitors to the right pathways. </p>
+<p>To see your most requested pages, look for the graph or chart titled "Most 
+Requested Pages" in your log files / site statistics. Also look for "Top Entry 
+Pages". </p>
+<p><b>5. Page refreshes</b> </p>
+<p>Why are visitors refreshing pages on your site? Are the pages not loading 
+properly? The "Page Refreshes" variable is another one to monitor on a monthly 
+basis via your site stats to ensure that there are not site usability issues for 
+visitors. </p>
+<p><b>6. Referring Domains and Referring URLs</b> </p>
+<p>Where are your visitors coming from? Are they coming from sites that are 
+linked to yours? Are blog authors or forum members talking about your site? 
+Referring Domains will tell you what sites are linking to yours, while Referring 
+URLs will list the actual pages where the links are located. These can be little 
+gold mines because you can often find valuable sources of traffic via links to 
+your site that you didn't even know existed. </p>
+<p>In terms of an SEO campaign, these links can all add to your site's overall 
+link popularity, an important factor in the ranking algorithms of many search 
+engines, particularly Google. Monitoring these metrics can tell you if your site 
+requires a link-building campaign or help you measure the effectiveness of 
+various online and offline advertising campaigns. </p>
+<p>In your log files / site statistics, Look for the graph or chart titled 
+"Referring Domains" and "Referring URLs". </p>
+<p><b>7. Search Engine Referrals</b> </p>
+<p>How many of your visitors are coming directly from search engines? What 
+percentage of overall traffic does this represent? This is a good variable to 
+track to help you keep up with how many search engines are listing your site 
+(both free submission and paid submissions), how much traffic they bring and 
+whether to renew your paid submissions. It can also tell you whether you need to 
+increase the number of search engines your site is submitted to in order to 
+build on your link popularity. As a a very rough guide, you should be receiving 
+at least 30 percent of your site traffic via search engine referrals. </p>
+<p>To see search engine referrals, look for a chart or graph called "Search 
+Engines" within your site statistics. </p>
+<p><b>8. Search Phrases</b> </p>
+<p>This topic is related to search engine referrals generally, but gives added 
+insight into what terms you were actually found for in the search engines. Do 
+these terms match what your site was optimized for? Are there any surprising 
+terms that you might want to develop site content for? Some log file analysis 
+programs will even break down what specific phrases your site was found for in 
+which particular search engines. The more detailed the data you have, the more 
+closely you can tweak your optimization campaign to your precise market. </p>
+<p>To see the search phrases your site was found for, look for "Search Phrases" 
+or "Search Phrases by "Search Engine". </p>
+<p><b>9. Landing pages for Pat-Per-Click Campaigns, etc.</b> </p>
+<p>If you run a pay-per-click campaign or dedicate specific pages to advertising 
+product specials, you may use special landing pages or tracking ids to monitor 
+your traffic and conversions. Your site logs can help you track these by showing 
+you how many visitors they each had and what they did after they visited those 
+pages. </p>
+<p><b>10. Metric values that show a radical change from developing trends</b>
+</p>
+<p>Any site metrics that show a dramatic change from one month to the next could 
+pin-point a problem with your site or with your optimization campaign. For 
+example, if your search engine referrals have dropped dramatically, it could 
+indicate that you have been penalized in a search engine (or more than one). 
+Noticing changing trends early gives you the chance to investigate problem areas 
+and make adjustments if necessary. </p>
+<p>Please note that all log file analysis and site statistics programs are 
+different and use slightly different terms to describe the metrics listed above. 
+If you're confused, ask your site admin or hosting provider to highlight these 
+for you. </p>
+<p>Remember, your log files are gold mines filled with nuggets of information 
+about your optimized web site. If you keep digging on a regular basis, you'll 
+eventually strike it rich with success. </p>
+<br><a href="http://www.submitsuite.com/products/article-submitter.htm">This article was published using Article Submitter</a>
+
+

@@ -1,0 +1,51 @@
+Title: 
+Cisco Certification:  Suggested Home Lab Setups
+
+Word Count:
+951
+
+Summary:
+Putting together your own CCNA or CCNP home lab is exciting - but getting started can be confusing.  Chris Bryant, CCIE #12933, outlines several suggested home lab setups ,and there is one for every budget!
+
+
+Keywords:
+ccna, ccnp, free, pass, exam, cisco, certification, computer, mcse, ccie, chris, bryant
+
+
+Article Body:
+When you make the decision to put your own home lab together for your CCNA and CCNP studies (a very wise decision, if I may say so!), the hardest part is figuring out how to spend your budget.  Do you spend it all on the routers and go with a cheaper 1900 switch, knowing that the 640-801 (CCNA), 640-821 (Intro), and 640-811 (ICND) exams now place a premium on knowing the ins and outs of a 2950 switch?  Do you buy a frame relay switch?  Do you buy an access server?  
+
+One factor to keep in mind when you're starting to put your lab together is that you don't have to put it all together at one time.  With some careful planning, you've got a lab that you can use for your Intro studies, perhaps add a router or two for ICND study, and then some more devices for your CCNP study.
+
+Of course, it also depends on your budget.  If you've got upwards of $500 to spend, great!  If you don't, that's okay.  The key is that you're going to work with the real deal instead of simulation programs.  And remember that you can always sell the equipment when you've achieved your certification goals.  You're basically renting the equipment and then passing it on to another CCNA or CCNP candidate.
+
+Let's take a look at several different toplogies, from basic to more advanced.
+
+One router.   You'll have to keep the configurations pretty basic, but getting started with one router is still a start.  You can practice setting passwords (and password recovery, perhaps!) and become acquainted with the hardware.  You can practice setting the hostname and working with many global configuration commands.   There are obvious limitations, but the big plus here is that you've
+gotten started working with real Cisco equipment.
+
+Two routers.   You can do more with two routers than you might think.  Make sure the first two routers you buy have serial interfaces.  You can then purchase a DTE/DCE cable and practice working with directly connected serial interfaces. This is a valuable skill to have on your Intro and ICND exams.   You can put PPP on the direct connection and practice working with PAP and CHAP, not to mention the vital troubleshooting command debug ppp negotiation.
+
+Two routers, one switch.  Your first two routers should have serial and ethernet interfaces.  You can connect your routers to the switch via their ethernet interface in addition to the aforementioned directly connected serial interfaces.  You can create loopback interfaces on both routers and then practice advertising them via RIP, IGRP, EIGRP, and OSPF.  If you can, make sure to get BRI interfaces on these first two routers as well.  The cost of an ISDN simulator might prevent you from running ISDN at first, but plan for the future now.
+
+It's best to spring for a 2950 switch if it fits your budget.  That switch has an IOS as opposed to the menu-driven 1900 switches, so the practice will come in handy on exam day.  If you simply can't afford it right now, a 1900 switch is certainly better than no switch at all!
+
+Three routers, one switch.  I would consider using the third router as a frame relay switch.  If your first two routers each have two serial interfaces, as well as the third one, you can buy a couple of additional DTE/DCE cables and configure your own frame relay cloud.  The config for a frame relay switch can be hard to find there is one on my website you're welcome to.
+
+Four routers, one switch.   This setup would allow you to have three routers communicating via the frame relay cloud, two routers connecting through their directly connected serial interfaces, and at least two of the routers communicating through the switch.  Quite a setup!  I've got plenty of labs you can run on such a setup, and you could even create your own.  
+
+Five routers, one switch.  At this point, you should consider an access server as your fifth router.  An access server is a Cisco router with the capability to connect to up to eight other devices via an octal cable.  Not just any Cisco router can serve as an access server, so make sure the one you buy for this purpose has the proper async port(s).
+
+An access server prevents you from having to continually move the rollover cable into the console port of the router or switch you need to configure.  Once you have one, you'll wonder how you lived without it!  
+
+From this point on, you can add a second switch or an ISDN simulator.  The second switch gives you the opportunity to practice influencing root bridge elections and configuring VTP an ISDN simulator will give you priceless practice with ISDN in your home lab.  (Don't confuse an ISDN simulator with a router simulator.  An ISDN simulator basically acts as the phone company in your practice lab.)  New ISDN simulators can run up to $2000 easily there are many used simulators on ebay and from used Cisco equipment vendors.)
+
+I know exactly what you're going through when you make the decision to build your own lab I've been there myself.  I hope you've found this article helpful in making a decision on how to get started.  If you have any questions about a network topology you're considering building, please let me hear from you at chris@thebryantadvantage.com . I'm glad you've chose to put together you own CCNA and CCNP home lab, and I'll be glad to help with any questions you may have.
+
+To your success,
+
+Chris Bryant
+
+CCIE #12933
+
+

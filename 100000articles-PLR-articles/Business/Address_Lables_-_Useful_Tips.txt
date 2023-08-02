@@ -1,0 +1,24 @@
+Title: 
+Address Lables - Useful Tips
+
+Word Count:
+369
+
+Summary:
+Making address labels for letters and parcels can be a real chore.
+
+
+Keywords:
+labels, address, tags
+
+
+Article Body:
+Making address labels for letters and parcels can be a real chore. It’s something that has stood in the way of all sorts of people, whether they are large-scale eBay sellers or simply office workers who need to post a big batch of letters.
+
+What you might not have realised, though, is that making address labels can be easy when you know how. The best way to do it is to compose your letters using a Mail Merge function in the first place, such as the one that comes with Microsoft Word. This means that your addresses are being stored not in the documents themselves, but in either a spreadsheet or a database. The documents then contain a ‘field’, which is a special area where the program knows the address should go.
+
+Once you have split your addresses from your documents in this way, you should find it much easier to make address labels. All you need to do is open a page and insert a lot of address fields, with a  ‘next record’ field in between each one to tell the software not to put in the same address twice. Word has a wizard to help you do this: just go to the File menu, then New, and then choose ‘Mailing Label Wizard’ from under ‘Letters and Faxes’. Point it to your database, and you should be good to go.
+
+The final step in making address labels is a physical one. Sure, you’ve got your fancy software that can make mailing labels, but unless you want to cut the addresses out from pieces of paper and use tape or glue, you’re also going to need to get some sticky labels and put them in your printer. You can obviously find them at any good office supplies or stationery store, but make sure to get a size that Word knows about, so it can lay the labels out correctly for you. You can check the label sizes Word has available in the last stage of the Mailing Label Wizard, after you point it to your database – don’t worry too much, though, as few manufacturers will bother to make labels in a size incompatible with Word.
+
+

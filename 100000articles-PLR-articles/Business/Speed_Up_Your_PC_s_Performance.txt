@@ -1,0 +1,146 @@
+Title: 
+Speed Up Your PC's Performance
+
+Word Count:
+1227
+
+Summary:
+<p> Use Windows XP tools to make your PC run better </p>
+
+
+Keywords:
+Small Business Ideas, Small Business Startup, Small Business Specialists
+
+
+Article Body:
+<p>Want to make your computer run faster and smoother? Then take advantage of three tools available in Windows XP that can help your hard drive operate better and optimise your PC's overall performance. </p>
+<p><strong>Free Up Disk Space </strong><br>
+  By freeing disk space, you can improve the performance of your computer. The Disk Cleanup tool helps you free up space on your hard disk. The utility identifies files that you can safely delete, and then enables you to choose whether you want to delete some or all of the identified files. </p>
+<p>Use Disk Cleanup to: </p>
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td class="listBullet" valign="top">• </td>
+    <td class="listItem"><p>Remove temporary Internet files </p></td>
+  </tr>
+  <tr>
+    <td class="listBullet" valign="top">• </td>
+    <td class="listItem"><p>Remove downloaded program files (such as Microsoft ActiveX controls and Java applets) </p></td>
+  </tr>
+  <tr>
+    <td class="listBullet" valign="top">• </td>
+    <td class="listItem"><p>Empty the Recycle Bin </p></td>
+  </tr>
+  <tr>
+    <td class="listBullet" valign="top">• </td>
+    <td class="listItem"><p>Remove Windows temporary files </p></td>
+  </tr>
+  <tr>
+    <td class="listBullet" valign="top">• </td>
+    <td class="listItem"><p>Remove optional Windows components that you don't use </p></td>
+  </tr>
+  <tr>
+    <td class="listBullet" valign="top">• </td>
+    <td class="listItem"><p>Remove installed programs that you no longer use </p></td>
+  </tr>
+</table>
+<p><em>Tip </em><strong>: </strong>Temporary Internet files typically take the most amount of space because the browser caches each page you visit for faster access later. </p>
+<p>To use Disk Cleanup: </p>
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td class="listNumber" align="right"><p>1. </p></td>
+    <td><p>Click <strong>Start </strong>, point to <strong>All Programs </strong>, point to <strong>Accessories </strong>, point to <strong>System Tools </strong>, and then click <strong>Disk Cleanup </strong>. If several drives are available, you might be prompted to specify which drive you want to clean. </p></td>
+  </tr>
+  <tr>
+    <td class="listNumber" align="right"><p>2. </p></td>
+    <td><p>In the <strong>Disk Cleanup for </strong> dialog box, scroll through the content of the <strong>Files to delete </strong> list. </p></td>
+  </tr>
+  <tr>
+    <td class="listNumber" align="right"><p>3. </p></td>
+    <td><p>Clear the check boxes for files that you don't want to delete, and then click <strong>OK </strong>. </p></td>
+  </tr>
+  <tr>
+    <td class="listNumber" align="right"><p>4. </p></td>
+    <td><p>When prompted to confirm that you want to delete the specified files, click <strong>Yes </strong>. </p></td>
+  </tr>
+</table>
+<p>After a few minutes, the process completes and the Disk Cleanup dialog box closes, leaving your computer cleaner and performing better. </p>
+<p><strong>Speed Up Access to Data </strong><br>
+  Disk fragmentation slows the overall performance of your system. When files are fragmented, the computer must search the hard disk when the file is opened to piece it back together. The response time can be significantly longer. </p>
+<p>Disk Defragmenter is a Windows utility that consolidates fragmented files and folders on your computer's hard disk so that each occupies a single space on the disk. With your files stored neatly end-to-end, without fragmentation, reading and writing to the disk speeds up. </p>
+<p>In addition to running Disk Defragmenter at regular intervals—monthly is best—you should run Disk Defragmenter when: </p>
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td class="listBullet" valign="top">• </td>
+    <td class="listItem"><p>You add a large number of files </p></td>
+  </tr>
+  <tr>
+    <td class="listBullet" valign="top">• </td>
+    <td class="listItem"><p>Your free disk space nears 15 percent </p></td>
+  </tr>
+  <tr>
+    <td class="listBullet" valign="top">• </td>
+    <td class="listItem"><p>You install new programs or a new version of Windows </p></td>
+  </tr>
+</table>
+<p><em>Tip </em>: You should analyse a volume before defragmenting it to get an estimate of how long the defragmentation process will take. </p>
+<p>To use Disk Defragmenter: </p>
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td class="listNumber" align="right"><p>1. </p></td>
+    <td><p>Click <strong>Start </strong>, point to <strong>All Programs </strong>, point to <strong>Accessories </strong>, point to <strong>System Tools </strong>, and then click <strong>Disk Defragmenter </strong>. </p></td>
+  </tr>
+  <tr>
+    <td class="listNumber" align="right"><p>2. </p></td>
+    <td><p>In the <strong>Disk Defragmenter </strong> dialog box, click the drives that you want to defragment, and then click the <strong>Analyse </strong> button. After the disk is analysed, a dialog box appears, letting you know whether you should defragment the analysed drives. </p></td>
+  </tr>
+  <tr>
+    <td class="listNumber" align="right"><p>3. </p></td>
+    <td><p>To defragment the selected drive or drives, click the <strong>Defragment </strong>button. After the defragmentation is complete, Disk Defragmenter displays the results. </p></td>
+  </tr>
+  <tr>
+    <td class="listNumber" align="right"><p>4. </p></td>
+    <td><p>To display detailed information about the defragmented disk or partition, click <strong>View Report </strong>. </p></td>
+  </tr>
+  <tr>
+    <td class="listNumber" align="right"><p>5. </p></td>
+    <td><p>To close the <strong> View Report </strong>dialog box, click <strong>Close </strong>. </p></td>
+  </tr>
+  <tr>
+    <td class="listNumber" align="right"><p>6. </p></td>
+    <td><p>To close the Disk Defragmenter utility, click the <strong>Close </strong>button on the title bar of the window. </p></td>
+  </tr>
+</table>
+<p><strong>Detect and Repair Disk Errors </strong><br>
+  In addition to running Disk Cleanup and Disk Defragmenter to optimise the performance of your computer, you can check the integrity of the files stored on your hard disk by running the Error Checking utility. </p>
+<p>As you use your hard drive, it can develop bad sectors. Bad sectors slow down hard disk performance and sometimes make data writing (such as file saving) difficult, or even impossible. The Error Checking utility scans the hard drive for bad sectors, and scans for file system errors to see whether certain files or folders are misplaced. </p>
+<p>If you use your computer daily, you should try to run this utility weekly to help prevent data loss. </p>
+<p>To run the Error Checking utility: </p>
+<p>( <strong>Important: </strong> Be sure to close all files before running the utility.) </p>
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td class="listNumber" align="right"><p>1. </p></td>
+    <td><p>Click <strong>Start </strong>, and then click <strong>My Computer </strong>. </p></td>
+  </tr>
+  <tr>
+    <td class="listNumber" align="right"><p>2. </p></td>
+    <td><p>In the My Computer window, right-click the hard disk you want to search for bad sectors, and then click <strong>Properties </strong>. </p></td>
+  </tr>
+  <tr>
+    <td class="listNumber" align="right"><p>3. </p></td>
+    <td><p>In the <strong>Properties </strong> dialog box, click the <strong>Tools </strong> tab. </p></td>
+  </tr>
+  <tr>
+    <td class="listNumber" align="right"><p>4. </p></td>
+    <td><p>Click the <strong>Check Now </strong>button. </p></td>
+  </tr>
+  <tr>
+    <td class="listNumber" align="right"><p>5. </p></td>
+    <td><p>In the <strong>Check Disk </strong> dialog box, select the <strong>Scan for and attempt recovery of bad sectors </strong> check box, and then click <strong>Start </strong>. In most circumstances, select Scan for and attempt recovery of bad sectors. </p></td>
+  </tr>
+  <tr>
+    <td class="listNumber" align="right"><p>6. </p></td>
+    <td><p>If bad sectors are found, choose to fix them. </p></td>
+  </tr>
+</table>
+
+

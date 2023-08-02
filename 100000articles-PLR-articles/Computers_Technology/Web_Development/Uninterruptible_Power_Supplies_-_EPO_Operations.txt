@@ -1,0 +1,36 @@
+Title: 
+Uninterruptible Power Supplies - EPO Operations
+
+Word Count:
+519
+
+Summary:
+EPO (Emergency Power Off), this feature on UPS systems can cause many problems to the smooth running of the power protection installation.
+
+The primary reason for having this feature is to enable the UPS system to be 'made safe' in the event of an emergency. Operation of the Emergency Power Off will, with most uninterruptible power supplies, stop the inverter and rectifier (charger) and disconnect the battery. Due to the economics of size and cost, in a number of cases oper...
+
+
+Keywords:
+uninterruptible power supplies,diesel  generators, load bank
+
+
+Article Body:
+EPO (Emergency Power Off), this feature on UPS systems can cause many problems to the smooth running of the power protection installation.
+
+The primary reason for having this feature is to enable the UPS system to be 'made safe' in the event of an emergency. Operation of the Emergency Power Off will, with most uninterruptible power supplies, stop the inverter and rectifier (charger) and disconnect the battery. Due to the economics of size and cost, in a number of cases operation of the EPO circuit may just stop the inverter.
+
+A typical example of a situation when there is a need to remove power to equipment in an emergency situation is in the case of fire. An un-interruptible power supply by its very name means that when the building is isolated it will continue to provide an output until the batteries are exhausted. The continued supply of power in these situations can lead to additional fires as cables are damaged by the original cause. The EPO in this situation is often connected to the fire alarm panel and will operate on the second and subsequent detection of fire within a defined area.
+
+One of the major problems with Emergency Power Off circuits is that when they are originally installed everyone understands the concept and requirements to reset the circuit and restore the UPS system to normal operation. However as the years pass this knowledge is forgotten and when the UPS system suddenly stops for no reason it can take considerable time to identify the circuit that is causing the problem.
+
+In effect, your un-interruptible power supplies suddenly are no longer uninterruptible once the EPO has been activated.
+
+You must be very careful where the EPO is positioned, to avoid accidental or malicious use. Certainly each EPO needs to be monitored and covered y CCTV at the very least.
+
+When the service engineer is called to site, they are looking for a failure within the UPS system, not normally the external circuits and re-establishing power to the load can take longer than expected.
+
+Further problems with EPO circuits can be caused during the original installation of the UPS system where the designer, trying to make the operation of the EPO more secure may also connect the under-voltage trips of circuit breakers supplying the UPS system. This can make the service engineer's task even more daunting as there are normally few circuit diagrams available at the time of the incident and considerable time can be lost in tracing the circuits to restore supply to the load. Typically, in spite of any perceived problems with the UPS system at this time, the circuit to the maintenance bypass is not available either as it has tripped due to the operation of the EPO circuit so power can still not be restored to the load.
+
+To assist with rapid restoration of supply to the load at the time of installation a laminated circuit diagram attached to the UPS system showing the circuit breakers feeding the UPS system, the load and their locations. In addition the operation of the EPO circuit should also be shown.
+
+

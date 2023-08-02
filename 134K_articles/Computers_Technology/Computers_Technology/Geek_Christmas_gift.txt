@@ -1,0 +1,24 @@
+Title: 
+Geek Christmas gift
+
+Word Count:
+181
+
+Summary:
+I received a very geeky Christmas present this year - Ubuntu! Ubuntu is a linux distribution (Debian I believe) that includes the Gnome desktop, Evolution Groupware and the OpenOffice suite. (I bet my brother would have loved the math formula editor back in the day when he was teaching physics.)
+
+
+Keywords:
+geek, geek gift
+
+
+Article Body:
+I received a very geeky Christmas present this year - Ubuntu! Ubuntu is a linux distribution (Debian I believe) that includes the Gnome desktop, Evolution Groupware and the OpenOffice suite. (I bet my brother would have loved the math formula editor back in the day when he was teaching physics.)
+
+The package has two CDs. The first is a ¡°live cd¡± that sets up a RAM disk (remember those?) and then boots into linux with touching your hard drive! Very creative! This is a great way to show non-technical execs what linux can bring to the table.
+
+The second CD is a bootable install disk, with a character-based installer. I loaded into a Virtual PC machine (refer to this How To from the Ubuntu site) and have been working in the corporate environment for a few days. WSS sites are mostly usable. There is a Citrix client for Linux, so all of the ¡°corporate¡± apps are available.
+
+Being a .Net guy now, there is probably not much more to do. If I had time, then perhaps Mono would be fun to try...
+
+

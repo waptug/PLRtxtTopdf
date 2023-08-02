@@ -1,0 +1,34 @@
+Title: 
+The Hard Disk Wipe Process
+
+Word Count:
+511
+
+Summary:
+One of the biggest possible security leaks, both for private individuals and companies, lies in not being thorough about removing data from old hard disks. When data is not wiped or securely deleted from a given hard disk, it becomes possible (if not always easy) for people to attempt and recover the data. For innocuous data such as mundane documents and other such files, this possibility may not seem like much of a risk.
+
+However, for hard disks handling confidential infor...
+
+
+Keywords:
+hard disk wipe,hard drive wiping,wipe disk
+
+
+Article Body:
+One of the biggest possible security leaks, both for private individuals and companies, lies in not being thorough about removing data from old hard disks. When data is not wiped or securely deleted from a given hard disk, it becomes possible (if not always easy) for people to attempt and recover the data. For innocuous data such as mundane documents and other such files, this possibility may not seem like much of a risk.
+
+However, for hard disks handling confidential information such as financial matters, personal information, and the like, this becomes a serious issue. It has been shown that most people and organizations are not careful about their information that is left on old hard disks. On a survey of a typical sample of old or recycled hard disks, it is more than likely that one would be able to recover some personal information, or even confidential information on a larger scale. These include company employee information, financial transaction information, and so on.
+
+This happens because ordinary file deletion or disk reformatting is not enough to dissuade a determined hacker from recovering data. Normal deletion does not actually remove the file data from the hard disk itself. Instead, the deleted file is just marked 'deleted', and the space allocated to the file is marked 'available'. This 'available' space would not be overwritten until the system runs out of other hard disk space, leaving it vulnerable to recovery.
+
+Even hard disk reformatting does not overwrite the files that are on the hard disk. Instead, it just reallocates the existing space for new use. Hence, some traces of the data previously on the disk might remain, especially if the hard disk does not become filled with new data.
+
+To be more secure about removing data from a hard disk, there is no better solution than performing a hard disk wipe, short of physically destroying the hard disk. This second option is generally frowned upon, since it is a waste of resources. (Recycling old hard disks is the better and more environmentally friendly option. To prevent any mishaps regarding the unintentional exposure of confidential information, all recycling facilities are required by law to wipe the hard disks before redistributing them.)
+
+Now, a hard disk wipe works by overwriting the data on the disk multiple times with random sets of data. This thorough masking of previously existing data is usually not performed during regular file deletion in the aims of conserving system resources. And indeed, a secure deletion is often not strictly necessary, in everyday computer use. But when secure deletion becomes necessary, a hard disk wipe offers the solution.
+
+A hard disk wipe program usually runs from a removable storage device such as a CD. Simply by loading this program into the computer with the hard disk to be wiped, the process could be implemented. This means that it is possible to perform the hard disk wipe on multiple computers relatively easily.
+
+The hard disk wipe is a relatively uncommon process that is nevertheless invaluable for secure deletion of information from hard disks.
+
+

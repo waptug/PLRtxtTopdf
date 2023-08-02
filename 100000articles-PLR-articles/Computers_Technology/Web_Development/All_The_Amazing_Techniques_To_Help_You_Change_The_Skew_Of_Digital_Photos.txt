@@ -1,0 +1,28 @@
+Title: 
+All The Amazing Techniques To Help You Change The Skew Of Digital Photos
+
+Word Count:
+400
+
+Summary:
+Many digital photos will open into your photo editing software with a resolution of 72 ppi. This is either because your digital camera does not store resolution information when it saves the photo, or the software you are using can't read the embedded resolution information, but it’s able to change skew of digital photo. Even if your software does read the resolution information, the embedded resolution may not be what you really want. But fortunately we can change the print ...
+
+
+Keywords:
+change skew of digital photo, digital photos
+
+
+Article Body:
+Many digital photos will open into your photo editing software with a resolution of 72 ppi. This is either because your digital camera does not store resolution information when it saves the photo, or the software you are using can't read the embedded resolution information, but it’s able to change skew of digital photo. Even if your software does read the resolution information, the embedded resolution may not be what you really want. But fortunately we can change the print size of digital photos and that happens usually with little or no loss in quality. 
+
+To do this, look in your photo editing software for an "Image Size," "Resize," "Print Size," or "Resample" command to change skew of digital photo. When you use this command you will be presented with a dialog box where you can change pixel dimensions, print size, and resolution (ppi).
+
+ When you want to change print size without loss in quality, you should look for a "resample" option in this dialog box and make sure it is disabled to change skew of digital photo. When you want to change the print size without stretching or deformation, look for a "constrain proportions" or "keep aspect ratio" option and make sure it is enabled. With this enabled, you may not be able to get the exact dimensions you need, in the change skew of digital photo.
+
+When the resample option is not available and the constrain proportions option is enabled, changing the resolution will alter the print size and print size will alter the resolution. The ppi will get smaller as the print size will increase. If you know what size you want to print and change skew of digital photo, enter the dimensions for the print size. 
+
+Now there are different results regarding this operation. If the ppi changes to 140 or less, you will get a low quality print at that size, or if the ppi changes to 141-200, you will get an acceptable quality print at that size. But if the ppi changes to 201 or higher, you will get a high quality print at that size, which is what most people are looking for.
+
+If you do not have enough pixels to get an acceptable or high quality print, you will need to add pixels throughout re-sampling. Adding pixels, however, does not add quality to your image and will usually result in a soft or blurry print.
+
+

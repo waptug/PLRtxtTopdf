@@ -1,0 +1,87 @@
+Title: 
+Cisco CCNA Exam Tutorial:  How To Spend Your Study Time
+
+Word Count:
+1325
+
+Summary:
+Making the most of your CCNA study time is vital!  Learn how to maximize your study efforts from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+ccna, exam, study, plan, pass, free, tutorial, bryant, advantage, 12933, ccie, intro, icnd
+
+
+Article Body:
+To pass the CCNA exam, you've got to create a study plan. Part of that plan is scheduling your study time, and making that study time count.
+
+
+You’ve scheduled your exam you’ve created a document to track your study time you’ve planned exactly when you’re going to study. Now the plan must be carried out, without exception.
+
+
+What exceptions do I mean? Cell phones. Televisions. IPods. Significant others. The list can go on and on.
+
+
+It’s one thing to have a plan, and an important thing now you’ve got to make sure you carry it out to its fullest potential. That’s easy to say until you’re studying and a friend calls, or you remember that TV show you wanted to watch is on tonight, or you start surfing the Web for Cisco information and end up playing a game.
+
+
+You MUST make these small sacrifices in order to achieve your main goal, the CCNA. Any worthwhile accomplishment requires some small sacrifice. 
+
+
+TV will be there when you’re done studying. Your significant other will be there when you’re done studying. And believe it or not, people once existed without cell phones! Turn the phone off. Turn your instant messenger service off. Turn your text pager off. Despite what we think, the world can do without communicating with us for 90 minutes. Remember, it’s better to have 90 minutes of great study than 180 minutes of constantly interrupted study. Studies show that while a single phone call causes an 11-minute interruption on average, it takes well over 20 minutes to get back to what you were doing with the proper mental focus. This is true at the office and at your home!
+
+
+How To Spend Your Study Time CCNA candidates generally spend their time split between book study, practice exams, and lab time on real Cisco equipment. The best study is done by a combination of these, not by overly relying on one. Let’s take a look at each method.
+
+
+Book study – I’ve never understood why some people (usually the trolls we were talking about earlier) talk about book study like it’s a bad thing. "You can’t learn about technology from books." What a load of manure. You have to learn the theory before you can understand how a router or switch operates. The best way to learn the theory is to read a good book.
+
+
+At the CCNA level, you doubtless know that you have dozens of choices when it comes to books. Some of the better-known books really do gloss over some important topics, such as binary math and subnetting. Make sure to pick a book or books that go beyond just explaining the theory and that give you a lot of explanation of router configs and real-world examples as well. 
+
+
+Practice Exams: Practice exams are good in moderation, but don’t use them as your main focus of study. Occasionally, I’m asked for study tips by candidates who have taken the exam a few times and not passed yet. I ask them what they’re doing to prepare, and they give a list of companies they bought practice exams from. (You see a lot of this on Internet forums as well.)
+
+
+Don’t fall into this trap. Practice exams are fine if used as a readiness check, but some candidates just take them over and over again, which renders them basically useless. 
+
+
+On top of that, some of them cost hundreds of dollars. That’s money you’d be much better off spending on Cisco equipment to practice on.
+
+
+Again, I’m not against practice exams as a supplement to your studies. Just don’t make them the main focus of your study. Taking practice exams over and over and hoping the exam will be just like the practice exam is a recipe for disaster. As I tell my students, when you’re in front of a rack of routers and switches during a job interview (or at 2AM when you’ve been called in to fix a problem), the correct answer is not "D". You’ve got to know what to do.
+
+
+And how do you learn these skills? Funny you should ask.... Lab Time On Real Cisco Equipment. Again, speaking from experience: This is the most important part of getting your CCNA, succeeding on the job, and going on to get your CCNP. 
+
+
+Getting hands-on experience is critical to developing your networking skills, especially your troubleshooting skills. Although simulators are better than they used to be, they’re still not Cisco routers, and they never will be. 
+
+
+You do your best learning not only when you’re configuring your routers, but when you screw something up.
+
+
+That’s so important, I want to repeat it – loudly: You do your best learning when you screw something up. Why? Because then you have to fix it that’s how you develop your troubleshooting skills. You can read about all the debug and show commands in the world, but you don’t really understand how they work until you’re figuring out why your Frame Relay connection isn’t working, or your RIP configuration isn’t working.
+
+
+This is true at every level of the Cisco Learning Pyramid. I can show you the show ip protocols output or what you get when you run debug ip rip, and you might remember it for a little while. But when you use it to troubleshoot a lab configuration, you WILL remember it.
+
+
+Putting your own practice lab together will also help get you over what I call "simulator question anxiety". If you spend any time on CCNA Internet forums, you’ll see discussion after discussion about these exam questions. To a certain point, this discussion is justified. The simulator questions carry more weight on your exam than any other question while you can earn partial credit on them, you’ve got to get them right or you will most likely fail the exam. 
+
+
+There’s no reason to be anxious about them if you’re prepared. You don’t want to be the person who walks into the testing room that’s scared to have to create a VLAN or an access list you want to be the person who walks into the testing room confident of their ability to perform any CCNA task. The best way to be that confident is to know you’ve done it – on real Cisco equipment.
+
+
+There are several vendors that sell routers and switches on ebay most of them sell CCNA and CCNP kits that include all the cables and transceivers that you’ll need as well. (And how is a simulator going to help you learn about cables and transceivers?) Keep in mind that you can always sell the equipment after you’re done with the CCNA, or you can add a little equipment to it to go after your CCNP.
+
+
+Whichever of these methods you use (and I hope you’ll use all of them), make sure to keep them in balance with each other. Don’t depend too much on just one.
+
+
+On the topic of learning how to troubleshoot… as you run labs on your Cisco equipment, you’ll run into questions or problems that you don’t know the answer to yet. Get used to using Google (or your favorite search engine) to find the answer to these problems - but try to figure it our yourself first!
+
+
+There’s nothing wrong with asking questions of someone else if you’re not able to find the answer yourself. Trying to find the answer yourself is another important troubleshooting skill you need to start developing today. Don’t be one of these people who posts a simple question on a forum without trying to find the answer on your own. Besides, you get more satisfaction and build more confidence when you determine the answer yourself.
+
+

@@ -1,0 +1,44 @@
+Title: 
+How To Plug A Guitar Or Bass Into A Computer
+
+Word Count:
+741
+
+Summary:
+Every town throughout the world has one or two fully dedicated aspiring guitarists and bassists. These disciplined folks spend countless hours improving their craft. Their local musician community is made up of a small group of less-dedicated folks and people with divergent tastes in music. To the truly passionate musician, sometimes this can be frustrating. The dedicated guitarists and bassists of these communities have often surpassed the ability of local teachers, and are ...
+
+
+Keywords:
+musician resource, musician community, musician resource, guitar lessons, online guitar lessons,
+
+
+Article Body:
+Every town throughout the world has one or two fully dedicated aspiring guitarists and bassists. These disciplined folks spend countless hours improving their craft. Their local musician community is made up of a small group of less-dedicated folks and people with divergent tastes in music. To the truly passionate musician, sometimes this can be frustrating. The dedicated guitarists and bassists of these communities have often surpassed the ability of local teachers, and are thus on their own following their musical heroes. Although guitar tab books and guitar lesson DVDs help, trial and error becomes the primary method.
+
+If you are one such individual, there is a musician resource that you may have overlooked: the Internet. Now, please don't misunderstand. I know that you have already found out about the internet. You use the internet every day and you have probably found countless guitar tab sites, guitar lesson sites, band classified sites and the like. You have learned a lot on the internet. Your eyes have found the Internet, but has your music?
+
+When you connect your instrument to your computer, you connect your music to the rest of the worldwide community of musicians. Out there on the internet, unlike in your home town, are many many people just like you, who want to hear your music. They are as dedicated as you, they are into the same music, they are your peers without question, and they want to hear what you are working on.
+
+This article teaches you how to plug your guitar or bass right into your computer, to start sharing your musical ability with the world-wide internet music community. We are assuming that you have an electric guitar, bass guitar, or acoustic guitar with a pickup.
+
+Overview
+
+Turn your computer around and look at the back of it. You should see a walkman-style mini headphone jack in one of the shiny steel plates back there. Actually, you should see 3 mini jacks. If you look closely, they have little etched pictures next to them. One is a picture of a mic, one is a picture of headphones, and the other some picture you don't know what it is. The one that is not mic and not headphones is the line-in jack. Your guitar has a 1/4 inch cable that is too big to fit into this mini headphone jack. So, you will need an adapter that will convert the quarter inch jack to a mini jack. You can find this sort of adapter at your local electronics shop. In the U.S., Radio Shack is your best bet.
+
+The following are three scenarios that describe how to plug your instrument into your computer.
+
+Average Situation
+
+Here's the deal: your guitar is supposed to plug into the line-in jack. But your guitar is not loud enough to play direct into a line-in. So you have to put an effects pedal with a volume control in between the PC and your guitar. That way you can give your guitar enough of a volume boost to hear it well on your PC.
+
+Poor Situation
+
+If you don't have an effects pedal, or something else to give your guitar a slight volume boost, then the line-in method won't work. Your guitar will be too quiet. If this is the case, you will need to plug your guitar into the mic jack instead. The guitar is too loud for a mic jack. So, you will have to turn the guitar down for it to record properly. Even then, it won't sound too good. Computer mic jacks just don't sound good. But, it works.
+
+Ideal Situation
+
+Ideally, here is what you want to do: get a mixer, plug your guitar into your amp, mic the amp in a sound-proof room. Turn it up really loud. Mix your effects into the signal at the mixer, and plug the mixer line out into the line in of your computer. If you have all the equipment for this, then I would suggest you get one more item: a studio-quality audio card. These cards have improved circuitry and software that will significantly improve the sound of your records and the flexibility of your system.
+
+I hope this article has been helpful to you and that your music inspires and fulfills you throughout a long and happy career. I also hope that you will join a musician community on the internet and get as much satisfaction out of it as I have.
+
+

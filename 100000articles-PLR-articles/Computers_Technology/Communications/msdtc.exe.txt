@@ -1,0 +1,33 @@
+Title: 
+msdtc.exe
+
+Word Count:
+313
+
+Summary:
+If you hit CTRL +Alt + Delete, you will launch your task manager on your Windows Operating System. With task manager open, you can choose from several tabs including; applications, processes, performance, networking and users.
+
+
+Keywords:
+msdtc.exe, virus, Microsoft Distributed Transaction Coordinator
+
+
+Article Body:
+If you hit CTRL +Alt + Delete, you will launch your task manager on your Windows Operating System. With task manager open, you can choose from several tabs including; applications, processes, performance, networking and users. If you click on the processes tab, you will usually see dozens of processes running. While some like WinWord.exe are easy to understand, others like msdtc.exe might scare you into thinking that you have a virus running on your computer. If you see msdtc.exe running, you should not be alarmed- it is not a virus.
+
+What is msdtc.exe?
+
+Msdtc.exe stands for Microsoft Distributed Transaction Coordinator; it is obviously a Microsoft file. The Microsoft Distributed Transaction Coordinator is a transaction manager. The manager permits client applications to be compromised of several different types of data from various sources. This executive process coordinates the transactions across all servers that have authority to engage the transaction.
+
+It should be noted that all MS applications do not use this file, however some that require server features do. Two MS programs that require msdtc.exe are Microsoft Personal Web Server and Microsoft SQL Server.
+What To Do if you See msdtc Running
+
+If you notice that msdtc.exe is running, the odds are that it is required for specific applications to function properly. You should not end this process prematurely. To do so may cause problems with the main application from running properly.
+
+Is msdtc.exe a Virus?
+
+It is highly unlikely that the msdtc.exe process running is a virus. However, you can check where the files are running from. If a non-Microsoft .exe file is found to be in the C:Windows or located at C:WindowsSystem32 folder, then there might be some reason to suggest that a virus, spyware, trojan or worm has infected your computer.
+
+For more information regarding this file, please visit Microsoft.com.
+
+

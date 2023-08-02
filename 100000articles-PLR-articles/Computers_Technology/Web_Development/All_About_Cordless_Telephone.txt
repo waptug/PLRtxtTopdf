@@ -1,0 +1,36 @@
+Title: 
+All About Cordless Telephone
+
+Word Count:
+618
+
+Summary:
+A cordless telephone (telefone sem fio) is an electronic telephone that comprises of a wireless handset and a base unit. Communication is carried out between the handset and the base using radio waves. The wireless handset can be operated only within a fixed range from its base unit. The range of operation is generally within 100 meters. The base unit needs electricity to power it. Batteries are used to power the cordless handset. Placing the cordless handset in the cradle in...
+
+
+Keywords:
+cordless phone, cordless telephone
+
+
+Article Body:
+A cordless telephone (telefone sem fio) is an electronic telephone that comprises of a wireless handset and a base unit. Communication is carried out between the handset and the base using radio waves. The wireless handset can be operated only within a fixed range from its base unit. The range of operation is generally within 100 meters. The base unit needs electricity to power it. Batteries are used to power the cordless handset. Placing the cordless handset in the cradle in the base unit recharges these batteries. A period of 12 to 24 hours is required for recharging the batteries.
+
+With features like cell handover, data transfer and international roaming (on a limited scale), the once clear-cut line between mobile telephones and cordless telephones (telefone sem fio) has now been blended by the modern cordless telephone standards.
+
+Frequency bands have been assigned in each country for cordless telephones (telefone sem fio). Advertisements by manufacturers claiming that there is an improvement in audio range and quality with higher frequency are a common sight. But that is not the case. Actually, higher frequencies have been seen to exhibit worse propagation in ideal case. There is also a tendency for the path loss to increase with higher frequencies. Locally varying factors such as antenna quality, signal strength, the modulation method being used and interference are more influential than other factors.
+
+With Landline telephones working on a bandwidth of about 3.6 kHz (a small fraction of the frequency that a human ear can interpret), the transfer of audio is carried out with an audio quality that is just enough for the parties to communicate each other. Because of this limitation in the design of the phone system itself, it is not possible to improve the audio quality beyond a particular limit in cordless telephones.
+
+Most of the good-quality cordless telephones (telefone sem fio) try transferring the audio signal with lowest possible interference and greatest possible range. Even the best of the cordless telephones fail to match the audio quality that a high quality phone wired to a good telephone line provides.
+
+Sidetone (echo of voice heard in the speaker of the receiver), disturbing constant background noise that is due to the cordless system, and inability to obtain a full frequency response that is available in a wired phone are few of the reasons for a not-so-good audio quality. Rare exceptions, obviously, always exist that sound unbelievably similar to a wired telephone. But even these are considered as `fluke` by most industry standards.
+
+Higher frequency is now being used in other home products like the microwave oven, Baby monitor, Bluetooth, wireless LAN, etc. Thus, cordless telephones (telefone sem fio) using higher frequency may face interference from signals from these devices.
+
+Eavesdropping is a constant security threat for analog telephones. Any one with a radio scanner and within range can pick up these signals and listen to conversations. Modern digital technology is thus being used to take care of this kind of unauthorized access.
+
+DSS (Digital Spread Spectrum) makes use of frequency hopping, i.e. spreading up of audio signal over a wider range in a pseudorandom fashion. DSS signal sounds like noise bursts to a radio scanner or any other analog receiver. This signal makes sense only to that base unit which has the same pseudorandom number generator as the cordless handset. Each time the cordless handset is returned to its cradle, a new unique generator is chosen from thousands of options.
+
+DSS generates a signal spread that leads to a kind of redundancy, which gives rise to increased signal-to-noise ratio. It also leads to increase in signal range and decreases interference susceptibility. It is easier to use this kind of wide-bandwidth security option with higher frequency.
+
+

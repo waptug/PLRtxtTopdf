@@ -1,0 +1,45 @@
+Title: 
+List of Channel Thailand Tv Online
+
+Word Count:
+105
+
+Summary:
+List of Ch Thailand TV
+Ch.11   rtsp://203.113.9.83/encoder13
+Ch.3   rtsp://158.108.4.246/tv3_
+Ch.5   rtsp://203.113.9.83/encoder4
+Ch.7   rtsp://203.113.9.83/encoder5
+Ch.9   rtsp://203.113.9.83/encoder6
+Ch News1   mms://broadcast.manager.co.th/11news1?wmcontentbitrate=350000
+
+
+Keywords:
+online tv,thailand tv
+
+
+Article Body:
+Ch PTV   rtsp://ptvchannel.no-ip.org/live
+Ch Thai PBS   rtsp://203.113.9.83/encoder7
+Ch Discovery   rtsp://61.11.232.4/Encoder_5F_LOW
+Ch DMCTV   rtsp://203.146.251.191/vcont100k_2
+Earth Ch   rtsp://202.69.137.100/EarthChannel_HERR
+Ch EDN   rtsp://203.150.230.228/LiveTVB-EDN
+Ch ETV1   mms://203.150.230.89/etv?WMContentBitrate=128000
+Ch ETV2   mms://203.150.230.89/etv?WMContentBitrate=512000
+MTV Ch   rtsp://203.113.9.83/Encoder10
+MVTV1 Ch   http://61.19.248.196/mvtv_1?WMContentBitrate=256000
+MVTV2 Ch   http://61.19.248.196/mvtv_2?WMContentBitrate=256000
+MVTV3 Ch  
+http://61.19.248.196/mvtv_3?WMContentBitrate=256000
+MyIPTV Ch   rtsp://203.170.198.56/webcast_channel1
+Nation Ch   rtsp://202.60.199.44/Nation/nationchannel.wsx?WMContentBitrate=256000
+PhoneOne Ch  rtsp://58.64.30.4/one
+POP Ch   rtsp://203.150.230.228/LiveTVB-POP
+Soccer Ch  rtsp://202.69.137.100/www.maxnettv.tv_SoccerLivestream89
+T Ch   rtsp://203.150.230.228/LiveTVB-THAICHAIYO
+TTV Ch   rtsp://61.19.248.196/ttv?WMContentBitrate=128000
+Variety Ch   rtsp://203.150.230.228/LiveTVB-VARIETYONE
+ASTV5 Ch   http://203.146.251.218/airport
+
+

@@ -1,0 +1,109 @@
+Title: 
+Are You Still Not Backing up Your Data?
+
+Word Count:
+1146
+
+Summary:
+<p> Planning for a worst-case scenario isn't alarmist. It's common sense. By putting together a data back-up plan you can avoid a business catastrophe! 
+
+</p>
+
+
+Keywords:
+Small Business Start Up, Small Business Ideas, Small Business Plans
+
+
+Article Body:
+<p> Planning for a worst-case scenario isn't alarmist. It's common sense. By putting together a data back-up plan you can avoid a business catastrophe! 
+
+</p>
+<p>You should know this by now: Computers can and do fail. And nasty viruses can take down your system by creeping through your antivirus software 
+
+and firewall. </p>
+<p>The problem is that you usually get no warning before it's too late. </p>
+<p>This has happened to many. In extreme cases, it has put companies out of business. And the worst part is this: It's completely avoidable. By backing 
+
+up your data, you can retrieve all or most of what you lose. </p>
+<p>Yes, there is a hassle involved. But you owe it to yourself — and your business — to take stock of your backup plan (or lack thereof) by reviewing 
+
+these tips. </p>
+<b>Most Important: Back up Your Customer Databases and Payroll Records </b>
+<p>What's the heart and soul of your company? People have different opinions, but certainly your customer or client database has to rank high. </p>
+<p>Inside one or two data files are all the nitty-gritty details including what they buy, when they buy, how they pay and so forth. Contact lists also are 
+
+databases, and you might have yours combined with your customer list. </p>
+
+<p>So, where would you be if you lost your database? How would you feel if you attempted to open your database and it wasn't there? Not good, I'll bet. 
+
+So you should be backing up. </p>
+<p>Also mission-critical for backups are your employee payroll records. You don't want to lose the information that you have to report to the tax 
+
+department. Your employees don't want problems with them either. And they certainly don't want to be paid late. </p>
+<b>Protect Your Registry Settings </b>
+<p>You should be backing up <em>all </em> of your data. But if you don't, a third item you should have high on your priority list for regular backups is 
+
+your Windows Registry. This is the huge database that tells your computer how to run. Without it, you have an expensive paperweight. </p>
+<p>Most backup programs allow you to back up the Registry automatically. If not, you can easily do it manually. Here's how: </p>
+<p>• Click Start &gt; Run. </p>
+
+<p>• In the box, enter "regedit" (without the quotes). Click OK. </p>
+<p>• In the Registry, click File &gt; Export (or Registry &gt; Export Registry File in Windows 98). Navigate to your backup medium. It will probably be drive 
+
+E:. </p>
+<p>• Name the file and click Save. </p>
+<p>You don't need to back up Windows or your applications, such as Microsoft Word. If the worst happens, you can always re-install them. But 
+
+information you create must be protected. </p>
+<b>Store Your Backups Off-Site </b>
+
+<p>To really be safe, the backup medium (tape, CD or DVD, etc.) should be removed from your site. If you are backing up to tape, for instance, and you 
+
+leave the tape cartridge in the machine, you'll be protected if the hard drive fails. But if the equipment is stolen, or the office burns to the ground, the 
+
+backup will be lost. </p>
+<p>The safest procedure is to use a different tape or disk each day. Keep all but the current day's backups off-site — at your home, perhaps. </p>
+<b>Forget About Doing Backups with Floppies </b>
+<p>The earliest backup medium was the floppy. These are no longer practical. They hold hardly any data, so a large collection would be needed for a 
+
+backup. You would have to sit at the computer for hours, swapping the floppies in and out. Don't even think about it. </p>
+<p>Tape has been the medium of choice for a number of years. Tapes are relatively slow, but the process can be automated. You can schedule the 
+
+backup for when you're sleeping. </p>
+<p>Tape drives and the tapes to go with them are relatively expensive, too. And the software can be difficult. Tape is a great backup medium, once you 
+
+understand it. It has its drawbacks in terms of the time and work involved. But once you get a system running, it can go smoothly. </p>
+<p>Here are some other options: </p>
+<p>• Back up to a burner — a CD or DVD drive. Neither holds nearly as much data as a tape. If you decide to go this route, be sure your software allows 
+
+automated backups. A CD or DVD will work well if your data is not voluminous. CDs will hold up to 700 MB; most DVDs will hold 4.7 GB. </p>
+<p>• Use a Zip or Jaz drive. These are made by Iomega. Zips hold 250 MB of data; Jaz holds 2 GB. </p>
+
+<p>• Use an external hard drive. These hold a vast amount of data. They attach to the computer via high-speed connections such as USB 2.0 or FireWire. 
+
+Hard drives are fast, so the backup wouldn't take much time. But an external hard drive is relatively bulky, so you would get tired of taking it home. </p>
+<b>Another Option to Consider: Backing up on an Internal Hard Drive </b>
+<p>You could use a second internal hard drive, although that would mean leaving the backup in the office. Windows automatically accommodates multiple 
+
+hard drives. You could simply copy your data from the master hard drive to the second one, known as a slave. </p>
+<p>If having two hard drives appeals to you, consider a RAID system. RAID stands for Redundant Array of Inexpensive Disks. These systems can be 
+
+complicated but a two-disk system is simple; you set it up as a mirror. </p>
+<p>When you save something, it automatically saves to both drives. The second drive looks just like the first. So if one fails, you have a perfect copy. And 
+
+RAID will automatically switch you over to the working drive. </p>
+<p>Some motherboards have RAID capability built in. If yours doesn't, a RAID card can be added to the computer. </p>
+<p>However, a RAID system would leave your backup inside the computer. That leaves you vulnerable to fire or theft. </p>
+<b>Need More Security? Consider an Online Backup Service </b>
+<p>If you're especially concerned about safety, you might want to consider an Internet backup. There are many firms on the web that will store your data 
+
+for you, for a monthly fee. You can run the backup automatically. </p>
+
+<p>Don't consider this route unless you have a high-speed internet connection. Backups by dial-up modem could tie up your phone lines for hours at a 
+
+time. </p>
+<p>Also, Microsoft SharePoint offers the ability to store copies of your most-vital business documents in a secure area that you can access through the 
+
+Internet. SharePoint is available as part of Windows Server 2003. </p>
+
+

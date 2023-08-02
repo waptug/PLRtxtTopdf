@@ -1,0 +1,34 @@
+Title: 
+Coolest Idea For Publishers. Adsense Search With Google Toolbar
+
+Word Count:
+702
+
+Summary:
+Adsense has several products under its belt and some are obviously more popular than others. Web publishers have been discussing and comparing adsense products such as referrals and contextual advertising in popular forums such as Digitalpoint. Apparently, referral products and even Google search does not appear as popular as contextual ads. Why is that so?
+
+Publishers only benefit from contextual advertising when visitors click on the ads on the web page. In many instances...
+
+
+Keywords:
+
+
+
+Article Body:
+Adsense has several products under its belt and some are obviously more popular than others. Web publishers have been discussing and comparing adsense products such as referrals and contextual advertising in popular forums such as Digitalpoint. Apparently, referral products and even Google search does not appear as popular as contextual ads. Why is that so?
+
+Publishers only benefit from contextual advertising when visitors click on the ads on the web page. In many instances, in order to achieve that, ads are optimized to blend in nicely with the look and feel of the web pages. When done right, these ads look like relevant links on the site and if visitors are interested in what is being advertised, they will click on the ads. Contextual ads are simple to implement and ads will show on the site within minutes of copying and pasting some simple Javascript code.
+
+In contrast, it is not easy to generate the same amount of revenue using other adsense products such as Google search and referrals. Like contextual ads, implementing Google search involves copying and pasting some code. However, unlike contextual ads, publishers do not benefit when searches are
+being made. Each search returns a set of relevant results and if there are ads for those keywords, they will appear as sponsored results at the top of the page. The publisher only earns when the visitor clicks on one of those sponsored ads. So let's recap. The visitor has to key in some keywords, click on the search submit button, wait for the results to load, and IF he or she clicks on an ad, the publisher earns some money. Compare that to contextual ads, where the visitor simply have to make a simple click and the money is credited to the publisher's account.
+
+It is even more difficult to convert visitors to revenue using Adsense referral products, although each conversion generally pays more. For example, refer a publisher to the Google Adsense program and if the publisher makes $100 within 180 days, another $100 will be credited to the publisher who sent the referral. That means the visitor has to visit a site, somehow locate the Adsense referral button, click on it, read more about the program, sign up and wait for approval. Upon approval, the publisher will have to implement the products and make $100 within 180 days. If not, whoever sent
+the referral to the adsense program makes nothing.
+
+Here's another example. The Adsense program pays a referral fee if a visitor clicks on a button or link, download and successfully install the Firefox browser. The publisher's job, will then be trying to convince the visitor that Firefox is good for him or her, and send the visitor to the download page. If the visitor downloads the 5.33MB file and successfully install the browser, the publisher gets up to a dollar. Needless to say, it is indeed much tougher for the publisher to earn that dollar, compared to contextual ads.
+
+So where does that leave publishers? Publishers want to promote the Firefox browser but what if they don't have any software/webmaster related sites that will convert nicely? So let's say a publisher have a site about dogs. He or she could put a download link on the site that says "We recommend searching more about dogs using the Google toolbar". The publisher don't get paid for the download but when the installer uses the toolbar to make a search and click on an ad, the account gets credited with money. The concept behind it is similar to Google search, just that it's on a toolbar. Google could come up with a web-based control panel (likely within adsense login) for publishers to generate the download. In the market, there are already web-based control panel tools that allows users to customize and generate brandable toolbars for download. Therefore, this idea could definitely become a profitable possibility for publishers and would be a dream come true for many!
+
+Still, there remains one small nagging problem. Implementing such a product will mean that Google will have to share search revenues with publishers. Of the reported $1.098 billion dollars generated from Google owned sites in the final quarter of 2005, how much is Google willing to share?
+
+

@@ -1,0 +1,38 @@
+Title: 
+CNC And CAD Software - How Do I Choose The Right CAD Program For Me?
+
+Word Count:
+392
+
+Summary:
+There are multiple CAD programs available for design. Generally people become familiar with one and stick with it. As far as selecting the right one, my advice is this. Most software companies have a free trial. Thirty-day trials are common. Take advantage of these trial periods and test the software out. Then at the end, decide if you want to try another software or stick with your best one. I would advise you try out at least three different packages.
+
+The one you select ...
+
+
+Keywords:
+cnc, cad, cad software, computer aided design drafting, aided cad computer design
+
+
+Article Body:
+There are multiple CAD programs available for design. Generally people become familiar with one and stick with it. As far as selecting the right one, my advice is this. Most software companies have a free trial. Thirty-day trials are common. Take advantage of these trial periods and test the software out. Then at the end, decide if you want to try another software or stick with your best one. I would advise you try out at least three different packages.
+
+The one you select will probably have to do with you liking the interface or finding it intuitive. Keep in mind it may work for you now. A simple to use and understand interface probably has some limitations for your designs. The very best programs are complex with many tools that give you the most control. I have found that I start with a simple program and outgrow it. At some point I move up to the next level of software. This usually means a higher price as well.
+
+Types of CAD
+
+There are different types of CAD out there. These are the ones I deal with from time to time. 2D CAD, 2.5D CAD, and 3D CAD. Here are some quick explanations of each type.
+
+2D CAD
+
+2D CAD is generally on the low end of CAD software packages. 2D CAD is most often vector based. The design consists on the X and Y-axis only. The designs are made up of lines, circles, ovals, slots, curves, etc. There is no “depth” to the design. Only the outline of the part is visible, to put it in a different way.
+
+2.5D CAD
+
+All of the same descriptions above apply, but the design is prismatic. By that I mean it has the depth of the material. There are Z levels, but they are on singular planes.
+
+3D CAD
+
+3D CAD is on the high end of CAD software packages. 3D CAD can be solid based, wire frame based or nurbs based. The design consists on the X, Y and Z-axis. The designs are made up of lines, circles, ovals, slots, curves, etc, but can also include Spheres, Pyramids, Torrids, Cubes, etc. There is depth to the design. The design can be rotated around 360 degrees. The design is an accurate description of what the part would look like if produced in the real world.
+
+

@@ -1,0 +1,80 @@
+Title: 
+How To Troubleshoot Your Computer's Mouse
+
+Word Count:
+852
+
+Summary:
+Read about problems that your mouse may cause.See how you can correct such common mouse problems as no mouse movement,and mouse pointer misbehaving.See how to follows precedures used to correct such mouse problems
+
+
+Keywords:
+pc repair, computer training software, computer training, computer maintenance,pc tips,pc help,computers, pc training courses
+
+
+Article Body:
+Copyright 2006 Otis Cooper
+
+The Motherboard is the largest component in your PC and the Central Processing Unit is its brain. But when your input devices go on the blink, you're shut down for awhile. When Computer Mice problems come, we don't panic as fast when we cannot access our hard drive.
+
+When you grab your Mouse and either click or roll the buttons and nothing happens, your computing fun stops. Even though the mouse is a little input device, you will wish you understood its every aspect when it dies.
+
+When input device failure occurs, the problem may lie with the computer's hardware,the mouse, the OS or Operating System. Let's take a look at what you should check when mouse failure occurs. If you need help with mouse components, http://www.ultimatepcrepair.com contains photos of every component in the computer.
+
+When the mouse dies, you should be able to perform the same functions with the keyboard. It may be a little closer but you won't be shut down completely.
+
+NO MOUSE MOVEMENT
+
+First...If the mouse has no movement, first look at the mouse connection at the rear of the computer.Be sure it is plugged in completely.
+
+Second...remove the plug and inspect for connectors or pins that may be broken or bent. The connector is color coded with green being that of the mouse.
+
+If your mouse uses the USB or Universal Serial Bus connector, check the connectors for any damage and be sure it is plugged in.
+
+MOUSE STOPPED DURING OPERATION
+
+Should your mouse quit in the middle of computing, save your work immediately. Press the ALT key to access your program and save your work.
+
+Check the connection in the rear to be sure it has not worked itself loose.If the connection is tight, inspect the mouse components for birt.
+
+Remove the retain and trackball inside the mouse. Clean the Ball with a mild solution and be sure all residence is removed.And clean the Ball Cavity with a cotton swab. Replace the ball and secure it with the retainer.
+
+Connect the mouse to the system unit and boot the the computer. Try clicking a program to see if the mouse wotks. If the mouse fails, check the device driver for the mouse.
+
+MOUSE POINTER MISBEHAVING
+
+This problem may be the result of your computer be affected by a virus. Use your Anti Virus software to scan your sysem for viruses.
+
+You can go to http://www.free-av.com to download a free version of anti virus software if you don't have anti virus software installed on your system.
+
+A corrupt device driver can also cause the mouse to misbehave. Check the device driver by opening the Control Panel, and open the System folder.
+
+Select the device driver tab and use the down arrow key to scroll down to the mouse.Expand the mouse to see if the driver is installed.
+
+If you see a yellow icon, the mouse has a problem and you can try to re-install the device driver.First uninstall the mouse from Windows and reboot the PC.
+
+After the system reboots, the operating system will find the mouse and re-install the driver.If you have a wireless or USB mouse, re-installing the special software may be in order.
+
+A misbehaving mouse may occur when you install another device on your system.If this happens, the mouse and new device may be conflicting with each other by using the same address.
+
+Unplug any hardware you installed and uninstall any software recently installed. See if the mouse operates properly.
+
+Use the System Restore utility to set your computer back to a time when the mouse was working as it should. The Registry can be the culprit of the mouse behaving badly.
+
+You can connect your mouse to another computer to verify it is bad. If the mouse works on another system, check the problems mentioned in the PC's operating system.
+
+MAINTAINING YOUR MOUSE
+
+To keep the mouse performing at its very best,you should take the time to clean the components of your mouse.Regularly clean the mouse, both inside and out.
+
+Clean the outside of the mouse with rubbing alcohol. This solution is best since it does not leave any residue.Take the time to clean a small area first, to to certain any damage to the plastic will not occur.
+
+The components inside the mouse to be cleaned are the Rollers, as well as the Ball.These two parts are the most important to be kept clean and always take great care in doing so.
+
+Carefully take apart the mouse by turning the retaining ring counter clockwise to unlock it. Remove the Ball and clean it with warm water and not alcohol.
+
+The rollers inside the moise cavity can be cleaned with alcohol by dampening a Q Tip and wiping the rollers gently.
+
+With clean hands, insert the ball back in the mouse and replace the retaining ring. Now enjoy your mouse and should it cause any problems, you're armed with the knowledge of how to diagnose and repair most problems
+
+

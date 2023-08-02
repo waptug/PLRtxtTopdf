@@ -1,0 +1,34 @@
+Title: 
+Erp Selections – Making Friends Or Making Enemies
+
+Word Count:
+677
+
+Summary:
+When searching for a new ERP (Enterprise Resource Planning) system, there is the right way and the wrong way. If you were to follow all the presumably right things to do, you can still make some awful mistakes. One of the most dreadful things that you can do is to choose the software and then choose the implementation partner.
+
+Let’s illustrate a typical scenario. A company is looking for new business software. They decide that they will do the best practice way of selectin...
+
+
+Keywords:
+ERP, ERP failure, Discrete, Process, Manufacturing software, enterprise resource planning, selecting
+
+
+Article Body:
+When searching for a new ERP (Enterprise Resource Planning) system, there is the right way and the wrong way. If you were to follow all the presumably right things to do, you can still make some awful mistakes. One of the most dreadful things that you can do is to choose the software and then choose the implementation partner.
+
+Let’s illustrate a typical scenario. A company is looking for new business software. They decide that they will do the best practice way of selecting software. They define their requirements, they then send out these requirements to the VAR (Value Added Reseller) of the ERP solutions. For the sake of argument, they choose four software providers and send the RFI (Request for Information) to four different VARs, one from each of the software solutions. They get back the RFI’s and then start to eliminate the candidates. They drive it to two solutions.
+
+The next step is for them to have the VARs provide demos. If they do it correctly, they have the VARs demonstrate the software according to their business process with their actual data. The demonstrations go well and they now have the decision of which software to go with. They choose “X”. Then someone on the team says “Yes, X is great software, but I am not sure about the VAR. What if we look at some other VARs or implementation partners?”
+
+At this point the problems begin. The company wants to interview and get references on three other VARs. They begin doing the due diligence on these other implementers. You might be asking, “So what have they done wrong? It makes sense to check out all the implementation options.” Yes that is true, but what about the VAR that spent days and weeks preparing, demonstrating and learning about the company and their business? They have invested a lot of time and resources.
+
+Some would argue that that is just the nature of competition. True, but…. what if you find that there is not a better VAR than the one you began with. Now all you have done is made them feel distrusted and alienated. This is not the way to start an implementation. It could have dire consequences down the road.
+
+You want an implementation partner who is your trusted advisor. Going into an implementation should be a partnership working towards a similar goal. Bringing in other candidates at the end of the selection is not the way to bring a trusted relationship to the table.
+
+If you are dealing with a software company that has various VARs, the ideal situation is to ask the software developer, which VAR they would recommend for your business type and industry. This must be done early in the selection when you have just come to the first list of candidate software providers. They may give you a couple of names. You can then screen these two or three VARs early to choose an implementer who you want to do business with, should you choose their software. Then if they are not selected, they understand that it is your choice in software, and if they are selected along with the software, you have already vetted them and you can now begin an implementation with a truly trusted advisor.
+
+Many people forget that the VARs put a lot of time and money into chasing you the lead. If you choose them early and then choose the ERP software, then you move together in unity. If you choose the ERP system and then choose the VAR, the VAR will hold resentment at having spent the time and money only to be possibly tossed out at the end, when another VAR, who has done nothing, gets the implementation. Should the chosen VAR not work out and you have to go back to the first VAR, there will be little chance of working with them as a trusted advisor. So choose the people early and before the choice of software is made. Doing so will only aid in a successful implementation.
+
+

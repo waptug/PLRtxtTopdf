@@ -1,0 +1,40 @@
+Title: 
+Some Tips To Speed Up Firefox
+
+Word Count:
+595
+
+Summary:
+Mozilla Firefox is an excellent web browser that does a much better job than Internet Explorer when it comes to protecting your privacy and computer security. Unfortunately, Firefox can sometimes be slower than Internet Explorer. The speed difference between the two browsers is one of the main reasons why most people do not change their browser from the quicker yet more vulnerable Internet Explorer to the slower but more secure Firefox browser, the other reason being that Fir...
+
+
+Keywords:
+firefox,browers,tips
+
+
+Article Body:
+Mozilla Firefox is an excellent web browser that does a much better job than Internet Explorer when it comes to protecting your privacy and computer security. Unfortunately, Firefox can sometimes be slower than Internet Explorer. The speed difference between the two browsers is one of the main reasons why most people do not change their browser from the quicker yet more vulnerable Internet Explorer to the slower but more secure Firefox browser, the other reason being that Firefox introduces many new features that simply take more time to learn than some users are willing to invest. To get the best of both worlds – speed and security of browsing – you can download Mozilla Firefox and speed it up with these tips.
+
+Pipelining
+
+This tweak is very easy to accomplish. On your Firefox web browser address bar, type about:config, then press Enter. Scroll through the list of values and look for these three crucial pipelining settings: network.http.pipelining, network.http.proxy.pipelining, and network.http.pipelining.maxrequests. You can use the filter to easily find each of these entries.
+
+For the pipelining entry, you should change the value to true. Just double click the false value to make this change. For the maxrequests entry, the default setting is four. Change the value to your desired number. This value determines how many page requests Firefox is capable of making. You can go as high as 8 to speed up your tabbed browsing. Finally, go to proxy.pipelining and change the value from false to true.
+
+Doing the above steps will give you greater browsing speeds by allowing Firefox to process and send requests simultaneously instead of waiting until a response has been received from a previous request. This will also reduce network bottlenecks by packing multiple requests into a single data packet.
+
+Increase Your Firefox Memory Cache
+
+Your computer will automatically allot a memory cache for your Firefox browser. Increasing your browser cache will actually increase the amount of objects that your browser can retain, which cuts down on time spent retrieving information from your hard disk or a web server. As a result, your frequently visited pages will load much faster.
+
+You can modify the cache settings by going to the Firefox tools menu and clicking on Options. From here, click on the “Advanced” tab, then the “Network” tab. On the network tab, you can specify any cache size you like, but it is doubtful you will need more than about 32 Megabytes of cache.
+
+Block Unwanted Advertisements
+
+One of the best ways to speed up Firefox is by using an Ad Removal extension, such as AdBlock Plus. AdBlock Plus can be installed at https://addons.mozilla.org/en-US/firefox/addon/1865, and it works to block annoying banner ads. AdBlock Plus also features a “learning” feature, meaning you can right-click on unblocked ads and set them to be blocked, as well. Even with no other optimizations, Firefox will load most pages much faster than Internet Explorer when using AdBlock Plus, because it does not have to worry about downloading all of the annoying, unwanted ads that clutter up so many webpages.
+
+Another plugin, called FasterFox, implements a large number of tweaks based on increasing the speed of your browsing. FasterFox is available from: https://addons.mozilla.org/en-US/firefox/addon/1269.
+
+With these tips, you can speed up Firefox considerably, so don't let the slow performance you may have experienced deter you any longer. Firefox works to provide a much safer browsing experience than Internet Explorer, and its plugin interface allows for unprecedented levels of customization and convenience.
+
+

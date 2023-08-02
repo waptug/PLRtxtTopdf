@@ -1,0 +1,61 @@
+Title: 
+3 Ways To Prepare Yourself For Windows Vista
+
+Word Count:
+568
+
+Summary:
+As you may be aware, Microsoft is finally releasing the followup to Windows XP, called Windows Vista, in a few weeks time. As with previous upgrades for Windows, this will create some problems for people who want to upgrade their computers.
+
+When a new version of Windows is released, there are usually some bugs and other issues that need to be ironed out. Microsoft has put Vista through extensive testing, but it is hard for them to test it for every possible situation becau...
+
+
+Keywords:
+computer help, computer problems, computer upgrades, windows problems
+
+
+Article Body:
+As you may be aware, Microsoft is finally releasing the followup to Windows XP, called Windows Vista, in a few weeks time. As with previous upgrades for Windows, this will create some problems for people who want to upgrade their computers.
+
+When a new version of Windows is released, there are usually some bugs and other issues that need to be ironed out. Microsoft has put Vista through extensive testing, but it is hard for them to test it for every possible situation because there are so many different computer setups and configurations.
+
+If you're thinking about upgrading your computer to Vista when it's released, here are a few things you need to know.
+
+Compatibility
+
+One of the biggest issues with new versions of Windows is compatibility with existing equipment - both in your computer and peripherals like printers and scanners.
+
+Microsoft has tried to keep Vista compatible with all the existing hardware and software out there, but it's just not possible to be 100% compatible and still add new features and capabilities to Windows.
+
+Before you go out and buy Windows Vista, check to make sure all the equipment you use is compatible or the manufacturer offers an upgrade to make it so. Microsoft has a program that will test your system and give you a report on its compatibility, or you can check with the various manufacturers directly.
+
+Scanner are something that are particularly tricky when upgrading Windows so if you use a scanner, double-check that there is Vista compatible software available for it.
+
+Specifications
+
+If you've bought your computer in the last year or so, it should have plenty of power to run Vista. If it's older than a year, you may need to add some upgrades to bring it up to speed.
+
+The following are the official requirements for Vista Premium Edition (the most complete version):
+
+- 1GHz or higher processor
+- 1GB RAM
+- 40GB or larger hard drive
+- Sound card
+- Internet connection
+- DVD drive
+
+Most of those requirements are not going to be an issue for a reasonable recent computer, but the RAM is one thing you may need to upgrade. Even today, many computers include 512MB or even 256MB which is not enough to run Vista effectively.
+
+Upgrading vs Preinstalled
+
+Upgrading to a new version of Windows is always more problematic than starting with it preinstalled. There are almost always little glitches that need to be sorted out afterwards.
+
+If you're thinking of buying a new computer now and upgrading to Vista when it's released, I would recommend waiting until you can get one with it preinstalled if at all possible. You'll be happier in the long run, in spite of having to wait a little longer.
+
+If you're upgrading an older computer, and you have all the necessary requirements, the most important (critical!) thing is to back up all your important information before starting the upgrade.
+
+The upgrade is not supposed to affect anything that's on your computer - only Windows - but there is always a chance that something doesn't work the way it should. If you get halfway through the upgrade and something goes wrong, you may not be able to load either Vista or your old version of Windows.
+
+This may mean you have to reload your computer from scratch, which could wipe out all your files and information. Make sure you have an up-to-date copy of it all before you start the upgrade.
+
+

@@ -1,0 +1,32 @@
+Title: 
+What is 192.168.1.1?
+
+Word Count:
+368
+
+Summary:
+192.168.1.1 is the default IP (internet protocol) address for many home broadband routers.
+
+
+Keywords:
+192.168.1.1
+
+
+Article Body:
+192.168.1.1 is the default IP (internet protocol) address for many home broadband routers. It was originally used by Linksys but has since been found in use in a variety of other home networking devices such as those produced by Netgear and Westell to name a few.
+
+Although 192.168.1.1 is the default IP address for many broadband routers and modems, it does not necessarily have to be. Many factories set the default address to 192.168.1.1 in order to promote a more standardized computing environment and to make it easier for first time users to set up their networks quickly and easily.
+
+Can only Linksys (and other) routers use the 192.168.1.1 address?
+
+No, because 192.168.1.1 is a private IPv4 address, any computer, router, modem, or other internet device can be configured to use this IP address. However, it is not usually recommended as there are so many devices that default to 192.168.1.1 that connectivity problems may arise later from multiple devices using the same network address. It is also important to remember that only one network device can have any one IP address, so if you have multiple devices using 192.168.1.1, all but one of them must be changed to a different setting.
+
+How can I access 192.168.1.1?
+
+All you have to do is type 192.168.1.1 into the address bar on your favorite web browser and press enter. It may be in your best interest to use a web browser with full support for web standards (like Firefox) for the best results. You will be taken to what is essentially the software that powers your network device. Here you can make changes to settings, set a password, and configure your network device as you see fit.
+
+As is the case with any computer configuration, it is always in your best interest to either make a complete backup of your settings before you edit them or write down the defaults for every setting that you change. A few incorrect settings when configuring your network device and you could lose your connection to the internet.
+
+If something does go irreparably wrong when editing your network device via 192.168.1.1, there is usually a hard reset button on the back of the device which will restore all of the settings to their factory defaults.
+
+

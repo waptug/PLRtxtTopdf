@@ -1,0 +1,51 @@
+Title: 
+Is The Internet Censored?
+
+Word Count:
+1099
+
+Summary:
+When most people think about Internet censorship, the usual suspects immediately come to mind : Communist China and repressive Islamic countries. Unfortunately, Westerners have an embarrassment all their own : Australia's net censorship law, established in 2000.
+
+Freedom House, a non-profit U.S. organization dedicated to spreading human rights and freedom, undertakes regular surveys on press freedom and censorship. Last year's survey found that out of 186 countries, 69 had ...
+
+
+Keywords:
+home loan scams,mortgage equity scams,mortgage refinancing
+
+
+Article Body:
+When most people think about Internet censorship, the usual suspects immediately come to mind : Communist China and repressive Islamic countries. Unfortunately, Westerners have an embarrassment all their own : Australia's net censorship law, established in 2000.
+
+Freedom House, a non-profit U.S. organization dedicated to spreading human rights and freedom, undertakes regular surveys on press freedom and censorship. Last year's survey found that out of 186 countries, 69 had a free press, 51 had a partly-free press, and 66 countries had no press freedom. Freedom House suggested that only 21% of the world's population enjoy access to a truly free press.
+
+Some nations control Internet access through government servers that censor incoming news and information, and in China "cyber dissidents" have been imprisoned. Censorship is justified by claims that Western democratic practices are disruptive to the social values propagated by the local regime, or that society must be protected from corruption by outside influences. One Saudi spokesman for business interests commented that Saudi Arabia's limited opening to the Internet was delayed until technology was available to prevent access to information contrary to Islamic values and "dangerous to our society". Almost all Internet users in China and the Middle East are blocked from accessing political Web sites that criticize the government of their country.
+
+However, Arab and Communist societies have a long history of suppressing freedom of speech, so internet censorship in these nations comes as no surprise. However, at the time Australia first proposed its own form of internet censorship, it was still considered a country with a completely free press. Freedom House described the new Internet legislation as a measure that is "onerous, privacy-intrusive, and will chill freedom of speech".
+
+The Broadcasting Services Amendment (Online Services) Act 1999, the Australian Internet censorship legislation, came into effect on January 1, 2000. Under this legislation, broad categories of Internet content were prohibited. Australians are forbidden from seeing online any material which could be inappropriate for children, which includes any material classified RC or X by the Classification Board. Such content includes material containing detailed instruction in crime, violence or drug use; child pornography; bestiality; excessively violent or sexually violent material; real or implied depictions of sexual activity; and material which deals with issues or contains depictions which require an adult perspective.
+ 
+Enforcement of the regulation of the Internet is complaint-driven. Individuals, organizations, or the Commonwealth, a State or Territory can make a complaint to the ABA. If the ABA determines that the "prohibited content" is hosted in Australia, it will direct the local ISP to remove it.
+
+If the "prohibited content" is hosted outside Australia, the ABA will notify the suppliers of approved filters of the content in accordance with the Internet Industry Association's code of practice. The Australian Internet Industry has a list of 16 approved filters. The criteria for selecting these filters include ease of installation, ease of use, configurability, ability for updates in respect of content to be filtered, and availability of support. Effectiveness is not included in the selection criteria. The filtering software is offered to consumers, but is not compulsory.
+
+Testing by Computer Choice (September/October 2000) found that inocuous content, such as medical sites, were often blocked while some adult content passed through the filter. For example, iFilter blocked several Biblical sites, a family and child mediation service approved by the Australian Federal Attorney-General, the Institute of Australasian Psychiatrists, and information about Catholics helping street kids. Apparently technology is no substitution for parental supervision.
+
+Aside from costing Australians 2.7 million Australian dollars per year and making their country the laughingstock of the free world, the legislation has had minimal effect. Despite the multitude of pornography sites on the internet, there was no pent-up demand to shut them down; within six months of introducing of the legislation, the ABA received only 201 complaints about Internet content. By the end of June 2000, 197 investigations had been concluded. Of these, 37 were terminated due to lack of information (for example, the details provided with the complaint were insufficient to locate the content). Of the remaining 160 completed investigations, 93 resulted in the location of prohibited or potentially prohibited content, while 67 were found not to contain prohibited content. Around one third of complaints related to content hosted in Australia. 
+
+The prohibited content included content hosted in Usenet newsgroups, which is treated as content hosted in Australia if the complainant has accessed the content from his or her ISP's newsgroup server. The ABA issued final take-down notices for 62 postings of Internet content and referred 94 items to the makers of approved filters. Of the 62 items of Internet content that were the subject of take-down notices, at least 17 were later moved to ISPs outside Australia. (ABA Annual Report 2000-2001). So approximately one-third of the offensive websites were simply relocated to servers outside of Australia.
+
+In summary, filtering software products are ineffective, and Australia cannot control websites hosted outside its borders. The government won the approval of a few moralists who were happy that "something has been done" about online smut, whether or not the measures had any real effect. 
+
+However, a dangerous precedent has been set, and it is entirely possible that the categories of prohibited Internet content will be expanded in the future to ban political websites which threaten "Australian values". 
+
+Incidents of this nature occured almost immediately after the introduction of the censorship legislation.
+In a 2001 case, Victoria anarchist Matthew Tayor was prosecuted by the Australian Federal police at the behest of the FBI after posting threatening statements inspired by Jim Bell's "Assassination Politics" on websites in Ohio and California. 
+
+In 2002, NSW Police Minister Michael Costa wrote to the Australian Communications Minister, Richard Alston, and Justice Minister, Chris Ellison, requesting that 3 anti-WTO websites (including Melbourne Indymedia) be shut down or that access to them be restricted. Costa claimed the sites were providing information "designed to aid the violent disruption of the forthcoming WTO meeting in Sydney in November". Alston labelled the sites "insidious, anti-democratic and interested in causing violence, mayhem and anarchy".
+
+Alston referred the matter to the Australian Broadcasting Authority, which cleared Melbourne IndyMedia and Sydney anti-WTO s11.org website of any wrongdoing. The ABA concluded that grassroots news and activist websites were operating within the law and that their rhetoric did not reach a "threshold" of inciting violence. Costa then declared "we will be doing everything we can to pursue it internationally". However, Indymedia is a large network of independently-hosted international sites, so further action proved impossible.
+
+Electronic Frontiers Australia (EFA), an online civil liberties organization, has described the Federal Government’s online censorship legislation as a failure, and recommended that Internet censorship legislation "...be repealed and the costly and failed Internet regulatory apparatus be dismantled."
+
+

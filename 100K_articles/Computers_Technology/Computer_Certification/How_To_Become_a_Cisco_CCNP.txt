@@ -1,0 +1,30 @@
+Title: 
+How To Become a Cisco CCNP
+
+Word Count:
+279
+
+Summary:
+Thinking about earning your Cisco Certified Network Professional certification?  Chris Bryant, CCIE #12933, offers valuable tips on how to earn this prestigious certification.
+
+
+Keywords:
+Ccnp,pass,exam,certification,bsci,bcran,cit,order,what,cisco,certified,network,professional,router,switch
+
+
+Article Body:
+Congratulations on your decision to earn your CCNP certification!  As a CCIE, I can tell you that Cisco certifications are both financially and personally rewarding.  
+
+To earn your CCNP, you first have to earn your CCNA certification.  Then you're faced with a decision - take the three-exam CCNP path, or the four-exam path?   They're both quite demanding, so let's take a look at each path.
+
+The four-exam CCNP path includes the Building Scalable Cisco Internetworks exam (BSCI), Building Cisco Multilayer Switched Networks exam (BCMSN), Building Cisco Remote Access Networks (BCRAN), and Cisco Internetwork Troubleshooting (CIT) exam.  
+
+The three-exam path combines the BSCI and BCMSN exams into a single exam, called the Composite exam.
+
+I'm often asked what order I recommend taking the exams in.  After earning your CCNA, I recommend you begin studying for the BSCI exam immediately.  You will find the fundamentals you learned in your CCNA studies will help you a great deal with this exam.  You're going to add to your CCNA knowledgebase quite a bit when it comes to OSPF and EIGRP, as well as being introduced to BGP.
+
+I don't have a preference between the BCMSN and BCRAN exams, but I do recommend you take the CIT exam last.  You'll be using all the skills you learned in the first three exams to pass the CIT. It's a very demanding exam, and it's a little hard to troubleshoot technologies that you haven't learned yet!  
+
+The CCNP is both financially and personally fulfilling.  Once you complete your CCNA studies, take a little breather and then get started on your CCNP studies.  The more you know, the more valuable you are in today's ever-changing IT job market.
+
+

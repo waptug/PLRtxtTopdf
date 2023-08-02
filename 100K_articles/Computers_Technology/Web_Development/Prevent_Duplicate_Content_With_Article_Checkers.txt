@@ -1,0 +1,40 @@
+Title: 
+Prevent Duplicate Content With Article Checkers
+
+Word Count:
+788
+
+Summary:
+With the rise of technology and Internet-dependence, duplication of content has indeed proliferated. Students have almost unlimited access to many online resources that they could easily print and claim as their own. Marketing campaigns that use duplicate content articles to optimize search engine results. Even blog authors may or may not be aware that some of their posts are actually duplicate content. Some people brush it off like it's not even a big deal -- until they get ...
+
+
+Keywords:
+duplicate content, article checker
+
+
+Article Body:
+With the rise of technology and Internet-dependence, duplication of content has indeed proliferated. Students have almost unlimited access to many online resources that they could easily print and claim as their own. Marketing campaigns that use duplicate content articles to optimize search engine results. Even blog authors may or may not be aware that some of their posts are actually duplicate content. Some people brush it off like it's not even a big deal -- until they get caught, that is.
+
+The Problem with Duplicate Content
+ 
+There's no doubt that plagiarism is the easiest way to generate content. But why would you even present unoriginal material to your readers when they could easily find it elsewhere? If you really reflect on it, quick-and-easy content isn't all it's cracked up to be. A website or blog, for example, won't rank as well because the material has already been published. You can't expect search engines, like Google, to simply let it go. In fact, Google expresses a strong opposition toward duplicate content. Google filters out websites with duplicate content by using the Supplemental Index of its database. The GoogleBot crawls websites and looks for similar strings and content among the pages. It then eliminates websites with duplicate content by getting only a fraction from this collection. Let's say that your website bears duplicate content with a thousand other webpages. The GoogleBot will only pick a small number of these websites to include in its searches while the rest will be delegated to the Supplemental Index. Your site can be pushed way below the pack and might not even appear in the first 10 pages of search results.
+ 
+A site delegated to the bottom of the pack is frustrating but having your site taken down by the owner of your copied content is unfortunate and, to some extent, humiliating. The Digital Millennium Copyright Act (DMCA) was passed by the US Congress in October 1998 and got its approval by President Clinton in just weeks. This law generally states that original rights owners are able to file DMCA forms with website hosts to get plagiarized content removed from their servers. Simply put, this means that if you copied your content from someone else's site, he or she can file a complaint that you violated the DMCA. In turn, your website can be taken down from its server and all your hard work flow down the drain. 
+
+The Solution to Avoid Duplicate Content
+
+As it is, it is imperative that your site must have original content. But how can you be sure when there are probably millions of webmasters or Web publishers out there thinking about writing an article similar to what you are doing? The solution is quite simple: use an article checker. In fact, there are several advantages using an article checker can give you:  
+ 
+1. An article checker helps you write original content.
+
+By using an article checker, you avoid committing plagiarism. When you key in a particular keyword for your research, search engines only give you those that rank above the rest. What if there is one website in the last 20 pages or so of the search results that bear striking similarities or even duplicate strings with your article? An article checker crawls Web pages and shows you how many pages bear the same strings. It "checks" your content against other published materials online and, most often than not, even your own sources. After analyzing your material, it displays a percentage result stating how similar -- or original -- your work is compared to others.
+ 
+2. An article checker lets you protect your website content.
+
+What if you labored day and night to produce original Web content wholly convinced that these carefully optimized articles can boost your page rank? You publish these articles and see a marked increase in your rankings. You're happy -- then overtime, your website does not even appear in the top 50 results. What happened? Someone or some people might be having a field day doing a mishmash of your articles, rewording some parts, then passing them off as their own. If you suspect as much, use an article checker. Since an article checker functions just like a duplicate content checker, it will track websites with contents that are the same as yours. When you find them, then it's high time you file your own DMCA complaint.
+ 
+3. An article checker boosts your page rank.
+
+There is a simple formula to come out on top of search engines' results: original and quality optimized content. An article checker can give you this as an indirect result of its two functions as enumerated in the previous sections. With your original content and without your plagiarizing competitors, your website is ready to take its spot at the top.
+
+

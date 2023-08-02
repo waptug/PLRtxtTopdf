@@ -1,0 +1,92 @@
+Title: 
+The Theory Of Meaningless Numbers (TMN01)
+
+Word Count:
+1423
+
+Summary:
+What is a meaningless number?
+
+Meaningless numbers are ID and CODE columns which uniquely identify a record in a database table. They were made up by computer programmers, and in traditional programming, they formed the first entry window where you were responsible for remembering that “D” means Doctor, and “402” is your best customer. Since it would be wrong to discriminate against an entry window just because it’s a letter and not a number [age of equality] I’ll include m...
+
+
+Keywords:
+Visual DataFlex, DataFlex, Applause Software, Peter A Donovan
+
+
+Article Body:
+What is a meaningless number?
+
+Meaningless numbers are ID and CODE columns which uniquely identify a record in a database table. They were made up by computer programmers, and in traditional programming, they formed the first entry window where you were responsible for remembering that “D” means Doctor, and “402” is your best customer. Since it would be wrong to discriminate against an entry window just because it’s a letter and not a number [age of equality] I’ll include meaningless letter combo’s in this theory also.
+
+The point?
+
+Users should not be required to remember “402” for General Electric of Massachusetts and “791” for General Electric Turbine Division”, but programmers should indeed still make use of them as the basis of relationships between database table records. Just don’t expect the users to enter or remember them: the truly meaningless numbers and codes can be totally hidden from users and as a study, I will refer to RoloFlex by Applause Software as a good example where each table is based on a unique meaningless number. [reference: http://www.applausesoftware.com/: free RoloFlex]
+
+What is a meaningful number?
+
+A meaningful number is those database records that are referred to commonly by number such as PO #4067, Sales Order #1, and Speeding Ticket #352-4635A. These numbers exist on paper and are the primary way of referring to a record of this type. When you go to look up my speeding ticket, you might indeed look it up under my name also, but when a payment is received [good luck] you want to be able to enter the printed number 352-4635A and quickly locate and apply payment before my check bounces.
+
+Can a meaningful and meaningless number co-exist?
+
+Yes. Numeric meaningless numbers are the foundation of unique identifiers of each record, and a meaningful number can co-exist as [both] uniquely indexed [findable] columns in the same data table.
+
+There’s a space here while the programmers hold their heads.
+
+Let’s say you are a database programmer and know that numbers rather than a string which varies in length [throwing off the sort order completely] should be the foundation of the database record [for speed and relationship purposes only], you can program your unique (meaningless) ID column of speeding tickets, and also have a unique (meaningful) column which is ascii [mixed numbers and letters] which is used for finding it.
+
+Why not make the key column a automatic increment number for relation purposes alongside a humanly enterable column consisting of alpha-numeric characters? Hands please? How many programmers have written 200 lines of code to auto-increment “#352-4635A”? The role of the meaningless number is to get auto-incremented in 1 line of code, being totally hidden from the user, and the foundation of the relationship to it’s parent database table. The role of the Speeding Ticket number is to humanly find a record more easily than 12342345345565.
+
+Table Layout Proposed:
+
+-Fines-
+
+Column: Element: Type: Length: Index: Relates To:
+1 ID Numeric 16.0 1 (unique)
+2 TicketNo Ascii 20 2 (unique)
+3 VIN_ID Numeric 10.0 3 VIN.ID // Not VIN (Ascii Field)
+4 SSN_ID Numeric 10.0 4 SSN.ID // Not SSN (Ascii Field)
+
+-VIN-
+
+Column: Element: Type: Length: Index: Relates To:
+1 ID Numeric 10.0 1 (unique)
+2 VIN Ascii 20 2 (unique)
+
+-SSN-
+
+Column: Element: Type: Length: Index: Relates To:
+1 ID Numeric 10.0 1 (unique)
+2 SSN Ascii 11 2 (unique)
+
+This structure makes use of meaningless numbers and meaningful numbers side by side, each fulfilling their job.
+
+Hopefully there is a programmer slapping his/her head here like the V-8 commercial.
+
+The ROLE of a meaningless number:
+
+Let’s face it. Meaningless numbers are here to stay. Everybody’s got one, but programmers are still stuck on what to do with them. HIDE THEM! In a relational database model, where the child is related to it’s parent by the ID, the value will automatically drop down to the child upon a successful save, making display of this number absolutely unnecessary. I should point out that many good programming firms are based on “Intelligent Design” such as Auto-Mate Software of the USA http://www.automatesoftware.com. Please visit this site to read about the story about “Enter the field matrix number”…. It’s a great story.
+
+Let’s go a step further and call a byte a byte. Whether it’s a field matrix number or a part number, due concern needs to be put into the design of a “key field” lookup to determine whether or not it’s meaningful or meaningless. On a part number, why not both? To programmers, here’s my argument: why not use this technique so that if the part number is mis-entered, or changes, you can simply reenter the part number without altering the relationship? Madness or magnificent? It’s your opinion that counts.
+
+Let’s take an example in RoloFlex 12.3 from Applause Software (open source and freeware). The database tables all have a unique ID that is 10 digit numeric: Please refer to the running program and you will see that none are visible. In addition, I have coded the key fields as “noenter” so that if they were made visible, they could not be used! Ten digit ID numbers for everything? Meaningless or Madness?
+
+Hands again? Each programmer who has had to increase a user’s key ID field from 6 to 8 to accommodate 20 years of data entry please stand up! I’ll bet there are a good many among us. Let’s also note in passing that dates on computers are stored as 6 digit integers, and in the western world we are almost out of numbers in the six digit length! Why have we not expanded our dates to 8 or 10 digits? I guess we’ll have to wait until “Y6K” to find out!
+
+The design of meaningless numbers in action:
+
+Let’s take on a RDBMS [relational database management system] example and specifically look at parent and child table design. My first point should be obvious to most programmers, that a parent ID field is used to uniquely identify the parent but (being meaningless) is not displayed to the user at all. In RoloFlex, please note that the parent database tables of the main table have a unique ID which drops down into the main table upon a save, forming the relationship without being seen.
+
+Please note (when inspecting the inner table def's for RoloFlex tables) that the Key ID column has a noenter attribute, meaning that the user cannot change or type in a new value to that column should it appear on the screen. It is auto-incremented from the system file “sysfile” and is totally meaningless to even the database designer other than being a unique value. No surprises here, but let’s look at a child table to see the same technique:
+
+So, what’s the surprise here? On many occasions, I have noticed the lack of a single unique key field on child records. For example, the child of order header would have a key combination of HeaderID and Linenumber. If I applied the same consideration to the CallHist table, then there would be a combo of RolodexID and Call Date as the first index. What [the used] this technique does is to form the basis of a future child table to CallHist. From the get-go, a strong ID field exists to form a potential one-to-one column relationship to a child of CallHist which may exist in the future. The point, then, is to always program an ID column as a unique meaningless number for every table and index it accordingly. Then, progress onwards to specifying all the other columns of the database table.
+
+As an extra bonus, you will see that “recnum” or record number is not defined in any of the indexes making a move from any one back end to another manufacturer’s back end a relatively easy job.
+
+Whitepaper Summary:
+
+I believe I have defined the difference between a meaningful number and a meaningless number and stated that meaningless numbers have no place in data entry! On the other hand, the argument for placing a meaningless number as the foundation of your relationships overwhelms the reasons that you might have for designing a meaningful number as the relationship key: It is my contention that an alphanumeric or string column has no place as the relationship key, and lastly that each table should have an ID field for forming the relationship which totally frees you to change the secondary key column with data entry without compromising the relationships.
+
+Let end users see meaningful numbers only, but put your foundation on “meaningless design” with [hidden] data architecture!
+
+

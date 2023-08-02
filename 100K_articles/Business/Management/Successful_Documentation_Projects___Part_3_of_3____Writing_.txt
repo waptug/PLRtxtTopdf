@@ -1,0 +1,107 @@
+Title: 
+Successful Documentation Projects – Part 3 of 3 – ‘Writing’
+
+Word Count:
+1222
+
+Summary:
+So you understand your user documentation project and you’ve specced it out. Now you’re ready to write. Here’s some tips to help you on your way. This article isn’t about the actual writing itself; it’s about the things which go along with the writing. (For information on writing online help, see www.divinewrite.com/helpfulhelp.htm.)
+
+
+Keywords:
+documentation projects
+
+
+Article Body:
+So you understand your user documentation project and you’ve specced it out. Now you’re ready to write. Here’s some tips to help you on your way. This article isn’t about the actual writing itself; it’s about the things which go along with the writing. (For information on writing online help, see www.divinewrite.com/helpfulhelp.htm.) 
+
+NOTE: This is the final article in a series of three outlining the key elements of a good user documentation process. (To read the first and second articles in this series, go to http://www.divinewrite.com/docoprocess1.htm and http://www.divinewrite.com/docoprocess2.htm.)
+
+Indexing
+
+Index keywords should be defined while the topic is being written.  At this time, the subject matter is clear in the author’s mind, and they are very conversant with all of the intricate details.  Indexing during the writing stage also means that your keywords are reviewed as part of the draft process.  
+Some authoring tools don’t really facilitate this kind of approach particularly well (e.g., some don’t allow multiple author access to the files needed for indexing), but at least the keywords should be listed at the end of each draft.  (Depending on the authoring tool, this may actually be easier for the reviewers, anyway.) TIP: For further information on indexing, see The Art of Indexing (1994) by Bonura.
+
+User documentation reviews
+
+To ensure that your user documentation is technically correct and readable, you need to get it reviewed by an intelligent selection of people.  For a software project, your review list should include a subject matter expert (generally the programmer), the software architect, perhaps the project manager, and another writer.  The review requirements will vary with each draft, so your reviewers and review procedures should be documented in your work pracs.
+
+Testing your user documentation
+
+Testing can be performed at a number of levels:
+
+•	Each writer should test their own user documentation by following it to use the product. But remember, this kind of testing isn’t very powerful, because there’s a tendency for writers to follow instructions as they think they’ve written them, not as they’ve actually written them.  
+•	The second level is for the testing to be performed by other writers… as part of the peer review.  
+•	The third level is for the testing department to do formal testing on the user documentation.  This type of testing doesn’t often happen, but it’s good to try to get it happening. 
+•	The fourth level is/should be conducted as part of Beta testing (see Managing Your Documentation Projects by Hackos (1994), pp.452-453).
+
+No matter what level of testing you use, it should be designed to ensure that the tasks documented are true to the product, and that any online help functions correctly.  For the user documentation to pass testing, it needs to satisfy the goals you specified in the earlier stages of the project.
+
+Localising your user documentation
+
+Although localisation is often considered a post-writing activity, it’s best to do it as part of the writing stage.  The exact timing may vary project to project, but a good rule of thumb is to get the translators working on the second drafts (but only if you’re not expecting many changes to the draft).  TIP: Most translators will probably prefer to work on a sizable piece of user documentation, rather than individual topics sent to them piece-meal, so you should wait ‘til you have something of a respectable size to send them – perhaps a whole subject area, as opposed to a single topic. 
+
+With localisation, you’re performing a balancing act.  If you send the user documentation to the translators too soon, you’ll spend a lot of money on changes to the translations.  If you send it too late, it won’t be ready in time for the release of the product.
+
+Managing change
+
+It’s important that you minimise the impact of changes to the product and/or development schedule.  To do this, you need to develop a technique which:
+
+1.	Identifies the change
+2.	Estimates the impact in time and/or resources *
+3.	Informs the project manager
+
+* You can use the same estimating techniques as you used earlier in the project.
+
+Tracking writing progress
+
+It is important to note that the writing stage is not simply about writing.  If you track your progress at every step along the way, you’ll be able to see whether you will meet your milestones and deadlines, and you’ll also be able to use this project as a learning experience… to better plan the next one.  (You should ensure that all project records are easily accessible for ongoing maintenance and future project reference.)
+
+You should track the time taken to perform every step outlined in this procedure as well as each draft stage, review times, total turnaround times, etc.
+
+Conducting regular team meetings
+
+In order to keep all team members informed of writing progress, you should conduct regular team meetings.  These meetings should be a forum for taking a look at your tracking metrics and discussing the estimated percentage complete for the various topics currently under way.  If the estimated percentage complete is lower than it should be given the time already spent, then you can act on it.  These meetings allow you to identify hitches in the writing progress.
+
+Writing progress reports
+
+Your management also need to be kept informed of the status of the project.  You should write periodic progress reports outlining:
+
+•	Where the project is at
+•	What you’ve done over the last month
+•	What you plan to do over the next month
+•	Any issues you’ve encountered
+ 
+Manage Production
+
+The meaning of “production” varies depending on what kind of documentation you’re working on and who the audience is.  It can encompass such things as:
+
+•	Printing
+•	Binding
+•	Product build (when the help is compiled into the product)
+
+Although the production stage generally only requires management, you still need to spend a fair bit of time on proofing and liaising with production people.
+
+Evaluate the Project
+
+The purpose of the evaluation stage is to consider:
+
+•	Did the project go according to plan?
+•	Why? / Why not?
+•	How individual team members contributed to the overall project.
+•	How the project manager performed.
+•	Whether the documentation achieved its goals.
+
+Your tracking metrics will come in handy during this stage; if there were any flaws in the project progress, they should go some way towards identifying them.  You might also use the sample evaluation report provided by Hackos in Managing Your Documentation Projects by Hackos (1994), pp.514-518.
+
+Is your documentation successful?
+
+Now that you’ve written and released the documentation, you need to determine whether it has achieved your goals.  The only way to accurately do this is to conduct further user research.
+
+TIP: For details on research methods, take a look at Managing Your Documentation Projects by Hackos (1994), User and Task Analysis for Interface Design by Hackos & Redish (1998), Social Marketing: New Imperative for Public Health by Manoff (1985), Designing Qualitative Research 2nd Edition by Marshall & Rossman (1995), and “Conducting Focus Groups – A Guide for First-Time Users”, in Marketing Intelligence and Planning by Tynan & Drayton (1988).
+
+And that’s it! Remember, this process is an ‘ideal’ process. Take the bits that suit you and your project, and leave the bits that don’t.
+
+Good luck!
+
+

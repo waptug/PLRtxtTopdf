@@ -1,0 +1,30 @@
+Title: 
+Recover Deleted Excel Spreadsheets
+
+Word Count:
+622
+
+Summary:
+DiskInternals Excel Recovery is designed specifically to find and recover Microsoft Excel XLS spreadsheets safely and securely, no matter how badly your hard drive or the file system are damaged.
+
+
+Keywords:
+excel recovery, data recovery software, undelete, xls, FAT, NTFS, CD, DVD, hard drive
+
+
+Article Body:
+Today, Microsoft Excel clearly possesses dominant market share in the spreadsheet product market. Its proprietary XLS format is compatible throughout the range of Microsoft Excel versions, and is a de facto standard at home and in the office. It is hard to overestimate the number of spreadsheets and the amount of important data stored in XLS files all over the world. But what if your computer's hard drive fails and you lose access to all spreadsheets? Or what if you simply delete an XLS spreadsheet on which you've spent hours of work?
+ 
+Don't panic! Everything may not be lost just yet, and you may be able to recover all information without a sweat. To maximize your chances of successful recovery, minimize your activity on the computer where the lost files were. While you cannot be completely sure that Windows does not write anything on the disk that stores your lost files, the goal is essentially to limit disk write operations until you get back all important data from that disk. Any data that's written on a disk that contains deleted or inaccessible data on it can, and probably will, overwrite the deleted files on the disk and destroy information that was stored in them.
+ 
+Anecdotally, one of the worst things you can do is looking for a tool that will undelete or recover your XLS files, installing and trying out such tools in action. On a typical PC, any Web page you open in a browser will cause several file writes to a hard drive, reducing your chances of successful data recovery. Any program that you download or install is also written to your hard disk. Finally, as not all products are equal, running a wrong type of data recovery application bears an unacceptably high risk of losing your lost Excel spreadsheets forever.
+ 
+DiskInternals Excel Recovery is designed specifically to find and recover Microsoft Excel XLS spreadsheets safely and securely, no matter how badly your hard drive or the file system are damaged. If you simply deleted an XLS file, DiskInternals Excel Recovery will look up the file system to find all XLS files that were deleted recently, and test each file for the possibility of successful recovery. In bad cases or if your hard drive crashed or the file system is corrupt, DiskInternals Excel Recovery will scan entire hard drive's surface in order to locate Microsoft Excel spreadsheets that aren't marked in the file system. The product uses a list of signatures associated with Microsoft XLS file format in order to detect precisely the beginning and end of each and every Microsoft Excel spreadsheet on your hard disk, extracts and validates their contents and metadata on the fly. This method works even on disks that are completely inaccessible in Windows!
+ 
+The product matches the results obtained with the file system scan against those obtained by scanning surface of the hard disk, and displays the complete list of recoverable Excel spreadsheets along with their file names, metadata and contents, giving you the best possibility of successful recovery.
+ 
+If you only need to recover the latest version of an Excel spreadsheet, you can use "On the Fly" filters that allow to only showing XLS files with specific title, created by specific author, or the files that contain certain text, are of a certain size, or are last saved on a specific date. The free version of DiskInternals Excel Recovery allows full file preview to ensure that you can recover exactly the files you need.
+ 
+Download and try an evaluation version for free from http://www.diskinternals.com/.  You only need to purchase when you see for yourself that DiskInternals Excel Recovery provides you complete recovery of your XLS files in your particular circumstances.
+
+

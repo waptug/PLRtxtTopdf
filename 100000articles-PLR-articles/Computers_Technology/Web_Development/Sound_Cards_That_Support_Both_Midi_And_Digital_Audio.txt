@@ -1,0 +1,24 @@
+Title: 
+Sound Cards That Support Both Midi And Digital Audio
+
+Word Count:
+373
+
+Summary:
+There is more than one reason why you might want a sound card that will support both MIDI files and digital audio files such as WAVE or MP3. Maybe you want to record your MIDI files in a format that can play on non-MIDI enabled equipment (you might get a wild hair and decide to email your romantic masterpiece to your girlfriend so she can play it on her computer or transfer it to CD). Or you might want to add lyrics to your MIDI composition (FYI, MIDI cannot create the sound ...
+
+
+Keywords:
+MIDI, MIDI interfaces
+
+
+Article Body:
+There is more than one reason why you might want a sound card that will support both MIDI files and digital audio files such as WAVE or MP3. Maybe you want to record your MIDI files in a format that can play on non-MIDI enabled equipment (you might get a wild hair and decide to email your romantic masterpiece to your girlfriend so she can play it on her computer or transfer it to CD). Or you might want to add lyrics to your MIDI composition (FYI, MIDI cannot create the sound of human voices because humans do not come equipped with MIDI IN and MIDI OUT jacks!).
+
+Most sound cards can support both kinds of files (be sure to confirm with your dealer). Many cards include a built-in MIDI sound module that functions as a MIDI interface card and an external MIDI sound module all rolled into one. Although its functions and performance may be somewhat more limited than a MIDI interface card/ MIDI sound module combination, it is likely to be a lot cheaper as well. Such a card will play MIDI data that a program sends to it – that’s right, it can generate MIDI music all by itself. Since it also supports digital audio files, this kind of card is about as multi-purpose as you could possibly expect.
+
+Additionally, MIDI cards are usually set up to follow the General MIDI standard, meaning that they can play up to 16 “patches” (electronic instruments) at once, with each patch under the independent control of the musician. That means up to 16 different melodies and/or rhythms playing at once, as well as independent volume control, pitch control…I could go on and on because there are a lot of different MIDI commands that can be independently manipulated in order to create astonishingly complex compositions – Mozart would have been drooling if he had anticipated it.
+
+Some cards also allow you to take a WAVE digital audio file and set it up as its own “patch” (in other words, the recorded audio becomes your own customized MIDI “instrument” that you can add to your pre-existing MIDI patch set and put into to your MIDI composition and manipulate just as you would a General MIDI patch.
+
+

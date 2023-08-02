@@ -1,0 +1,32 @@
+Title: 
+Hang Up The Phone And Fix Your It Problem Yourself
+
+Word Count:
+914
+
+Summary:
+Information technology (IT) problems can be one of the most frustrating problems facing both homeowners and small business owners. For many, the source of this frustration is problems with the Internet connection. Both homeowners and small business owners rely on their Internet for their daily activities and when there is a problem with their connection it can delay business. They usually do not have a dedicated, onsite IT staff and often have nowhere to turn except the custo...
+
+
+Keywords:
+it,wireless network
+
+
+Article Body:
+Information technology (IT) problems can be one of the most frustrating problems facing both homeowners and small business owners. For many, the source of this frustration is problems with the Internet connection. Both homeowners and small business owners rely on their Internet for their daily activities and when there is a problem with their connection it can delay business. They usually do not have a dedicated, onsite IT staff and often have nowhere to turn except the customer service department of their Internet service provider (ISP). Although the customer service department may be knowledgeable and helpful, they are also usually small in number compared to the customers with questions or problems. This can mean minutes or even hours spent on hold waiting to ask a question. Fortunately there is a better solution. With a little bit of education, these same homeowners and small business owners can learn to fix some of the simpler problems so they won’t be put in the position of being reliant on customer service. This article will illustrate some of the common Internet problems and offer suggested solutions for these common problems.
+
+Homeowners and small business owners who depend on email for imperative communications may be troubled by difficulties when email functions aren’t working properly. Before picking up the phone and dialing customer service there are a few things the individual can try for themselves. Not being able to open attachments, receive or send emails are just a few of the common problems.
+
+If an attachment is not opening properly it may mean the user is trying to open the application in an incorrect program. Try opening the document in a text editor such as Notepad or Wordpad. If this doesn’t work contact the individual who sent the email and ask them the application used to create the attachment. If the correct application is available, try saving the attachment and attempting to open it with the, "Open with," option. This is available by right clicking on the file name. An alternative solution would be to set the correct application for the default for the particular file extension. This can be changed through the "File Types" tab of the folder options dialogue box.
+
+Difficulty sending or receiving emails may involve more complex analysis. There are, however, still a few simple things to check before contacting customer service. If both sending and receiving emails are problematic, one of the most common errors is not actually being connected to the Internet. Verify the connection was made and if it is found to not be valid, attempt to reconnect. If sending is not an issue but receiving is, there may be an email with a large attachment attempting to come through. This can be difficult and may create delays in receiving emails. If this problem is suspected, accessing email through a web application may be helpful. The attachment can often be saved to the hard drive through the web application. There may also be problems with sending emails while there are no issues with receiving. If this is the case, it is often useful to verify the user name and password for SMTP authentication is correct. Both the user name and password can be case sensitive.
+
+Viruses are another problem faced by homeowners and small business owners. If a virus is suspected or an email recipient had a virus transmitted from your account, it is possible the computer has been affected by a virus. This may be the result of non-existent virus detection software, virus detection software which has not been updated or a virus which was not recognized by the virus detection software was acquired. If the virus detection software is non-existent or not properly updated, it is time to install a program or update it. This may correct the problem. However, if it is not corrected by the installation or update of a virus detection program, contacting customer service may be required to ensure no further damage is done by the virus.
+
+Not being able to access a particular website is another common problem. If this occurs and other websites are functioning correctly, verify the address is correct. If the correct address is being used, there may be problems with the host server. Wait an hour or so and attempt to access the website again. If no websites are accessible, there may be other problems. Try rebooting the computer and re-establishing the Internet connection. If this does not fix the problem, contact your ISP, they may be having problems which are affecting service for their customers. ISPs often update their voice message to indicate they are aware of the problem so it may not take long to find out if there is an existing problem.
+
+Another common problem accessing websites may be the parental control settings. These settings may deny access to websites with adult or otherwise offensive content. The user can customize these settings to filter or allow access to any type of content they desire. If the user suspects this as the cause of the problem adjustments can be made to this setting in the "Content" tab of the Internet options dialogue box.
+
+Although this list of common Internet problems is by no means conclusive, it does provide the reader with a few of the most common problems and possible fixes for these problems. This can give the homeowner or business owner a few tools for fixing their own problems before spending hours waiting for customer service.
+
+

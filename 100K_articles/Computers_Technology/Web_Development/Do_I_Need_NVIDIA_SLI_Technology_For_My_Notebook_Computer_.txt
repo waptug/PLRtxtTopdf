@@ -1,0 +1,40 @@
+Title: 
+Do I Need NVIDIA SLI Technology For My Notebook Computer?
+
+Word Count:
+443
+
+Summary:
+When shopping for a notebook computer, there are a few things that you should consider before making your purchase. Of course, the price is one of the primary determining factors when deciding which notebook to get, however, there's one other thing that should be considered even before you and your computer salesperson talk about price. You must carefully check a notebook computer's specifications – see what it has 'inside' – so that you can establish whether it is particular...
+
+
+Keywords:
+sli,nvidia sli,sli for notebooks,sli laptops,sli notebook computers,laptops,notebooks,notebook compu
+
+
+Article Body:
+When shopping for a notebook computer, there are a few things that you should consider before making your purchase. Of course, the price is one of the primary determining factors when deciding which notebook to get, however, there's one other thing that should be considered even before you and your computer salesperson talk about price. You must carefully check a notebook computer's specifications – see what it has 'inside' – so that you can establish whether it is particularly suitable for the portable computing tasks that you have in mind.
+
+NVIDIA SLI Technology
+
+SLI (Scalable Link Interface) is a proprietary technology developed by NVIDIA, an acknowledged world leader in graphics processing technologies. NVIDIA is responsible for some of the most commonly used programmable Graphics Processing Units (GPUs) in PCs all over the world today.
+
+A Graphics Processing Unit or GPU is a dedicated graphics-rendering device. High graphics resolution (visual realism) and fast graphics rendering are the chief advantages a GPU has over integrated graphics.
+
+For increased graphics output, NVIDIA has developed their SLI technology, which facilitates the link-up of two GPUs. The SLI application rests on the premise that a computer's graphics processing speed and performance can be increased significantly (up to 2X over a single graphics solution) by combining the graphics processing power of two GPUs. In effect, when the computer user is calling up a 3D image, the two GPUs share the graphics-processing load resulting in smoother performance and faster load times.
+
+NVIDIA SLI Technology In Notebook Computers
+
+It has long been a point of frustration for notebook computer users that graphics processing in desktop computers is far more satisfactory than in notebooks. That is why the introduction of NVIDIA SLI technology for notebook computers in 2006 was very exciting news for these hardcore PC enthusiasts.
+
+With NVIDIA SLI for notebook computers, two mobile GPUs (particularly the NVIDIA® GeForce® Go 7950 GTX), which have graphics processing capabilities comparable to desktop GPUs, can now be bridged for extremely high-speed, high-quality graphical performance in notebook computers.
+
+Why You Need NVIDIA SLI Inside Your Notebook Computer
+
+If you are a computer games aficionado who just has to play Doom, Half-Life, Chronicles of Riddick, Age of Empires, Tomb Raider, or any other GPU-intensive game wherever you are, than you better look for an NVIDIA SLI-ready notebook computer. Combine the power of two NVIDIA mobile GPUs, the parallel graphics processing rendered by NVIDIA SLI, and a high-resolution LCD and you will have intensely realistic graphics and an immensely satisfactory gaming experience with your notebook computer.
+
+This article may be republished freely as long as this copyright notice and box of resource links are included at the bottom.
+
+Copyright © 2007 MALIBAL, lLc
+
+

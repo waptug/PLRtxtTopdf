@@ -1,0 +1,37 @@
+Title: 
+Going Beyond Search
+
+Word Count:
+821
+
+Summary:
+Are search engines really as good as they should be? 
+Going beyond just plain search and reaching out to more intelligent solutions.
+
+
+Keywords:
+search, seo, intelligent platform, NLP, linguistic, linguistic agents, natural language
+
+
+Article Body:
+Search, Search, Search, that's all that people are talking about today. Google, Yahoo and Microsoft are competing with each other to try to be the number one search engine. Why? Because the number one search engine gets huge amounts of traffic and traffic equals revenue. Whether it is from ads or from services they can market, search engines stand much to gain from 'being number one'.
+
+But do the search engines as they stand today fit the demands and requirements of the next generation of internet users? 
+
+As the internet grows and the amount of information on it becomes so immense that for every simple search you get thousands of results, the efficiency of the search engine goes down. The search algorithms spend most of their time and computational resources trying to eliminate spam. As a result they can barely keep up with the load of information, let alone sort it in an efficient and intelligent way. So what happens to us, the end user, is that we don't get what we are really looking for. Now it takes longer to search through the search results than it takes to actually read the information being searched for.
+
+Search engines must migrate to more intelligent ways of sorting data and handling search queries in order to keep up with the new generation of internet users, who are already finding alternatives to search because of lack of satisfaction. Blog communities, forums and other alternatives to search engines are becoming more and more popular these days, mainly because the search engines aren't as good as they should be and it is hard to find information searching on them.
+
+An understanding of the information written on the web page and the query typed into the search box would help the search engines better themselves in every aspect of the process. The understanding of the information on the web page will enable the search algorithm to sort the page appropriately. Understanding the query can help the search engine supply more accurate results to the user being that the search engine knows what the user is looking for, not only the words the user entered in the query. An added bonus the search engine would get from understanding the query is that the ad engine can put more relevant ads on the page and hence greatly increase the advertising revenue. 
+
+Even some of the most basic elements of understanding are lacking in today's search algorithms. None of the search engines on the web today can resolve even the most basic ambiguity or understand other basic language elements like negation (not, besides, without etc..). Breaking the sentence down to its basic meaning would allow the algorithm to handle negation, and even more difficult tasks such as understanding a question placed in the search box. 
+
+For example, if a user searches for this: "I really need a cheap car that gives good gas mileage" an intelligent, understanding robot would be able to understand that the user is not looking for the words that describe the query, and only search for "cheap car, good gas mileage" and omit the words "I really need a" and "that gives" from the search query. Not only that, if the search engine is intelligent and has a knowledge base behind it, it will be able to know which cars are cheap and give good gas mileage and return those results, not limiting the results to the pages containing the words "cheap car, good gas mileage".
+
+Most of the technologies needed to enable the above mentioned features have been around for a long time, but have not come to good use due to the lack of a strong syntactic engine. Linguistic Agents Ltd (LA), in Jerusalem Israel has developed such an engine that can enable all of these features plus many more. The technologies LA has created break the sentence down into a basic predicate/argument structure allowing the computer to extract the meaning of the sentence from the resulting output. These technologies use the latest advancements in theoretical linguistics and breaks the sentence down to its basic meaning almost in the same way that the brain breaks down the meaning of a sentence. This advanced level of understanding allows for extremely intelligent computation including, but not limited to, the intelligent search examples listed above.
+
+Imagine a new age of computation where computers understand what they are told. All of this is made possible by LA's advanced algorithms. Not only are these algorithms extremely advanced, they are also very light weight. The entire Intelligence Engine is so small it can be imbedded in client side Flash movies or even in AJAX applications. This would allow the search engines to parse the query and extract the core meaning and only then transmit the query to the server, saving valuable resources.
+
+Things are going to change as we move to more intelligent applications and "Go Beyond Search".
+
+

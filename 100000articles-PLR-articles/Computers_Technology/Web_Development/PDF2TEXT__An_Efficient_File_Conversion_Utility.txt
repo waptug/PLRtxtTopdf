@@ -1,0 +1,28 @@
+Title: 
+PDF2TEXT, An Efficient File Conversion Utility
+
+Word Count:
+507
+
+Summary:
+For many computer users, converting PDF files into text files can be very time-consuming. To rectify this problem, many IT companies have developed software programs like the Pdf2text program that can accomplish the conversion of these files efficiently.
+
+Before understanding how these file conversion programs work, it is vital that the concept of PDF be understood. This acronym stands for Portable Document Format, a file format that was developed by Adobe Systems for the p...
+
+
+Keywords:
+pdf2text,converting pdf to text,pdf to text
+
+
+Article Body:
+For many computer users, converting PDF files into text files can be very time-consuming. To rectify this problem, many IT companies have developed software programs like the Pdf2text program that can accomplish the conversion of these files efficiently.
+
+Before understanding how these file conversion programs work, it is vital that the concept of PDF be understood. This acronym stands for Portable Document Format, a file format that was developed by Adobe Systems for the purpose of document exchange. It was largely used to represent documents that are two dimensional in a document format that is independent on device and display-resolution. The use of the PDF commenced in the early part of the 90s but it was not widely used until after some time. The early versions of PDF tools like the PDF viewing and PDF printing software had to be bought so that a computer user would be able to enjoy the advantages of using PDF files.
+
+Eventually, PDF became the standard for documents that are printable. Adobe Systems also distributed for free the Acrobat Reader program. Since its emergence in the market, Adobe Acrobat has already released eight versions of the program. Adobe owns PDF patents but the company licenses them without any royalty payments when it is used to develop any software that conforms to PDF specs. Simply said, anyone can produce computer applications that are capable for writing and reading PDF files without having to pay for royalties.
+
+A PDF file typically consists of eight types of objects namely, Boolean values that represent true or false, numbers, strings, names, arrays or collection of objects arranged in order, collections of objects that are grouped by names or dictionaries, streams that often consist of large data and the null object. These objects may be difficult to decipher when printed which is why programs that convert PDF into regular text files are needed. Some people choose to copy and paste a PDF file but this task is very time-consuming. Other PDF users choose to use the “save as text” option of the Adobe Acrobat but ordinary software often display inaccurate text especially for foreign languages like Chinese, Japanese and Korean.
+
+PDF2Text is a plug-in tool for conversion by Acrobat that can be used to transform PDF files into plain text files. This standalone software application can be used even without Adobe Acrobat or Adobe Reader software. This conversion utility was primarily designed to help computer users manage their PDF files. Some of its features that many users find remarkable are its ability to do speedy processing and conversion of multiple PDF files to text files all at the same time. It also provides several user options like vertical formatting, extraction of page range, text sorting, automatic configuration loading and saving, page number output and paragraph formatting. Moreover, this application also supports all Window versions from XP to Vista as well as several foreign languages. Trial versions of the PDF2Text can be downloaded especially for those who are not yet fully convinced of its efficiency.
+
+

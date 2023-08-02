@@ -1,0 +1,66 @@
+Title: 
+Cisco CCNA Certification:  The Importance Of Hands-On Practice
+
+Word Count:
+521
+
+Summary:
+CCNA candidates hear about the importance of hands-on practice - but why is it so important?  Chris Bryant, CCIE #12933, tells you!
+
+
+Keywords:
+ccna, ccnp, free, pass, exam, cisco, certification, computer, mcse, ccie, chris, bryant
+
+
+Article Body:
+CCNA and CCNP candidates hear it all the time: “you have to get some hands-on experience to pass the exams”.  
+
+ 
+
+Candidates tend to think that’s just so they can solve the simulator problems, but that’s only the more obvious reason.
+
+ 
+
+First, I want to make it clear that I’m not bashing learning from books you have to learn theory before you can really know what’s going on in the first place.   The key is that to truly understand routing and switching processes, you’ve got to have that hands-on experience.
+
+ 
+
+So if the simulator questions are the more obvious reason to get hands-on experience, what are the less obvious reasons?
+
+ 
+
+Glad you asked!
+
+ 
+
+You see what happens when things don’t go according to the script.   One of the biggest problems with learning your skills on software programs such as “router simulators” is that with simulators, things go pretty much as planned.
+
+ 
+
+I have news for you: that doesn’t always happen in the real world.  While Cisco routers and switches are highly reliable devices, every once in a while you’re going to get an unexpected result from a command.   Maybe it didn’t work after you typed it in maybe it has an effect on your prior configuration that you didn’t expect.  Maybe you don’t know what happened – you just typed in that command and the router went nuts!
+
+ 
+
+Sooner or later, that’s going to happen to you in the real world.  And as I tell my students, it’s actually a good thing to have happen to you in a lab.
+
+ 
+
+You don’t learn to troubleshoot or fine-tune a configuration when everything works perfectly.   You don’t learn much at all when things go perfectly.   And you’re practicing to learn!
+
+ 
+
+I often say that great chefs don’t learn to cook on cooking simulators they learn in the kitchen, and they burn a lot of meals on the way to greatness.   You need to screw up some configs on the way to greatness, and you can’t do that on a computer program.  You have to be on the real thing.
+
+ 
+
+You build confidence by working with real Cisco routers and switches.    Would you want the Super Bowl to be the first football game you ever really played in?  Of course not.  Then why would you take router configuration exams and be nervous about having to create a VLAN, or troubleshoot an OSPF configuration?
+
+ 
+
+You cannot walk into the testing room a nervous wreck.  You must have the attitude that you are already a CCNA or CCNP, and you’re just there to make it official.  I can tell you from firsthand experience with many students that the way you develop than confidence is to work with the real deal.
+
+ 
+
+You can’t buy that confidence, and you can’t simulate your way to it.  You’ve got to work with real Cisco routers and switches.  By working with the real equipment, you develop the real skills and real confidence you need to pass the CCNA and CCNP exams.
+
+

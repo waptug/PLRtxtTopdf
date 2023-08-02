@@ -1,0 +1,36 @@
+Title: 
+Removing Annoying Adware From Your Computer
+
+Word Count:
+518
+
+Summary:
+Adware is one of those intrusive things that seems to have just "happened". Of course, early computers weren't often connected to the internet so the chance for annoying Adware to appear was a lot less. Unless you had the misfortune to use an infected floppy disk, you were probably OK.
+
+Then came the turn of pop-up adverts but with the advent of pop-up blockers the adware companies have had to resort to other ways to get our attention. If most people block pop-up adverts mo...
+
+
+Keywords:
+adware, remove adware, adware removal
+
+
+Article Body:
+Adware is one of those intrusive things that seems to have just "happened". Of course, early computers weren't often connected to the internet so the chance for annoying Adware to appear was a lot less. Unless you had the misfortune to use an infected floppy disk, you were probably OK.
+
+Then came the turn of pop-up adverts but with the advent of pop-up blockers the adware companies have had to resort to other ways to get our attention. If most people block pop-up adverts most of the time, what's the point in using them?
+
+Some pop-up adverts are still unblockable - they just appear on your screen, sometimes below your current browser window, sometimes occupying the full screen. Most times you can just click the "close" button, but it's still annoying. After all, why should anyone have the right to take you away from the current web page you're viewing? It's the internet equivalent of cold calling on the telephone and is enough to make you growl!
+
+Adware gets worse when it starts to slow down your computer. The most intrusive is difficult to uninstall, such as programs that display random adverts and crash your browser in the process.
+
+If you know exactly when the Adware installed itself, you may be able to get away with doing a Windows System Restore to a point in time before the Adware affected your computer. Always assuming that the Adware didn't install itself with another program that you actually wanted.
+
+Sometimes you can get remove Adware by paying an upgrade fee. Browsers like Opera work this way - you can have a free copy, supported by advertising, or you can pay a small fee and get rid of the adverts. Or you can change to an alternative program that doesn't inundate you with adverts - this is easy with a web browser but may be more difficult with a more specialist application.
+
+The next step in Adware removal is to do a search on the web for instructions. If you've been infected by a fairly common piece of software, this can be a viable option. But it still frequently involves delving around in the Windows registry, which is a dark and scary place (even to some geeks) and if you get something wrong you can destabilize your computer further.
+
+Alternatively, you can get a piece of software to do the hard work for you. This has the advantage that - providing the software has been programmed correctly - it should be reliable and a simple process. Adware removal software is available free or fairly cheap. The free programs like Spybot Search and Destroy work well but you usually have to remember to run them.
+
+If you've got more than enough things to remember already, it's worth spending a few dollars on a program that will work away in the background of your computer in much the same way as your anti-virus software does. Incidentallt the only reason I can think of as to why most of the anti-virus companies don't check for Adware as well is that they can sell us another program. But that's life.
+
+

@@ -1,0 +1,44 @@
+Title: 
+Migrating To A Dedicated Server
+
+Word Count:
+549
+
+Summary:
+Over the years I’ve often had to move websites from one server to another. It’s not rocket science, but if you don’t have a plan and a very clear picture in your mind of exactly what you need to achieve then it can go pear shaped fairly quickly. So, here’s my ’standard plan’ for moving a server that runs some sort of script (i.e. directory site, traffic exchange etc) and a MySQL database. Let’s assume the old domain is domain.com and the new IP number is 1.2.3.4.
+
+Step 1: S...
+
+
+Keywords:
+
+
+
+Article Body:
+Over the years I’ve often had to move websites from one server to another. It’s not rocket science, but if you don’t have a plan and a very clear picture in your mind of exactly what you need to achieve then it can go pear shaped fairly quickly. So, here’s my ’standard plan’ for moving a server that runs some sort of script (i.e. directory site, traffic exchange etc) and a MySQL database. Let’s assume the old domain is domain.com and the new IP number is 1.2.3.4.
+
+Step 1: Send an email to your member list 48 hours before the move.
+
+Step 2: Create the domain.com account (CPanel etc) on the new server.
+
+Step 3: Take a full backup of all data on the server and all data in the MySQL database(s) and restore them on the new server. Restore the MySQL database(s).
+
+Step 4: Edit your windows hosts file (C:\WINDOWS\system32\drivers\etc\hosts) and add an entry for domain.com with the new IP address.
+
+Step 5: Flush your windows DNS cache (open a CMD window and enter the command ‘ipconfig /flushdns’).
+
+Step 6: Open your browser to domain.com. It should now be opening on the new server due to the hosts file entry. Just to be sure, place a comment in the home page file (index.html/index.php) like . That way, you can just view the source of the homepage to verify that you really are on the new server.
+
+Step 7: Test EVERYTHING. Test the script. If it has an admin area, test the admin functions. Follow all the hyperlinks and make sure that everything is working correctly.
+
+Step 8: Once you are sure the new site is working correctly, place an alternate homepage on the old server that says something like ‘We are moving to a new, faster server. We apologize for any inconvenience this may cause’. Now reboot the (old) server. This will kick anyone out that is currently logged in.
+
+Step 9: The files should all be okay (unless you have some sort of funky file-based database). Now it’s time to take the ‘real’ database backup. You don’t want anyone losing anything, so you need to take a backup of the database again at the point where you prevented people from logging in.
+
+Step 10: Delete the database on the new server and do a restore of the database backup that you just did from the old server. You now have the most current database data and everyone should be happy when they get to log back in.
+
+Step 11: Update the DNS at your registrar to point at the new DNS servers.
+
+There you have it. Eleven easy steps to a smooth server move :). You may get the odd person who says that they got to the new server but then it went to the old one again. That will be something to do with the DNS propagation and can be safely responded to with ‘give it a little while longer and all will be well’. If you still see or are alerted to problems after 72 hours then there may be something up with the DNS config on the new server but it would have to be a fairly obvious mistake and easily rectified if that were the case.
+
+

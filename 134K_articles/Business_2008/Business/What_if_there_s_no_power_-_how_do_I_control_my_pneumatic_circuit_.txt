@@ -1,0 +1,59 @@
+Title: 
+What if there's no power - how do I control my pneumatic circuit?
+
+Word Count:
+581
+
+Summary:
+With the advent of the small PLC's (programmable logic controllers), the Logo or the Pico to name just a couple, controlling pneumatic circuits can be achieved with high reliability, low complexity, and at a relatively low cost with one of these easy to program controllers. That's all well and good for the vast majority of applications that occur in a plant environment that offers electricity. But what if yours doesn't?
+
+
+Keywords:
+Air logic, air circuts, compressed air, and gate, or gate, not gate, air compressors, air circuits, troubleshoot air leaks, air cylinders, air valves
+
+
+Article Body:
+With the advent of the small PLC's (programmable logic controllers), the Logo or the Pico to name just a couple, controlling pneumatic circuits can be achieved with high reliability, low complexity, and at a relatively low cost with one of the currently available, easy to program controllers.
+
+That's all well and good for the vast majority of applications that occur in a plant environment that offers electricity. But what if yours doesn't? Or, what if you would prefer to have a non-electrical compressed air circuit, one that is, perhaps, located in an explosive or fire hazard location?
+
+Years ago, there were no options but using air logic to control compressed air applications. For more modern applications that may need to operate without electricity, air logic still offers a viable alternative.
+
+There are commercially and readily available air logic elements that will help you design the air-only pneumatic circuit.
+
+OR Gate
+
+This device will allow an output control signal when either of two incoming air signals are present. The output air signal is continuous as long as there is an incoming air signal. This is useful when you wish to sequence a pneumatic operation, but don't want it to occur until another operation is complete.
+
+AND Gate
+
+This device will allow an output signal only when there are two input air signals received. The output air signal is continuous as long as there are two incoming air signals. This is useful when you wish to sequence a pneumatic operation, but don't want it to occur until other operations are complete.
+
+NOT Gate
+
+Sends an output air signal continuously when the incoming air signal is absent. This type of device is often used to ensure that a sequence cannot take place until another action is complete.
+
+PULSE
+
+This device will allow a momentary output signal to trigger a sequence operation, and the output signal will drop after it "times out". This is useful for simplifying control circuitry eliminating the potential for conflicting control air if the pneumatic circuit hasn't been designed properly.
+
+TIMER
+
+These devices can either generate an outgoing signal for a specific period of time or, delay an outgoing signal for a specific period of time when either receives in input air signal.
+
+INDICATOR
+
+These devices are used when there is a need to have a visual indicator that there is compressed air present. Some might change colour, others might have an indicator pin that pops up to show air is there. Of course, a pressure gauge would do the same thing, but perhaps it might be beneficial to be able to see that there is air present from a distance?
+
+POSITION SENSORS
+
+By having an object interrupt an air flow, or have the air flow within the sensor uninterrupted, will produce an outgoing air signal.
+
+
+These are just a few of the many other air logic components and devices commerically available. With these items, air logic can be used to build quite complex air control circuits. 
+
+Caution: the compressing of air generates a great deal of water, and air / water borne contamination in the air lines to the plant which can be a real problem for downstream air components.
+
+Air logic devices are just such downstream air components. It is critical for their reliable operation to have the air supply to these sensitive control elements clean and dry. Failure to provide air of sufficient quality will ensure that the air logic control circuit will not function to design or expectation.
+
+

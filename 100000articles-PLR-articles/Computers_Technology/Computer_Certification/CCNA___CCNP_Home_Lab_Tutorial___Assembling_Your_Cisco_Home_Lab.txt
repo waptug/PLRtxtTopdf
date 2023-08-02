@@ -1,0 +1,36 @@
+Title: 
+CCNA / CCNP Home Lab Tutorial:  Assembling Your Cisco Home Lab
+
+Word Count:
+714
+
+Summary:
+When you're putting together your Cisco home lab, you have a lot of models to choose from!  Chris Bryant, CCIE #12933, shows you how he's built his CCNA / CCNP home labs and offers tips on purchasing your own Cisco routers.
+
+
+Keywords:
+ccna, home, lab, router, switch, ccnp,switch, free, tutorial, crossover, cable, access,server,frame
+
+
+Article Body:
+A CCNA or CCNP candidate who wants to be totally prepared for their exams is going to put together a home lab to practice on.  With used Cisco routers and switches more affordable and plentiful then ever before, there's really no excuse to not have one!
+
+With the many different models available, there is some understandable confusion among future CCNAs and CCNPs about which routers to buy and which ones to avoid.  You can take almost any set of Cisco routers and put together a home lab; part of the learning process is taking what equipment you have available and putting together your own lab!  For those of you preparing to start your home lab or add to your existing one, this article will list the routers I use in my Cisco pods.  You certainly don't have to have all this equipment, but this will give you some good ideas on how to get started.
+
+The most versatile router you can get for your CCNA / CCNP home lab is a 2520.  These routers come with four serial ports, one ethernet port, and one BRI interface for ISDN practice.  This mix of interfaces means you can actually use it as a frame relay switch while using the ethernet and BRI ports for routing.  (There is no problem with using a lab router as both your frame relay switch and a practice router; for a frame relay switch sample configuration, visit my website!)
+
+My pods consist of five routers and two switches, and three of the five routers are 2520s, due to their versatility.  A recent ebay search showed these routers selling for $99 - $125, an outstanding value for the practice you're going to get.
+
+I also use 2501s in my home labs.  These have fewer interfaces, but the combination of two serial interfaces and one ethernet interface allows you to get plenty of practice.
+
+A combination that works very well is using three 2520s; one as my dedicated frame relay switch, one as R1, and another as R2.  Add a 2501 as R3, and you can have a frame cloud connecting R1, R2, and R3, a direct serial connection between R1 and R3, an Ethernet segment that includes all three routers, and an ISDN connection between R1 and R2 if you have an ISDN simulator.  That combination will allow you to get a tremendous amount of practice for the exams, and you can always sell it when you're done!
+
+2501s are very affordable, with many in the $50 range on ebay.  It's quite possible to get three 2520s and one 2501 for less than $500 total, and you can get most of that money back if you choose to sell it when you're done.  
+
+With four routers to work with, you're probably going to get tired of moving that console cable around.  An access server (actually a Cisco router, not the white boxes we tend to think of when we hear "server") will help you out with that.  An access server allows you to set up a connection with each of your other routers via an octal cable, which prevents you from moving that console cable around continually. For an example of an access server configuration, just visit my website and look in the "Free Training" section.
+
+Access server prices vary quite a bit; don't panic if you do an ebay search and see them costing thousands of dollars.  You do NOT need an expensive access server for your CCNA / CCNP home lab.  2511s are great routers to get for your access server.
+
+One question I get often from CCNA / CCNP candidates is "What routers should I buy that I can still use when I'm ready to study for the CCNP?"  The CCIE lab changes regularly and sometimes drastically when it comes to the equipment you'll need.  During my CCIE lab studies, I found that renting time from online rack rental providers was actually the best way to go.  Don't hesitate when putting your CCNA / CCNP home lab together, wondering what will be acceptable for the CCIE lab a year or so from now.  None of us know what's going to be on that equipment list, so get the CCNA and CCNP first - by building your own Cisco home lab!
+
+

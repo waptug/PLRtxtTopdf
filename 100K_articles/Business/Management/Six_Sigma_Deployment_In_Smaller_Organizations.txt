@@ -1,0 +1,36 @@
+Title: 
+Six Sigma Deployment In Smaller Organizations
+
+Word Count:
+686
+
+Summary:
+Six Sigma is not just for large multinational corporations. While there are difficulties inherent in implementing Six Sigma in a small company rather than a large business they can be overcome. Six Sigma can work in any size business because the nature of Six Sigma is dependent upon characteristics inherent in any business, not on the size of a business. Smaller organizations frequently are short on resources and expertise in change initiatives. However, they also have more f...
+
+
+Keywords:
+Six,Sigma,Deployment,Smaller,Organizations,inherent,process,correctly,limit,infrastructure,method,
+
+
+Article Body:
+Six Sigma is not just for large multinational corporations. While there are difficulties inherent in implementing Six Sigma in a small company rather than a large business they can be overcome. Six Sigma can work in any size business because the nature of Six Sigma is dependent upon characteristics inherent in any business, not on the size of a business. Smaller organizations frequently are short on resources and expertise in change initiatives. However, they also have more flexible process flows, a shorter decision-making chain, and higher visibility of senior management. Smaller organizations can actually effectively establish Six Sigma faster than large businesses if deployment scope is correctly managed. 
+
+Scope of Deployment 
+
+Six Sigma is designed for all-inclusive deployment across an organization. However, s maller organizations do have constraints that limit their ability to initiate a large scale Six Sigma implementation. If your organization does not have the resources to create an infrastructure for organization-wide Six Sigma deployment then start with a pilot program. 
+
+One of the beauties of Six Sigma is that its central methodology is scalable. Six Sigma, emphasizes intensive training and extensive analysis—qualitative characteristics that work regardless of the size of the organization. Likewise, Six Sigma DMAIC (design, measure, analyze, improve, and control) discipline s work no matter the size of the organization or even the size of the Six Sigma project. Even a small Six Sigma project can yield significant results. Breakthrough improvements in processes and bottom-line profitability come not from quantity of resources, but the quality and the intelligence with which they are employed. 
+
+Small and medium-sized organizations may not have the resources of larger companies; however, in most cases, smaller organizations can be more nimble, flexible, and focused on results. Approaching initial implementation of Six Sigma through a pilot program will yield tangible results without overwhelming your resources from a small “quick-hit” project. These results can then be replicated throughout the organization, in many cases even faster than in a large organization. 
+
+Issues Critical to Smaller Organizations 
+
+When deploying a pilot Six Sigma project there are several important issues to consider inherent to smaller organizations. First, the choice of a project is critical. The pilot project will set the tone for Six Sigma deployment, so it should be a good one that can show significant and visible results in a reasonably short period of time. The project must clearly address one or more business goals thereby contributing to one or more core enterprise measures. Each project must also be completable within three to four months, so careful upfront scoping is essential. Projects must be continually tracked and updated for line management during existing business reviews. 
+
+Another issue is training. In smaller organizations, training budgets and especially time available to devote personnel for training is limited. Thus, it is not always practical for personnel to be absent from their day-to-day duties to attend months of training. Fortunately, there are some Six Sigma consultants who can deliver required Six Sigma training in an accelerated format and even onsite. Thus, smaller organizations can give their people the needed training with less disruption to their normal business, improving internal synergy while providing greater organizational flexibility. 
+
+Six Sigma implementation teams can encounter critical resource restrictions, often due to a personnel limitation where people are available for project functions only on a part-time basis. It is essential at project inception that the right people are involved, doing the right things. A small but committed force of the right people with proper training, given the proper authority will go far in getting things started. Good and fluid communication is also critical. 
+
+Upon successful completion of the Six Sigma pilot, the scale of the deployment is then expanded to other areas of the organization, incorporating the lessons learned from the pilot project. Just as it is much harder for a large ship to turn than a small ship, smaller organizations can change and adapt more quickly than large organizations. That does not mean that small organizations will automatically be successful when deploying Six Sigma, but making change take place and getting buy in to the changes are easier.
+
+

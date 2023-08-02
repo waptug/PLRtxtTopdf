@@ -1,0 +1,52 @@
+Title: 
+Internet Entrepreneurship: Conversion Rates
+
+Word Count:
+1412
+
+Summary:
+I have set up two internet retail businesses in my spare time and this series of articles pass on my experience and lessons learnt. This articles covers conversion rates and answers a readers letrter about what to sell.
+
+
+Keywords:
+conversion rates, conversion, entrepreneurship, internet business, retailing, silk ties, oil paintings, uk, london, england
+
+
+Article Body:
+The conversion rate is the key stat for a website. As long as you are paying for clicks, the efficiency with which you convert those clicks to sales is really the only measure that counts in determining your website design. When I started my UK silk tie website it took a while to get enough data to start tracking and conversion rate as you need at least ten sales to get any sort of statistically valid result. It took a couple of weeks to make the first ten sales and I calculated my conversion rate at 0.5%. As I was paying 25p per click, this means that it was costing me £50 per customer. Even with an average order size of £30, this was a long way from profitability. Luckily, conversion rates can change quite dramatically with things like the website design, sales copy, products on the front page, range of products, product descriptions, guranatees, pricing, ease of payment etc. etc. In short there are many things you can do to get conversions up.
+
+The great thing about internet businesses is that you can make a change, measure the result and if it doesn't work, then change it back. I am constantly trying new things to see if it affects the figures. Initially I changed too many things too quickly and it was very hard to unpick the results of different factors. Also the Christmas period started when I was one month in and conversion rates rose strongly and then fell back after Christmas, it was hard then to unpick the seasonal effect from my changes.
+
+One of the first thing I experimented with was pricing. From my initial prices of about £9 for a woven silk tie, I tried cutting them to £8 for a few weeks and then putting them up to £11 for a few weeks, then cutting back a bit, until settling on prices about 15% higher than my first try, just over £10 average price. Cutting prices below this point did not seem to increase sales. 
+
+I also looked at which ties sold well and put them on the featured products list which are then randomly selected on the front page. I worked a lot on the cataloging of the ties by colour, style etc. and added keywords so that people could find what they wanted easily.
+
+I also experimented with my sales copy and have made the money back guarantee more and more prominent. One of the first things you need to establish when people visit your site is credibility. So I have the address at the top so that people know we are easy to physically track down, I have put the Visa and Mastercard symbols near the top for legitamcy, I have signed up to affiliate programs for upmarkets shirt makers so that I can display their ads to add credibility and as I started to get a few pieces of nice feedback from people, I added them to the site. All of these changes have pushed the conversion rate up to over 1% and I am now targeting 2% with my next wave of changes which will try and capture email addresses for follow up mailing by offering a free ebook on a mens fashion related subject. More about that another time.
+
+There is a feature in both AdWords and Overture which, once you have inserted a piece of html code into your payment page (or, as I did got your web site supplier to do it) will allow you to track conversion rates by keyword. I am only now building enough data to do this justice, but it allows you to cut out keywords which don't convert well. For example, I had been buying the keywords "how to tie a tie" and was getting 50 clicks a day at a bargain £0.02 each, however after 1700 clicks I still hadn't made a sale, despite making sure there was sales text in with the tie instructions and ties shown either side. Not entirely surprising as people searching for tie instructions were not looking to buy ties, but clearly they do wear them and I thought some people would buy one. Not so. So now I am saving that money.
+
+I recently received an email from a reader of my previous articles, Louis Roberts. It's great to know that people are reading my blog already. Louis asks "I first read your article on "ezinearticles" and it brought me to your site; I like your online store. How are your online businesses doing? Are you hitting your goals of $1000 profit per site? I am very interested in opening a store myself. Since you seem to enjoy sharing advice; I was wondering of you could recommend some good products to sell, suppliers, dropshippers, etc. that carry as you would say "healthy margins"? "
+
+These were good questions, so I have devoted this post to answering them.
+Thanks for the note, glad someone reads the articles. In answer to your questions:
+No I am not yet anywhere near reaching $1000 profit per site per week. I expect it to take a year to reach that figure. As my sites are less than four months and one month old respectively there is still a way to go. It is easy, reading some of the web business sales pitches out there to believe that instant riches are easily achievable. This is not true, it takes hard work and dedication to make money. I have reached the break even point on both sites which was the first milestone - initially I was losing $500 per site per week as the cost of advertising on Google AdWords way outran my sales.
+
+It is hard for me to tell you what to sell, but I can recommend the criteria that I used to rate a product:
+
+Niche product where there is not a major house hold name supplier (i.e. don't go into the book business against Amazon)
+Must be being sold on the internet already (you don't want to have to create a whole new market by yourself)
+Must have keywords that people searching for that product would use but that are not shared with other products (for example "silk ties" and "oil paintings" are good "gifts" would be bad) 
+Do a search on Google for the product. If less than 5 advertisers come up on the right hand side, then chances are you can get reasonably priced traffic
+Must not need a support to get it working. Things that need technical support are too problematic. You want things that are easy to use and where you can sell and forget.
+I have also made it a rule that I will not hold or carry stock at least until I have strong sales and good demand already. So need a drop shipper or a make to order product.
+A final point that I have learned from trying to do ties, is that you need a $50+ margin per product. The cost of attracting customers for paintings or massage chairs is not much higher than the cost of getting customers for ties, although the conversion rates are lower. It is easier to reach break even with higher ticket price items.
+It also helps if it is a product that you have bought yourself and get interested in and passionate about.
+
+Based on these criteria I have gone for silk ties with www.tiespecialist.com, oil paintings with www.artspecialist.com and soon to be launched a massage chair website. I tried selling cuff links on my tie site but the AdWords competition was so fierce that I needed to pay 75c per click to be on the front page and there was no way to make money, I dropped that idea quickly.
+
+
+As for good drop shippers, I search for reviews or feedback on any supplier I am thinking of using and then do a trial order with them to make sure the quality and service is good. However popular drop shippers will have lots of people selling their products and it will be hard to make money. Always check eBay to see what prices the products sell at.
+
+Another option is to find suppliers in China of make to order or high value products I used www.alibaba.com to find suppliers and have dealt with them by email. I hope this helps. I hope you have found this useful. Read more on my blog at http://specialist-paintings-ties.blogspot.com/. In the next article I will take about conversion rates
+
+

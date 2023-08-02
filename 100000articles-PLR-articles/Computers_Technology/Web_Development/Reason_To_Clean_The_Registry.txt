@@ -1,0 +1,28 @@
+Title: 
+Reason To Clean The Registry
+
+Word Count:
+333
+
+Summary:
+Constant use of windows makes the registry grow out of bounds and slows the system considerably. Regular cleaning with a registry cleaner can fine-tune your system to operate efficiently.
+
+There are many things that can slow down the operating system of a computer. The cramming of the registry is only one of the most common things of the lot. The other things that contribute to the system slow down is spy ware and adware that is downloaded from the Internet without the user...
+
+
+Keywords:
+registry cleaner, free registry cleaner, PC performance, registry
+
+
+Article Body:
+Constant use of windows makes the registry grow out of bounds and slows the system considerably. Regular cleaning with a registry cleaner can fine-tune your system to operate efficiently.
+
+There are many things that can slow down the operating system of a computer. The cramming of the registry is only one of the most common things of the lot. The other things that contribute to the system slow down is spy ware and adware that is downloaded from the Internet without the user even knowing it. These enter the registry and play havoc. There are many programs such as ActiveX controls that download automatically and lodge in the CLASID section of the Registry and begin to slow down the system more and more each day. The only way out is to clean the registry regularly with registry software cleaner.
+
+The Role Of The Registry
+
+So, what is this thing we constantly refer to as the system registry? In the beginning when Windows was still in the evolvement stage Microsoft had to incorporate a way that the operating system could keep track of the file and user information so that the OS could locate them easily. This was initially located in the INI folders. Now there was no way to clean the INI folders with automatic software like the registry Tweaknow cleaner we have today. The INI folders kept growing and slowing down the operating system which had to be cleaned manually unlike the registry windows cleaner available online today.
+
+Now Microsoft came up with a solution and that was to include a system registry in their later operating systems. This brought with it a new problem. That was that the registry kept expanding with daily use of windows. When the system requested some information the registry starts from the beginning to search for the information. As the system grows this process takes longer and longer (This is just an example and not the actual way it works) Thus slowing down the operating system.
+
+

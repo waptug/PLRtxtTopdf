@@ -1,0 +1,42 @@
+Title: 
+Spyware Is A Growing Problem To Computer Users
+
+Word Count:
+572
+
+Summary:
+Spyware can intercept and take partial control over a user’s interaction with a computer, without the user’s informed consent. The first recorded use of spyware was on October 16th 1995. However spyware at first was meant to be denoted hardware meant specifically for espionage purposes.
+
+In 2000 Gregor Freud, who is the founder of Zone Labs used the term spyware in a press release for ZoneAlarm Personal firewall. It was since this press release that spyware has taken on its...
+
+
+Keywords:
+Spyware is a Growing Problem to Computer Users.
+
+
+Article Body:
+Spyware can intercept and take partial control over a user’s interaction with a computer, without the user’s informed consent. The first recorded use of spyware was on October 16th 1995. However spyware at first was meant to be denoted hardware meant specifically for espionage purposes.
+
+In 2000 Gregor Freud, who is the founder of Zone Labs used the term spyware in a press release for ZoneAlarm Personal firewall. It was since this press release that spyware has taken on its present sense.
+
+Computer systems that are running Microsoft Windows have seen spyware be a preeminent threat since 2006. This is especially true if the computer system uses Internet Explorer as its main browser.
+
+Computers with Internet Explorer as their main browsing site are particularly vulnerable because Internet Explorer is the most widely used browser and also because it has a tight integration with windows, which allows spyware to access crucial parts of an operating system.
+
+Another potentially malicious piece of software is Adware. Although the intentional use of Adware is in a none harmful way, as it was made to simply display adverts, such as pop ups, it has the potential for misuse. Adware and spyware are similar to viruses in the sense that they can be malicious in nature; however people are profitting from these threats making them more popular.
+
+Programmes such as Eudora Mail Client display adverts instead of using Shareware fees. This is a prime example of adware being used in the intended way; as advert supported software, used in this way adware is not classed as a bad thing.
+
+The way in which spyware has been designed is so that it exploits infected computers for commercial gain. Spyware monitors the web browsing activity of Internet users and uses this to target products at the internet user that reflects there search engine use.
+
+Spyware does what the name states, it spies on you, it takes note of your web browsing activities and then targets you based on its findings. Spyware isn’t just about getting you to click on pop up adverts; it has the potential to start taking control of your computer by adding toolbars to your browser window as well as redirecting your homepage.
+
+Although spyware doesn’t spy on you in the sense of taking your identity, it has the potential to do this. Spyware can take things such as credit card numbers if you purchase items online. Spyware has the potential to be a very dangerous piece of software and one that everyone should be made aware of.
+
+Spyware can also affect your disc usage, taking up space on it meaning you could run out of disc space for important documents as well as slowing your computer down.
+
+There are many anti-spyware solutions around that could greatly help your computer. However there are also a lot of fake anti-spyware programmes around. One way in which these fake anti-spyware programmes target you is through banner ads on websites. These banner ads usually tell you that your computer is infected and that by clicking on the banner ads you can download the latest anti-spyware software. This may be true but this ‘latest’ software is actually fake software that won’t get rid of spyware and will more than likely cause your computer to have more spyware.
+
+In order to get rid of spyware in a safe way you should always get your anti-spyware software from a genuine website.
+
+

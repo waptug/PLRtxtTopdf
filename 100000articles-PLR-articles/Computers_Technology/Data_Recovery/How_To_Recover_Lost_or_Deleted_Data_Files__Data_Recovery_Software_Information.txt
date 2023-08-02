@@ -1,0 +1,49 @@
+Title: 
+How To Recover Lost or Deleted Data Files: Data Recovery Software Information
+
+Word Count:
+580
+
+Summary:
+Have you heard of data/file recovery? The definition of the term Data Recovery is "..Making previously lost or damaged data available again.." A data recovery software or method can help us recover destroyed data e.g. an accidentally deleted file. It happens all the time. You delete an important file on your PC and send it to your recycle bin by mistake. You realize what you've done only after you've cleaned the contents of the recycle bin.
+
+
+Keywords:
+data,recovery,files,lost,recover,software,loss,important,hard,drive,disk,deleted,backups,recycle,bin,contents,storage,system,damage,critical,restore
+
+
+Article Body:
+Have you heard of data/file recovery? The definition of the term Data Recovery is "..Making previously lost or damaged data available again.." A data recovery software or method can help us recover destroyed data e.g. an accidentally deleted file. It happens all the time. You delete an important file on your PC and send it to your recycle bin by mistake. You realize what you've done only after you've cleaned the contents of the recycle bin.
+
+<b>What do you do now?</b>
+That file you deleted was so important. Fortunately there are lots of methods (Data Recovery Methods) and software (Data Recovery Software) available to help you get your lost files back.
+
+Let's start by mentioning some possible reasons for the loss of data:
+
+* You accidentally delete an important file. Then you immediately shred the contents of your recycle bin
+* During today's system crash some files just disappeared and cannot be located or accessed
+* You format your hard drive but then you remember those important .zip files previously stored in the newly formatted empty medium.
+* A power outage prevented some files from being written to the hard disk.
+* Data loss can also occur due to physical damage of the storage media. For example the surface of your CD-ROM may be scratched off or your hard disk may suffer from all kinds of possible mechanical failures.
+
+..and the list goes on.
+
+<b>Is Data Recovery Important?</b>
+Data recovery is a very misunderstood concept. A lot of people may not even be aware of the existence and the importance of data recovery. Maybe they think of it on a personal level. The truth is, lost data causes financial disasters to companies all over the world. The cost associated with computer downtime and lost data is enormous (several million dollars) for businesses.
+
+<b>How to deal with data loss?</b>
+Losing files is easy but recovering them can be difficult. If the loss was due to physical damage then you need someone with experience, a hardware technician or something. It wouldn't be wise to try to overcome hardware failures alone unless you are a professional.
+
+Now, if the loss of data was due to logical failure or human error then the solution is data recovery software. The data recovery software should be able to:
+
+- Undelete files even after you've shred the contents of your recycle bin
+- Recover files after you've been infected from a malicious threat (trojan, worm or other virus)
+- Recover files from reformatted hard disks or after your system crashes or your hard disk fails
+- Recover all types of files (all kinds of documents, images, music, videos, email messages, zipped files etc)
+- Recover data from all types of storage mediums (hard disks, external drives, CD-ROM, usb drives, floppy disks etc)
+- Recover files easily and successfully. Should be user-friendly allowing someone with no data recovery skills to use it
+- Take/create backups of critical system files or files you choose
+
+The best way to avoid data loss is to start taking backups of your important storage mediums. Either create backups of data on CD-ROMS or use an external drive or zip drive to back up your critical files. If you want to go further look for software that automates the process of backing up and storing your data. These programs are kind of "set and forget". You set it up to take backups every hour or every day or month etc. and let the software do the rest.
+
+

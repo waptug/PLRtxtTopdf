@@ -1,0 +1,104 @@
+Title: 
+What is a Podcast exactly?
+
+Word Count:
+1242
+
+Summary:
+Many people don't really understand what a Podcast is.  This article attempts to cut through all the mystique and makes it really simple to understand what a Podcast is and just how you can create them.
+
+
+Keywords:
+podcast hosting, what is a podcast, podcasting
+
+
+Article Body:
+<p>If you are reading this <a href="http://www.cyberears.com/index.php/Welcome/podcastarticles" target="_blank">article</a>, then you probably have a pretty good idea
+  of what a <a href="http://www.cyberears.com/index.php/Welcome/podcasthosting" target="_blank">Podcast</a> is, right? I mean you probably think that its audio you play
+  on your <a href="http://www.cyberears.com">iPod</a> and maybe you might even know someone who is a <a href="http://www.cyberears.com" target="_blank">Podcast
+  Host</a> (records
+  their own show for people to download and listen to). But I'm here to tell
+  you that most people who think they know what a <a href="http://www.cyberears.com">Podcast</a> is, don't.</p>
+<p>I can't tell you the number of times that I've had to re-educate people in
+  what the definition of a <a href="http://www.cyberears.com">podcast</a> is. And the arguments. The problem is that
+  <a href="http://www.cyberears.com">'Podcasting'</a> or the creation of <a href="http://www.cyberears.com">syndicated
+  media</a> met a need that was out there
+  before it really defined exactly what that need was.</p>
+<p>You see it all started with the concept of <a href="http://www.cyberears.com">syndication</a>. What this means is
+  that you 'subscribe' to something and when some new content becomes available
+  that is associated with that subscription, you automatically get it. I like
+  to think of it like my Tivo. It used to be that I had access to hundreds of
+  channels of TV to watch. But I found myself investing 20% of my watching time
+  cycling through the channels looking for something to watch. Often feeling
+  defeated with that phrase, &quot;There's never anything decent to watch on
+  TV&quot;.</p>
+<p>Well that was partially true. The correct phrase should have been, &quot;There's
+  never anything decent to watch on TV right now&quot;. Meaning that when I wanted
+  to watch TV, I had my pick of what shows were being aired at that time. Since
+  most 'prime time' shows were being aired when there was the largest TV audience
+  possible, and since they are primarily paid for from advertising revenue, if
+  you wanted to watch a decent TV show at 3AM you were out of luck.</p>
+<p>But then came along the idea of syndication. That I could 'subscribe' to receiving
+  content. I first got into this with the promise of a Tivo. For those that are
+  not aware, a Tivo is a device that you tell it what you like to watch (either
+  by being specific to the actual show itself, or by being vague and identifying
+  actors, directors, genre, etc.) and it would 'grab' the show when it was being
+  aired, and record it for you on a hard disk so you could watch it when you
+  wanted to.</p>
+<p>Then the experience all changed. It was no longer about what was on TV at
+  the time I wanted to watch, but what Tivo had collected for me that I hadn't
+  watched. All of a sudden TV got interesting again.</p>
+<p>You see, <a href="http://www.cyberears.com" target="_blank">podcasting</a> is very similar. Its about releasing some digital content
+  through a subscription mechanism. The idea is that using an 'aggregator' (a
+  software program you run on your computer that plays much the same role as
+  the Tivo does with TV shows, but over the Internet) such as Juice, iTunes,
+  or any of the countless others out there, you tell the aggregator just what
+  shows you want to subscribe to. Then you leave the aggregator running and every
+  hour or so it will check to see if anything new for those subscriptions has
+  been released. If it finds something new, it will download it in the background
+  so its ready for you to consume when you are ready.</p>
+<p>This whole concept of 'syndication' is referred to in a variety of different
+  ways. You'll hear <a href="http://www.cyberears.com">RSS syndication</a>, subscribing to a podcast, and many other
+  ways of referring to the same thing. You tell an aggregator to 'fetch' new
+  content when it discovers it for you, just like how a Tivo finds TV shows you
+  want to watch when you are fast asleep.</p>
+<p>What confuses the whole thing here is the 'pod' part of podcasting. This all
+  came about with the invention and release of Apple's iPod MP3 player. Some
+  bright folks in the broadcast industry recognized the fusion of syndication
+  with portability and decided to coin a phrase for the release of digital content
+  for iPods through <a href="http://www.cyberears.com">automatic syndication</a> - hence the term Podcast. However at
+  the time of the original iPod release, all syndication was typically either
+  text (ie. news stories you could read), or audio media. This was typically
+  because connections to the Internet back then were slow and broadband didn't
+  have a majority of users embracing it. Now that its mainstream and everyone
+  has it, content has expanded beyond text &amp; audio to also include video.
+  Conceivably you could distribute anything through syndication, but broadcast
+  media is really the attraction.</p>
+<p>Now with all of this background out of the way, why the confusion over '<a href="http://www.cyberears.com">what
+  is a podcast</a>'? Well its because most people don't realize how the syndication
+  feeds work. A syndication feed is for a 'show'. A show consists of a lot of
+  repetitive 'episodes'. Each episode is just one file of digital content. But
+  its the feed that signifies the 'podcast'. The biggest argument I find myself
+  in is when people think that one <a href="http://www.cyberears.com">audio file</a> = a podcast. WRONG! The Podcast
+  is just the syndication feed that got you the audio file, or the video file,
+  or whatever. The fact is that 99% of all podcasts are syndication feeds for
+  lots and lots of files, not just one.</p>
+<p>So in the case of audio files, does one audio file = the podcast? NO! The
+  audio file is just that - the audio file. The Podcast was how it was delivered
+  to you by syndication feed. As the syndication feed is typically tied to the
+  overall show that it is a part of, the easiest way of thinking about a Podcast
+  is much like a TV series. For example, if we equate a Podcast to the TV Series,
+  Seinfeld, then each episode of the TV series equates to a file delivered by
+  subscribing to the series.</p>
+<p>I hope this clears up the confusion for a lot of people. Podcasts can deliver
+  all forms of content, but I believe audio is the most valuable. The main reason
+  is that podcasting was invented specifically for audio delivery, and what has
+  happened is that it has spawned an entirely new industry of 'home grown radio
+  shows' that is the best thing to happen to audio entertainment in years. No
+  longer do a handful of corporations block what you can hear. Sure there are
+  copyright issues still to be worked out, but for someone at home with something
+  to say and a world of listeners who are interested in alternative views, etc.
+  the audio podcast is the way to go.</p>
+<p>Long live the podcast! </p>
+
+

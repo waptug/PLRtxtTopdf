@@ -1,0 +1,42 @@
+Title: 
+Have Bookmarks, Will Travel!
+
+Word Count:
+648
+
+Summary:
+Good news: now you can use your favorite software on any computer! 
+
+In my previous article http://www.resortlabs.com/articles.php?page=7, I compared online versus standalone bookmark managers and mentioned the possibility of storing Internet bookmarks on mobile storage devices, such as flash drives. However, time moves on and computer technologies are constantly progressing. The prices of flash drives have plummeted and their ever increasing storage capacity now allows the...
+
+
+Keywords:
+portable software,bookmark manager,bookmarking,bookmarks,u3
+
+
+Article Body:
+Good news: now you can use your favorite software on any computer! 
+
+In my previous article http://www.resortlabs.com/articles.php?page=7, I compared online versus standalone bookmark managers and mentioned the possibility of storing Internet bookmarks on mobile storage devices, such as flash drives. However, time moves on and computer technologies are constantly progressing. The prices of flash drives have plummeted and their ever increasing storage capacity now allows them store not only data but also the applications that use the data. This advance in storage technology has resulted in a new class of software known as "portable software."
+
+So, what is a portable program? How does it differ from a regular program? A portable program can be run from a mobile storage device such as a flash drive. A portable program does not usually require any special installation. The portable program and its data can be copied to a mobile storage device. It can then be used on any PC by simply plugging in the storage device. Ideally, portable software does not leave any traces on the computer where it was run. No entries are made in the system registry or desktop shortcuts, no files are saved to the hard drive or, if they are saved, they are deleted as the program is closed. The settings of a portable program are stored on the device that the program is run from, i.e. on the mobile device. Thus, a portable program can be called a clean, even sterile "weapon."
+
+Many new and portable versions of the more popular programs, both freeware and shareware, have recently appeared in the software marketplace. These include Portable Firefox, Portable Thunderbird and Portable OpenOffice. A more complete list of currently available portable software applications is available from this website: PortableApps.com.
+
+Mobile device manufacturers are racing to offer us the most recent technologies that allow portable software to run automatically when we plug in our flash drives. For example M-Systems, now part of Sandisk, recently created the U3 platform. This is a mobile storage standard that supports application autorun as well as many other features. The list of software complying with the U3 standard is available on the website software.u3.com.
+
+Portable software is becoming more and more popular among PC users. This trend is especially important for computer software such as bookmark managers. Portable bookmark managers eliminate the primary advantage of their online competitors - their ability to access bookmarks from virtually any computer connected to the Internet. Now you can just carry your bookmark collection on a flash drive in your pocket, together with the program that allows you to work with it, anywhere you like: to access your bookmarks all need do is plug in your flash drive to any computer.
+
+So, what portable bookmark managers are currently available?
+
+- Bookmark Base: http://www.boomarkbase.com
+
+This program is perfect for inexperienced users. Bookmark Base has a very simple user interface. The program has a set of basic, but adequate, features that include importing and exporting bookmarks for web browsers such as IE, Firefox, Opera; adding and removing folders and bookmarks; checking the availability of web resources.
+
+- Portable Bookmarks: http://www.portable-bookmarks.com
+
+This is a more powerful program for managing bookmarks. As well as the standard features found in all bookmark managers, Portable Bookmarks has a flexible bookmark search tool that can search on several criteria. It also has a duplicate search tool. In addition, it can automatically synchronize bookmarks with IE Favorites and download descriptions and keywords from Internet web pages. This program supports the U3 technology mentioned above.
+
+The confrontation between online and standalone bookmark managers has now moved to a new level with, I am sure, the imminent appearance of further portable versions of bookmark managers in the software marketplace. At this time, this new breed of portable standalone bookmark managers has the initiative.
+
+

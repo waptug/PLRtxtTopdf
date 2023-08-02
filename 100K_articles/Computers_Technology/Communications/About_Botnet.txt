@@ -1,0 +1,24 @@
+Title: 
+About Botnet
+
+Word Count:
+359
+
+Summary:
+BotNet, also called zombie network and network of bots is a group of computers which are used to discreetly send data like spam and viruses to other computers on the internet. These actions are carried out by malicious programs without the knowledge of the users.
+
+
+Keywords:
+About Botnet
+
+
+Article Body:
+BotNet, also called zombie network and network of bots is a group of computers which are used to discreetly send data like spam and viruses to other computers on the internet. These actions are carried out by malicious programs without the knowledge of the users. These malicious programs mainly consist of viruses, Trojans and worms. Infected computers are called bots or zombies. Most computers which are infected are personal home internet PCs which are inadequately protected.
+
+When a PC becomes part of a BotNet, it can be instructed to do almost anything by the creator of botnet. In effect it becomes a drone which cannot resist the commands of its master. In this case, the master is the creator of the malicious software (malware). Most Bots are employed in propagation of spam and viruses. Often malware is used for key-press logging which can result in mass identity theft. Zombie computers can also be used for denial of service attacks in which many bots simultaneously log onto a particular server, thus exceeding the server's bandwidth and crashing it. This technique is particularly effective when the Botnet is large and contains thousands of computers. Many advanced malware can even spread themselves via email while the malware of smaller botnets lack this capability.
+ 
+BotNets are programmed in such a way that they are difficult to find and analyze. Normally they receive instructions from their creators through IRC (Internet Relay Channels).  As of April 2008, the Storm BotNet and the Kraken BotNet are the largest BotNets in the world with an estimated 400,000 bots. Other significant BotNets are Rbot and Bobax with an estimated 20,000 bots each.  
+ 
+So on a day to basis, the best way to protect your computer properly is to frequently scan and update your antivirus and firewall software. Special sensors called 'honeynets' have also been set up on the internet these nets mimic the characteristics of computers with known security flaws in an effort to lure hackers into them and track down malware creators. It has been recently quoted by Kaspersky Labs (creators of Kaspersky anti-virus) that botnets pose more of a threat to the internet community than individual viruses and worms.
+
+

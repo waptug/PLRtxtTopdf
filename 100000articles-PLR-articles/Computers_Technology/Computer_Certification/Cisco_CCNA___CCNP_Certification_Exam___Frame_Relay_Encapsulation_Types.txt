@@ -1,0 +1,54 @@
+Title: 
+Cisco CCNA / CCNP Certification Exam:  Frame Relay Encapsulation Types
+
+Word Count:
+414
+
+Summary:
+Frame Relay encapsulation seems simple enough, but for your CCNA and CCNP exams, you've got to know vital details that are often overlooked.  Learn these details from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+ccna, ccnp, cisco, certification, frame, relay, ietf, pvc, router, serial, interface, exam, pass
+
+
+Article Body:
+When you're studying to pass the Cisco CCNA and CCNP certification exams, you quickly learn that there's always something else to learn.  (You'll really pick up on this in your CCIE studies, trust me!)  Today we'll take a look at an often-overlooked topic in Frame Relay, the encapsulation type.  You don't exactly change this on a daily basis in production networks (not if you want to stay employed, anyway!), but it's an important exam topic that you must be familiar with.
+
+The DCE and DTE must agree on the LMI type, but there's another value that must be agreed upon by the two DTEs serving as the endpoints of the VC.  The Frame encapsulation can be left at the default of Cisco (which is Cisco-proprietary), or it can be changed to the industry-standard IETF, as shown below.  If a non-Cisco router is the remote endpoint, IETF encapsulation must be used.  Note that the default of Cisco isn't listed as an option by IOS Help, so you better know that one by heart! 
+
+R1(config)#int s0
+
+R1(config-if)#encap frame ?
+
+  ietf  Use RFC1490/RFC2427 encapsulation
+
+  <cr>
+
+R1(config-if)#encap frame ietf
+
+What if a physical interface is in use and some remote hosts require Cisco encapsulation and others require IETF?  The encapsulation type can be configured on a per-PVC basis as well.  One encap type can be used on the interface, and any map statements that require a different encap type can have that specified in the appropriate map statement.  In the following example, all PVCs will use the default Cisco encapsulation type except for PVC 115.  The frame map statement using that PVC has ietf specified.
+
+R1(config)#int s0/0
+
+R1(config-if)#encap frame
+
+R1(config-if)#frame map ip 172.12.123.3 123 broadcast
+
+R1(config-if)#frame map ip 172.12.123.2 122 ietf broadcast
+
+show frame map shows us that the mapping to DLCI 123 is using Cisco encapsulation, and DLCI 122 is using IETF.
+
+R1#show frame map
+
+Serial0 (up): ip 172.12.123.3 dlci 123(0x7B,0x1CB0), static
+
+              broadcast, CISCO, status defined, active
+
+Serial0 (up): ip 172.12.123.2 dlci 122(0x7B,0x1CB0), static
+
+              broadcast, ietf, status defined, active
+
+Just remember that Cisco is the default, and all PVCs will use Cisco unless you specify IETF in the frame map statement itself.  You could also change the entire interface to use IETF for all mappings with the frame-relay encapsulation IETF command. For Cisco exams, as well as work on production networks, it's always a good idea to know more than one way to do something!
+
+

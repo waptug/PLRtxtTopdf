@@ -1,0 +1,187 @@
+Title: 
+5 Tips and Tricks for Using Word for Business
+
+Word Count:
+1618
+
+Summary:
+<p><b> Handy features can save you time and money </b></p>
+<p>Most people don't use every feature built-in with their software applications. We tend to pinpoint those we find helpful and call it a day. <br>
+  <br>
+
+
+Keywords:
+Small Business Start Up, Small Business Ideas, Small Business Software
+
+
+Article Body:
+<p><b> Handy features can save you time and money </b></p>
+<p>Most people don't use every feature built-in with their software applications. We tend to pinpoint those we find helpful and call it a day. <br>
+  <br>
+
+Here are five features within Microsoft Word, the word-processing software in Microsoft Office that I use in my business to save time and money. <br>
+
+</p>
+<ol>
+  <li><strong>Create and design your company's letterhead, choosing from an array of free clip art from Microsoft. </strong><br>
+      <br>
+    One thing every business needs is official letterhead. You don't have to buy it. If you know the design you want, you can create it in Microsoft Word and save it as a template to use time after time. <br>
+    <br>
+    Creating a letterhead doesn't have to be complicated; it can be as simple as the company name, address and telephone number. Word provides a wide variety of fonts, and you can vary type sizes. <br>
+    <br>
+    You may want to add art to your letterhead. You can scan in your logo and use it in your letterhead. Or there is another option. <br>
+    <br>
+    Microsoft maintains a huge collection of free clip art. For instance, if you want to add a flower, Microsoft has more than 1,000 designs. The clip art collection is available to registered users of Word. You'll find it at Microsoft Office's Design Gallery Live. <br>
+    <br>
+    Microsoft also offers free templates for letters, labels and forms. They're located in the Template Gallery. (Most run in Word, although some require other software programs. For example, the project management templates require Microsoft Project 2000 or a later version.) <br>
+    <br>
+  <li><strong>Send the same letter to many people without addressing each separately. </strong><br>
+      <br>
+    Sometimes you need to make an advertising pitch to all of your customers. Or you want to announce a change in your staff. This can seem daunting but it doesn't have to be. Word's Mail Merge tool simplifies things greatly. <br>
+    <br>
+    Basically, Word uses a list of names and addresses from a table. The table can be created in Word, in Microsoft Access or even in Microsoft Outlook. All are part of Microsoft Office. <br>
+    <br>
+    This obviously works best with planning. You'll probably need a database and Access is the better way to go for that. But the learning curve here is much steeper than putting everything in Excel (also part of Microsoft Office). I'll use Excel as the example but keep in mind that you have more choices. <br>
+    <br>
+    Start this process with your letter. The same letter goes to everyone; you can't do a lot of customisation. When you write the letter, leave space for the person's address and the salutation. <br>
+    <br>
+    When setting up Excel, you obviously need the person's name and address. You'll also need a salutation field. If Rocky Jones is one of the people receiving the letter, you might want the salutation to be Dear Rocky. If your relationship with Dr. Rocky Jones is more formal, the salutation might be Dear Dr. Jones. So the names in the Salutation column would be "Rocky" or "Dr. Jones." <br>
+    <br>
+    Next, open your letter. Click Tools &gt; Letters and Mailings &gt; Mail Merge. Follow the wizard's directions on the right side of the screen. To select recipients of your letters browse to your list of contacts in Excel, Outlook or another database. <br>
+    <br>
+    In addition to letters, you can address envelopes and labels with Mail Merge. It can make life a lot easier. <br>
+    <br>
+  <li><strong>Add a watermark to a document so everyone knows that it is a draft. </strong><br>
+      <br>
+    If you are circulating a proposal to your staff, you don't want it mistaken for the finished product. A good way to avoid that is a watermark that says "Draft," "Confidential," "Sample" or anything else you'd like. <br>
+    <br>
+    A watermark is clearly visible on the document, but does not damage the legibility of the writing. You can even establish it in a variety of colours. <br>
+    <br>
+    You can also use a picture for a watermark. Suppose you run a flower shop. You can use a drawing or picture of a flower that would appear on everything you print. How cool is that? <br>
+    <br>
+    To use the watermark, click Format &gt; Background &gt; Printed Watermark. Make your selections and click OK. If you expect to use a watermark regularly, create a template (see No. 1 above). <br>
+    <br>
+    Remember that there is a fine line between cool and irritating. If people must struggle to read the document because of the watermark, they may give up. Be sure you have "semitransparent" or "washout" selected. <br>
+    <br>
+  <li><strong>Keep an eye on changes that people are making to documents. </strong><br>
+      <br>
+    When a sales plan or another document is returned to you, it is sometimes difficult to see changes made by others. Word has a simple way to show them to you. <br>
+    <br>
+    Here are the instructions for Word 2002/2003: First, open the newer Word document. Click Tools &gt; Compare and Merge Documents. Browse to the original Word document. Click it once to highlight it. In the lower right corner, click the drop-down box and select "Merge Into Current Document." <br>
+    <br>
+    For Word 97/2000: Click Tools. Go to Track Changes. Click Compare Document. Find the original Word document and click it once so it is highlighted. Click Open. <br>
+    <br>
+    Sometimes, the development of a document is so arduous that we lose sight of what we're trying to do. Looking back at previous versions can help. <br>
+    <br>
+    That's easy to do in Word. Click File &gt; Versions. Select "Automatically save a version on close." Every time you close the document, that version will be saved. <br>
+    <br>
+    When you want to look at an old version, follow the same path. All of the versions will be listed in the box. The most recent will be on top. Highlight the version you want and click Open. <br>
+    <br>
+    You can turn off this "versioning" feature by clearing the check mark from "Automatically save a version on close." Or, you can delete individual versions. Just highlight the ones you want to dump and click Delete. <br>
+    <br>
+  <li><strong>Use a shortcut for many of your tasks. </strong><br>
+      <br>
+    For some tasks, I can work faster using the keyboard than the mouse. You probably know the standards: Ctrl+C to copy, Ctrl+V to Paste, Ctrl+Z to Undo, Ctrl+A to Select All and Ctrl+P to Print. But here is a list of other shortcuts you might find helpful as you use Word. <br>
+    <br>
+  </li>
+</ol>
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="166" valign="top"><p><strong>Keystroke </strong></p></td>
+    <td width="456" valign="top"><p><strong>Result </strong></p></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>Alt+Ctrl+C </p></td>
+    <td valign="top"><p>Copyright symbol </p></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>Alt+Ctrl+Period </p></td>
+    <td valign="top"><p>An ellipsis </p></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>Alt+Ctrl+R </p></td>
+    <td valign="top"><p>Registered trademark symbol </p></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>Alt+Ctrl+T </p></td>
+    <td valign="top"><p>Trademark symbol </p></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>Ctrl+B </p></td>
+    <td valign="top"><p>Bold text </p></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>Ctrl+E </p></td>
+    <td valign="top"><p>Centres a paragraph </p></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>Ctrl+End </p></td>
+    <td valign="top"><p>Skips to the end of a document </p></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>Ctrl+Enter </p></td>
+    <td valign="top"><p>Inserts a page break </p></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>Ctrl+F </p></td>
+    <td valign="top"><p>Opens the Find menu </p></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>Ctrl+G </p></td>
+    <td valign="top"><p>Go to a page, bookmark, footnote, table, comment, graphic or other location </p></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>Ctrl+H </p></td>
+    <td valign="top"><p>Opens the Replace menu </p></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>Ctrl+Home </p></td>
+    <td valign="top"><p>Skips to the beginning of a document </p></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>Ctrl+I </p></td>
+    <td valign="top"><p>Italics text </p></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>Ctrl+N </p></td>
+    <td valign="top"><p>Creates a new document </p></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>Ctrl+S </p></td>
+    <td valign="top"><p>Saves a document </p></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>Ctrl+Shift+F </p></td>
+    <td valign="top"><p>Changes the font </p></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>Ctrl+Shift+P </p></td>
+    <td valign="top"><p>Changes the font size </p></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>Ctrl+U </p></td>
+    <td valign="top"><p>Underline text </p></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>Ctrl+W </p></td>
+    <td valign="top"><p>Closes adocument </p></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>Ctrl+Y </p></td>
+    <td valign="top"><p>Redo the last action </p></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>Esc </p></td>
+    <td valign="top"><p>Close an assistant or tip window </p></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>Shift+F3 </p></td>
+    <td valign="top"><p>Changes the case of letters </p></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>Tab </p></td>
+    <td valign="top"><p>Move between cells in a table </p></td>
+  </tr>
+</table>
+
+

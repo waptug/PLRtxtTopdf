@@ -1,0 +1,24 @@
+Title: 
+Most Useful Method To Protect Confidentiality - Wipe Disc
+
+Word Count:
+534
+
+Summary:
+Disc wiping is a useful method of maintaining confidentiality because deleted files are not often deleted from the hard disk. High security installations like government and security institutions have specific protocol for file deletion. The United states Department of Defense has specified that a file must be overwritten three times. The newer operating systems such as Windows XP and Mac OS X use a journaling file system that renders complete erasure of files almost impossib...
+
+
+Keywords:
+wipe disk,wiping hard disk,wipe hard drive
+
+
+Article Body:
+Disc wiping is a useful method of maintaining confidentiality because deleted files are not often deleted from the hard disk. High security installations like government and security institutions have specific protocol for file deletion. The United states Department of Defense has specified that a file must be overwritten three times. The newer operating systems such as Windows XP and Mac OS X use a journaling file system that renders complete erasure of files almost impossible. Journaling file systems keeps a log in which the changes to a journal is updated before writing it to the main file system. This reduces the chance of a file becoming corrupt in the event of a power failure. The system accomplishes this task by keeping metadata in various locations in the disc. These metadata are rarely wiped out with a standard file shredder. The task is made harder by fact that these systems often use I/O commands to continuously ferry the data from one location to another. It's these power enhancing features of the file systems that requires the need to bring in more powerful disc wipes. However, to use a disc wipe one must store the data on a temporary partition by using any journaling or non journaling file system. When its time to wipe all files just uses a disc wipe software such as Eraser to secure the entire segment.
+
+“Disc wipe” softwares work by rapidly overwriting the segment of a drive with nonsensical information. By literally burying the file under multiple layers of garbage the data is rendered practically unrecoverable. Wipe disc works much like your average paper shredder. Though the letters on the scraps of paper are visible it is practically an impossible task to put them back together.
+
+File shredding and disk wiping are commonly confused to be the same. To understand the difference one requires a basic idea of what really happens to a file after it has been deleted. Many a people wrongly assume that by deleting a file they are rendering it impossible to be recovered. The fact is that it's very much possible to retrieve a deleted file, often pretty much intact. Deleting a file works by removing the address of the file thus rendering it invisible in the directory or index. Theoretically what it means is that the segment is now available to be use for newer data. The data is very much there on your disk until newer files overwrite them.
+
+File shredding is no doubt a good method of obliterating a file it has its limitations. If a defrag utility is used after the original file was saved the file will be scattered on several locations. This renders File shredding ineffective and the only way to assure the total decimation of the file is to “Disk wipe” the entire segment. This obliterates all the files in the entire portion of the disc thus leaving no loop hole for the file to be recovered. Unfortunately, any software that is written can be reverse- engineered which creates loop holes in the usage of any “wiping” software. The only remaining and guaranteed way is to completely destroy the disc by physically melting it or pour acid on it.
+
+

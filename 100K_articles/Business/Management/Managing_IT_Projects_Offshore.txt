@@ -1,0 +1,54 @@
+Title: 
+Managing IT Projects Offshore
+
+Word Count:
+862
+
+Summary:
+Today many organisations have decided to move their operations offshore to reduce costs and increase competitiveness. The cost savings offshore are considerable but the headline saving is only a small part of equation. Having spoken to many project managers over the past year it has become clear that the same issues are arising time and time again.
+
+
+Keywords:
+project management, software development, offshore, outsourcing, IT
+
+
+Article Body:
+Today many organisations have decided to move their IT development offshore to reduce costs and increase competitiveness. Work is sent to places such as India, China and Russia. The cost savings in these countries is considerable but the headline saving is only a small part of the equation. Running projects offshore is very different to running them at home. Having spoken to many project managers over the past year, it has become clear that the same issues are arising time and time again. Understanding these before you start an offshore project will help you to be better prepared. These are six of the key areas to consider and where most of the issues lie when offshore outsourcing.
+
+<b>Understanding the Culture</b>
+
+This is possibly the most complex area and takes time to understand. Western norms of doing business cannot be applied in places such as India and China. Without a good understanding of the culture it's easy for things to go wrong. This is where it can be useful to go on a cultural training course. A good course will tell you what to expect, how to react and plan strategies to deal with different ways of working.
+
+<b>Selecting the Right Projects to Go Offshore</b>
+
+Some companies are taking a blanket approach to their offshore adventure, expecting to dispense with their internal IT development entirely. The problem is that not all projects lend themselves to offshore development. Good candidates for going offshore are typically those projects that are either very well defined with very little change expected or repetitive work. Projects that require a large amount of customer interaction or are likely to have a lot of changes during development are not suitable.
+
+<b>Defining the Scope</b>
+
+Offshore projects need to be defined in more detail than those run at home are. You will get exactly what you ask for including all mistakes and errors, whether obvious or not. Make sure everything is written down and never make assumptions about what is obvious or implied. A spin off benefit many companies have experienced in this area is an improvement in the quality of their functional and technical specifications.
+
+<b>Getting What You Pay For</b>
+
+It is important to check whether the people and services you pay for are what you get. There is a tendency to provide cheaper solutions. Agree what you are buying and check on a regular basis that is what you are getting. Ask for peoples CV's to ensure that they have the relevant experience and qualifications. Make regular visits to check that the working environment and equipment is as expected.
+
+<b>Effective Communication</b>
+
+This is probably the single most important aspect of offshore working. A lot of effort should be put into setting up a good communications structure. It cannot be assumed that the correct information is passed to the right people and it is important to make sure that it is to avoid problems later. One solution is to have a company manager offshore, at least initially, to ensure that everything runs smoothly.
+
+<b>Monitoring Progress</b>
+
+The terms "offshore development" and "black box" should not be heard in the same sentence. This is a concept that will not work. Offshore projects need managing or at least monitoring. It is important to have short milestones and frequent deliverables in any offshore project so it's easier to monitor progress and quality and take timely corrective action. The onus is on the customer to monitor progress because the offshore company will seldom mention problems or delays in order to save face.
+
+<b>Common Pitfalls</b>
+
+i Not a quick fix budget cut. It takes from three months to a year to completely hand the work over to an offshore partner and during this period costs will rise, therefore don't assume savings during this period. 
+
+ii Employing arms and legs rather than brains. It is common place to find that you will be assigned a qualified and experienced developer and several inexperienced trainees or students. The developer is expected to coach and guide the inexperienced staff to deliver packages of work. These people are usually unable to make sound technical decisions and in some of the worst examples have only a rudimentary knowledge of the technology they are working with. This can lead to poor quality and extended lead times. 
+
+iii Lack of accountability. It is important to have a single point of contact that can make decisions and get you want you need. All to often the person in this role has no power and is only there as a token to keep the customer happy. 
+
+iv Onshore experience. Do not rely on telephone and e-mail communication only. It is necessary for key staff from the offshore partner to work onshore in order for them to understand the company culture and what is expected of them. This can typically last between three and six months. 
+
+Anecdotal evidence from companies with two or more years experience in offshore outsourcing is that given time it can work and savings can be made but be prepared for the years of effort and a large up-front investment.
+
+

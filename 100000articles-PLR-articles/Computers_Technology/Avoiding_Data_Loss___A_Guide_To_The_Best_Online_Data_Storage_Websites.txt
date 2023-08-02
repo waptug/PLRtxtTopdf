@@ -1,0 +1,54 @@
+Title: 
+Avoiding Data Loss – A Guide To The Best Online Data Storage Websites
+
+Word Count:
+679
+
+Summary:
+We all know the effects of data loss –but exactly what is it?
+
+Data loss - A crash in computing is a condition where a program (either an application or part of the operating system) stops performing its expected function and also stops responding to other parts of the system. Often the offending program may simply appear to freeze. If this program is a critical part of the operating system kernel the entire computer may crash (a system crash).
+
+Having noted the definitio...
+
+
+Keywords:
+data,loss, recovery,back,up, storage
+
+
+Article Body:
+We all know the effects of data loss –but exactly what is it?
+
+Data loss - A crash in computing is a condition where a program (either an application or part of the operating system) stops performing its expected function and also stops responding to other parts of the system. Often the offending program may simply appear to freeze. If this program is a critical part of the operating system kernel the entire computer may crash (a system crash).
+
+Having noted the definitions for data loss I’ll note a few reasons why it occurs, and how to recover the data, as well as a few links to specialized sites.
+
+1. User error - A simple mistake on behalf of an employee could lead to the loss of megabytes of critical company data. From the deletion of a critical file to the accidental deletion of database records, your customers could face large expenses and significant down time recovering the disaster created by a simple mistake.
+
+2. Employee theft - Employees need access to sensitive data in order to perform their jobs. Your customers have to limit the information to which employees have access, ensure that terminated employees no longer have access to sensitive data, and be able to track who's touching what, when and how.
+
+3. Disaster - What natural disasters or unfortunate accidents might affect business? Magazines daily contain news of organizations that have faced unbelievable catastrophes. In the event that your or your customers' organizations are hit with a fire, flood or other disaster, how will the data be protected?
+
+One way is to have backups. Using an Iomega REV drive powered by Iomega Automatic Backup Pro software, configure a full backup to REV 35GB disks once a week. Once this backup is done, you can secure the full backup offsite. With your data now backed up in two locations, no single event will be able to damage both sets of data. This backup can be done through backing software, like Argentum™ Backup , which automatically detects and locates the proper paths, folders and files under any Microsoft Windows (95, 98, ME, NT, 2000, XP and 2003) platform. Argentum Backup does it for sure, without any mistake or occasion. Argentum Backup is designed to be suitable for both beginners and advanced users
+
+But, the best and newest way are the online backup solutions, which help you protect your data on a regular basis (daily, weekly or monthly). One of this sites is Iomega iStorage, from one of the best backup companies. This site offers a feature-rich, highly secure online storage vault designed perfectly to meet the needs of small and medium-sized businesses. Includes administrative abilities that give you control of content shared and accessed. It creates multiple logins to the same account, giving members their own login and storage space and creates logins for guests to use with restricted access
+
+Another site is www.backup.com, where you can find another on-line backup system, called @backup. It’s main features are:
+
+·simple finding and selecting of files is made easy with our right mouse click options or with our explorer-like interface;
+
+·You don’t have to remember to do a backup. @Backup remembers for you. You set your backup schedule and we do the rest;
+
+·They encrypt your data with bank level security procedures before transferring over the Internet to our data centers. Your data is stored encrypted and only accessible with your password.
+
+·You can restore files anytime. In the event of a crash, a virus infection, or a simple user error your backups are a click away. Additionally you have access to your files from any PC anywhere.
+
+These are just two of the sites that offer you on-line backup system. The internet is packed with offers that vary from the size of the backup they provide to the monthly cost of the service. For your help, I’ve included a few links, to other sites, where you can find details and prices for on-line backups.
+
+www.livevault.com
+www.dataprotection.com
+www.xdrive.com
+
+Don't wait until it's too late - make a back up plan now!
+
+

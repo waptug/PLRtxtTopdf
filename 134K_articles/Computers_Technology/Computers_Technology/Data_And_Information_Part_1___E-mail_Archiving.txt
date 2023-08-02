@@ -1,0 +1,58 @@
+Title: 
+Data And Information Part 1 : E-mail Archiving
+
+Word Count:
+568
+
+Summary:
+The current state of e-mail
+
+Today e-mail is such an integral part of our day to day lives. So much so, that the thought of being without it is inconceivable. This is realised nowhere more so than in the corporate environment. Despite the high development and vast spread of e-mail over previous years, it is still not without its problems. Viruses and SPAM being the main concerns, but a slightly more unlikely issue is that of storage space. Users have turned their mailboxes ...
+
+
+Keywords:
+
+
+
+Article Body:
+The current state of e-mail
+
+Today e-mail is such an integral part of our day to day lives. So much so, that the thought of being without it is inconceivable. This is realised nowhere more so than in the corporate environment. Despite the high development and vast spread of e-mail over previous years, it is still not without its problems. Viruses and SPAM being the main concerns, but a slightly more unlikely issue is that of storage space. Users have turned their mailboxes into electronic filing cabinets whereby everything is stored away into neat folder structures. Why do they do this? The obvious answer being “because it is easy”. Policing from IT Administrators is an obvious solution to the issue, but with the ever increasing integration between office systems, can we simply set black and white guidelines for how and where the e-mails are stored and for how long?
+
+How can I combat these issues?
+
+It’s all too easy for a user to scan read an e-mail using auto-preview, and then just file it away knowing it will be there for when they need to address it properly. The end result of this is a slowing mail server with mailboxes well over the optimum size. IT Administrators are limited by their tools to what they can do to fix these problems. The options that they are presented with are as follows:
+
+1. Get users to manually prune their mailboxes – There is no sure fire way to accomplish this on a regular basis and users find it difficult to distinguish a mail that they need to keep from one that they don’t
+
+2. Use Auto Archiving – Some mail clients, including Microsoft Outlook include an “auto archiving” feature which stores old e-mails into a local file, thus reducing the size of your “live” mailbox. This relatively primitive technology again moves the responsibility of e-mail archiving to the end user.
+
+3. Use an enterprise archiving solution such as the Symantec Vault products (formerly VERITAS Enterprise Vault). This solution is by far the most manageable and it removes responsibility from the end user to the IT administration team.
+
+Symantec Vault Products
+
+The Symantec Vault products provide a flexible archiving framework for e-mail, file and web based content. The products enable discovery of content held within these formats, whilst helping to reduce storage costs and simplifying data management. The powerful search and discovery capabilities are complimented by powerful client applications for corporate governance, risk management and legal protection. Some of the key features include:
+
+1. Automatic cradle-to-grave content lifecycle management for e-mail and other corporate data
+
+2. Easy and rapid search and retrieval of content allows end-users to tap into organizational knowledge.
+
+3. Storage optimization reduces message and information stores by 50 percent or more.
+
+4. Ensures compliance with retention and discovery policies by acting as a secure repository for electronic information.
+
+5. Reduces the cost of content retrieval, recovery, and administration.
+
+6. Provides an "information warehouse" for corporate data that can be mined as a knowledge resource using built-in index and search technologies.
+
+7. Seamless integration of archived e-mail with existing mail systems remaining transparent to the end user
+
+What should I do next?
+
+1. Decide what type of e-mail archiving solution is right for your business
+
+2. Understand what you are trying to achieve from investing in an e-mail archiving solution
+
+3. Consider how implementing an e-mail archiving solution will affect your users and what changes will need to be made by them
+
+

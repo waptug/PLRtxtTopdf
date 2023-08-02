@@ -1,0 +1,14 @@
+Paying For ISP Internet Access
+
+Choosing ISP services can be real tricky and the rule of thumb is to pay for those services that you only need. Instead of plunking down change for all the bells and whistles. The typical small business web-site, four to seven pages, could choose a virtual hosting service with multiple email addresses, cgi-bin access and a T3 connection from the Internet for $19 to $27 per month.
+
+Most small businesses pick the managed server hosting packages which could range from $3.95 a month to $20 a month. As stated before, these hosting packages have all the administrative support that you need and all you have to worry about is the development of your web-site. You are given an FTP client to load your site to the internet.
+
+Socket Security Certificates cost extra for secure transactions of the financial type through your web page and you expect to pay at least $40 to $80 per month. The setup fees can be expensive and cost as much as $55, and sometimes more if you order special features. Large companies and high volume web sites pay more for certain types of services.
+
+Shop around and get the best deal for your business. You can get web hosting through the internet from anywhere but you have to really study the ISP’s and see what they offer. 
+
+A big concern in choosing an ISP should be the response time in case a server goes down. How does the server respond during high traffic times on the server? You would have to ask the ISP representative what their percentage ranking is as far as server downtime. 
+
+You can find some of these rankings on the internet by going to cnet.com or use the Google search engine to rate the top ten ISP providers that have the best percentage of what the industry calls, “up” time according to their servers.
+

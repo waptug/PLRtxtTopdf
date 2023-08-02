@@ -1,0 +1,30 @@
+Title: 
+Musical Instrument Digital Interface - The MIDI Trinity
+
+Word Count:
+358
+
+Summary:
+Officially, MIDI stands for Musical Instrument Digital Interface, and it was invented in 1982. These days, it refers to three components:
+
+1. A physical connector – between electronic instruments and between electronic instruments and a MIDI controller, usually a keyboard. The connector takes the form of MIDI IN and MIDI OUT jacks form which MIDI cables can bet plugged into any electronic instruments (and you’d be surprised at how much music hardware out there today is MIDI...
+
+
+Keywords:
+MIDI
+
+
+Article Body:
+Officially, MIDI stands for Musical Instrument Digital Interface, and it was invented in 1982. These days, it refers to three components:
+
+1. A physical connector – between electronic instruments and between electronic instruments and a MIDI controller, usually a keyboard. The connector takes the form of MIDI IN and MIDI OUT jacks form which MIDI cables can bet plugged into any electronic instruments (and you’d be surprised at how much music hardware out there today is MIDI-capable – almost every detachable keyboard is!)
+
+2. A message format – this message format is the heart of MIDI. This format is made up not of the sounds themselves, but simply the commands that are issued by the MIDI keyboard to the electronic instruments telling them how to play a given song (“play the violin” “turn down the volume to XX”, “adjust the pitch to YY”, etc.)
+
+With the above two components, a musician was able to control a string of musical instruments from a single keyboard, giving him a “one-man band” effect.
+
+3. A storage format – in other words, MIDI files. This latecomer of the MIDI trinity was what really did the trick because it allowed musicians to record their creations and tweak them on many different parameters until they got it sounding just they way they wanted it. Without this, MIDI songs could not be played back, because since MIDI commands include only the instructions to the instrument on how to play the song and not the actual music itself, they cannot be recorded in audio format. Now MIDI files can be recorded, emailed, or even downloaded from the Internet.
+
+A MIDI studio can now be produced in two ways – via hardware or software. The hardware version involves connecting a keyboard (using MIDI cables) to the MIDI jack of an electronic instrument and then stringing together up to 16 of these instruments in a “daisy chain” by way of their MIDI IN and MIDI OUT jacks. The software version keeps the MIDI keyboard (or other MIDI controller such as a MIDI guitar, etc.), while the instruments appear in virtual form on a computer screen (various software programs such as Reason, Logic, and Cubase can do this).
+
+

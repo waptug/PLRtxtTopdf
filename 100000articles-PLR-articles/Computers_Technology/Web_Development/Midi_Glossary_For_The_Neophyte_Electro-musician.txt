@@ -1,0 +1,22 @@
+Title: 
+Midi Glossary For The Neophyte Electro-musician
+
+Word Count:
+336
+
+Summary:
+A MIDI “instrument” is known alternately as a sound module, a rackmount sampler, a rackmount synth, an external synth or an external sampler. It is simply an electronic device that can make certain kinds of noises (“you could be kind and call it music” – Mick Jagger). Unlike a traditional musical instrument, though, it doesn’t include a feature than would allow a musician to play it – it’s kind of like a piano without keys. It is designed to be played not by a musician direct...
+
+
+Keywords:
+MIDI channels, MIDI instruments, MIDI patches, multi-timbral
+
+
+Article Body:
+A MIDI “instrument” is known alternately as a sound module, a rackmount sampler, a rackmount synth, an external synth or an external sampler. It is simply an electronic device that can make certain kinds of noises (“you could be kind and call it music” – Mick Jagger). Unlike a traditional musical instrument, though, it doesn’t include a feature than would allow a musician to play it – it’s kind of like a piano without keys. It is designed to be played not by a musician directly, but by another device that the musician directly controls. The reason for doing it this way is so that a musician can use one controller (such as a MIDI keyboard) to play several different MIDI instruments at once by controlling them all simultaneously – when he hits a key on his MIDI keyboard, several different MIDI instruments can sound off at once if he has set it up that way in advance.
+
+What can a MIDI instrument play? It can play whatever sounds have been built in to it – typically the sounds of a variety of different traditional instruments such as a flute or a guitar, plus a wide assortment of synthesized sounds. Each type of sound is known as a “patch”. Modern MIDI instruments are multi-timbral, meaning that they can receive MIDI signals on all 16 MIDI channels at once (or any combination of them), and play 16 different patches at once.
+
+MIDI channels allow an electro-musician to “play” different musical sequences on different MIDI instruments from his MIDI keyboard – without this feature he could play many different instruments at once, but they would all play the same notes in the same sequence, giving a nice chorus effect but denying the musician the ability to build compositions composed of complex sequences. MIDI channels give the musician independent control of several different instruments at once from a single MIDI keyboard (or other MID controller). It’s as if he had 10 arms and 12 legs, all with just as good coordination as his original limbs.
+
+

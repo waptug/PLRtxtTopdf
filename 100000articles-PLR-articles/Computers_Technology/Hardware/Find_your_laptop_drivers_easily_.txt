@@ -1,0 +1,32 @@
+Title: 
+Find your laptop drivers easily!
+
+Word Count:
+386
+
+Summary:
+Many people, especially beginners, struggle in finding drivers for their laptops. In this article, I will illustrate two ways to help you find your laptop drivers quickly, and easily.
+
+
+Keywords:
+laptops, notebooks, laptop news, drivers, parts, tips, articles, guides, laptop manuals,
+
+
+Article Body:
+Many people, especially beginners, struggle in finding drivers for their laptops. In this article, I will illustrate two ways to help you find your laptop drivers quickly, and easily. 
+
+The first method we will consider is to visit a company's website, and attempt to find a 'Drivers' or 'downloads' link. If a similar link is not immediately apparent, look for a search box. Most laptop companies have a search box somewhere on the homepage of their website. Type the model number of your laptop into the search box and click search. Typically, you will be sent to an overview of the model you have entered. Look for 'Downloads' or 'Drivers' links. Hopefully, if this link is available, you can follow it to find the necessary drivers for your laptop. 
+
+For example, say you have a Dell Latitude D600 laptop, for which you wish to locate updated drivers. The first step is to visit Dell's website. From the first page, click on the 'Drivers and Downloads' section. 
+
+After clicking on the 'Drivers and Downloads' link, we choose the required model. In our example, it is Latitude. Then we enter the model number (D600), followed by selecting our operating system. The Dell website will show a list of available drivers and software updates for your model. Select the driver you wish, and click 'Download'. What if you do not know the website of your laptop's manufacturer? Or, perhaps when visiting the website, you couldn't find the 'Downloads and Drivers' section? A second method for locating laptop drivers would be to visit Google (www.google.com), and entering, "Download (manufacturer) (model name and number) [type] driver" or "[type] driver for (manufacturer) (model name or number)" into the query box, substituting your own manufacturer, model name and number. 
+
+For example, if we wished to find the sound card for a Dell Latitude D600 laptop, we could go to Google. We would enter either of the following queries: 
+
+
+-"Download Dell Latitude D600 soundcard Drivers" 
+-"soundcard driver for Dell Latitude D600" 
+
+The driver download page for you laptop should appear near the top of the results returned by Google. Follow the link to the driver page, and proceed to download the drivers you need. These two methods should make it easy to locate the drivers you need for your laptop. Good Luck!
+
+

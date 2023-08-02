@@ -1,0 +1,60 @@
+Title: 
+Four Dumbest S Corporation Setup Mistakes
+
+Word Count:
+800
+
+Summary:
+S corporations can save you thousands of dollars a year in corporate and payroll taxes. But for heaven's sake, don't make these common mistakes says CPA and tax professor Stephen L. Nelson.
+
+
+Keywords:
+California S corporation, incorporation, S corporation
+
+
+Article Body:
+I see and hear about a lot of dumb S corporation setup mistakes.
+
+Some of the mistakes are made by entrepreneurs and investors trying to save money on accountants and attorney fees. And I guess that’s okay--albeit penny-wise and pound-foolish.
+
+But you know what really irks me? Some of these mistakes—in fact, most of them—are made by attorneys and paralegal services… Professionals who <i>should</i> know better.
+
+But enough whining. Without further fanfare, here are the four dumbest mistakes that I see people make again and again when it comes to setting up a new S corporation.
+
+<b>Mistake #1: Not Using an LLC </b>
+
+An LLC is almost always the place to start if you want to end up with an S corporation. Why? I like to tell students and clients that LLCs are akin to lite beer. Remember the lite beer  commercials? Same great taste but with half the calories?
+
+LLCs work like that. LLCs provide you with all the same great liability protection, but they require only half the red tape.
+
+This might all seem irrelevant, but LLCs can make an election to be treated as an S corporation for income tax purposes. Acccordingly, you want to use an LLC as the basis of an LLC in almost all cases—and not a corporation.
+
+<b>Mistake #2: Forgetting about the Foreign Corporation Registration Rules</b>
+
+Read those tempting advertisements for Delaware or Nevada corporations? The advertisements sound pretty good, but most small businesses shouldn’t use out-of-state llcs or out-of-state corporations.
+
+Here’s why: If you’re doing in business in, say, New York, you’re not going to be able to avoid state taxes by forming your llc or corporation in, say, Nevada. The tax and corporation laws in <i> your state</i> will require you to register your out-of-state, or foreign, llc in the states where your business operates. Those same laws will require you to pay state income taxes in the states where you earn your income.
+
+A couple more quick points: Large businesses do like Delaware for a variety of reasons—mostly having to with how sophisticated the Delaware chancery courts are. But this applies to really big businesses that will litigate in Delaware—not small businesses. And Nevada does offer corporations a no-income-tax haven—but you need to set up a real business presence there, with an office, employees, property—the whole enchilada.
+
+<b>Mistake #3: Electing to be Treated as a C Corporation</b>
+
+A long time ago if you wanted to turn an LLC into an S corporation—before July of 2004 as I recall—you first had to turn it (for tax purposes) into a C corporation. You did this by filing something called an 8832 Entity Classification Election with the IRS service center in Philadelphia. Then, once that entity classification took effect and the LLC was considered a C corporation, you made a second election to have the new C corporation treated as an S corporation. You did this by filing another form called a 2553 with the same IRS service center you’ll later file your corporate return with.
+
+This two-steps-to-an-S corporation process was pretty much a disaster. Thankfully, the IRS finally threw its hands up and said you only need to file the S election paper (the form 2553).
+
+Some people still want to do it the old, unfortunately. Which is really dumb. The old way doesn’t work very well. And, in a worst case scenario, you may end up with your LLC converted to a C corporation but not converted to an S corporation.
+
+Note: If you do foul up an S corporation, know that the IRS is very, very forgiving. You might want to get an accountant’s or attorney’s help if you get into this trouble, however.
+
+<b>Mistake #4: Electing to be Treated as an S Corporation Too Early</b>
+
+Once a business generates profits well in excess of the amounts paid to owners for salaries, an S corporation election saves the owners big money--sometimes tens of thousands of dollars per owner per year.
+
+But you don’t want to elect S corporation status too early if you were smart enough to start off your business as llc. This is especially true if you’re the only owner of the llc.
+
+By electing S corporation status, the llc needs to file an expensive corporate return, needs to begin doing payroll--even if the only employee is the owner, and may need to pay additional payroll taxes like the 6.2% federal unemployment tax. (This tax is levied on the first $7,000 of wages paid to each employee.)
+
+Wait until your business is profitable to elect S status for your llc. You patience will pay off in two ways: simpler accounting and less expensive tax returns.
+
+

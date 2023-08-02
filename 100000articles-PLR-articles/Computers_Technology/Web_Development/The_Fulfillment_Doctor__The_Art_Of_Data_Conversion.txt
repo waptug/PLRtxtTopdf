@@ -1,0 +1,72 @@
+Title: 
+The Fulfillment Doctor… The Art Of Data Conversion
+
+Word Count:
+976
+
+Summary:
+Q: We are in the process of planning our file conversion as we implement our new catalog management system. Our vendor is telling us that they normally don’t write a file conversion program for most files. What’s your recommendation?
+
+A: Today’s comprehensive order management system performs integrated functionality for order entry, customer service, order processing, warehousing, marketing and merchandising.
+
+There are literally hundreds of tables and files in these syst...
+
+
+Keywords:
+order management system, fulfillment consulting company, order management and inventory management
+
+
+Article Body:
+Q: We are in the process of planning our file conversion as we implement our new catalog management system. Our vendor is telling us that they normally don’t write a file conversion program for most files. What’s your recommendation?
+
+A: Today’s comprehensive order management system performs integrated functionality for order entry, customer service, order processing, warehousing, marketing and merchandising.
+
+There are literally hundreds of tables and files in these systems that have to be converted or built from scratch manually. These range from promotional tables, shipping tables to the more complex customer files, item masters and purchase order files.
+
+For smaller businesses, the better approach is to minimize the automated file conversion. For larger companies (meaning tens of thousands of customers and products) it will be a blend of build manually and program file conversation.
+
+The reasons are:
+
+•Converting years of history often result in many file integrity problems because the data is not consistent over long periods of time. Needless to say it takes many more passes through the data and it may still not be totally corrected;
+
+•Conversion programs take time to write and test. Many of the new systems files and tables can be set up faster manually than writing programs and converting files;
+
+•Setting up files has also proven to be a good way of training departmental users in what the new system will require in terms of maintenance. It gives you familiarity with the new system at a detail level. If you attempted to convert all files the users will never understand early what the system requires.
+
+For larger businesses, it may be more compelling to look at automating a larger share of the file conversion. But we would still advise that this should not be taken to extreme.
+
+Some Guidelines:
+
+•Most companies under estimate the time required to develop specs, program and test file conversion and using copies of subsets of the live file in training.
+
+•Don’t try to machine convert too much data – too many years back. How much history do you need to convert?
+
+•Look at using your marketing service bureau to be a source of hygiened customer data. Get them involved with the file conversion early to see how they can assist you. If you use them, you’ll end up sending them the files once the conversion programs are tested, several days before the “go live”. This will assure that you’ll have an update, hygiene customer data file. Merge/purge to eliminate duplicates just before the conversion. Address correction and NCOA would be performed.
+
+•Take into account the data file problems that multiple years of data may have. System created problems, changes in coding of transactions or tables, etc.
+
+•Consider the amount of time required to make the file conversion during “go live”. Obviously, you don’t test with the live data file. Initially test with a copy of selected records from the files. Selected records which are illustrations of as many conditions as you can identify. Then, do a conversion volume test to see how long the actual file conversion will take. This is especially crucial with large files (e.g. customers and item master) being loaded to a relational data base.
+
+•Schedule sufficient time to humanly review data. Can’t look at every record but you need to sample the converted file sufficiently to know the file conversion programs are working correctly. The user departments should all be involved in reviewing samples in the files they use. If you only review a few accounts you are taking a high risk.
+
+•Plan out the final days of the conversion. There will be the need to begin the file conversion a few days in advance of the “go live” date. Most businesses can not shut down the business during the file conversion, so you need to figure out how to update the key files during the “go live”. How will you continue to process new customer orders and returns, add new products, etc.? Need to go back and update the files during the “go live”.
+
+•Can you keep your old system operational for some period of time to answer inquiries and compare records? Remember a very high percentage of inquiries and complaints happen in the first 90 to 120 days after the sale or return and then inquiries drop off quickly Does all customer data need to be on the new system back 10 years? But for the for marketing purposes we don’t want to lose customer purchase activity and promotional history.
+
+File Build Versus Convert
+
+In our consulting practice we look at each company’s file conversion and its file data objectively. But here are some generalizations about the types of files and whether should be built manually versus converted.
+
+These are the files that are typically file converted with programs customer files, item masters, customer order and return history, inventory files, purchase orders, subset of item master for WMS system, item locations, etc.
+
+The majority of files and tables are set up manually by user departments. These include promotions, source codes, sales tax, shipping & handling, files which govern business rules (system control values which determine the functions of the system), open orders (keying the data gives you experience with order entry and all the order coding), general ledger chart of accounts, merchandise hierarchy ( div, dept, class, ) and employee files.
+
+Types of files could go either way – build or convert - accounts receivables.
+
+There are some types of files – like the historical promotions - that aren’t converted. The results may be sent to a data warehouse, spreadsheet or marketing data base.
+
+Summary
+
+Get with user management and get an early start on planning the conversion. Realistically, consider what it will take to convert files by program versus building them manually and giving the user departments more experience with the new system’s maintenance.
+
+

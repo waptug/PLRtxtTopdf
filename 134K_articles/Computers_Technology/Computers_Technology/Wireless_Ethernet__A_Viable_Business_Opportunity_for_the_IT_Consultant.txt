@@ -1,0 +1,28 @@
+Title: 
+Wireless Ethernet: A Viable Business Opportunity for the IT Consultant
+
+Word Count:
+219
+
+Summary:
+Technology vendors provide small business server suites. In this article, find the contact information for these technology vendors.
+
+
+Keywords:
+technology vendor, technology-vendor
+
+
+Article Body:
+During 2002, many vendors were rushing to market 802.11a (up to 54Mpbs) wireless Ethernet products that were supposed to be the next wave in wireless networking. However, at the same time, an “in-progress” standard called 802.11g may supplant both the original 802.11b and newer 802.11a standards.  So frankly, the “safest” bet for now may be to seek out wireless Ethernet hardware that supports all three standards: 802.11b, 802.11a, and 802.11g.  
+
+Wireless Ethernet as a Business Opportunity
+
+As an IT consultant you should be aware that wireless is a great business opportunity for savvy computer consultants.  However, since there is a fairly large installed base of 802.11b (11Mbps) products already, and most 802.11a products are not backward compatible with 802.11b products (although many vendors are rushing to market with hybrid 802.11b/802.11a products), this 802.11a standard faces an uphill battle in the marketplace.
+
+The Bottom Line about Wireless Ethernet
+
+While wireless Ethernet will likely overtake wired Ethernet (Category 5) as the dominant small business networking standard at some point in the future, the “when” and “how” is still very unclear. In the meantime though, many small business computer consultants are still finding wireless Ethernet to be a tremendous marketplace opportunity.
+
+Copyright MMI-MMVI, Small Biz Tech Talk. All Worldwide Rights Reserved. {Attention Publishers: Live hyperlink in author resource box required for copyright compliance}
+
+

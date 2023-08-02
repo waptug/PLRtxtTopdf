@@ -1,0 +1,48 @@
+Title: 
+Passing The CCNA And CCNP:  Cisco Home Lab FAQ
+
+Word Count:
+775
+
+Summary:
+CCNA and CCNP candidates have lots of questions about putting a Cisco home lab together.  Chris Bryant, CCIE #12933, has helped hundreds of such candidates assemble their labs, and answers the five most-often asked questions in this exclusive FAQ.
+
+
+Keywords:
+Cisco, ccna, ccnp, home, lab, pass, exam, certification, nat, free, article, intro, icnd
+
+
+Article Body:
+There is a real revolution today among CCNA and CCNP candidates.  More and more of you are turning your back on "router simulators" and putting your own CCNA and/or CCNP Home Lab together, which is the best way to totally prepare to pass these tough Cisco exams.
+
+I get hundreds of emails every month from CCNA and CCNP candidate who are putting together their first lab or adding to their existing one.  I'm always glad to help with suggestions, and I thought I'd list five common questions regarding home labs here.
+
+Do I have to spend thousands of dollars?
+
+No!   There are vendors all over the web, as well as on ebay, who sell used Cisco routers and switches to Cisco exam candidates like you every single day.  They sell kits that consist of multiple routers and switches, as well as single routers and switches.  You can add one piece at a time, or make a larger investment.  You can spend just a few hundred dollars and put together a very nice lab.
+
+What's an "access server"?
+
+It's not what it sounds like.  When I first heard the term, I thought of a typical server like we see in LANs every single day.  An access server is actually a Cisco router that allows you to connect to multiple other routers and switches without continually moving the rolled cable around.
+
+You don't have to have an access server right away, but once you add a few more routers and switches to your lab, you'll get tired of moving the rollover cable from console port to console port.  (The console port is used to directly connect your PC to the router.)   You'll find an access server is easy to set up and configure, and will save you quite a bit of time. 
+
+What's a "frame relay switch"?
+
+Again, it's not quite what it sounds like.  A frame relay switch is not a switch; it's a Cisco router that has been configured to serve as a frame relay provider in your home lab.
+
+This is very close to being a "must" for your home lab.  You don't need it right away if your budget allows for only one or two routers to get started.  To truly practice frame relay map statements and see the effect of different frame relay statements, you'll need a Cisco router to serve as a frame switch.  Again, the configuration is easy, and having a frame relay switch in your home lab will give you practice that will be invaluable on exam day.
+
+Do I need a switch?  What switch should I buy?
+
+I recommend you get at least one switch in your lab; two if your budget allows.  Make sure that at least one of your switches has an IOS; 1900 switches do not have an IOS and while they're better than not having a switch, they're not going to give you the practice you need to pass the CCNA and CCNP.  Look to the 2500 family of switches.
+
+I want to build my CCNP lab and then use it for the CCIE.  What should I buy?
+
+It's impossible to tell what technologies and devices will be on the CCIE lab, even if you zip through the CCNP and then take the IE within six months.  Cisco refreshing the CCIE lab blueprint every six months, and different technologies can be taken off the lab.  While Cisco gives plenty of notice that these changes are going to take effect, it can be a big pain in your wallet if Cisco takes something off of the exam after you spend a bundle to add it to your lab.
+
+As an example, Cisco is in the process of removing ISDN and ATM from the CCIE Routing & Switching lab.  If you bought an ATM switch for your lab, you've got an expensive paperweight right now.  While you may be able to practice your core protocols on a CCIE home lab, it's going to be difficult and expensive to keep your home lab totally current with the Cisco lab blueprint.
+
+The decision to put together your own CCNA or CCNP home lab is the best decision you can ever make - and I speak from experience.  With home labs becoming less expensive every day, it's becoming more affordable as well.  Start looking into used Cisco router vendors today (ebay is a great place to find some vendors, as is Google), and you can be practicing on REAL Cisco routers and switches soon - and be totally prepared for CCNA and CCNP exam success.
+
+

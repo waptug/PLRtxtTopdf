@@ -1,0 +1,60 @@
+Title: 
+Flowing Securely - State-Of-The-Art Pipeline Protection System
+
+Word Count:
+730
+
+Summary:
+Magal Security System’s PipeGuard is an innovative, patent pending security system, aimed at protecting pipelines and buried assets from terrorism, theft and third party damage. Based on state-of-the-art patent pending embedded technologies, PipeGuard offers a unique solution to meet the tough challenge of pipeline damage prevention.
+
+
+Keywords:
+
+
+
+Article Body:
+PipeGuard:
+Meeting the Tough Challenge of Pipeline Damage Prevention
+Magal Security System’s PipeGuard is an innovative, patent pending security system, aimed at protecting pipelines and buried assets from terrorism, theft and third party damage. Based on state-of-the-art patent pending embedded technologies, PipeGuard offers a unique solution to meet the tough challenge of pipeline damage prevention.
+
+An Urgent Need:
+Pipeline Protection:
+Out of the entire oil/gas flow sequence, from the oil fields through the ports and refineries down to the costumer, pipelines laid underground for hundreds of kilometers with no security monitoring capabilities, have always been the most vulnerable to sabotage and theft. 
+
+To date, there is no effective solution for securing buried pipes against damage caused by terror, sabotage, theft or other third party threats. Magal Security Systems has identified the demand and has implemented a unique technology aimed at meeting this challenge. 
+
+The PipeGurad Concept:
+PipeGuard is designed to sound an alarm to operators – only when a real and concrete threat is identified. Sensing Units (S.U.) are installed at a distance of about 200 – 300 meters apart. They are placed along the pipe, at a depth that is in between the pipe and the surface of the ground. They can be installed either over the pipe or within offset boundaries of up to 10 meters. Each unit is an autonomous entity with a different ID. Software based components, the S.U.s can be updated with new parameters and version additions. Depending on the area’s characteristics, PipeGuard offers several options to securely transfer the alarm message from the S.U. to the operator: wireless RF, wired, or a combination of the two.
+ 
+ PipeGurad’s Technology:
+•	S.U.s are powered by a lithium battery pack designed to guarantee full operation for at least 5 years in the wireless mode. Each S.U. is wrapped in a sealed anti-corrosion container.
+•	RF communication is based on spread-spectrum technology with UHF P band frequency and very low power, enabling the co-existence of the system within civilian or military constraints.
+•	Reception of raw seismic signaling is achieved using several Geo-space Geophones in a row, highly sensitive to the frequency domain, typical to the act of digging.
+•	The location of the identified threat is derived from an accurate measurement of the signal at each sensor. This technique filters out signals that are outside a defined sleeve at both sided of the pipe, and thus decreases the false alarm rate to a minimum. The identification mechanism installed in the system computer guarantees a level of confidence of up to 99% after an integration time of less than 1-min.
+
+PipeGurad Command & Control
+Alarm messages are accepted and displayed over a geographical layer – either a map or an aerial photo.
+By presenting the alarm at this fashion, the control center operator, intervention team (located anywhere along the line), and guards in patrol vehicles all use the same language – an essential factor for immediate reaction. 
+patrol vehicles along the pipeline are exposed to information, streamed via PipeGuard’s RF communication. Consequently, and message sent from a sensing unit with a defined ID is automatically geographically displayed on the portable computer installed in the vehicle. 
+
+
+	Character	PipeGuard	Fiber-optic wire	Detecting wire
+1	Intrusion Recognition 	Very good
+(PD > 98%)	Medium – Low	None
+2	Multiple event 	Very good	Low	None
+3	FAR	Very low	Medium	Very low
+4	Location accuracy 	High	High	Medium
+5	Damage prevention	Good	Medium	None
+6	Robustness	High, System is constructed on independent detectors	Low, Fiber-optic wire failure brings down the whole system.	Low, Wire failure brings down the whole system.
+
+PipeGurad: Fueling Security
+Answering the challenge of securing pipelines, Magal Security Systems’ PipeGuard offers a total security solution for the Oil and Gas Industry – from the oil field to the refinery. 
+•	Innovative technology designed to guard buried pipelines, regardless pipeline length. 
+•	Detects potential attacks and alerts authorities before potential damage or harm occurs.
+•	Suitable for all pipes, from existing and operational pipelines, to new pipelines under construction.
+•	Easily integrated into a full turnkey security solution, including perimeter security, ground or air patrol and others.
+
+Magal Security Systems, Ltd. Has been leading the security industry in development, manufacture and marketing of effective and advanced outdoor security systems. Our systems are installed in more than 75 worldwide countries, protecting oil & gas installations, airports, borders, maximum security prisons, nuclear facilities, military bases, communication centers, governmental facilities, and other sensitive sites.  
+For more information, see: http://www.magal-ssl.com/
+
+

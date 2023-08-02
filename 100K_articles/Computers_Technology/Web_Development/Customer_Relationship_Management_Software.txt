@@ -1,0 +1,63 @@
+Title: 
+Customer Relationship Management Software
+
+Word Count:
+497
+
+Summary:
+Customer Relationship Management Software also known as CRM is software that allows a company to manage their relationships with their customers by capturing, analysing, and storage of customer, partner, vendor details and also internal process information.
+
+The key functionality of a CRM system is divided into 3 basic modules these are Marketing, Service and Sales and the 3 aspects of the system are Operational, Collaborative and Analytical (these can be implemented in iso...
+
+
+Keywords:
+Customer Relationship Management Software, customer software, business, software, system
+
+
+Article Body:
+Customer Relationship Management Software also known as CRM is software that allows a company to manage their relationships with their customers by capturing, analysing, and storage of customer, partner, vendor details and also internal process information.
+
+The key functionality of a CRM system is divided into 3 basic modules these are Marketing, Service and Sales and the 3 aspects of the system are Operational, Collaborative and Analytical (these can be implemented in isolation from one another).
+
+Marketing
+
+• The marketing module deals with providing functionality of short term execution of marketing related activities and long term planning within a company.
+
+o Campaign Management – running marketing campaigns using different communication channels, which targets potential buyers using a product or a group of products as a message.
+
+o Planning – making long term market plans which are quantitative or qualitative measures. These can be set for a period of time and for different product groups and geographies.
+
+o Lead Management – generating sales related leads which then can be converted into sales, lead management deals with processing the leads by carrying out sanity checks and evaluating the genuineness of the information received and then deciding which leads are hot and cold.
+
+Service
+
+• The service function focuses on how effective the system is of managing customer service which is planned or unplanned. Below are some of the functions of the Service module: -
+
+o Service Order Management
+o Service Contract Management
+o Planned Services management
+o Warranty Management
+o Installed Base (Equipment) Management
+o Service Level Agreement Management
+o Resource Planning and Scheduling
+o Knowledge Management (FAQs, How to guides) 
+
+Sales
+
+• The sales function focuses helping the sales team of the company to manage and execute the pre-sales process, making it more organized. The sales team in most companies are responsible for capturing any leads or opportunities, capturing customer interaction, the CRM helps them process this data and monitor it in the future.
+
+o Opportunity Management – helps to organize all relevant data received and captured for a deal to be put into one place, it could hold data as expected budget, total spending, prospective customers, key players, products interested in, important dates and expected closing dates of a deal.
+
+o Quotation and Sales Order Management – if an opportunity is reached the quotation phase a quotation is formed and if this is won the quotation is turned into a sales order – the sales order then gets passed to the ERP system.
+
+o Activity Management – this represents activities that go on within the sales and service areas with the interaction with the customer including meetings, discussions, calls and emails.
+
+Operational – this is the automation of customer support and the processes that include the company’s sales and service representative.
+
+Collaborative – is the direct communication between the customers that does not include a company’s sales and service representative.
+
+Analytical – the analysis of customer data which is used for a broad range of purposes.
+
+Customer Relationship Management Software is a good way of organizing and running your company effectively.
+
+

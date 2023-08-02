@@ -1,0 +1,62 @@
+Title: 
+Electronic Medical Records – Are There Reasons for Low Implementation?
+
+Word Count:
+706
+
+Summary:
+Electronic medical records promise to make the future of healthcare brighter for patients and medical providers, yet across the board, it’s estimated only 10 to 15 percent of doctors even use them.
+
+
+Keywords:
+electronic medical records, emr, ehr
+
+
+Article Body:
+Electronic medical records promise to make the future of healthcare brighter for patients and medical providers, yet across the board, it’s estimated only 10 to 15 percent of doctors even use them.  If the promises of EMRs are so grand, why don’t more healthcare professionals take advantage?  While there are many reasons doctors have slowly adopted EMR technology, the top three are cost, data security and lack of uniform standards.  This article will discuss these top objections to EMR implementation.
+
+<b>EMR Costs</b>
+
+Implementing an electronic medical record system can entail a significant upfront cost, especially if converting to a paperless medical office the first time.  It’s not surprising then the segment of doctors most resistant to electronic medical records are those with the smallest amount of income.  Large practices, hospitals and insurance companies are adopting EMRs at twice the rate of small doctors since they realize the financial benefits and have the resources for fast implementation.  
+
+While there is a cost to EMR implementation, the financial benefits alone provide a strong return on investment even to the smallest practices.  An article posted in the April, 2003 American Journal of Medicine examined the return on investment of EMRs for small practices and concluded the gains in productivity and decrease in denied or lost claims could gain an average practice $86,400 in a five year span.  With an initial investment of $6,600 the return on investment is phenomenal!  While larger healthcare providers need to spend larger sums for software, there are many EMRs and medical practice management programs available for small practices that fit into the $6600 cited by the study and even allow for computer and printer purchases.
+
+<b>EMR Security</b>
+
+Securing patient medical records is another big reason doctors are slow to convert to paperless medical offices.  Many EMRs currently available utilize “client/server” technology…meaning that software is permanently installed on a server located in the doctor’s office and accessed through the network.  This type of software clearly places the responsibility of backups and patient records security on the medical office.  Web-based EMRs shift that responsibility away from the doctor and onto the software company who 
+are better equipped to secure electronic patient records.  Though vigilant hackers can break into just about any system, web-based EMRs reduce that risk significantly.    
+
+<b>EMR Standardization</b>
+
+Perhaps the biggest complication to widespread use of electronic medical records is the lack of standardization.  One of the catalysts to the creation of EMRs is the Health Insurance Portability and Accountability Act of 1996.  Commonly known as HIPAA, this law promulgated the creation of electronic patient records, but failed to implement standards for them.  To be fair, technology has changed quite a bit since 1996 and Congress doesn’t own a crystal ball.  Even Yahoo’s website looked quite a bit different ten years ago.
+
+There is no real explanation why the components of modern electronic medical records haven’t been standardized.  In fact, the name hasn’t even been settled on!
+
+Electronic medical records have many AKA’s including:
+
+<b>PMRI - Patient Medical Record Information - US
+ICRS – Integrated Care Record Services - UK
+CMR – Computerized Medical Record – US, International
+CPR – Computer-based Patient Record - US, International
+PCR – Patient-carried Patient Record - Germany
+PHR – Personal Health Record - International
+EMR – Electronic Medical Record - US
+DMR – Digital Medical Record - Asia
+EPR – Electronic Patient Record
+EHR – Electronic Health Record
+LHII – Local Health Information Infrastructure - US
+CCR – Continuity of Care Record</b>
+
+With a substantial upfront cost, both of money and training, the fear of having to change EMR systems due to government regulation is certainly reasonable. 
+
+<b>EMR Implementation Summary</b>
+
+Doctors may soon have little choice but to implement computerized medical billing and patient record systems.  HIPAA’s scope recently expanded to health care providers with less than $5 million in revenue.  Insurance companies and other payers are increasingly requiring electronic filing.  Even patients recognize the value of electronic medical records with a 2005 survey stating patients strongly believed widespread use of EMRs would decrease wait time, paperwork and reduce visit costs.  Let’s hope small practice 
+physicians take note.
+
+References:
+http://www.acgroup.org/images/2005_ACG_Mid-Year_White_Paper_-_EMR_Marketplace.pdf
+http://square.umin.ac.jp/DMIESemi/y2004/20040913_2.pdf
+http://www.healthcareitnews.com/story.cms?id=3355
+
+

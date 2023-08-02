@@ -1,0 +1,38 @@
+Title: 
+Workflow automation in the leasing industry creates efficiencies
+
+Word Count:
+501
+
+Summary:
+Lease management software provider Odessa Technologies contends that automated workflow processing accelerates lease processing times, effectively manages related processes, and optimizes workforce efficiencies in any decision making environment. Any workflow process, whether it be for the decision on lease applications or vendor payments (check requests), can be accommodated by an automated workflow system that is built with adequate versatility. In fact...
+
+
+Keywords:
+utomated workflow system, workflow automation, workflow system, workflow software, automated workflow software
+
+
+Article Body:
+Lease management software provider Odessa Technologies contends that automated workflow processing accelerates lease processing times, effectively manages related processes, and optimizes workforce efficiencies in any decision making environment. Any workflow process, whether it be for the decision on lease applications or vendor payments (check requests), can be accommodated by an automated workflow system that is built with adequate versatility. In fact, the automation of decision making can fundamentally change the way an organization works, forcing it to confront its bottlenecks and find new ways to create efficiencies. 
+ 
+<b>Workflow model applied traditionally</b>
+A standard workflow that can be managed through an automated workflow system is the lease application process. Typically, a lease application traverses through various departments or stages before an approval or rejection decision is made. An application may, for instance, first go to the credit department, then funding, and finally to the legal department before getting approval. Moreover, certain applications (i.e. those which exceed a certain pre-defined dollar limit) may have to make two (or more) stops in the credit department before moving forward. Workflows such as these can be easily modeled in an automated system; further, based on certain user-defined conditional logic (such as a credit limit), the application can even move through different paths within the same workflow. 
+
+<b>Extending the workflow concept beyond the traditional</b>
+With the advent of sophisticated leasing software applications, it is now possible to automate entire workflow processes within an organization.  Workflow automation in the leasing environment lends itself to a high degree of control over the typical processes followed by companies with tight security controls and access rights of users and roles. It also lends itself to planning, based on the data that is maintained by the system. At any given point, managers can, for instance, accurately assess where applications stand, which payments need approval, their stage in the approval process, and any related impact on cash-flow planning, etc. Performance can be appraised based on approval rates, the quality of applications, the number and type of credit checks made, the length of time a particular role/user took to make certain types of decisions, etc.  Therefore, an automated workflow system not only allows for greater efficiency, but given its data-richness, also serves as a natural control and planning tool for the entire organization.
+
+<b>Workflow software functionality</b>
+Automated workflow software provides businesses with unparalleled flexibility and functionality.  Users can easily perform a range of functions such as:
+-Replicate real-world workflows for efficient management of front and back office processes
+-Receive applications online or through any source desired
+-Set up vendor programs, unique to each vendor
+-Automate credit decisioning
+-Apply pre-determined price matrices
+-Automate decisions based on one or many variables
+-Set up unlimited workflows to process decisions
+-Define unique conditions and tasks for each stage in any workflow
+-Comprehensively generate and manage all related documentation
+-Process complex decisions that exactly represent the needs of each situation
+-Manage and control the overall system with extensive levels of control
+
+

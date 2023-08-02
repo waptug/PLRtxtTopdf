@@ -1,0 +1,26 @@
+Title: 
+Ftir
+
+Word Count:
+338
+
+Summary:
+FTIR or Fourier-Transform Infrared Spectroscopy is a measurement technique whereby spectra is collected based on the response from a pulse of electromagnetic radiation. It can be applied to various types of spectroscopy including infrared spectroscopy, nuclear magnetic resonance and electron spin resonance spectroscopy. Fourier transform spectroscopy is more sensitive and has a much shorter sampling time than conventional spectroscopic techniques.
+
+
+Keywords:
+Ftir,Process Ftir, Ftir Spectometer
+
+
+Article Body:
+FTIR or Fourier-Transform Infrared Spectroscopy is a measurement technique whereby spectra is collected based on the response from a pulse of electromagnetic radiation. It can be applied to various types of spectroscopy including infrared spectroscopy, nuclear magnetic resonance and electron spin resonance spectroscopy. Fourier transform spectroscopy is more sensitive and has a much shorter sampling time than conventional spectroscopic techniques.
+
+How it works
+
+In a conventional spectrometer, a sample is exposed to electromagnetic radiation and the response is monitored. The energy of the radiation is varied over the desired range and the response is plotted as a function of radiation energy. At certain resonant frequencies characteristic of the specific sample, the radiation will be absorbed resulting in a series of peaks in the spectrum, which can then be used to identify the sample.
+
+Instead of varying the energy of the electromagnetic radiation, Fourier Transform Infrared Spectroscopy exposes the sample to a single pulse of radiation and measures the response. The resulting signal called free induction decay contains a rapidly decaying composite of all possible frequencies. Due to resonance by the sample, resonant frequencies will be dominant in the signal and by performing a mathematical operation called a Fourier Transform on the signal, the frequency response can be calculated. In this way, Fourier Transform Spectrometer can produce the same kind of spectrum as a conventional spectrometer but in a much shorter time.
+
+The principles of the Fourier Transform approach can be compared to the behaviour of a musical tuning fork. If a tuning fork is exposed to sound waves of varying frequencies, it will vibrate when the sound wave frequencies are in ‘tune’. This is similar to conventional spectroscopic techniques, where the radiation frequency is varied and those frequencies where the sample is in ‘tune’ with the radiation detected. The response from a sample exposed to a pulse of radiation is a signal consisting primarily of the characteristic frequencies for that sample. The Fourier Transform is a mathematical technique for determining these characteristic frequencies from a single composite signal.
+
+

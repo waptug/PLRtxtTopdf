@@ -1,0 +1,31 @@
+Title: 
+Why Mozilla Firefox is so popular?
+
+Word Count:
+617
+
+Summary:
+According to onetstat.com the usage of Firefox has risen to 11.51 % globally. We will try to find out what has led so many users to switch to Firefox.
+
+
+Keywords:
+Mozilla Firefox, Firefox, browser, internet, gecko
+
+
+Article Body:
+If we want to understand the reasons behind Firefox success we have to find the origins of the browser.
+During, September 2002 the first version of the browser was released to the public called Phoenix. The browser was based on Gecko engine from Mozilla Suite. After, a number of releases the name was changed to Firebird but due to a legal dispute it was changed again to Firefox. This browser has received a great deal of publicity as an alternative browser to Internet Explorer.
+
+There are many factors behind Firefox’s success but I think the added features and the marketing strategy make a whole lot difference in users’ adopting the software. Another thing, I want to add is that Internet Explorer after winning the battle with Netscape’s browser was left with no significant changes. Of course, this has changed with the upcoming new version of windows called Vista and a new version of Internet Explorer. I suppose Microsoft is trying to correct some omissions and bugs in various levels of the browser.
+
+We are now going to explore the main features Firefox has at the moment. One of the main goal of the developers working in Firefox is enhanced usability and accessibility for the end user. Tabbed browsing, where you load many pages on the same window, is a valuable feature in Firefox as it can make your browsing a lot faster. Also, pop-up blocking eliminates those irritating ads and the user can easily find information on a particular page using the ‘find as you type’ feature. The built in search bar includes all the major search engines such as Google, Yahoo etc. and you can add more search engines if you want. People working on the accessibility of the browser have manged to make Firefox work with several screen readers, screen magnifiers and on-screen keyboards. These accessibility features can help people with impairments browse the Internet easier than before.
+
+Another feature Firefox users like very much is that they can customize easily many aspects of the browser. Extensions such as the popular web developer or the Venkman debugger can be added to the browser and enhance the functionality of Firefox. Users, often like to have an appearance according to their preferences so they use different themes in Firefox. Therefore, themes are used to change the visual appearance of the browser.
+
+Security is really important for end users and corporations. Both, want a secure browser that they can trust without the security holes of Internet Explorer and its ActiveX technology. Mozilla Firefox fulfills this requirement mainly by giving the opportunity to other developers to check the code for security bugs and using various successful security techniques and models such as the sandbox security model. In addition, the browser can be used in many different platforms and the source code is freely available for anyone to compile it and contribute to the project.
+
+We have seen numerous features that Firefox has but I would like to talk a little bit about the marketing strategy that is used. The development of the browser is supported by search engines Google and Yahoo through partnerships and mostly by the open source community. Mozilla Foundation which is responsible for the development of the browser believes that community based marketing can be successful. They have proven their point by using a community based marketing web site called spreadfirefox.com. They were able to place an ad on New York Times through donations made by the community of developers and devotees during the release of Firefox 1.0.
+
+The secret behind Firefox’s success is the valuable features available for the user and the enthusiastic community which helps financially through donations and spreads the word.
+
+

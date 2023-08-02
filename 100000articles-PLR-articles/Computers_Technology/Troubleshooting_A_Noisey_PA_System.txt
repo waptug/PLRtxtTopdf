@@ -1,0 +1,67 @@
+Title: 
+Troubleshooting A Noisey PA System
+
+Word Count:
+631
+
+Summary:
+When your band plays in different locations on a regular basis, noise in your P.A. system is a very common, and sometimes a very difficult problem to solve. Noise comes from many sources. Some of the most common ones are:
+
+1. Poor cables on the inputs
+2. Fluorescent lights
+3. Dimmers
+4. Poor design, particularly shielding and location of the mixer and power amps power transformers
+5. Poor A/C wiring in the location where the P.A. is being used
+6. Radio stations or othe...
+
+
+Keywords:
+musical instruments, guitar repair, music, guitar
+
+
+Article Body:
+When your band plays in different locations on a regular basis, noise in your P.A. system is a very common, and sometimes a very difficult problem to solve. Noise comes from many sources. Some of the most common ones are:
+
+1. Poor cables on the inputs
+2. Fluorescent lights
+3. Dimmers
+4. Poor design, particularly shielding and location of the mixer and power amps power transformers
+5. Poor A/C wiring in the location where the P.A. is being used
+6. Radio stations or other transmitters in the area
+7. Large motors close to the system
+8. Grounding problems, when using equipment manufactured by different companies
+9. Noise in the input signal, especially guitar pickups
+10. Magnetic fields induced by other nearby components like air conditioners
+
+Be sure to turn down your level sliders before you attempt to plug or unplug any source that is connected to your system, or you may produce damaging pops or clicks that can take out speakers.
+
+Most of these system problems can be reduced or even eliminated by using high quality cables and balanced lines.
+
+To check for the source of the noise, unplug all inputs at the mixer input jacks and listen for noise. Any noise that has now disappearedis definitely coming from something that you are plugging into the input of the mixer and not from the P.A. itself. If this is the case, start plugging the sources back into the mixer, one by one. Listen for noise changes. When you hear noise when you plug something in, you now know that this device is a problem and you should take steps to eliminate the problem with the device. Some sources, especially keyboards and guitars, are noisy and cannot be improved much.
+
+Here are a few tips to help with input noise problems:
+
+Remember, some hiss is normal, and occurs when an input is at a high level, or all the way up.
+
+1. Reduce the length of the cables.
+
+2. Wherever possible, use balanced sources. Some mixers have both balanced and unbalanced outputs on their products. If they do, change to balanced. Use of a balanced cable will even improve noise in unbalanced sources.
+
+3. Use direct boxes where possible for instruments being plugged into the mixer. This isolates the signal, converts any high impedance instruments to be balanced, low impedance, and allows you to “lift” the grounds on these devices. "Lifting" the ground will help eliminate MANY sources of interference.
+
+4. Change your cables to higher quality ones with a high degree of shielding.
+
+5. Make sure the input cables are not lying too close to a transformer, motor, amplifier or other source of magnetic radiation.
+
+6. Plugging the components of a P.A. system into different electrical outlets can sometimes cause problems. Where ever possible, try to connect all parts of the P.A. into the
+same circuit, even if you have to run extension cords to accomplish this.
+
+7. Turn any lights on dimmers off, or if this is not possible, turn them fully on.
+
+If the noise does not disappear or reduce significantly when you disconnect all inputs, then the problem lies somewhere else in the system. Take a step-by-step approach to determine where the problem lies. Try to "cut the system in half" when trouble shooting.
+
+First start with the mixer. Turn all outputs to zero. If the noise disappears then the problem is in the mixer; otherwise it is after the mixer. If it is in the mixer, try removing all effects devices such as delays or reverbs, if there are any, and try again. Keep going through the process of eliminating components until you find the problem, keeping in mind that many noise problems are as a result of inferior or defective cables.
+
+Eventually you will locate the problem, and the suggestions mentioned above should help in most cases.
+
+

@@ -1,0 +1,82 @@
+Title: 
+Guide to buying a desktop computer
+
+Word Count:
+1878
+
+Summary:
+Looking to buy a new desktop personal computer system? This guide helps you make an informed purchasing decision.
+
+
+Keywords:
+computer, desktop
+
+
+Article Body:
+With the rapid pace of technological developments, nothing has become as ubiquitous as the computer. Everyone's got one. And they are used for all manner of endeavour, by people of all walks of life. So, do you simply buy the computer that someone's selling? Or do you do some homework and figure out what detailed specifications are going to make some difference to you? 
+
+At Myshopping.com.au you can compare the prices of a wide range of different computers from different vendors and of different specifications. This guide will help you find what you're looking for. 
+
+Mac or Windows (PC) 
+
+At the outset, you need to decide what you are going to use the computer for. This will help you make the fundamental decision of whether you should go Mac or PC. Although, with the advent of the dual core processor (an Intel chip now used by Mac) the differences are narrowed a little, there are still some choices that can help you favour one system over another. Historically, Mac computers have a reputation for greater stability that comes from a more robust operating system than Windows based computers. Largely for this reason, Macs have been the computer of choice for the graphic design industry, the music production industry and the video production industry. This has prompted the software manufacturers to make professional software packages for these disciplines that favour the Mac operating system. Although they have packages supporting the Windows operating system, they are often less capable. 
+
+Consequently, if you are engaged in these industries and need your computer for this type of work, you should consider Mac. Mac computers appear to attract fewer viruses and software malfunctions than do Windows based PCs. On the down side, there has always appeared to have been limited software support for Mac systems. 
+
+Another decision that may guide your choice is the aesthetics of the computer. If you have limited available space, there is nothing quite like the iMacs or the mini Macs for space saving. iMac's all-in-one desktop units are compact and complete with all the connectivity you need. However, the look of other brands may be more to your taste, with many models available in compact packages and modern colour schemes to suit practically all d cor. Now that you've made that basic decision, you can start comparing the apples with apples. 
+
+The Components of Your Computer 
+
+The two factors that determine the price of your computer are size (yes it does matter) and speed. Either or both of these two dimensions are a factor of practically every component that makes up the machine. Naturally the highest price tags go with the combination of biggest and fastest. 
+
+CPU 
+
+The heart of the computer is the CPU (central processing unit). You need to decide which CPU you want driving your computer. These come from different manufacturers, and the current development of the technology is called Dual Core, which means that there are two processors on the one chip. Dual Core technology delivers more performance with less energy requirements. Intel and AMD are the two leading CPU manufacturers, and they offer different products under different names. 
+
+Current processing speeds range from about 1.4 GHz (gigahertz) through to 3.46 GHz. But it is not simply just a matter of speed. There are other considerations. Mac Operating Systems have a different architecture to Windows and will perform many functions faster with a slower speed CPU. A dual core chip at 1.4 GHz will deliver a better performance that a Pentium 4 chip at 1.8 GHz. A 1.4 GH dual core chip running a Mac with OSX Tiger, will perform better than a 2.0 GHz Pentium 4 processor running Windows. You need to decide what you want your computer to do, what your major software requirements are before you decide on the CPU processor. 
+
+However, for everyday use, a processor faster than 1.8 GHz will deliver excellent performance. As a rough rule of thumb, choose a Celeron for low cost computing, a Pentium 4 for mid-range budgets, or an AMD Athlon for bigger budgets. You can compare computers based on Pentium, Celeron, Athlon or Dual Core CPUs by searching those specifications on Myshopping.com.au and finding different vendors and brands using different processors. 
+
+RAM 
+
+This is where bigger definitely means better performance. RAM is the system memory that enables the computer to use its programs and swap data between the hard drive and the program functions. It's important to match the speed of the RAM of your computer with the speed of the CPU. The more RAM you have available for your programs to work, the faster will your computer run. Most computers today come with at least 256 M (megabytes) of RAM. But memory is a relatively cheap component, and it costs little extra to upgrade to 512 M or greater. 
+
+HARD DRIVE 
+
+The hard drive of the computer stores your program files and your data. As computers have advanced, so has the need for more capacity to operate programs and store data. People working in media fields tend to work with very large files and require large storage space. Most computers in today's market come with a minimum of 40G of hard drive space. However, this can be upgraded (usually in 20G chunks) to as much as 200G or more. The effectiveness of your hard drive also can depend on its physical speed (5400-7200 RPM) and the speed at which it can transfer data between the computer's RAM and the hard drive. Faster means better performance. 
+
+REMOVABLE MEDIA 
+
+You will want to have a CD-R or (CD-RW) drive installed in your computer, and or possibly a DVD or DVD-R. For reading a CD ROM, all that is required is a CD drive and for watching DVD movies, a DVD ROM drive. However with a CD-R drive, you can record your own data and music CDs, and with a DVD-R drive, you can burn files in a DVD format, allowing you to store movies and data in far greater quantities. The CD-RW (DVD-RW) drives allow you to use re-recordable media. Your decision will depend on what you want to use your media drives for and what you want to store. 
+
+Other removable media will possibly include flash card storage, which is usually plugged in via the USB ports on the computer. 
+
+MONITORS 
+
+The monitor for your computer is integral to its function and aesthetics. If you are working in graphics you may want to stay with a CRT monitor. However most bundle offers these days are supplied with LCD monitors, which have the advantages of smaller space requirements, use lower energy and offer wider screen images. However they generally are more expensive (although prices are dropping everyday), can frequently be not as bright, have limited viewing angles and sometimes require a digital interface connector. 
+
+For graphics intensive work, LCD screens do not have the same capacity to render colours in gradients as CRT monitors. Once again, size matters. Bigger screens cost more than smaller ones. 
+
+VIDEO AND SOUND 
+
+For a detailed explanation of video cards, please see the article on Myshopping.com.au dedicated to Video Cards. 
+
+The interface between the CPU and the Monitor is provided by the video card. One of the basic decisions you need to make is whether you require a 3D or 2D card. Video cards come in two different types: those that use an AGP (accelerated graphics port) on the computer motherboard and those that use the PCI bus. Data transfer rate is critical to video performance. Faster video cards use an AGP, and this proves a faster data transfer than PCI cards. Most video cards also have their own video memory installed on the card, a feature that increases a computer's memory performance. Today, these memories are often 128M or 256M, and can be more in the higher-end cards dedicated to sophisticated video work or gaming. Video cards performance is also affected by what is known as clock speed or clock rate, cards with a faster speed offer faster performance. 
+
+Cheaper computers, and laptops and notebooks, have an integrated graphics chip included in the motherboard instead of a discrete video card. This type of configuration is not as powerful or as fully functional as having a separate video card, which can allow more comprehensive gaming, the use of multiple monitors and faster and better rendering of images. 
+
+For a computer to reproduce the sounds recorded in games, movies and music products it requires a sound card. Quality of sound can be affected by the sound card your computer has installed. It's important that you know how you want to use the sound reproduction processes of your computer. If you are a musician and want to record audio, then you will want to be sure that you have excellent connectivity, good midi access and at least 16-bit (CD quality) audio reproduction. Sound cards give you the possibilities of full cinema surround sound, and the many subtle effects employed by high-end games. 
+
+Nearly every computer comes with a set of stereo speakers. However it pays to have a good listen to what you're buying. Make sure you listen to program that you are familiar with (take your own CD along) and compare the sound in a quiet environment. Many speaker systems for computers have poor frequency response and are underpowered. For desktop use that does not involve a quality listening environment this may be satisfactory. But if you want to listen to music and watch movies for the full effect, then you need to consider buying a good quality set of speakers. Use the search facility of Myshopping.com.au to compare specifications and prices of different speaker systems. 
+
+KEYBOARD AND MOUSE 
+
+The choice of keyboard and mouse are personal choices. Sometimes it depends on what you do on your computer, whether you have formal typing skills or whether you're a two-finger hack. Serious writers may prefer an ergonomic keyboard. Keyboards frequently have different clicks and responses to others. You may prefer an infrared cordless keyboard and mouse. You may prefer an optical mouse on which you don't have to clean the rollers. Optical mice have no rollerball, and can be used on most flat surfaces, but they are more expensive. 
+
+CONNECTIVITY 
+
+Today, connectivity is everything. Your computer can have wireless connections to all of your peripherals: printer, scanner, and other computers. Having an onboard modem will only be really important if you are using a dial up internet connection. Broadband modems tend to be peripherals and you can connect via USB, wireless or firewire. It does pay to consider how you will connect to the internet and other peripherals. It's not always convenient to get behind your computer to plug something in or unplug it. Some sound cards have a front face panel with all the connections you need. The USB ports on Macs are conveniently located. Many PC manufacturers haven't caught on to the fact that it's important for some people to easily access the connections to their computers. 
+
+To compare the different bundle offers from different brands, and to compare the different components by their specifications, search the Myshopping.com.au database for exactly the specifications you are seeking. You can compare prices and vendors, and order what you need online with a few clicks.
+
+

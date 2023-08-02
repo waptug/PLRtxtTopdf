@@ -1,0 +1,46 @@
+Title: 
+The Effects Of Fax Transmission On Bar Code Decoding
+
+Word Count:
+932
+
+Summary:
+When documents containing bar code symbols are faxed, the quality of the bar code symbol will degrade. Documents scanned by fax machines in Standard Resolution are sampled with 204 horizontal dots per inch and 98 vertical dots per inch. Each sample point is then converted to either a white or black value (a process known as binarization). The binarization process converts straight lines of the bar code symbols into ragged lines changing the width of the bars and spaces. If a ...
+
+
+Keywords:
+barcode,fax,bar code,faxing,software
+
+
+Article Body:
+When documents containing bar code symbols are faxed, the quality of the bar code symbol will degrade. Documents scanned by fax machines in Standard Resolution are sampled with 204 horizontal dots per inch and 98 vertical dots per inch. Each sample point is then converted to either a white or black value (a process known as binarization). The binarization process converts straight lines of the bar code symbols into ragged lines changing the width of the bars and spaces. If a faxed document is itself resent out as a fax, further deterioration occurs. Each additional fax cycle continues to degrade the bar code. At some point, the symbol may no longer be able to be decoded by bar code decoding software. 
+
+The remainder of this article will discuss the issues that should be considered when selecting bar code symbologies and sizes to increase the likelihood of successful decodes after multiple fax cycles.
+
+Linear (1D) Symbologies
+
+Two popular 1D symbologies were examined: Code 128 and Code 39. Code 128 uses four bar and space widths to encode information, while Code 39 only uses two. Thirteen module sizes (smallest element) ranging from 12.5 mil to 32.5 mil of each symbol type, encoding ten numeric digits, were printed on a sheet. The sheet was sent through a fax at Standard Resolution for a total of ten cycles. This corresponds to a horizontal sample per module ranging from 2.6 to 6.6. The resulting 11 pages were then scanned on a flatbed scanner at 300 samples per inch and were presented to a bar code decode software toolkit. At 2.6 samples per module both bar code symbologies were only able to be successfully decoded for 3 faxes while the same codes with 6.6 samples per module were still readable after 10 faxes. 
+
+The larger samples per module (6 samples and greater) were able to successfully decode after 10 fax cycles. At 5.6 samples per module, the decode performance was no better than 4.6 pixels per module. This demonstrates that each fax cycle alters the bar code in a subtle way. Every fax cycle produces a unique version of the original bar code, and each alteration can make a symbol that did not read after a certain number of fax cycles read on the next one. However, if high read rates are desired after many fax cycles, then printing the bar code symbols at a minimum of 6 samples per module is recommended.
+
+From the testing conducted, Code 128 slightly outperformed Code 39 after multiple faxes. Given the higher data density of Code 128 and the built in checksum, Code 128 appears to be a better choice between the two symbologies. The images below show the size advantage of Code 128 over Code 39, with both symbols encoding 10 numeric digits with the same module size. If the data to be encoded is purely numeric, the numeric compaction mode of Code 128 can be used to further increase data density.
+
+There is a trade off to consider: the larger the module size of a linear code, the more horizontal room will be required to encode the same amount of information, but the larger modules sizes can improve read rate. One additional factor to consider is the bar code height. For this test, all the codes were ½ inch in height. Given that all vertical information in 1D bar codes is by definition redundant, if space allows, increasing the height of a bar code will typically provide better read rates after multiple fax cycles.
+
+ Matrix (2D) Symbologies
+
+Matrix symbologies provide dramatically better information density because information is encoded in both horizontal and vertical directions. Given their size advantage over their linear counterparts, 2D symbols can be printed with much larger module sizes and still be comparable to linear symbols encoding the same information. For the 2D test, we printed various sizes of Data Matrix and Micro QR Codes.  The Data Matrix was a 12 x 12 module square symbol. The Micro QR is a more space efficient version of a QR code that employs only one finder pattern and is limited to a number of smaller sizes. The symbols were encoded at a comparable level of error correction. The module sizes varied from 39 mil to 79 mil. Like the 1D test, we subjected the image to 10 fax cycles and then scanned the images. The images were scanned at 150 samples per inch given the large feature sizes of the test bar codes. The scanned images were then processed by the same bar code decoding toolkit. 
+
+At 8.7 samples per module the 2D bar codes were able to be read after 5 fax cycles and once 15 samples per module were reached the codes were readable up to 10 cylces.
+
+The results were not as consistent as the 1D symbols. This is due to the fact that the distortion of the symbol during the increasing number of fax cycles affects data in both the data dimensions. However, we can draw the conclusion that symbols with larger size modules will decode more reliably after multiple fax cycles. 
+
+Summary
+
+If documents containing bar code symbols are to be faxed multiple times, the bar code symbols must be printed with larger module sizes to be successfully decoded. 
+
+For linear symbologies, if a large number of fax cycles (greater than 5) is required, the number of samples per module should be at least 6. Code 128 performed well in our tests and has a higher data density than Code 39.  Linears are a good choice for encoding small amounts of data. 
+
+For larger data requirements, 2D symbologies such as Data Matrix, provide good decode performance after faxing if larger module sizes are used. They provide the added benefit of reducing the amount of real estate required in the application document due to their superior data density.
+
+

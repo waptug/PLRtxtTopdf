@@ -1,0 +1,40 @@
+Title: 
+Cisco CCNP / BSCI Exam Tutorial:  The Passive Interface Command And OSPF
+
+Word Count:
+345
+
+Summary:
+You learned what a passive interface is in your CCNA studies, but that's not all there is to it!  Learn how to apply a passive interface and how it relates to OSPF from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+cisco, ccnp, exam, bsci, pass, free, tutorial, passive, interface, ospf, eigrp, igrp, rip, ccna
+
+
+Article Body:
+To pass the BSCI exam and become a CCNP, you have to be aware of the proper use of passive interfaces.  You learned about passive interfaces in your CCNA studies, but here we’ll review the basic concept and clear up one misconception regarding passive interfaces and OSPF.
+
+Configuring an interface as passive will still allow the interface to receive routing updates, but the interface will no longer transmit them.  While the command itself would make you think this command will be applied at the interface level, that is not the case.  Below, we’ll configure ethernet0 as a RIP passive interface.
+
+R1(config)#router rip
+
+R1(config-router)#passive-interface ethernet0
+
+Ethernet0 will no longer send RIP routing updates, but will accept them.  
+
+The passive interface concept is clear enough with RIP, IGRP, and EIGRP – all protocols that send routing update packets.  But OSPF doesn’t send routing update packets – OSPF sends link state advertisements.  It’s the inability of the passive interface command to stop LSAs that lead many to think that passive interfaces cannot be used with OSPF.
+
+Even though OSPF does not sent "routing updates" in the form that RIP, IGRP, and EIGRP do, you can still configure an OSPF-enabled interface as passive in order to prevent OSPF traffic from exiting or entering that interface.  No OSPF adjacency can be formed if one of the interfaces involved is a passive interface, and if you configure an OSPF-enabled interface as passive where an adjacency already exists, the adjacency will drop almost immediately.
+
+Let's see that in action.  R1 and R2 have an existing OSPF adjacency over their Ethernet interfaces.  In an effort to reduce routing traffic, R1's e0 interface is configured as passive.  The adjacency drops right away.
+
+R1(config)#router ospf 1
+
+R1(config-router)#passive-interface ethernet0
+
+18:31:11: %OSPF-5-ADJCHG: Process 1, Nbr 2.2.2.2 on Ethernet0 from FULL to DOWN,   Neighbor Down: Interface down or detached 
+
+Knowing how to use the passive interface command is a vital part of being a CCNP, and of being a master networker.  Good luck to you in both of these pursuits!
+
+

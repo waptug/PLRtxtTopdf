@@ -1,0 +1,48 @@
+Title: 
+10 Ways To Make Sure Your Image's Bright Red Is Bright And Red
+
+Word Count:
+852
+
+Summary:
+Graphic designers, photographers, publishers and computer users at large: they all rely on their digital equipment being capable of rendering colours right. But the sad truth is your colours will differ depending on the output device. A monitor's red is not the same as an inkjet printer's red. Besides, what is "red"?
+
+Here are 10 things you can do to make sure red is red, no matter which device has to render it.
+
+1. Buy a good monitor. OK, this is an open door, but by "go...
+
+
+Keywords:
+photograph, color print, photo printer, inkjet, graphic design, color management, printing
+
+
+Article Body:
+Graphic designers, photographers, publishers and computer users at large: they all rely on their digital equipment being capable of rendering colours right. But the sad truth is your colours will differ depending on the output device. A monitor's red is not the same as an inkjet printer's red. Besides, what is "red"?
+
+Here are 10 things you can do to make sure red is red, no matter which device has to render it.
+
+1. Buy a good monitor. OK, this is an open door, but by "good" i mean a monitor that you can calibrate. That rules out all the office monitors, the Apple Cinemas and leaves you with LaCie 300 range and Eizo ColorEdge products.
+
+2. Buy a good calibration and profiling application. Even if you can't afford an Eizo ColorEdge, buy Color Solutions' basICColor Display. This software comes with a high-quality GretagMacbeth Display 2 colorimeter (called the "Squid 2" by Color Solutions), and has a feature called "software calibration". The latter calibrates any monitor by storing the calibration data (the Tone Response Curve) in the video card's lookup tables. The only requirement: your video card should support it. ATI's Radeon range supports this.
+
+3. Calibrate and create a colour profile for your monitor once a month. Calibration is different from profiling. Calibration means the colour lookup tables in the monitor are put into a known state, while a profile merely describes the monitor's perception of colours. With calibration you tell the monitor that it must render "pure red" by setting its colour channels in a certain manner. The profile you create will tell your image editing software, or graphic design application that pure red for this monitor means a specific mixture of its colour channels.
+
+4. Buy an inkjet printer which has non-clogging printheads. Ideally, printheads should never clog. If they do, you can rest assured your colours will come out awful. If they don't, you can still have bad colours, but now at least you can something about it. Good printers are a bit more expensive than the bottom-price inkjet printers you can buy these days. Think of paying something like 200 USD at a minimum. For top-notch printers like the HP Photosmart Pro B9180, expect to pay 700 USD.
+
+5. Drive your inkjet through a Raster Image Processor. Many high-end printers support a RIP, but not all RIPs are created equal. EFI makes good RIPs, as do the vendors that develop more expensive RIPs for large format printers. EFI has a decent RIP, with support for ink limiting, black start setting, etc, for a very decent price. It's the EFI Designer Edition.
+
+6. Profile your printer and use that profile with your RIP to get accurate colours, and save money on ink consumption. Through the profile settings, you can actually determine how much ink gets sprayed onto the page. For some paper types, you can save a lot of money by setting ink limiting optimally for your printer.
+
+7. Use established equipment such as X-Rite/GretagMacbeth or Barbieri to generate your CMYK printer profile. You should create a profile for every paper not supported by your printer manufacturer. If you must use your printer in RGB mode, you can do with less expensive profiling systems. The best way to ensure a good quality profile is made when you don't have the budget to buy a system that costs a few thousand dollars, is to appeal to a remote service such as Thinck.com's.
+
+8. Use an image editing application such as Photoshop, which has a "softproof" feature. To softproof means that you'll be able to visually determine an image's colours on-screen with enough accuracy to be confident the colours will match the printed output. Softproofing is never one-on-one, but can come very close, and is another way of saving money by saving on both wasted paper and ink.
+
+8. When editing your image, set the grey balance first. Select a neutral grey area in your image (if you took a photo, you'll remember what was grey, and if you don't, there are almost always objects that must be grey) and set this area as your neutral grey tone. In Photoshop or Photoshop Elements, you do this by selecting the Levels or Curves tool, selecting the grey eyedropper in the dialogue window, and clicking with this tool in the neutral area of your image.
+
+9. If your image has a warm tone to it, e.g. because it was shot at dusk or with tungsten light and no flash, you can neutralize colour casts somewhat by choosing an area that is not exactly neutral but more towards the warm tone of the image. As long as the area is greyish by nature, the image will adjust accordingly.
+
+10. Be careful with setting Saturation levels too high. If you boost saturation, you're also bossting colour inaccuracies. You can boost the saturation of your image when you're sure it is colour-accurate.
+
+These and many more tips, tricks, and tutorials, but also product reviews and in-depth technology and methodology background information is available on IT-Enquirer.com. IT-Enquirer is an online magazine aimed at creative professionals. It contains articles for beginners all the way up to experts in the field.
+
+

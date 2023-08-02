@@ -1,0 +1,38 @@
+Title: 
+Planning Your Standby Power For Business Continuity
+
+Word Count:
+468
+
+Summary:
+Companies where a power loss is no more than an inconvenience, it is common practice to install an uninterruptible power supply with a runtime sufficient to allow an orderly backup and shutdown of computers and servers.
+
+
+Keywords:
+standby power, backup,  shutdown, computers, servers
+
+
+Article Body:
+The type of business you have, will govern the type and level of protection necessary to preserve not only the smooth running, but also the reputation and profitability of your company.
+
+A Power Continuity Plan will reflect the nature of your business. For those companies where a power loss is no more than an inconvenience, it is common practice to install an uninterruptible power supply with a runtime sufficient to allow an orderly backup and shutdown of computers and servers.
+
+For other companies, such as Data Centers and financial services organizations, where any downtime impacts severely on company reputation and profits, any loss of power will have severe implications.
+
+As a starting point, you'll probably find it beneficial to evaluate the risks that your business could face should different systems fail through either electrical instability affecting the power supply or a total loss of power.
+
+Classifying your equipment
+
+Looked at from a business need perspective, it becomes clear that different systems require different levels of power protection. This will allow you to categories each piece of equipment according to the power protection that it requires.
+
+Critical systems are those that cannot be allowed to fail. They must be kept operational for as long as possible, if not indefinitely.  If the equipment was not designed to withstand power breaks of more than 4 or 5 milliseconds, it will certainly require an uninterruptible power supply (UPS). The UPS will condition incoming power and protect against relatively short periods of power loss. Extended periods will be covered by stored energy (typically additional UPS batteries) or locally generated energy (a diesel generator or fuel cell).  'Critical' systems require both UPS and generator Standby Power
+
+"Sensitive" systems comprise electronic equipment which require a "clean" shutdown and cannot withstand power fluctuations or the delay in starting up a generator.  They require a UPS to provide power to the equipment whist it shuts-down cleanly and, if required, completes a backup. 'Sensitive' systems require UPS Standby Power
+
+"Essential" systems are those that must be supplied with power in the event of a power failure, but can withstand a short power interruption. This can be, depending on the type and size of the generator, a delay of between 15 to 30 seconds before the generator starts to support the electrical systems. There are other alternative sources of power, but a diesel generator is the most common. 'Essential' systems require generator Standby Power
+
+"Other" electrical loads are those that can be allowed to fail and, in doing so, will not compromise critical systems, the health and safety of staff or customers, and will not damage the equipment in any way.  'Other' systems may not require any Standby
+
+For further information on your IT system's  power requirements then it is worth visiting www.upssystems.uk.com which explains power requirements in more detail.
+
+

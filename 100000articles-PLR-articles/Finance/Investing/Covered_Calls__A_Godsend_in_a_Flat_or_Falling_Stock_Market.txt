@@ -1,0 +1,36 @@
+Title: 
+Covered Calls, A Godsend in a Flat or Falling Stock Market
+
+Word Count:
+589
+
+Summary:
+How to generate income from your stock positions writing calls!
+
+
+Keywords:
+covered call writing, options, futures, stock, bond, income
+
+
+Article Body:
+It is amazing to me that not many retail investors understand the concept of generating cash flow from their stock positions. When I tell people that I utilize covered calls to generate extra income, hedge my stock positions, and set strict sell disciplines they look at me like I am crazy. I was introduced to the concept from a stockbroker, Scott Masse, who runs Masse Wealth Management, in Smithfield, RI. Scott is also the owner of a few bars and one night over a few diet cocktails, ie. barcadi and diet cola, he explained the concept to me. The idea of writing covered calls is the only option strategy that you can employ at most of the major brokerage firms for your IRA investments. The reason is that writing covered calls is a very conservative strategy relative to other option strategies.
+
+The strategy is very similiar to selling an option on a piece of real estate. For example, I'll give you $10,000 now, if you allow me to buy your property 6 months from now at a set price. If I choose not to exercise my option, you keep the money and we go our seperate ways.
+
+With a stock, if I buy 1,000 shares of ABC OIL at $10 and the stock goes to $11 in the following month. I can sell someone the "right" or option to buy the stock from me six months from now at $12.50. For that right or option, the option buyer has to give me some consideration, similiar to the above real estate example, let's assume it is .50 per share or $500.
+
+The $500 is immediately deposited into my brokerage account, but an option position also shows up on my statement. I can not sell the stock prior to 6 months unless I buy back the option in the open market. The option price can fluctuate from day to day, therefore, I typically hold my stocks until expiration.
+
+Six months from now, two things can happen. One, the stock goes above $12.50 and the person "calls" me out of the position, which I am more than happy to do since I bought it at ten. Second, the stock has declined below $12.50 and the option holder is holding on to a worthless option. The option holder would not "call" the stock from me at $12.5 when he or she might be able to buy it in the open market at $11.50.
+
+I then start the process all over again and write the calls again.
+
+Let's examine what I accomplished with this strategy: 1. I hedged my position by 5% or $500 2. I set a strict sell price that I was willing to let the shares gor for, $12.50 3. I generated income that I could enjoy or reinvest.
+
+I can not tell you how happy this strategy has made me since the crash of 2000-2001. The strategy has helped me keep my head above water in this depressing market.
+
+A good friend of mine is a computer programmer. He also shares a passion for covered call writing and has written a program that is in beta testing. I am his BETA Dummy. So far, the program has saved me countless hours of research and has narrowed my focus to a short list of 5-10 natural resource stocks to add to my portfolio quarterly. In future articles, I'll discuss some of my picks and income generated from the covered call strategy, plus provide a link to the option software.
+
+As a reminder, make sure you "know what you own" and consult with a tax professional or adviser before investing your hard earned money!
+
+

@@ -1,0 +1,47 @@
+Title: 
+Maintain Your Computer – Keep Your Business Running
+
+Word Count:
+544
+
+Summary:
+Maintaining your computer is extremely important – especially if you are an Internet Marketer.  As you know, without your computer, your business can
+come to a screeching halt. There are 4 important steps in which you can perform on a regular basis, to help protect your computer and your livelihood.
+
+
+Keywords:
+computer maintenance, clean computer, protected computer, secure computer
+
+
+Article Body:
+Maintaining your computer is extremely important – especially if you are an Internet Marketer.  As you know, without your computer, your business can
+come to a screeching halt. There are 4 important steps in which you can perform on a regular basis, to help protect your computer and your livelihood.
+
+First line of defense, invest in quality virus software. Be it Norton AntiVirus, McAfee Virus Software or another software program, protect yourself and
+your computer.
+
+I personally have set Norton to run every evening. It may seem like a hassle when you’re trying to get a project done, however, a 10 minute break in
+the action is far better than a one or two days of down time – and possible loss data, if your computer crashes.  And trust me, I’ve learned this from experience.
+
+Second line of defense, invest in ad ware software. I use Ad-Aware SE Personal – you can get the freeware version or the shareware version – the decision is yours. I’m currently using the freeware version, but will eventually
+be going to the paid version for added protection.  Anyway, Ad-Aware SE will protect your computer from such critters as, data-mining, scumware, parasites, mulware, browser hijackers, to name just a few.
+
+A third line of defense is to always backup your data. Even though you don’t want to hear this, realize that your hard-drive can either go belly up or crash.  It is always better to have a backup – it shortens the down time.  
+
+Just a side note, when I was working in the corporate world, I had the misfortune of having a supervisor that was computer illiterate. My computer started to make sounds similar to that of a seagull.  I told my supervisor that I thought my hard-drive was going out. She did not want to believe me, and stated “We do not have the money in our budget for a hard-drive”. I found that to be a rather crass remark and waited nervously for my hard-drive to make its exit.  To make a long story short, two days later, I get a cryptic
+statement flashing on my screen that said “Back up your Hard-Drive - Error” -- than my hard-drive crashed and died.  Amazing, they did have $60 in their little old budget to get a new hard-drive.  Now, how much do you suppose my supervisor’s statement cost the company? 
+
+Fourth line of defense and maintenance, always clean out your temporary Internet files.  It uses up memory!
+
+To clear out your temporary Internet files do the following:
+1.  Open up your Internet connection.
+2.  Click On Tools, then Internet Options
+3.  Under the General Section you should see a section
+    labeled “Temporary Internet Files”
+4.  Click on the button that says Delete Cookies, and then the button that says Delete Files. When you click on delete files,  a box will open up and will ask you if you want to alsodelete off-line files – check that box, as well.
+
+Within the General Section you should also see a section called History.  I decrease the number of days that I hold on to the pages that I visited. Again, this helps to save memory.
+
+These simple maintenance tips can keep your computer clean and protected, which is extremely important when you’re making your living on the Internet.
+
+

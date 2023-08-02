@@ -1,0 +1,55 @@
+Title: 
+CNC Machining
+
+Word Count:
+343
+
+Summary:
+Everything before this topic is preparation. CNC Machining is where the rubber meets the road. All the steps of CNC before machining are just preparing for the machining phase of the project. A simple definition of machining is removing material. You remove material in various ways to come up with the part or piece.
+
+CNC Machining can be performed on numerous types of material. For example, wood, steel, aluminum, and stone. Machining generally has higher tolerances associat...
+
+
+Keywords:
+CNC, CNC Information, CNC Machining, Machining, CNC Blog
+
+
+Article Body:
+Everything before this topic is preparation. CNC Machining is where the rubber meets the road. All the steps of CNC before machining are just preparing for the machining phase of the project. A simple definition of machining is removing material. You remove material in various ways to come up with the part or piece.
+
+CNC Machining can be performed on numerous types of material. For example, wood, steel, aluminum, and stone. Machining generally has higher tolerances associated with it. When machining, you are trying to do something more precise.
+
+In machining, we use some sort of tool. This tool could be a grinder, drill bit, end mill, router bit or other tool. There are infinite variations of tools. CNC Tooling generally costs a fair amount of money. Once you invest in your tooling though, you can use it again and again until it wears out. If you have a large variety of different tools, you will be able to perform a large variety of machining types.
+
+Here is a list of common tooling used in CNC Machines:
+
+Drill bits
+End mills
+Plasma cutter
+Dovetail cutter
+Fly cutter
+
+If you would like to look at different types of CNC tooling, go to one of these sources on the Internet:
+
+Enco
+Travers
+McMasters-Carr
+Grainger
+
+Flip through a few of these suppliers’ catalogs and you will get an idea about the infinite styles of tooling.
+
+CNC is used in the machining process. Generally, you can get better accuracy, quicker production, and overall efficiencies when utilizing CNC machining. This is why it has become so popular. In the past, CNC machining was very costly. Over time, it has become somewhat inexpensive and now people do it as a hobby. I am guessing that is why you are here.
+
+Here are a few different types of CNC machines that perform various machining processes:
+
+Milling machines
+Wood routers
+Plasma cutters
+Foam cutters
+Press brakes
+Lathes
+Cutoff saws
+
+People have successfully applied CNC to virtually any type of motion control. The only thing that will limit you is your imagination.
+
+

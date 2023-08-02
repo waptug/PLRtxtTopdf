@@ -1,0 +1,34 @@
+Title: 
+RSA Attack Efficiency Improves
+
+Word Count:
+525
+
+Summary:
+August 2006 saw the disclosure of a fairly interesting attack against the RSA encryption algorithm (most famously being used in SSL - protecting online transactions). While it didn't target the actual algorithm, which still has not been broken, it is a so-called side channel attack, targeting the peculiarities associated with implementing the algorithm on various computing hardware.
+
+The team behind the initial disclosure have recently submitted a modified approach to the a...
+
+
+Keywords:
+RSA, https, security, Information Security, online transactions, sunnet beskerming
+
+
+Article Body:
+August 2006 saw the disclosure of a fairly interesting attack against the RSA encryption algorithm (most famously being used in SSL - protecting online transactions). While it didn't target the actual algorithm, which still has not been broken, it is a so-called side channel attack, targeting the peculiarities associated with implementing the algorithm on various computing hardware.
+
+The team behind the initial disclosure have recently submitted a modified approach to the attack, resulting in almost-astronomical improvements in attack efficiency.
+
+In basic terms, the attacks rely upon a phenomenon known as 'Branch Prediction Analysis', where a program / attacker is able to predict what other software is doing as it passes through the CPU of a system.
+
+In the first iteration of the described attack, the method required snooping on what was happening with the CPU for a relatively long period (or number of cycles), and certain software that implemented SSL protection (OpenSSL) quickly introduced patches to protect against this listening attack.
+
+While many hardware manufacturers and Operating System developers have introduced defensive mechanisms to try and prevent this sort of attack taking place, it has been discovered that Pentium-IV (PIV) chips with Hyper-Threading enabled still have two caches that are not adequately protected. The new iteration of the attack, using a technique dubbed 'Simple Branch Prediction Analysis' (SBPA) targets both of these caches and can extract almost the complete secret SSL key in just one cycle. Running as an unprivileged user, this method can also target and extract data from any other software processes running on the system (SSL is an example in this case).
+
+The technical black magic of how a branch predictor attack works can be explained as follows. Although modern CPUs are very quick, they still can't process absolutely every bit of information that they need to without a queue building up. This queue of instructions / data waiting for processing sits in a cache next to the CPU and they are executed in order of priority / time spent in the queue (various tuning settings come into play). By attempting to monopolise the CPU's attention, and filling the cache, the miniscule timing differences between when instructions from the same process are executed can give hints about what other instructions and data are moving through the CPU. Being able to interpret what this data is exactly, is key to branch prediction.
+
+Mitigating the issue is the requirement to be running secure and insecure processes on the same processor at the same time, and for the attacker being able to run their process as a local user. Due the spying process capturing almost 100% CPU continuously while it is running, normal system monitoring software should be alerting administrators to something out of the ordinary running on the system.
+
+What real-world threat exists for this relatively esoteric attack? Shared-server installations. It would be possible for a lesser-privileged account holder on a shared server to run the spying process while other account holders are negotiating SSL connections. A well timed attack will allow them to run their spying process once (and thus minimise the attention drawn to it), and then be able to effectively intercept SSL communications directed at the target.
+
+

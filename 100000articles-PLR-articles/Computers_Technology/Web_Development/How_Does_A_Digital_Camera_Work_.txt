@@ -1,0 +1,36 @@
+Title: 
+How Does A Digital Camera Work?
+
+Word Count:
+557
+
+Summary:
+Before getting to see how a digital camera works, let’s begin by saying that a digital camera differs from a classical one primary through its storage capabilities. Imagine that using your old classic 35 mm camera you could make “n” pictures (for example 36) on a film before having to stop making pictures and change the film. 
+
+This inconvenient is no more present with digital cameras because you have so much space available that you could do several hundred pictures before...
+
+
+Keywords:
+digital photo printing
+
+
+Article Body:
+Before getting to see how a digital camera works, let’s begin by saying that a digital camera differs from a classical one primary through its storage capabilities. Imagine that using your old classic 35 mm camera you could make “n” pictures (for example 36) on a film before having to stop making pictures and change the film. 
+
+This inconvenient is no more present with digital cameras because you have so much space available that you could do several hundred pictures before having to empty your card and if this thing is annoying imagine a portable drive with so much space that you even forget the meaning of “spaceless”. Here is how a digital camera works.
+
+Until now we concluded that the biggest difference between classical cameras and digital ones is “available space” but is this all? The answer is a simple NO; I suppose you heard many times the word mega pixel when speaking of digital camera, but what is it? A digital camera works on the basis of stimuli that an incorporated sensor receives.
+
+In a digital camera the light excites a digital sensor which is a very small computer; this sensor is composed of millions of tiny sensors called “pixel”, a pixel means “picture elements”. It is on due to pixel structure that a digital camera works.
+
+These many small sensors make up a sort of table that has a vertical and horizontal length, so if I say that my camera has “N pixels width * M pixels height = K” this number K is the “Megapixel that we’ve heard so many people speak about”. So is this all the mechanism that shows how a digital camera works?
+
+So mega pixels are made of millions of small dots, so more pixels means more mega pixels, hence means a higher quality picture, but a more expensive camera. After the light has reached the sensor it goes through several filters until it becomes a digital signal. This doesn’t tell us all about how a digital camera works.
+
+Another set of filters is applied for white balance, color and aliasing. At the end of this process the image is made as small as possible with a technique of “erasing” unnecessary pixels. Next the image gets into the buffer, and when the buffer has completed loading the image it writes it on an external memory like a card. Basically this is the secret of how a digital camera works.
+
+Now I will tell you a few words about the “legendary” zoom that usually makes the difference between a cheep and an expensive camera. The digital zoom is a “fake” zoom because it simply enlarges the pixels that make up the photo so … you can’t imagine the result. 
+
+How does a digital camera zoom work? An optical zoom is a different thing, because you can change the “field of view” for widening out for a landscape photo or zoom on for a nice portrait. All this is realized by moving the lens elements to change the focal length. So if you like to take nice photos look for the optical zoom, remember that the digital one is just for the seller to tell you that it’s not such a bad deal to buy a camera that has a  zoom of 5. Always ask and test how the digital camera works.
+
+

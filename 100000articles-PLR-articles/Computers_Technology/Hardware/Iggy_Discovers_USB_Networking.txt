@@ -1,0 +1,39 @@
+Title: 
+Iggy Discovers USB Networking
+
+Word Count:
+757
+
+Summary:
+My new laptop is fantastic, with it's nice new squeaky-clean operating system it runs like a dream. But it wasn't long before I had to face the technical challenge of getting all my old data from my old desktop computer (which was bursting at the seams with data!) onto my new laptop.
+
+
+Keywords:
+USB, Data Transfer Cable, CD, DVD, USB Memory Stick, operating system, Hard Drive, networking
+
+
+Article Body:
+My new laptop is fantastic, with it's nice new squeaky-clean operating system it runs like a dream. But it wasn't long before I had to face the technical challenge of getting all my old data from my old desktop computer (which was bursting at the seams with data!) onto my new laptop.
+
+I was also intending to format and give away my old computer, so I could not afford to lose any of this data in the process.
+
+I sat down at my old computer and listed all of my important files to assess exactly what and how much data I needed to transfer over to the new laptop. 
+
+Including my pictures, MP3's, Office documents, work backup's and so on, I was looking at transferring about 20 Gigabytes worth of data, it seems to build up so quickly! Thank goodness for my new laptop's 100 Gigabyte Hard Drive, which will allow me to transfer all of my data to it and still have room for a lot more. I know that the main application programmes (Word, Excel and so on) from my old computer will all have to be reinstalled on to the new laptop from their original install disks, but how do I get all the rest of the data over to the new laptop?
+
+Floppy disk? - no way, even if my laptop had a floppy disk drive I would need about 14,000 disks!
+
+CD or DVD? - Both my new laptop and my old computer have CD ROM drives, to get all my data over using CD's I would need about 30 disks as well as some software to package all the data up nice and tidily across the 30 disks, viable but a lot of work and time needed. DVD's would be better but my old computer does not have a DVD drive! There must be an easier way.
+
+USB Memory Stick? - Not really a viable option, the maximum capacity of the USB Memory Stick that I can afford is 512MB, so this would require about 40 swaps from the old computer to the new and as my old computer is only USB1.1 which transfers at 1.5 mega bytes this process is going to be possible but really slow.
+
+Networking? - Apparently I could network my two machines together with a "Cross Wired Network lead" and a copy of "Networking Computers for Dummies", but unfortunately my old dinosaur of a computer does not have a network card! Network cards are cheap enough but I still don't want to spend any money on this old computer and really don't fancy fiddling around inside the desktop. Although it does sound good to be able to connect the two computers together and transfer the data through the cable.
+
+This is when I came across a very handy cable called a USB Data Link Cable. Apparently I can just plug one end into the USB port on my old PC and the other end into the USB port on my new laptop and then as if by magic, I should have a USB Network between both computers. Now this sounds more like it! Both my computers have USB ports and even though my old computer is USB1.1 and my new laptop is USB2.0 the cable should work anyway, although the transfer rate will only be at the lower USB1.1 speed.
+After finding more about this cable on the Internet I found out that it is also known as a USB File/Data Transfer Cable. Once connected, the transfer of data is done quickly and effortlessly by simply dragging and dropping files from one window to another, just as you normally would when moving files around on your system. So I ordered one online right away.
+
+The USB Data Transfer Cable arrived the next day and I got down to the business of getting the thing to work, the hardest part was working out the blatantly "translated" instructions. All I had to do was install the included software from the CD, once only on each of my computers, then plug the cable into a USB port on each computer and run the software. Two Windows Explorer type windows appeared, one showing files on the laptop and the other showing files on the PC, then I simply dragged and dropped files between the two computers.
+
+I was amazed, this USB cable solution was fantastic. It was so easy to set up and turned out to be the cheapest option by far at only £15 and much less hassle than any other option, almost too good to be true, magic!
+
+

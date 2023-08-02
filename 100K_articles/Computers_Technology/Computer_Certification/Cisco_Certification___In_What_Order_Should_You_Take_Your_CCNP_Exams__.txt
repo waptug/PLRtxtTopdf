@@ -1,0 +1,33 @@
+Title: 
+Cisco Certification:  In What Order Should You Take Your CCNP Exams ?
+
+Word Count:
+357
+
+Summary:
+Choosing the order of your CCNP exams is an important decision.  Chris Bryant, CCIE #12933, offers advice based on his experience and the experience of CCNPs worldwide.
+
+
+Keywords:
+cisco, ccna, ccnp, bcran, bsci, free, pass, certification, exam, order, bryant, chris, 12933, order
+
+
+Article Body:
+When you choose to pursue your Cisco Certified Network Professional certification, you've got some decisions to make right at the beginning. Cisco offers a three-exam path and a four-exam path, and you select the order in which you'll take and pass the exams.
+
+While every CCNP candidate has to make their own decision, I'd like to share some thoughts based on my personal experience and the experiences of CCNPs worldwide.
+
+The solid foundation of networking knowledge you built as a CCNA will help you a great deal on your BSCI (Building Scalable Cisco Internetworks, 642-801) exam. This is the most common exam to take first, and I'd recommend you do so as well. While there are some topics that will be new to you, such as BGP, many of the BSCI topics will be familiar to you from your CCNA studies.
+
+The "middle" exams are the BCMSN (Building Cisco Multilayer Switched Networks, 642-811) and BCRAN (Building Cisco Remote Access Networks, 642-821). There is no real advantage in taking one of these before the other, although most candidates take the switching exam, then the remote access exam.
+
+I do recommend you take the CIT (Cisco Internetwork Troubleshooting) exam last. This exam will demand you put into action the skills you have learned while earning your CCNA and passing the first three exams. Again, it's not written in stone and there are always exceptions, but CCNP candidates do seem to have more success on this exam when they take it last.
+
+Should you choose the three-exam path, you'll be taking a Composite exam (642-891). This exam combines the BSCI and BCMSN exams, and it's best to take this one first. It builds nicely with your CCNA skills.
+
+Again, I would take the BCRAN exam after the Composite, and t
+he Troubleshooting exam last.
+
+Whichever path you choose, you've chosen wisely in which certification to pursue. The CCNP is a true test of your networking skills, and when you make the decision to go after the CCIE, you'll be glad to have the solid foundation of networking skills your CCNA and CCNP studies gave you.
+
+

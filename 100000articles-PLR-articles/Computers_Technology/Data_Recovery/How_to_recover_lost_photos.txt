@@ -1,0 +1,26 @@
+Title: 
+How to recover lost photos
+
+Word Count:
+325
+
+Summary:
+There is no need to panic if your digital photos have vanished from your hard drive or memory card. In most cases, the photos can easily be recovered.
+
+
+Keywords:
+data recovery, photo recovery, image recovery, recover photos, JPEG recovery
+
+
+Article Body:
+It happens all too often. You're downloading your latest snaps from your digital camera, and the computer freezes. After you restart and try again, there appear to be no pictures in the camera. Or perhaps the photos were on your hard drive and you deleted them accidentally, or you didn't have a backup and your hard drive failed.
+
+Whatever the cause, there is no reason to panic. The computer may no longer be able to find your pictures, but it's unusual for a fault to completely wipe them from the storage card or disk. With the aid of some inexpensive data recovery software, you're almost certain to be able to get your photos back.
+
+There are many data recovery programs on the market, but for photo recovery I strongly advise using software specifically designed to recover digital images. This kind of software has several benefits, not least the ability to show a preview of every recovered image. Often, data recovery tools find files that look like they might have been a digital image, but aren't. The preview feature saves you wasting time recovering files that turn out to be junk.
+
+Another advantage of specialised photo recovery software is that it looks only for photo image file types. It knows what JPEG and other image files look like on disk. This improves the chances of a successful recovery, and reduces the number of junk files that are found.
+
+Modern data recovery software is easy enough to use that anyone can do it. You just start the software and tell the program where the drive containing the missing images is. The software scans the drive looking for the patterns that it recognizes as photo image files. When it has finished, it will display a list of files, with thumbnail images showing the content. All you have to do is select the photos you want to recover, and safe them to a safe place on your hard disk.
+
+

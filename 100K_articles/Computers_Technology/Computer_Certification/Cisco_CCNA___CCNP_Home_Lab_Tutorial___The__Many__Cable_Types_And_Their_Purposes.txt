@@ -1,0 +1,28 @@
+Title: 
+Cisco CCNA / CCNP Home Lab Tutorial:  The (Many) Cable Types And Their Purposes
+
+Word Count:
+304
+
+Summary:
+When you’re putting together your CCNA / CCNP home lab, deciding on the cables you’ll need and how many you’ll need can get confusing quickly.  Learn how to make these decisions without spending extra money in this tutorial from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccna,exam,pass,free,tutorial,cable,ccnp,crossover,straight,through,console,rollover,rolled,octal,dte,dce,clockrate,certification,test
+
+
+Article Body:
+One of the most common questions I get from CCNA and CCNP candidates who are setting up their own home labs is "What cables will I need?"  The answer is "It depends."  As you know from your exam studies, the physical layout of your lab is what determines the cables you'll need.  Let's take a look at the most common home lab cable types and when you will need them.
+
+Straight-through cables have quite a few uses in a CCNA / CCNP home lab.  You'll need them to connect a switch port to an AUI port on a router (and you'll need a transceiver for that as well).  If you have an ISDN simulator, straight-through cables can be used to connect a router's BRI port to the simulator.  
+
+Crossover cables are used to connect switches and allow them to trunk.  If at all possible, get two switches in your home lab.  This will allow you to gain valuable experience in manipulating root bridge election, working with STP, and creating EtherChannels.
+
+DTE/DCE cables are used to connect two routers via their serial cables.  If you are planning on using a frame relay switch in your lab, you'll need several of these.  You can also get some great practice in by directly connecting two routers and bringing the connection up (and making sure it stays up!).  This is valuable practice for your CCNA exam.
+
+Octal cables are used to connect an access server to each of the other routers and switches in your lab.  
+
+Finally, there's that precious blue cable, the rollover cable.  Rollover cables (sometimes called "rolled cables") allow you to connect a host device directly to a router or switch's console port.  These cables have a way of disappearing around an IT shop, so make sure to take one home - and leave it there!
+
+

@@ -1,0 +1,100 @@
+Title: 
+Will People Really Read Your Small Business Web Site?
+
+Word Count:
+1329
+
+Summary:
+Would it surprise you to know that most web site users won’t really read your web site?  That’s what Jakob Nielsen and John Morkes found in a 1997 study that 79% will scan your web site, and only 16% read it word for word.  And there's more.  How should you write your website copy to get the best chance of it being read?
+
+
+Keywords:
+small business web site, web site copywriting, how to write content for your website
+
+
+Article Body:
+You may have spent quite a bit of time designing your web site and writing the copy for it, or you may have spent quite a bit of money and had it all done by a professional designer and copywriter.  
+
+But there are about 4 billion websites on the internet.  That’s a lot of competition for your site, so how do you get people to actually read your copy?  There have been several interesting studies about website reading patterns and usability.  They’re referenced at the bottom of this article.
+
+Website users generally leave a site that takes longer than 7 seconds to load, and the average visit length is just over 1 minute.  So assuming your site loads in less than 7 seconds, you have on average, one minute to convince your visitor to stay.  And how do you get them to stay?  The answer is simple: content, content, content.
+
+But it takes an average of 5 to 7 visits in order to get people to buy your product or service, so how do you get them to come back?  By changing your content on a regular basis.  Delete text, add text.  Add whole pages from time to time, and consider splitting long pages into two.  
+
+According to research, content in and of itself is not enough. There are several factors to consider when building a superior web site.  Several studies tell us how to improve any web site.  
+
+How Viewers Read Web Sites
+Would it surprise you to know that most web site users won’t really read your web site?  That’s what Jakob Nielsen and John Morkes found in a 1997 study. What they found is that 79% will scan your web site, and only 16% read it word for word. Their recommendations are to use scannable text by using:
+ 
+     •	Highlighted words
+     •	Meaningful sub-headings
+     •	Bulleted lists
+     •	One idea per paragraph
+     •	Inverted pyramid style
+     •	Half the word count of conventional writing
+
+Let’s look at what the W3school says too.  Their article “Web Site Design” confirms that users scan rather than read, leaving in a few seconds if they don’t feel they’ve found what they’re looking for.  The W3school suggests using short sentences and paragraphs, and breaking up excess information into different pages.  
+
+Let’s talk for a moment about the inverted pyramid style because that’s probably the only term you may not have heard before.  Remember the papers you used to have to write in high school or for university?  
+
+Typical they start with an introduction, then move to background information and discussion, then to findings and finally to a conclusion and recommendations.  All that means you have to read a lot of information before you reach a conclusion and recommendations
+
+What Nielsen and Morkes are suggesting is to invert the pyramid.  
+
+You could write your web site as a variation of the inverted pyramid by writing a summary first, and adding detail after the summary.   Most people don’t scroll, but writing your web site inverted pyramid style just might convince them to.
+
+How Writing Style Affects Readability
+Nielsen and Morkes measured the effect of different styles of writing on five versions of the same website.  A site with promotional copywriting was the control version, and each of the other four sites used one of the following versions and had the following improvement in per cent according to their test readers:
+
+     •	Concise version with about half the word count as the control: 58%
+     •	Scannable layout with the same text as the control but easily scanned: 47%
+     •	Objective language using neutral rather than subjective, boastful or exaggerated language: 27%
+     •	Combined version using all three: 124%
+
+Tracking Their Eye Movements
+In 2003 and 2004 Eyetrack completed a study called Eyetrack III.  Their study was for news-type sites, but what they found will also help us structure our small business web site.  The study found their users followed our left-to-right Western Culture, first noticing the top left of the page, hover there for a bit, and then moving downward in a z-like pattern to examine the rest of the page, and finally moving back up the page to the upper right.  
+
+The study found that the eye pauses and reads the first few words of a dominant headline first, especially when that headline is in the upper left and sometimes the upper right.  Readers will usually stop reading at five headlines regardless of the number used, but an unusual keyword will often get people to pause.  Curiously, they also found that smaller type encourages reading while larger type encourages scanning.  
+
+Are You Credible?
+Nielsen and Morkes found that web site users look for credibility in various ways, and suggest credibility is increased by high-quality graphics, good writing and using outbound links.  
+
+The internet was originally intended for information, and it remains that way to this day.  Over the years, several people have tried experimenting with website copywriting.  What they consistently found was that users did not want to see “hard sell” types of copywriting.  
+
+Nielsen and Morkes confirmed that theory in their article as well.  They found that web site users want to get straight facts and that credibility suffers when users feel claims are exaggerated.
+ An interesting study on web site credibility is “How Do People Evaluate a Web Site's Credibility?” by B.J. Fogg Ph.D, Cathy Soohoo, David Danielson for Consumer Webwatch..  They studied 10 sites in each of 10 categories, with almost 2700 participants evaluating the websites.
+They showed the results of 18 comments on credibility.  These are the top 10:
+
+     •	Design look:  46.1%
+     •	Information design/structure—organization and ease of navigation: 28.5%
+     •	Information focus—breadth and depth: 25.1%
+     •	Company motive—admirable motive vs strictly commercial: 15.5%
+     •	Information usefulness: 14.8%
+     •	Information accuracy: 14.3%
+     •	Name recognition and reputation: 14.1%
+     •	Advertising—dislike of pop ups, positive use of advertising: 13.8%
+     •	Information bias—commented on positively and negatively: 11.6%
+     •	Writing tone—straightforward friendly tone boosts credibility: 9%
+
+What Does All This Mean for You?
+Content may be king, but design has a strong influence on credibility.  Your design should be professional, organized, consistent, and easy to navigate.  Pages should load within seven seconds or you might lose visitors, so use a small number of quality, optimized graphics, and keep your page content down to two, or at the most three MS Word pages.
+
+Your reader’s eye first stops at the top left quadrant, so that’s a good spot for your logo and company name.  
+
+And, a headline in the top left quadrant is very important to keeping your reader on your page for longer than a minute, so consider a headline just under your logo.  Consider that the first three words of your opening headline are the most important, and straightforward headlines are better than cute, ambiguous ones.  
+
+As to the content itself, are you really a good writer?  If you’re not, you might want to hire a professional to write your web pages for you.  If you are, use a concise, scannable, and objective writing style to maximize your web site readability. Aim for a straightforward and friendly tone and write useful, accurate information with both breadth and depth.  
+
+When you’re finished, put it aside for a day or two, and then edit what you wrote.  Dot all the i’s and cross all those t’s.  Check spelling and punctuation.  And then take another good look at what you’ve written and remove any “hard sell”.  It has its uses, but it just doesn’t seem to work on the net.  
+
+Works cited in this article:
+
+ “How Users Read on the Web” by Jakob Nielsen and John Morkes, 1997, http://www.useit.com/alertbox/9719a.html
+
+“The Best of Eyetrack III: What We Saw When We Looked Through Their Eyes” Steve Outing and Laura Ruel, 2003 and 2004       http://poynterextra.org/eyetrack2004/main.htm 
+
+“How Do People Evaluate a Web Site's Credibility?” by B.J. Fogg Ph.D, Cathy Soohoo, David Danielson for Consumer Webwatch.  http://www.consumerwebwatch.org/dynamic/web-credibility-reports-evaluate-abstract.cfm
+
+“Web Site Design” W3Schools http://www.w3schools.com/site/site_design.asp
+
+

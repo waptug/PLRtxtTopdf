@@ -1,0 +1,27 @@
+Title: 
+Runtime Error
+
+Word Count:
+143
+
+Summary:
+A Runtime Error is an error that occurs during the execution of a program.
+
+
+Keywords:
+Runtime Error
+
+
+Article Body:
+A Runtime Error is an error that occurs during the execution of a program.
+"Runtime Error" is a very generic error message and is usually accompanied by additional information, such as "Runtime Error 6507."
+The opposite of a runtime error is a compile time error. Compile time errors occur as a program is being compiled from source code into executable code.
+Runtime errors can occur for an inexhaustable number of reasons. These include bugs in the original program, hardware failure, operator error, and resource exhaustion
+To properly troubleshoot a runtime error you will need additional information, such as: 
+•	An error number 
+•	Where you were in the program with the error occurred 
+•	What you did just before the error occurred 
+•	What you say just before and just after the error occured 
+•	The state of the machine when the error occurred (memory, disk, and cpu usage)
+
+

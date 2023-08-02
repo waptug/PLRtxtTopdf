@@ -1,0 +1,32 @@
+Title: 
+Powerful FTP Client For Windows - FTP Voyager
+
+Word Count:
+415
+
+Summary:
+FTP Voyager, This file transfer software may be the most powerful FTP client for windows on the market now. It has an intuitive drag-and-drop interface,update a web site with a single click, transfer files directly btween FTP servers, and resume interrupted downloads. I think, it is a very perfect tool for web developers or anyone that moves files on the internet up till now.
+
+Regardless of the underlying operating system, MLST and MLSD are two new FTP commandsand can provi...
+
+
+Keywords:
+ftp,software,review,download
+
+
+Article Body:
+FTP Voyager, This file transfer software may be the most powerful FTP client for windows on the market now. It has an intuitive drag-and-drop interface,update a web site with a single click, transfer files directly btween FTP servers, and resume interrupted downloads. I think, it is a very perfect tool for web developers or anyone that moves files on the internet up till now.
+
+Regardless of the underlying operating system, MLST and MLSD are two new FTP commandsand can provide detailed, standardized directory listings; it supports on-the-fly data compression which can improve the transfer rates on many files by over 50%; when you are downloading or uploading many mall files at the same time, the FTP Voyager can download or upload multiple filels in multiple connections, and you can control the transfer rate for file transfers, that means the overall rate improvement can be sbustantial; A new function in FTP Voyager is the ability to choose between several different menu and toolbar styles; If you want to see image files both on the server and on your computer, the thumbnail mode is a great way. It is very ideal for webmasters and anyone sharing image files with others.
+
+Its XCRC support function can verify the contents of uploaded and downloaded files. If the server supports XCRC, FTP Voyager will ensure the content of the file matches the file transferred.
+
+The most recent release of FTP Voyager support some new open-source add-on programs, such as transfer Tweak, Rename, Notify and so on. FTP Voyager Add-Ons can be configured for all FTP Site Profiles or for individual Site Profiles.
+
+FTP Voyager supports SSL, the same level of encryption supported by our web browser, to protect our data. When using SSL our data is encrypted so that prying eyes cannot see it, and our confidential information is protected. Connect to any SSL enabled FTP server, such as serv-U, and our data is safe.
+
+FTP Voyager and serv-U, now more than ever before, will help you protect your data from prying eyes. Serv-U and FTP Voyager, when used together, become a powerful FTP client and server solution. Together, they do what no other FTP client and server can.
+
+We can choose to download FTP Voyager for the 30-day free evaluation period. After the 30-day trial period has expired, it will no longer function. If you want to use it after the trial period, you will need to ruchase a registration ID which will make the grogram fully function again.
+
+

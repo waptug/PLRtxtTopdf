@@ -1,0 +1,22 @@
+An Overview of the Concept behind RSS Feeds
+
+RSS Feeds stands for Really Simple Syndication. Other times it is also called Rich Site Summary. But both have same meanings. The first time you see this, it may appear complex. But as you go along on your information gathering venture in the cyber world, you will encounter this many times. Have you ever tried clicking on one?
+
+Click and You Will Receive
+You can compare RSS to a website or blog that offers web surfers something to read or a news feed of vast information. Everyone can opt to add what information they like for free to their own news reader. It can also be displayed on your PC's desktop or in the web browser that you are using.
+
+So if you have click on the information provider of your choice, the news will be given to you as they come so you no longer need to check the site back for any updates. This made it easier for web users, especially those who were fond of subscribing to newsletters of their chosen site. It eliminates the hassle of checking your email everyday just to know if there is any update on your preferred site. 
+
+The concept behind this can be compared to how you want to get your newspapers. You can't afford to go to a stand everyday just to buy one. It will be easier if you will get your dailies delivered to you each day. By clicking on the RSS feature of the site of your choice, the news will be made available at your PC's desktop as long as you are connected to the Internet. All those information could be read or ignored, ready to be shared and printed. 
+
+It is easy to use. As long as you a connection and a web browser, you are ready to go. You can filter through the information and click on the topics that you find interesting. You can customize your choice and delete or add something every day. It is that simple. You will get all the information you want on a daily basis without having to go through all the individual web pages. 
+
+Trivia Time
+Did you know that RSS was invented by Netscape? They used it at the time when they were struggling to enter the portal biz. They wanted the RSS .90, an XML format, which would make news gathering and adding those on their site a breeze. After a time, they came up with the RSS .91 but discontinued when they didn’t push through with the portal business.
+
+This is where UserLand Software picked it up. They didn't stop developing the idea. They had versions like .92, .93 and .94. They then developed their own interpretation of the original idea through the RSS 1.0. This is still being developed and as of late, they have the RSS 2.0.
+
+Source of Information
+You can also utilize RSS on your own web site. But rather than updating the feature manually, you can choose to use a tool like Weblog. This will automatically create the headlines, the links and descriptions. 
+
+At this day and age, information is vast and scattered all over the web. And as days go by, it becomes easier for people to choose the kind of information that they want to be given to them whenever they need such. Thanks to the ever developing concept of RSS Feeds.

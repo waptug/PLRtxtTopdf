@@ -1,0 +1,34 @@
+Title: 
+Protect Your PC - Avoid Spyware And Adware
+
+Word Count:
+512
+
+Summary:
+Spyware is tracking software that is secretly planted on your computer, and used to gather information about your browsing habits. Adware is advertising that comes loaded with freeware and shareware programs. When you use adware-supported programs, you will see ads popping up happening all over your computer screen at regular intervals. Both adware and spyware have tremendous nuisance value and must be done away with as quickly as possible.
+
+You will be surprised to know th...
+
+
+Keywords:
+GoToMeeting, GoToMyPC
+
+
+Article Body:
+Spyware is tracking software that is secretly planted on your computer, and used to gather information about your browsing habits. Adware is advertising that comes loaded with freeware and shareware programs. When you use adware-supported programs, you will see ads popping up happening all over your computer screen at regular intervals. Both adware and spyware have tremendous nuisance value and must be done away with as quickly as possible.
+
+You will be surprised to know that the distribution of online advertisements via spyware and adware is a massive $2 billion industry (Source: Webroot Software, Inc). Both adware and spyware are hostile pieces of software that require a fitting reply from the average Internet surfer.
+
+According to statistics published by the National Cyber Security Alliance, more than 90% of all PCs are affected by spyware. Spyware is programmed so craftily that it slips through firewalls and anti-virus software. Once it gets into the system and begins its act, there's hell to pay – your personal and confidential information is compromised along with your computer's performance. But there's a little bit of good news – Spyware programs do not self-replicate like viruses and Trojans, and hence removal becomes an easy task once they are caught.
+
+Typically, spyware gets installed on a system in three ways:
+
+1. In most cases, spyware gets into the computer when a user installs it unknowingly. This is because spyware may come bundled with a freeware/shareware program. Once spyware gets installed, it begins collecting data from the user's hard drive and passes on the data to its author, either for his own use or for selling the information to a third party. Many peer-to-peer sharing programs have spyware and adware built into them, and you should think about the consequences before downloading and installing them.
+
+Before downloading any freeware/shareware program, it is important to read the license agreement. Most license agreements of such software explicitly state that adware/spyware comes bundled along with their software. Unfortunately, most Internet users do not take the time to read and understand these agreements. Some of these agreements include special “opt-out” boxes, using which the user can stop the spyware from being included in the download. So, remember to pay extra attention to the license agreement the next time you download freeware/shareware.
+
+2. Another method of planting software is by tricking the user by simulating Microsoft Windows pop-ups and prompts. No sooner does a user click on these simulated prompts, the spyware/adware gets installed on his system. This occurrence is common amongst users of Internet Explorer. Anyway, the latest version of Internet Explorer does make life a little more difficult for these hackers.
+
+3. Finally, developers of spyware design it in such a way that it attacks the vulnerable security areas of the browser/operating system, and manages to worm its way into the system. You have to be careful before visiting websites that allow you to download music free of charge or other websites with explicit and objectionable material, because every page on such sites is armed with adware/spyware waiting to worm into your system.
+
+

@@ -1,0 +1,103 @@
+Title: 
+Cisco CCNA Exam Tutorial:  IGRP And Equal Cost Load Balancing
+
+Word Count:
+548
+
+Summary:
+To get your CCNA, you've got to know how to configure equal cost load balancing.  Learn all about it from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+cisco, ccna, certification, exam, pass, igrp, eigrp, load, sharing, equal, unequal, cost, bandwidth
+
+
+Article Body:
+To pass the CCNA exam, you've got to know the role of the bandwidth command with IGRP and EIGRP and when to use it. In this tutorial, we'll configure IGRP over a frame relay hub-and-spoke network using the following networks:
+
+R1 (the hub), R2, and R3 are running IGRP over the 172.12.123.0 /24 network. This is a T1 line.
+
+R1 and R3 are also connected on a different subnet, 172.12.13.0 /24. The bandwidth of this connection is 512 KBPS.
+
+R2 and R3 are also connected by an Ethernet segment, 172.23.0.0 /16.
+
+We'll configure IGRP on R1, R2, and R3 with the router igrp 1 command. IGRP will run on all interfaces in the 172.12.0.0 and 172.23.0.0 network.
+
+R1#conf t
+
+R1(config)#router igrp 1
+
+R1(config-router)#network 172.12.0.0
+
+The “1” in the router igrp command refers to the Autonomous System (AS). IGRP is a classful routing protocol, so wildcard masks are not used in the network statements.
+
+R2#conf t
+
+R2(config-if)#router igrp 1
+
+R2(config-router)#network 172.12.0.0
+
+R2(config-router)#network 172.23.0.0
+
+R3#conf t
+
+R3(config-if)#router igrp 1
+
+R3(config-router)#network 172.12.0.0
+
+R3(config-router)#network 172.23.0.0
+
+
+Run show ip route on R1. R1 will see three equal-cost paths to the Ethernet network. IGRP supports load-sharing over up to four equal-cost paths by default, so all three paths appear in the routing table. R1 will also see a route to the loopback address on R2 and two routes to the loopback address on R3. (You can also run show ip route igrp in order to see only the IGRP routes.)
+
+R1#show ip route igrp
+
+
+I 172.23.0.0/16 [100/8576] via 172.12.123.2, 00:00:02, Serial0
+
+[100/8576] via 172.12.13.3, 00:00:02, Serial1
+
+[100/8576] via 172.12.123.3, 00:00:01, Serial0
+
+Remember that the numbers in the brackets following the network number in the routes are the Administrative Distance and the IGRP metric, in that order.
+
+Note that classful masks are in use. IGRP does not support variable-length subnet masks (VLSM).
+
+There are two serial connections between R1 and R3. IGRP is assuming that both lines are T1 lines, running at 1544 KBPS. The 172.12.13.0 network is participating in equal-cost load sharing because of IGRP’s bandwidth assumption - that all serial interfaces are connected to T1 lines.
+
+To give IGRP a more accurate picture of the network’s bandwidth, configure bandwidth 512 on R1 and R3’s Serial1 interface (the interfaces on the 172.12.13.0 network).
+
+R1#conf t
+
+R1(config)#interface serial1
+
+R1(config-if)#bandwidth 512
+
+R3#conf t
+
+R3(config)#interface serial 1
+
+R3(config-if)#bandwidth 512
+
+IGRP’s assumption that all serial lines run at 1544 KBPS is overridden by the bandwidth 512 command. IGRP now believes this line runs at 512 KBPS.
+
+To see the effect of this command, clear your routing table on R1.
+
+R1#clear ip route *
+
+
+R1#show ip route igrp
+
+I 172.23.0.0/16 [100/8576] via 172.12.123.3, 00:00:24, Serial0/0
+
+[100/8576] via 172.12.123.2, 00:00:17, Serial0/0
+
+The routing table is cleared with clear ip route *. To see only the routes received in IGRP updates instead of the entire table, run show ip route igrp. 
+
+One of the paths to 172.23.0.0 is now gone - the route that went through the 172.12.13.0 network. Now that IGRP sees that link as slower than the others, equal-cost load balancing will not occur over the 172.12.13.0 network.
+
+It’s important to understand that the bandwidth command does not actually change the bandwidth of the connection; it changes IGRP’s assumption of what the bandwidth is.
+
+In the next part of this IGRP load-balancing tutorial, we'll take a look at how to configure unequal-cost load balancing.
+
+

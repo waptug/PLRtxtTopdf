@@ -1,0 +1,30 @@
+Title: 
+What is Hyperterminal?
+
+Word Count:
+356
+
+Summary:
+Hyperterminal is a program that is designed to perform the functions of communication and terminal emulation.
+
+
+Keywords:
+Hyperterminal
+
+
+Article Body:
+Hyperterminal is a program that is designed to perform the functions of communication and terminal emulation. Also known as HyperTerm, the program has been offered as part of Microsoft operating systems since the release of Windows 98. Essentially, Hyperterminal can make it possible to make use of the resources of another computer by establishing a link between the two systems. 
+
+What Can Hyperterminal Do?
+
+The original design for Hyperterminal made it possible to use a standard telephone line to establish a dialup connection between two computers. The program would make use of the internal modem of the host or main computer and use a service such as Telnet to establish the connection to the secondary computer. This connection could be exploited to transfer data and files from one system to the other, without the need to save data to some sort of exterior device and then manually load the data onto the other system. 
+
+Along with making data transfer between two computers a relatively easy process, Hyperterminal also made it possible for the main system to access and utilize a bulletin board service located on the second system.  The program can also be used to troubleshoot issues with modems, or help to make sure a newly installed modem is functioning correctly. 
+
+How Does Hyperterminal Work?
+
+Hyperterminal makes use of serial ports and the controls associated with external devices. These devices can vary and include such options as radio communications equipment, robots, and instruments used for scientific measurements and similar endeavors. The connections provided by Hyperterminal make it easy to retrieve data from these sources, as well as be able to execute commands to the devices from the main computer system. 
+
+When checking the status and operability of a device such as an exterior modem, Hyperterminal can be used to verify that the connections are aligned properly and that the command to activate the dialer on the modem is functioning properly. Essentially, Hyperterminal sends a mock command to the modem and walks the device through all the steps of establishing connectivity with the network. Accessing Hyperterminal is easily accomplished through the Start menu of any Windows based system.
+
+

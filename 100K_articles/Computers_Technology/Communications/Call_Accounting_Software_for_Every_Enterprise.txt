@@ -1,0 +1,34 @@
+Title: 
+Call Accounting Software for Every Enterprise
+
+Word Count:
+463
+
+Summary:
+Communications facilities are continuing to evolve at a rapid rate. Call accounting is generally the centerpiece of a complete communication management solution (CMS) to allow customers to track, process and allocate communications transactions (analog, VoIP and data).
+
+
+Keywords:
+CALL ACCOUNTING, TELECOST, SHADOW, SMDR, CDR, VOIP, CALL DETAIL RECORDING, TELEPHONE REPORTING
+
+
+Article Body:
+Communication facilities are the lifeline of most successful businesses and often the most difficult to manage. The success of any organization is directly related to its ability to address the changing needs of its people and customers. Management of telephone charges, equipment fees, VoIP traffic, internet usage, and provider discounts is a difficult task. Most communication managers demand the necessary tools to allow administrators to monitor, evaluate, forecast and allocate communications management services and expenses.
+
+Communications facilities are continuing to evolve at a rapid rate. Call accounting is generally the centerpiece of a complete communication management solution (CMS) to allow customers to track, process and allocate communications transactions (analog, VoIP and data).
+
+Communications transactions are generally delivered to call accounting systems where this information is processed real-time, summarized or submitted to a central server for multi-site consolidation.
+
+For many years, long distance traffic was monopolized by the major telephone companies. Today, the complex and competitive sphere of alternate services, long distance carriers and countless discount strategies leaves most customers baffled about best available savings. A robust call accounting system will provide a concise unbiased picture of comparative rate structures using concrete historical data.
+
+Customer relationship management is fundamental to the success of many organizations. Shadow CMS utilizes calling line information delivered the telephone system for comprehensive inbound traffic analysis. These reports assist in designing regional campaigns, network planning and call center staffing.
+
+Network performance is critical in a call center, emergency dispatch service, hospitality, government or even a small business. Call accounting produces statistics for trunk usage, grade of service, all trunks busy and peak/busy hour analysis. Call accounting pinpoints over or under capacity environments. Many organizations struggle with workforce management and productivity. Good call accounting software provides exception management reports which highlight long duration, excessive cost and misdialed calls. Each call may be pinpointed to a particular password, account code, extension or authorization number. Call accounting provides detailed telephone charges reports, which highlight usage practices
+
+Professional services firms often face the tedious task of allocating communications expenses to customer account files. Call accounting delivers expense account code, password or authorization code reports. These results can be automatically directed to accounting systems, spreadsheets, HTML, email and a variety of other formats.
+
+In hospitality environments, information is processed in real time, assigned a cost and immediately delivered to property management room folios for true billing integration.
+
+A robust call accounting system provides a series of sophisticated traffic analysis reports (that utilize CCS, Erlang and Erlang B) to determine network efficiency and alternate cost modeling for facility planning. In retail and direct customer service environments, a call accounting system should extendsits communications analysis to custom call routing (CCR), voice mail and interactive voice recognition reporting (IVR). This paints a total picture of communication activity,
+
+

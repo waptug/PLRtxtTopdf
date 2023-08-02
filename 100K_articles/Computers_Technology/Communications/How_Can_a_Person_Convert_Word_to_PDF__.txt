@@ -1,0 +1,27 @@
+Title: 
+How Can a Person Convert Word to PDF ?
+
+Word Count:
+426
+
+Summary:
+The best way to convert Word .doc files to PDF files is to download a copy of OpenOffice.org. OpenOffice.org is a free, open source, alternative to Microsoft’s pricey Office suite of programs. The interface may take some getting used to, but the functionality of OpenOffice.org and it’s low price tag makes it a powerful alternative to the current reigning office suite for Windows.
+
+
+Keywords:
+Convert Word to PDF, pdf conversion
+
+
+Article Body:
+By default, all Windows computers do not come with a way to convert Word .doc files to Adobe Acrobat PDF files. A person wishing to convert such a file is required to download add-on software in order to make the conversion. There are currently a number of programs that will do the job.
+The best way to convert Word .doc files to PDF files is to download a copy of OpenOffice.org. OpenOffice.org is a free, open source, alternative to Microsofts pricey Office suite of programs. The interface may take some getting used to, but the functionality of OpenOffice.org and its low price tag makes it a powerful alternative to the current reigning office suite for Windows.
+To convert a Word .doc to a PDF, simply start up OpenOffice.org and open up the .doc file to be converted. Edit and change the text as needed, then save the file as a PDF.
+How Can a Person Convert Word to PDF Locally on a Mac OS X Computer?
+Mac OS X users will find that it is much easier to convert .doc files to PDF files in the OS X operating environment than it is while using Windows. This is because Apple worked with Adobe (the owners of the PDF file format) to integrate PDF functionality right into the operating system.
+To convert a .doc file to a PDF, just press Cmd+P to print in any word processor, such as Pages (available as part of iWork) or Bean (a free, lightweight, standalone word processor). On the Print screen, click PDF and select “Save as PDF.” Name the file, select a good location for it, and click save.
+How Can a Person Convert Word to PDF Using the Internet?
+Because many Windows users do not want to download a bulky office suite like OpenOffice.org just to convert a .doc file to a PDF once in a while, numerous free websites have emerged offering .doc file to PDF file conversion on the fly. These services are completely free of charge and only take a few moments for the average sized .doc file.
+To take advantage of these online services, simply visit a website such as doc2pdf.net and click "Choose File" to select a file to be converted. Set the other options as necessary and click Convert. In a few moments, a PDF version of the .doc file will be added to the .doc files folder.
+Many of these free online converters will also convert Powerpoint and Excel files to PDFs as well.
+
+

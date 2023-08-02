@@ -1,0 +1,22 @@
+Title: 
+Compare HTML Files
+
+Word Count:
+533
+
+Summary:
+Fundamentals of HTML. HTML or the Hyper Text Markup Language is a type of language used to explain the texts of a Web page. It describes the syntax and the position of particular information's known as tags that explain the preferred composition of the text to the browser. An HTML article includes contents and tags that provide the information's to the browser on how to compose the article. One of the major qualities of HTML is the hyper text link which lets the HTML author t...
+
+
+Keywords:
+compare html file,web page comparison,file compare
+
+
+Article Body:
+Fundamentals of HTML. HTML or the Hyper Text Markup Language is a type of language used to explain the texts of a Web page. It describes the syntax and the position of particular information's known as tags that explain the preferred composition of the text to the browser. An HTML article includes contents and tags that provide the information's to the browser on how to compose the article. One of the major qualities of HTML is the hyper text link which lets the HTML author to describe pages to linking or jump to another page. This particular capacity to jump to an additional page or to a complete different Web site is exceptional to the Web based article. HTML files can be compared as simple ASCII content files which mean content editor like Notepad for Windows or Simple text for Macintosh. These content editors are used to produce HTML articles or documents. Usually there are two basic HTML editors one is HTML for Windows and the other one is HTML for Macintosh which are optional. WYSIWYG or What You See Is What You Get is also among one of the HTML editors. They are similar like page layout software or word processors for Web documents. Their main aim is to offer authors of Web documents with the process of building pages with no knowledge of HTML.
+
+HTML Compare Files Overview. HTML files compare is said to be one of the best ways to locate modifications in various versions of Website and HTML pages. Similar to the word processor's revision tracking features the HTML compare works. This is a tool which compares two Web pages and emphasizes the differences regarding modifications, deletions and additions. With a very simple sensitive interface one can easily choose the directories and files to compare and later view the merged file demonstrating various changes to each of those pages. One can also compare several directories and produce a list of all the changes to be done to the directory. This is one of the best ways to locate changed graphics and new files. In order to compare HTML files one needs a Window PC and a disk space which is less the 50K.
+
+How Does the Compare HTML file work? Once the HTML Compare is opened one has to select a file the menu which he wants to compare. The Compare Directories or Files page appears, just click on compare files and select old. Later he has to choose the first directory from the dialog. After selecting the second directory click on the HTML compare. The HTML compare performs the comparison in several minutes which depends upon the size of the content. As it finishes comparing a browser window opens with a report file which shows all the results. The page appears with all the deleted files, new files and the changed files. Inn the changed files there are three links old, new and composite. Old files are those files which are found in the old directory where as new files are found in the new directory. Also by using the command line interface one can compare a series of files in a batch by executing the HTML compare.
+
+

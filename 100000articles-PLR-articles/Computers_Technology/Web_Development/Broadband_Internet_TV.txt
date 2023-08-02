@@ -1,0 +1,36 @@
+Title: 
+Broadband Internet TV
+
+Word Count:
+506
+
+Summary:
+With the growing proliferation of broadband Internet in every household, it is a natural phenomenon for services that have traditionally been delivered via analog means to be alternatively delivered via Internet Protocol (IP). One of these services is the broadcast of television programs via broadband Internet instead of radio waves. This is called Broadband Internet TV.
+
+The major advantages of broadband Internet TV are:
+
+Broadcasters can reach a wider audience without h...
+
+
+Keywords:
+Broadband Internet TV
+
+
+Article Body:
+With the growing proliferation of broadband Internet in every household, it is a natural phenomenon for services that have traditionally been delivered via analog means to be alternatively delivered via Internet Protocol (IP). One of these services is the broadcast of television programs via broadband Internet instead of radio waves. This is called Broadband Internet TV.
+
+The major advantages of broadband Internet TV are:
+
+Broadcasters can reach a wider audience without having to worry about the additional cost needed, since the viewer pays for the broadband access. This translates to a bigger opportunity to generate more income from advertising.
+
+The viewer need not be at home to be able to watch his favorite TV shows since all he will need is Internet access. Again, because the Internet is so pervasive, it now becomes possible to be anywhere in the world and still be up-to-date with the latest news, sitcoms and other TV shows that you would normally watch at home. This brings rise to the opportunity for broadcasters (assuming that their business model does not rely mostly on advertising revenues) to charge subscriptions for remote access to their shows. Using encryption, data for shows. The viewer can be selective as to the shows he/she wants or allows his children to watch. Filters can be applied to block or limit access to certain shows.
+
+There are, of course, disadvantages to broadband Internet TV. For example, to be able to access broadband Internet TV, of course, assumes that there you have access to broadband Internet with speeds of at least 256kbps. This is a relatively slower speed than that which was required a few years ago when 512kbps was the minimum broadband speed was needed. Better compression technology makes streaming video at lower speeds possible. Nevertheless, broadband access is still a requirement.
+
+Another disadvantage of broadband Internet TV is that it requires that you either have a computer with the appropriate decoding software, or a set-top box with decoding software. The latter is needed if you want to use your television set as the display medium.
+
+Also the broadband Internet TV output resolution is currently inferior to that of radio broadcast technology. This is because higher resolution requires more file storage space that translates to more bandwidth to get a real-time streaming video experience. Also, the bigger the image, the finer the resolution needs to be so that it does not “break up” during display. Again, this translates to bigger file sizes and bigger bandwidth requirements.
+
+Broadband Internet TV is offered in two modes: Free and Subscription Based. The Free mode is the akin to the conventional “free-to-air” television programming, where all you need to have is a television set configured to the broadcast system in your area (e.g., NTSC, PAL/SECAM, etc.), a television antenna to capture the broadcast, and electricity. Subscription mode is similar to the model of cable TV, where a monthly fee is paid for a set of channels, with extra charges levied for premium channels on a pay-per-view or monthly basis.
+
+

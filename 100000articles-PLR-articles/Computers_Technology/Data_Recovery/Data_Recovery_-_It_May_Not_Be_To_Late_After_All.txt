@@ -1,0 +1,44 @@
+Title: 
+Data Recovery - It May Not Be To Late After All
+
+Word Count:
+523
+
+Summary:
+· Definition of Data Recovery
+
+The salvaging of lost data or making available the previously damaged data stored on various damaged media such as hard disk drives, magnetic tapes, magnetic disks, zip disks, CD-Rom, flash cards and other storage media is known as Data recovery. For example the data of a file which has been deleted by some accident can be recovered again.
+
+· Data Recovery Service Providers
+
+There are various Data Recovery Service Providers who are working...
+
+
+Keywords:
+data recovery,disk recovery,computer recovery
+
+
+Article Body:
+· Definition of Data Recovery
+
+The salvaging of lost data or making available the previously damaged data stored on various damaged media such as hard disk drives, magnetic tapes, magnetic disks, zip disks, CD-Rom, flash cards and other storage media is known as Data recovery. For example the data of a file which has been deleted by some accident can be recovered again.
+
+· Data Recovery Service Providers
+
+There are various Data Recovery Service Providers who are working for 24/7 in order to provide their customers with the best available data recovery services. These service providers have highly trained staff and they are continuously improving the process technology and their quality systems. These providers allow their customers to recover every important piece of data from all the popular file systems in case of accidental file deletion, malfunctioning of software, formatted hard drives, damaged or deleted partitions and erased or corrupted by a virus.
+
+These data recovery service providers offer a complete range of solutions for the restoration of lost data. The different softwares used by these providers are compatible for all the Microsoft Windows Editions, Apple Macintosh, Sun Solaris, AIX, Linux and Unix operating system. They also provide data recovery from different file systems such as FAT, NTFS, HFS, HFS+, NWFS, EXT2 and EXT3 file systems. They prevent the various important data of our computer by different data safety and data security softwares from unwanted accessing of data, corruption, modification or deletion by another user or from various harmful programs such as viruses, spy ware, Trojan horses, etc.
+
+· Some common Software used in Data Recovery
+
+There are different data safety and data recovery softwares for hard drive data recovery. Some common software used in Data recovery are mentioned bellow.
+
+Data Recovery with Fire: The FIRE is a portable bootable cdrom based software which can provide an immediate environment to perform data recovery which includes different forensic analysis, virus scanning, incident response and vulnerability assessment.
+
+Data Recovery with LDE: The LDE or the Linux Disc Editor was originally made to recover the deleted files in Linux. The simple curses interface of the LDE resembles very much to the old version of Norton Disk Editor for DOS.
+
+NT Data Recovery: The NT Data Recovery software provides read access to the NTFS drives in the MS DOS environment. The functionality of this software includes support for files with long names and as well as compressed and fragmented files. The NTFS Reader for DOS allows the files to copy them from NTFS to FAT volumes in network drives.
+
+Data Recovery with PC Inspector: The PC Inspector File Recovery software is compatible for NTFS and FAT file systems. It has the capability to recover files with the original date and time stamp and can also restore them to the network drive. They can also recover many lost files even when the header entry is not available. The software can find partitions automatically on FAT systems even if the boot area/sector has been damaged or erased. The PC Inspector File Recovery software offers a user friendly interface that scans the hard drives and automatically recovers the files from the deleted folders.
+
+

@@ -1,0 +1,100 @@
+Title: 
+Measuring IPTV QOS (Quality Of Service)
+
+Word Count:
+1997
+
+Summary:
+IPTV QOS is a topic that has become a confusing issue for many businesses, so let's clear it up.
+
+Quality Of Service, being something new oftens makes people automatically think of using pre-existing measurement techniques. This basic starting point for QOS measurement is where most of the confusion is generated.
+
+In the same way that when companies began moving from Analogue to digital broadcast signals, the natural tendancy of the existing engineers was to want to measu...
+
+
+Keywords:
+iptv, vod, ip video, mstv
+
+
+Article Body:
+IPTV QOS is a topic that has become a confusing issue for many businesses, so let's clear it up.
+
+Quality Of Service, being something new oftens makes people automatically think of using pre-existing measurement techniques. This basic starting point for QOS measurement is where most of the confusion is generated.
+
+In the same way that when companies began moving from Analogue to digital broadcast signals, the natural tendancy of the existing engineers was to want to measure the new digital signal by converting it back to analogue and then using their existing equipment. IPTV QOS has caused a lot of the same methodology, whereby engineers with a network background want to measure network statistics, and engineers with a video background want to measure video statistics. The former (network engineers) can happily take their measurements from the existing network infrastructure, but get no feeling for what packets on the network relate to what video signals. The video people want to convert the IPTV signal back into its digital video format (converting it from IP to Video), which really misses the point that all you're really finding out is how well the converting device works (a piece of test equipment won't be comparable to the way a STB (set top box) would decode the signal. Thus, you have two separate approaches to the same problem - neither of which is really ideal.
+
+Now, there IS a place for existing test equipment (network test equipment is great for data traffic as it always was, and Transport Stream (digital video) analysers are great at your Head-End (where the video content originates)and other video aggregation points in order to confirm that the video into your IP network was good), so it's not time to throw it away, it's just not the right tool for IPTV QOS.
+
+With those comments out of the way we can move forward (it's difficult to move when you still have one foot in your old mindset).
+
+Depending on who you are, you could very well be concerned with just one part of an IPTV system or the entire system, so we'll break it into the core problem and what that means at each place in the network (we'll assign the network 4 test points: 1) Head End 2) Core Network 3) Network Edge 4) Customer Home).
+
+1) Head End.
+
+This might concern you if you are responsible for creating, providing, or receiving video from a Head End.
+
+A Head End can consist of anything from professional video encoders to VOD Servers (Video On Demand), and could be in one of many video formats, compression types, bitrates etc. They could be Unicast or Multicast, UDP, RTP or a proprietary mechanism (As in the case of MSTV).
+
+Whatever the situation, it's a good idea to take steps to ensure that the Head End is robust and that the video encoding devices are reliable. A problem at the Head End affects everyone down the line, right to the customer. (we'll assume that various 'redundant' systems are in place to avoid this type of problem where possible)
+
+Having built the Head End system with a robust architecture, the last thing (and the important one for us) is to monitor the Head End IP video flow output to ensure that this first point where the video is IP encapsulated has been done adequately and that the rest of the IPTV infrastructure can rely on this input.
+
+Note: One common mistake at this point (and elsewhere) is to have some sort of round-robin system in place where not all of the video streams are measured at the same time - this should only be done if absolutely necessary as one of the 'issues' with the nature of IP delivery over a network is that impairments caused to the signal in the IP domain have a non-deterministic affect on the video flows. This means that while you're looking at 5 of 100 flows, you could be having problems on some random number of other flows which you wouldn't see - unless you monitor ALL flows simultaneously.
+
+2) Core Network.
+
+Hopefully the steps above will have been done, so if you're concerned with the core network, your main work involves doing your own verification that the flows coming into your network are ok (you can't rely on the Head End provider to do this for you, and it's much easier to be able to get out of the spotlight when problems occur if you can easily confirm your input), and ensuring that the passage across the network doesn't cause any loss or excessive jitter (the only 2 components that can stop the network getting your video to the end intact.
+
+Now that we're in the IP domain, this issue of packet loss is ultimately the number 1 thing to look out for (any IP packets lost WILL mean video content loss since all mechanisms insert video packets into IP packets for delivery, some even contain up to 7 video packets in one IP packet). However, with that said, every network device (and ultimately the STB) have buffers which means that excessive jitter can cause packet loss. Since we REALLY don't want packet loss, this means jitter is just as important to us when monitoring our system.
+
+The real kicker here is that if you're from the old school of IP monitoring you'll be pretty happy with what I've said so far - but there's one thing which makes thing a little more 'interesting'. It is perfectly possible to lose 'media' packets but NOT IP packets. Whenever an infrastructure includes elements like multiplexers which combine the mpeg video and 'MUX' several streams into one, if you're not doing some form of 'deep packet inspection' (looking into the media headers to ensure the continuity counters are correct) you could have no IP packet loss, but still have video problems. This basically means that your solution cannot come from one approach or the other, but needs to do the monitoring in the IP domain while still confirming that the media packets are intact.
+
+This additional complication is one of the things that many test equipment manufacturers haven't accounted for, usually due to the fact that this is still a fairly new field and many equipment vendors are focused on creating 'features' rather than addressing the customer problems to deliver benefits which actually give them the robust solutions required.
+
+3) Network Edge.
+
+As before, our first step is to confirm our input is good by monitoring all flows simultaneously for jitter and packet loss and then ensuring that the 'last mile' mechanism to the customer home is as robust as possible.
+
+Since this step could easily involve conversion from IP to RF (cable companies us RF (Radio Frequency) signals instead of the copper or fibre cables that most network equipment uses, any test equipment may need an appropriate interface for this (the most common interface here is QAM (Quadrature Amplitude Modulation) of which there are 3 main type (they're actually called 'Annex's') Annex A, B, and C for US, Europe and Asia.
+
+So depending on your infrastructure here, you may or may not have an IP network to the customer home.
+
+4) Customer Home.
+
+The final, and some would say the most important part of the system.
+
+As before, we need to check our input (the IP video flows that are about to go to the customers STB). Since we're talking about IP, again this is all about the jitter and packet loss that has occured to those video flows on their journey to this home. Since we checked the video quality as it was encoded at the head end, we know that as long as the jitter isn't too much for the STB to cope with, and there's no packet loss - the video will be exactly as it was when it was encoded.
+
+If you're wondering how to get around this - there are equipment vendors with devices that go IN the customer home and adstract the workload from the STB and even some that let the customer press a button to signal when THEY saw a problem (regardless of what your test equipment may or may not have indicated - who says you need to simulate a customer experience)
+
+There - Pretty simple really.
+
+That's true, but in real life most companies don't own, control or even have access to the entire system. This makes rolling out an IPTV deployment a bit of a nightmare unless you understand the issues and have the appropriate test equipment (remember, some people still have one foot in the network or video world of old).
+
+When companies do have access to large parts of the system or are working with friendly companies that do, this headache can get a whole lot easier when the equipment being used can have its data fed into a central video monitoring system. This way, the 2 common problems of 1) Where is the problem 2) Is it an IP problem, are visible at a glance and much wasted time and effort just getting to the point where you even know where the problem is can be avoided.
+
+When it comes to wanting to quantify the quality of the system, there are several standards for assessing IPTV, the most common are 1) V-Factor 2) MOS 3) MDI
+
+1) V-Factor
+
+V-Factor is a system that uses Moving Picture Quality Metrics (MPQM) research to try and simulate what a human would have decided the video quality was like.
+
+This is an interesting method and is one way to approach the problem, but requires a lot of processing, cannot realistically be done across most of the network (since the processing work is heavy, this does not lend itself to 'core' or 'head end' monitoring), so might serve as a useful measurement to integrate into STBs.
+
+Since we're looking at a holistic IPTV QOS approach, only a monitoring solution that gives us the big picture aswell as the detail will do.
+
+2) MOS (Mean Opinion Score)
+
+Again, this metric is designed to try and give an approximation of what a human would see.
+
+As with the V-Factor, it's a cool idea and technically excellent but doesn't tell us what is wrong with the system (it's nice to have a quality 'score', but in reality we need to know what to DO about a 'poor' score).
+
+3) MDI (Media Delivery Index)
+
+As the name suggests, we get a metric that tell us something about the delivery. (xx:yy where xx equates to the cumulative jitter and yy equates to packet loss) This time, rather than trying to analyse the video and 'score' it, we get data about the jitter and packet loss at the point being measured. While it might not study the decoded video signal, it does tell us how well the video has been delivered - which if you remember is really the most important thing if it was encoded properly.
+
+MDI is an apporiate metric at any point in the system and would let us know immediately if there was a delivery problem. Since the MDI values are based on the bitrates of the video streams, this also gives us some really useful information about how different streams will be affected by our network (for example, if we're already running 50 SD (Standard Definition) Streams and we want to replace them with HD (High Definition) streams, a V-Factor or MOS score at some point in our network won't tell us what to expect, whereas MDI metrics will let us know how much difference the network is likely to make. The jitter on the network will affect SD and HD stream differently (in fact, any streams with different bitrates will be differently affected by the jitter - this causes many problems), so having information about the way the jitter is affecting the IP delivery is REALLY useful information, that you just don't get with the other measuring systems.
+
+I hope you find this article useful and take the steps to ensure a reliable system before you get 'deployment headaches'. Another article will follow shortly describing how to build a robust IPTV network.
+
+

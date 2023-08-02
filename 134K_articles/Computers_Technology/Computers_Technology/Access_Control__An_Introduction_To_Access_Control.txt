@@ -1,0 +1,112 @@
+Title: 
+Access Control: An Introduction To Access Control
+
+Word Count:
+696
+
+Summary:
+The Problem
+
+Your building is secure at night, but during the day there are several doors that have to be open. Anybody could walk in. What can you do?
+
+The Solution
+
+You need an Access Control System.
+
+What is an Access Control System?
+
+Access Control is an electronic security system which permits or restricts access to specific areas of a premises. It not only protects property against unwanted visitors but ensures the safety of both the property and of the people...
+
+
+Keywords:
+Access Control, magnetic stripe, proximity, readers, smartcard, magstripe, fingerprint, scan, retina
+
+
+Article Body:
+The Problem
+
+Your building is secure at night, but during the day there are several doors that have to be open. Anybody could walk in. What can you do?
+
+The Solution
+
+You need an Access Control System.
+
+What is an Access Control System?
+
+Access Control is an electronic security system which permits or restricts access to specific areas of a premises. It not only protects property against unwanted visitors but ensures the safety of both the property and of the people inside.
+
+In simple terms, an Access Control System provides control of entry (or exit) through nominated doors via a control panel and some form of electric locking facility.
+
+An Access Control System can be as simple or as complicated as you wish but in each case, the solution will always provide an easy passage for permitted persons around the building.
+
+Door Entry or Access Control?
+
+Door entry is commonly associated with a single door or gate, whereas access control is more suited to multiple doors or entry points.
+
+Access Control can also incorporate a host of other features which enhance other areas of the business.
+
+Access Control / Door Entry Technology
+
+There are a number of ways that a permitted user can open a door that is fitted with a system.
+
+PIN Code Entry
+
+The most common unit is the keypad system. This comprises a control unit with a series of numbered push buttons, or a touch-sensitive pad, connected to the lock release mechanism via a control unit located at the entrance.
+
+Magstripe (also called Swipe Card) Readers
+
+Each entry point has a card reader and the user “swipes” an encoded card similar to a credit card to gain entry.
+
+This technology is widely used and there are many choices of manufacturers.
+
+Proximity Readers
+
+Rather than swiping the card or tag, it is simply presented to a reader which typically will see the card at a distance of about 100mm. This is a fast, non-contact, method of entry.
+
+Long Range Readers
+
+Long range proximity readers (of approximately a meter or so) automatically unlock or open a door when it detects the card.
+
+This is particularly suitable for compliance with the Disability Discrimination Act  (DDA) as no action is required by the card bearer.
+
+Smartcard Readers
+
+For systems that use cards or tags, these cards can also carry additional information which can be used for other building services – – for example, time and attendance functions, integration with payroll systems, car park management and even vending machine applications.
+
+Biometric Readers
+
+A Biometric Reader system uses unique human characteristics – such as finger prints or a retina scan – to clearly identify those who are permitted access.
+
+As there are no cards or tags which can be stolen or lost, or open to misuse, this type of system significantly increases the level of security.
+
+What about Visitors?
+
+You will want to welcome most of those who visit your premises, so it must be easy for them to let you know they are there.
+
+The three most common means of attracting attention are:
+
+• A simple door bell system which alerts your staff to the fact that there is someone waiting outside.
+
+• An audio intercom panel which allows the visitor to have a direct conversation with a member of your staff and, if appropriate, the door can be remotely released.
+
+• An audio intercom panel with a camera facility which allows your staff to see who wants to enter the building before permitting access.
+
+Once access has been permitted, the visitor can either be escorted around or issued with a card or pin number for the duration of their visit.
+
+Things to Consider
+
+When planning an access control system, you should consider the following:
+
+• How many entry/exit points
+• Where are these located>
+• Level of security desired
+• The movement of staff around the building
+• Method of operation
+• Future growth of building
+• Turnover of employees
+• Disability access
+• Interface with other systems – for example, the fire alarm
+
+As with any type of security system, it is sensible to employ a company that you can trust. Make sure you use a NSI (NACOSS) approved organisation; this will ensure that your system will be designed and installed by professionals.
+
+

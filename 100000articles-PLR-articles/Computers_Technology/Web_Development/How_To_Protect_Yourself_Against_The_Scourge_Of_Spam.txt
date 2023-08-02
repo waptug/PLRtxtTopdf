@@ -1,0 +1,36 @@
+Title: 
+How To Protect Yourself Against The Scourge Of Spam
+
+Word Count:
+569
+
+Summary:
+Spam is unsolicited mail that is mainly promotional in nature and has junk value – some spam messages even contain viruses or Trojans. It is a major source of nuisance for all Internet surfers, and its proliferation has begun to weigh in the minds of many Internet surfers, who have now begun to doubt the efficiency of the email transmission system.
+
+It was in December 2003 that the US government woke up to spam's nuisance value and passed the “Can Spam” (Controlling the Ass...
+
+
+Keywords:
+GoToMyPC, GoToMeeting, Go To My PC
+
+
+Article Body:
+Spam is unsolicited mail that is mainly promotional in nature and has junk value – some spam messages even contain viruses or Trojans. It is a major source of nuisance for all Internet surfers, and its proliferation has begun to weigh in the minds of many Internet surfers, who have now begun to doubt the efficiency of the email transmission system.
+
+It was in December 2003 that the US government woke up to spam's nuisance value and passed the “Can Spam” (Controlling the Assault of Non-Solicited Pornography And Marketing Act of 2003) Act, which is regarded as the first national safety benchmark against unsolicited commercial e-mail. The "Can Spam" Act forbids spammers from sending any unsolicited commercial e-mails by using a false return addresses; it also forbids them from using dictionaries (note to client: I think the author means "directories) to generate these unsolicited mailers. The use of misleading subject lines is also forbidden and the Act makes it mandatory for emails to include an unsubscribe option. Any violation of these rules constitutes a crime, which can land the spammer in jail for up to one year.
+
+Many savvy spammers have circumvented this rule by sending out spam from countries that have weak spam laws. These weak laws have begun encouraging spammers and today, there is more spam that's flying out at lightning speed all across the world.
+
+Here, then, are the top 5 methods you can follow to protect yourself from spam:
+
+1. Do not publish your personal email address on the web. Spammers make use of programs – referred to as "Spam Spiders" – that hunt the Internet for email addresses. If you can spare the time, visit WebPoison.org, an open source project that is geared to fight these "spam spiders", by feeding them with bogus HTML web pages packed with fake email addresses. In case you have to use your email address, then avoid giving out your personal address – instead, give out a secondary email address. You can also encrypt your email address by using email-encoding programs such as jsGuard.
+
+2. Install anti-spam software. There are many such programs out there and here are a couple of leads: www.cloudmark.com; www.mailwasher.net. Their basic versions come free, while the professional versions cost a little bit of money.
+
+3. Always sign up for a secondary email address and use it for subscribing to newsletters and other promotional programs. Give out your primary email address only to people who matter.
+
+4. Do not open any attachments that tag along with suspicious or unknown email addresses. In all probability, these attachments will carry a virus or a Trojan program. If you are working in a company and using their email ID, then you must talk to the system admin and make him shut out spam, if it hasn't been done. But, when it comes to your personal email address, you are on your own, and have no other option but to delete the spam message (or, block it) without opening the attachment.
+
+5. You can block mail that you think is spam, or mark it as "bulk" mail. The result is that the next time you get an email from the same address, it will either be blocked or it will be delivered in your bulk folder. You can then delete all the mails in your bulk folder in one click. Normally, all email providers provide these anti-spam facilities – if yours doesn't, switch to a better provider.
+
+

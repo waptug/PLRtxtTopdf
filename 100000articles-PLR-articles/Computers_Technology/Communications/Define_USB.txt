@@ -1,0 +1,24 @@
+Title: 
+Define USB
+
+Word Count:
+399
+
+Summary:
+USB which stands for Universal Serial Bus is a standard for serial communications between computers and other devices. It was first introduced in 1996 and was jointly promoted by Intel, Phillips, US Robotics and Microsoft.
+
+
+Keywords:
+Define USB
+
+
+Article Body:
+USB which stands for Universal Serial Bus is a standard for serial communications between computers and other devices. It was first introduced in 1996 and was jointly promoted by Intel, Phillips, US Robotics and Microsoft. USB was developed so that many different types of devices could be accommodated under a single common interface. Due to this capability, nowadays USB devices are the most popular form of plug and play devices. In short, a plug and play device is an external device which we connect to the computer either for data transfer or to provide additional capabilities to the computer. Normally plug and play devices are used along with additional software which acts as a link between the device and the CPU of the computer. This software is called the driver.
+      
+              Many other standards exist for such connections like PS2, but USB devices provide a distinct advantage over other standards mainly due to two significant reasons.
+First, the USB standard allows devices to be connected to the computer without needing to restart the computer. For many previous standards, the computer needed to be restarted before the device could be used. Secondly, the USB device takes its power supply directly from the CPU thus eliminating the need for an external power supply cord. This was only possible due to the fact that USB devices typically consume very little power.
+ 
+        Nowadays USB devices are used for a number of purposes. The most popular adaptation of the USB devices is in the form of USB drives (also called pen-drives). These are basically devices which offer portable data storage facilities. Often these devices are as small as a keychain. With the advent of technology, USB drives can now store as much as 200GB of data and still appear very small.
+        Another important use of USB is for webcams which allow us to transmit and store photos and videos directly on our computers. Apart from these uses, USB also allows us to connect audio devices like iPods, microphones and speakers, network between different computers with USB routers and also provides an interface to link our other gadgets like mobile phones and PDAs. With Windows becoming more common it is now simpler to synchronize our gadgets as windows can automatically recognize and install our USB devices.  Another new technology which is making waves is USB 2.0, which provides data transfer speeds of up to 480mbps (Megabytes per second).
+
+

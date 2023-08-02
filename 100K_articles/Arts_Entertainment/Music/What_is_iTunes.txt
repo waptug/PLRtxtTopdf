@@ -1,0 +1,30 @@
+Title: 
+What is iTunes
+
+Word Count:
+402
+
+Summary:
+iTunes is a software developed by Apple Computers. It is a media player and is used to play and organize digital music and video files.
+
+
+Keywords:
+itunes
+
+
+Article Body:
+iTunes is a software developed by Apple Computers. It is a media player and is used to play and organize digital music and video files. You can also purchase digital music files through iTunes music stores within iTunes. You can use the program to manage music on iPod a popular digital audio player. iTunes when connected to the iTunes music store can assist in buying digital music and video files. 
+
+The iTunes is easy to use and can be downloaded easily. Computers having windows 2000, windows XP and windows server 2003 operating systems can run the iTunes. 
+
+Soundjam MP is a popular software by the Mackintosh software company Casady and Greene. This software helped to develop iTunes. Apple took over from them and till today added many significant features to iTunes. The iTunes helps users in many ways. You can organize the music into playlists, you can edit them, you can record them on compact discs and many more things can be done using iTunes. There is a built-in music store through which you can purchase music. Music can be juggled in all ways possible and special graphical effects can be added to the music and run by a visualizer.
+
+iTunes has ‘smart playlists’. The list of music albums can be customized using the ‘smart playlist’. It automatically updates music the way you want it. The ‘party shuffle playlist’ is a DJing aid. It randomly selects tracks from the playlists or the music library. You can add or delete the tracks with the help of the ‘party shuffle playlist’.
+
+iTunes stores all the metadata of the audio files in two main files, the iTunes library and the iTunes library xml. The iTunes library is a binary file. It uses a unique music library format. The information of the artist and genre from the audio format’s tag is recorded in the iTunes library. The playcount and rating information is also stored.
+
+The iTunes music library.xml is helpful in recording the changes made in the iTunes music library. The user can make changes easily. iTunes helps in allowing the developers to create music-driven visual graphics. The visualizer plug-ins and device plug-ins are supported by iTunes.
+
+iTunes has a built in support for podcasting. Podcasts can be downloaded by purchasing through the iTunes music stores. You can update podcasts hourly, daily, weekly or manually. Music and video library can be automatically synchronized with an iPod.
+
+

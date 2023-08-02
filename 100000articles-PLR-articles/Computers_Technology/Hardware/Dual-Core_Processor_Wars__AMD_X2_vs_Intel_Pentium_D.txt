@@ -1,0 +1,48 @@
+Title: 
+Dual-Core Processor Wars: AMD X2 vs Intel Pentium D
+
+Word Count:
+658
+
+Summary:
+There's a war going on and the latest battle continues in the realm of dual-core processors, offering the promise of good prices to consumers looking for the best stuff for their computer.
+
+
+Keywords:
+dual-core processor
+
+
+Article Body:
+There's a war going on and the latest battle continues to offer the promise of good prices to consumers looking for the best stuff for their computer.
+
+Since the inception of dual-core processors a little while back the race has been on to see who can get the better chip with this dual-core processor technology.
+
+During the final days of the single-core battles, there was a stalemate between AMD and Intel. Intel's clocked higher but were unable to match the speeds that the AMD managed at lower clock speeds.
+
+The oldest difference between them has been their suitability for specific tasks. AMD have had the gaming sector in the bag, especially in terms of the value for money possible with their lower clocked chips, which could be overclocked to the same speeds as their top models. Intel has the crown for general performance. When it comes to office related tasks, Intel processors are able to outperform AMD chips in these areas.
+
+As the ability to clock the chips any higher became more and more difficult technically, the next step was to just add another core, theoretically allowing twice as much number crunching in a dual-core processor. This is not exactly how it works however.
+
+Modern operating systems and programs have not been designed with multiple-core or dual-core processors in mind. They were designed to make use of one core on one processor. The major expense that went with multiple processor computers was the circuitry needed to split tasks up amongst the processors and sharing cache.
+
+Dual-core processors simply act like two places for tasks to go. Instead of single tasks getting split up and performed in two different places, as is the case with traditional single core processors, single threads get split up amongst the cores. This essentially means that each program gets assigned to a core.
+
+Because of this there is absolutely no increase in speed for gaming from dual-core processor chips. Only once the games themselves have been programmed to take advantage of dual-core processors will there be a difference. This is due to the intensive nature of games and the number crunching needed for intense graphics, which for now cannot be split over multiple cores in dual-core processors.
+
+So back to the battlefield.
+
+AMD were the first to introduce their dual-core processor solution to a desktop computer. This gave them a slight lead over Intel. Despite this, AMD gave people a bit of a surprise with their new offering.
+
+Always having been renowned for giving far more than expected for the price, these new dual-core processors were very expensive. Part of what managed to give AMD a hold in a market previously dominated by Intel was their good pricing. This shock did not go down well with consumers.
+
+To add insult to injury, Intel's dual-core processor offerings came in at remarkably good value. Both of their initial dual-core processors cost less than AMD's lowest priced model. That's right, AMD's cheapest dual-core processor cost more than Intel's most expensive. This definitely put the ball in Intel's court and was downright disappointing for AMD fans.
+
+AMD did manage to introduce a cheaper model to compete better with the Intel offerings. Despite this, Intel was still the forerunner in this area.
+
+Performance remains an area that is sketchy.
+
+With the relatively new technology involved it is hard to draw a clear conclusion on who is faster. With operating systems only recently oriented towards fully utilizing dual-core processor technology, it is still new territory. Both offer increased performance, but as to who will rule the roost, we'll have to see.
+
+For the meantime it would probably be advisable to just watch. Being a cautious buyer I prefer to buy into a sure thing, once things have settled down, prices will balance out and all the related technology will be in place. Then we will be able to get a true opinion on where to put your hard earned cash.
+
+

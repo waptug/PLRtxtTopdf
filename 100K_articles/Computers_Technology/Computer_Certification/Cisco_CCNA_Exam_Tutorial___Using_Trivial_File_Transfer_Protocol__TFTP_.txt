@@ -1,0 +1,40 @@
+Title: 
+Cisco CCNA Exam Tutorial:  Using Trivial File Transfer Protocol (TFTP)
+
+Word Count:
+385
+
+Summary:
+If TFTP isn't secure, why use it?  Learn the details for your CCNA and real-world success from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+ccna, free, tutorial, tftp, router, copy, ios, image, pass, icnd, run, start, bryant, advantage
+
+
+Article Body:
+One of the first things you do when you start studying for the CCNA exam is memorizing a list of port numbers and the protocols that run on those ports. If you're an experienced networker, you know most of the protocols that are mentioned - DNS, DHCP, FTP, SMTP, and so on. But there's one protocol that you might not have experience with, but is actually vital for CCNA exam success and success in working with Cisco routers and switches, and that's TFTP - Trivial File Transfer Protocol.
+
+TFTP is basically FTP's non-secure relative. There are no passwords, no authentication scheme, no nothing! As someone once told me, "If I'm transferring my files, there's nothing 'trivial' about it." 
+
+Great. So you’re thinking, “What the heck do we use TFTP for, anyway?”
+
+TFTP is used in the Cisco world to perform IOS upgrades and to save configs to a TFTP Server. Cisco routers can themselves serve as TFTP servers, or you can use a workstation to fill that role.
+
+If you needed to copy an IOS image to a router, for example, you could do so easily by connecting your PC to the router’s console port (via a rollover cable, right?). Your PC would need to run TFTP server software. There are quite a few free TFTP server software programs that work quite well – just enter “free tftp server” into Google or your favorite search engine and you’ll see what I mean.
+
+Using TFTP in this fashion is a great way to have backup copies of IOS images or router configs right on your laptop. And take it from me, when the day comes that you need those backups, you’ll be glad you did!
+
+Remember that when using the copy command, you first indicate where you’re copying from, then where you’re copying to:
+
+R1#copy flash tftp
+
+Source filename []? Example
+
+Address or name of remote host []?
+
+When performing such a copy, you’ll need to name the file you’re copying, as well as the IP address of the device you’re copying to.
+
+Using TFTP to perform IOS upgrades takes a little getting used to, especially the syntax of the copy command. But knowing that syntax and how to use TFTP will indeed get you one step closer to the CCNA!
+
+

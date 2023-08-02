@@ -1,0 +1,32 @@
+Title: 
+How to Print Colored Images
+
+Word Count:
+380
+
+Summary:
+Have you ever wondered how your photographs, logos, graphs and other colored documents are being printed?
+
+
+Keywords:
+online printing four color printing 
+
+
+Article Body:
+Color printers bring life to your dull images by giving them vivacious, bright and crisp colors that make us take a second look or perhaps hypnotize us by their awesome magnetism.
+
+Printing colored images happens by dividing a page into a great number of tiny dots. The printer responds to the computer’s work by moving crossways and downwards to print each dot of color on the page. Sometimes, two or three colors are put on top of each other to create a new color. There are also times when it just has to leave a blank white spot. 
+
+Computer monitors display three base colors - red, green and blue (RGB), to create colors on screen. Adding these three colors will result to white. This is the reason why the process is called additive color.
+
+Color printers, on the other hand, use four base colors – cyan, magenta, yellow and black (popularly known as CMYK). When two of the subtractive primaries (cyan, magenta and yellow) are mixed, they can create red, green and blue. When all are mixed, black is created. To provide a richer black, commercial printers use a separate black color.
+
+In order to get the right color of the image, the printer has to generate tiny dots that blend with the target color. This is called dithering or half-toning. Smooth gradation is one signal of half-toning. To do this, colored dots are aligned in a grid called cells. After that, these cells are printed with the primary colors in different quantities to form other colors. 
+
+Aside from dithering or half-toning, another consideration is the color gamut. The latter refers to the range of colors that can be created through devices. The photographer’s color gamut is far different from that of the printer. Thus, in order to create a closer semblance, colors must be close enough to the original colors. 
+
+As regards to the two most popular color models (CMYK and RGB), both of them must be taken into consideration before printing. RGB gamut is different from CMYK gamut. Moreover, some colors belonging to one model to another may not display accurately. These colors are called out-of-gamut colors. 
+
+In printing the right colors, be sure to convert RGB to CMYK colors. That way you can have the exact counterpart.
+
+

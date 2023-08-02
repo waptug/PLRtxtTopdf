@@ -1,0 +1,28 @@
+Title: 
+Mysteries Unraveled
+
+Word Count:
+455
+
+Summary:
+One of the great mysteries of personal finance is:  How are social security retirement benefits calculated?  The computation itself is something of a mystery.  It's so complex that I'm not sure who could have dreamed it up.  I am sure that most in Congress don't understand it.  In this article
+
+
+Keywords:
+retirement, investment, 401k, advice, help, Ohio, 
+
+
+Article Body:
+One of the great mysteries of personal finance is:  How are social security retirement benefits calculated?  The computation itself is something of a mystery.  It's so complex that I'm not sure who could have dreamed it up.  I am sure that most in Congress don't understand it.  In this article we'll take an abbreviated look at what goes into the computation.
+
+We will be concentrating on the method of computing retirement benefits in place since 1979.  Before then a different, but equally bizarre, method was used.  The changes were instituted in 1979 to help keep benefits more or less inflation-proof.  The computation begins by determining a worker's Average Indexed Monthly Earnings (AIME).  The AIME is based on the worker's social security wages or earnings from self-employment after 1950, but only up to the social security maximum for each year.
+
+The worker's earnings are then "indexed" by adjusting them for the average national wage increases.  The purpose of the indexing is to state the wages in terms of the level of wages in the second year prior to social security eligibility.  Generally you are eligible for social security at age 62, so we index to the year in which you turn 60.  
+
+Now that you have "adjusted" the earnings, you must next determine the average.  Begin this process by determining the number of years after 1950 (or turning 21 if later) and before when you turn 62.  Got that number?  Great, now subtract five.  (Why five?  Beats me.)  Social security calls this figure the "number of computation base years."  Now, go back to your indexed annual earnings and select the highest earning years until you have enough to equal the "number of computation base years."  For example, you began work at 22 and worked to 62.  Your benefits will be computed based on the highest 35 (40 - 5) years of indexed earnings.  Finally, total all the indexed years and divide by the number of months in those years.  Congratulations, you have just computed the AIME.  Have a drink.....or six.
+
+If you thought you're done, guess again.  The amount of the social security benefit is equal to the Primary Insurance Amount (PIA).  Fortunately, you don't have to do these computations yourself.  The Social Security Administration is happy to do it for you.  Just get a Form SSA-7004-PC from your local Social Security Office, fill it out and send it in.  In a few weeks the good folks at Social Security will send you an estimate of your benefit.  
+
+They will also send you a print out of your "earnings record."  Your earnings record is the amount Social Security thinks you made each year.  It pays to check this periodically, say every three years.  Mistakes are possible and those mistakes can cost you in social security benefits later on.
+
+

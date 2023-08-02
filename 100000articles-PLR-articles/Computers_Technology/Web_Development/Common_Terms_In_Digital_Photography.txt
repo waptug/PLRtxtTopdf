@@ -1,0 +1,54 @@
+Title: 
+Common Terms In Digital Photography
+
+Word Count:
+432
+
+Summary:
+A short list of the most common terms used in digital photography:
+
+6 MP camera: A camera capable of shooting an image measuring six million pixels in size.
+
+Aperture: The opening behind the lens that permits light to travel to the camera's interior where the sensor is located.
+
+JPEG: The term used to describe a type of digital compression used for digital images. This particular compression ratio was fixed by the Joint Photo Experts Group to reduce the picture size. Th...
+
+
+Keywords:
+
+
+
+Article Body:
+A short list of the most common terms used in digital photography:
+
+6 MP camera: A camera capable of shooting an image measuring six million pixels in size.
+
+Aperture: The opening behind the lens that permits light to travel to the camera's interior where the sensor is located.
+
+JPEG: The term used to describe a type of digital compression used for digital images. This particular compression ratio was fixed by the Joint Photo Experts Group to reduce the picture size. This reduction, however, results in considerable loss of picture quality.
+
+Digital zoom: The process of digitally enlarging a portion of the picture. This function is performed within the electronics of the digital camera without any physical adjustment of the lenses, and results in a loss of picture quality.
+
+Megapixels: A measurement of digital photo quality. A one-megapixel image is made up of one million pixels.
+
+Memory: The electronic storage space built into digital cameras for the purpose of storing pictures.
+
+Optical Zoom: As opposed to digital zoom, this is the process of changing the focal length and magnification of the lens physically, without altering the quality of the recorded digital image. Superior to digital zoom.
+
+Pixels: A contraction of the term "Picture Element". It is the smallest element of a digital image, a single "dot" of light or ink.
+
+Pixel Count: The number of pixels that go into making each image. The higher the pixel count the more realistic an image is likely to appear.
+
+PPI: An acronym for "pixels per inch", and is used to describe an element in picture quality. The higher the number of pixels displayed per inch, the better the picture will appear to the human eye and the less easily viewers will notice individual pixels.
+
+RAW/NEF: The uncompressed image as shot by a digital camera. Canon introduced the RAW picture format, while Nikon calls this format NEF.
+
+Sensor: The digital strip within the camera that converts incoming light into an electrical signal. It performs the role of "re-useable negative" within a digital camera.
+
+Shutter Speed: The duration for which the camera's aperture is opened, thereby allowing light to stream in. Longer shutter speeds leave the aperture open longer, letting more light in and resulting in more exposure.
+
+TIFF: An acronym for "Tagged Image File Format". While there is no loss of information in this format, the resulting file sizes are also very large.
+
+White Balance: Human eyes compensate for lighting conditions with different colors of light. A digital camera, however, requires a reference point that represents white. It then calculates all other colors based upon this setting.
+
+

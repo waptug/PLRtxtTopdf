@@ -1,0 +1,44 @@
+Title: 
+DivX Video Format Explained
+
+Word Count:
+606
+
+Summary:
+There’s a company called DivX, Inc, formerly the DivXNetworks, Inc. that introduced the DivX family of video codecs. Made extremely popular because of its ability to produce high quality video using lossy MPEG4 Part2 compression or MPEG4 ASP, DivX has cemented itself as one of the most popular multimedia codec for the home market.
+
+DivX is known to create a balance between quality and file size with its highly efficient compression abilities. And because of that, it s one o...
+
+
+Keywords:
+software, divx, mp3, video, film
+
+
+Article Body:
+There’s a company called DivX, Inc, formerly the DivXNetworks, Inc. that introduced the DivX family of video codecs. Made extremely popular because of its ability to produce high quality video using lossy MPEG4 Part2 compression or MPEG4 ASP, DivX has cemented itself as one of the most popular multimedia codec for the home market.
+
+DivX is known to create a balance between quality and file size with its highly efficient compression abilities. And because of that, it s one of the codecs used for ripping where audio and video are copied from a source to the PC hard disk for archiving and transcoding.
+
+The commercial DivX competes with Microsoft’s Video for Windows in WMV, Apple’s QuickTime in the MOV and RealNetwork’s Real Video in the RMM file formats. An open source version released by Xvid solutions in 2001 is the Xvid file format.
+
+While DivX has long been renowned for its excellent video quality, its free and open source equivalent Xvid today offers comparable quality, also based on MPEG-4 Part 2 (MPEG-4 ASP). In a series of subjective quality tests at Doom9.org, the DivX codec has been successively beaten by Xvid every year since 2003.[11]
+
+Confusion clarified
+
+DivX are two different things from two different companies. One is DIVX created by Circuit City, a US electronics retail giant that attempted to market a DVD rental system that used special players and discs. And the other is the DivX multimedia codec trademarked and marketed by DivX, Inc. which is actually a reference to the failed Circuit City system.
+
+A short history
+
+DivX roots can be traced back to 1998 as a hacked version of Microsoft’s MPEG4 version 3 which is inferior to the MPEG4 that we know today. It was a French hacker Jerome Rota who, rather than modify his video resume which could not play on the new Windows Media Player at that time, reverse-engineered the MPEG4 format together with a German Hacker Max Morice to come up with an MPEG4 format encapsulated in AVI instead of the ASF it originally had. It only took them a week. Between 1998 and 2002, the DVD hacking community had independent hackers enhance the format that later came to have the Divx with a smiley emoticon &#61514; attached as version 3.0.
+
+In 2000, Rota was hired by Jorda Greenhall to form a company called DivXNetworks (later renamed to DivX, Inc.) based in the French Riviera. The association resulted in the OpenDivX codec a year later. Its source code was open to anyone and could be downloaded from the projectmayo.com website. The following year, the two left for San Diego and developed the OpenDivX software to become DivX version 4.0. Other developers took the Encore2 software to enhance the open source OpenDivX to arrive at the rival Xvid format.maintained by Xvid Solutions, Inc.
+
+The DivX Company continued to enhance the DivX software that in 2002 has taken on the fifth version. By 2004, the features of the DivX format are as complete as we know it today. In May 2007, the Windows Vista version DivX 6.6 for the PC and the Mac was released.
+
+The advantages and benefits of using DivX
+
+DivX found itself at the heart of video piracy in the late 90s as its format became widely popular for ripping copyrighted DVD materials for bootleg replication and distribution. A number of generic DVD players as well as branded ones are claiming to play DivX materials.
+
+What’s so appealing about the format is that it’s free. Same with the software players you can use to play it with. It belongs to the open source community together with Xvid offering competitive if not better quality.
+
+

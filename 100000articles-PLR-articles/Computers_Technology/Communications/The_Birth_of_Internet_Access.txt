@@ -1,0 +1,30 @@
+Title: 
+The Birth of Internet Access
+
+Word Count:
+743
+
+Summary:
+Internet access and its beginnings can be accredited in large part to the collective efforts of many individuals around the globe. However, it all began back in the late 60s when the U.S. military wanted to create a network of computers that could communicate together. This network was to become known as ARPANET. By the mid 1980s, the National Science Foundation improved the networks ability to transfer information at faster speeds. As a result, and by the 90s, Internet service providers (ISP’s) and Web sites began popping-up offering Internet access to the public, thereby, ushering in the age of Internet access.
+
+
+Keywords:
+internet, access, service, providers, isp, high, speed
+
+
+Article Body:
+Isn’t it interesting how we always seem to take for granted some of the most significant technological breakthroughs that have helped propel our society into the 21st century? Internet access is one such technology that has changed the way we work, live, and play. The Internet has become such a necessity in most of our daily lives that we hardly even give its significance a second thought. We use the Internet for personal communication, our finances, entertainment, dating, news, research, and much more. However, it’s amazing when asked, “Who created the Internet?” the usual answer is a simple “I don’t know”. The creation of the Internet was a pretty large technical undertaking that took many years to perfect and would require a great deal of your time if explained in complete detail. However, this editorial cuts to the chase and explains its development in a clear, concise, non-technical manner.
+
+In the late 1960s, the Advanced Research Projects Agency Network (ARPANET) developed by ARPA of the U.S. Department of Defense created a network of computers that were all linked together. This network was referred to as ARPANET and was specifically designed to be redundant. The reason for the network redundancy ensured that if any one section of the network became damaged in a large scale military conflict, the remaining computers on the network would still be able to communicate with one another. Back then, the military understood the potential of computer networks and they also understood that in any military conflict reliable battlefield communication is paramount to a successful outcome. This is what led the military to research a way to reliably network computers for such a scenario.
+
+By the mid 1980s, the National Science Foundation created NSFNET. This used the ARPANET technology that was originally developed for military application to allow universities and researchers to connect to each other. By 1987, NSFNET was no longer capable of handling the amount of information that was being transferred, so the National Science Foundation made improvements to the network in order to increase information transfer speeds. This high speed network technology was the key advancement that made the future of Internet access practical. As a result, this improved high-speed network laid the groundwork for the application of commercial Internet access.
+
+In the 1980s, the majority of individuals with Internet access were mainly comprised of scientists and researchers. By the early 1990s, many companies, now more commonly referred to as Internet service providers (ISP’s) started offering Internet access to average home users. This was the key transition point that allowed the average individual with a simple modem and computer configuration to acquire Internet access.
+
+The World Wide Web (www) was created in the early 1990s by a European Laboratory. Their goal was to develop a way for researchers to work more closely together and to make the sharing of their research easily accessible amongst other researchers. As a result, the first publicly accessible Web site was created in 1993.
+
+By the mid 1990s, well over 30 million people had acquired Internet access. These vast numbers of Internet surfers enticed large corporations to invest their marketing dollars into Web design and promotion in order to sell or provide information about their products and or services. As a result, today there are millions of companies vying for the attention of anyone with Internet access. Moreover, it has become a standard requirement for just about every business model to acquire an Internet presence.
+
+In conclusion, the birth of Internet access can be attributed in large part, to the combination and sharing of individual ideas and talents from thousands of people around the world. If it were not for this collective effort, the Internet and the access to it that we have become so dependant on would not exist today. Imagine for an instance what life would be like without the Internet. You would probably feel more or less confused and lost without even realizing why. Think about it, to a lot of people the Internet has become their sole source for personal banking, investing, driving directions, Online education, tickets for entertainment events, hard to find items, health related resources, music, dating, Online gaming, shopping, and work/school research. These are just a few examples of the many uses that the Internet brings into our lives. As you can see, Internet access has become such a common requirement in our lives that without it we would literally be lost.
+
+

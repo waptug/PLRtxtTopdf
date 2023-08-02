@@ -1,0 +1,65 @@
+Title: 
+Cisco CCNA Certification Exam Tutorial: The OSPF RID
+
+Word Count:
+569
+
+Summary:
+The OSPF RID isn't a complicated concept, but there are details you must know in order to pass the CCNA!  Learn these details from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+cisco, ccna, exam, certification, ospf, rid, router, id, protocol, router, clear, ip, process, ccnp
+
+
+Article Body:
+OSPF is a major topic on your CCNA exam, as well it should be. OSPF is a widely-used WAN protocol, and you need to learn the fundamentals before moving on to more complicated configurations. One such detail is the OSPF Router ID, or RID.
+
+The RID is the dotted decimal value by which other OSPF routers will identify a given OSPF router. There are some interesting defaults for this value, and a command you should know to hardcode the RID. You had also better know what has to happen for this command to take effect, so let's take a more detailed look at the OSPF RID.
+
+In this example, R1 has an adjacency with R2 and R3 over the 172.12.123.0/24 frame network. R1 is the hub, with R2 and R3 as the spokes. No other interfaces are OSPF-enabled on any of the routers. Running show ip ospf neighbor on R1, we see some unusual values under "Neighbor ID", which is another name for the OSPF RID.
+
+R1#show ip ospf neighbor
+
+Neighbor ID     Pri   State                 Dead Time   Address         Interface
+
+3.3.3.3           0   FULL/DROTHER    00:01:57    172.12.123.3    Serial0
+
+2.2.2.2           0   FULL/DROTHER    00:01:57    172.12.123.2    Serial0
+
+Notice the Neighbor ID of each remote address is the loopback address.  How can that be if they’re not OSPF-enabled?
+
+When determining the Router ID (RID) of an OSPF-enabled router, OSPF will always use the numerically highest IP address on the router’s loopback interfaces, regardless of whether that loopback is OSPF-enabled.
+
+What if there is no loopback?  OSPF will then use the numerically highest IP address of the physical interfaces, regardless of whether that interface is OSPF-enabled.
+
+BOTTOM LINE:  An interface does not have to be running OSPF to have its IP address used as the OSPF RID.
+
+The OSPF RID can be changed, but it requires a restart or to reinitialize the OSPF routing process.  Use the router-id command to change the default RID of each router as shown, and clear the OSPF process to do so.
+
+R1#conf t
+
+Enter configuration commands, one per line.  End with CNTL/Z.
+
+R1(config)#router ospf 1
+
+R1(config-router)#router-id 11.11.11.11
+
+Reload or use "clear ip ospf process" command, for this to take effect
+
+R1#clear ip ospf process
+
+Reset ALL OSPF processes? [no]: yes
+
+1d05h: %OSPF-5-ADJCHG: Process 1, Nbr 3.3.3.3 on Serial0 from 2WAY to 
+DOWN, Neighbor Down: Interface down or detached
+
+1d05h: %OSPF-5-ADJCHG: Process 1, Nbr 2.2.2.2 on Serial0 from 2WAY to 
+DOWN, Neighbor Down: Interface down or detached
+
+
+After entering the router-id command, the router console informed you that you have to reload the router or reset the OSPF processes for this to take effect.  You enter the clear ip ospf process command to do this. Notice that when you’re asked if you really want to do this, the prompt is “no”?  That’s because all the OSPF adjacencies on this router will be lost and will have to begin the process again.  That’s OK on a practice rack, not good in a production network.  Don’t use that one at work.
+
+The OSPF RID is not a complicated concept, but the fact that an interface doesn't have to be OSPF-enabled in order to have its IP address act as the RID takes some getting used to. And remember - when the router or switch asks you a question and the prompted answer is "no", take one step back and make sure you really want to do what you're about to do!
+
+

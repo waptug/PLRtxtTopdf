@@ -1,0 +1,44 @@
+Title: 
+FIREFOX
+
+Word Count:
+351
+
+Summary:
+With all of the numerous security risks and alerts associated with using the Internet Explorer browser, it’s no real surprise that a new Web browser has emerged as a viable alternative. This relatively new and open-source browser, called Firefox, has steadily been gaining market shares, while Internet Explorer has been continuing to lose ground. Estimates now place Firefox at over 12% of overall browser usage . This browser competition, frequently referred to as a browser war, has become even more heated with the releases of Firefox 2.0 and Internet explorer 7.0. This article proposes to look at what makes Firefox so popular and examine some of its extensions.
+
+
+Keywords:
+firefox, browser
+
+
+Article Body:
+Why is Firefox so popular?
+
+A myriad of reasons explain why Firefox is becoming increasingly more popular:
+
+RSS reader—Firefox has a built-in RSS reader which allows users to stay up to date with the content of their favourite blogs and Websites; 
+
+Better security—Firefox has proven more secure than Internet Explorer for a few reasons, but primarily because the majority of hackers prefer to target the most commonly used browser, namely Internet Explorer;    
+
+Integrated search bar—Firefox users have quick and easy access to their favourite search engines such as Google and Yahoo;  
+
+Customizable—Unlike most browsers, Firefox allows numerous options to personalize both its appearance and functionalities; 
+
+Find as you type—Firefox automatically highlights the first result of a search as you start to type it. If you frequently search the content of Web pages, this feature can save you quite a bit of time;  
+
+Tabbed browsing—Arguably one of the most important reasons behind Firefox’s popularity is that it offers tabbed browsing. In other words, you can navigate several sites in a single page as well as drag and drop tabs to keep sites together; 
+
+Firefox Extensions
+
+Another key advantage of using Firefox is that it allows the use of numerous extensions. If you are not familiar with extensions, they are add-ons that provide the browser with new functionalities. There are literally hundreds of extensions, but here are a few well-known and popular ones to illustrate the numerous possibilities that Firefox extensions have to offer (for a complete list check out https://addons.mozilla.org/):
+
+No Script—Makes your browser more secure by allowing JavaScript, Java and other executable content only for trusted domains of your choice, e.g. your home-banking web site; 
+
+Video Downloader—Allows users to download videos from Youtube, Google, Metacafe, iFilm, Dailymotion, and other video sites; 
+
+DownThemAll—This extension is a download manager that features an advanced accelerator that increases speed up to 400% and allows users to pause and resume downloads at any time;
+
+MacFox—Lets PC users experience the look of Mac OS X. This extension includes Aqua-style UI elements and enhancements.
+
+

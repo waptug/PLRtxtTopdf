@@ -1,0 +1,46 @@
+Title: 
+Managing Stakeholders in the Requirements Process
+
+Word Count:
+331
+
+Summary:
+Navigating the process of gathering business requirements and creating the business requirements can be hard enough without adding the issue of stakeholder management to the equation.
+
+
+Keywords:
+Business Analysis, Requirements Engineering, Business Requirements, Business Analysis Training, Requirements Training, Use Cases, Use Case Training, Requirements Elicitation, Requirements Documentation
+
+
+Article Body:
+Navigating the process of gathering business requirements and creating the business requirements can be hard enough without adding the issue of stakeholder management to the equation. Nevertheless, fulfilling the needs of the stakeholders is what the project is all about, so it is critical that the analyst keep them on his or her side throughout the project.
+
+Tips for Gaining Stakeholder Trust
+
+It is critical that all of the stakeholders trust the business analyst to complete the business requirements phase of the project accurately and professionally. Loss of stakeholder trust is a critical issue that must be addressed by the Project Manager the moment that any trust concern is raised.
+
+Here is one key method for managing stakeholders during the requirements gathering process:
+
+Conduct One-on-One Interviews - One-on-One meetings enable the analyst to create a strong relationship with each individual stakeholder in these ways:
+
+· Draw out Concerns from Hesitant Stakeholders
+
+Some stakeholders do not like to convey their concerns in group meetings, especially if very senior stakeholders are present or if he or she holds opinions or concerns that are contrary to the group's. These stakeholders are more likely to communicate freely during one-on-one sessions.
+
+· Better Manage Troublesome Stakeholders
+
+Very often group meetings will be dominated by one or two stakeholders who are either disruptive or exhibit some other type of behavioral symptoms which affect the other meeting attendees in a negative way.  Meeting with these people in a one-on-one environment gives the analyst the opportunity to gently bring the stakeholder's attention to the disruption issues and, ideally, foster better participation in future meetings.
+
+· Build Rapport - Building rapport by fostering personal relationships is crucial
+
+Other Tips for Managing Stakeholders in the Requirements Process
+
+· Never argue with any stakeholders, disagree in a diplomatic way.
+
+· Never embarrass a stakeholder in a group meeting.
+
+· Remember that some stakeholders may work against your goals because they fear that the project will eliminate or affect their job.
+
+· Always communicate bad news the moment that it is discovered.
+
+

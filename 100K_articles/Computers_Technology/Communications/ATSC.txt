@@ -1,0 +1,53 @@
+Title: 
+ATSC
+
+Word Count:
+376
+
+Summary:
+ATSC (Advanced Television Systems Committee) is a group formed in 1982 that developed the ATSC Standards for digital televisions in the United States and in many other countries such as Canada, South Korea, Mexico, and Honduras. The abbreviations are also known to refer to the ATSC Standards itself.
+
+
+Keywords:
+atsc, ntsc, signal, channels,  Americas, Asia/Pacific
+
+
+Article Body:
+ATSC (Advanced Television Systems Committee) is a group formed in 1982 that developed the ATSC Standards for digital televisions in the United States and in many other countries such as Canada, South Korea, Mexico, and Honduras. The abbreviations are also known to refer to the ATSC Standards itself.
+
+ATSC Standards is a digital television format which will in the long term replace the current NTSC television system, as is the case in United States by February 17, 2009 and in Canada by August 31, 2011. These new high definition standards produce a display resolution better than approximately six times its predecessor — it shows off a lucrative 16:9 wide screen images up to 1920x1080 pixels in size. Not to forget, other different image sizes are still supported so that a maximum of six standard definition channels can still be broadcasted.
+
+Sound wise, the ATSC is capable of a “theater quality” audio as it adopts the Dolby Digital AC-3 format, which also produces the 5.1 channel surround sound.
+
+When broadcasting with the ATSC and an analog signal, two separate channels are required as the ATSC requires an entire channel for itself. As virtual channels can be remapped to any other number from 1 to 99, ATSC stations will often associate with one of the NTSC channels or all stations will use the same number.
+
+Also, like many other systems, the ATSC is an interwoven standard, and is also heavily patented as it includes elements from MPEG, AC-3 audio coding, and the 8VSB modulation.
+
+
+Comparison with Other Standards
+Nowadays, the ATSC system, despite previously being criticized as being too complicated for the ordinary and over-priced to be a household system, is relatively simplified and is moderately priced compared to the current world’s most used system, the DVB.
+
+Also, the ATSC signal, ironically, is more capable of adopting the changes in radio propagation conditions compared to the likes of DVB-T and ISDB-T. Were the ATSC capable of changing its parts such as its error correction modes, code rates, the randomizer, and the interleaver mode, it could become even more robust. Regardless of such fixed settings, it still is sturdy under various conditions.
+
+Territories Using ATSC
+
+Americas
+Argentina
+Bahamas
+Bermuda
+Canada
+Colombia
+Chile
+Guatemala
+Honduras
+Mexico
+Peru
+United States
+
+Asia/Pacific
+American Samoa
+Guam
+Northern Mariana Islands
+South Korea
+
+

@@ -1,0 +1,46 @@
+Title: 
+Day Trading With The Camarilla Equation
+
+Word Count:
+439
+
+Summary:
+Discovered in 1989 by a semi-legendary bond trader called Nick Stott, it is allegedly a secret day trading formula that will help your day trading reach new heights of accomplishment, with the bare minimum of risk. Or so the story goes.
+
+
+Keywords:
+stocks, shares, trading, day trading, financial trading, stock market, camarilla
+
+
+Article Body:
+<b>Origins of the Camarilla Equation</b>
+
+Discovered while day trading in 1989 by Nick Stott, a successful bond trader in the financial markets, the 'Camarilla' equation uses a truism of nature to define market action - namely that most time series have a tendency to revert to the mean.
+
+The equation produces 8 levels that are meant to predict these reversal points allowing the trader to profit from them. The equation uses nothing more than the previous trading day’s open, close, high and low levels and some interesting mathematics to produce these supports and resistances.
+
+<b>Trading the Signals</b>
+
+Now these levels are numbered L1-4 for the supports and H1-4 for the resistances but it is really the L3, L4, H3 and H4 ones that are most important.
+
+When the price level reaches the H3 level the theory behind the Camarilla Equation says that there is a strong resistance at this point and that a SHORT trade should be made with a stop loss at the H4 level. 
+
+Conversely, when the price drops to the L3 level there is a strong support and a LONG trade is the recommendation with a stop loss at the L4 level.
+
+<b>Breakout Possibilities</b> 
+
+While the H4 and L4 levels should normally be reserved for setting stop losses on the above trades, occasionally there will come a point when these points are broken through. If this breakout is maintained for a significant amount of time and the price is still on the move then a LONG or SHORT trade should be entered respectively. 
+
+These trades are not so common but could provide massive profits (or so the Camarilla Equation suggests)
+
+<b>Choosing entry point with Camarilla Equation</b>
+
+There are two entry points that you may like to consider when using the Camarilla Equation. Firstly you could trade as soon as the market reaches either the L3 or H3 level and go AGAINST the current trend but there is more of a danger that the trend will continue and you will lose out if this is your preferred method.
+
+The alternative is to wait after the market has broken the L3 or H3 level until the reverse actually occurs and enter the trade just as the market passes the respective level once again. This allows you to trade WITH the trend which should prove a safer option.  
+
+<b>So does it Work?</b>
+
+If you are interested in whether or not the Camarilla Equation provides a viable trading method then you may wish to follow my experiment which is testing the given levels for the FTSE 100, Dow Jones and DAX 30 stock markets.
+
+

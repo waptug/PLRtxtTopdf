@@ -1,0 +1,45 @@
+Title: 
+Clean the Hard Drive Before Dumping Your PC
+
+Word Count:
+789
+
+Summary:
+<p> If you're getting rid of your old computer there are some things you should know about it. </p>
+<p>Chances are there's sensitive data on it. If you're like me, that PC's hard drive contains a compilation of your personal and business life. If the wrong people were to grab it, they could hurt you and your business very seriously. </p>
+
+
+Keywords:
+Small Business Plans, Small Business Start Up, Small Business Ideas
+
+
+Article Body:
+<h2>Clean the Hard Drive Before Dumping Your PC </h2>
+<h2>If you're getting rid of your old computer, chances are there's sensitive data on it. Make sure it doesn't fall into the wrong hands. </h2>
+By Kim Komando
+<p>If you're getting rid of your old computer there are some things you should know about it. </p>
+<p>Chances are there's sensitive data on it. If you're like me, that PC's hard drive contains a compilation of your personal and <a href="http://www.microsoft.com/india/smallbusiness/product_overview.mspx">business</a> life. If the wrong people were to grab it, they could hurt you and your business very seriously. </p>
+<h3>Is the Data Really Gone? </h3>
+<p>Here's the problem: An index of files is maintained for the hard drive, telling it where things are stored. When you install a file, especially a big one, it is scattered around the hard drive in bits and pieces. On your command to open the file, the hard drive checks the index, then gathers the pieces and reconstructs them. </p>
+<p>When that file is deleted, the links between the index and the file disappear. That tells your system that the file is no longer needed and that hard drive space can be overwritten. But the deleted file remains on your computer. Only when it is overwritten do you begin to be safe. Even then, a specialist might be able to recover the old data. </p>
+<p>Assuming you just deleted everything in preparation for saying goodbye to your PC, it is unlikely that the sensitive information has been overwritten. It's still sitting there, and anybody with the right software could find it. </p>
+<h3>Do You Trust the Recipient? </h3>
+<p>How you handle this really depends on where the computer is going. If a trusted employee or your Aunt Minnie is getting it, you can probably just delete everything. If you're selling it or giving it away to a stranger, you might want to do some more work. </p>
+<p>So here are my four suggestions. </p>
+<h3>1. Give the Computer to a Trusted Employee, Friend or Family Member </h3>
+<p>If you trust who you give it to, I wouldn't put a lot of effort into destroying data. Recovering deleted data isn't automatic. A thief or con artist will have to get some specialised software and learn to use it. Lots of boring data would have to be sorted to find the good stuff. The average (honest) person isn't going to bother. </p>
+<p>So if you give the PC to someone you trust, you should simply delete the files. More extensive work probably isn't worth the effort. Just be sure the recipient is honest. </p>
+<h3>2. Reformat the Hard Drive and Re-install the Operating System </h3>
+<p>Reformatting a disk prepares it to accept a new operating system. It also wipes out everything on the hard drive. That's your goal. </p>
+<p>Reformatting will keep most people out of your old files. But specialised shareware exists to reclaim files after reformatting. If you do not know who will get the computer — or you do know and you don't trust them — stronger measures are required. </p>
+<h3>3. Buy Software and Overwrite the Disk, Again and Again and Again </h3>
+<p>If you don't know much about computers, this might be easier than Step 2. There are several programs that write gibberish to the hard drive. They promise that nobody will be able to find your files after the software is utilised. </p>
+<p>Norton's SystemWorks includes an application called Wipe Info. OnTrack's DataEraser offers a similar feature, as does Jetico's BCWipe. There are more such applications on the Internet. </p>
+<p>You can leave the operating system and other files on the hard disk, if you want. These programs can be set to overwrite only the unoccupied areas. The process can be slow, because they write to the disk repeatedly. You might want to run it overnight. </p>
+<h3>4. You're Totally Paranoid, so Get Out the Acetylene Torch </h3>
+<p>I'm not kidding. The only absolute and assured way of protecting your data is to destroy the hard drive. To do that, you need to remove it from the computer. </p>
+<p>The Pentagon shreds its hard drives. That should work, assuming you can find a hard-drive shredder. I've never seen one. </p>
+<p>You need to destroy the platters inside. Try smashing them with a hammer. Destroying them with a torch should work. </p>
+<p>Step 4 seems excessive to me. But you're right to be paranoid about this. Identity theft is becoming more and more common. Be careful, no matter who gets the computer. </p>
+
+

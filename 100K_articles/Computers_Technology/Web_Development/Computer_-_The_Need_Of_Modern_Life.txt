@@ -1,0 +1,48 @@
+Title: 
+Computer - The Need Of Modern Life
+
+Word Count:
+611
+
+Summary:
+Computers simply mean a machine which can compute. Let us peek into the past and find out who were the geeks who thought about having a device that could perform calculative tasks by recognizing inputs and giving the appropriate outputs.
+
+Abacus developed in 3000 BC can be called the first ever computer as it was a simple counting device. In 1941 a German engineer Konard Zuse developed a first programmable calculator using binary math and Boolean logic. UNIVAC was developed...
+
+
+Keywords:
+computer, notebook, laptop
+
+
+Article Body:
+Computers simply mean a machine which can compute. Let us peek into the past and find out who were the geeks who thought about having a device that could perform calculative tasks by recognizing inputs and giving the appropriate outputs.
+
+Abacus developed in 3000 BC can be called the first ever computer as it was a simple counting device. In 1941 a German engineer Konard Zuse developed a first programmable calculator using binary math and Boolean logic. UNIVAC was developed in 1951 and the real breakthrough came in 1952 when Texas Instrument developed the Integrated Circuit. In 1964, IBM introduced a mainframe computer called IBM 360. Apple introduced Apple I in 1976 and Apple II in 1977. The Computer that is familiar to most of us in terms of looks and functionality was unveiled in 1981 when IBM introduced the Personal Computer.
+
+The main characteristics of a Computer are:
+
+1 - It follows and is capable of following a special set of instructions.
+
+2 - It can execute preset list of instructions generally known as a computer program.
+
+The basic components which are essential to make a computer are:
+
+1 - Input Device comprising of a Keyboard and Mouse which are used for entering instructions and data into the computer.
+
+2 - Output device such as the Visual Display Unit or the Screen, Printer etc, which lets us see what the computer has done.
+
+3 - The Central Processing Unit which is known as the brain of the Computer where all the processing of data is done and instructions are executed.
+
+4 - Memory is the powerhouse of the computer which stores data and instructions in it.
+
+5 - Mass Storage Devices are those which permanently stores and retain large amount of data. The common ones are floppy drives, CD-ROMs, Hard disks etc.
+
+Computers come in various types designed for various purposes keeping in mind different categories of its users. According to their type they have different capabilities and are priced accordingly. The most popular computer is the Personal Computer which is for personal use of a single user at one time. They come in two types; A Desktop and a Laptop. Then there is an even smaller computer known as the Palmtop which can be held in the palms of the user. While these are the smaller and personal types of computers, The Mainframe, Workstation and Supercomputers are the larger high end computers used by big organizations.
+
+Computers can perform a wide range of functions such as word processing, Digital Audio/Video composition, Internet, Communications and Networking and Desktop Publishing. Computers word processing capability includes automatic correction of spelling and grammar mistakes. Internet is one of the greatest inventions of human beings. It connects infinite number of computers in the manner of a web.
+
+Ungodly amounts of information are available on the Internet and facilities of communications such as messaging, audio and video conferencing are available for free. Graphic engineers are using computers for editing audio and video compositions. No media production can be completed without the help of computers. Nowadays Computers are indispensable for Banking, Railway and Flight Reservations, Education and even defense of a country. There is hardly any sector of business which does not utilize Computers. Important and critical business tasks cannot be accomplished without the help of computers.
+
+Just like human beings, computers are also prone to diseases which are created by attack of viruses. Proper back up of all data stored in computer must be maintained to provide back up in case of storage media failure. Computers must be secured from unauthorized use by passwords and must be protected from viruses by installing anti-virus programs in them. Computers, if safeguarded and used properly can create wonders for human kind and can produce results which are unachievable without them.
+
+

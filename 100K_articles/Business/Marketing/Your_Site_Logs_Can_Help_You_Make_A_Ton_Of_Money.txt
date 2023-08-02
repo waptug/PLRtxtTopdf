@@ -1,0 +1,50 @@
+Title: 
+Your Site Logs Can Help You Make A Ton Of Money
+
+Word Count:
+1098
+
+Summary:
+I’m a busy guy. I own several traditional brick and mortar businesses, and I spend a lot of time online. Since last month I’ve been spending a lot of time working on this blog and re-orienting myself on the Net.
+
+So every morning I let my four dogs out, grab a cup of coffee and toast a bagel, then run upstairs and get on my computer. Some days I need to be out of the house at 9:00 AM to get somewhere, and some days I have nothing but time. Either way there are three things ...
+
+
+Keywords:
+making money, internet marketing, site logs, log analysis, monetization, revenue
+
+
+Article Body:
+I’m a busy guy. I own several traditional brick and mortar businesses, and I spend a lot of time online. Since last month I’ve been spending a lot of time working on this blog and re-orienting myself on the Net.
+
+So every morning I let my four dogs out, grab a cup of coffee and toast a bagel, then run upstairs and get on my computer. Some days I need to be out of the house at 9:00 AM to get somewhere, and some days I have nothing but time. Either way there are three things I do every morning after looking over my emails. First I go and post an article to five different article sites. This ensures that a steady stream of new one-way links to this website is being produced. 
+
+Then I go to my RSS reader and poke around for a while on the forums and blogs to see what is going on. I keep a notebook next to my computer and write down anything that I think I can use later. Then I get to the most interesting and important part of the morning — I go to my awstats page. 
+
+Awstats is a basic site log analysis program that comes with most host accounts. I’ve always wondered how accurate the hit counts and other numbers really are, but that doesn’t matter because I’m not looking for counts…I’m looking for trends.
+
+Reviewing and understanding your site traffic logs can help you make more money by tailoring your site to meet the needs of your visitors.
+
+The first place I stop is my average page counts by day of week. I’ve noticed on AffiliateBlog that the traffic starts off strong on Monday, builds through Wednesday, then starts to trail off. There’s a small spike Saturday morning, but it’s a classic bell curve otherwise. What does this mean? It means that if I have something that I think is going to be well received I try to publish it on Sunday and get my pinging done for Monday. I’ve also noticed that my RSS Feed subscribership follows the same pattern. This all makes sense, because people start off the week strong and end it tired — including me.
+
+I breeze by the countries and note the flags because I think it’s cool. Next I stop at the section that shows the robots visiting the site. I make sure all of them have been there recently (especially Google), and I make a note if it looks like something is not right. I recently realized that one of the minor robots had never visited, so I went to the site and submitted a listing. If you’re curious about all the robots out there, go to Robotstxt.com and take a look. Make sure the major robots on the list have visited your site in the last month. If not, you need to get them there. I’ve noticed that MSN, Yahoo and Google (in that order) visit my site the most. You need regular robot visits to ensure your latest content is indexed and available to prospective visitors.
+
+Now we get to the fun part — the list of the most-viewed pages. This tells you which content people are most interested in, and which content isn’t really making the grade. The most popular post on AffiliateBlog has been The Ten Top Paying Programs at Commission Junction This Week. Oddly enough, a similar post about Shareasale is much farther down the list, meaning that people want to hear about top paying programs, but they want to hear about Commission Junction as well. I always watch for posts that climb up the line fast, and I always take note of them to brainstorm another entry that my visitors might like.
+
+I get some search engine traffic but not much, so I glance at the keywords. Judging by some of the keywords that appear there, this section isn’t very accurate.
+
+Still there? Okay…listen up. Here’s where you can really multiply your traffic, find some compatriots to work with and get some terrific insights into the minds of your visitors. Move down to the section that shows the external web sites that people are coming from. Understand…this is where your visitors saw something about you and clicked on it.
+
+Go through this entire list. I look for blog sites, web sites, social bookmarking sites (like del.icio.us) and forums that have not appeared before or have moved up fast. I click on the link and see where it leads. Then I see the context in which my website appears.
+
+Just as I do for people who trackback my blog (refer to it in their blog), I follow each link, get an email address and send off a quick email to the person thanking them for taking the time to mention my site. Nothing fancy — just a quick thanks is fine.
+
+The responses I get back are terrific. I would say that a large majority of them (80% probably) are responded to with amazement that I would take the time to acknowledge their actions. But why wouldn’t I? If someone takes the time to recommend you the least you can do is acknowledge that recommendation and be grateful for it. 
+
+I love the site list because I find out some really interesting things. For example, my trackback to Google’s blog when they bought Writely was actually listed on the Google blog page and brought me some traffic. And I was on the front page of del.icio.us for a little while…long enough to get some hits that way too. It’s really interesting, and it’s really fun to go through. Sigh…I am a dork.
+
+One last observation…I noticed that the people bookmarking my page hovers between 7 - 10%, which isn’t bad. My RSS feed list at Feedburner hovers at about the same range throughout the month, meaning that more people bookmark the site than sign up for RSS feeds. I’ve pondered this all month, and I’ve decided that a large majority of my visitors don’t use RSS regularly. That’s why the new crimson box at the top of my blog pages has appeared today. I put together an email version of my RSS feed in digest form that I’m going to make available weekly.
+
+So there’s a ton of information out there in that log file — you just need to go over it carefully and think.
+
+

@@ -1,0 +1,26 @@
+Title: 
+Unified conference software: audio-video-WEBconference, for Intranet
+
+Word Count:
+265
+
+Summary:
+WEBconference services over the Internet are more and more used mainly since their pricing mode switched from per minute per participant to fixed price per month, for unlimited use. In spite of that, its use has been restricted for security reasons but also due to enterprise culture which valorizes the use of internal resources instead of external service renting.
+
+
+Keywords:
+audioconfeerence, videoconfeerence, WEBconference, audio-conference, video-conference, web-conference, intranet, security, software
+
+
+Article Body:
+WEBconference services over the Internet are more and more used mainly since their pricing mode switched from per minute per participant to fixed price per month, for unlimited use. In spite of that, its use has been restricted for security reasons but also due to enterprise culture which valorizes the use of internal resources instead of external service renting. 
+
+Nevertheless, benefits of conferencing technologies as audioconference, videoconference and WEBconference, taken separately, have been demonstrated as well as to save time than to reduce travel expenses. Imagine what it could be with unified conference integrating audio, video and WEBconference over the same PC interface. 
+
+Two conditions need to be met to improve the impact. First, unified conference need to be an internal resource as email, CRM or ERP, available at no cost simply with a mouse clic. More, the solution needs to reach a security level almost military and operates over an Intranet, on an enterprise local area network (LAN) and not over the WEB.
+
+With this perspective in mind, Tele-efficiency offers now its unified conference solution, Conferenceware, as software with a perpetual license (One time fee) still exploiting it as a service over the WEB. In this case, enterprises acquire the software at fixed price and host their meetings over their own WEB server, on Intranet. 
+
+Professional services for installing and training are provided through a distribution network. This distribution network is composed of computer integrators mainly those who commercialize CRM solutions with which Conferenceware is integrated. The enterprises who offer voice over IP services find also an opportunity to up-sell their current customer base.
+
+

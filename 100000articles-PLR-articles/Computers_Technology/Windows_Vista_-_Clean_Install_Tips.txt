@@ -1,0 +1,95 @@
+Title: 
+Windows Vista - Clean Install Tips
+
+Word Count:
+749
+
+Summary:
+There are no secrets here.  Everything I cover is published in the windows help files or scattered across the Microsoft website.  Perhaps it is compiled in a somewhat more usable form here.  At least it will keep you from having to do the searches, from sifting out the chaff, and from sorting the usable data.
+
+
+Keywords:
+Microsoft, windows, vista, clean install
+
+
+Article Body:
+Windows Vista - Clean Install Tips
+
+Perform a clean installation of Windows Vista
+
+A couple of weeks ago I released an article entitled ,"9 Tips To Keep Windows XP Running Smooth". 
+
+After that I published a lengthy (by necessity) article covering, "Upgrading To Microsoft Windows Vista Tips".  I have since received several e-mail requests for pointers on clean Vista  installs so I have compiled those conversations and am disseminating them for wider use. This will be much shorter and easier.
+
+There are no secrets here.  Everything I cover is published in the windows help files or scattered across the Microsoft website.  Perhaps it is compiled in a somewhat more usable form here.  At least it will keep you from having to do the searches, from sifting out the chaff, and from sorting the usable data.
+
+Do you remember the PC and MAC ads?  You might want to watch this one again http://www.youtube.com/watch?v=ci2D1ig4df4&mode=related&search=
+
+Don't let it scare you off.  Just know there are often major changes in what a computer will have and what Vista requires. 
+
+Another warning to run the windows Vista Upgrade Advisor before doing anything else is in order.  It is located at http://www.microsoft.com/windows/products/windowsvista/buyorupgrade/upgradeadvisor.mspx
+
+First, Please understand that this information pertains to a clean install....It will not work for an upgrade! 
+
+If you need upgrade help please refer to my article on upgrading to Vista at http://remotehelpdesk1.com/articles.htm 
+
+Second, APPLIES TO THE FOLLOWING VISTA EDITIONS (YOU WILL FIND VERSION COMPARISONS AT http://www.microsoft.com/windows/products/windowsvista/editions/choose.mspx )
+
+• Windows Vista Home Basic
+• Windows Vista Home Premium
+• Windows Vista Ultimate
+• Windows Vista Business
+• Windows Vista Enterprise
+• Windows Vista Starter
+
+Warning:
+In a clean installation, existing data is removed - that includes documents, pictures, movies, music, downloads, etc. This data includes personal data and settings. Please back up or make copies of  any and all data you wish to keep to another hard drive or computer before proceeding any further.
+ 
+After you install the Vista operating system, you must also reinstall all programs and restore any data you moved in the previous step. AGAIN!!...Make sure that you back up your personal and business data before you perform a clean installation.
+
+To perform a clean installation of Windows Vista, use one of the following methods only after (I can't say it enough) running the upgrade advisor, it is located at http://www.microsoft.com/windows/products/windowsvista/buyorupgrade/upgradeadvisor.mspx
+
+Most people don't read the fine print:  There are 23 (count them 23) warnings and exceptions hid behind this little ditty (Some product features are only available in certain editions of Windows Vista and may require advanced or additional hardware) hid at the end of Microsoft's 100 Reasons why you should upgrade to Vista.
+
+RUN THE UPGRADE ADVISOR FIRST !!!!!!!!!!!!!!!
+O.K....Cleared that hurdle?
+Lets get started:
+
+Method 1:
+
+Run the Setup program after you start the computer by using the current operating system
+
+1. Start the computer by using the current operating system.
+
+2. Insert the Windows Vista DVD in the computer's DVD drive.
+
+3. Use one of the following procedures, as appropriate:
+
+• If Windows automatically detects the DVD, the Install now screen appears. Click Install now.
+
+• If Windows does not automatically detect the DVD, follow these steps:
+a. Click Start, click Run, type Drive:\setup.exe, and then click OK.
+
+Note Drive is the drive letter of the computer's DVD drive.
+
+b. Click Install now.
+4. When you reach the Which type of installation do you want? screen, click Custom (advanced), and then follow the instructions that are displayed on the screen to install Windows Vista.
+
+Method 2:
+
+Run the Setup program after you start the computer by using the Windows Vista DVD
+
+1. Start the computer by using the Windows Vista DVD. To do this, insert the Windows Vista DVD in the computer's DVD drive, and then restart the computer.
+
+Note To start the computer from the Windows Vista DVD, the computer must be configured to start from the DVD drive.
+ For more information about how to configure the computer to start from the DVD drive, see the documentation that is included with the computer, or contact the computer manufacturer.
+
+2. When the "Press any key to boot from CD" message is displayed on the screen, press a key.
+
+3. Follow the instructions that are displayed on the screen to install Windows Vista.
+
+Much more information at http://remotehelpdesk1.com/articles.htm
+
+tmm
+
+

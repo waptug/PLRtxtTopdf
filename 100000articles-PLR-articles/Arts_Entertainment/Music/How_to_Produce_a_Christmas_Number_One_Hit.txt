@@ -1,0 +1,86 @@
+Title: 
+How to Produce a Christmas Number One Hit
+
+Word Count:
+1289
+
+Summary:
+How to create a Christmas Number One Hit using your computer and budget-priced music software and hardware.
+
+
+Keywords:
+music, computer music, music production, making music, music software, writing a song, christmas, humour, humor
+
+
+Article Body:
+The worst thing about Christmas has to be listening to Top Of The Pops and the Christmas Number 1 – Girls Aloud, Robbie Williams, Westlife and Mr Blobby for goodness sake! Surely anyone can produce a better Christmas Hit than those. After all, a computer does all the work, doesn't it - all you do is press a few buttons and jiggle a few drum and bass lines around.
+
+So what do you need? You need a PC with a reasonable amount of processing power under the hood - a Pentium III at least, preferably a P4 - in order to run the music software.
+
+Audio files are quite large - forget MP3s, we're talking the real thing here - and for each track of audio you record you'll need around 10.6Mb of hard disk space per minute. Every track won't be filled with audio so you won't need quite that much in a multi-track recording but for a four-minute 16-track song it would be wise to allocate around 500Mb of hard disk space.
+Playing cards
+
+You need a soundcard. All modern PCs have one of these but if you don't want your song to sound like it was recorded in a back bedroom - even it if was - get a decent card.
+
+At Christmas-stocking prices are a range of SoundBlaster cards such as the Audigy 2 ZS (for under £70/$100) with a good set of built-in sounds. But more than that, they support SoundFonts. These are samples the card uses to produce realistic instrument sounds and better beefy bass lines than yer average sound card.
+
+If you've a rich Mummy and Daddy they’ll be pleased to buy you a more expensive card such as E-Mu’s Emulator X (around £220/$380), a desktop sampling system that also supports SoundFonts. If you own a nightclub you'll be able to afford one of CreamWare's high-end systems with on-board synthesisers that can do everything but sober up the drummer - not that you need a drummer 'cause the cards have all the drum sounds you need.
+
+
+Key move
+
+You'll also need a MIDI keyboard to record your masterpiece. There’s a vast choice here from E-Mu’s XBoard 25, XBoard 49, and Swissonic’s CK490 (all running around £100/$150 give or take) to the Fatar range running from the TMK61 (£130/$225) up to the VMK 188 Plus (£599/$1000) with several models inbeween.
+
+These keyboards don't have any on-board sounds like synthesisers but they're much cheaper than synths and there are sounds in the soundcard anyway. If you've seen an Elton John concert and can't face the thought of touching a keyboard, don't worry - you can use pre-recorded loops and samples and cleverly arrange them in stunning combinations without a keyboard.
+
+
+Listen 'ere
+
+A decent pair of speakers is essential. The ten quid jobbies that were bundled with your PC may be fine for playing MP3s but they simply won't do for mixing music.
+
+The Big Boys use dedicated monitor speakers which can cost as much as a holiday in Barbados but if you leave the other half at home you could easily afford Behringer’s MS16s (£46/$79), or Edirol’s MA7A (£80/$135) or MA150 (£120/$200).
+
+If your PC is near your hi fi you can run the audio through that but switch off any bass boost or EQ settings. The idea is to get a flat, uncoloured response so if it sounds good on those speakers it should sounds good on any speakers. So the theory goes.
+
+
+Good arrangement
+
+The Big Boys can fiddle with high-end music sequencers but the new and incredibly modestly-priced Cubase SE 3 (less than a ton/$170) lets you record and assemble audio and MIDI parts with almost as much aplomb. It shows both types of recording on the same arrange page making it easy to see how they fit together.
+
+And finally, you need a CD recorder so you can burn your finished hit to CD and send it to lucky record companies. If you’ve a modern PC you’ll have one already. But do use a labeller and create a CD inlay, too, to give the CD a pro finish. In the music biz, looks, fashion and style are far more important than content so spend at least as much time on the outside as on the music. Put your contact details on the CD label as well as the inlay.
+
+
+Hook and line
+
+Now let's make a song. You need a hook. This is the bit everyone sings so it has to be catchy. It's usually the chorus but you can have a catchy bass line, drum line or even a vocal hook such as shout or a catch phrase like "Eh Oh". Well it worked for the Teletubbies – are you old enough to remember them with embarrassment?
+
+Let's say you've come up with a stonking chorus. Build a verse around it. It doesn't have to be memorable; few verses are. You can meander around in a relatively tuneless way until it's time to unleash the chorus on the world.
+
+When building a song, start with the rhythm section. Grab some groovy drum loops, string them together then add the bass line. You can play this on your new MIDI keyboard or drop in bass samples - jolly useful things, samples.
+
+Next you'll want to add some keyboard parts which can be clever rhythmic figures or you can play pads by holding down some chords using a broad-texture sound such as strings.
+
+
+Very vocal
+
+Then add the vocals. If you can't sing - but remember that never stopped anyone making a record - you might like to nip down the pub and ask the winner of this week's karaoke contest to do the chanting for you. Play your cards right and they may even pay you for the privilege.
+
+If you've too much musical nous to be in the same room as a karaoke singer, you can always fall back on your old friend, the sample.
+
+The final step is the mixing. This is where you balance all the parts you recorded, add a dash of reverb and generally tart the thing up.
+
+Then save the entire song as an audio file ready for burning to CD. This means recording the MIDI parts as audio tracks. You need to mix all the tracks into one stereo track so the final file will be 10.6Mb x the length in minutes.
+
+
+Looks good
+
+Now you have to interest the A&R men in your CD. It's all about image so if you're dull and ugly - name three ugly pop stars, apart from Madonna and Mick Hucknall - you may have to get one of your beautiful friends to pose for the publicity photos.
+
+Write a one-page biog - they don't want to know that you have a GCSE in music, they want to know what gigs you've done and any Big Name bands you’ve supported. Drop a few names such as Bruce, Robbie and Tina. You don't have to mention surnames... 
+If you do catch the ear of an A&R person, be prepared to throw your ego out the window - you can't afford one at the moment and when you're rich and famous you can buy a much better one anyway.
+
+You'll see the months of blood, sweat and Pils which you poured into your song pouring straight down the drain as the record company drafts in a 14-year-old DJ to remix your song using the latest Dance breakbeats and crap - sorry, rap - vocals.
+
+But don't worry - you can laugh all the way to the bank when it reaches Number One!
+
+

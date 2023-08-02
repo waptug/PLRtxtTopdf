@@ -1,0 +1,28 @@
+Title: 
+What Certification Should You Pursue After The CCNA ?
+
+Word Count:
+328
+
+Summary:
+After you earn your CCNA, you've got some tough choices as to which certification to pursue next.  Chris Bryant, CCIE #12933, has been there!  Chris shares his experiences and offers advice in this article.
+
+
+Keywords:
+ccna, pass, free, exam, icnd, intro, ccnp, bsci, ccvp, ccsp, next, bgp, ospf, certification, cisco
+
+
+Article Body:
+Once you've got your CCNA, you're ready to move on to the next level, the Professional certifications. For years, Cisco had one Professional certification, the Cisco Certified Network Professional (CCNP) certification. Over time, Cisco has expanded this level of certifications to include the Cisco Certified Security Professional (CCSP) and Cisco Certified Voice Professional (CCVP).
+
+With security and voice being the two most rapidly expanding areas of today's networks, some new CCNAs consider going after the CCSP or CCVP without first adding the CCNP to their resume.
+
+While it's temping to hurry up and get a Cisco security or voice certification, the best thing you can do for your networking career is achieve your CCNP certification first, then decide on the CCVP or CCSP.
+
+Why? Because the CCNA is just the tip of a very large iceberg when it comes to routing and switching. It's a very important accomplishment, and the CCNA is indeed the foundation of your networking career, but you need to add on to that level of understanding routing and switching before moving on to more specialized areas.
+
+Two examples are OSPF and BGP. You learn about the theory of OSPF and some basic and intermediate configurations of that protocol in your CCNA studies, but the knowledge you acquire of OSPF in your CCNP studies is invaluable. As for BGP, there is no BGP in the CCNA curriculum, but it is a great idea to have some BGP knowledge in today's networks. It's also good for your career.
+
+I know it is a huge temptation to go after the security and voice certifications while not paying attention to the CCNP. Do yourself a huge favor and add the tremendous amount of routing and switching knowledge needed for the CCNP to your knowledgebase, and you can then move on to the CCSP or CCVP. Even better, you'll be better prepared to climb the biggest certification mountain around - the CCIE!
+
+

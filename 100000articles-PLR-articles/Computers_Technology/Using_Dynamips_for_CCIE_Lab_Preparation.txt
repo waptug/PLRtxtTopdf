@@ -1,0 +1,95 @@
+Title: 
+Using Dynamips for CCIE Lab Preparation
+
+Word Count:
+888
+
+Summary:
+Since the beginning of networking related certification one of the recurring problems that have faced candidates is getting access to hardware to familiarize themselves with how network operating systems work.
+
+
+Keywords:
+Dynamips, CCIE Lab, Cisco Certification
+
+
+Article Body:
+<p>Since the beginning of networking related certification one of the recurring 
+problems that have faced candidates is getting access to hardware to familiarize 
+themselves with how network operating systems work. Traditionally candidates 
+have been limited to hunting for great deals on old or refurbished equipment to 
+buy, renting equipment time from rack rental vendors, using severely limited 
+router simulator programs, or testing configurations on live customer networks 
+and praying that the help desk's phone doesn't ring. Today candidates now have 
+an additional option for creating a Cisco IOS testbed, an emulation program 
+known as Dynamips&quot;.</p>
+<p>Started in August of 2005 by Christophe Fillot, Dynamips is a Linux and 
+Windows based application that is used to emulate the hardware of the Cisco 7200 
+and 3600 series routing platforms. Unlike traditional router simulators&quot; 
+Dynamips allows you to boot real Cisco IOS software images and build complex 
+network topologies to test the functionality of IOS on your desktop PC. As of 
+November 2006 Dynamips currently supports Ethernet, Serial, ATM, and POS 
+interfaces for the 7200 series routers and Ethernet, Serial, and Etherswitch 
+modules for the 3600 series routers. Best of all Dynamips is open-source and 
+free to download!</p>
+<p>To run Dynamips first you must install
+<a href="http://sourceforge.net/projects/libpcap/">libpcap</a> or
+<a href="http://www.winpcap.org">winpcap</a> depending on your platform. Windows 
+users will need to install winpcap 4.0 or later which is currently in beta.</p>
+<p>Next download the appropriate Linux or Windows executables for Dynamips. To 
+do this I would recommended to download the
+<a href="http://dyna-gen.sourceforge.net">Dynagen</a> installer package, a front 
+end written by Greg Anuzelli which uses an INI-like configuration file to 
+provision the Dynamips emulator.</p>
+<p>Next you'll need a Cisco IOS software image for a 7206, 3620, 3640, or 3660 
+router depending on which platform you will be emulating. IOS can be downloaded 
+from http://www.cisco.com for users with a valid service contract. Once you have 
+downloaded the appropriate IOS image it is recommended that you extract the 
+image to save time in the Dynamips booting process. This can be accomplished 
+with programs such as gunzip for Linux or WinRAR for Windows.</p>
+<p>Next you need to build a Dynagen .net file to provision the Dynamips 
+emulator, or you can download prebuilt ones to emulate the Internetwork Expert 
+Routing &amp; Switching and Service Provider topologies from here:</p>
+<p>
+<a href="http://www.internetworkexpert.com/downloads/internetwork.expert.topologies.zip">
+<span class="red">Click here to download the Internetwork Expert Topologies for 
+Dynagen</span></a></p>
+<p>Note that these files may need minor modification to specify your working 
+directories and the names and locations of your Cisco IOS images. Also included 
+in the Internetwork Expert topologies for Dynagen is a router instance that is 
+designated as a Terminal Server (Access Server). This instance can be used like 
+a Cisco 2511 series router to reverse telnet to the console ports of the virtual 
+Dynamips router instances, similar to how the Terminal Server is used in the 
+CCIE Lab Exam.</p>
+<p>To use the Terminal Server instance first create a Loopback interface on your 
+PC with the IP address 169.254.0.1/16. For Windows clients see
+<a href="http://support.microsoft.com/kb/839013">
+http://support.microsoft.com/kb/839013</a> for instructions how to add a 
+Loopback interface in Windows. Once the Loopback is created reboot your PC and 
+then run the Dynamips shortcut Network Device List&quot; located on the desktop. 
+This output will show you the hardware address for the Loopback which will look 
+something like {4065B11C-2A6C-4FD2-8204-A12A9A8328A4}. Next edit the .net file 
+for the appropriate Internetwork Expert topology, and under the [[Router 
+TermServ]] entry edit the line E0/0 = NIO_gen_eth:\Device\NPF_{4065B11C-2A6C-4FD2-8204-A12A9A8328A4} 
+to insert the hardware address of your Loopback. If successful you should be 
+able to ping the IP address of the Terminal Server (169.254.0.2) from your local 
+PC when the Dynamips instance for it is booted.</p>
+<p>Next boot the Dynamips hypervisor. For Windows users this will be the Dynamips 
+Server&quot; shortcut on your desktop that was created by the Dynagen installer 
+package. Next run the appropriate .net file for Dynagen, and start&quot; your 
+devices from the Dynagen command line. Once booted the Dynamips router processes 
+can be telneted to with any terminal emulation software such as SecureCRT, PuTTY, 
+HyperTerminal, or command line telnet.</p>
+<p>Note that as the number of device you boot in Dynamips increases as do the 
+processor, memory, and disk space requirements of your desktop. Currently I am 
+able to boot all the devices in the Internetwork Expert Topology .net files in 
+Windows with an AMD 64 X2 Dual Core 4400+ processor with 2Gb of RAM and about 
+2Gb of disk space in the devices' working directory.</p>
+<p>As the project matures more functionality is sure to be added. For more 
+information on the project visit the following sites:</p>
+<p>Dynamips: <a href="http://www.ipflow.utc.fr/index.php/Cisco_7200_Simulator">
+http://www.ipflow.utc.fr/index.php/Cisco_7200_Simulator</a><br>
+Dynagen: <a href="http://dyna-gen.sourceforge.net/">
+http://dyna-gen.sourceforge.net/</a><br>
+Hacki's Forum: <a href="http://7200emu.hacki.at/">http://7200emu.hacki.at/</a></p>
+
+

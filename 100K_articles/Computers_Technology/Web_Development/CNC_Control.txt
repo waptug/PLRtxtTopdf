@@ -1,0 +1,46 @@
+Title: 
+CNC Control
+
+Word Count:
+338
+
+Summary:
+Since we are dealing with CNC machines that do work for us, we need to control those CNC machines somehow. We need to control them for safety reasons as well. If you give a machine improper commands it can easily get out of control and cause harm to you or the part you are machining. We want to give appropriate commands to our machines, at appropriate times so they are not "out of control".
+
+The language that these machines use is called G-code. G-code has been around since...
+
+
+Keywords:
+CNC, CNC Control, CNC Controllers, CNC Blog, CNC Controlling, CNC Control Software
+
+
+Article Body:
+Since we are dealing with CNC machines that do work for us, we need to control those CNC machines somehow. We need to control them for safety reasons as well. If you give a machine improper commands it can easily get out of control and cause harm to you or the part you are machining. We want to give appropriate commands to our machines, at appropriate times so they are not "out of control".
+
+The language that these machines use is called G-code. G-code has been around since the early 60's. There are a number of variations of G-code, but most are very similar to one another. See the previous section for a sample of G-Code.
+
+We will need to use a computer to talk with our CNC machine. Our computer will send signals to our CNC machine. In-between our computer and our CNC machine sits a controller. A controller converts commands into signals that are used to control the motion of our machine.
+
+As these signals are sent out of the CNC controller, they go to either stepper or servo motors. This is how we create motion. These motors drive our various axis on our CNC machine. While we are moving our axis, there is generally a cutting tool of some sort removing material. This is the machining process coupled with CNC.
+
+Here is a brief description of the two types of motors generally used in CNC:
+
+Stepper motors:
+
+Simple design
+Easy to use
+Generate torque at low rpm
+Do not know their position in relation to the program
+
+Servo Motors:
+
+Generate torque at high RPMs
+Generally need gearing of some sort to be effective
+More sophisticated
+Can maintain their relative position, thus, they can be more accurate
+
+CNC Machine Controllers
+
+Controllers generally stand alone near the CNC machine. They act as a translator between your control computer and your CNC machine. Generally, they add quite a bit of cost to a CNC machine as well. Controllers can cost anywhere from $1000-$20,000 or more depending on their sophistication.
+
+

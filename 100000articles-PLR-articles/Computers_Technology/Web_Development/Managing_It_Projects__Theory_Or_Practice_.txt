@@ -1,0 +1,38 @@
+Title: 
+Managing It Projects: Theory Or Practice?
+
+Word Count:
+483
+
+Summary:
+Information Technology, and the development of business computer systems, is relatively new, by which I mean less than 50 years old. I started in this business in the early 1960s and was involved in the replacement of punched card tabulator systems with punched card computer systems (such as IBM 1400s).
+
+As the technologies grew more sophisticated (eg disks, bigger memories and compilers) so the systems we developed became much more complex. As the IT industry grew, so did ...
+
+
+Keywords:
+project,project management,it project,project manager,my-skills,ebook,prince2
+
+
+Article Body:
+Information Technology, and the development of business computer systems, is relatively new, by which I mean less than 50 years old. I started in this business in the early 1960s and was involved in the replacement of punched card tabulator systems with punched card computer systems (such as IBM 1400s).
+
+As the technologies grew more sophisticated (eg disks, bigger memories and compilers) so the systems we developed became much more complex. As the IT industry grew, so did the numbers of programmers, analysts and operators working within it.
+
+These were mostly very bright people, skilled and inventive but with often little appreciation of the needs of business. The wheel would be reinvented countless times in many different ways and there were as many different ways of structuring computer programmes as there were programmers doing it!
+
+It was out of this that system development methodologies arose. These early methodologies were often developed by the major hardware manufacturers and management consultancies and were intended to be templates for development. Some were good, some were truly awful. Some were concise and some, like SSADM, were massively overblown and became the “tail wagging the dog”. Inevitably, the overblown ones became adopted by governments all over the world, adding massively to the cost and timescales of IT development in the 1980s without significantly improving overall quality.
+
+The advent of databases (relational, hierarchical, etc) added to the complexity and made ever larger development projects the order of the day. This was partly the trigger for the emergence of project management methodologies because IT project management was frequently assigned to systems analysts and programmers with massive technological skills but little in the way of organisational skills.
+
+The management consultancies quickly saw commercial opportunities and we saw a plethora of proprietary project management methodologies but it was the UK government’s CCTA which broke the mould and launched PROMPT – an almost workable methodology for IT project management. This was developed, firstly, into PRINCE and then into PRINCE2, which is good and has become widely adopted.
+
+It is not unreasonable to regard PRINCE2 as the benchmark for project management methodologies and it does, indeed, provide a route map. I use it routinely in most of my projects, but it begs the question:
+
+Does using a good methodology make me a good project manager?
+
+It certainly helps but project management is more than just the mechanics of the process. It is about interpersonal skills, stakeholder awareness, presentation to management and understanding your rules for winning. In other words, it is a blend of theory and skills.
+
+My eBook Project Skills looks at many of the issues involved and tries to meld theory with practical advice. You don’t have to work in the industry for 30 years, but it sometimes helps if you listen to someone who has. Experience, awareness and common sense will always help, regardless of the methodology you choose for your project.
+
+

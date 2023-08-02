@@ -1,0 +1,106 @@
+Title: 
+Cisco CCNP / BSCI Exam Tutorial:  EIGRP Route Summarization
+
+Word Count:
+512
+
+Summary:
+It’s not enough to know how to summarize routes to pass the BSCI exam,  you need to know the commands for each protocol!  Learn how to summarize routes in EIGRP with Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccnp, bsci, exam, pass, route, summarization, summarize, binary, conversion, eigrp, ospf, external, route, summary, address
+
+
+Article Body:
+Summarizing routes is a vital skill to learn to pass the BSCI exam and get one step closer to earning your CCNP.  The actual binary conversions are only part of the test, though!  You've got to know how to correctly apply the summary routes, and that differs from one protocol to the next.  In the last few CCNP / BSCI tutorials, we've looked at using the "area range" and "summary-address" commands to perform OSPF route summarization.  Today, we'll take a look at summarizing routes in EIGRP.
+
+We'll use the following four loopback addresses in this example:
+
+Loopback 16, 16.16.16.16 /32
+
+Loopback 17, 17.17.17.17 /32
+
+Loopback 18, 18.18.18.18 /32
+
+Loopback 19. 19.19.19.19 /32
+
+On R1, we'll place these four addresses into EIGRP AS 100.
+
+R1(config-if)#router eigrp 100
+
+R1(config-router)#network 16.16.16.16 0.0.0.0
+
+R1(config-router)#network 17.17.17.17 0.0.0.0
+
+R1(config-router)#network 18.18.18.18 0.0.0.0
+
+R1(config-router)#network 19.19.19.19 0.0.0.0
+
+R3 is an EIGRP neighbor of R1, and that router's EIGRP routing table now looks like this:
+
+R3#show ip route eigrp
+
+     17.0.0.0/32 is subnetted, 1 subnets
+
+D       17.17.17.17 [90/2297856] via 172.12.123.1, 00:00:29, Serial0
+
+     16.0.0.0/32 is subnetted, 1 subnets
+
+D       16.16.16.16 [90/2297856] via 172.12.123.1, 00:00:36, Serial0
+
+     19.0.0.0/32 is subnetted, 1 subnets
+
+D       19.19.19.19 [90/2297856] via 172.12.123.1, 00:00:08, Serial0
+
+     18.0.0.0/32 is subnetted, 1 subnets
+
+D       18.18.18.18 [90/2297856] via 172.12.123.1, 00:00:22, Serial0
+
+ 
+To perform manual route summarization, write out the network addresses in binary and then determine the point at which the addresses no longer have a bit in common.  For these four addresses, it will be enough to write out the first octet in binary:
+
+16	00010000
+
+17	00010001
+
+18	00010010
+
+19	00010011
+
+
+Working from left to right, the common bits are the first six bits - 000100xx. In decimal, this value is 16.  The summary mask must be determined as well, and that value is derived from putting a "1" in the mask for each common bit.  With the first six bits all set to one - 11111100 - the resulting mask is 252.0.0.0.  The full summary address is 16.0.0.0 252.0.0.0.
+
+In EIGRP, the summary address is actually configured on an interface, not under the routing process.  
+
+R1(config)#interface serial0
+
+R1(config-if)#ip summary-address eigrp 100 16.0.0.0 252.0.0.0
+
+
+02:39:50: %DUAL-5-NBRCHANGE: IP-EIGRP 100: Neighbor 
+172.12.123.3 (Serial0) is down: summary configured
+
+02:39:50: %DUAL-5-NBRCHANGE: IP-EIGRP 100: Neighbor 
+172.12.123.2 (Serial0) is down: summary configured
+
+02:40:16: %DUAL-5-NBRCHANGE: IP-EIGRP 100: Neighbor 
+172.12.123.2 (Serial0) is up : new adjacency
+
+
+02:40:17: %DUAL-5-NBRCHANGE: IP-EIGRP 100: Neighbor 
+172.12.123.3 (Serial0) is up: new adjacency
+
+There's an immediate side effect here that most books leave out.  Your EIGRP adjacencies are going to come down after you configure this summary, but they should come back up quickly.  The key word there is "should".  If you configure EIGRP summary addresses on a production network, you may want to do this during non-peak hours.  The timestamps on the above commands indicate that the adjacencies were down for about 27 seconds over the NBMA network.  That's about 30 minutes in end-user time.  ;)
+
+Check R3's EIGRP routing table.
+
+R3#show ip route eigrp
+
+D    16.0.0.0/6 [90/2297856] via 172.12.123.1, 00:01:46, Serial0
+
+The four summarized routes are no longer in the routing table, and they have been replaced by the summary route shown at the bottom of the routing table.  Notice the mask is /5, which is prefix notation for 248.0.0.0.
+
+Knowing how and why to summarize routes is a valuable skill, regardless of the protocol in use.  But before you take the BSCI exam on your way to the CCNP, make sure you know how to perform summarization with all of the core protocols!
+
+

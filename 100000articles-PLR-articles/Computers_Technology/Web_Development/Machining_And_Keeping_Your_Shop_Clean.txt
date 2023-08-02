@@ -1,0 +1,87 @@
+Title: 
+Machining And Keeping Your Shop Clean
+
+Word Count:
+1166
+
+Summary:
+Keeping your shop clean
+
+My first inclination is to say that it can’t be done in your home shop. My experience in my home shop has been that machining creates dirt. I use the term dirt very loosely. Dirt in many forms like plasma dust, machining chips, and cutting fluid spray. All of these forms of dirt are very invasive and get into everything. You constantly have to be cleaning just to keep up.
+
+In my home shop experience, I treat every one of my machines differently. M...
+
+
+Keywords:
+CAD, Computer Aided Design, Computer Aided Drafting
+
+
+Article Body:
+Keeping your shop clean
+
+My first inclination is to say that it can’t be done in your home shop. My experience in my home shop has been that machining creates dirt. I use the term dirt very loosely. Dirt in many forms like plasma dust, machining chips, and cutting fluid spray. All of these forms of dirt are very invasive and get into everything. You constantly have to be cleaning just to keep up.
+
+In my home shop experience, I treat every one of my machines differently. My CNC plasma cutter is the dirtiest by far. I built a special room for it to try to contain the plasma dust it creates. My milling machine is in my main working area. I usually just have to clean around it from time to time. My CNC Wood Router is located in my woodworking shop. It creates a lot of wood chips and wood dust, which all my other woodworking machines do as well.
+
+Factories invest in thousands of dollars in extra machines to keep things clean. These machines purpose is to reduce the amount of dirt in the shop. Some of these machines clean the air and some of these machines take care of the physical chips leftover from machining.
+
+Here are some examples:
+
+Automated Chip Augers - Chip augers are generally in the belly of machines. As chips fall down the augers move them over to a collection area. These chips can then be shipped out and recycled.
+
+Downdraft tables – Downdraft tables are usually associated with plasma or laser cutters. As the machine is cutting, air is drawn downward from below it. This air is then moved through filters, which clean the air and place it back in the shop. They put the air back in to the shop so the building doesn't have to be continually heated in colder areas of the country.
+
+Updraft Table – An updraft table works the exact opposite. It pulls the air upward, then through a system of filters.
+
+Water Tables - Water tables are used mainly with plasma cutting operations. There is water directly under the piece of metal being cut. The dust and debris of the plasma cutting process is captured by the water table. Over time, the table fills with this debris and must be cleaned out.
+
+Janitorial Services - Some factories maintain a janitorial service that cleans the facility every night. This is usually dependent on the cost in the area the factory is located.
+
+My CNC Story
+
+One day I knew I had a problem. I just spent 4 hours with my plasma cutter in my right hand. I had been cutting out patterns I had traced onto a sheet of metal. These shapes were going to be my new coffee table. Everyone complained to me that I didn’t have a coffee table. I thought, “I’ll show them” and began to build one.
+
+Why make a coffee table out of metal you ask? The quick answer is that I wasn’t much of a woodworker at the time. On the other hand, I used to weld professionally and knew I could make anything out of metal. That is how it all began, making a coffee table out of metal.
+
+Now if you knew me, you know that I can’t just make something normal. My brain is the scheming type that has to do things differently then the norm. I wanted to make a table that would knock people’s socks off. I thought a funky looking table, made out of metal, with casters and lights would do the trick. You know what? It did.
+
+I really had a ball making this table. I mean I had serious fun. So much so that I started to design others. I began showing photos of my work to everyone I knew. On top of that, I was getting good feedback. I had just found a new hobby, furniture making. Who would have ever thought I would pick up furniture making as a hobby.
+
+While making this first table a problem arose. It is the one I mentioned above with my right hand. After plasma cutting all those parts my wrist really began to hurt. While welding professionally there was always the threat of Carpal Tunnel Syndrome. Welders are constantly afflicted by this injury and others because of Repetitive Motion.
+
+If you repeat something over and over and over and over, your body gives out at some point. After cutting up these table parts, I knew I couldn’t go on doing this for a hobby. I knew something would have to change or the new hobby would break my body.
+
+That is when I began investigating Hobby CNC. I call it “Hobby” CNC, because that is how I found it. There were small groups of enthusiasts on the Internet that were building these machines for the fun of it. I thought this was the ticket.
+
+My Initial Thoughts on CNC…
+
+I thought, “If I could build a CNC Plasma Cutting Table?”
+I could hook my plasma cutter to it
+Create a program of the part I wanted
+Cut out multiple parts to my hearts content
+Save a lot of time
+And Finally…
+
+Save my wrist from the dreaded Carpel Tunnel Syndrome.
+
+I really wasn’t scared of the technology to start with. I grew up in fabrication shops across the Midwest and had seen these machines in action. These machine “Operators” were always held in high esteem at the shop. They always made more Money and always had as much Overtime as they wanted. I decided if they could do it, I could do it.
+
+CNC hobby projects were not cheap at the time. I figured I would have to invest $4,000 - $5,000 to build my table (they have come down considerably). Keep in mind this was in 2000-2001. For some reason that didn’t scare me off. I always liked a good challenge and this was it. With blind faith, I ordered up a CNC Controller and went down to my local steel yard to fill the back of my truck with steel.
+
+Little Did I know…
+
+There was a steep learning curve with CNC. Building a frame for the machine is only a small part of the project. Today it is much easier. The software, components and suppliers are better. There is an entire cottage industry that has sprung up around CNC to support it. Some of the best people in the world make their livings servicing CNC Hobbyist needs.
+
+For some reason I figured if I just build this machine it would spit out parts whenever I wanted it to. Simple, Simple, Simple ran through my head. Over time, I started to get it. I didn’t have a teacher, but I started to learn the ins and out of what I was doing.
+
+Other things I had to learn along the way:
+
+CAD Software
+Designing Parts
+CAM Software
+Preparing parts for machining
+Simulating Machining
+Machining Basics
+Cleaning parts
+
+

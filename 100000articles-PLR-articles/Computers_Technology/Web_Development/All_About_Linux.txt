@@ -1,0 +1,42 @@
+Title: 
+All About Linux
+
+Word Count:
+605
+
+Summary:
+What is Linux?
+
+Linux is an operating system created by Linus Torvalds during his days as a student at the University of Helsinki.  Linux was created and meant to be used as an option or substitute to the other operating systems being used by computer users, like MS-DOS, Windows, Mac OSX, etc.  Linux is not a program or a set of programs like a word processor of an office suite.
+
+A Brief History
+
+While studying at the University of Helsinki, Linus used a version of the ...
+
+
+Keywords:
+Linux, Linux software, Linux operating system, red hat Linux, Linux os, Linux operating system, fedo
+
+
+Article Body:
+What is Linux?
+
+Linux is an operating system created by Linus Torvalds during his days as a student at the University of Helsinki.  Linux was created and meant to be used as an option or substitute to the other operating systems being used by computer users, like MS-DOS, Windows, Mac OSX, etc.  Linux is not a program or a set of programs like a word processor of an office suite.
+
+A Brief History
+
+While studying at the University of Helsinki, Linus used a version of the UNIX operating system called 'Minix'.  Several requests for modifications and improvements for the operating system were being sent by Linus and other users to Andrew Tanenbaum, Minix’s creator, but he felt that they weren't necessary.  Therefore, Linus decided to create his own operating system; one that would take into account the users' comments and suggestions for improvements.
+
+A “kernel” is the focal point of any operating system.  Without going into great detail, the kernel tells the CPU to do what you want the program or application that you're using to do.  An operating system would not exist without a kernel.  However, a kernel is also useless without any programs or applications.
+
+In 1991, two critical situations evolved that would serve as the starting point for Linux.  A kernel was already created by Linus, but he had no programs to use; some programs were available from GNU and Richard Stallman, but they had no working kernel.  So Linux was born by combining the programs from Richard and GNU in Cambridge, Massachusetts, with the kernel provided by Linus in Helsinki, Finland.  It was a lot of ground to cover and far to travel, so the Internet became the primary method of getting Linus’ kernel together with the GNU programs.  It can almost be said that Linux is an operating system that came to life on the Internet.
+
+Not For Everybody at First
+
+Other software companies will sell you software contained in a CD or a set of floppies, together with a brief instruction booklet, and in half an hour or probably even less, you could install a fully functional operating system on your computer.  You only needed to know how to read and follow instructions in order to install it.  This was what those companies had in mind when they developed their operating systems.  However, when Linux was developed by Linus, this factor wasn’t initially considered.  Later on, Red Hat and other likeminded companies made it their purpose to develop Linux to the point where it could be easily installed just like any other operating system in the market, by anyone who can follow simple instructions, and today we can definitely say that they have succeeded in this particular purpose.
+
+Linux Today
+
+Nowadays, there is a great deal of favorable reactions from computer users regarding Linux.  The fact that Linux has proven to be impressively stable and versatile, especially as a network server, surely has played a big part in this popularity.  Down-time is minor or insignificant when Linux is installed and used as a web server or in corporate networks.  Many cases have been reported wherein Linux-powered servers have been functioning smoothly for even more than a year without needing to re-boot, and when it had to be taken down, it was only for a brief period for maintenance purposes.  Its cost effectiveness has become to be one of its strongest selling points.  Linux can be installed and run on either a home PC or a network server, without having to spend as much as it would be for other software packages.  More reliability and less cost - it's ideal.
+
+

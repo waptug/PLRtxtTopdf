@@ -1,0 +1,40 @@
+Title: 
+Managaed Hosting: Do We Really Need It?
+
+Word Count:
+612
+
+Summary:
+Managed hosting may best be described as the premium version of Web hosting. Managed hosting takes a lot of the guesswork and administration out of the hands of the client and on to the hands of the managed hosting provider. Managed hosting is much more a customized solution than other pre-packaged basic Web hosting solutions. The price, of course, reflects that.
+
+With managed hosting firms you’ll generally get dedicated servers that are custom built to your firm’s specific...
+
+
+Keywords:
+hosting,web,websites,internet,online,business,ecommerce,domain,servers
+
+
+Article Body:
+Managed hosting may best be described as the premium version of Web hosting. Managed hosting takes a lot of the guesswork and administration out of the hands of the client and on to the hands of the managed hosting provider. Managed hosting is much more a customized solution than other pre-packaged basic Web hosting solutions. The price, of course, reflects that.
+
+With managed hosting firms you’ll generally get dedicated servers that are custom built to your firm’s specifications, or configurations with multiple servers. You’ll get top notch 24 hour seven day a week Level three Internet hosting support and a datacenter that has state of the art technology and services.
+
+Managed hosting should offer close to 100 percent uptime guarantee of its network services, and 24 hour security for its datacenter. Included in the standard managed hosting services are managed disaster recovery and backup, security and network services, database services, and administration and monitoring of all your firm’s computer systems.
+
+If a firm has a large volume of online traffic, it may need the load balancing solution that is offered by most managed hosting vendors. This load balancing will improve the performance of the network by efficiently distributing the site traffic. This keeps each server from being overwhelmed by unexpected activity fluctuations. Having this balance on the server load is crucial to a high degree of availability, to fault tolerance and to clustering. All of these provide reliable Internet and corporate network infrastructures.
+
+Firewalls are part of managed hosting, and a crucial security requirement. They prevent unauthorized access to the server as well as from it. Managed hosting vendors can place firewalls in both software and hardware or both. All messages that leave or enter the server or the business network would have to pass through this managed hosting firewall, and those that don’t pass security would be blocked.
+
+Regular managed hosting backup is a must have to prevent catastrophic business consequences to national or other disaster or outage. Managed hosting vendors offer such backup are able to provide reliable and consistent data protection, as well as recovery. Managed hosting firms can also help businesses change their network and systems, upgrading, adding options and extending solutions.
+
+The best managed hosting vendor will include port monitoring as part of its hosting package. This port monitoring services lets business clients configure the host system so that they monitor the client’s server as well as its ports. This configuration and its maintenance are client responsibilities, and the alerts would be sent directly to the client firm.
+
+Should a firm wish to enhance this port monitoring service, the managed hosting package upgrade would provide a greater level of such monitoring. If technicians at the managed hosting firm’s site were to see a system failure they would restart the failed portion of the equipment. The vendor’s staff maintains and configures the port monitoring as part of this enhanced package.
+
+The managed hosting administrator for the host server lets the administrator setup the servers, and manage and control them. Administrators can create their domains, set up e-mail accounts, create file transfer protocol (FTP) accounts, select interface languages, limit the site traffic, create directories chosen for protection, manage SSL certificates, view the statistics for graphics, and manage multiples of both users and databases.
+
+Managed hosting Web site statistics are typically very detailed, configured easily and delivered in HTML format so that they can be viewed with any standard Internet browser. Site statistics are generally flexible and quickly available with a good managed hosting vendor.
+
+Domain licenses are inexpensive managed hosting add-ons, which start at 30 domain licenses, and have no ceiling on the number available.
+
+

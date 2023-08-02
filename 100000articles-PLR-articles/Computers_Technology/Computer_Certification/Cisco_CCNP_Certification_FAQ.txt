@@ -1,0 +1,40 @@
+Title: 
+Cisco CCNP Certification FAQ
+
+Word Count:
+295
+
+Summary:
+Chris Bryant, CCIE #12933, answers questions commonly asked by CCNP candidates regarding certification and recertification requirements.
+
+
+Keywords:
+Ccnp,bsci,pass,free,exam,bcran,cit,router,switch,faq,certify,recertify,certification,recertification
+
+
+Article Body:
+To earn your CCNP, you've got to pass some very rigorous Cisco exams, and you also need to know the rules regarding this important certification.  In this article, I'll answer some of the most commonly asked questions regarding the CCNP.
+
+Q:  What exams do I need to pass to get my CCNP?
+
+A:  You have two options, a three-exam path and a four-exam path.  Currently, the four-exam path consists of rigorous exams on advanced routing techniques (BSCI), advanced switching (BCMSN), remote access methods (BCRAN), and advanced troubleshooting techniques (CIT).  The three-exam path combines the BCMSN and BSCI exams into a single exam, the Composite exam.
+
+Q:  Do I have to take them in any order?
+
+A:  No, the order is up to the candidate.  Most CCNP candidates take the BSCI exam first and the CIT exam last, but again this is up to the candidate.
+
+Q:  What else do I have to do to get the CCNP?
+
+A:  You must earn your CCNA before you can be CCNP certified (as well as passing the exams, of course).
+
+Q:  Is there a recertification requirement?
+
+A:  Cisco CCNP certifications are valid for three years.  During that time, you must either pass the Composite exam, the BSCI and BCMSN exams, or pass any CCIE written exam.
+
+Q:  What if I don't recertify within the three-year period?
+
+A:  You must then meet whatever CCNP requirements there are at that time, from the beginning.  It's easier to make sure you recertify!
+
+Becoming CCNP certified is a great boost to your career and your confidence, and as with any Cisco certification, it's up to you to stay current with the CCNA and CCNP requirements.  Visit the Career Certification section of Cisco's website regularly to learn about the program's requirements and changes.
+
+

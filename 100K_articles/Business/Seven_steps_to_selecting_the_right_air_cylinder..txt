@@ -1,0 +1,94 @@
+Title: 
+Seven steps to selecting the right air cylinder.
+
+Word Count:
+1140
+
+Summary:
+What do you need to know to select the right air cylinder from the huge variety available in the industrial marketplace? Here is the answer.
+
+
+Keywords:
+Compressed air, air cylinders, air compressors, air circuits, air valves, air filters, compressors, air filters
+
+
+Article Body:
+What do you need to know to select the right air cylinder from the huge variety available in the industrial marketplace? Here is the answer.
+
+How much force do you need to move the object you wish to move?
+
+You'll need to know the weight of the object. Consider what the object being moved is sliding and know that this friction is adding to the load. 
+
+Oversize the required force of the cylinder by 25% to take into account friction of the rod and piston seals within the air cylinder itself, and also allowing a safety margin as it relates to the expected load the cylinder will see. 
+
+Know your available air pressure (example: 90 PSI) and multiply that times the surface area of the piston inside the cylinder to get the theoretical output force of the cylinder. 
+
+If you multiply 3.14 x the radius - in inches -squared this equals the surface area of the piston in square inches. 
+
+Since cylinders only come in certain bore sizes, default to the standard cylinder bore that's the next size up if none are exactly the bore diameter calculated. Note that the size of the outside of the cylinder on some types has no real bearing on what the piston diameter inside the cylinder is.
+
+How far do you wish to move the object?
+
+If you wish to move the object five inches, it's logical to think that the cylinder piston / rod travel needs to be five inches. It could be that simple. It might not be. Take into account the size of the object that's to be moved to be sure that the object itself doesn't impact on the cylinder rod cap on retract. 
+
+You may wish to consider a cylinder with a longer stroke than required so that the piston of the cylinder can be stopped inside the barrel by having the object itself stop the movement. This stops the piston from "bottoming out" on either cap of the cylinder itself. Depending on the cycle speed, this may increase cylinder life.
+
+Take into account how you are connecting your load to the cylinder rod. If using a clevis of some sort, take that dimension into account.
+Regardless of what is attached to the end of the rod, the rod itself can only move the distance that the piston inside the cylinder can move. That's all the stroke distance you have to work with.
+
+How will you attach your object to the cylinder rod?
+
+Careful, if you screw the object onto the rod thread directly. Make sure that the "load" and the rod are aligned. 
+
+A rod clevis is a "sloppy" connector that screws onto the end of the rod thread. Bolt the other half to your object, and the two halves are connected in the center via a cotter pin of sorts. 
+
+This "sloppy" type of connector forgives some misalignment between the rod travel and the object movement for if the object is too far off the axis of the rod, you will very quickly encounter problems with the air cylinder.
+
+There are alignment couplers commercially available that will further absorb misalignment between load and rod. For extreme misalignment cases, the load can be installed on rods external to the cylinder, removing almost all side-load from the rod itself.
+
+Note that there are standards in rod thread size which change depending on the bore size of the cylinder. 
+
+Further, the rods themselves can be modified to reduce the size of the thread, to change the type of thread, to make the rod end a female thread, or to replace the standard rod thread with a stud that can, if the stud breaks, be removed and replaced at minimal cost to parts and downtime.
+
+How will you attach the cylinder to your machine?
+
+Depending on the type and size of cylinder there are many options of unique and  standard mounts. 
+
+Most cylinders come with integral mounting of some sort, whether it's a rod-cap thread, a rear-cap thread, a rear tang for a clevis mount, threaded holes into which bolts can be turned, front or rear flanges, trunnion mounts...and so on. It depends on the type of cylinder.
+
+Remember, if the load that's being moved is not aligned with the rod travel, you will have problems. Therefore, the type and location of load will help determine the type of cylinder mount too. 
+
+What type of cylinder?
+
+Some choices are:
+
+·	repairable air cylinders or "throw-away" non-repairable types
+·	NFPA cylinders (north American standard) or ISO cylinders (European standard)
+·	aluminum, steel, stainless steel, composite construction
+·	steel rod, stainless steel rod, chromed rod 
+
+Usually, as the bore size of the cylinder gets larger the style opted for is a repairable type, as more money will be spent on acquiring the cylinder therefore the cost for repair becomes a smaller percentage of the overall cost. It's hard to get excited about trying to fix a $80.00 cylinder when the parts cost $30.00 and it will take a worker two hours to fix it. On the other hand, if the cylinder costs $500.00 - a different story. 
+
+As the bore size of the cylinder changes, so too will the rod diameter and rod threads, and the port sizes.
+
+NFPA cylinders are imperial dimensions and imperial threads, ISO cylinders are metric dimensions and threads.
+
+You need to consider the conditions into which the cylinder will be installed to determine if you need specialty materials in their construction. Also, specialty seals may be required in corrosive, low or high heat environments.
+
+
+Cushions?
+
+As referred to earlier, if you can avoid stopping the cylinder by having the piston "bottom out" inside the barrel, good. This will increase cylinder life. If this isn't practical, your cylinder caps can usually have cushion vents installed which, when adjusted, trap and slow the exhaust of a small amount of air from inside the cylinder as the piston reaches end of stroke. This provides a cushion to lessen the impact of the piston to the end cap. 
+
+
+Where is it?
+
+If the application requires knowledge of load position, proximity sensing devices can usually be added to the barrel of the cylinder. They will "make" when a magnet on the piston inside the cylinder passes them. Since the distance from the magnet to end-of-rod is known, this will locate the load.
+
+There are a variety of position sensing options for cylinders including reed switches, hall effect switches, linear potentiometers,  or you can elect to sense the position of the load itself by using a barrel proximity switch mounted so that the switch "makes" as the load itself arrives.
+
+If you need position sensing, make sure the cylinder you choose has that capability both in terms of magnets on the piston, and external mounts for the switch itself.
+
+And there you have it - six steps to finding the right cylinder. Good luck in your hunt.
+
+

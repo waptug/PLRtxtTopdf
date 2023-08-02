@@ -1,0 +1,26 @@
+Title: 
+Find Whatever You Want - Use A Search Word
+
+Word Count:
+535
+
+Summary:
+Search word is the word used to find a related site when entered into the search engine. When the user enters a word or a string of words the search engine uses those words to find a site where the words are appeared. Generally each word is considered separately in the string of words. The words which come twice in the entered string are counted two times. Hence, a site or an article on the web page is searched by the search engine where the entered words have appeared. 
+
+T...
+
+
+Keywords:
+search word,searching word,word search
+
+
+Article Body:
+Search word is the word used to find a related site when entered into the search engine. When the user enters a word or a string of words the search engine uses those words to find a site where the words are appeared. Generally each word is considered separately in the string of words. The words which come twice in the entered string are counted two times. Hence, a site or an article on the web page is searched by the search engine where the entered words have appeared. 
+
+The information on the basis of words is extracted from the web browser. The web browser presents the information about the latest URLs on the request. This information is called as the referrer. The list of sites and web pages appearing on the search engine after the request is due to this referrer. The search engine has the section of search word. The user needs to feed the representative words so as to search for the article or information. The search engine searches in the database for full text lying in the server. The search engine cannot search for the websites or links to the web pages which are not present on the server. Also the web page that is linked to some other web page can only be found out by the search engine.
+
+There are three types of search word. The first type is Boolean search. In this the search engine searches for the exact words that are entered. To shorten the searched results one can add some articles such as AND, OR and NOT. When AND is put in between two words, the search engine will search for both the words during the search. When OR is put along with the search words, one of eth two search words will appear in the search results. When NOT is put in front of some search word, that means the search word should appear in the search results. Another type of search word is concept search. In this when the user enters a search word, the search engine searches for the words as well as the related concept. For example if the user puts the search word as 'law', then the web pages containing the word 'law' will appear in the result. Along with this, related terms such as 'legal' and 'lawyer' will also appear in the result.  The third type is pattern. In this type the when the search word is entered; the search engine looks for the term entered as well as the words with similar spelling. Sometime the words with similar spellings have different meanings. In that case the pattern type of search word is useful.
+
+There are some additional techniques for better results when the search word is entered. If the search word is put along with an asterisk, the search engine will look for the results along with the plural of that word. So if the user wants to know the plural of a particular word, he can go for this technique. To limit the search one can enter the search word accompanied by date, place or any other particular thing. A Boolean search surely helps to limit the search.
+
+

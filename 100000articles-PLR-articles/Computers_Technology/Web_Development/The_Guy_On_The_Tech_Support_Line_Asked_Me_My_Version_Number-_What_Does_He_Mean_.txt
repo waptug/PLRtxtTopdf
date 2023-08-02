@@ -1,0 +1,34 @@
+Title: 
+The Guy On The Tech Support Line Asked Me My Version Number- What Does He Mean?
+
+Word Count:
+634
+
+Summary:
+What version software are you using the nice fellow on the tech support line asks. Have you ever been asked this question and where absolutely clueless what the person on the other side of the world, in India, was talking about. Speak English you think you yourself. What does all of this mean and what does it matter. I just want my new powerful Microsoft Vista computer to work.
+
+You are not imaging your quandary. Amazingly enough there is not one simple answer to this quest...
+
+
+Keywords:
+computer,software,technology,version.vesions,vintage,computing,training,techsupport, tech,support
+
+
+Article Body:
+What version software are you using the nice fellow on the tech support line asks. Have you ever been asked this question and where absolutely clueless what the person on the other side of the world, in India, was talking about. Speak English you think you yourself. What does all of this mean and what does it matter. I just want my new powerful Microsoft Vista computer to work.
+
+You are not imaging your quandary. Amazingly enough there is not one simple answer to this question or even a consistent naming system to the whole process. Software is inconsistent when it comes to vision numbers but there are general rules that software manufactures tend to follow.
+
+If there is absolutely no version number available what this means is the is probably the products first release. Common sense (often uncommon in the history of the computer hardware and software industry) the first time a computer software product is released it is not likely and indeed unlikely to have a version number beside it. Similarly computer games often lack version numbers at all and are known simply the title of the specific game.
+
+Next there are major version numbers, minor version numbers of software and patch level (or update) versions of computer software.  Generally the first digit in the naming of the software product (say for example software version 2.1.3), stands for the major version release of the software. This means that the software product has undergone a major revision from version 1.0. The program) will have new features and will have undergone a major rewrite of its computer code. Hopefully (for your hard earned money and time spent installing the “new” computer software) the program will have added functionality, features and increased speed.
+
+The second digit (the digit) 1 (as in version 2.1.3), stand for the minor version upgrade or update. The minor version update number designates an incremental update on the initial update. New features may have been added but the product has not undergone a major revision. An incremental update so to speak. For example a company may additional fonts to a word-processing program.
+
+Lastly the digit 3 in the above example is called a “patch level” or “update “version number. Companies generally release a product with a new patch number when customers have complained about bugs in a product or a major new operating system update (say the release of Microsoft XP Service Pack 2) or the release of the new long awaited advanced Microsoft Operating System Vista are released and cause nothing but problems with the preexisting software out in the field.
+
+Lastly to throw a bug in the ointment is “Beta” Versions of software. Most of the times the letter will be will a b which stands for a beta (or trial version). Companies do not always make their beta visions of computer software available to the wholesale general public. Often they will make a beta trial of the software available to a limited amount of customers and die hard computer guinea pigs. Beta versions are often available for download on the internet after an application for the product and the signing of legal non disclosure, non distribution documents. Software products, like pharmaceuticals can never really be tested and assessed until placed in large scale, real world use. However the standard computer industry joke has always been that in actuality most Microsoft products are in essence Beta versions waiting for their customers to field test and report back of any problems found in order that the software product can be patched and updated to solve bugs.
+
+Hopefully now you will in a better position of understanding to answer the question on that tech support 800 toll free number phone call to that question of “What version of software of product x are you using on your computer ?”
+
+

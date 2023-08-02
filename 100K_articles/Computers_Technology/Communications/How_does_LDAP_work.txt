@@ -1,0 +1,26 @@
+Title: 
+How does LDAP work
+
+Word Count:
+306
+
+Summary:
+Lightweight Directory Access Protocol or LDAP is a TCP/IP-based Internet protocol used by email programs and a few other applications to search and fetch information from a directory stored on a server. A directory is a data repository storing identical chunks of information in a hierarchical and logical sequence.
+
+
+Keywords:
+ldap
+
+
+Article Body:
+Lightweight Directory Access Protocol or LDAP is a TCP/IP-based Internet protocol used by email programs and a few other applications to search and fetch information from a directory stored on a server. A directory is a data repository storing identical chunks of information in a hierarchical and logical sequence.
+
+For instance, a telephone directory that has various subscriber names indexed alphabetically with associated telephone numbers and addresses is an example of a directory. This kind of a structure can easily be implemented using LDAP. However, this protocol is not limited to accessing just contact information about people. It can locate shared resources on a network like printers and scanners, and allow people to use the resources and other shared services using a single password.
+
+LDAP can be successfully implemented where identical forms of sequentially stored information need to be accessed quickly and where updates are done very rarely. Email clients frequently use LDAP to access directory information from a server. Since LDAP does not support encryption, processes like updating and modifying information on the server from the client needs to be done using a secure SSL connection.
+
+LDAP can also use DNS or Domain Name System to structure the top-level of its hierarchy. This enables the system to have a wide scope at the top end of the hierarchy, but at the same time funnel down to a single specific entity at the lower end of the hierarchy. For instance, the top level may represent countries, states or other large geographical boundaries, whereas the bottom end might point to a single document on a computer, a shared resource on a network or a particular individual’s information. This makes the protocol very versatile in dealing with a large variety of applications.
+
+The University of Michigan developed the LDAP protocol and its current version is LDAPv3.
+
+

@@ -1,0 +1,39 @@
+Title: 
+Fortis Integrated Command and Control - Covering every sensor and control point
+
+Word Count:
+408
+
+Summary:
+Fortis is a fully integrated Security Control System that supports decision making and wide-area command and control in real time.
+The System created a unified and interactive intelligent picture – drawing data from all sensors, showing the displacement of ground forces and adding other relevant information such as video from different sources, auxiliary services and weather conditions.
+
+
+Keywords:
+Security Control System
+
+
+Article Body:
+Fortis is a fully integrated Security Control System that supports decision making and wide-area command and control in real time.
+The System created a unified and interactive intelligent picture – drawing data from all sensors, showing the displacement of ground forces and adding other relevant information such as video from different sources, auxiliary services and weather conditions.
+This combined picture, constantly updated, is sent by Central Command to all forces in the command chain and serves as a uniform basis for operational planning and allocation of tasks.
+
+Fortis is charcterized by four key attributes:
+Connectivity
+Fortis integrates sensors of every type (electronic fences, video cameras, radars, VMDs) within one unified view and manages the bi-directional transfer of data between them. from a central workstation, the operator can rapidly display, control and direct individual sensors, significantly increasing their effectiveness.
+All field communications are undertaken via Wireless LAN. This gives command vehicles and foot patrols, operating within the coverage area, great freedom of movement as well as flexibility. Using Wireless LAN, this Security Control System transfers any type of message to the field- whether this is live video feed, data, GPS information or VoIP. 
+
+Versatility
+Fortis is designed for maximum effectiveness in a multi-level and multi-tasking environment. It delivers a wide range of security information - live video, 3D images, battle scenarios, annotated maps and sensor information. It contains powerful tools for field analysis, showing line-of-sight, vantage points and blind spot elements.
+Moreover, Fortis is effective at every operational level – in control rooms, command vehicles and on foot patrols.
+
+Modularity
+Fortis is a highly modular system that can be adapted to any security scenario. It allows a broad range of system parameters to be specified – such as types of sensors, types of cameras, Wireless LAN coverage area, or numbers of mobile control units in the field. This ensures that each Fortis system can be uniquely arranged to best serve specific needs and deliver maximum results.
+
+Redundancy
+Fortis preserves high survivability and redundancy in any field condition, weather and operational set-up situation. This redundancy is achieved by using parallel and independent communication systems.
+
+Magal Security Systems, Ltd. Has been leading the security industry in development, manufacture and marketing of effective and advanced outdoor security systems. Our systems are installed in more than 75 worldwide countries, protecting oil & gas installations, airports, borders, maximum security prisons, nuclear facilities, military bases, communication centers, governmental facilities, and other sensitive sites.  
+For more information, see: http://www.magal-ssl.com/
+
+

@@ -1,0 +1,60 @@
+Title: 
+How to reconcile your VAT in 2 minutes
+
+Word Count:
+642
+
+Summary:
+The VAT tax return can be one of the easiest tasks to complete with Sage accounting software so why do so many businesses struggle with it
+
+
+Keywords:
+Sage, VAT, Return, Quarter
+
+
+Article Body:
+Copyright 2006 Warrington Web Works
+
+Reconciling your VAT is one of the easiest tasks using Sage Software and yet so many small businesses seem to struggle with the task.
+
+It's the end of the VAT quarter and panic sets in because they have to check lots of reports and they aren't entirely sure what they are doing.
+
+When introduced to a new client I have always asked the question "How long does it take to reconcile your VAT return?" The answer's I get back vary from a couple of hours to a couple of days!
+
+The answer I should be hearing is no more than a couple of minutes. When accounts staff are presented with this, and they usually go on the offensive, stating that it takes them ages to go through all the reports and check them. Twaddle!
+
+Their response tells me instantly that they don't fully understand the software they're using. And this doesn't just apply to Sage Software users either.
+
+Every time a transaction is entered into the Accounts it is automatically collected in the VAT Control Accounts, In the case of Sage Software, Vat on purchases is collected in nominal code 2201 and VAT on Sales is collected in nominal code 2200.
+
+So let’s take a step back to entering the data on a day to day basis.
+
+With Sales invoices it doesn't really matter if all of your sales are standard rated VAT because the program will add 17.5 % (UK) to the net anyway.
+
+If you have a mixed bag of sales, that is, you sell goods which are standard (17.5%) exempt, zero or reduced rated. Then your products vat code should be set to the rate applicable. If that is the case then there is little need to worry about the Sales VAT at the quarter end.
+
+VAT law states that your invoice must tell the recipient which vat rate you have charged them with
+
+Which brings us to the other side - When you receive a Purchase invoice or make a payment the document tells you whether you have been charged at standard rate, exempt rate, zero rate or the 5% reduced rate.
+
+So when you are entering the invoices in to sage you need to check the correct tax rate code and that the screen vat amount says the same as the invoice, if it doesn't then make the screen say the same. Watch out for those rounding penny differences. On the subject of which, you always round vat down. If we all did then we wouldn't have those penny differences (Mr Brown doesn't need all those extra pennies anyway, but don't quote me on that!)
+
+Now if you know on a day to day basis that every Sales invoice has the correct vat and every purchase invoice was checked as it was entered. Why spend hours and days at the VAT quarter end checking through those same figures?
+
+When all you need to do is as follows
+
+1. Have you entered all the transaction over the VAT quarter? 2. Have you reconciled your bank accounts to the last day of the VAT quarter?
+
+If yes Check that the balance in nominal codes 2200 Sales Vat is the same as box 1 on the vat return over the same date range.
+
+Check that the amount in 2201 purchase VAT is the same as box 4 on the vat return again over the same date range.
+
+Do they match? They should do!
+
+Time taken to check - less than a minute - though you now have to archive, print your reports in case vat person pays a visit and empty out the control accounts using a journal to start a fresh for the new quarter.
+
+Total time a couple of minutes
+
+VAT is not something that turns up at the end of three months, if you let the software manage it on a daily basis you can sleep easy.
+
+

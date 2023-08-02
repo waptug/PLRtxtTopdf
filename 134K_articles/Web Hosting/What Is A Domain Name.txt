@@ -1,0 +1,16 @@
+What Is A Domain Name?
+
+
+A domain is a name that identifies IP addresses on the internet. The domain name Yahoo.com represents about fifteen (15)  IP addresses. Domain names are used to identify Web pages. For example, in the URL http://www.gohome.com/index.html, the domain name is gohome.com. 
+
+You register a domain name by registering with a domain name services registrar. The domain name industry is regulated and overseen by ICANN, which is an organization responsible for providing standards and procedures for certifying companies as domain name registrars. 
+
+Domain name registration has grown over the years. Network Solutions was the first domain name registrar to ever provide such a service. That was over ten years ago but today there are many accredited registrars. Only a domain name registrar is permitted to access and modify the master database domains that are on InterNIC servers. The fee is determined by the registrar as far as getting a domain name and some registers have special domain name packages.
+
+Do You Really Need a Domain Name?
+
+You use a domain name to create an identity on the World Wide Web and domain names can also be used for branding purposes, such as Wal-Mart, K-Mart, etc.  In picking a domain name, the title shouldn’t stray far from what your company is all about. This will allow you to market your web-site as a subsidiary of your business and put your domain name on business cards and advertisements.
+
+Once you select a domain name, you must register it with a domain name registrar. This is a task you can do easily.  Many ISPs offer a complete package that includes hosting and the registering of the domain name for you. Fees probably will include a one time set-up fee for all of the backend technical work that needs to be accomplished. Then pay your service provider a monthly, semi-annual or annual fee for Web site hosting services. 
+
+Many domain registrar services have competent online tools to help you get your domain name and hosting site up and running.

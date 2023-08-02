@@ -1,0 +1,93 @@
+Title: 
+Cisco CCNA / CCNP Home Lab Tutorial:  Configuring An Access Server
+
+Word Count:
+566
+
+Summary:
+An access server is a great addition to your Cisco home lab, but configuring one can be a little confusing. Learn how to configure and troubleshoot your access server with Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccna, ccnp, home, lab, access, server, free, pass, exam, octal, cable, bsci, bcmsn, Bryant, advantage, 12933, chris, router, switch, 2509, 2511
+
+
+Article Body:
+As your CCNA / CCNP home lab expands, an access server such as the Cisco 2509 or 2511 is one of the best investments you can make.  In this article, we'll look at the basic configuration for an access server and discuss how to connect to the other routers and switches in your pod through the AS.
+
+Here's part of a configuration from one of my access servers:
+
+ip host FRS 2006 100.1.1.1
+
+ip host SW2 2005 100.1.1.1
+
+ip host SW1 2004 100.1.1.1
+
+ip host R2 2002 100.1.1.1
+
+ip host R1 2001 100.1.1.1
+
+ip host R3 2003 100.1.1.1
+
+
+interface Loopback0
+
+ ip address 100.1.1.1 255.255.255.255
+
+ no ip directed-broadcast
+
+This is an IP Host table, and this is what makes the entire AS setup work.  Your PC will connect to the access server, and the access server is in turn physically connected to your other routers and switches via an octal cable.  One end of the octal cable splices off into eight separate cables, each terminated with an Rj-45 connector.  That connector will be placed into the console port of one of your home lab devices.  In this configuration, I have connector 1 connected to the console port of R1, connector 2 to R2, connector 3 to R3, connector 4 to Sw1, and so forth.  (The connectors are physically numbered as well.)
+
+The IP Host table entries here are linked to the loopback address shown.  The loopback can be any address, but it must match the address in the IP Host table.  This allows you to create reverse telnet sessions to the routers and switches.
+
+To open the reverse telnet sessions upon opening a connection to the AS, type the entire name of the device and press the enter key twice.  A connection to that device will now be visible, as shown here:
+
+Access_Server#r1
+
+Trying R1 (100.1.1.1, 2001)... Open
+
+R1#
+
+To get back to the access server, use the key combination <CTRL-SHIFT-6> followed by pressing the "x" key.  Keep doing this until you've opened a connection to every router and switch in your pod.
+
+Once you've opened the lines, you will not use the full device name to connect to the home lab devices.  You should press only the number corresponding to the reverse telnet session you opened.  For instance, in this configuration I opened telnet session 1 to R1, session 2 to R2, and session 3 to R3.  Once I opened those sessions, I just use those numbers to reconnect to the devices, as shown here:
+
+Access_server#1
+
+[Resuming connection 1 to r1 ... ]
+
+R1#
+
+Access_server#2
+
+[Resuming connection 2 to r2 ... ]
+
+R2#
+
+Access_server#3
+
+[Resuming connection 3 to r3 ... ]
+
+R3#
+
+If you type the full hostname again after initially opening the connection, you will see this message:
+
+Access_server#r1
+
+Trying R1 (100.1.1.1, 2001)...
+
+% Connection refused by remote host
+
+The connection is refused because you already have an open connection to that router.
+
+There's one more important part of an access server config your CCNA / CCNP home lab will need:
+
+line 1 8
+
+ no exec
+
+ transport input all
+
+The line numbers may differ according to your access server, but "no exec" is very important here.  This will stop rogue EXEC sessions from refusing connections that it shouldn't be refusing. Without this command, you'll commonly see "connection refused by remote host" when you shouldn't be.  That message is the most common error you'll see on an access server, and it's there because you already have an open connection or you left "no exec" out of your configuration. "No exec" isn't mandatory, but it will help you keep your sanity!
+
+

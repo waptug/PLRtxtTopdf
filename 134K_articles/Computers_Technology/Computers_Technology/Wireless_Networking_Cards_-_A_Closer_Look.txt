@@ -1,0 +1,59 @@
+Title: 
+Wireless Networking Cards - A Closer Look
+
+Word Count:
+1018
+
+Summary:
+Ok, so you've read all the cool stuff and heard all the great things about going wireless and then it just hit you. However, that works you don't know or care but it hit you. That was it, the little voice in your head said, "do it" and that was that. Unfortunately, that was awhile ago and since that "moment" you've done your part. You did some research into what was needed to upgrade your computer but it's all just so darn confusing. You keep thinking, why can't someone just ...
+
+
+Keywords:
+
+
+
+Article Body:
+Ok, so you've read all the cool stuff and heard all the great things about going wireless and then it just hit you. However, that works you don't know or care but it hit you. That was it, the little voice in your head said, "do it" and that was that. Unfortunately, that was awhile ago and since that "moment" you've done your part. You did some research into what was needed to upgrade your computer but it's all just so darn confusing. You keep thinking, why can't someone just give me a few basics so I feel more comfortable about this whole "upgrading" process.
+
+If the above paragraph describes you and if you're the typical computer user it probably does, then it's time to exhale, calm your nerves, grab a latte and settle in because hopefully this article can shed a little understanding on at least one aspect of going wireless - the network card.
+
+Like most "typical" computers users, you love your computer and you've pretty good at surfing the net, using email and you've probably even gotten fairly proficient at using your favorite word processing program but when it comes to some of the more technical aspects of your computer or computing in general, you are probably about as close to a "deer in the headlights" as you can get.
+
+Hey, no problem because you've stumbled across a source that hopefully can shed a little light into that wireless networking card abyss. See, those searching skills do come in handy.
+
+Let me start out by saying that when it comes to selecting a wireless networking card you can pretty much ignore all the hoopla except for the following three key factors: range, speed, and standards. Ok, let's do it and take a look at a few specifics.
+
+Below is a typical specification for wireless networking card. This one just happens to be for a Linksys wireless PCMCIA laptop card. Frankly, I can't tell you if this card rocks or it stinks, I'm simply using it as an example. And with that, let's take a closer look.
+
+Here's the description from Amazon: 11 Mbps high-speed transfer rate; interoperable with IEEE 802.11b (DSSS) 2.4Ghz-compliant equipment; plug-and-play operation provides easy set up; long operating range (up to 120m indoor); advanced power management features conserve valuable notebook PC battery life; rugged metal design with integrated antenna; compatible with virtually all major operating systems; works with all standard Internet applications; automatic load balancing and scale back; model no. WPC11
+
+Like I mentioned above, most of the specs can be ignored. To start with, "compatible with virtually all major operating systems." That means nothing. It's simply fluff to expand the description to make the card appear better.
+
+Range
+Take a look at where it says "up to 120m indoor". This means that the maximum range of the wireless card is 120 meters -- sure if everything was perfect. And by the way, one meter is equal to about 39 inches or 3 feet. However, in the real world where nothing is ever perfect interference caused by thick walls, other power sources and the list goes on could reduce this number by as much as 90% - so just be aware of this.
+
+And without enough range, your wireless network is no longer wireless and therefore - worthless. It serves no purpose to go wireless if you have to keep your computer next to the wireless port in order for it to work or if you have multiple computers to keep them all in the same room to get them to connect to each other.
+
+As a rule of thumb, unless your walls are made of drywall or wood, it's best to buy about four times the strength you think you'll need. Even in perfect conditions, get twice what you think you'll need - just to be safe.
+
+Speed
+Take another look at the description and find where it says Mbps. Mbps is the speed of the wireless connection - 11 Mbps is about one and a half megabytes per second. All 802.11b wireless cards have a speed of 11Mbps, while 802.11g cards run at 54Mbps or nearly 5 times faster. And of course, the next generation will be even faster.
+
+Clearly, speed is important to your wireless network because it's going to directly influence how long you have to wait to connect, how fast pages upload, file transfer rates, and your overall computer experience is always better when things download faster. I don't know about you but if something takes more than a few seconds to download, I start to get impatient.
+
+However, because there are currently very few Internet connections running at speeds over 11Mbps - it's really as much as you need, at least for now.
+
+Standards
+You've probably noticed in the above specs the number 802.11 followed by a letter b. The b is the standard that the wireless device conforms too. Currently, there are 3 standards - a, b and g.
+
+In a nutshell, 802.11b and 802.11g are compatible with each other while 802.11a isn't compatible with either. Due to the incompatibility issues with the other two standards and because it's an older less robust standard I would stay away from cards using it.
+
+Between b and g, b is cheaper but slower, while g is more expensive but faster. It's also worth considering that adding a b-speed device to a network that has g-speed devices will often slow the whole network down to b-speed, making the g-devices pointless. Basically, the network will operate at the speed of its weakest link.
+
+If your wireless device doesn't conform to the right standards, it's not going to be much good to you. I often see uninformed people bidding for used wireless equipment on eBay, not realizing that it's going to be terribly slow and may not work with other equipment they might have. Always check what standard the wireless equipment is using and if you don't know the 802.11 letter, don't buy it!
+
+A great place to research and find answers to everything "wireless" is Zephyr Net. Simply click the Wifi Hotspot link in the resource box below.
+
+This article may be reproduced only in its entirety.
+
+

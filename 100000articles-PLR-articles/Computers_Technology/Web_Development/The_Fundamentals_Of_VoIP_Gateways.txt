@@ -1,0 +1,34 @@
+Title: 
+The Fundamentals Of VoIP Gateways
+
+Word Count:
+443
+
+Summary:
+Translating voice calls between digital for the Internet and analogue for telephone systems is a challenging task, and that is the task that VoIP gateways perform by switching the calls between analogue and digital. Directing calls to specific users is also a function performed by the gateways. And they are able to translate between different VoIP protocols. This protocol translation is important because it enables different VoIP systems to talk to each other. Because of all ...
+
+
+Keywords:
+voip,voip gateway
+
+
+Article Body:
+Translating voice calls between digital for the Internet and analogue for telephone systems is a challenging task, and that is the task that VoIP gateways perform by switching the calls between analogue and digital. Directing calls to specific users is also a function performed by the gateways. And they are able to translate between different VoIP protocols. This protocol translation is important because it enables different VoIP systems to talk to each other. Because of all of these benefits it is easy to see why VoIP gateways are highly recommended for any VoIP service.
+
+Since VoIP technology is becoming ever more popular, VoIP gateway customers have a lot of products available. Mediatrex Telecom and Cisco System are two examples of manufacturers that produce leading VoIP gateway systems.
+
+VoIP gateways can either be hardware or software based. The hardware gateways tend to cost more than software gateways and can be purchased as a stand alone box. They tend to be viewed as more reliable and do not consume computer power.
+
+Buyers of VoIP gateways can select from products that offer numerous phone, fax machine, PBX and STN support capabilities.
+
+The basic VoIP gateways at the lower end of the cost graph comes equipped with a firewall, a router, and a telephone jack, and can be purchased for a few hundred dollars. This type of device can offer three ports: one for a telephone jack, one for a broadband modem or router and one for a computer or network device. These low end VoIP gateways targets the home user and small business owner.
+
+At the mid range of gateways, additional functionality such as signal encryption and voice compression is offered to ensure security and efficient bandwidth usage.
+
+At the higher end of the market are VoIP gateways that cost several thousand dollars and are widely used by telephone carriers and large companies. These systems have sophisticated functionality such as interactive voice response systems for automated voice response functions, and they can carry thousands of simultaneous telephone conversations. They also offer other functions like conference calling and call recording.
+
+There are new features and functions for VoIP gateways being built all of the time, such as support for emerging VoIP standards and faster translations. Many of these improvements are software based and therefore can be sent to customers very quickly and cheaper in the form of a software upgrade.
+
+One can expect to see many more enhancements and improvements before VoIP and VoIP gateways can be considered a matured and saturated market. The end user benefits from these improvements because quality and range of services increase while overall call costs tend to be constantly driven downwards.
+
+

@@ -1,0 +1,17 @@
+Designing a Web Crawler Friendly Web Site
+
+The most successful online businesses all have one thing in common. They all knew how to make search engine optimization work for them.
+
+Search engine optimization is the art and science of making websites attractive to the internet's search engines. The first step in successfully achieving stellar search engine optimization is to lure search engine's web crawlers to your website. Web crawlers are computer programs that the search engines use gather data and index information from the websites. The information the web crawlers gather is used to determine the ranking of a webpage.
+
+One of the fastest ways to hamper a web crawler is to construct a website that has frames. Most search engines have crawlers that can't penetrate the frames, if they can't get into a webpage to read it then that webpage remains unindexed and unranked. Two search engines, Google and Inktome, have web crawlers that are capable of penetrating frames. Before submitting your website to a search engine do some research and find out if they have a crawler that is incapable of penetrating any frames. 
+
+If you have written frames into your URL it will probably be worth your effort to go back and rewrite your URL's. Once you have rewritten your URLs you might be surprised to find that the new addresses are easier on humans as well as web crawlers, the frameless URLs are easier to type in documents as links and references.
+
+Once you have rewritten your URL's it is time to start submitting your website to search engines. Some webmasters like to use an automated search engine submission service. If you decide to go with the submission service you should be aware that there will be a fee involved, the minimum fee is typically fifty-nine US dollars. This price should keep a few URLs on the search engines for a year. Other webmasters like to avoid big fees by submitting their website to individual search engine on their own.
+
+Once your webpage is submitted to a search engine you need to sit down and design a crawler page. A crawler page is a webpage that contains nothing else expect links to every single page of your website, Use the title of each page as the as the link text. This will also give you some extra keywords that will help improve the ranking the crawlers assign to your website. Think of the crawler page as a site map to the rest of your website. 
+
+Typically, the crawler page won't appear in the search results. This happens because the page doesn't have enough text for the crawlers to give that individual page a high ranking, after all its nothing more then a portal to the rest of your site and your human users won't need to use it. Don't panic if it crawlers don't instantly appear to index your website. There are a lot of websites available on the internet that need to be crawled, indexed, and then ranked. It can sometimes take up to three months for a web crawler to get to yours.
+  
+

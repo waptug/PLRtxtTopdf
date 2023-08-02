@@ -1,0 +1,46 @@
+Title: 
+Cisco CCNP / BCMSN Exam Tutorial:  Multicasting And Reserved Addresses
+
+Word Count:
+416
+
+Summary:
+You must master multicasting to become a CCNP.  Learn the basics of multicasting from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+cisco, ccnp, certification, bcmsn, multicasting, reserved, addresses, router, switch, igmp, pim, rp
+
+
+Article Body:
+Ever since you picked up your first CCNA book, you've heard about multicasting, gotten a fair idea of what it is, and you've memorized a couple of reserved multicasting addresses.  Now as you prepare to pass the BCMSN exam and become a CCNP, you've got to take that knowledge to the next level and gain a true understanding of multicasting. Those of you with an eye on the CCIE will truly have to become multicasting experts!
+
+Having said that, we're going to briefly review the basics of multicasting first, and then future tutorials will look at the different ways in which multicasting can be configured on Cisco routers and switches.  
+
+What Is Multicasting?
+
+A unicast is data that is sent from one host to another, while a broadcast is data sent from a host that is destined for "all" host addresses.  By "all", we can mean all hosts on a subnet, or truly all hosts on a network.  
+
+There's a quite a bit of a middle ground there!  A multicast is that middle ground, as a multicast is data that is sent to a logical group of hosts, called a multicast group. Hosts that are not part of the multicast group will not receive the data.
+
+Some other basic multicasting facts:
+
+There's no limit on how many multicast groups a single host can belong to. 
+
+The sender is usually unaware of what host devices belong to the multicast group. 
+
+Multicast traffic is unidirectional.  If the members of the multicast group need to respond, that reply will generally be a unicast.  
+
+The range of IP addresses reserved for multicasting is the Class D range, 224.0.0.0 - 239.255.255.255.
+
+That range contains a couple of other reserved address ranges.
+
+224.0.0.0 - 224.0.0.255 is reserved for network protocols only on a local network segment.  Packets in this range will not be forwarded by routers, so these packets cannot leave the segment.  
+
+Just as Class A, Class B, and Class C networks have private address ranges, so does Class D.  The Class D private address range is 239.0.0.0 - 239.255.255.255.  Like the other private ranges, these addresses can't be routed, so they can be reused from one network to another.
+
+The remaining addresses fall between 224.0.1.0 and 238.255.255.255.  That's the "normal" range of multicast addresses.  These addresses can be routed, so they must be unique and should not be duplicated from one network to the next.
+
+In my next BCMSN / CCNP multicasting tutorial, we'll take a look at the different ways in which Cisco routers and switches interact to forward multicast traffic.
+
+

@@ -1,0 +1,30 @@
+Title: 
+Standardize Your Process To Improve The Bottom Line
+
+Word Count:
+652
+
+Summary:
+Standardize your processes! You can save time, money and prevent errors. Things you do over and over should be done the same way every time, if indeed you do the task the best way. They say variety is the spice of life, but for healthcare processes it certainly isn’t most of the time. Consider this, if you would. Would you buy your favorite brand of soda if sometimes your 12 ounce can were 3/4 of the way full and sometimes almost overflowing. Certainly not. You expect there t...
+
+
+Keywords:
+lean healthcare, quality improvement, healthcare management, continuous quality improvement
+
+
+Article Body:
+Standardize your processes! You can save time, money and prevent errors. Things you do over and over should be done the same way every time, if indeed you do the task the best way. They say variety is the spice of life, but for healthcare processes it certainly isn’t most of the time. Consider this, if you would. Would you buy your favorite brand of soda if sometimes your 12 ounce can were 3/4 of the way full and sometimes almost overflowing. Certainly not. You expect there to consistently be nearly 12 ounces every time. How would a patient behave if the results of a healthcare visit varied wildly? The patient would probably find a new provider. The best healthcare providers deliver a consistently good service; it helps attract new patients and keeps the old ones coming back. 
+
+Standardization helps save time. As things become routine, a process is easier to do and is done more quickly. For instance, if a primary care physician makes sure that the necessary items for a patient visit are always in the examining room, the doctor won’t have to waste time going to look for supplies and waste time for the patient or the doctor. I recommend that primary care physicians along with staff sit down and list the things that should always be in examination rooms and make sure someone is responsible for these items every morning before patients arrive. If this is done, the doctor can save time, thereby enabling him or her to spend more quality time with the patient or see more patients. 
+
+Standardization saves money. Most doctors face rising malpractice costs, but for one group this has not been true—anesthesiologists. According to an article in the June 21, 2005 edition of the Wall Street Journal, this group over two decades ago began implementing procedures that ensured the safety of their patients. Certain processes have been standardized across the profession so instead of one death per 5000 cases, there is now only one per 200000 to 300000 cases. Because of this, their malpractice insurance premiums plummeted. 
+
+Standardization prevents errors, as in the above illustration. Another example is drawn form a local hospital. Recently the Chief Financial Officer of the institution and I were discussing the new facility they were building. Instead of building adjacent rooms so that the bathrooms would be back to back to save plumbing costs, each room was designed so that each room will be exactly the same with bathrooms all on the same side. Why? This will prevent errors and in the long run save money for the hospital. 
+
+It is best if you can measure standardization. The best tool to measure standardization in statistics is variance or standard deviation. I am sure many of you have encountered this measure, but probably cannot calculate it. The best way to calculate it is either in a spreadsheet or on a calculator. For example, the standard deviation for the numbers 8, 12, 1, 4 and 5 is 4.18. For the group 5, 5, 5, 5, and 5 the standard deviation is 0, since there is no variety. So, when you are trying to standardize a process, see if you cannot find some significant measure that reflects the process and try to reduce the standard deviation as much as possible. In fact, this is the heart of Six Sigma—reduce the standard deviation as much as possible. The best manufacturers and service providers often use this tool. 
+
+Once you have standardized a process and have achieved a satisfactory standard deviation, then write down the process in a manual that is a collection of all best practices. This way, anyone who needs to reference how a process should be conducted can refer to the manual. Too, it is an excellent training source for new employees. 
+
+As you can see in these brief illustrations, standardization or the lack of variance provides safety for patients, a savings of time for the provider and patient, and contributes to an improved bottom line.
+
+

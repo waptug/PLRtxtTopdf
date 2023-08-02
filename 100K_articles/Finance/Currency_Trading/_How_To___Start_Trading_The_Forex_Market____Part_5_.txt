@@ -1,0 +1,116 @@
+Title: 
+“How To”  Start Trading The Forex Market?  (Part 5)
+
+Word Count:
+1066
+
+Summary:
+What are *PIPS* ?
+
+Currencies are traded on a price/ point (pip) system. Each currency pair has its own pip value.
+
+When you see a FOREX price quote, you'll see something listed like this:
+
+EUR/USD 1.2210/13
+
+Explanation:
+
+a) If you want to BUY the EUR/USD ( meaning you BUY EUROS and SELL US$ ) you buy 100,000 EUROS and you SELL 122,130 US$, or in other words you receive 
+122,130 US$ for 100,000 EUROS.
+
+B) If you want to SELL the EUR/USD ( meaning you SELL EUROS ...
+
+
+Keywords:
+forex exchange market,financial markets,how to start trading forex markets,
+
+
+Article Body:
+What are *PIPS* ?
+
+Currencies are traded on a price/ point (pip) system. Each currency pair has its own pip value.
+
+When you see a FOREX price quote, you'll see something listed like this:
+
+EUR/USD 1.2210/13
+
+Explanation:
+
+a) If you want to BUY the EUR/USD ( meaning you BUY EUROS and SELL US$ ) you buy 100,000 EUROS and you SELL 122,130 US$, or in other words you receive 
+122,130 US$ for 100,000 EUROS.
+
+B) If you want to SELL the EUR/USD ( meaning you SELL EUROS and BUY US$ ) you buy 122,100 US$ and sell 100,000 EUROS, or in other words you receive 100,000 EUROS for 122,100 US$.
+
+The difference between the bid and the ask price is referred to as the spread. In the example above, the spread is 3 or 3 pips.
+
+Since the US dollar is the centerpiece of the FOREX market, it is normally considered the 'base' currency for quotes. In the "Majors", this includes USD/JPY, USD/CHF and USD/CAD. For these currencies and many others, quotes are expressed as a unit of $1 USD per the second currency quoted in the pair. 
+
+For example a quote of USD/CHF 1.3000 means that fore one U.S. dollar you receive 1.30 Swiss Francs. or in other words, you receive 1.30 Swiss Franc for each 1 US$.
+
+When the U.S. dollar is the base unit and a currency quote goes up, it means the dollar has appreciated in value and the other currency has weakened. If the USD/CHF quote above increases to 1.3050 the dollar is stronger because it will now buy more Swiss Franc than before.
+
+The three exceptions to this rule are the British pound (GBP), the Australian dollar (AUD) and the Euro (EUR). In these cases, you might see a quote such as EUR/USD 1.2080, meaning that for EURO you receive 1.2080 U.S. Dollars.
+
+In these three currency pairs, where the U.S. dollar is not the base rate, a rising quote means a weakening dollar, as it now takes more U.S. dollars to equal one Euro, British pound or an Australian dollar.
+
+In other words, if a currency quote goes higher, that increases the value of the base currency. A lower quote means the base currency is weakening.
+
+Currency pairs that do not involve the U.S. dollar are called cross currencies, but the calculation is the same. For example, a quote of EUR/JPY 134.50 signifies that one Euro is equal to 134.50 Japanese yen.
+
+HOW TO BUY ( going “ LONG ”)and SELL ( going “ SHORT ”) in the FOREX Market?
+
+Keep in mind 2 very important rules:
+
+RULE # 1) Cut your LOOSING trades and let your WINNING trades RUN
+
+YOU WILL HAVE LOSING TRADES. Every FOREX trader has. The secret is, that a consistent, disciplined trader, at the end of the day, adds up more winning trades than losing trades.
+
+When you and see on your charts, without any doubt, that you are in a losing trade, don't keep losing money. Most of the novice traders are lowering their stop loss just to “prove they are right” or “hoping that the market will reverse”. 99% of these trades, are ending up with more losses. Most of the profitable trades are usually "right" immediately.
+
+Remember, smart traders know there are many other opportunities. CUT your losses short and compound those winning positions.
+
+RULE 2) NEVER EVER trade FOREX without placing a Stop Loss Order.
+
+PLACE a STOP order, right along with your ENTRY order, via your online trading station, to prevent potential losses.
+
+Before initiating any trade, you have to calculate at what point ( price) you would be wrong, because the market changed direction, and would want to cut your losses. 
+
+To make profits, in the FOREX, a trader can enter the market with a *buy position* (known as going "long") or a *sell position* (known as going "short").
+
+As an example let's assume you've been studying the EURO. The EURO is paired first with the U.S. dollar or USD. 
+
+Your trading methods, rules, strategies, etc., tell you that the EURO will rice in the next 2 weeks, So you buy the EUR/USD pair meaning you will simultaneously buy EUROS, and SELL dollars).
+
+You open up your excellent trading station software (provided to you for free by Fenix Capital Management, LLC www.fenixcapitalmanagement.com ) and you see that the EUR/USD pair is trading at:
+
+EUR/USD: 1.2010/1.2013
+
+As you you believe that the market price for the EUR/USD pair will go higher, you will enter a *buy position* in the market. 
+
+As an example, lets say you bought one lot EUR/USD at 1.2013. As long as you sell back the pair at a higher price, then you make money.
+
+To illustrate a typical FX SELL trade, consider this scenario involving the USD/JPY currency pair:
+
+REMEMBER Selling ("going short") the currency pair implies selling the first, base currency, and buying the second, quote currency. You sell the currency pair if you believe the base currency (USD) will go down relative to the quote currency (JPY), or equivalently, that the quote currency (JPY) will go up relative to the base currency (USD).
+
+HOW TO CALCULATE PROFIT OR LOSS? 
+
+The Profit Calculations, on the Short-sell trade scenario below, may seem somewhat complicated if you've never been in the FOREX market before, but this process is continually calculated through your broker trade station (software). I show you this process below so you can SEE how a PROFIT might occur.
+
+The current bid/ask price for USD/JPY is 107.50/107.54, meaning you can buy $1 US for 107.54 YEN, or sell $1 US for 107.50 YEN.
+
+Suppose you think that the US Dollar (USD) is overvalued against the YEN (JPY). To execute this strategy, you would sell Dollars (simultaneously buying YEN), and then wait for the exchange rate to rise.
+
+Your trade would be the following: you sell 1 lot USD (US $100,000) and you buy 1 lot JPY (10,754.000 YEN). (Remember, at 0.25 % margin, your initial margin deposit for this trade would be $ 250.)
+
+As you expected, USD/JPY falls to 106.50/106.54, meaning you can now buy $1 US for $106.54 Japanese YEN or sell $1 US for 106.50.
+
+Since you're short dollars (and are long YEN), you must now buy dollars and sell back the YEN to realize any profit.
+
+You buy US $100,000 at the current USD/JPY rate of 106.54, and receive 10,654,000 YEN. Since you originally bought (paid for) 10,754,000 YEN, your profit is 100,000 YEN.
+
+To calculate your P&L in terms of US dollars, divide 100,000 by the current USD/JPY rate of 106.54
+
+Total profit = US $938.61
+
+

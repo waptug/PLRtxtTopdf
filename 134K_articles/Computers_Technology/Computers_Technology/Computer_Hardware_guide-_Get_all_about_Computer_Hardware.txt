@@ -1,0 +1,34 @@
+Title: 
+Computer Hardware guide- Get all about Computer Hardware
+
+Word Count:
+456
+
+Summary:
+Physical parts of computer come under the category of computer hardware. It can be changed once in a while in comparison with computer software. Normal users don’t see most computer hardware because it is enclosed as embedded systems. The term computer hardware is generally used for personal computers.
+
+
+Keywords:
+purchase computer hardware
+
+
+Article Body:
+Physical parts of computer come under the category of computer hardware. It can be changed once in a while in comparison with computer software. Normal users don’t see most computer hardware because it is enclosed as embedded systems. The term computer hardware is generally used for personal computers. 
+
+Internal computer hardware consists of motherboard having central processing unit and random access memory. Random access memory provides temporary storage of data where as CPU is used for doing all type of calculations. Second major component of computer hardware is Bus that is used to make common connection between several circuits. People can choose any type of buses as per their needs. Generally these are PCI bus, PCI-E or AGP bus, ISA bus that is outdated and UCB that is commonly used. 
+
+Computer can’t be run without power supply that is case including transformer, voltage control and fan. Computer hardware includes storage controllers that are helpful in controlling the hard disk, floppy disk, CD-ROM and other drives. These can be assembled on the motherboard or expansion card directly. 
+
+Video display controller is used to generate output for the computer display. Computer bus controllers are also come under computer hardware. These are used to connect computer to external peripheral devices like printers and scanners. 
+
+Sometimes computer hardware includes some removable media writers such as CD, CD-ROM Drive, CD Writer, DVD, DVD-ROM Drive, DVD writer, DVD-RAM Drive, Floppy disk and Zip drive. These are not permanently fixed in the computers and whenever you want you can remove them easily. 
+
+Tape drive, Internal storage and hard disk of the computer offers different levels of data storage like tape drive offers backup or long-term storage, Internal storage keeps the data safe inside the computer for later use while the hard disk offers medium-term storage of data. Sound card usually translates signals from the system board into analog voltage levels. It has terminals to plug in speakers. 
+
+If you want to connect your computer to other computer or Internet you require computer networking that helps you to communicate with other computers. Other networking hardware includes modem that is used for dial-up connection, and network card that is used for DSL/Cable Internet or connect to other computers. 
+
+Computer hardware includes internal as well as external components of a computer system. External components of computer hardware consist of some essential input/output devices such as keyboard, mouse and monitor. Other useful computer hardware components are speakers, headset, joystick, trackball, image scanner, microphone, etc. 
+
+Buyers should purchase computer hardware from a reliable source at reasonable prices. They can also find useful information about computer hardware on Internet. Several manufactures are currently selling their products online. Buyers can get heavy discounts by purchasing online.
+
+

@@ -1,0 +1,44 @@
+Title: 
+PHP In A Nutshell
+
+Word Count:
+829
+
+Summary:
+If you have spent the better part of the last few years on the Internet, you may have already chanced upon the term PHP. You may have even encountered the definition: “a server-side scripting language”. But what exactly does it mean? And more importantly, what use can it be to you as an aspiring Web developer or Web designer?
+
+Going back to the definition for a little while, PHP is indeed a server-side scripting language that is typically used in the creation of dynamic Web...
+
+
+Keywords:
+php
+
+
+Article Body:
+If you have spent the better part of the last few years on the Internet, you may have already chanced upon the term PHP. You may have even encountered the definition: “a server-side scripting language”. But what exactly does it mean? And more importantly, what use can it be to you as an aspiring Web developer or Web designer?
+
+Going back to the definition for a little while, PHP is indeed a server-side scripting language that is typically used in the creation of dynamic Web pages. It is a relatively easy to learn programming language that enables you to feature more dynamic content on your web sites.
+
+PHP is different from other types of programming languages in that it is designed to work in conjunction with HTML. This compatibility is a distinct advantage of PHP and allows you to easily integrate it into web pages that have already been extensively rendered with HTML. This integration is in fact so seamless that you can quite readily switch between the two languages even within the same web document.
+
+How this while thing works is basically like this: web sites are typically designed with a combination of PHP and HTML in varying proportions depending on the designer’s intended purpose. When a visitor points his browser to the web page in question, the server will “read” and subsequently process the PHP instructions and later send the results of the process to the browser of the visitor. This is pretty much similar to how other languages such as ASP or ColdFusion work. The main difference however is that PHP, unlike the aforementioned ASP or ColdFusion, PHP is both an Open Source and a cross-platform application. What this means is that PHP can be run under the Windows NT platform as well as many versions of the UNIX platform. In addition, PHP can be designed to function as an Apache module and even as a binary that can be run as a CGI.
+
+PHP by its very nature is exceptionally light and fast to run but when designed to run as an Apache module it is even more so. The absence of any process creation overhead allows PHP to return results quickly compared with other programming languages plus it has the added benefit of not requiring the tuning of mod_perl in order to limit your server's memory image to a manageably small size.
+
+Beyond its usage as a means to control and alter the contents of your web pages, PHP can also serve to function as an HTTP header sender. It is typically used in this function to set cookies in web browsers, manage the site authentication processes, and to redirect users to other sites. PHP also works well with other programs and applications, enabling unparalleled connectivity with many different databases as well as ODBC, as well as offering seamless integration with many different external libraries; libraries that allow you to accomplish tasks such as publishing PDF documents and even parsing XML.
+
+The way PHP fits within your web pages is extremely elegant in its simplicity; so simple in fact you will not need a special development environment or IDE at all. You merely have to place a at the end. PHP can also be configured to utilize ASP type tags as well as .). The PHP engine is charged with the task of processing everything that is contained within those tags.
+
+If you have had an extensive or even only a little background in programming languages, you may have already noticed that PHP has a lot in common with the languages C and Perl, especially in its language syntax. Just like in C and Perl, you do not have to declare variables prior to you using them, and it is also quite easy to create arrays and hashes (associative arrays).
+
+So much for its characteristics; now how can you use PHP?
+
+One of the most often mentioned and widely used applications of PHP is for server side scripting. This has traditionally been the area in which PHP has been focused. The three components of PHP in this particular application are: a PHP parser (which can take the form of a CGI or server module), a web browser and a web server. The web server is run with a PHP installation connected and the program output of the PHP program is accessed with a web browser. The PHP page can then be viewed through the web server.
+
+Command line scripting is another area where PHP is utilized and for this application you only need a PHP parser. Typical uses include rudimentary text processing and running scripts such as Cron or Task Scheduler.
+
+Finally, although not the ideal solution for this particular scenario, PHP is also used in writing desktop applications that feature a graphical user interface.
+
+Clearly the uses for PHP are both varied and endless and you should explore it in depth to find out how it can be of service to you.
+
+

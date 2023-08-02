@@ -1,0 +1,40 @@
+Title: 
+Spyware Detection - The Simple Facts
+
+Word Count:
+725
+
+Summary:
+Anti spyware software provides the best spyware detection capabilities. Even though programs, such as the Windows Task Manager indicate programs and processes running on your system at any given time, you are not likely to know which programs and processes are supposed to be running. More importantly, spyware may be embedded in other software such that the particular source of spyware is not indicated in the task list. You need spyware detection capability that will continuou...
+
+
+Keywords:
+spyware,adware,antivirus,anti spyware,spyware scan,spyware removal,adware spyware
+
+
+Article Body:
+Anti spyware software provides the best spyware detection capabilities. Even though programs, such as the Windows Task Manager indicate programs and processes running on your system at any given time, you are not likely to know which programs and processes are supposed to be running. More importantly, spyware may be embedded in other software such that the particular source of spyware is not indicated in the task list. You need spyware detection capability that will continuously monitor your system and seek out active and suspicious programs and processes.
+
+The effects of spyware are so vast that you are not likely to be able to detect the existence of spyware until it seriously degrades the performance of your computer system. Some of the nuances of spyware include its ability to collect and log personal information without your knowledge and then transmit this information to third parties. The types of information collected may range from usernames and passwords to websites visited to social security numbers and credit card numbers. Though the direct effects of spyware may only be to slow the performance of your system, the indirect effect of having your personal information transmitted to third parties provides those parties with necessary information to perform a variety of other activities that may range from sending you unsolicited advertisements to stealing your identity.
+
+Some indications that your system may have been infected with spyware may include any combination of the following:
+
+An increase in disk space usage
+Increased traffic that clogs networks
+Increased CPU activities
+Unexpected application crashes
+Total system crashes
+A continuous intrusion of pop-up ads
+Banner ads, some with annoying flashing animations
+
+When spyware consumes your system resources and you experience crashes and system instability, you are not likely to know the cause of the problem unless spyware detection software alerts you to malicious code. There are also some obvious indications of attempts to install spyware. Detection involves being aware of installation processes and avoiding installations from unknown vendors. If you are in doubt as to whether to proceed with a software installation you should avoid using click boxes provided in installation windows and close such windows using the “X” in the upper right hand corner of the dialog box. Likewise, if a download asks you to install ActiveX components and you are not sure if these components are needed, avoid the installation. Only install software that you want from trusted vendors.
+
+Most spyware detection algorithms include an examination of files, shortcuts, cookies and Windows registry keys for signs that spyware is resident. Detection algorithms also examine processes that are running to seek spyware in active memory on your computer. Detailed reports of spyware detection events are then able to indicate the names of suspected spyware.
+
+Spyware detection software searches registry entries for modifications that are typical of spyware products. The detection software checks running processes for indications of processes that are known to be characteristic of spyware. The software will compare visited URLs, Active X controls that have executed and cookies that have generated against spyware networks included in its database. Some spyware detection software includes checksum or hash algorithms that will check your files against a database of known spyware files. Other spyware detection software will query directory names and file names for a match against those stored in a database of spyware file and directory names. This type of detection is less efficient since spyware may be stored in several different locations with different file names.
+
+The detection mechanisms of anti spyware software will only be effective if the software is updated. New spyware is constantly developed and your anti spyware software must be updated so that the latest threat definitions are included in detection algorithms. Scans must also be run periodically to query against the latest database of definitions. Upon spyware detection, most anti spyware software may be configured to automatically remove or quarantine any infected files. Such software may also be configured to prompt you before taking any action.
+
+Anti spyware software are included in firewalls and other advertised privacy suites and security tools. Spyware detection that is provided as part of security suites tends to be weaker than stand alone solutions. While some spyware detection tools provide more indications and alerts than others to possible spyware, many false positives may result from software that includes methods of over aggressive scanning.
+
+

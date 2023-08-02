@@ -1,0 +1,41 @@
+Title: 
+Windows Based Electronic Point of Sale Solutions for the Independent Retailer
+
+Word Count:
+478
+
+Summary:
+Nowadays with the current retail climate and ever increasing competition on the high street, the need for a closer view of stock levels and the ability to maintain stock at optimum levels has never been greater.
+
+
+Keywords:
+epos software, electronic point of sale solutions
+
+
+Article Body:
+Nowadays with the current retail climate and ever increasing competition on the high street, the need for a closer view of stock levels and the ability to maintain stock at optimum levels has never been greater. For many years independent retailers have relied on the trusty cash register and 'had a reasonable of their stock position' 
+
+Modern EPOS Sytems (Electronic Point of Sale) allow greater efficiencies and can improve all round margins. Inbuilt stock control allows retailers to pinpoint poorly performing products/suppliers/staff and allow them to rectify any issues.
+
+Many Back Office applications have the facility to either link directly into supplier websites or to email/fax purchase orders through directly. This means that much less time is taken with administrative tasks.
+
+Systems allow businesses to integrate data from EPOS with data from handheld scanners, which means you can track barcoded products on the journey from your suppliers to the warehouse to the store to the final point of sale. You can then identify where goods are being held up, compare the performance of different suppliers and their delivery times - and improve on the results. 
+
+Build a database of customers, review their spending patterns and run marketting campaigns based on customer spending history or based on the type of products bought historically.
+
+With e-tailing gaining ground and taking market share from the high street, linking your EPOS system to your website provides online customers with rapid, up-to-date stock information. If stock runs out, EPOS can update the site to show that it is unavailable and warn potential customers that there will be a delay in delivery or offer an alternative.
+
+Choosing the Right EPOS System?
+
+EPOS particularly benefits organisations with a large throughput of goods to a large customer base. The larger the organisation the more sophisticated the EPOS solution should be, but it may not be necessary for smaller organisations to invest in complex solutions. 
+
+Software-based solutions 
+Your existing PC equipment may be able to run an EPOS application, costing around GBP 350. Additional hardware (printer, magnetic card reader, POS keyboard, keylock, operator monitor, cash drawer and customer display) is increasingly available in plug and play form. 
+
+Software packages linking EPOS to your accounting system 
+These cost around GBP 500 per terminal. However, the back office PC will need its own software and you may need to buy additional modules for extras like Electronic Funds Transfer (EFT), label printing or remote access. This approach can be cheaper and more flexible than buying an off-the-shelf system, but you may need advice on setting it up. 
+
+Stand-alone EPOS systems 
+These cost around GBP 5,000. You receive a specialised EPOS terminal, software, a printer and a networked back office PC. Such systems often have XML or EDI links for connecting with your website or back-office systems. This would be suitable for a company with one or two retail stores, for example.
+
+

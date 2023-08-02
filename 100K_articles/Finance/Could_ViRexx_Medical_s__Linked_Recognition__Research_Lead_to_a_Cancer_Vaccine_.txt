@@ -1,0 +1,47 @@
+Title: 
+Could ViRexx Medical’s ‘Linked Recognition’ Research Lead to a Cancer Vaccine?
+
+Word Count:
+1078
+
+Summary:
+Dr. Lorne Tyrrell pioneered lamivudine as the standard treatment for hepatitis B virus (HBV). Now a success, he observed the drug’s shortcomings. Now CEO of ViRexx Medical, Tyrrell hopes his latest development, Chimigen, will offer new hope for HBV, other infectious diseases, and cancer.
+
+
+Keywords:
+Cancer, hepatitis, hepatitis b, infections, disease, immune system, HBV, HIV, virus, medical, HCV
+
+
+Article Body:
+A SCIENTIST’S 20-YEAR UNFINISHED JOURNEY TO TREAT HBV MAY OPEN THE DOOR TO A NEW CLASS OF FLEXIBLE VACCINES
+
+While preparing a lecture in biochemistry and virology for his graduate students at the University of Alberta in the early 1980s, Dr. Lorne Tyrrell ran across a study just published in the medical journal, Cell. The research by William Mason and Jesse Summers, entitled “Replication of Hepatitis B,” discussed their study of the hepatitis B virus in infected duck liver.
+
+After studying their duck model theory, Tyrrell speculated if the hepatitis B virus (HBV) might be susceptible to antiviral agents, and consulted with a colleague, who specialized in nucleoside chemistry. Both medical professors became excited about the possibility of inhibiting the HBV virus with nucleoside analogues. Thus began the infectious disease specialist’s first leg of a journey, which led to the use of lamivudine as a therapy for chronic HBV infections. 
+
+More than 350 million people across the world, especially in Asia, now had new hope, some for their lifelong infections contracted vertically at birth from their mothers. In 2003, the Center for Disease Control estimated 73,000 Americans were infected with HBV, and about 5,000 die each year from sickness caused by HBV. It is reportedly 100 times more contagious than the AIDS virus. Many in North America, who had been infected with the virus from sexual transmission or intravenous drug use, were offered a potentially life-saving therapy.
+
+Licensed in 1998, lamivudine is now used in 120 countries as a standard therapy for chronic HBV carriers. The compound is also used in combination with other drugs, such as protease inhibitors, for HIV therapy. Development rights were licensed to Glaxo Wellcome in 1990, which is now sold under the brand name Epivir®. For his pioneering efforts in developing the antiviral agent, Dr. Tyrrell was awarded the gold medal by the Canadian Liver Foundation and the Canadian Association for the Study of Liver in 2000. In 2005, he won the prestigious EnCana Principal Award for his development of the first effective oral medication for Hepatitis B.
+
+
+HIS UNANSWERED QUESTIONS LAUNCHED A NEW HBV INVESTIGATION
+
+Despite the awards and recognition, questions remained for Dr. Tyrrell about the shortcomings of lamivudine. He was troubled that some viruses would develop resistance to the compound. “I was disappointed the sustained viral response was not complete,” Tyrrell told us. In April 2003, the Journal of Antimicrobial Chemotherapy published a study in Japan showing, “long-term (lamivudine) therapy is associated with increased emergence of lamivudine-resistant strains of HBV.” Researchers concluded in this study, “The therapeutic challenge to effectively treat chronic HBV infection continues.”
+
+Having screened lamivudine for use in Hepatitis B at Glaxo’s research lab at the University of Alberta, Dr. Tyrrell was able to observe the immune response of various HBV patients. “What really got me interested in doing more work in this area was that we noticed patients, who have an immune response to the virus and take lamivudine, will have a better sustained response rate,” Tyrrell explained.  “A patient with elevated liver transaminases taking lamivudine had a higher probability of a sustained viral response,” Tyrrell said with excitement in his voice. “In a patient with normal liver enzymes, who gets lamivudine, the virus will go down, but as soon as you stop the therapy, the virus comes right back up.” He told us the sustained viral response is only about two to three percent. Only about 30 percent remain free of the virus, about one year after patients have stopped taking lamivudine.
+
+“How do you break tolerance?” Tyrrell asked himself, hoping to develop a way to stimulate an immune response. All of the patients, he had observed, seemed to be tolerant of the hepatitis B virus. He pondered the dilemma, “Was there some way to break tolerance to hepatitis B by stimulating the immune response?” Tyrrell studied what others were attempting and wasn’t satisfied with the approaches others were taking to stimulate immune response. His ViRexx Medical research team brainstormed about different ways to target the antigen into the dendritic cells. 
+
+“That’s where we came in with the Chimigen™ technology,” Tyrrell said. “The dendritic cells have receptors on their surface that will bind the Fc portion of an antibody.” He pointed out a key feature of the Chimigen™ platform, “We used the Fc portion of a murine (mouse) antibody to hook onto our hepatitis B antigens. This would direct the viral antigens into dendritic cells in vivo.” Because the dendritic cells are the sentries of the immune system, they guard what comes in. Recognizing a ‘foreign situation’ in the murine antibody, it treats the whole molecule including the virus antigen as foreign. 
+
+LINK RECOGNITION MAY HOLD THE KEY
+
+Dr. Rajan George, ViRexx Medical’s vice president of research and development, told us, “The dendritic cells chop up this protein into small pieces called peptides, also known as epitopes. The dendritic cells have a system where they put the T-cell epitope on another protein, MHC Class I, and bring it to the surface of the dendritic cell. They are presented as a complex on the surface of the dendritic cell to attract the T-cells.” When the T-cells arrive to inspect the foreign entity, the cytotoxic T-cells are activated. Then, they begin attacking and killing the virus-infected cells.
+
+Research at Tokyo’s Cancer Institute Hospital, published in 1987 in Nippon Sanka Fujinka Gakkai Zasshi, suggested a feasibility of linked recognition of a virus antigen as a helper in tumor immunity with a target antigen. In the case of ViRexx Medical, Tyrrell’s team has created a new molecule, called “chimigen.” The term is shorthand for a chimeric antigen, meaning it is an antigen created from two different sources, part virus and part murine monoclonal antibody. 
+
+Dr. Tyrrell’s work at ViRexx Medical with Dr. George suggested the linked-recognition theory might be the key to breaking tolerance. Dr. George emphasized, “The new ‘chimigen’ stimulates an immune response to the antigen as well as the viral antigen. This is very important because the virus antigen was previously being ignored.” That brings us back to why lamivudine had limited success. The immune systems of some HBV carriers failed to recognize the viral infection as a threat to the body. Tyrell’s ViRexx Medical research team hopes the body’s immune system sees the threat, thus stimulating the immune system, and breaking tolerance. It appears Dr. Tyrell may soon find out whether or not the questions he asked will bring the answers he hoped for.
+
+END OF PART ONE
+
+

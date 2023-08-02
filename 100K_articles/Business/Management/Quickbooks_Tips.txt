@@ -1,0 +1,34 @@
+Title: 
+Quickbooks Tips
+
+Word Count:
+840
+
+Summary:
+QuickBooks is a great accounting program for home-based businesses to track their income and expenses. It is easy to learn and simple to use. It has a great Help file. You do not need an accounting background to be able to generate reports such as a Profit and Loss and Balance Sheet needed for tax preparation and managing your business. I have listed a few key points to consider when using QuickBooks.
+
+Cash or Accrual Basis of Accounting? The first step in setting up your c...
+
+
+Keywords:
+recordkeeping,tax savings,Quickbooks Pro,Quickbooks,accounting software
+
+
+Article Body:
+QuickBooks is a great accounting program for home-based businesses to track their income and expenses. It is easy to learn and simple to use. It has a great Help file. You do not need an accounting background to be able to generate reports such as a Profit and Loss and Balance Sheet needed for tax preparation and managing your business. I have listed a few key points to consider when using QuickBooks.
+
+Cash or Accrual Basis of Accounting? The first step in setting up your company in QuickBooks is to determine if you will track income and expenses on the “Cash Basis” or “Accrual” basis. Most small businesses operate on the cash basis of accounting. What this means is you record your expenses when you write the check or charge your credit card, and you record your sales or income when you take the money to the bank and deposit it into your account. This is the easiest way to account for your transactions. Some businesses are required by the IRS to report on the accrual basis. This normally pertains to large publicly traded companies and/or some manufacturing entities. On the accrual basis, you record income at the time of sale, not at the time you receive payment. You also enter expenses when you receive the bill, not when you pay it. The choice is yours on which basis to use. QuickBooks supports both accounting methods.
+
+Simplify the Chart of Accounts!! The most important list in your accounting system is your Chart of Accounts. You track your flow of money through this list of accounts which includes where your income comes from, where you put it, what your expenses are for, and what you use to pay them. QuickBooks’ EasyStep Interview walks you through setting up your accounts. The system also offers sample business templates that already have accounts set up for you. You can later delete or add any accounts that were initially setup in this interview to make it match your income and expenses better. Keep your chart of accounts SIMPLE! Too many accounts result in messy reports that are hard to read and analyze. Also, use descriptions for your account id’s, not numbers. If you assign account numbers for each account, you will have to memorize the numbers for fast data entry. It is much easier to type in the name of the account when entering transactions. This is a key timesaver!
+
+Utilize Reports QuickBooks has many reports you can run for daily management of your business. The most widely used reports are the Profit & Loss statement and Balance Sheet. The Profit and Loss statement is simply your sales minus your expenses over a period of time. When you choose to display a report such as the Profit and Loss statement, you are able to drill down from each account to obtain the source of the amount in the report. For example, you see that your Travel Expense account has a balance of $1,000.00. You want to see whom you paid for Travel for the month, so you can place your cursor over the Travel Expense amount and double click to obtain a report that will show you the detail of transactions that make up the $1,000.00 spent. You can then further drill down to view the actual check written. The Balance Sheet report shows you your Assets, Liabilities and Equity of your business. Assets include what you have and what people owe you money, such as your bank account balance, inventory owned, accounts receivable, and fixed assets such as equipment and furniture. Liabilities include what your company owes to other people or your company debts. Examples include unpaid bills, money you owe on credit cards, loans, and sales tax you owe. Equity is the net worth of your company: equity = assets – liabilities. Other reports include detailed and summary sales reports, sales tax reports, inventory reports, vendor reports, sales tax reports, payroll reports, and many more.
+
+Create a Professional Image QuickBooks also has other features that allow you to customize forms such as invoices, statements, and purchase orders you want to send to your customers and vendors. It will allow you to generate mailing labels and email messages to your existing customers and vendors that are setup in QuickBooks. You can also print checks on preprinted business forms. 
+
+Online banking is available with QuickBooks, which enables you to pay your bills electronically and reconcile your bank accounts monthly. This is essential to make sure you capture all business deductions to minimize your end of year tax liability.
+
+Keep it Separate! You should not track personal finances, investments, and details not specifically related to your business in your QuickBooks company file. Mixing of personal and business funds makes tax preparation harder and more expensive in some cases if using an accountant or tax preparation service. 
+
+An accounting degree is not required to enter daily and weekly tasks in QuickBooks. QuickBooks is an easy to use accounting software program that allows business owners to manage their business more profitably.
+
+

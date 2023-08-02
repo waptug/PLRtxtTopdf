@@ -1,0 +1,35 @@
+Title: 
+Data protection
+
+Word Count:
+405
+
+Summary:
+S2s Ltd is a UK provider of network consulting and implementation services
+that needed data protection to ensure business continuity, even in the event of a server breakdown. Securstore came up with the solution.
+
+
+Keywords:
+data protection, data recovery
+
+
+Article Body:
+S2s Ltd is a UK provider of network consulting and implementation services
+that needed data protection to ensure business continuity, even in the event of a server breakdown.
+s2s was previously using disk-to-tape to back up all the various systems the business was running on.
+Backing up and recovering data was not only a very complicated and time-consuming process, it was also very unreliable. When retrieving data
+from the tapes, once they had been delivered back to s2s, a lot of the data from the tapes was irretrievable. 
+SecurStore’s online solution automatically transfers data offsite in real-time, eliminating the risk of having backups located onsite in case of a disaster or loss of data during transportation to an offsite location. Data is transmitted and stored offsite in a state of the art data centre on a reliable disk subsystem, which is in turn duplicated and backed up onto a second disk sub-system located apart from the primary disk sub-system.
+Due to the nature of the business, s2s runs on a variety of operating systems. Most of its servers are Linux-based and some of them are Mac-based,
+because many s2s employees use Apple Macintosh machines. It also has the obligatory Windows applications and operates with a SAN architecture. SecurStore also needed to take into account the fact that most of the s2s servers are virtualised and that s2s already had a NAS (network-attached storage) system in place.
+The backup service uses many defense mechanisms, such as strong  
+authentication, data encryption, password protection and client and
+system side log legitimate users at s2s to perform a data recovery
+when needed.
+SecurStore backs up the critical data of s2s (120GB) online on a continual basis, so that from the moment a server goes down, all the data can
+be quickly retrieved online. The remaining less critical 80GB of data is either backed up to SecurStore’s Backup Lifecycle Management (BLM) offline service, or backed up by the outsourced provider.
+
+SecurStore is suitable for businesses that need to protect data from a few gigabytes to terabytes. The service ensures that any data held on PCs, Macintosh computers, file servers and application/database servers is securely backed up. SecurStore supports many platforms including Windows
+NT/2000/2003/XP along with AS-400 iSeries, Unix and Linux. SecurStore can also protect a wide range of databases including Oracle, SQL, Exchange, Lotus Notes and DB2.
+
+

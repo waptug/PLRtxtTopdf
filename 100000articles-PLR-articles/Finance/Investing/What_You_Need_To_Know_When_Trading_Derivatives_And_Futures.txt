@@ -1,0 +1,96 @@
+Title: 
+What You Need To Know When Trading Derivatives And Futures
+
+Word Count:
+985
+
+Summary:
+Hello Fellow-Investor.
+
+The Derivatives and Futures Market is the most potentially profitable market in the world. But it can be the most distructive one too!
+
+Derivatives
+
+A derivative is a financial term for a specific type of investment from which the price over a certain time is derived from the performance of the underlying asset such as commodities, shares or bonds, interest rates, exchange rates or indices like stock market index or consumer price index.
+
+This ...
+
+
+Keywords:
+Derivatives Market Option and Future,Derivative Financial Market,What are Derivatives
+
+
+Article Body:
+Hello Fellow-Investor.
+
+The Derivatives and Futures Market is the most potentially profitable market in the world. But it can be the most distructive one too!
+
+Derivatives
+
+A derivative is a financial term for a specific type of investment from which the price over a certain time is derived from the performance of the underlying asset such as commodities, shares or bonds, interest rates, exchange rates or indices like stock market index or consumer price index.
+
+This performance can determine both the amount and the timing of the payoffs. The diverse range of potential underlying assets and payoff alternatives leads to a huge range of derivatives contracts available to be traded in the market. The main types of derivatives are Futures, Forwards, Options and Swaps.
+
+Futures
+
+A futures contract is a standardized contract, traded on a futures exchange
+to buy or sell a certain underlying asset. at a certain date in the future, at a pre-set price.
+
+The future date is called the delivery date or final settlement date. The pre-set price is called the futures price. The price of the underlying asset on the delivery date is called the settlement price. The futures price, normally, converges towards the settlement price on the delivery date.
+
+A futures contract gives the holder the right and the obligation to buy or sell, which differs from an options contract, which gives the buyer the right, but not the obligation, and the option writer (seller) the obligation, but not the right.
+
+In other words, the owner of an options contract can exercise (to buy or sell) on or prior to the pre-determined settlement/expiration date. Both parties of a "futures contract" must exercise the contract (buy or sell) on the settlement date.
+
+To exit the commitment, the holder of a futures position has to sell his long position or buy back his short position
+effectively closing out the futures position and its contract obligations.
+
+Futures contracts, or simply futures, are exchange traded derivatives. The exchange acts as the counterparty on all contracts and sets margin requirement etc.
+
+Forwards
+
+A forward contract is an agreement between two parties to buy or sell an asset (which can be of any kind) at a pre-agreed future point in time. Therefore, the trade date and delivery date are separated. It is used to control and hedge risk.
+
+One party agrees to buy, the other to sell, for a forward price agreed in advance. In a forward transaction, no actual cash changes hands. If the transaction is collaterised, exchange of margin will take place according to a pre-agreed rule. Otherwise no asset of any kind actually changes hands, until the contract has matured.
+
+The forward price of such a contract is commonly contrasted with the spot price which is the price at which the asset changes hands ( on the spot date, usually the next business day ). The difference between the spot and the forward price is the forward premium or forward discount.
+
+A standardized forward contract that is traded on an exchange is called a futures contract.
+
+Futures vs. Forwards
+
+While futures and forward contracts are both a contract to trade on a future date, key differences include:
+
+- Futures are always traded on an exchange, whereas forwards always trade over-the-counter.
+
+- Futures are highly standardized, whereas each forward is unique
+
+- The price at which the contract is finally settled is different:
+Futures are settled at the settlement price fixed on the last  trading date of the contract (i.e. at the end)
+
+Forwards are settled at the forward price agreed on the trade date (i.e. at the start)
+
+- The credit risk of futures is much lower than that of forwards:
+Traders are not subject to credit risk due to the role played by the clearing house. The profit or loss on a futures position is exchanged in cash every day. After this the credit exposure is again zero.
+
+The profit or loss on a forward contract is only realised at the time of settlement, so the credit exposure can keep increasing
+
+- In case of physical delivery, the forward contract specifies to whom to make the delivery. The counterparty on a futures contract is chosen randomly by the exchange.
+
+- In a forward there are no cash flows until delivery, whereas in futures there are margin requirements and periodic margin calls.
+
+Options
+
+An option is a contract whereby one party (the holder or buyer) has the right but not the obligation to exercise a feature of the option contract ( e.g. stocks ) on or before a future date called the exercise or expiry date.
+
+Since the option gives the buyer a right and the seller an obligation, the buyer has received something of value. The amount the buyer pays the seller for the option is called the option premium.
+
+Most often the term "option" refers to a type of derivative which gives the holder of the option the right but not the obligation to purchase (a "call option") or sell (a "put option") a specified amount of a security within a specified time span. (Specific features of options on securities differ by the type of the underlying financial instrument involved.)
+
+Swaps
+
+A swap is a derivative where two counterparties exchange one stream of cash flows against another stream. These streams are called the legs of the swap. The cash flows are calculated over a notional principal amount. Swaps are often used to hedge certain risks, for instance interest rate risk. Another use is speculation.
+
+Swaps are over-the-counter (OTC) derivatives. This means that they are negotiated outside exchanges. They cannot be bought and sold like securities or future contracts, but are all unique. As each swap is a unique contract, the only way to get out of it is by either mutually agreeing to tear it up, or by reassigning the swap to a third party. This latter option is only possible with the consent of the counterparty.
+
+

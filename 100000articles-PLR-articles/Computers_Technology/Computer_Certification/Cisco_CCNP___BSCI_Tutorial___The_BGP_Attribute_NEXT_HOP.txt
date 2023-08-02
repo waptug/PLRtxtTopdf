@@ -1,0 +1,36 @@
+Title: 
+Cisco CCNP / BSCI Tutorial:  The BGP Attribute NEXT_HOP
+
+Word Count:
+359
+
+Summary:
+Mastering BGP is an important part of earning your CCNP certification. Learn all about the NEXT_HOP attribute in this free tutorial from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccnp, certification, bgp, next, hop, attribute, bsci, free, pass, exam, certify, route, reflector, ccna
+
+
+Article Body:
+When you're studying for the BSCI exam on the way to earning your CCNP certification, you've got to master the use of BGP attributes. These attributes allow you to manipulate the path or paths that BGP will use to reach a given destination when multiple paths to that destination exist.
+
+In this free BGP tutorial, we're going to take a look at the NEXT_HOP attribute. You may be thinking "hey, how complicated can this attribute be?" It's not very complicated at all, but this being Cisco, there's got to be at least one unusual detail about it, right? 
+
+The NEXT_HOP attribute is simple enough - this attribute indicates the next-hop IP address that should be taken to reach a destination. In the following example, R1 is a hub router and R2 and R3 are spokes. All three routers are in BGP AS 100, with R1 having a peer relationship with both R2 and R3. There is no BGP peering between R2 and R3.
+
+R3 is advertising the network 33.3.0.0 /24 via BGP, and the value of the next-hop attribute on R1 is the IP address on R3 that is used in the peer relationship, 172.12.123.3.
+
+The issue with the next-hop attribute comes in when the route is advertised to BGP peers. If R3 were in a separate AS from R1 and R2, R1 would then advertise the route to R2 with the next-hop attribute set to 172.12.123.3. When a BGP speaker advertises a route to iBGP peers that was originally learned from an eBGP peer, the next-hop value is retained.
+
+Here, all three routers are in AS 100. What will the next-hop attribute be set to when R1 advertises the route to its iBGP neighbor R2?
+
+R2#show ip bgp
+
+< no output >
+
+There will be no next-hop attribute for the route on R2, because the route will not appear on R2. By default, a BGP speaker will not advertise a route to iBGP neighbors if the route was first learned from another iBGP neighbor.
+
+Luckily for us, there are several ways around this rule. The most common is the use of route reflectors, and we'll look at RRs in a future free BGP tutorial.
+
+

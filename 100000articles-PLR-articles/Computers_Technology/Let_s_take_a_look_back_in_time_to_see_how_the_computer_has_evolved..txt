@@ -1,0 +1,24 @@
+Title: 
+Let’s take a look back in time to see how the computer has evolved.
+
+Word Count:
+305
+
+Summary:
+In many ways, man has been using computers for millennia: an abacus is, after all, simply a very basic form of computer.
+
+
+Keywords:
+computers, pc, technology
+
+
+Article Body:
+In many ways, man has been using computers for millennia: an abacus is, after all, simply a very basic form of computer. The first mechanical calculator (the ‘calculating clock’) was built in the 17th century. Programming with punch-cards has been around for about 200 years now.
+
+It was in the 1940s, however, that the first electronic, digital computers started to appear – that is, computers as we know them today. These computers were massive machines, filling a large room (in some cases, a whole building) and yet having less computing power than a simple calculator does today. Reprogramming them often required extensive amounts of physical rewiring, as the only way the computer knew what to do was by how it was connected together. Still, these computers were helpful in the war effort – most famously, the British code-breaking computers at Bletchley Park that broke the Germans’ code is widely thought to have shortened the war by years.
+
+Fast forward to the ‘60s. This was when wires and tubes were replaced with the transistor – an overnight leap forward in technology that reduced computers’ size to an amazing degree, replacing the hefty vacuum tubes that somewhat like those still used in CRT TVs and microwaves. Combined with the invention of semiconductor integration circuits, by the ‘70s, it was possible to make personal computers small enough for people to have in their homes.
+	
+This is generally regarded as being the beginning of the ‘computer age’, as the popularity of home computers quickly drove prices down and made them very affordable. Computer companies sprung up left, right and centre, hoping to carve themselves a piece of this exploding market. The result was chaos and buyer confusion, and few of them survive today. However, the stage was set for a huge computer battle that led to the machines we know and love today.
+
+

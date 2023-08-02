@@ -1,0 +1,28 @@
+Title: 
+Choosing The Right Processor - A Buyers Guide
+
+Word Count:
+541
+
+Summary:
+Processors – The core of your system how to choose the one that’s best for you
+
+There are a few things that you need to consider when looking at processors and when thinking about what processor would be best for your system. The things you need to look at are socket type. If you don’t know what socket types are, they are the pins located on the bottom of the processor, the number and pattern are what determines the type. Bus speed, or front side bus, this is the rate at wh...
+
+
+Keywords:
+processors,intel,amd,advice,buying
+
+
+Article Body:
+Processors – The core of your system how to choose the one that’s best for you
+
+There are a few things that you need to consider when looking at processors and when thinking about what processor would be best for your system. The things you need to look at are socket type. If you don’t know what socket types are, they are the pins located on the bottom of the processor, the number and pattern are what determines the type. Bus speed, or front side bus, this is the rate at which information moves from the processor to the motherboard, this will affect the overall speed of your computer. Other things to be considered are how to purchase your processor and if it’s compatible with your motherboard or the motherboard you are looking at purchasing.
+
+Socket types and motherboards go hand in hand. The socket type has a hand in determining the motherboard and what socket types a motherboard can accept obviously has a say in what type of processor you can look at. Each processor you look at is going to tell you the speeds at which it can process data this is the bus speed. This is an important factor when choosing your processor. The faster the speed the more you can do with the processor because the more the processor can handle. Something that also needs to be considered the faster the processor the hotter it will get. Some of the higher end processors come with their own fans and are a good investment if you plan on using your computer heavily. Once you’ve determined the bus speed, the socket type, and if the processor you’re looking at is compatible with your computer it’s time to check out where to buy it. There are several options you can purchase it OEM or retail. Here’s a run down of the difference, OEM this is usually what happens when you purchase it without a box and no heatsink and fan. Retail is you simply purchase just the processor itself in a retail box with the manufacturers heatsink and fan. There can be some real savings either way depending on what you need and what you’re looking for. Another word on motherboard compatibility, older motherboards may not be able to handle the latest processor technology and visa versa making sure your processor is one that is going to work well with your motherboard is one of the most important factors that need to be addressed while deciding on your processor.
+
+There are two main producers AMD and Intel each have their good points. Most people will have heard more of Intel, or have heard of the Pentium. AMD came into the market late but rivals Intel in quality for value. Intel does still have some edge as they produce the chipsets, which allows them to adapt faster to new technologies. However the AMD 64 and Pentium D are about equal so the choice of who to go with is up to you and your personal preferences and needs.
+
+Now that you have the basics on choosing your next or first motherboard, you might want to check out some of these top manufacturers AMD or INTEL.
+
+

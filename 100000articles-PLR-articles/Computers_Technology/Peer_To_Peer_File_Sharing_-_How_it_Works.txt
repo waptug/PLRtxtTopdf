@@ -1,0 +1,50 @@
+Title: 
+Peer To Peer File Sharing - How it Works
+
+Word Count:
+956
+
+Summary:
+Peer-to-peer file sharing is a growing business, though much of it is illegal. This article explains how it works, and gives information on the major free file sharing systems including bit-torrent.
+
+
+Keywords:
+peer to peer, p2p, file sharing, p2p file sharing, free music downloads, movie downloads, free game downloads, p2p software
+
+
+Article Body:
+Copyright 2006 Peter Nisbet
+
+Peer-to-peer (or P2P) file sharing systems connect users (called nodes) directly together.  Some are true networked systems while other contain an element of the client-server structure. That is they contain an element of the original Napster centralized server system where clients are fed by a central server. Examples of this are the original Napster (Napster is now a ‘pay for music’ site) and OpenNap which replicates the original Napster functionality.
+
+It was the central server which eventually destroyed the Napster system sins, once the server was forced to close, the whole system ceased to function.  The P2P systems are now much more widely used.  In these every user can be connected to every other user who is logged on.  When you download music or movie files you can be doing so from you next door neighbour, or someone on the other side of the world.  You have access to literally millions and millions of files:  everything on the other users’ hard disks in fact, and everyone has access to yours.  There is no central server, so the system cannot be shut down.
+
+Examples are eDonkey, which is combined with Overnet, the FastTrack network and the Gnutella network.  Software which operates on these networks is:
+
+Limewire and Bearshare who both use the Gnutella network.  Morpheus which uses all three networks.  Kazaa and eMule which operate on the eDonkey/Overnet networks and Ares with its own network.   Microsoft has its own system in WinMX,  but it is reputed to be complex and has its limitations.
+
+There is also BitTorrent.  This has a following among those interested in sharing audio-visual files such as Movies and TV shows.  The original and official BitTorrent client tends to monopolize a connection so that other internet business cannot be carried during downloading though this has been resolved in an alternative free version
+
+BitTorrent is different form of P2P file sharing. With normal systems such as the Gnutella system, you will typically download a complete file from one source.  In some cases the software allows you to download the one file from a number of contributing sources, thus speeding up the process.  With BitTorrent, on the other hand, you download different bits of the file from a number of different sources (each file is split into about 1,000 pieces).  This not only speeds up the transfer of large files around the network, but also allows you to upload a file at the same time as you are downloading it.
+
+Brian Dessent likens it to a book.  A group of people round a table each have different pages of a book.  They want to get the whole book, they let each other know what pages they have and what they require.  Eventually the pages are passed around till a whole copy is obtained.  If there are any pages missing,  someone is available with the whole book (called a ‘seed’) who can supply what is missing to complete the book
+
+Invented by programmer Bram Cohen,  BitTorrent is therefore different to any other kind of P2P network.  It works differently to other systems in its search facility:  it has none!  Users must first carry out a web search to find the file they require. There are , however, several BitTorrent search engines on the web such as BTBot and TorrentSpy.
+
+In addition to simultaneous downloading from multiples sources which is common with most of the modern P2P applications, eDonkey2000 also allows sharing of file segments where the file size is larger than 9.8M.  As with BitTorrent, this allows you to upload a file while you are still downloading it so that the more popular files can be very rapidly distributed round the network. The problem with this is that sometimes the whole file cannot be found, and you are left with part of the file which you must complete at later date.  This cannot happen with traditional P2P systems such as Gnutella (e.g. Limewire and Bearshare).
+
+Free Downloading
+
+The P2P networks such as Gnutella and BitTorrent are free.  Many companies will try to charge you for downloading the software, but they are taking advantage of your ignorance.  However, you should be careful when selecting the free software.
+
+The majority of free download programs comes with bundled adware and spyware (also free of course!).  An example of adware is the pop-ups which appear on your screen and are devilishly hard to remove.  Sometimes the only way is to switch your computer off and on again.   Spyware sits on your computer and send back messages to advertisers as to what you are doing or watching so that ads can be customized to your preferences.
+
+At its nastiest, spyware can copy your credit card and banking details.  It can also record keyboard clicks which allows all sorts of Big Brother activities.  Employers can find out what you have been logging into all day, strangers can identify number strings which could be credit card and bank account details, including your passwords and login details.  All very nasty, so beware of free downloads.
+
+Spyware and adware can be removed using software similar to anti-virus programs.  Beware of the free versions, however, since they can put their own adware and spyware on which, naturally, are not removed during the cleaning service.  You are better to use reputable paid software
+
+However, back to download systems.
+
+So, while most P2P software is available free, I would go for the paid version.  The payment normally has the option of a one-off lifetime payment of up to around $39, though frequently less.  This covers maintenance of the site and 24/7 support.  The software itself is free.  It also generally ensures that the software is free of adware and spyware.
+
+

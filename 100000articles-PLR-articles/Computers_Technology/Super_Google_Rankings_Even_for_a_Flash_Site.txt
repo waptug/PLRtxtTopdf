@@ -1,0 +1,46 @@
+Title: 
+Super Google Rankings Even for a Flash Site
+
+Word Count:
+957
+
+Summary:
+Search engine optimization (SEO) secrets of how to get high Google Page Rank even with an all "Flash" website are revealed in this article using the example of Crown SEO's own experiences.
+
+
+Keywords:
+search engine optimization, seo, google, page rank, pagerank, flash, flash website, search engine rankings, flash websites
+
+
+Article Body:
+Google's PageRank™ (PR) system continues to ever-more dominate the internet! It seems that Google's skyrocketing influence on all-thing-internet matches the upward trajectory of its common stock shares. 
+
+So, how does a website end up with a high (or, conversely, low) Page Ranking from Google. Even more importantly for high-end website owners is how to meld together all of those expensive "Flash" movies with the system Google uses to determine PR.
+
+First, though, a brief explanation of what Page Ranking by Google is all about: Google itself says that its PageRank™ system is at the very heart of its search prowess. It adds, "PageRank relies on the uniquely democratic nature of the web by using its vast link structure as an indicator of an individual page's value. In essence, Google interprets a link from page A to page B as a vote, by page A, for page B. But, Google looks at considerably more than the sheer volume of votes, or links a page receives; for example, it also analyzes the page that casts the vote. Votes cast by pages that are themselves 'important' weigh more heavily and help to make other pages 'important.' Using these and other factors, Google provides its views on pages' relative importance."
+
+The PR system runs from 0 through 10, with 10 being the highest possible PR achievable. Even if your website is ranked from 0-2, which is the lowest range for established sites, it may not matter because some low-ranked sites nevertheless get good search engine placement for their keywords and phrases - that is, unless, the ranking is 0 due to Google blacklisting a site for SEO blackhat spamming of one sort, or another. Otherwise, a low-ranked site owner can buckle down and work on creating links and improving site content.
+
+PR 3 can work alright in some cases but does not bode well for a site that is involved a competitive industry and work should go into improving both the SEO characteristics of the site and the breadth of its content.
+
+PR 4 is an above-average rating and indicates that there are sufficient Google "votes" for the site to make it reliable and that the site has good content. It is difficult for a new site (one that is less than 6 months old) to get a PR 4 without putting forth a lot of effort.
+
+Getting above 4 is very difficult, especially for a new site unless it is debuted with a lot of fanfare such as an IPO, or a government or educational institution's backing.
+
+Getting into PR 5 is a milestone in any website's path to profitability. While some web gurus such as Mike's Money Making Mission opine that 5 is "attainable" even poor Mike is only ranked PR 3! Additionally, a PR 5 indicates that there are many quality inbound links to the site, that it is both respectable within its industry and has very good content.
+
+PR 6's are at best reserved for mega-sites and sites with a long operating history. A PR 6 is usually major corporate, government and nonprofit web sources and is very difficult to obtain without much linking effort and broad, exhaustive content or, in the alternative, a unique system. A good example of a PR 6 is Legal Zoom which is a mega-source for low-cost legal services started by a group of lawyers and nationally advertised on TV, radio and the net.
+
+PR 7's and 8's are usually earned only by institutions of some sort or other, or, major corporations such asGeneral Motors or Delta Airlines.
+
+In the stratosphere of 9's and 10's it appears that politics can be played! For example, while Google ranks itself as a PR 10, rival Yahoo! is only given a PR of 9! This ranking brings many chuckles, as it should.
+
+With that system in mind, and the fact that both onsite optimization plus offsite quality linking go into generating a PR, how does a website built in glorious Flash get ranked? For example, a "so-call" SEO guru and expert website cries on its home page, "Don't Have A Flash Website If You Want Search Engine Results". This self-anointed expert SEO site goes on to add that "Search engines do not like flash sites." However, the site is only PR 3 despite its bravado and lack of Flash.
+
+With SEO gurus saying not to use Flash, can Flash be used anyway and still get good PR rankings? The answer is an affirmative "Yes!"
+
+A recent example is Crown SEO's all-flash website which earned a PR 4 in just 60 days after launching. How did Crown SEO do this bit of search engine optimization? First, the entire site is presented in a robust Flash movie embedded on a page that also contains detailed Meta Tags to describe exactly what the content of the movie is. The Flash includes all of the typical wiz-bang animations that Flash is so loved for plus the movie emphasizes a text-based orientation rather than uncluttered animations so common in Flash sites. But, in addition, below the Flash movie is a complete navigation bar that any search engine (including Google, obviously) can use to spider the entire site since the navbar leads to a simple text page that restates everything in the movie. Also, Crown SEO put in an extensive sitemap that links up both to the movie and to the text in a bit of search engine cross-checking, as it were. As a result, there is no search engine that could miss the sterling quality of the site's content.
+
+Thus, good content (called onsite optimization) along with good offsite efforts such as search engine registration and link building can easily result in a high PR for anyone's site who cares more about content and user satisfaction than they do about paid ads and link farms - even if they employ an all-Flash site.
+
+

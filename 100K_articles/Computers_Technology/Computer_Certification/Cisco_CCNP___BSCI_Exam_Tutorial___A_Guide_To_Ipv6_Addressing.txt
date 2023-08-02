@@ -1,0 +1,52 @@
+Title: 
+Cisco CCNP / BSCI Exam Tutorial:  A Guide To Ipv6 Addressing
+
+Word Count:
+467
+
+Summary:
+To pass the BSCI exam, you’ve got to know the basics of IP version 6.  Learn the different Ipv6 addressing schemes from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccnp, bsci, ip, version, 6, ipv6, address, unicast, multicast, anycast, broadcast, site, link, local, chris, Bryant, advantage, 12933, pass, exam, certification
+
+
+Article Body:
+Learning IPv6 is paramount in your efforts to pass the BSCI exam and go on to earn your CCNP, and it's going to help in your real-world networking career as well.  IPv6 can be confusing at first, but it's like anything else in Cisco or networking as a whole - learn one part at a time, master the fundamentals, and you're on your way to success.  In today's article we're going to take a look at IPv6 address types.
+
+In IPv4, a unicast address is simply an address used to represent a single host, where multicast addresses represent a group of hosts and broadcasts represent all hosts. 
+
+In IPv6, it's not quite that simple.  There are actually different types of unicast addresses, each with its own separate function.  This allows IPv6 to get data where it's supposed to go quicker than IPv4 while conserving router resources.
+
+IPv6 offers two kinds of local addresses, link-local and site-local.  Site-local addresses allow devices in the same organization, or site, to exchange data.  Site-local addresses are IPv6's equivalent to IPv4's private address classes, since hosts using them are able to communicate with each other throughout the organization, but these addresses cannot be used to reach Internet hosts.
+
+Site-local and link-local addresses are actually derived from a host's MAC address.  Therefore, if HostA has HostB's IPv6 address, HostA can determine HostB's MAC address from that, making ARP unnecessary.
+
+Link-local addresses have a smaller scope than site-local.  Link-local addresses are just that, local to a physical link.  These particular addresses are not used at all in forwarding data.  One use for these addresses is Neighbor Discovery, which is IPv6's answer to ARP.
+
+You can identify these and other IPv6 addresses by their initial bits:
+
+001 - Global address
+
+(first 96 bits set to zero) - IPv4-compatible address
+
+1111 1111 – Multicast
+
+1111 1110 11 - Site local
+
+1111 1110 10 - Link Local
+
+As a future CCNP, you're more than familiar with the reserved IPv4 address classes.   You also know that they're not exactly contiguous.  The developers of IPv6 took a structured approach to IPv6 reserved addresses - any address that begins with "0000 0000" is an IPv6 reserved address.  One of these is the IPv6 loopback address, and this will give you some practice with your zero compression!
+
+IP v6 Loopback:  0000:0000:0000:0000:0000:0000:0000:0001
+
+Using Leading Zero Compression Only:  0:0:0:0:0:0:0:1
+
+Combining Leading Zero and Zero Compression:  ::1
+
+Zero compression looks pretty good now, doesn't it?  You just have to get used to it and keep the rules in mind. You can use all the leading zero compression you want, but zero compression ("double-colon") can only be used once in a single address.
+
+IPv6 is here to stay, not only on your BSCI and CCNP exams, but in the real world as well.  Learning it now will not only aid you in passing your Cisco exams, but in supporting IPv6 in the future.
+
+

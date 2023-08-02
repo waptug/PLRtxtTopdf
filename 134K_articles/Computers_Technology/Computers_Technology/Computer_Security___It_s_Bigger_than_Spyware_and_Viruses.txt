@@ -1,0 +1,36 @@
+Title: 
+Computer Security – It’s Bigger than Spyware and Viruses
+
+Word Count:
+831
+
+Summary:
+Computer security, in basic terms means keeping your computer and the data that’s in it safe and secure.  More of our personal data is stored in or accessed from our computer, now more than ever before.  Yet most people lack even the basic understanding of how to keep their computers safe and secure.  By following just a few simple rules you can dramatically improve the overall security of your computer.
+
+
+Keywords:
+spyware, adware, spyware & adware, spyware prevention, computer security, firewall, software update
+
+
+Article Body:
+Computer security, in basic terms means keeping your computer and the data that’s in it safe and secure.  More of our personal data is stored in or accessed from our computer, now more than ever before.  Yet most people lack even the basic understanding of how to keep their computers safe and secure.  By following just a few simple rules you can dramatically improve the overall security of your computer.
+
+The first thing to understand is what exactly it means to be connected to the internet.  Your computer connected to the internet is similar to your house in many ways.  There are many ways into your house.  Windows, doors, etc.  The more windows and doors you have, the more ways someone has into your house.  An open door doesn’t necessarily mean you are going to be robbed, but it does improve the chances.  Complicating matters, the ones that you think are locked, may not be because the lock is faulty or even the door itself may have an as of yet undiscovered flaw that would allow an intruder easy access to your home.
+
+Your computer has many windows and doors, not all of which are locked. New flaws are being found everyday, often with the fix not coming until days after.  Just like you wouldn’t leave your front door unlocked, you shouldn’t leave your computer wide open either.  The first two things we will discuss to help with this task are installation of a quality firewall and regularly updating your installed software.
+
+Updating your software is becoming easier these days, especially your Operating System.  We don’t have the time here to go into detail about the many ways to update the many software packages you may have or use, but generally speaking the software manufacturer will provide you a way to do this automatically via the internet.  A good example of this is the Microsoft Windows Update feature.  Be sure to get the updates for everything installed on your computer, nothing is too trivial.
+
+There are two basic types of firewalls and both perform the same functions.  One is hardware the other is software.  A hardware firewall is probably included in your router if you are using one, while you may or may not have a software firewall installed.  To continue our house analogy, a firewall is like building a wall and gate around your home and giving the guard at the gate instructions on who to let in and out.  While this does give a great deal of protection, it is not all that is required.  Someone may know a way around or under your wall, or even be able to coerce the guard into letting them in.  
+
+You yourself may unwittingly allow someone in.  This could happen by simply opening an email or even simply surfing the net.  Spyware, viruses, trojans and the like are ever more adept in their methods of fooling you and your guards.  Emails may come from a trusted friend containing a dangerous virus without them even knowing it.  This is where the next layer of protection comes in, anti-virus software.
+
+Anti-virus software is a large category these days.  Often these packages come as “suites” including a firewall and Spyware scanner.  While most of these programs are very effective in their promised tasks, it is not wise to be lulled into a false sense of security by them.  They are simply one layer in what should be a multi tiered protection plan for you and your computer.  One last important note about anti virus software is to be sure that it updates on a regular basis.  New threats come out daily so check its updates manually to be sure they have happened.
+
+Back to our house analogy, we now have all of our windows, doors and other entry ways locked and fully updated.  We have a wall around our house with a guard at the gate and we have software scanning everything that comes in past the gate.  Sounds pretty good, but there’s one last security hole we need to address, you.
+
+A large percentage of infections are caused by the computer user themselves.  The internet is an ever changing place that requires it’s users to be educated about its use.  I’m not suggesting that you need to be a computer expert to simply read your email.  I am however suggesting that you take some time to educate yourself on some of the dangers that pop up everyday, and the precautions to take in order to avoid them.
+
+In summary, your computer is a powerful machine connected to one of the greatest things ever invented, the internet.  This vast resource can be a dangerous place if you are not properly prepared and informed.  Regular software updates, a good firewall, anti virus software and a little education are the basics in computer security.  Having and understanding these basics will make your computer safer, more secure and more enjoyable.
+
+

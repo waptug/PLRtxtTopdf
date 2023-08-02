@@ -1,0 +1,22 @@
+Title: 
+Standardization Of Midi Technology Under The General Midi (gm) Standard
+
+Word Count:
+347
+
+Summary:
+The problems that electronic musicians faced with playing their compositions on equipment made by different manufacturers was a serious one in the 1980s. Hook up a MIDI Controller made by one manufacturer to a sound module made by another manufacturer, and your flute solo could come out as a drum solo. You could try adjusting the volume and end up changing the pitch instead. This is because MIDI commands, which are used to control every aspect of the composition from notes pl...
+
+
+Keywords:
+MIDI
+
+
+Article Body:
+The problems that electronic musicians faced with playing their compositions on equipment made by different manufacturers was a serious one in the 1980s. Hook up a MIDI Controller made by one manufacturer to a sound module made by another manufacturer, and your flute solo could come out as a drum solo. You could try adjusting the volume and end up changing the pitch instead. This is because MIDI commands, which are used to control every aspect of the composition from notes played, instrument used, volume, pitch, and many other parameters, are numerical, and once upon a time (meaning the 1980s) different manufacturers used different functions to correspond with different MIDI Command numbers. For example, the number corresponding to a trumpet sound on one brand of equipment might correspond to a harmonica sound on another brand of equipment.
+
+There were many other problems as well, most of them arising from a lack of standardization of the correspondence between MIDI Command numbers and the actual parameters that they adjusted. For this reason, the General MID (GM) standard was created – so that all (or most of) the numbers used to generate any particular MIDI command would do the same thing on any brand of equipment that incorporated the General MIDI standard – for example, the number 12 placed at a certain point in the string of digits that represents any MIDI command now triggers any GM standard sound module to play a Vibraphone sound, and nothing else. This sound may differ somewhat on different sound modules (sound quality will vary depending on how expensive the sound module is and what kind of technology it uses), but at least you won’t end up playing a flute instead of a vibraphone.
+
+The GM standard incorporated a variety of standardizations other than MIDI commands – for example, it required all GM compliant sound modules to be fully multi-timbral – that is, each sound module had to be able to receive MIDI messages on 16 different channels, so that the sound module can play 16 different “patches” (equivalent to 16 different instruments) at once, corresponding to the 16 available MIDI channels.
+
+

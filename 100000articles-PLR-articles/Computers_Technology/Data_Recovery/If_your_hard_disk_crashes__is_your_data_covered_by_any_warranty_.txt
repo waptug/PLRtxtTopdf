@@ -1,0 +1,46 @@
+Title: 
+If your hard disk crashes, is your data covered by any warranty?
+
+Word Count:
+681
+
+Summary:
+Is your data covered by your hard disk warranty? Decide your backup option that is right for you.
+
+
+Keywords:
+data recovery, data backup, hard disk, crash, image backup
+
+
+Article Body:
+Copyright 2006 Per Strandberg
+
+This was a question that was recently put by forward on a TV consumer show. One guy had his hard disk crashed and lost all data. He was able to get his hard disk replaced because of a warranty.
+
+To retrieve the data he had it sent to a data recovery company to get it recovered. The price tag was about $ 1500. But, he also wanted to have that extra cost covered by the same warranty.
+
+I’m not a lawyer, but I believe it is quite clear that any warranty from any hard disk manufacturer doesn’t include restoration of data. That said, with the long life time and high durability of today’s hard disks they could very well afford this when it is caused by a hard disk failure.
+
+As long as the hard disk only have a mechanical or electronic fault and it have not been exposed to water or fire the track record for restoring the data by a professional data recovery company is quite good. However, you have to expect to pay a chunk of money to have it restored. And you can never be 100 % sure they will succeed.
+
+It’s always worthwhile to backup all your data or at least backup the data that is most important for you. This is the best warranty against data loss.
+
+If you use the computer for leisure, playing games or surfing the Internet you may not need to take any backup at all. But today, more and more people store important document and information on their computers. Some store data vital to their professional life. This can be years of work such as academic thesis or it can be the content for a new book they are writing. Most people store at least some important information such as address books, emails, text documents, family pictures, music or company records.
+
+Should you take backup? If so, what type of backup is best for you?
+
+This all depends on:  The value of the data if it becomes lost. The time it will take to recreate lost data. The cost to make the backup.
+
+In most cases the data you need to backup are limited to specific files or folders. If that is the case you don’t need to backup the complete hard drive and the cost to make backup is reduced. If you only need to backup documents, emails and address books then there are many cheaper alternatives including USB flash memory keys, online backup or backup to CD’s/DVD’s.
+
+If you install important software from Internet then you need to take a full backup of the hard disk at least once. This is because nearly all software programs store system related information in what is called the reg keys deep in the operating system which must be backed up on a full backup.
+
+As an alternative, make sure that you save the installation files and any accompanied software registration keys in one specific folder after you have downloaded the software. If you do this and include the folder in one of your regular smaller backup, then you are capable to recreate it.
+
+If you get a hard disk crash and you want to minimize the downtime and you don’t want the hassle to install the operating system and all the software’s you have on installation CD’s. If that is the case then you should consider making a disk image backup.
+
+This is a backup of the complete disk drive. Included in the disk image software is a boot utility. From it you can create boot diskettes or boot CD's.
+
+Thus, if you hard disk crashes you first install a new hard disk. Next you boot up from your diskette or CD. From the boot program you are then able to create your disk image directly on the new hard disk. So by doing this type of restoration you don’t have to install the operating system and all you other programs from any installation CD’s. This saves you time.
+
+

@@ -1,0 +1,27 @@
+Title: 
+Dual Desktop Configuration: Expand Your Screen Real Estate
+
+Word Count:
+586
+
+Summary:
+I’m a programmer. I work with copious amounts of programs, and I need to have a multitude of applications running simultaneously: a compiler, debugger, code editor, command shells, documentation, and other various tools of the trade; this makes for a lot of opened windows. The pace of my workflow would degrade considerably if I only had a single display to work with. I admit it; I spoil myself by utilizing the power of a dual desktop configuration. I find it frustrating deali...
+
+
+Keywords:
+
+
+
+Article Body:
+I’m a programmer. I work with copious amounts of programs, and I need to have a multitude of applications running simultaneously: a compiler, debugger, code editor, command shells, documentation, and other various tools of the trade; this makes for a lot of opened windows. The pace of my workflow would degrade considerably if I only had a single display to work with. I admit it; I spoil myself by utilizing the power of a dual desktop configuration. I find it frustrating dealing with a single desktop. I’m an avid multi-tasker. I juggle a lot of windows at the same time, and doing this with a single display becomes a cumbersome and frustrating endeavor.
+
+Windows XP provides native multiple monitor support. Imagine having 2 displays right next to each other. Now envision your Window’s desktop expanding to fill out your displays, forming one fluid, continuous desktop. With 2 displays, side by side, you can have one application maximized full screen on display 1, and another maximized app on display 2. Viewing 2 maximized windows at the same time becomes impossible within the confines of a single desktop. You basically have 2 desktops at your disposal, each one in full view. To move from one desktop to the other, you simple move your cursor to it; it’s almost magical the first time you witness it!
+
+I can’t live without at least one LCD display; its small foot print leaves a lot of extra space on my computer desk, and it doesn’t feel like I’m carrying a baby elephant when I move it around. I also have several spare CRT monitors from yesteryear lounging around, attracting dust and generally doing nothing of value. Most of today’s graphics cards come with 2 monitor ports: one D-Sub and one DVI port. The D-Sub port supports the old school CRT monitors and the DVI for today’s vogue LCDs. With an LCD and an old school CRT monitor, you can construct a dual desktop system that greatly expands your desktop real estate twofold, giving your windows ample leg room.
+
+The process is simple: connect your LCD to your DVI port and the CRT to the D-Sub port and boot up XP. Window’s XP should recognize your extra monitor. Right click on your desktop and select “properties”. Navigate to the “Settings” tab. You should see your displays labeled as 1 and 2. You can move each one around, change their resolution and color quality. On your CRT monitor’s configuration, you can change its refresh rate. If you happen to have an extra LCD on tap, you can even purchase an adapter, so that you can connect your extra LCD to the VGA D-Sub port. Two LCD’s are better than the LCD/CRT setup, in my humble opinion.
+
+When shopping around for a graphics card for your multiple display setup, make sure that your card of choice has one DVI port and one VGA port; most mid-range and up nVidia and ATI cards do. If you have 2 LCD displays, make sure that you have an adapter so that one of your displays can interface with the VGA port. If your current card doesn’t have dual head capabilities and you have an unoccupied PCI slot, you can purchase a very inexpensive nVidia card for your extra display.
+I absolutely rely on my multi-desktop configuration for my extreme multi-tasking needs. A dual desktop setup provides the extra space I need, and can be a frugal alternative to purchasing a massive wide screen display.
+
+

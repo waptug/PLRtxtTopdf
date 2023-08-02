@@ -1,0 +1,50 @@
+Title: 
+How Much Bandwidth Is Chewed Up By Voip??
+
+Word Count:
+566
+
+Summary:
+Let's talk turkey for a moment (or Vonage if you want to throw a pun into the discussion ha ha.).
+
+The age old question (OK recent topic of concern) among VoIP users and those whose bandwidth is used to make those calls is......how much bandwidth does VoIP use?
+
+Well Virginia....that's an interesting question. Any discussion may illicit potentially tense reactions. So let's try and shed some light on the subject....in a practical fashion.
+
+Bandwidth isn't measured like ...
+
+
+Keywords:
+VoIP, Bandwidth, Business VoIP, DS3, DS3 Circuit
+
+
+Article Body:
+Let's talk turkey for a moment (or Vonage if you want to throw a pun into the discussion ha ha.).
+
+The age old question (OK recent topic of concern) among VoIP users and those whose bandwidth is used to make those calls is......how much bandwidth does VoIP use?
+
+Well Virginia....that's an interesting question. Any discussion may illicit potentially tense reactions. So let's try and shed some light on the subject....in a practical fashion.
+
+Bandwidth isn't measured like it was a garden hose of water. ON and OFF, measuring it's usage. It can be read that way, but it isn't actually looked at that way. Not by most providers anyway. (Unless of course they are trying to rationalize prices to the FCC).
+
+For instance; as a business you may have numerous DS3/OC circuits that you pay for each month. A DS3 for instance rounded off is 45mb of pipe. Now, you pay the same thing for that circuit each month whether you put 1 voip line on it, or an entire network with hundreds of computers and such.
+
+Same with your VoIP. You pay the same amount on an unlimited calling plan whether you make 1 phone call or 1000 calls. To try and measure actual Mega or Terabytes of data as a means of determining cost is pure rationalization.
+
+Ma'Bell, Level 3, or any other backbone has "X" amount of bandwidth that they can use simultaneously. Some of that bandwidth is dedicated, some isn't. Some are using ATM so it can better utilize the bandwidth among inconsistant users, while there are also other flavors like Frame and TDM.
+
+The point is, while some providers and backbone and backhaul carriers might charge a metered circuit, most sell fixed amounts of bandwidth. That's why your ISP has little statements like; "UP TO 1.5MB" or "Speeds may Vary". Just because voip has started making a presence, doesn't mean that ISP's have had to automatically start buying more bandwidth from the backbone.
+
+If they tell you that, they are full of ......it. When DSL and cable broadband are sold to you, the max bandwidth that you are buying is formulated into their pricing and bandwidth demands.
+
+For what it's worth, more bandwidth was probably used, until recently, on streaming audio/video, torrent, MP3 downloads, distributed computing, etc. If your service provider gets too saturated, they will offer more bandwidth at a higher price, which is what they will use to buy from the backbone/backhaul providers.
+
+However when you have 10 people that are using the bandwidth (for VoIP) that would supply 50-100 average (internet using) joes..... not only is that causing more congestion at that junction box, but you are also causing the provider to buy more bandwidth.
+
+You know as well as I do they will not make another tier! They will just raise the prices on the ones already established. How many average people max out their connections on a regular basis?
+
+Anyway, the VoIP companies for the longest time have been getting pretty much a free ride on the PSTN and the ISPs.... plus were not subject to the same taxes MaBell is. So.... you can see why there is so much tension about bandwidth?
+
+If you'd like help find just the right VoIP based solution....covering all the bandwidth in's and out's.....I suggest you take advantage of the free consulting services offered at http://Business-VoIP-Solution.com.
+
+

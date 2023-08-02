@@ -1,0 +1,139 @@
+Title: 
+Cisco CCNA / CCNP Certification: How And Why To Build An Etherchannel
+
+Word Count:
+755
+
+Summary:
+Etherchannels are in use all over the world, as well as on your CCNA and CCNP exams.  Learn how to build and support an EC in this tutorial from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+ccna, pass, free, exam, icnd, intro, ccnp, etherchannel, switch, root, bridge, chris, bryant, ccie
+
+
+Article Body:
+CCNA and CCNP candidates are well-versed in Spanning-Tree Protocol, and one of the great things about STP is that it works well with little or no additional configuration. There is one situation where STP works against us just a bit while it prevents switching loops, and that is the situation where two switches have multiple physical connections.
+
+You would think that if you have two separate physical connections between two switches, twice as much data could be sent from one switch to the other than if there was only one connection. STP doesn't allow this by default, however in an effort to prevent switching loops from forming, one of the paths will be blocked. 
+
+SW1 and SW2 are connected via two separate physical connections, on ports fast0/11 and fast 0/12. As we can see here on SW1, only port 0/11 is actually forwarding traffic. STP has put the other port into blocking mode (BLK).
+
+
+SW1#show spanning vlan 10
+
+
+(some output removed for clarity)
+
+
+Interface Role Sts Cost Prio.Nbr Type
+
+
+Fa0/11    Root FWD 19 128.11 P2p
+
+Fa0/12    Altn BLK 19 128.12 P2p
+
+
+While STP is helping us by preventing switching loops, STP is also hurting us by preventing us from using a perfectly valid path between SW1 and SW2. We could literally double the bandwidth available between the two switches if we could use that path that is currently being blocked.
+
+The secret to using the currently blocked path is configuring an Etherchannel. An Etherchannel is simply a logical bundling of 2 - 8 physical connections between two Cisco switches.
+
+Configuring an Etherchannel is actually quite simple. Use the command "channel-group 1 mode on" on every port you want to be placed into the Etherchannel. Of course, this must be done on both switches if you configure an Etherchannel on one switch and don't do so on the correct ports on the other switch, the line protocol will go down and stay there.
+
+The beauty of an Etherchannel is that STP sees the Etherchannel as one connection. If any of the physical connections inside the Etherchannel go down, STP does not see this, and STP will not recalculate. While traffic flow between the two switches will obviously be slowed, the delay in transmission caused by an STP recalculation is avoided. An Etherchannel also allows us to use multiple physical connections at one time.
+
+Here's how to put these ports into an Etherchannel:
+
+SW1#conf t
+
+Enter configuration commands, one per line. End with CNTL/Z.
+
+SW1(config)#interface fast 0/11
+
+SW1(config-if)#channel-group 1 mode on
+
+Creating a port-channel interface Port-channel 1
+
+
+SW1(config-if)#interface fast 0/12
+
+SW1(config-if)#channel-group 1 mode on
+
+
+
+SW2#conf t
+
+Enter configuration commands, one per line. End with CNTL/Z.
+
+SW2(config)#int fast 0/11
+
+SW2(config-if)#channel-group 1 mode on
+
+SW2(config-if)#int fast 0/12
+
+SW2(config-if)#channel-group 1 mode on
+
+
+The command "show interface trunk" and "show spanning-tree vlan 10" will be used to verify the Etherchannel configuration. 
+
+
+SW2#show interface trunk (some output removed for clarity)
+
+
+Port Mode Encapsulation Status Native vlan
+
+Po1 desirable 802.1q trunking 1
+
+
+SW2#show spanning vlan 10 (some output removed for clarity)
+
+
+Interface Role Sts Cost Prio.Nbr Type
+
+
+Po1        Desg FWD 12    128.65 P2p
+
+
+Before configuring the Etherchannel, we saw individual ports here. Now we see "Po1", which stands for the interface "port-channel1". This is the logical interface created when an Etherchannel is built. We are now using both physical paths between the two switches at one time!
+
+That's one major benefit in action let's see another. Ordinarily, if the single open path between two trunking switches goes down, there is a significant delay while another valid path is opened - close to a minute in some situations. We will now shut down port 0/11 on SW2 and see the effect on the etherchannel.
+
+SW2#conf t
+
+Enter configuration commands, one per line. End with CNTL/Z.
+
+SW2(config)#int fast 0/11
+
+SW2(config-if)#shutdown
+
+3w0d: %LINK-5-CHANGED: Interface FastEthernet0/11, changed 
+state to administratively down
+
+
+SW2#show spanning vlan 10
+
+
+VLAN0010
+
+Spanning tree enabled protocol ieee
+
+Interface Role Sts Cost Prio.Nbr Type
+
+
+Po1        Desg FWD 19    128.65 P2p
+
+
+
+SW2#show interface trunk
+
+
+Port Mode Encapsulation    Status    Native vlan
+
+
+Po1 desirable 802.1q      trunking        1
+
+The Etherchannel did not go down! STP sees the Etherchannel as a single link therefore, as far as STP is concerned, nothing happened.
+
+Building an Etherchannel and knowing how it can benefit your network is an essential skill for CCNA and CCNP success, and it comes in very handy on the job as well. Make sure you are comfortable with building one before taking Cisco's exams!
+
+

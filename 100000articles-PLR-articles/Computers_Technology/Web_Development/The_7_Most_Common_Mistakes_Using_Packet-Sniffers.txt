@@ -1,0 +1,106 @@
+Title: 
+The 7 Most Common Mistakes Using Packet-Sniffers
+
+Word Count:
+1752
+
+Summary:
+This article is also covered in a "The Sniffer Guy" podcast--available at http://www.interpathtech.com --and--through iTunes.
+
+1) Believing the “Intelligence” of the Software without understanding how it makes determinations.
+
+Software default settings are very seldom correct for YOU. For example, a device may say that a SQL server should respond in 50ms. But, if that device is across a WAN with a 200ms ping time--that is highly unlikely. This causes false SLOW SQL messag...
+
+
+Keywords:
+sniffer,wireshark,protocol,analysis,troubleshooting,testing,performance,tcp/ip,diagram,,applications
+
+
+Article Body:
+This article is also covered in a "The Sniffer Guy" podcast--available at http://www.interpathtech.com --and--through iTunes.
+
+1) Believing the “Intelligence” of the Software without understanding how it makes determinations.
+
+Software default settings are very seldom correct for YOU. For example, a device may say that a SQL server should respond in 50ms. But, if that device is across a WAN with a 200ms ping time--that is highly unlikely. This causes false SLOW SQL messages. This is only an example, but there are many such alerts and messages based on default "thresholds" within this type of software tool's configuration.
+
+Particulars of your environment may create false alerts or other messages. The definitions of what is an “excessive” delay--latency--broadcasts, etc, are up to you--not the tool.
+
+It's important for you to know the default settings driving alerts and messages. Then, ignore or alter those alerts that are not set best--for your enterprise. Altering them to make the appropriate settings for your enterprise is the best strategy. Too many false flags or alerts numb you into ignoring important ones or--cause you to make serious errors and incorrect decisions that can be Very Very expensive.
+
+Properly used, those features can save enormous amounts of time and show things your own eye would likely miss.
+
+2) Not understanding the Protocols used, such as TCP, HTTP, etc.
+
+What good is a tool that tells you information about how a protocol is behaving if you do not understand the underlying technology? By this I mean the RFC's for the protocols that are relevent to your concerns.
+
+---What is the impact of various protocols working differently for the same application doing the same transaction--in different locations?
+
+---What is expected according to specs--and how is your trace file showing different--or less optimal behavior?
+
+---Why would there be 2 TCP connections from one location and 10 from another--for the same application doing the same transaction?
+
+This short article cannot answer all these questions--but it can show you the types of information that you will need to understand in order to make sense out of the data a trace file will show you. Know the protocols well. Deep understanding of TCP is the basic price of admission. While you may consider this a matter of skill sets, my point is that attempting to troubleshooting a problem with a packet-sniffer while not understanding the protocols is a mistake--and a common one. If you add this point to the first one listed--about not believing all the standard settings on tools--you find that the tool cannot answer anything for you by itself. You need to know what you are looking at. You are the analyst--the tool is just an aid.
+
+3) Not understanding the layer 1 and layer 2 aspects of the topology you are sniffing.
+
+Ethernet and all other topologies have many different specifications, which are altered or outright ignored by many switch or other network device manufactures. You must know the specs and how the hardware you are working with applies those specs--or doesn’t apply them. A classic example is Spanning Tree. There are IEEE specifications for Spanning-Tree but those specifications are just a model...not a law. Each manufacturer has tweaked it in order to create some proprietary advancement to give them a competitive advantage. Sometimes, those advances become the new spec. However, you need to know what is standard and how your equipment varies on that theme. What good is seeing the BPDU's in a trace file if you don't understand what they contain or how it relates to the problem at hand? Again, this may be looked at as a skill set issue but--expecting to solve critical problems with a packet-sniffer while not knowing this about your network is a mistake.
+
+4) Uni-directional SPANs or Port Mirroring & Single-sided trace files.
+
+Often the switch port used by a server you need to monitor is incapable of providing a bi-directional SPAN (Port Mirror). If so, you cannot get answers from such a trace as it will miss critical information. It can be an oversight by the Engineer doing the trace but sometimes it is simply not understood to be such a critical concern--and ignored. Either way, when you have a situation like this you need to bite the bullet and put in a Change Order to get it moved to a fully bi-directionally mirror-able port before any serious analysis can be done.
+
+Here is a good example of why this is so. Picture a Client and a Server. The Server wants to end a specific TCP connection and keeps sending FIN's. Yet, we never see the Client send back a FIN ACK. We do see other traffic between them and know that there is connectivity. So, here are the questions:
+
+--Are the FINs not arriving at the Client--or--is the Client receiving them and appropriately sending back the FIN ACK--which are not getting back successfully?
+
+----If so, then it is most likely a network issue.
+
+--Are the FINs arriving successfully--but being ignored by the Client?
+
+---If so, then it is mostly likely a Server or OS or Data Center issue.
+
+These questions can not be answered with a trace file that only sees one side of the conversation. Two traces, sychronized, are needed to determine the answer to these questions.
+
+5) Incorrect filters--either Capture or Display
+
+An important concept here is that filters add nothing--they only remove--they only filter out. When you say that you are "filtering for" what you mean is that you are "filtering out" everything else. This isn't just semantics as understanding this perspective is critical to success.
+
+Capture Filters:
+
+Capture Filters are irreversible. If you filtered out something that you need to see--you just aren't going to see it. There is no second chance without running the test again.
+
+Capture Filters determine what is allowed in the Capture Buffer. If the data is there to see--great. If you filtered what you need out--you can't change the filter after the fact. A very experienced Protocol Analyst may notice the problem by seeing anomalies that amount to the shadow of the missing data--but most will not be able to tell. And, of course, even if you can tell--you still have to re-test.
+
+This might lead you to think that you should not use Capture Filters--and that is half true. If you don't really need them--don't use them. However, if you are drinking your packets out of the Fire Hydrant--you have no choice. Under those conditions the data will fill up your Capture Buffer is less than a single second.
+
+Another point is that they should be consistent within a Test Design. If they vary too much, they will create false differences that can easily lead the Network and Application Performance Analyst or Protocol Analyst astray.
+
+Monitor Filters:
+
+Monitor Filters are forgiving. They work the same way--in that they filter out, not in. However, you can change your mind. The data is in the can (trace file) and it is only a matter of changing the filter to see what was filtered out the last time. Many times I am stumped and then have an idea--go back and change my Capture Filters--and bam! There is the answer. The point is--incorrect Monitor Filters will just as easily lead you astray--but you still have the opportunity to find your way back since the data is still there.
+
+Again, this might leave you thinking to avoid Monitor Filters. Don't even consider it. Removing irrelevant packets is required to properly measure distinct conversations and search for anomalies. In fact, understanding proper filtering is what using the packet-sniffer software is all about.
+
+6) Lack of understanding the Packet-Sniffer’s CURRENT settings
+
+Monday, you created a Capture Filter and left it as the default. Friday you need to capture a trace file and click on Capture. Various people perform their roles in the test and you save the trace file. Everyone goes home, back to their main job function or to bed. Then you look at it and discover that you didn't realize that the old Capture Filter was still in effect! Why? You altered the Default Capture File instead of creating a new one. Your Trace File is useless.
+
+Always remember to review ALL settings before beginning a test. Additionally, run a practice test to make sure all filters and setting are as they should be.
+
+Sometimes the error you discover is that you were given an incorrect IP address and that you never would find what you are looking for from the IP address from which you are capturing packets. That is a GOOD finding. It means someone's diagram is incorrect. It also means you prevented a useless round of testing.
+
+7) Lack of test controls.
+
+Like any proper experiment, a performance or application test requires a control group and controlled data for all groups. If it was a pharmaceutical test you might have a group with a placebo. In our field we need to create a "BESTline" first. A "Bestline" is not a baseline.
+
+Here is an example.
+
+You have a Client in Singapore and a Server in New York City. The client is Singapore takes 40 milliseconds to execute a transaction and European clients only need 30 milliseconds. Singapore, although farther away, has a faster connection and is expected to get it done in the same time as Europe. What now? Take a BESTline. Use a client in New York City running the same transaction in the same way on similar equipment on the same server as the other two tests. You may discover that it still takes 25 milliseconds! This may due to various issues in the Data Center, Server or PC itself, 25 milliseconds is the fastest it goes!
+
+This means that the first 25 milliseconds have nothing to do with the transport distance or speed. It DOESN'T mean that you have to accept those 25 milliseconds. There is a great deal that can be done about it. However, it is not the network and you now know you have to focus on the Server, PC, Data Center and other components.
+
+Such controls are easy to do--yet seldom done. That common error results in many false leads and false errors as well as lost time and money.
+
+There are many more common mistakes......but they are the topic of different articles on http://www.InterpathTech.com.
+
+

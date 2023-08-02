@@ -1,0 +1,79 @@
+Title: 
+8 Guidelines For Usability Testing
+
+Word Count:
+977
+
+Summary:
+Eight essential guidelines for usability testing, helping you to plan, run and analyse usability tests.
+
+
+Keywords:
+usability, accessibility, web usability, web credibility, web accessibility, css, website, accessible web design 
+
+
+Article Body:
+In professional web design circles, the usability testing session has become an essential component of any major project. Similar to focus groups in brand development and product launches, usability testing offers a rare opportunity to receive feedback from the very people the website is aimed at - before it's too late to do anything about it.
+
+But how can you get the most from these usability testing sessions?
+
+1. Choosing Your Subjects
+
+As with any market research project, the results will only be as good as the people you test. Do not test people from your own company, or friends and family. Go to a market research firm or temp agency and ask them to source participants to a certain profile. Make sure the market research firm does not provide the name of the company or any other details that will cloud the judgement of the participants.
+
+2. Before The Usability Testing
+
+As with everything in life, first impressions are vital. Each participant must be put at ease. Remember, the usability testing session is often an extremely artificial environment and, for the most beneficial and informative results, we want them to behave as if they were using the site at home or work.
+
+Provide clear instructions on how to get to the usability testing location, and if necessary meet the participants at local stations. Do not use terms such as ‘usability testing’ or ‘market research’, as these can confuse and put people on edge. Also, ensure that participants know how long the usability testing will take, and the type of tasks they will be expected to perform.
+
+After the initial greeting and welcoming drinks, there are always legal forms that must be signed. It is essential that these are written in plain English, and are as short as possible. The last thing any nervous usability testing subject wants is to be given a contract that looks like they're signing their soul away. All you want is for them to be reassured that the tests are completely confidential, and for permission to use the data generated during the test as part of our results. So tell them that.
+
+3. Beginning The Usability Testing
+
+Before diving into key tasks, get the user familiar with the environment. Tell them the website's name and URL, and ask them for initial feedback on what they would expect from the site or what they would like the site to be. Make note of any terms or phrases they use - this not only demonstrates you are taking their feedback seriously, but may provide useful tips as to possible labels for key functionality or navigation.
+
+Next, let them look at the website they are testing. Gauge their first impressions before allowing them to familiarise themselves with the site.
+
+These few simple tasks will help convince the participant that the usability testing will not be difficult and, perhaps most importantly, that they're not the ones being tested.
+
+4. Choosing Tasks
+
+Set tasks that are essential to the new site's success, such as:
+
+Buying products 
+Paying bills 
+Contacting the client 
+Remember, you're not looking for an ego massage. The site was built for a reason - can your target audience do what you need them to do?
+
+It's also a good idea to ask the user to suggest tasks. While this gives another indication of their expectations and requirements, it may suggest new functionality or priorities.
+
+5. How To Word Tasks
+
+People tend to perform more naturally if you provide them with scenarios rather than instructions. When giving them tasks, you should use phrases like ‘Scenario A has occurred, and you need to ring the company urgently - find the telephone number’. This is far better than ‘find the contact us section of the site’.
+
+6. Presenting Tasks
+
+Only give participants one task at a time. More than this may intimidate them, or alter their approach to the test.
+
+If the user is required to use inputs from outside the test (e.g. an email giving them a password to the site), give them these inputs in the form they will be presented. This will provide useful feedback on all elements of the process, rather than simply the site.
+
+7. How To Behave During The Usability Testing
+
+It's essential that you remember that it's the website that is being tested, not you or the subject. Any feedback you get is valuable - make sure the participant knows this. If they can't do something, make sure they know it's not their fault.
+
+You must stay quiet and out of sight during the test. You must not alter the test results by providing clues, suggesting directions or by reacting to things they say or do. All feedback you give must be neutral. Do not start shaking your head or huffing, however tempting it might be!
+
+The only time you should speak is to help the participant give an opinion, or to clarify a response. If in doubt, shut up!
+
+Given the investment made in the project, clients often find it difficult to be quiet during tests. If your client wants to be present, put them in another room with an audio/video link.
+
+8. After The Usability Testing
+
+After all the tasks have been completed, you should gather as much information as possible. Asking for overall impressions of the site will allow you to judge whether expectations have been met, and whether the participant's view of the client or site has changed during the process.
+
+Always ask for suggestions - this not only demonstrates the value you place on their thoughts, but may provide insights into how the site can better support the user.
+
+Finally, ask the participant what they remember about the site structure and functions of the site. Clear recollection will confirm that the site is structured logically and help identify any labelling issues you may have missed.
+
+

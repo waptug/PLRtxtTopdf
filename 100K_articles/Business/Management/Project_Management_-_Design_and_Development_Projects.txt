@@ -1,0 +1,32 @@
+Title: 
+Project Management - Design and Development Projects
+
+Word Count:
+553
+
+Summary:
+In this article in our series on Project Management, we’ll look at the Project Management skills and activities needed to manage a design and development project.
+
+
+Keywords:
+project management
+
+
+Article Body:
+There’s no getting away from it, design and development projects are a nightmare to manage successfully, particularly the development of software.  Nonetheless, in these days of customers requiring ever increasing functionality and ever more sophisticated technology, they are sometimes necessary.
+
+Your company almost certainly has procedures in place such as Make or Buy (do you design/build the item yourselves or do you sub-contract) and Design to Cost (you’ve estimated how much it will cost, now make sure that it doesn’t run over budget.  The Make/Buy procedure should have been used when compiling the bid and the advantages and disadvantages in terms of capability, price, programme and risk between procuring from internal or external sources analysed.  The availability of required technology should have been ascertained.  
+
+The Design to Cost process should also have been part of the programme from its inception through the bidding stage but it too should be reviewed at this stage.  If a significant cost/risk reduction can be achieved by changing your approach, it may well pay dividends in the end.
+
+There are a number of things to consider in respect to design.  Firstly, you don’t have to design from scratch.  It may be that there are two pieces of electronics out there already which will do the job that your project wants and all they need is a piece of software or hardware to make them talk to each other.  That is far preferable to designing the whole piece of kit from square one and far less risky.  Make sure that your engineering fraternity know this.    Bear in mind that, since you compiled your bid and did the initial technical assessment, technology may have moved on and something which didn’t exist then may well be on the market now.  It’s worth a little time and effort to review your design decision and confirm that it’s still a valid one.  
+
+Rule number one for the Project Manager is that he must never forget that engineers are just that.  They love to tinker and play, they love to solve technical problems and they will almost certainly be unaware of how long it’s taking or how much it’s costing.  As the Project Manager, you will have to keep a firm eye on what they’re doing as even your Technical Lead may get carried away with the excitement of an emerging new technology.
+
+If you really must design hardware, or heaven forbid, software, make sure that plenty of checks  and tests are built into your plan along the way.  It’s very easy to fall behind time on a design and development job.  
+
+Another important point is to liaise with your customer all along the way.  There’s no point finishing a stunningly clever design only to have your customer tell you that he forgot to say way back that your electronic gizmo needs to be operational in temperatures of 100 degrees Centigrade.
+
+In a nutshell, don’t reinvent the wheel, keep things as simple as possible and get customer approval as you go along.  Above all, as the Project Manager, the ultimate responsibility is yours, so don’t sit back and just let the techies get on with it - manage them.  This should ensure the smooth running of your design project.
+
+

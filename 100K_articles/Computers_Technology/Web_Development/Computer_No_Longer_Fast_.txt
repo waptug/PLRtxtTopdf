@@ -1,0 +1,42 @@
+Title: 
+Computer No Longer Fast?
+
+Word Count:
+648
+
+Summary:
+Ahh...Remember that first day you brought your computer home, plugged everything in, it was a beautiful site, it was fast, web pages loaded quickly and programs launched within seconds or faster. But after a few months or weeks things began to slow down, and you think oh man what a piece of *@&* this thing only lasted a month. Let's take a look at what happened.
+
+Disk Drive Clutter
+
+What you may not have realized is that in all that time you were surfing the net and downl...
+
+
+Keywords:
+
+
+
+Article Body:
+Ahh...Remember that first day you brought your computer home, plugged everything in, it was a beautiful site, it was fast, web pages loaded quickly and programs launched within seconds or faster. But after a few months or weeks things began to slow down, and you think oh man what a piece of *@&* this thing only lasted a month. Let's take a look at what happened.
+
+Disk Drive Clutter
+
+What you may not have realized is that in all that time you were surfing the net and downloading programs installing, and uninstalling software, is that in all that time junk has been building up on your hard drive, temporary internet files, software that you tried but did not like, but never bothered to uninstall, emails from friends and family, that are sitting in your inbox and sent items. All that junk is slowing down your computer.
+
+When you’re hard drive becomes cluttered it begins to slow down. Your computer performance is degraded substantially. The more files you have stored on your hard drive the more they get scattered and fragmented, which in turn slows down how fast programs respond to your clicks. Think about your hard drive as a huge filing cabinet, when all the files are neatly organized and labeled, it is easy to find what you are looking for, but take that same filing cabinet and dump it all over the ground, it well take longer to find that certain file or folder that you were looking for. A computers hard drive is the same way, as files become fragmented your computer takes more time to gather the correct files and execute your commands.
+
+In addition the more files you have fragmented the less space on your hard drive your computer has, resulting in less virtual memory. That open area or unused space on the hard drive is used as virtual memory by your computer, if you have limited free disk space for data swapping your computer will become sluggish and slow to respond to commands, so keep your hard drive clean and remove or uninstall any programs or files that you don’t need and you will see a marked difference in the way your computer performs.
+
+There are five major factors that contribute to a computers performance
+
+1. The type of processor you have in your computer. Not all processors are created equal. Budget brand or bargain brand processors such as the Intel Celeron or the AMD Duron are lower end processors. If you want a high performance computer stay away from the lower end processors.
+
+2. Along with processors type comes with the maximum available cache in a processor. The large cache a CPU has the less time it needs to access the computer memory.
+
+3. Front side bus, once again the larger or faster a computer front size bus is the better a computer will perform. The front side bus is what carries all the data between the CPU and all the devices on board the computers motherboard.
+
+4. Hard Drive, once again it comes down to speed, typically most home PC’s will have either a 5800rpm hard drive or a 7200rpm hard drive. The faster the hard drives spins the faster the CPU can access data on the hard drive.
+
+5. And finally memory. The quality and performance of computer memory or RAM has increase significantly the past couple of years. DDR RAM set in channels of the computers mother board has substantially increased the speed and performance of today’s computers. With that said, the more memory you have the better your computer will perform. However there is a point where too much memory becomes just a waste of money. If you are a gamer you can probably never have too much memory, but if you use your computer for web surfing and email, 256-512MB is plenty good on a Windows XP machine.
+
+

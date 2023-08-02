@@ -1,0 +1,24 @@
+Title: 
+Modifying Your Midi Composition Using A Sequencer
+
+Word Count:
+395
+
+Summary:
+Once you have recorded your musical composition onto a MIDI sequencer, what next? Well, you may have noticed some mistakes in your playing that you want to correct. Or you may want to change the composition to make it sound better. Or you may want to copy your composition into another file and gradually modify it until it becomes a whole new song and you have two compositions instead on just one. Whatever the reason, there are two ways that you can modify your original record...
+
+
+Keywords:
+MIDI sequencers, MIDI, home recording
+
+
+Article Body:
+Once you have recorded your musical composition onto a MIDI sequencer, what next? Well, you may have noticed some mistakes in your playing that you want to correct. Or you may want to change the composition to make it sound better. Or you may want to copy your composition into another file and gradually modify it until it becomes a whole new song and you have two compositions instead on just one. Whatever the reason, there are two ways that you can modify your original recording – real time or step-entering.
+
+Real time modification is just what it sounds like – you have the sequencer play back the composition and then fiddle with the controls to modify it as you please. When you get it the way you want it, you can overdub your original track or record the latest version of your Magnum Opus in another file. The advantage of this method is that – well, it’s just more fun that way, and you can get immediate real-time feedback on how various changes to the composition will make it sound. The disadvantage is that you have to have pretty good kinetic memory and eye-hand coordination in order to make your changes the way you want it – in other words, you have to be pretty good at playing your instrument live.
+
+If you don’t want to modify your composition in real time because your skill level isn’t high enough or because you want to make very complex or exacting modifications, then you can always proceed to “step-enter” your changes. If you have a software sequencer such as Reason, Cubase, Logic, etc., it will include a display board where the MIDI commands that make up your composition are displayed through the use of visual symbols (not the numerical MIDI messages themselves).
+
+Once familiar with the meanings of the various symbols on the display board, even Poindexter the Geek can produce a hip-sounding song, all without a drop of rhythm in his body. Step-entering is the most effective way to take a tune from your head and put it into a recording without having to depend on physical mediums such as kinetic memory, rhythm, and eye-hand coordination. It seems only fair, because today’s electronic music was made possible by nerdy scientific types who probably can’t dance to the music that their technological breakthroughs made possible.
+
+

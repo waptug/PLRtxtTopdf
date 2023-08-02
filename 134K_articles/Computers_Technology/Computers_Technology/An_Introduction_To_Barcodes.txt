@@ -1,0 +1,34 @@
+Title: 
+An Introduction To Barcodes
+
+Word Count:
+497
+
+Summary:
+Barcodes encode numeric or textual information in a printable, machine-readable form. The use of barcodes can significantly reduce cost of warehouse management and inventory. Two main forms of barcodes exist today: Linear or normal barcodes encode data over a horizontal stretch of space or one dimension. This kind of barcode typically encodes between four and forty digits or characters. So called area codes encode data in two dimensions, resulting in much higher density which...
+
+
+Keywords:
+barcode, business,software,computer,scanner,printer
+
+
+Article Body:
+Barcodes encode numeric or textual information in a printable, machine-readable form. The use of barcodes can significantly reduce cost of warehouse management and inventory. Two main forms of barcodes exist today: Linear or normal barcodes encode data over a horizontal stretch of space or one dimension. This kind of barcode typically encodes between four and forty digits or characters. So called area codes encode data in two dimensions, resulting in much higher density which allows for up to three thousand characters to be encoded.
+
+Most linear barcode types will only encode numbers or digits. Two notable exceptions are Code 39 and Code 128 which can also encode alphanumeric characters like letters. Two dimensional area codes usually encode numbers, letters and special characters.
+
+The most common linear barcode type is Code EAN which is used to encode article numbers in retail. It's used throughout the world with the notable exception of the USA which uses a related code, Code UPC, for the same purpose. A special form of Code EAN carries a so called Addon, a smaller barcode next to the main barcode that can encode pricing information and the like. Code EAN with a five digit Addon is used to encode ISBN (International Standard Book Number), while Code EAN with a two digit Addon is used to encode ISSN (International Standard Serials Number).
+
+Other notable linear barcode symbologies and their applications include Code 39 (used for pharmaceuticals), Code 128 (warehouse management and retail) and Code Two-Of-Five (warehouse management and inventory).
+
+The most common two dimensional area codes are PDF417 and Datamatrix, both of which are used in manufacturing, package tracking and similar applications which require large data amounts to be encoded.
+
+Barcode Checksums
+
+To ensure safe and error free reading and scanning of barcodes, all common barcode symbologies support so called checksum or check digit schemes. A checksum or check digit is an additional character or number that is calculated from the encoded data and appended to the barcode. While reading the barcode the scanner or reader can verify the checksum and determine if the barcode was scanned correctly. This is especially important if the barcode can easily be damaged or be tampered with. Simple check digit systems like the sort that is used with most linear barcodes will only detect simple errors, like a missing character. More sophisticated systems, especially those used with area barcodes can not only detect but also repair any damage that may have occurred to the code.
+
+Barcode Applications
+
+Today barcodes enjoy wide spread use through all types of businesses. The first major application of barcodes was in the retail sector where the codes would encode article numbers, manufacturer data and pricing. Another prominent use of barcodes is in the transport industry where the codes carry address and tracking information. Finally, two dimensional area codes have recently gained much popularity for use in personal identity cards, drivers licenses and so forth. They are also used for the tagging of electronic parts like computer or memory chips.
+
+

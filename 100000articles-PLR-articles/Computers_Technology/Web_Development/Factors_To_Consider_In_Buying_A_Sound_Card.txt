@@ -1,0 +1,54 @@
+Title: 
+Factors To Consider In Buying A Sound Card
+
+Word Count:
+546
+
+Summary:
+Computers are stepping in the multimedia entertainment zone more and more each year. They have begun to take over from the video player, the stereo, the karaoke machine and the television.
+
+The motherboard of a computer comes with a basic sound component but because of the nature of the tasks involved these computers need higher quality components when it comes to sound and video cards.
+
+Digital format
+
+Before the eighties all audio was analog but with the advent of CDs...
+
+
+Keywords:
+computers, computing, sound cards, hardwares
+
+
+Article Body:
+Computers are stepping in the multimedia entertainment zone more and more each year. They have begun to take over from the video player, the stereo, the karaoke machine and the television.
+
+The motherboard of a computer comes with a basic sound component but because of the nature of the tasks involved these computers need higher quality components when it comes to sound and video cards.
+
+Digital format
+
+Before the eighties all audio was analog but with the advent of CDs on the market, the digital format began to take over. All information from a computer is digital including the audio. In order to hear a song it must be changed into an analog signal. Although there are attempts to improve the quality, the digital format has gaps in its information due to conversion.
+
+An average CD contains 44.1 KHZ per 16 bits. That is every analog signal makes up one step and there are 44100 steps every second. The steps are given a number. This number ranges up to 16 bits (65536). A DVD has about 96khz at 16 bits and a DVD audio has 192 khz at 24 bits.
+
+The digital audio is changed into analog using the Digital Audio Converter or DAC
+
+The quality of the DAC is one of the determining factors when buying a sound card.
+
+Types of Audio Cards
+
+The motherboard has a sound processor called the AC 97. It can support a DVD at 96 kHz, 16 bits six channels but the quality is lacking. The sound is noisy and cannot support more complex applications.
+
+It is better to get an external sound card that can be inserted into a PCI slot on the motherboard. The card you select will depend on the function it serves. If you want to watch DVD’s a basic card will suffice. If you are looking for something that will help you record music, or add a microphone you will probably need something more sophisticated and if you are a professional musician or video editor it would be best to get a card with multitrack recording and high sound quality.
+
+What to look for
+
+Take a look at the specifications of a sound card to find more about its quality. One number to take not of is the S/N or signal to noise ratio. This is the ratio between the audio sounds versus the background noise in a room. The higher this ratio is, the better the sound card quality. This number is measured in decibels (db). A db of 90 is good and for the professional it should be more than 100db.
+
+The number of channels a sound card supports can be important. They can come in configurations of 5.1, 6.1, and 7.1. The first number indicates the number of satellite speakers you can place near the computer and the .1 is the subwoofer channel which is for low frequency sounds.
+
+For those who are looking at professional grade sound cards, the input amount is important. A basic sound card has one for each stereo pair but a professional sound card will allow for ten.
+
+Price
+
+Prices vary; you can get a poor quality basic card for ten dollars. Most of the better cards are at least fifty dollars and if you are a professional the cards you are looking for can be four hundred dollars or more.
+
+

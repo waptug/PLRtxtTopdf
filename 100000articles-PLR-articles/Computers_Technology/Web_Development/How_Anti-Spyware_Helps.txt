@@ -1,0 +1,46 @@
+Title: 
+How Anti-Spyware Helps
+
+Word Count:
+501
+
+Summary:
+If your computer is behaving oddly, is slowing down, gets hung up in the middle of your work, or is bedeviled with “pop-ups,” then it is probably infected with spyware.
+
+Spyware gets into your computer due to due to something you have done, like clicking a button on a pop-up window, or installing free games, programs or software.
+
+It’s estimated that anywhere from twenty to fifty percent of online network traffic is accomplished by spyware.
+
+In fact, on eighty percent o...
+
+
+Keywords:
+
+
+
+Article Body:
+If your computer is behaving oddly, is slowing down, gets hung up in the middle of your work, or is bedeviled with “pop-ups,” then it is probably infected with spyware.
+
+Spyware gets into your computer due to due to something you have done, like clicking a button on a pop-up window, or installing free games, programs or software.
+
+It’s estimated that anywhere from twenty to fifty percent of online network traffic is accomplished by spyware.
+
+In fact, on eighty percent of all corporate systems networks incorporate ad-ware; fifteen percent of these networks have system monitoring software running in the background.
+
+There are lots of applications for the removal of spyware and for spyware detection, like Spybot, Ad-aware, and Microsoft Anti-Spyware. These provide vigorous detect+J9ion and protection from spy-ware as well as internet cookie identification (which then lets you know where the cookies came from).
+
+A good anti-spyware program should have the following:
+
+1. Definition updates. This tool lets the user download updates to their anti-spyware in order to further protect their computer as new spyware is developed.
+
+2. Real-time monitoring. This is similar to the anti-virus “real-time scanner.” That means the anti-spyware software runs continuously in the background – even when you’re busy working on other projects on your computer. When a malicious program is found trying to install spyware on your computer, the real-time monitoring is always ready to react to it. This is a feature usually available only on paid versions of anti-spyware.
+
+3. “Restore browser settings.” While you have to be adept at digging around in the advanced settings or advanced tool menu of your computer in order to find it, most anti-spyware have an option that can re-set the setting of their web-browser if you’ve been the victim of “browser hijacking.” You must, however, be able to quickly restore the browser to its previous home page, or to reestablish the factory defaults.
+
+4. Safe removal and rollback. An anti-spyware shouldn’t just remove spyware, it should be able to do so in a safe manner. It would be useless to remove spyware and find an empty blue-screen the next time you turn on your computer. All spyware should be able to be removed without damage to your computer. Some anti-spyware, however, may be too vigilant. Your program should not leave you without a way to restore your computer to its original state. This might mean the spyware will still be there, but at least you won’t lose your important files.
+
+Most programs don’t find it necessary to be that aggressive. There are lots of programs out there that do a good job. Such programs examine the contents of the “operating system file” in the Windows registry. Then they eliminate files and entries that correspond to their list of identified spyware.
+
+So before you go browsing through the internet, always make it a point to install anti-spyware programs. They offer so many advantages that help you fight against and defend yourself from upsetting and annoying spyware.
+
+

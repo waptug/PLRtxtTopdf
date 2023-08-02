@@ -1,0 +1,24 @@
+Title: 
+Cisco CCNA Exam Tutorial:  CCNA Recertification Requirements
+
+Word Count:
+319
+
+Summary:
+Once you earn your CCNA, you have to know how to keep it! Learn the latest recertification requirements from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccna, exam, tutorial, recertify, how, recertification, ccnp, bsci, ccie, cisco, router, switch
+
+
+Article Body:
+Passing the CCNA exam and earning this coveted Cisco certification is an important step in your career, but it's not the end of your responsibilities as a CCNA! When you work with computer networks, you've got to be continually learning and staying up on the latest technologies and changes in the field. Part of this responsibility is keeping your CCNA current by meeting Cisco's recertification requirements.
+
+Cisco requires CCNAs to recertify once every three years. While most CCNAs will move on to the CCNP in that time, if you choose not to you must meet certain requirements in order to keep your CCNA valid. Cisco does this to ensure that CCNAs keep their networking knowledge current, which in turn helps the CCNA certification valuable. And that's exactly what you want, since you worked so hard to earn your certification in the first place!
+
+As of March 2006, there are five different options for recertifying as a CCNA. You can take and pass any of the following exams to renew your CCNA - the CCNA exam itself, the ICND exam, any 642 series exam, any Cisco Qualiied Specialist exam (except the Sales Specialist exams - those don't count!), or any CCIE Written Qualification exam.
+
+With all these options, there's an option that's just right for you. Whether you just want to renew your CCNA or pursue a Specialist, CCNP, or CCIE certification, you can easily renew your CCNA along the way. Just don't forget that keeping up with Cisco's latest recertification requirements is your responsibility, and that's easy to do - just visit Cisco's "Learning And Events" section on their website. Cisco will tell you what you need to do to keep your certification, but it's up to you to keep up with certification program changes!  Once your certification expires, it’s gone, so get in the habit of visiting Cisco’s website to make sure you’re up to date on important recertification requirements.
+
+

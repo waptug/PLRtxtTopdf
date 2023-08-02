@@ -1,0 +1,50 @@
+Title: 
+A must-know about computer and internet glossary
+
+Word Count:
+595
+
+Summary:
+computer lingo
+
+
+Keywords:
+internet marketing strategy
+
+
+Article Body:
+Computer-related things tend to have a language all their own. While you do not need to know all of it, there are many confusing words and phrases that you are going to come across sooner or later. 
+
+Bandwidth. Bandwidth is the amount of data that your website can send each second, as well as the amount of data that the visitor to your website can receive. If either one does not have enough bandwidth, then the website will appear slowly. 
+
+For this reason, you should choose a host with plenty of bandwidth, as well as testing that your site doesn't take too long to download on slow connections.
+
+Browser. A browser is the software (see below) that visitors to your site use to view it. The most popular browser is Microsoft's Internet Explorer, which comes with Windows.
+
+Cookie. Cookies are data files that your site can save on the computer of someone who visits that site, to allow it to remember who they are if they return. 
+
+FTP. File Transfer Protocol. This is a common method of uploading (see below) files to your website.
+Javascript. A common language for writing 'scripts' on websites, which are small programs that make the site more interactive. Another common cause of problems for visitors.
+
+JPEG. Joint Photographic Experts Group. This is the name of the most popular format for pictures on the web, named after the group that came up with it. If you want to put pictures on your website, you should save them as JPEGs.
+
+Hardware. Hardware is computer equipment that physically exists. It is the opposite of software.
+Hosting. If you've got a website out there on the Internet, then you'll be paying someone for hosting. It is the service of making your site available for people to see.
+
+HTML. HyperText Markup Language. A kind of code used to indicate how web pages should be displayed, using a system of small 'tags'. The 'b' tag, for example, causes text to appear in bold, and the 'img' tag displays a picture.
+
+Hyperlink. A hyperlink is when a piece of text on a website can be clicked to take you to another site, or another page on the same site. For example, if clicking your email address on your website allows someone to email you, then your email address is a hyperlink.
+
+Programming. This is when the computer is given instructions to tell it what to do, using one of many 'programming languages'. Programming languages for the web include PHP and Perl.
+
+Server. The server is where your website is stored, and it is the server that people are connecting to when they visit the site. Note that server refers both to the hardware and software of this system.
+
+Software. Programs that run on the computer, or that make your website work. Microsoft Word is software, for example, as is Apache (the most popular web server software). Opposite of hardware.
+
+Spider. Do not be scared if a spider visits your website! Spiders are simply programs used by search engines to scan your site and help them decide where it should appear when people search. It is good to be visited by spiders, as it means you should start appearing in search engines soon.
+
+Upload. Uploading is when you transfer data from your own computer to your website. For example, you might upload your logo, or an article you've written. Opposite of download.
+
+URL. Uniform Resource Locator. This is just a short way of saying 'web address', meaning what you have to type in to get to your website.
+
+

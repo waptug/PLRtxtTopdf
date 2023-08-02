@@ -1,0 +1,43 @@
+Title: 
+Do you know how to search and find what you want?
+
+Word Count:
+803
+
+Summary:
+Searching the web and finding the results you are looking for is sometimes a difficult task.  A lot of people search using just two or three keywords, which sometimes does not yield the results you are looking for.
+
+
+Keywords:
+searching, internet, search engine optimization
+
+
+Article Body:
+Recently after designing a website for my family and showing them what terms our website comes under in the search engines, I noticed they don't really know how to search to find what they want. These are people I thought were pretty computer literate, as they have had a computer as long as I can remember. If my family doesn't know how to search I am sure there are many other people out there too, who don't know how to search. Even if you are computer literate, this article will still be beneficial to you as you need to know how to find what you want on the Internet.  As you know some of the results are not always what you are looking for. 
+
+I recently read a newsletter I had received which had some interesting statistics.  Did you know that when a searcher does not find the information they are looking for they believe their keywords are wrong?  After you read this article you will be able to find what you want unless it doesn't exist and chances of that are rare.
+
+<b>How to search within a website</b>
+For the remainder of this article we are going to be using Google as an example.  Let's say we are looking at the site www.imaginarysite.com and we want to  find what pages have the word "financial" on it. You would type in  Google:  financial site: www.imaginarysite.com and it would return all the results within  www.imaginarysite.com . This would be useful if the website you were looking at did not have a search option.
+
+
+<b>Finding sites that link to yours or another website</b>
+Finding sites that link to your website or a competitors website is an interesting tool.  Sometimes the websites linking to your competitors will link to your website also.  To search for links you must type link: imaginarysite.com. This will give you the results of all websites with links to your website that have been indexed by Google.  If they have not been indexed those websites will not be listed.
+
+<b>Finding definitions</b>
+This is an interesting type of search.  For example you may be reading a website on marketing and  keep seeing the term blog. You have absolutely no idea what a blog is.  To find out in Google you would then type define: blog. The best use for this search is with technical terms that you might not know. 
+
+
+<b>Finding exact words</b>
+To find exact words that are in that order or grouped together, use quotation marks, for example "website design" or "purple monkey habits". Personally I find this search the best tools of all.  A good use is when searching for articles and I am searching to see how many websites have my article. I would search "search engine basics" (which is the title of the article) and because there are a ton of websites with those three words together, I would add Alicia at the end without the quotation marks. Try it and see what shows up. This is especially useful to find more specific results.
+
+<b>Finding sites with a keyword in the address</b>
+To find keywords that are in the url (website address), for example type allinurl:webdesign ; another example would be allinurl:web design. Each example would give you different results. The first example would yield results with webdesign (as one word) in the website address. The second will give you results with web design (with a space between the two words). This search would be especially useful if you were looking for the salon named Pink Lime but, you can only remember that it has pink in the name and that it is a salon. You would enter allinurl:pink, salon, which would return all results with pink in the url and also with the word salon.
+
+
+<b>Finding your keyword and corresponding synonyms </b>
+Use the "~" sign which can be found on your keyboard, you just have to look for it. It can usually be found on the left of the 1 key on your keyboard. It is called the tilde sign.  An example would be if you typed ~holistic coach. The results would include holistic coach, natural coach, massage coach and some others.
+
+Searching the web and finding the results you are looking for is sometimes a difficult task.  A lot of people search using just two or three keywords, which sometimes does not yield the results you are looking for. The best practice is to search using a couple of keywords and if that does not give you the results you are looking for, try adding another keyword after that until you really get the results you are looking for without having to search through pages of search results.
+
+

@@ -1,0 +1,28 @@
+Title: 
+Understanding Sleep And Hibernate Power Settings On Your Computer
+
+Word Count:
+359
+
+Summary:
+New computers come with two new power settings that may be unfamiliar to many people. The settings known as “sleep” and “hibernate” may sound fun and playful but can actually be powerful tools to extend the life of your computer, give your laptop a longer battery life, and waste less energy. Let’s take a look at how to get the most use out of these new settings.
+
+Let’s say you’re going to lunch, a meeting, or going to run some errands, but will be coming back to use your co...
+
+
+Keywords:
+computers, laptops, noteboks, tablet pc
+
+
+Article Body:
+New computers come with two new power settings that may be unfamiliar to many people. The settings known as “sleep” and “hibernate” may sound fun and playful but can actually be powerful tools to extend the life of your computer, give your laptop a longer battery life, and waste less energy. Let’s take a look at how to get the most use out of these new settings.
+
+Let’s say you’re going to lunch, a meeting, or going to run some errands, but will be coming back to use your computer in a few hours. You might want to turn your computer off so it doesn’t waste electricity, but your “computer guy” (or girl) told you it’s dangerous to turn your computer on and off all the time, so what do you do? This would be a perfect time to use the “sleep mode” on your computer. When you tell your computer to go to sleep, it turns off the monitor, stops the disk drives and saves its current state into memory. When you return, just touch your mouse or keyboard and your computer quickly wakes up, and you’re exactly where you left off.
+
+What if you’re going to be away from your computer for a longer period of time but will be coming back relatively soon? This is when you should use the hibernate mode. Think of hibernate is a deeper state of sleep. In hibernate mode your monitor is shut off, hard disks are stopped and your state is saved. A major difference between sleep and hibernate is power consumption. In sleep mode your computer is in a very low power state, and can wake up quickly. In hibernate mode your computer isn’t using any power so it takes longer to warm up.
+
+Some other tips you should keep in mind are always save your existing work before going into sleep or hibernate modes. Occasionally the computer will fail to wake up and you will lose any unsaved data. Laptop owners should also remember sleep uses power and will eventually drain the battery.
+
+© Copyright TabletPC.6LN.com, All Rights Reserved.
+
+

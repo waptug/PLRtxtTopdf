@@ -1,0 +1,48 @@
+Title: 
+Windows Vista - Which Version Do You Need?
+
+Word Count:
+534
+
+Summary:
+After deciding to shift to a Windows Vista OS, you need to decide on which Windows Vista version you should pick.
+
+
+Keywords:
+windows vista,vista,operating system,os,microsoft,windows
+
+
+Article Body:
+After deciding to shift to a Windows Vista OS, you need to decide on which Windows Vista version you should pick.  Before you consider shelling out $400 for a Windows Vista Ultimate license, you really should ask yourself exactly what features you need and want so you can decide whether the price is right.
+
+Windows Vista Home Basic
+
+This is the most rudimentary version of Vista available.  It has the more secure IE 7, the firewall, the quick search functionality, and easier connectivity.  When it comes to the features that distinguish Vista from previous versions of the Windows OS, though, Home Basic is somewhat lacking, though it does offer parental control.
+
+Windows Vista Home Basic is a good choice only if you use your computer solely for web surfing and basic document processing, or if your computer is just barely powerful enough to run Windows Vista.
+
+Windows Vista Home Premium
+
+For an extra $40, you can get much more out of Windows Vista.  Aside from including all the features of the Home Basic version, Home Premium offers all of the window-dressing that makes Vista look like Vista.  You will have pre-packaged games and Aero interface capability. Aero gives your windows and icons a 3D appearance and smoother transitions, as well as allowing you to add transparency effects to window borders.  Home Premium offers tablet PC functionality, document collaboration, and scheduled backups.  Home Premium also offers the fully integrated Windows Media Center for all your home entertainment needs, plus a moviemaker which is HD format-capable.
+
+Windows Vista Home Premium is designed for the user who uses the computer for PC and network gaming, since Premium supports DirectX 10, with its advanced graphics technologies incredible graphics rendering.  Premium is also designed for watching High Definition movie, editing/making video clips, burning DVD copies, and interfacing with the Xbox 360, which Home Premium edition automatically detects to allow for Video, Audio, and Picture sharing.
+
+Windows Vista Business
+
+Windows Vista Business drops Parental controls, Media Center features, and pre-installed games for obvious reasons.  Vista Business does have the rest of the Home Premium features plus support for business applications and business data security (fax, remote desktop connectivity, file encryption, and complete shadow incremental backup).  This version of Windows Vista is, as the name implies, strictly for business purposes.
+
+Windows Vista Enterprise
+
+Windows Vista Enterprise adds Microsoft’s BitLocker encryption technology to the feature set found in Windows Vista Business, but this version of Windows is only offered to businesses participating in Microsoft’s Software Assurance program.
+
+Windows Vista Ultimate
+
+This edition has everything that is included in the Home Premium and Business editions.  Vista Ultimate also adds Enterprise’s BitLocker encryption technology for the computer’s hard drives, protecting the drives so that only authorized users can boot up the OS or view the files contained in the drives.
+
+Because of its full complement of features, Vista Ultimate is perfect for people who use the PC for fun and business in equal parts, as well as users who want to be protected from data loss and PC theft.
+
+This article may be republished freely as long as this copyright notice and box of resource links are included at the bottom.
+
+Copyright © 2007 MALIBAL, lLc
+
+

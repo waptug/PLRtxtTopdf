@@ -1,0 +1,24 @@
+Title: 
+Things You Need To Know About The 404 Error Message.
+
+Word Count:
+422
+
+Summary:
+Anyone who uses a computer on a regular basis has been faced with a 404 error message. This irritating little obstacle to our research or fun-search activities can be a bit of an irritation for most of us. The 404 error message commonly appears when we request a URL that the server does not have. For some reason, the server chooses to simply flash a 404 error message rather than providing us with the information that we need. All we know from the information provided is that ...
+
+
+Keywords:
+404 error message
+
+
+Article Body:
+Anyone who uses a computer on a regular basis has been faced with a 404 error message. This irritating little obstacle to our research or fun-search activities can be a bit of an irritation for most of us. The 404 error message commonly appears when we request a URL that the server does not have. For some reason, the server chooses to simply flash a 404 error message rather than providing us with the information that we need. All we know from the information provided is that the page has not been found. This is usually a default message that most Web servers return when someone requests a URL that the server does not have. This is not to suggest that the URL does not exist.
+
+The 404 error message is in violation to basic rules for error messages in general, according to some of its critics. The critics suggest that the 404 error message needs to be written in layman’s terms so anyone who reads it understands exactly what has happened. Every time I have gotten one, I immediately thought that I made a mistake. Of course, the first thing we do when we make a mistake is re-enter the information just to be faced with another 404 error message. We may try again and again until we reach the number of entering the same information over and over again that makes us realize that it may not be entirely our fault.
+
+Unfortunately, we usually check one more time just to be sure. The next step is to blame our source of information. We double check our source to make sure that we were given the right URL only to see that we were right. Filled with self-doubt, we go right back on to the server and enter the same URL again just to find a 404 error message staring right back at us.
+
+We do all of this simply because the server broke a very important rule They need to make the error message clear as day for anyone using the server, not just the technically-savvy individuals who know not to waste time entering and re-entering the same URL over and over again. Sometimes it is the user’s fault but there is no way of knowing this through the 404 error message. The second rule the servers break is not specifying what the user has done wrong. The vague information usually leaves the server confused and irritated. It is annoying when you know that there is something wrong but you don’t know what it is.
+
+

@@ -1,0 +1,29 @@
+Title: 
+How to Make a Web Site of Your Own?
+
+Word Count:
+443
+
+Summary:
+Advice on how to build a web site on your own or using online website builders. Creating your own free web pages in basic HTML language is as easy as possible that you understand basic knowledge of HTML.
+
+
+Keywords:
+website design, web programming, programming languages, web development, ASP, PHP, dynamic database oriented, search engine optimization
+
+
+Article Body:
+Now a day the business is not only restricted within one area. Because of today is on demand of online internet market. If you are interested in business you acquire an online market. The website you have is online shop. Before you launch a new product in the market, you require updating it with a new content on your website.
+
+There are many templates online to create your page. You can use free HTML templates and fill the content you want to in. Also many free java scripts, images, web programming codes and other graphics are available on the internet. You can buy a domain from the hosting company or temporary go for free domain.
+
+Now you can start simple design pages using Dream Weaver after downloading templates into your PC and also you can make basic contact or inquiry Form using downloading script for developing page. Once you have upload pages on your server. Go for instruction which is given by hosting company to you. So these are the main and easy step to build a website. But if you have need more advance web programming details then better way is to learn about course like PHP or ASP.NET.
+
+We are defining here two standard web programming language PHP (Hyper text processor) and ASP (Active Server Page) for Website Programming Development. Basically it is database driven web programming languages. Whenever you require huge data connectivity and extra features PHP and ASP are useful. ASP.NET is such type of programming language which providing by Microsoft Product Technology. On other hand PHP is an open source programming language which is derived from many of various languages.
+
+To develop dynamic database oriented websites these both programming languages are used. Microsoft Product mostly comfortable with Active Server Pages (ASP) and is also used IIS Server (Internet Information Server) to run asp application. But PHP can connect with different types of databases and so it is platform independent programming language.
+Both web programming languages PHP and ASP are used to develop dynamic database oriented websites. Active Server Pages (ASP) is normally from Microsoft and is used only with Internet Information Server (IIS) that runs on Microsoft Servers also. But on the other hand you can say PHP is platform independent web programming languages and can connect with several kinds of databases.
+
+And the last if possible, with some optimization to your website for top ranking on the search engines so people can reach you as fast as you aspect. Finally we hope that this article will help you to understand of basic idea of how to make simple web site it’s your own way.
+
+

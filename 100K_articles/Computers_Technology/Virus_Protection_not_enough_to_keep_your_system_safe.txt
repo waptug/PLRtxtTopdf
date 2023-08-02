@@ -1,0 +1,34 @@
+Title: 
+Virus Protection not enough to keep your system safe
+
+Word Count:
+541
+
+Summary:
+Many people believe that they are protected because they have anti-virus protection.  Sadly, this is not the case.  There are many threats that your anti-virus software will not protect you against.  If you are surfing the Internet with just anti-virus protection then you may already have malicious programs running in your computer ‘background’, unknown to you and doing irreparable harm.
+
+
+Keywords:
+spyware, malware, virus protection, adaware, spybot, anti virus, spy code
+
+
+Article Body:
+The Internet is a dangerous place for people as well as computer systems.  Every day there is a new threat that seeks to do harm to your computer and the information contained within your hard drive.  
+
+Many people believe that they are protected because they have anti-virus protection.  Sadly, this is not the case.  There are many threats that your anti-virus software will not protect you against.  If you are surfing the Internet with just anti-virus protection then you may already have malicious programs running in your computer ‘background’, unknown to you and doing irreparable harm.
+
+These programs are more commonly referred to as spyware.  Spyware is similar in nature to a computer virus in that they both infiltrate and affect system resources and often times both are hard to detect.  The main reason that anti-virus does not protect against such threats is because spyware does not appear to be malicious.  Often times spyware is disguised as something as harmless as a computer cookie.  Once it is logged into your system a whole host of problems can occur.  
+
+By its very name, spyware is used to spy on your computer system. This gives whoever created the code a chance to access all of the confidential data that is stored on your hard drive, like passwords, financial data, and personal identification items.  Hackers can also use spyware to hijack your computer system and use your accounts for illegal activities such as sending spam mails from your email account, or worse-stealing credit card information.  Of course this is all happening right under your nose because your anti-virus protection software was never meant to catch this new kind of code.  
+
+People often ask how they can avoid getting spyware.  The simple answer is there is no way to keep from getting spyware, absent setting your browser security options to a very high level, but there is a way to remove it from your system before it does any damage.  
+
+You will need to purchase and use spyware removal software.  This is the only effective method to protect yourself and your computer from the malicious content that is found on the web.  A spyware removal program acts as a sweeper, and ultimately a protector by destroying the spyware code found on your drives.  It is as simple as that.
+
+The best course of action that one should take is to run the spyware removal software after each session on the web, or weekly if that is to much of a burden.  There is no way to avoid all of the potential threats that are on the net these days.  Even if you visit only reputable sites that you have visited before you still run a high risk of getting spyware.  Most often, a webmaster has no idea that his site is being used to distribute spyware.  Producers of the spyware code are getting smarter everyday, and they’re learning to cover their tracks well.
+
+The only way to protect yourself is with this knowledge and a great spyware removal program.
+If you need the very best in spyware removal then visit http://spyware-removal.thrcomputer.com
+Here you will be provided with the best spyware removal program that is currently available on the market, hands down.
+
+

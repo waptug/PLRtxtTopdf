@@ -1,0 +1,62 @@
+Title: 
+Your Small Business Web Site
+
+Word Count:
+1040
+
+Summary:
+A web site is a crucial ingredient of your marketing strategy because it can widen your target market to include anyone who has access to a computer and the internet.  So, how can you reach some of those internet surfers, and how can you capture some of the billions spent in ecommerce?
+
+
+Keywords:
+small business web site, small business website
+
+
+Article Body:
+A web site is a crucial ingredient of your marketing strategy because it can widen your target market to include anyone who has access to a computer and the internet.    Almost 60% of Canadians had access to the internet at home in 2003, and around 8 million had regular access to the internet from somewhere, either at home, at work or at school.    
+
+And that’s just in Canada.  Ecommerce sales from Canada were $7.2 billion, and we only captured 4% of the global ecommerce market!    So, how can you reach some of those internet surfers, and how can you capture some of that $7.2 billion spent in ecommerce?
+
+First, you build it
+The first step is designing your website.  If your company already has business cards and letterhead, it’s best to design your website around them.  A matching corporate identity and website helps with branding.  
+
+I like uncomplicated websites, with a simple layout and easy navigation.  A nice, simple layout, with good graphics, balanced look and good color combinations is my #1 goal when designing a small business web site. Remember to use graphics sparingly and to optimize them for your website because internet surfers are impatient.  If your page loads too slowly, they’ll leave.
+
+Navigation should be easy to find and to use, and it should be consistent from page to page.  I’ve left more than one site frustrated because I couldn’t easily find their navigation.  
+
+Small business web sites aren’t static.  They evolve.  You need to start somewhere, and starting with an introductory web site is probably easiest.  All you really need to start is five pages.  You can always add pages later.  The important thing is to just do it—take the plunge and get it out there.
+
+Your five pages could include an index, or home page, about us, services, contact and a sitemap.  The index page is your landing page.  Typically its design is a little more detailed than the others, but it doesn’t have to be that way.  
+
+I like to use CSS (cascading style sheets) for designing because it’s simply easier to build a web site and to edit its layout with CSS rather than just HTML (hypertext markup language) alone.  A change on a CSS sheet changes all the pages on your site at once.
+
+Content is king
+Once your site is designed, you’ll want to start thinking about content.  Design is very important, but it does little good to have a beautiful site without high-quality content.  
+
+Your small business home page introduces you and your company—who you are and what you do.  The about us page is usually used to give more detail than the home page about who you are, and your services page gives more detail about what you do.  You might wonder why you’d “waste” a page on a sitemap since you only have 5 pages, but sitemaps help search engines find all the pages in your site.  
+
+As far as content goes, more is better, up to a point.  Your pages should be content rich and informative, but they also need to be relevant to your small business.  If your visitor can’t figure out what your web site is about in just a few seconds, they may leave.  
+
+The internet was at first strictly informational, and that’s how it remains today.  Several times people have tried experiments using copywriting similar to direct mail sales letters, but they’ve all failed.  It seems as if people surf the internet more for information than anything else.  Knowing this will help you write pages people will want to read.  
+
+Attracting visitors
+You could follow your instinct and just start writing, but wait.  There’s research you must do first, or your web site simply won’t be high enough in searches to be found.  Search engine optimization is far too big a subject to cover in this short article, but among other things, search engines find your pages based on keywords.  
+
+So, pretend for a moment that you’re on the other side of the desk.  If you were a customer of your own business, what words or phrases would you use to search for your product or service?  Ask friends and neighbors how they’d search for your product or services.  
+
+When you’ve come up with a few, check them out on a keyword suggestions tool.  You can also use that tool to suggest similar words and phrases.  Then find out how many results there would be if you searched for that term.  What you want to do next is narrow down your choices to the words or phrases that are searched for the most, but have the fewest results.	 
+
+Remember that people generally don’t look beyond the first three pages for any search term, so if you’re not in the top three pages, your business is not likely to be found at all.  If there are millions of results for your phrase, you might simply need to make it more specific.  
+
+For example, let’s say you have a small business consulting company that specializes in communication for small business.  Using “communication” as a search term is nearly pointless because there are almost 2 billion results for that word.  But, there are only 974 results for “small business communication”.  
+
+Much better, but how often is that searched for?  According to WordTracker, it’s searched for 10 times a day.  Not bad, but I think we can do better.  How about “small business consulting”?  That’s searched for 261 times a day, and there are 373,000 results.  That could be the best primary phrase for a small business communication consulting company. 
+
+What you want to do, is write your content around those words and phrases.  You don’t want or need very many—three or four are plenty.  
+
+Getting them to come back again and again
+Getting visitors to come back to your site again and again is relatively simple.  Keep your content fresh and lively, make sure it’s informative, and add to it often.
+
+I hope you decide your small business needs a web site.  It’s the best way I know how to reach a wider target audience with a relatively small investment.
+
+

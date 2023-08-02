@@ -1,0 +1,88 @@
+Title: 
+Cisco CCNP / BSCI Exam Tutorial:  Using Distribute Lists
+
+Word Count:
+444
+
+Summary:
+Configuring route redistribution is only half the battle - you've got to control it as well. Learn how to do so with distribute lists from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+cisco, ccnp, bsci, exam, tutorial, free, distribute, list, route, redistribution, security, 12933
+
+
+Article Body:
+To be successful on the BSCI exam and in earning your CCNP, you've got to master route redistribution. This isn't as easy as it sounds, because configuring route redistribution is only half the battle. Whether it's on an exam or in a real-world production network, you've got to identify possible points of trouble before you configure route redistribution - and you need to be able to control redistribution as well. You may have an OSPF domain with 100 routes, but only need to redistribute 10 of them into a neighboring RIPv2 domain. You've got to know how to do that, and one method is the use of a distribute-list.
+
+A distribute-list is an access-list that is used to determine what routes can and cannot be redistributed. Distribute-lists let you specify what routes will be filtered from the process. You can use standard or extended ACLs, and you can filter routes that are coming into a routing process or being injected into another process.
+
+In the following example, R1 is redistributing RIP routes into OSPF, but only wants to advertise network 150.1.1.0 /24 to other OSPF routers. An ACL will be written to match that particular network, and then the distribute-list will be written under the routing process. I'm going to show you the IOS Help output for the distribute-list command, and please note that routing updates can be controlled at the interface level or protocol level.
+
+R1(config)#access-list 24 permit 150.1.1.0 0.0.0.255
+
+R1(config)#router ospf 1
+
+R1(config-router)#redistribute rip subnets
+
+R1(config-router)#distribute-list 24 ?
+
+in Filter incoming routing updates
+
+out Filter outgoing routing updates
+
+R1(config-router)#distribute-list 11 out ?
+
+Async Async interface
+
+BRI ISDN Basic Rate Interface
+
+BVI Bridge-Group Virtual Interface
+
+CTunnel CTunnel interface
+
+Dialer Dialer interface
+
+Ethernet IEEE 802.3
+
+Lex Lex interface
+
+Loopback Loopback interface
+
+Multilink Multilink-group interface
+
+Null Null interface
+
+Serial Serial
+
+Tunnel Tunnel interface
+
+Vif PGM Multicast Host interface
+
+Virtual-Template Virtual Template interface
+
+Virtual-TokenRing Virtual TokenRing
+
+bgp Border Gateway Protocol (BGP)
+
+connected Connected
+
+egp Exterior Gateway Protocol (EGP)
+
+eigrp Enhanced Interior Gateway Routing Protocol (EIGRP)
+
+igrp Interior Gateway Routing Protocol (IGRP)
+
+ospf Open Shortest Path First (OSPF)
+
+rip Routing Information Protocol (RIP)
+
+static Static routes
+
+R1(config-router)#distribute-list 11 out rip
+
+Using distribute-lists does guard against routing loops, but they have other purposes. You may have a network segment that should be kept secret from the rest of your company; a distribute-list can filter that segment's network number from the redistribution process. In this way, distribute-lists serve as a basic form of network security. (Very basic. I wouldn't sell that firewall on ebay if I were you.) 
+
+Keeping such networks out of routing updates and routing tables throughout the network has the side effect of reducing routing update overhead as well.
+
+

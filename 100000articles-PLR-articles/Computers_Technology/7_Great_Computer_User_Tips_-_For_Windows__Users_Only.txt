@@ -1,0 +1,72 @@
+Title: 
+7 Great Computer User Tips - For Windows® Users Only
+
+Word Count:
+1131
+
+Summary:
+An Easy Performance Enhancement
+
+If you’re using the NTFS filing protocol on your system, instead of FAT32, you can get a bit more speed by disabling Windows® Indexing. The downside to this is that searching your drive for a specific file might take a moment or two longer, but everything else should run faster.
+
+To disable this feature open My Computer and then right click on the drive you wish to reset – usually C-drive. Now click on Properties and then uncheck “Allow In...
+
+
+Keywords:
+computer tips, computer user tips, Performance Enhancement, FREE Software, Internet Safety
+
+
+Article Body:
+An Easy Performance Enhancement
+
+If you’re using the NTFS filing protocol on your system, instead of FAT32, you can get a bit more speed by disabling Windows® Indexing. The downside to this is that searching your drive for a specific file might take a moment or two longer, but everything else should run faster.
+
+To disable this feature open My Computer and then right click on the drive you wish to reset – usually C-drive. Now click on Properties and then uncheck “Allow Indexing Service.” It will take Windows® a few moments to accomplish this task, based on your processor speed. If you have other hard drives, perform the same process for them. After this is done, it’s a good idea to empty the Recycle Bin and then Defragment your hard drive(s).
+
+FREE Software
+
+If you have a system and it does not have an office suite, such as Microsoft Office, and you don’t want to pay several hundred dollars to have one, try Open Office. This is a great alternative to other suites, and it’s free! Simply direct your browser to www.openoffice.org and follow the instructions for downloading and installation. Make no mistake, this free office suite is an extremely powerful set of software tools – easily a match for any competitor.
+
+Internet Explorer (Microsoft’s Internet browser) is unarguably the standard in computers. This is why hackers develop so many malware applications to invade it. If you use a different browser, you have much less chance of an invasion by malicious software. There is a great alternative available, and it’s free. You can download a copy of Firefox at www.mozilla.org/products/firefox. You can even move your Internet Explorer settings into Firefox automatically – so you don’t lose your Favorites, etc.
+
+Laptop Printer Fix
+
+If you’re using a laptop that is running Windows® ME, and you’re having trouble printing through the USB, try this simple fix. Go to the website for the company that manufactures your printer. If you use a Hewlett-Packard, for example, go to www.HP.com and download the appropriate drivers and install them. ME has drivers that recognize the USB printer is present and attached, but not the drivers needed to make it print. Which drivers you download and install will be dependant on your printer. After installing new drivers, update the printer as necessary in the Control Panel.
+
+Save $$$ When Shopping On-line
+
+If you’re making a purchase on-line, and you know the item you want to buy, you can easily compare pricing all across the Internet. This can amount to a very substantial savings.
+
+At this writing, I went to www.mysimon.com and typed in that I wanted to buy a printer: a Canon PIXMA iP4000. The service instantly checked the Internet and returned prices ranging from $62.00 up to $286.00. This kind of price spread is not at all unusual, especially for computers and electronics.
+
+The My Simon website service only checks pricing, it does not provide a platform for purchasing anything, though it does link to such places. It also gives a rating for the sellers and other users’ input regarding their experiences with the company. You can order the results of the search for your product by price, so that you can quickly find the lowest price from the highest rated dealer.
+
+Windows® XP Professional Only
+
+A feature of Windows® XP Professional, that is not available in the Home Edition, is the ability to encrypt files. This encryption prevents others from opening the files in the folder you encrypt. To encrypt one or more a folders, follow these easy steps.
+
+Click Start, then My Documents. Now locate the folder you wish to encrypt and right click on it and choose Properties.
+
+On the General tab, click on Advanced. Put a tick mark in the box for Encrypt Contents to Secure Data. Click okay two times and the confirmation dialog box will appear allowing you to select the folder, the folder and all files, and/or the subfolders within it.
+
+Now you'll be able to place files in this folder (or folders) and since they're encrypted, others will not be able to access them.
+
+Internet Safety
+
+You should never reveal your username or password to anyone who e-mails you and asks for it. This information is frequently asked for by an Internet scheme called “phishing.”
+
+In a common phishing scam, you receive an e-mail that looks quite official. It usually appears to come from a bank or credit card company. A common title for these e-mails is “We need to verify your account information.” Another is “Please logon to your account and verify your settings.” If you do click where instructed, you’ll end up on a site that appears to be the real one. If you fill in the username and password for of your on-line banking account, you can expect serious problems within twenty-four hours.
+
+If you believe that a company or business that you do on-line business with really does require your information, then simply contact them. This way, you will know where you are sending your information, and what it will be used for.
+
+CD Burning Error Fix
+
+Burning music, video, and data CDs has become quite popular over the past few years, and the evolution of the supporting technology has yielded hardware and software that is better than ever – and very reasonably priced. CDs offer a great place to store substantial amounts of data in a small, easily retained format. They also give us new control over aspects of our entertainment.
+
+A relatively common error received during CD burning informs you that the CD cannot be burned, or that there was an error during burning. Of course, you could actually have a defective CD drive, but this is usually not the case.
+
+If you receive a message indicating that your CD cannot be burned, go to the website of your CD drive manufacturer. Look for the list of CD types (manufacturers/numbers) that are compatible with your device. Most often, you’ll find that your CDs are not listed. The two types that seem to have the least difficulty being burned are manufactured by Sony and TDK. These cost a bit more, but they burn very reliably.
+
+Along the same lines – H-P has introduced a new CD burner. This new burner requires the use of special CD blanks, but after you burn your data into the CD, you can flip it over and close the drive again. Then you can use the laser to burn a title for the CD directly onto the CD itself. It’s new technology, but perhaps it will catch on and we’ll see newer, better such devices in the near future.
+
+

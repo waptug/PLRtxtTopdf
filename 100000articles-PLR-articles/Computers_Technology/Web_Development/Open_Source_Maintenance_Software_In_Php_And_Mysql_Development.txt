@@ -1,0 +1,34 @@
+Title: 
+Open Source Maintenance Software In Php And Mysql Development
+
+Word Count:
+406
+
+Summary:
+Benefits of open source coding and the maintenance management software’s available to help, plan and execute various methods involved in the operation of a company.
+
+
+Keywords:
+php mysql web development, php and mysql web development, php mysql development
+
+
+Article Body:
+While lunching a website, too many things have to be taken into consideration. One of them is of course php mysql development. But that is not all. As we prepare to launch the website the heavy cost of proprietary software will always create a doubt in our mind.
+
+Open Source Code Software’s
+
+But if we opt for php and mysql programming language then we can always avail the option of Open Source Code software’s. This programming language ensures object oriented application structure. This application is of great importance because it makes the process of coding simple and prevents the system from developing technical problems with the growth of the database.  Moreover, with php mysql web development one can easily separate the codes from HTML, storing them eventually in the specific libraries.
+
+Maintaining Software 
+
+In PHP programming because of open source coding the large community of programmers always assist each other with codes.  But this data has to be preserved in a proper manner for future reference. Therefore, the maintenance management software’s helps plan and execute various methods involved in the operation of a company.  This process involves the supplying of the source code to the buyers along with the maintenance management software. 
+
+Benefits of Open Source Codes
+
+One of the main benefits of open source coding in php and mysql web development is its easy availability to the system analysts. Due to this the software can be transformed according to the changing needs of the company.  Other than this system analysts can now use codes or functions that have been already applied, rather than reinventing them.
+
+Another vital characteristic associated with open-source maintenance management software is its implementation in almost any kind of infrastructure. Irrespective of the volume of the company, the exciting features associated with this software for php and mysql web development can be easily achieved. However, due to the alteration process applied in open source coding, the maintenance procedure should be handling by the programmers only. This prevents tampering of the code database. 
+ 
+Some of the well known database libraries in open source coding are PEAR libraries, MAIL_QUEUE and DRBD and Heartbeat libraries. For better management of php mysql development some of the software’s available are PC based and work on a system like Microsoft Windows. Moreover, one can also utilize this process through web- based applications, ensuring effective management of other branch of offices through the Internet.
+
+

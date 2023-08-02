@@ -1,0 +1,34 @@
+Title: 
+Inside View On Printers
+
+Word Count:
+562
+
+Summary:
+Printers have certainly come a long way since the inception of the character and and dot matrix printers. These ancient products (ancient in technical terms being as few as 10-15 years) were what are known as impact printers, simply because they needed to make a physical connection with the paper in order to achieve the ink-on-paper result.
+
+
+Keywords:
+Printer Cartridges, Printers, Printer Drivers, Printer Ink
+
+
+Article Body:
+Printers have certainly come a long way since the inception of the character and and dot matrix printers. 
+
+These ancient products (ancient in technical terms being as few as 10-15 years) were what are known as impact printers, simply because they needed to make a physical connection with the paper in order to achieve the ink-on-paper result. 
+
+Dot matrix printers came equipped with a group of pins that touched a ribbon which then connected with paper to produce the finished product. Character printers, which worked on the same principle as electric typewriters, used a bar or ball whose surface was embossed with all the characters you now see on any keyboard. These characters made contact with the ribbon, which in turn made contact with the paper. 
+
+Today we use non-impact printers - those that do not make physical contact with the paper to create the papered reproduction. The most prevalent for home or small office use is the inkjet printer - an economical choice for all but the most serious graphic arts requirements. 
+
+An inkjet printer produces the images and type it delivers from computer to paper by means of miniscule drops of ink. So miniscule, in fact, that a human hair would seem big by comparison. Standard ink drops of an inkjet printer have a diameter range of 50-60 microns. Arranged very precisely, these ink drops come in various resolutions (the higher the resolution, the clearer and more life like the output.) while 800x600 dpi (dots per inch) is a typical SOHO (small office home office) resolution producing quite adequate print quality, an inkjet printer can offer resolutions as high as 1440x720 dpi. Adding color to the mix can produce images nearly as high in quality as a laser printer product. 
+
+There are five basic parts to an inkjet printer: the print head assembly, the paper feed assembly, circuitry control, power supply, and printer ports. 
+
+The print head assembly is the heart of the printer workings. It's what brings the ink to paper by means of a row of nozzles. The print head may be part of the inner workings of a printer cartridge, or they may be separate parts. Cartridges are responsible for delivering color and shading. Most inkjet printers made nowadays offer color printing. Some may require as many as three distinct cartridges, but generally at least two - one black, one color. The motor is part of the print head assembly as well. It's the part that enables the ink and cartridges to move across the paper and produce the hard copy. It also keeps the cartridge stable when not in use. 
+
+The paper feed assembly includes the paper tray, which holds the paper ready for a printing request, and the rollers, which deliver the paper to the ink when a printing job is requested. 
+
+The power supply is simple - it's what gets the electricity to your printer so that it can do its job. Printer circuitry controls take the message from your keyboard and mouse and deliver it to the printer so that the requested hard copy can be produced. Printer ports, also referred to as interface ports, much like a telephone jack, enable the peripheral (the printer) to talk to the computer. While in older models parallel ports were the norm, the newest printer models connect via USB ports, which require a special USB cord.
+
+

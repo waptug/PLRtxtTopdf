@@ -1,0 +1,280 @@
+Title: 
+Basel II: Implications for Financial Service Provider
+
+Word Count:
+4362
+
+Summary:
+Efficient risk management, as outlined by Basel II, can be attained by leveraging information technology assets. The financial sector will, therefore, rely significantly on IT service providers to implement Basel II. Accordingly, the IT sector is required to provide a more coherent architecture for process automation and integration, and cost reduction mechanisms. This white paper highlights the role of an IT services provider in a successful Basel II implementation.
+
+
+Keywords:
+basel ii accord, risk management, basel ii solution, it risk management, operational risk management and basel ii, credit risk management
+
+
+Article Body:
+<b>INTRODUCTION</b>
+
+Effective risk management is the hallmark of any successful financial institution. The success of financial institutions heavily relies upon the security, privacy, and reliability of services backed by strong and up to-date operational practices. 
+
+Effective risk management strategies can be implemented by integrating effective bank-level management, operational supervision and market discipline. It is also imperative for these institutions to update their risk management practices in accordance with prevalent legislation and the current regulatory environment. With each of these aspects in mind, the Basel Committee on
+Banking Supervision published the Capital Adequacy Accord, also known as the Basel Accord, in 1988.
+
+The Basel Accord defined the parameters of risk management and capital adequacy for Financial Service Providers.
+
+With the on-going growth in the financial services sector, the committee saw the need to update the accord to coincide with new developments. As a result, it proposed the new Basel Capital Accord, also known as Basel II, in June 1999. With its new risk-sensitive framework, Basel II aimed to fill the gaps left uncovered by its predecessor.
+
+Basel II was devised to improve the soundness of the financial system by aligning regulatory capital requirement to the underlying risks of the banking industry. It encourages banks to conduct better risk management and enhance market discipline. Under the committee’s request, financial institutions would integrate Basel II in their operations by year-end 2006.
+
+Efficient risk management, as outlined by Basel II, can be attained by leveraging information technology assets. The financial sector will, therefore, rely significantly on IT service providers to implement Basel II. Accordingly, the IT sector is required to provide a more coherent architecture for process automation and integration, and cost reduction mechanisms. This implementation will encourage the development of new IT based value-add products, services and channels, all of which
+will be comply with Basel II regulations.
+
+This white paper discusses the framework and impact of Basel II in financial organizations and highlights the role of an IT services provider in a successful Basel II implementation.
+
+<b>BASEL II – AN OVERVIEW</b>
+
+Financial markets were always prone to incurring heavy losses resulting from poor risk management policies or fraud –both capable of reducing public confidence; the mainstay of the sector. As a result, banking institutions and investment firms felt the need to improve their measures for security and risk management across their enterprise, which led to the Basel Accord being signed in 1988.
+
+The central banks of over 100 countries adopted the Basel Accord as a basis of risk management within their system. One of its aims was to maintain an adequate level of capital in the international banking system. 
+
+However, the regulatory capital requirement set by the Accord proved to be incompatible with the newer and more sophisticated internal measures of economic capital. Additionally, the accord was unable to recognize credit risk techniques, such as collateral and guarantees. This resulted in an inflexible system and, ultimately, increased the risk for financial institutions.
+
+Basel II was devised to fill these gaps. Basel II implementation allows bankers to adequately emphasize their individual internal risk management methodologies. Bankers can also provide more incentives and options for risk management, thereby increasing flexibility within their systems. Basel II also provides a variety of benefits to the banking system. These include enhanced risk
+management, efficient operations, and higher revenues to the banking community.
+
+Along with the increased benefits, Basel II has also placed some controls on the international banking system, primarily in the form of higher capital requirements underwriting the mismanagement of risks and lack of infrastructural controls in many economies. All banks in the EU and international banks that operate within the EU will initially adopt Basel II. It is expected that other central banks will also adopt this accord over a period of time. This spreading adoption indicates global acceptance in the near future as well as a precedent of accord implementation at banks across the world.
+
+<b>BASEL II IMPLEMENTATION TIMELINES</b>
+
+Following a series of revisions, it is expected Basel II will be finalized by the fourth quarter of 2003. Current statistics indicate Basel II will be applied to existing systems in all European banks and a few large internationally active US-based banks by January 1, 2006. 
+
+During this three-year period, banks and supervisors must develop the necessary systems and processes to comply with the standards set forth by Basel II., Financial institutions must maintain a history of vital data sets built prior to the implementation date of Basel II, which will aid in seamless “migration to Basel II. As a result, many countries have already started work on draft rules that would integrate Basel capital standards with their national capital regimes.
+
+The Basel II Accord aims to ensure effective risk management and security systems in the financial sector. It will therefore undergo rigorous revisions before its framework is finally solidified for implementation.
+
+<b>THE BASEL II FRAMEWORK</b>
+
+Basel II intends to provide more risk-sensitive approaches while maintaining the overall level of regulatory capital within the financial system. This can be achieved through a meticulously designed framework consisting of three mutually reinforcing pillars as summarized below:
+
+<b>PILLAR 1: MINIMUM CAPITAL REQUIREMENTS</b>
+
+Designed to help cover risks within a financial institution, the first pillar aims to set minimum capital requirements. It defines the current amount of capital and the minimum capital requirement allocated for risk-weighted assets.
+
+This pillar also emphasizes defining the capital amount by quantifying Credit Risk, Operational Risk and Market Risk. 
+
+<b>Measuring Credit Risk</b>
+
+Credit Risk defines the minimum capital required to cover exposure to customers and counter parties. This risk can be measured using the following approaches: 
+
+<b>Standardized Approach </b>- In this approach, the bank allocates a risk-weight to each of its assets and off-balance sheet positions. It then calculates a sum of risk-weighted asset values. A risk weight of 100% indicates that an exposure is included in calculation of assets at full value. The capital charge is equal to 8% of the asset value.
+
+While remaining essentially the same as in the earlier accord, it does include a higher sensitivity to risk. As per the earlier accord, individual risk weights were dependent on the category of borrowers such as sovereign nations or banks. However, in Basel II these weights can be defined by referring to a rating provided by an external credit assessment agency. 
+
+<b>Internal Ratings-Based Approach (IRB) </b> - In this approach, banks use their internal evaluation systems to assess a borrower’s credit risk. The results, attained by this process, are translated into estimates of a potential future loss, thereby defining the basis of minimum capital requirements.
+
+The IRB Approach supports the following methodologies for corporate, sovereign and bank exposures:
+
+1.	Foundation - Using this methodology, banks can estimate the risk of default or the Probability of Default (PD) associated with each borrower. Additional risk factors are standardized by supervisory rules set and monitored by regulating authorities.
+
+2.	Advanced - This methodology allows banks with sufficient internal capital to assess additional risk factors. These factors include Exposure at Default (EAD), Loss Given Default (LGD) and Maturity (M). It also allows banks to provide guarantees and credit derivatives on the risk of exposure.
+
+The ranges of risks in both these methodologies are more diverse than in the standardized approach, resulting in greater risk sensitivity.
+
+<b>Measuring Operational Risk</b>
+
+Operational risk is the risk of loss resulting from the failure of internal processes, people and systems. It also includes risk from external events such as earthquakes, droughts and other natural or man-made disasters. Frequent occurrences of such events in the past few years have highlighted the need to cover such risks. In fact, many major banks now allocate 20% of their internal capital to operational risk.
+
+In Basel II, this risk can be measured using the following approaches:
+
+Basic Indicator Approach - This is a traditional approach, which links the capital charge for operational risk to a single operational parameter, such as the Bank’s gross annual revenue. The capital charge is calculated as a fixed percentage of this parameter, defined as the ‘Alpha Factor’.
+
+Standardized Approach - This approach is a variant of the Basic Indicator Approach. Here, the activities of a bank are divided into standard industry business lines, such as Corporate Banking, Trade Finance and many more. Banks then map these business
+lines into their internal framework. A percentage of capital charge, known as the ‘Beta Factor’, is defined for each business line.
+The bank can calculate its capital charge for a business line by applying the Beta Factor to the indicator value for the business line. The total capital charge for the bank is calculated as the sum total of all capital charges for individual business lines.
+
+Internal Measurement Approach (IM) - This is the most sophisticated of all the approaches. Here, risk is measured using the bank’s internal loss data. Typically, a bank collects data inputs for a specified set of business lines and risk types. These inputs
+include an operational risk indicator, data indicating the probability of a loss event, and the losses incurred in the eventuality that these events took place.
+
+While calculating the capital charge, the bank will apply a fixed percentage, known as the ‘Gamma Factor’, to these data inputs. This percentage is based on Industry data and is determined by the Basel Committee. The operational risk capital requirement is calculated as the sum total of all capital charges for individual business lines. 
+
+<b>Measuring Market Risks</b>
+
+Market Risk determines the capital required to cover exposure to changes in market conditionssuch as fluctuations in interest rates, foreign exchange rates, equity prices, and commodity prices. The approaches determining market risk are the same as those defined in the earlier accord. 
+
+<b>Benefits of the First Pillar</b>
+
+The first pillar aims to refine the measurement framework set out in the 1988 Accord by effectively reducing risk across the banking system. Different reporting systems, complying with objectives set by this pillar, will help track and report risks as they occur, thus eliminating them at the outset. 
+
+It will allow banks to set up independent audit functions to scrutinize the possibilities of risks. The minimum capital requirement is expected to reduce considerably for banks and other financial institutions. Furthermore, banks will support a complete alignment of regulatory, book and economic capital. This will result in a capital charge of at least 20% of the regulatory capital. Thus, a major refinement of charges will reflect the risks of individual business lines more accurately. 
+
+<b>PILLAR 2: SUPERVISORY AND REVIEW PROCESS</b>
+
+The second pillar of Basel II intends to ensure the presence of sound processes at each bank. This pillar also provides the framework to assess the adequacy of the bank’s capital based on a thorough evaluation of its risks. The Basel II framework emphasizes the development of an internal capital assessment process by the bank management. Additionally, management should set targets for capital corresponding with the bank’s risk profile and the control environment. Regulatory and supervisory bodies (either the central banks, or bodies set up by the central bank or government, for regulation and control) will review internal process. This is done so that an assessment of the bank’s capital adequacy in relation to its risks can be made.
+
+One point worth noting is that compliance with internal measurement methodologies, mitigation policies of credit risk, and securitization policies for minimum qualifying standards are subject to supervisory control. The supervising authority will also be responsible for reviewing operations and processes in trading, Internet banking and security processing.
+
+<b>Benefits of the Second Pillar</b>
+
+The implementation of the second pillar demands increased interaction between bank managers and supervisory bodies. This increased level of interaction enhances the level of transparency within the organization.
+
+The second pillar helps achieve a higher level of security within the organization, as a level of standardization and conformity is established across the enterprise. This, in turn, helps achieve higher returns with lower risks.
+
+<b>PILLAR 3: MARKET DISCIPLINE</b>
+
+The third pillar of the new framework aims to boost market discipline through enhanced disclosure by banks. Basel II identifies the disclosure requirements and provides recommendations both on defining methods for calculating capital adequacy, and risk management strategies. 
+
+Effective disclosures by banks help market participants understand the bank’s risk profile and adequacy of their capital positions, thereby facilitating market discipline. This strategy plays an important role in maintaining confidence in a financial institution.
+
+A guidance paper presented in January 2000 has six broad recommendations related to capital, risk exposure and capital adequacy. Based on these recommendations, the committee has placed more specific quantitative and qualitative disclosures in key areas. These include the scope of application, composition of capital, risk exposure assessment and management processes, and capital adequacy.
+
+<b>Benefits of the Third Pillar</b>
+
+The third pillar of the Basel II framework helps to increase awareness of all the risks in the banking sector through a process of detailed disclosure. It also helps align economic capital data to book and risk capital data. Further, this pillar reveals the annual losses incurred by business lines and asset classes. This helps increase transparency. 
+
+<b>IMPLICATIONS OF BASEL II</b>
+
+Basel II is designed to overcome the drawbacks of the earlier accord and once achievement of its set targets is complete implementation by banks and financial organizations worldwide will be mandated.
+
+<b>ORGANIZATIONS AFFECTED BY BASEL II</b>
+
+All banks and financial institutions in the G10 countries intend to incorporate the Basel II Accord through local regulators. A high possibility of the earlier accord being replaced by Basel II in the other countries also exists.
+
+The European Union is the first adopter of this accord, and the recommendations of this accord are being integrated into a new EU directive. Additionally, the European Commission intends to apply this accord to all investments, businesses and credit institutions. The accord’s adoption in other continents like Australia, Asia and in North and South America would be phased-in. Adoption would depend primarily upon proposals submitted by the respective regulatory authorities on implementation of the accord. 
+
+The accord’s scope of application includes banks and enterprises involved in securitization and with long-term equity holdings such as private equity and venture capital. It will also apply to all the parent and subsidiary companies of banking groups.
+
+Basel II is applicable to organizations offering the following financial services:
+
+1.	Corporate Finance
+
+2.	Retail Banking
+
+3.	Asset Management
+
+4.	Trading and Sales
+
+5.	Payments and Settlements
+
+6.	Commercial Banking
+
+7.	Retail Brokerage
+
+8.	Agency and Custodial Services
+
+Basel II facilitates data and system integration across banking groups. Organizations will be required to adopt the implementation of the accord’s requirements to maintain consistency across the board.
+
+<b>THE IMPACT AND CHALLENGES OF BASEL II</b>
+
+Major banks and financial institutions in Europe and the United States have already started incorporating Basel II as part of their systems. The effect in the G-10 countries, where the Accord is still being analyzed, will lead to a further regulation of banks, insurance and investment agencies.Japan, along with many developing economies, may be affected due to a lack of transparency in their banking sector. 
+
+The new accord will significantly affect a wide range of organizations. This impact can be broadly classified into two categories:
+
+<b>Operational Impact</b>
+
+Because Basel II will affect different spheres of financial activities, its impact can be based on the different kinds of operations conducted by organizations. These may include: 
+
+<b>Rating Agencies</b> - All rating agencies will incorporate the new accord in their operational systems to evaluate banks globally. They intend to do this by using the advanced measurement approach with third-party evaluations. Incorporating this accord will result in establishing a more competitive and safer banking system.
+
+<b>Financial Industry</b> - Although Basel II primarily applies to banks, most legal rulings have emphasized on the harmonization of rules across all financial sectors. Many financial institutions that provide services such as credit cards and equities will allow for global rationalization and concentration of processing volume with third parties.
+
+Basel II will also have a major impact on the insurance sector, as it will allocate and account for risk capital and enterprise-wide risk management. 
+
+The transparency achieved by Basel II for risk management and capital reserves will fundamentally change the reinsurance business. It will also affect the securitization of risk.
+
+The impact of Basel II extends to state owned and managed financial institutions. Under Basel II, these institutions are required to meet market requirements for capital efficiency and optimization. In addition, banks in developing markets will need to invest capital for upgrading their infrastructure. When implemented, Basel II will lead to a restructuring of costs and prices for all financial services.
+
+Finally, the introduction of operational risk in Basel II could affect the capital charge of banks. It would increase unless the bank adopts the more sophisticated approaches for measuring credit and operational risks.
+
+<b>Information Systems Impact - </b>
+
+There is an expected impact upon the IT and data systems of financial institutions under Basel II reform, the level and scale of which will depend upon many factors. These include risk measurement methodologies, current levels of data and system architecture and the scale, complexity and lines of business. Basel II is also considered a key driver of IT spending by the financial industry.
+
+<b>Design and Architecture of the System</b>
+Basel II should be designed in such a manner that can easily integrate with other technology across the enterprise. Its comprehensive and vigorous architecture will ensure data integrity.
+
+<b>Information Availability</b>
+Basel II demands high quality and easily accessible information, dependent upon such factors as the scale and complexity of the data. Since Basel II requires raw and enriched data from multiple systems, the scale and complexity of data becomes enormous.
+
+<b>Audit</b>
+For a successful audit of the risks associated with finance systems, credit risk systems are expected to support the overall credit risk framework across the organization. Data such as ‘Probability of Default’ and ‘Loss of Default’ are required under Basel II. Since operational risk is a new element in Basel II, the systems will have to design and develop their approaches to measure it in their organizations.
+
+<b>Performance</b>
+Ensuring accuracy and easy availability of information can enhance the performance levels of both real time and batch processes.
+
+<b>Security</b>
+The security of the enterprise can be maintained by constant monitoring of risks within the organization. The above factors contribute to the development of a robust IT system, ensuring the use of quality data in processes across the enterprise. The secure and enhanced performance of these processes ultimately leads to higher returns with fewer losses.
+
+In striving to meet these challenges, financial institutions rely heavily on IT service providers.
+
+<b>ROLE OF AN IT SERVICE PROVIDER </b>
+
+An IT service provider plays a significant role in enabling financial institutions to implement Basel II. The functional responsibilities include providing a rational architecture, a platform that helps automate processes, reduction in costs and an effective integration of systems. 
+
+<b>MEASURES FOR HELPING FINANCIAL INSTITUTIONS IMPLEMENT BASEL II</b>
+
+An IT service provider adopts effective measures to help financial institutions implement Basel II successfully. These measures can be classified as:
+
+<b>SmartSourcing of specific functional areas </b>
+
+IT service providers support service provision models that enable outsourcing and smartsourcing of specific functional areas. Selective outsourcing and the establishment of joint ventures with IT service providers help organizations reduce costs across the board.
+
+Transparent cost models and programs for accurately capturing and reducing costs have been developed over the last two years. They can enhance an organization’s financial status and eventually lead to greater flexibility.
+
+<b>Developing Knowledge Management Systems</b>
+
+IT service providers would be required to track the various types of information required to run a business. Using knowledge management and customer relationship management systems, they track this information and help calibrate risks at various levels within the organization, which allows for an increase in security levels. 
+
+<b>Integration of multiple functions in an Organization</b>
+
+IT service providers enable collaboration and integration of functions such as product development, customer service and sales and marketing, within the organization. This results in collective product offerings, a multi-channel service experience and improved distribution strategies.
+
+This also leads to the development and launch of new IT -based products and services with added value. This shifts the focus from the development of external e-channels to the creation of an eenabled organizational environment, while also establishing a platform for process improvement.
+
+<b>PATNI’S APPROACH</b>
+
+Recognizing the growing needs of financial services in the IT and Business Processing Outsourcing (BPO) industry, Patni’s Banking and Financial Services Practice provides a wide range of expertise. It aims to offer world-class services in all functional areas, such as consumer and corporate banking, card business solutions, and capital markets.
+
+Since Basel II is a far-reaching initiative, it is necessary to integrate the architecture with other technologies across the organization. Patni offers a variety of services including IT consulting services for the assessment of banking systems aligned with Basel II, architecture and gap analysis. We also offer risk management models, creation of proper data models for risk compliance and the facilitation of enterprise data alignment.
+
+Enterprise level data collection, standardization and consolidation are all critical components in attaining Basel II compliance. Because data from all operational systems across the enterprise needs to be collected and stored in a data warehouse to establish group-wide capital reserves, our implementation services include developing and implementing organization-wide data warehousing capabilities. They also include implementation of suitable risk management, risk calculation and reporting tools and packages, and integration of these within existing banking systems. Additionally, we offer design and the development of interfaces and import third party data into the Basel compliance solution framework. 
+
+Basel II introduces operational risk as a part of the capital adequacy requirements. Due to the increased awareness of risks posed by internal systems breakdown, fraud, and external events, the proposed new operational risk charge has received much attention. Keeping these needs in mind, Patni also provides services for IT outsourcing and systems architecture while ensuring security and compliance with new regulations.
+
+Patni has built up domain expertise in the banking sector through recruitment, acquisitions, and alliances. We help various foreign banks in reducing their costs of implementation by providing effective banking packages. 
+
+Since Basel II will be mandatory for large international banks, Patni intends to establish a relationship team for serving customers globally. This team will also provide an interface between banks and implementation teams in India.
+
+Patni has implemented complex long-term projects and built deep relationships with the Royal Bank of Scotland, GE, State Farm Insurance and Fidelity to name just a few our clients. 
+
+<b>BUSINESS VALUE</b>
+
+With a strong employee base in India, Patni has successfully implemented financial solutions for large international banks, some of which are briefly described below. 
+
+<b>International Banking Application Development</b>
+
+Patni implemented this financial solution for one of Europe’s leading financial service groups. The solution made significant contributions in international banking application development, maintenance and support. It handled different banking tasks such as payments and interest processing, account positions updating and establishing new customer relationships. The core
+foreign international online and batch overnight systems were also supported.
+
+In addition, Patni participated in the Y2K conversion and the Euro conversion activities for the group. During the assignment, Patni provided more than 2000 person months of consulting hours. This included gap analysis, impact assessment, enhancements to bridge the systems, and reengineering and scaling.
+
+Patni provided expertise in all functional areas of the bank such as currency management and operational accounting, helping reduce the risks involved in the operation and establish various banking solutions for implementing Basel II successfully.
+
+<b>Data Warehousing, Application Development and Support </b>
+
+In this solution, developed for a large bank based in Bloomington, Patni provided data warehousing, application development, maintenance, support, and testing services. This comprehensive solution focused on core banking areas, such as deposit and loan products, cards management, Escheat, Automatic Teller Machines (ATM) and Internet banking. Our teams worked on a wide range of platforms such as DB2, COBOL, Java, C++, C, XML and VB. 
+
+This project aided in the consolidation of vendor feeds by analyzing data related with various business areas. It also ensured security in banking transactions and provided interactive customer support to those who needed help in operating their accounts.
+
+<b>CONCLUSION</b>
+
+To meet the evolving needs of the banking business, risk management practices, and financial markets, the Basel Committee proposed the Basel II Accord in January 2001. In the updated accord, a new risk-sensitive framework was defined, consisting of three mutually reinforcing pillars that would contribute to the safety and soundness of a financial system. Basel II emphasizes more on banking components such as internal control and management, supervisory process, and the market discipline of financial institutions.
+
+After analyzing all implications and revising the standards of Basel II, the Committee is expected to publish the final version of the Accord in the fourth quarter of 2003. Financial institutions worldwide are expected to implement it by the end of 2006.
+
+Basel II is already gaining popularity and acceptance among the G-10 nations. All banks and enterprises involved in securitization and dealing with long-term equity holdings, such as private equity and venture capital, are incorporating the recommendations of Basel II 
+
+The new accord will affect all spheres of the financial sector, including insurance and capital markets. The most significant impact of Basel II will be on the IT infrastructure of financial institutions. CIOs will need to align the business needs of their enterprises with technologies that support them. For this, common definitions and reporting structures will be implemented and information must be integrated to comply with the new Basel II standards.
+
+These challenges can be achieved by outsourcing Basel II and other finance related projects to IT service providers- who could offer a coherent architecture and platform that helps automate processes and reduce costs while effectively integrating systems. IT service providers therefore not only provide a variety of services that help financial systems in implementing Basel II, but also empower financial institutes with a competitive advantage.
+
+

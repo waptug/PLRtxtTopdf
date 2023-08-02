@@ -1,0 +1,32 @@
+Title: 
+Fast and Reliable Recovery of Microsoft Office Documents
+
+Word Count:
+696
+
+Summary:
+Recover latest versions of deleted documents even after a hard drive failure. Can preview and recover Microsoft Word, Excel, PowerPoint, Visio, Publisher and other.
+
+
+Keywords:
+word recovery, data recovery, excel, powerpoint, visio, publisher, undelete, doc, xls, ppt, vsd, pub, rtf, FAT, NTFS
+
+
+Article Body:
+What would you value most in a data recovery solution should you lose an important document? Would it be speed, convenience, or ease of use? These things surely matter for all kinds of computer software, but data recovery has one specific demand that outweighs everything else by a huge margin. This factor is reliability of the recovery.
+ 
+Microsoft Office documents store results of many hours, days or even years of work of practically all office employees and most people who use their computers at home. Microsoft Word dominates the market of word processors, and most if not all documents are stored in RTF and its proprietary DOC formats. Microsoft Excel and its XLS file format dominate spreadsheet market. Most presentations are created in Microsoft PowerPoint and stored in PPT files, and most charts and drawings are drawn in Microsoft Visio and saved as VSD files. Combined, files in these formats occupy significant space on the users' hard drives, and represent hours and hours of work, much more than any other file format. 
+ 
+In an unfortunate case of hard disk crash or file system failure, what would you try to recover the hardest? Would it be a set of software products such as Windows or Office itself, which you can easily re-install from the original CD or DVD, or would it be files and documents you spent your personal time working on? Unless you have a fresh backup of your documents somewhere, the documents are impossible to simply re-install. If you have a recent copy of your Office documents, that's great! But what if your backup is several days old, and you've put a lot of work into these documents? Or even worse, what if you don't have a backup at all?
+ 
+Recover latest versions of your deleted documents even after a hard drive failure with DiskInternals Office Recovery securely and reliably. Unlike general-use undelete and data recovery tools, DiskInternals Office Recovery strongly benefits from being designed specifically to handle documents stored in Microsoft Office format. 
+ 
+General-use recovery products scan the computer's file system in order to locate files that were deleted or corrupt because of a hard drive failure. However, they frequently fail to work properly if the file system itself is damaged, which happens a lot after hard drive failures.
+ 
+DiskInternals Office Recovery scans entire surface of your hard drive in order to locate all Microsoft Office documents that are still there. In order to find the documents, it uses a set of signatures that are characteristic for the Office file types. The file system is also scanned in order to retrieve the names of the files. The results of disk scan are matched against information contained in the file system, and you are presented with a complete list of all Microsoft Office documents that are on the disk and that are still possible to recover.
+ 
+Quite often you don't want to see the list of all Microsoft Office documents that were ever saved on your computer. There's no point in spending time scrolling through an endless list of files if you just need the latest revision of a PPT presentation or an XLS spreadsheet, but you need that document right away. DiskInternals Office Recovery offers an extensive set of filters allowing you to display only the files that you need with just a few mouse clicks. If you need a DOC file that you know you worked with today, you simply activate the File Format and Date filters, and only the Word documents that were modified on this day will be displayed. If you don't remember the name of the file, but know its title or the person who created the document, the Title and Author filters will show you those files. Similarly, if you only remember a line or even a few words of text from the document, you can instantly locate that particular file by activating the Text filter.
+ 
+With full document preview in the free evaluation version, there are no worries or surprises in buying DiskInternals Office Recovery. Download the free trial version from http://www.diskinternals.com/ and see for yourself that it is fully capable to do the job!
+
+

@@ -1,0 +1,28 @@
+Title: 
+Cisco CCNA / CCNP Certification Exam Review:  Protocol Basics
+
+Word Count:
+295
+
+Summary:
+You've got to know the basics of routing protocols to pass the CCNA exam and the BSCI CCNP exam!  Learn these important basics from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+ccna, exam, protocol, ccnp, bsci, protocol, rip, igrp, eigrp, multicast, address, free, equal, cost
+
+
+Article Body:
+To earn your Cisco CCNA certification and pass the BSCI CCNP exam, you have to know your protocol basics like the back of your hand!  To help you review these important concepts, here's a quick look at the basics of RIPv1, RIPv2, IGRP, and EIGRP.
+
+RIPv1:  Broadcasts updates every 30 seconds to the address 255.255.255.255.  RIPv1 is a classful protocol, and it does not recognize VLSM, nor does it carry subnet masking information in its routing updates.  Update contains entire RIP routing table. Uses Bellman-Ford algorithm.  Allows equal-cost load-balancing by default.  Max hop count is 15.  Does not support clear-text or MD5 authentication of routing updates. Updates carry 25 routes maximum.
+
+RIPv2:  Multicasts updates every 30 seconds to the address 224.0.0.9.  RIPv2 is a classless protocol, allowing the use of subnet masks.  Update contains entire RIP routing table.  Uses Bellman-Ford algorithm. Allows equal-cost load-balancing by default.  Max hop count is 15.  Supports clear-text and MD5 authentication of routing updates. Updates carry 25 routes maximum.
+
+IGRP:  Broadcasts updates every 90 seconds to the address 255.255.255.255.  IGRP is a Cisco-proprietary protocol, and is also a classful protocol and does not recognize subnet masking.  Update contains entire routing table. Uses Bellman-Ford algorithm. Equal-cost load-balancing on by default; unequal-cost load-sharing can be used with the variance command.  Max hop count is 100.  
+
+EIGRP:  Multicasts full routing table only when an adjacency is first formed.  Multicasts updates only when there is a change in the network topology, and then only advertises the change.  Multicasts to 224.0.0.10 and allows the use of subnet masks.  Uses DUAL routing algorithm.  Unequal-cost load-sharing available with the variance command.
+
+By mastering the basics of these protocols, you're laying the foundation for success in the exam room and when working on production networks.  Pay attention to the details and the payoff is "CCNA" and "CCNP" behind your name!
+
+

@@ -1,0 +1,24 @@
+Title: 
+Know More About Load Balancing
+
+Word Count:
+501
+
+Summary:
+Load balancing, by definition, is the process of spreading the amount of work that is conducted by a computer system between a number of different computer systems to increase the speed that the work is completed in.  There are several different methods in which load balancing can be accomplished by and the technique can use many different types of computer components, including both hardware and software applications.  Load balancing is typically completed using a cluster of...
+
+
+Keywords:
+load balancing, router, teaming, server, dns, linksys, managed hosting, services, network
+
+
+Article Body:
+Load balancing, by definition, is the process of spreading the amount of work that is conducted by a computer system between a number of different computer systems to increase the speed that the work is completed in.  There are several different methods in which load balancing can be accomplished by and the technique can use many different types of computer components, including both hardware and software applications.  Load balancing is typically completed using a cluster of computer servers that may or may not be located in the same location.  Some load balancers provide a mechanism for doing something special in the event that all backend servers are unavailable. This might include forwarding to a backup load balancer, or displaying a message regarding the outage. Load balancing can be useful when dealing with redundant communications links.
+
+There are many different companies that see the benefits of using load balancing and implement the procedure for their companies.  Companies that conduct business transactions in large numbers using the internet are prime candidates to use load balancing to ensure that all of their clients and customers will be able to conduct their transactions in a quickly and accurately manner.  Companies that need to network a great deal of computers for individual users also typically use load balancing to ensure that all computers will work properly and have the right amount of power to be able to perform the functions that they are intended to perform.  It also ensures that the company will still be able to do business if one server becomes corrupted or goes down for an extended period of time.
+
+There are several different methods that are widely used for load balancing.  One of the most popular methods of load balancing is Global Server Load Balancing.  This technique distributes the incoming tasks to a group of servers in a particular geographic location.  This technique is widely used by companies that have a global presence and have a need to satisfy customers or employees in many different geographical locations.  Using Global Server Load Balancing ensures that the work load is distributed throughout the entire server system in an easy to manage manner and ensures that all geographical locations are obtaining the correct information from the correct set of servers. 
+
+Another load balancing technique that is commonly used is called Persistence Load Balancing.  This technique assigns each new client to a different server in a round robin (distributed page requests evenly to one of three Squid cache servers) type of allocation.  This client is then assigned to this specific server for the future of their relationship with the business.  This ensures that no one server is overloaded with a particular type of client, such as those in a certain geographical area or use a specific type of service and ensures that the clients are distributed evenly through out all of the servers that the business possesses.  These server assignments are typically monitored by using the customers IP address as the customer’s unique identification code.
+
+

@@ -1,0 +1,30 @@
+Title: 
+Error Loading Operating System
+
+Word Count:
+307
+
+Summary:
+This error appears when the Operating System of a computer fails to load from the hard drive into the Random Access Memory.
+
+
+Keywords:
+Error Loading Operating System
+
+
+Article Body:
+This error appears when the Operating System of a computer fails to load from the hard drive into the Random Access Memory. The operating system is what makes the computer respond to user interaction and coordinates the various systems within the computer. This system software needs to load itself into memory from the hard drive before it can start functioning. When this does not happen properly, the computer displays the “Error Loading Operating System” message. There can be a number of reasons for the operating system’s inability to load itself into memory. The reasons can be hardware-related, software-related or a combination of both.
+
+Hardware-related Causes:
+
+A defective hard drive can be a source of this problem. When the hard drive malfunctions, the computer may not be able to read and load the operating system files properly into memory. A defective cable connecting the hard drive to the motherboard can also cause this error.
+
+Sometimes, an incompatibility between the BIOS of the motherboard and the operating system can give rise to this problem. Each operating system comes with its own set of minimum hardware requirements. When the computer’s hardware does not meet this requirement, the operating system fails to function properly. A more recent operating system would require a later version of the BIOS. A FLASH BIOS can be updated to the latest version by downloading files from the Internet.
+
+Software-related Causes:
+
+This error can also occur when certain critical files in the operating system get corrupted or deleted. Corruption of files can happen due to virus activity, improper maintenance of software, accidental deletion of files or defects in certain portions of the hard drive.
+
+Since there are a variety of causes for this error, and each cause needs a different mode of handling, the error can be rectified only when its cause is diagnosed properly.
+
+

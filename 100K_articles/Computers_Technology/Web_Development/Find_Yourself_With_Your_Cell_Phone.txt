@@ -1,0 +1,34 @@
+Title: 
+Find Yourself With Your Cell Phone
+
+Word Count:
+556
+
+Summary:
+A few years ago, the FCC mandated that cell phones have GPS capacity or some form of location mechanism so that the phone and its operator could be located in the case of a 911 call. The law took effect at the beginning of 2005. Today, over one hundred million cell phones in this country have a chip that provides GPS capacity and increasingly, software services are emerging that put them to use.
+
+GPS stands for Global Positioning Software and it simply means that an equippe...
+
+
+Keywords:
+website hosting, cell phone, gps, applications, uses, features, directions, information
+
+
+Article Body:
+A few years ago, the FCC mandated that cell phones have GPS capacity or some form of location mechanism so that the phone and its operator could be located in the case of a 911 call. The law took effect at the beginning of 2005. Today, over one hundred million cell phones in this country have a chip that provides GPS capacity and increasingly, software services are emerging that put them to use.
+
+GPS stands for Global Positioning Software and it simply means that an equipped device can be located by the satellites overhead in geosynchronous orbit that are built to pick up GPS signals. While the cell phone companies initially were reluctant to participate, they have begun to develop subscription services that provide software to help you use the tracking system.
+
+The GPS technology without bells and whistles simply pinpoints the location of your cell phone. A techie named Chuck Fletcher developed a freeware program called Mologogo that allows one Mologogo equipped phone to locate other, similarly equipped phones. It's become a method for a few thousand cell owners to keep track of each other, but hasn't moved much beyond that.
+
+Verizon and Sprint have developed subscription services that will allow your phone to pinpoint your location, complete with overhead map. It's a mobile driving assistance tool that should enjoy some degree of popularity. The cell phone companies have been reticent to provide general access to the GPS feature in their phones, because it can be a sensitive privacy issue - especially if you're somewhere you're not supposed to be.
+
+More to the point, however, is the fact that the cell operators see the GPS technology as a potential profit center. One way to get driving directions with a GPS cell phone is to subscribe to a GPS navigation service. Nextel offers two: Televigation's TeleNav and Motorola's ViaMoto. Using the GPS and Nextel's network, TeleNav and ViaMoto can send driving directions to a Nextel phone. If you make a wrong turn or miss a street, the service detects that you're off the route and new route is calculated to put you back on track.
+
+Aside from the basic mapping and location support, if you're a Sprint-Nextel customer you can subscribe to a service called Smarter Agent. This GPS supported technology is tied to a real estate database and can provide you with information on home sales in the neighborhood where you and your cell phone happen to be located. It will identify which homes have sold in the neighborhood in the last few years, and for what price.
+
+Verizon has a service called getGOING. You can download applications such as AtlasBook Places. With AtlasBook Places you can get maps and directions and navigate to nearby places. An option is a web-based planning tool. These functions are available on selected Verizon phones.
+
+There's an inherent privacy issue here that is a challenge for the major cell providers. Sprint-Nextel is the only company that has always allowed access to the GPS chips in its handsets. They have a strict privacy agreement with any third party service providers such as Smart Agent. If you download software that is not provided through Nextel, however, you have no such guarantee of privacy. This issue, aside from dollar signs, is what has kept GPS functionality largely an in-house development of the cell phone companies.
+
+

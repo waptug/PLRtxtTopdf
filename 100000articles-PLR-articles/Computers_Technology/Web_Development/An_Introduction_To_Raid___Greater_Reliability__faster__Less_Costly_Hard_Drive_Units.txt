@@ -1,0 +1,83 @@
+Title: 
+An Introduction To Raid – Greater Reliability ,faster, Less Costly Hard Drive Units
+
+Word Count:
+831
+
+Summary:
+What is a raid setup on a computer system?
+
+Like anything else it depends who you talk to.
+
+Raid hard drive systems had their acronym explained as “Redundant Array of Individual Drives “and “Redundant Array of Inexpensive Drives”.  The acronym for this is the shortened term “RAID”.
+
+Capacity, reliability and performance are all important for file servers or other computer systems when you are storing large or very important files.
+
+It is often said that “It is not if ...
+
+
+Keywords:
+Raid , RAID , Servers , Server , Gaming , P2p , data , security , striping , Linux , Ubuntu
+
+
+Article Body:
+What is a raid setup on a computer system?
+
+Like anything else it depends who you talk to.
+
+Raid hard drive systems had their acronym explained as “Redundant Array of Individual Drives “and “Redundant Array of Inexpensive Drives”.  The acronym for this is the shortened term “RAID”.
+
+Capacity, reliability and performance are all important for file servers or other computer systems when you are storing large or very important files.
+
+It is often said that “It is not if you hard drive will fail. It is at what point in time your hard drive will fail”.
+
+Of course if your hard drives fail even if you have backup the last bit of data which was being written onto the hard drive when the failure occurred will be lost.
+
+You can get much greater capacities, avoid losing data from disk failure, and do all this with the RAID  (the acronym for the system).
+
+RAID can now be done with standard commercially available hard drives so the cost is now within your price range for all the benefits and peace of mind RAID will give you.
+
+RAID can be simply explained as putting the hard drives in parallel sequence.
+
+The host adapter (usually called the RAID system controller) sits between one higher stream (on the computer side) and several lower rate data streams (on the hard drive side). When the computer writes to the disks , the host adapter takes high stream data and breaks it into many synchronized streams , one for each of the disks in process called “Striping “. Upon reading the data the host adapter takes the data stream from each disk multiplexes the sets of data streams and coordinates sending the resulting combined set of data onto the computer.
+
+It is all a matter of redundancy which makes RAID such a good thing in most cases.
+
+There are six different levels of RAID functionality depending on your requirements. – the level of data security and integrity you want as well as the size of hard drive space you want.
+
+First of RAID Level 0 which spreads the data across multiple disks. You can get a similar effect to the RAID Level 0 by having multiple disks and using the features in Windows 2000 or its successor Windows XP.
+
+Since the data volume and rate to any specific disk is a fraction of the aggregate you will receive larger capacity and better performance from a RAID 0 setup than from any one conventional disk.
+
+As well data can be sourced from multiple drives as once. This can be most useful in shared situations which may benefit from enhancements in speed, two examples which come to mind are game servers and peer to peer (P2P) file or music file sharing servers.
+
+However since there is no allocation for error correction or redundancy RAID 0 is not a safe system for vital data. Data will be lost on disk failure. Only use RAID 0 in situations where you need the extended disk capacity or performance gain but not enhanced data reliability.
+
+Secondly in sequence there is RAID Level 1.
+
+In the same way that RAID 0 focuses solely on storage capacity and performance with no concern whatsoever on reliable data storage RAID 1, which us also called “Disk Mirroring” uses disks in pairs to save the files in a redundant manner.
+
+Several points.
+
+One performance may be slower as it takes time for the host adapter to send the data and for the drives to write it to disk,
+
+Secondly a user may delete or damage files which of course will be stored in that way on both drives.
+
+Raid 1 hence offers better reliability than RAID 0 or the conventional drive setups but does not give full security for your data or enhanced performance.
+
+Next in sequence we have RAID Levels 2, 3 and 4.
+
+Raid 2 adds one or more disks to hold error correction codes with which lost data can be reconstructed.
+
+Raid Level 3 is the same as RAID Level 2 but uses a simpler code the maximum storage capacity with Raid 3 may be somewhat less.
+
+Raid Level 4 is nearly the same as RAID LEVEL 3 but instead of “Striping “ across disks is operates at a sector level, You now have the better situation of both a simpler , less intensive demanding system and as well as good data reliability . In addition performance may be enhanced as large data blocks can be written faster due to more coordinated writing to the drives in smaller “sector” areas.
+
+Lastly is RAID Level 5.
+
+Raid level 5 is the same as the excellent RAID Level 4 except that instead of dedicating a single disk to storing the data the data stream is striped across all the disks. You have greater performance with greater reliability for your computer systems.
+A RAID setup may take some effort and training on your part.
+Base your planning for your new RAID system on a careful analysis of your needs.
+What is important in your situation  currently? Disk size capacities, data reliability and integrity, performance or a combination or all.
+
+

@@ -1,0 +1,30 @@
+Title: 
+Cisco CCNA / CCNP Home Labs:  Developing Troubleshooting Skills
+
+Word Count:
+401
+
+Summary:
+Learn the real way to develop your Cisco router and switch troubleshooting skills from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+ccna,ccnp,home,lab,access,server,frame,relay,switch,free,pass,intro,icnd,bsci,router,cisco,cit,pass,exam,troubleshoot,learn,how,chris,bryant,12933,advantage,theory,hands-on
+
+
+Article Body:
+CCNA / CCNP candidates are going to be drilled by Cisco when it comes to troubleshooting questions.  You're going to have to be able to analyze configurations to see what the problem is (and if there is a problem in the first place), determine the meaning of different debug outputs, and show the ability not just to configure a router or switch, but troubleshoot one.
+
+That's just as it should be, because CCNAs and CCNPs will find themselves doing a lot of troubleshooting in their careers.  Troubleshooting isn't something that can just be learned from a book; you've got to have some experience working with routers and switches.  The only real way to learn how to troubleshoot is to develop that ability while working on live equipment.
+
+Of course, your company or client is going to take a very dim view of you developing this skill on their live network.  So what can you do?
+
+Assemble a Cisco home lab.  When you start working with real Cisco equipment, you're doing yourself a lot of favors. First, you're going to be amazed at how well you retain information that will become second nature to you before exam day.  But more importantly, both for the exam room and your career, you're developing invaluable troubleshooting skills.
+
+Don't get me wrong, I'm not saying knowing the theory of how routers and switches work is unimportant.  Quite the opposite - if you don't know networking theory, you're not going to become a CCNA or CCNP.  But the ability to apply that knowledge is vital - and the only way you can get that is to work on real Cisco routers and switches.  As for these "router simulators" on the market today, ask yourself this simple question: "When I walk into a server room, how many router simulators do I see?"
+
+I often tell students that they'll do their best learning when they screw something up.  I've had many a student tell me later that I was right - when they misconfigured frame relay, ISDN, or another CCNA / CCNP technology and then had to fix it themselves, it not only gave them the opportunity to apply their knowledge, but it gave them the confidence to know they could do it.
+
+And you can't put a price on confidence - in the exam room or in the network center!
+
+

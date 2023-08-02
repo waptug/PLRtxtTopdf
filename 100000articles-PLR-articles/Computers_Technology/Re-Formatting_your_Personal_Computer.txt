@@ -1,0 +1,26 @@
+Title: 
+Re-Formatting your Personal Computer
+
+Word Count:
+323
+
+Summary:
+As a personal computer is used it becomes more and more overworked and overloaded. It has less storage space, picks up spyware and viruses which ultimately slows down the performance of the computer. If nothing else can be done a last resort is re-formatting the computer.
+
+
+Keywords:
+format, windows
+
+
+Article Body:
+As a personal computer is used it becomes more and more overworked and overloaded. It has less storage space, picks up spyware and viruses which ultimately slows down the performance of the computer. If nothing else can be done a last resort is re-formatting the computer.
+
+Re-formatting a computer is quite simple with Microsoft Windows XP. The first step is setting your computer to boot from the CD-ROM. This can be done in the BIOS. For most mother-boards, pressing delete while the machine is booting will get you into the BIOS menu. There you simply need to navigate to the “boot sequence” and set the first boot device to the CD-ROM. Once this is done you can put your Windows XP CD in and restart the machine. This will bring you to the Microsoft menu. Here you can choose how you want to proceed with your installation. 
+
+A good piece of advice would be to back everything up before you proceed with the format. Formatting a computer deletes everything off the hard drive so if you have any music or documents that you need to preserve back them up onto an external hard drive or a CD before you go ahead.
+
+The first option is installing Windows again alongside the existing operating system. This is not the option we want but would not be recommended none the less. You need to choose the format option. With Windows XP you can choose either quick format or regular format. With a 120gb drive a quick format will take about 10 minutes while a regular format can take up to an hour. Quick format would be the preferable option.
+
+Once you click format all you have to do is wait. Once the format is complete you need to go through the steps of installing Windows. Once this is done your computer will be refreshed and as fast as the day you bought it home from the shops.
+
+

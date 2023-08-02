@@ -1,0 +1,41 @@
+Title: 
+How to choose smart Stop Loss in Forex Trading
+
+Word Count:
+397
+
+Summary:
+Learning to place smart stop loss is essential in winning in Forex. Putting a static 100 pip stop loss may not work very well in every situation. Hence I learned some advance ways and would like to share them with you:
+
+
+Keywords:
+forex, signal, free, ozfx
+
+
+Article Body:
+Here is step by step guide:
+
+   1. If price is close to recent high or low then place SL 5-10 pips above or below that point. This is very important. Prices do go back to test recent highs and lows and we need to set SL as per the recent price action. Trading on daily chart is bit tricky where such SL can be even 30-40 pips more on top of your static 100 pip SL.
+
+   2. Another point to take care is that don’t place SL on important boundary numbers such as 00 or 50 mark. These points are tested often and you can easily be stopped out.
+
+   3. Place your stop loss on odd numbers excluding 1 and 9. Never place SL on even numbers.
+
+ 
+Believe It or Not!!!
+
+Let me surprise some of you by saying that Brokers HUNT for your SL. That’s true. Forex is unlike Dow where everything is run by one organization and prices don’t vary from broker to broker (those broker makes money by giving you a worse fill than you would expect + commissions). Brokers in Forex can manipulate prices as they like and hence they go after your SL.
+
+Now why brokers will want to you to loose?? Well every time you open a position, a broker opens an opposite position. So when you loose they win. They also want you trade more often, since they make money either in commission or spreads (or both). The only way they can force you to trade again is to stop you out.
+
+Why you think brokers give out free market research and trading ideas?? If all of their traders are trading the same way then it is easier for them to take them out.
+
+I am sure that some people would disagree (the ones working for broker J ) but it is something to think about.
+
+So How To Beat The Brokers:
+
+Simple, don’t place any Stop Loss. That’s right. It is not a typo. What you need is a Mental SL. You should know at price you will take your losses and set up alarms on your trading station when the price reach close to the mental SL you had in place. This can be challenging for some people but if you are lucky enough to get this working then there is nothing like it.
+
+Hope this helps you in placing better SL from now on.
+
+

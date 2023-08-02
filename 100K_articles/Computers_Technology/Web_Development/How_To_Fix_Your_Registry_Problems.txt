@@ -1,0 +1,46 @@
+Title: 
+How To Fix Your Registry Problems
+
+Word Count:
+372
+
+Summary:
+The latest statistics have shown that approximately 92% of computers have corrupt and possibly harmful files. On average, almost each PC will have about 130+ errors on them due to corrupt or missing registry entries. So the question is,when and why do registry problems occur?
+
+Well clearly If your system is new, you usually will not require the need to effect any changes to your registry due to the fact that no new programs have been installed and removed. However, over a p...
+
+
+Keywords:
+regcure,reg cure,registry fixer,registry cleaner,how to fix your registry,clean registry
+
+
+Article Body:
+The latest statistics have shown that approximately 92% of computers have corrupt and possibly harmful files. On average, almost each PC will have about 130+ errors on them due to corrupt or missing registry entries. So the question is,when and why do registry problems occur?
+
+Well clearly If your system is new, you usually will not require the need to effect any changes to your registry due to the fact that no new programs have been installed and removed. However, over a period of time, your registry will grow as you add and remove software, hardware and general programs on your computer. These constant additions and removals will eventually cause your windows registry to become fragmented, corrupted or full of errors. 
+
+Lets have a brief look at the common errors a computer has,as a result of registry problems:
+
+Common errors include:
+
+1.Missing,broken or bad application/Windows paths, shortcuts and links
+
+2.Unwanted browser objects
+
+3.Unused and obsolete Start Menu items
+
+4. Missing or corrupt application files
+
+5. Corrupt Active X/COM Objects
+
+6.Obsolete shared DLLs and folders. 
+
+7.Registry integrity and shell folder entries including My Documents, profiles and favourites. 
+
+and the list goes on and on.Now, most people don't have extensive knowledge about computers and do not know what the above entail, but that's okay.You see,when you remove software from your system it is highly probable that residuals will still be littering your hard drive and your regsitry.
+
+The result of this is that you will receive the symptoms of frequent error messages, slow start-ups, sluggishness, declining performance, severe degradation in operating speed, unstable and frequent application errors and crashes, and, at times, even an inability to start Windows.And why do these problems occur? They occur due to the constant installation and removal of applications including trial downloads, the fact that some programs never really uninstall completely leaving traces in your registry and that you also have unused and undeleted drivers within your computer system.
+
+I have done a lot of research on finding a good registry cleaner which can do the.Having said that I currently utilize a program called RegCure.For more information on how to fix your registry as well as RegCure please visit my homepage below.
+
+

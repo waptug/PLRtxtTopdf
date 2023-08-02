@@ -1,0 +1,64 @@
+Title: 
+Economic Data And Its Influence On The Financial Markets
+
+Word Count:
+631
+
+Summary:
+The things which contribute to price levels and action in the financial markets are numerous and diverse, and their influences can vary through time, and across different markets. This article identifies the different types of Economic Data influences and the role they play.
+
+There are two ways economic information can influence prices. The first is in the macro sense. Macroeconomic inputs include:
+
+Interest Rates
+Economic Growth (GDP)
+Government Budget Surpluses/Defici...
+
+
+Keywords:
+trading, investing, fundamental anlysis, economic data, data release, financial markets
+
+
+Article Body:
+The things which contribute to price levels and action in the financial markets are numerous and diverse, and their influences can vary through time, and across different markets. This article identifies the different types of Economic Data influences and the role they play.
+
+There are two ways economic information can influence prices. The first is in the macro sense. Macroeconomic inputs include:
+
+Interest Rates
+Economic Growth (GDP)
+Government Budget Surpluses/Deficits
+Trade Balances
+Commodity Prices
+Relative Currency Exchanges Rates
+Inflation
+Corporate Earnings (both for individual companies and the broad collection)
+
+These elements will generally all have long-term inputs in to the pricing of any given market. They do not tend to move in sharp, dramatic fashion, so their influences also tend to be seen over longer periods of time.
+
+That said, the release of economic data related to the above can be seen to have serious impact in the short-term activity in the markets. This comes primarily in the form of data releases. Some of the most important are:
+
+Employment Data
+Trade Data
+GDP growth figures
+Consumer & Producer Inflation rates
+Retail and Wholesale Sales
+Confidence & Sentiment Readings (U. Michigan survey, etc.)
+Income & Spending
+Production
+Interest Rate policy decisions
+Earnings releases
+
+The markets can react in very, very dramatic fashion to these releases when they are out of line with expectations. The foreign exchange market, namely the EUR/USD exchange rate, provides a striking example.
+
+On one Friday morning at 8:30 Eastern the monthly Non-Farm Payrolls report hit the wires. This report (released on the first Friday of each month) probably provides the most short-term volatility across all market sectors of any regular economic release. When the data comes in well off of market expectations, fireworks can ensue, as was the case in the example. Over the course of about 2-3 minutes EUR/USD fell more than 20 pips, turned around and rose about 60 pips, then fell back down to near where it had been before the data was announced (a pip being 1/10,000 of a Dollar). It then proceeded to run nearly 100 pips higher in fairly steady fashion over the course of the next hour.
+
+Here is another example, this time of T-Bond futures.
+
+When those payroll figures were released at 8:30 the market dropped more than two full points. One point on the T-Bond futures contract is worth $1000, so each contract fell more than $2000 in about two minutes. Consider that the margin on a contract at the time was probably around $2500. That means a trader could have lost more than 80% on the trade in the blink of an eye.
+
+It is also important to understand that in the futures pits such data events often result in fast market conditions. This means that the action is so hectic that there may literally be trading going on at several different prices in different parts of the pit. This is a risk of having open positions at the time of a major news release. The market may snap back fairly quickly, as in the chart above, but in the meantime the trader’s positions may have been liquidated on a stop order at a substantial loss.
+
+Fortunately, all major economic releases are well documented. They are done on a pre-announced calendar which is readily available on any number of web sites, and of course in the business news media. In the vast majority of cases, one can also find out ahead of time from any number of sources what the expectations are for the release.
+
+Foreknowledge of pending data events may not prevent losses which may result from unexpected figures. It will, however, allow the trader to recognize and understand when risks are increased. Make sure, especially if you are a short-term trader, to know what data is coming out. It can make a difference in your performance.
+
+

@@ -1,0 +1,23 @@
+Spamdexing-the Bane of Search Engine Optimization
+
+Methods that manipulate the relevancy or prominence of resources indexed by a search engine, usually in a manner inconsistent with the purpose of the indexing system is called Spamdexing.
+
+The sheer amount of information available on the internet is mind-boggling. In 2000 a study indicated that the internet's search engines where only capable of indexing approximately sixteen percent of available pages. That sixteen percent adds up to pages and pages of potential hits. There are typically ten hits per page. The average internet user never goes farther then the first set of ten. Webmasters use a variety of techniques to increase their ranking. The art and science of making web pages attractive to the search engines is called search engine optimization.
+
+The importance of a high search engine ranking started driving webmasters to use a variety of tricks to improve their ranking the middle of the 1990's. On May 22, 1996 The Boston Herald printed an article written by Eric Convey titled "Porn Sneaks Way Back on Web." It is the first time the term spamdexing was used. The word spamdexing is the merging of the word spam, the internets term for unsolicited information, and indexing.
+
+There are two types of spamdexing. The terms are content spam and link spam.
+
+Content spam is the use of techniques that alter the search engines view of the pages content. Some methods of content spam include the use of hidden text, keyword stuffing, Meta tag stuffing, doorway pages, and scraper sites.
+
+Taking advantage of link-based ranking algorithms which in turn gives a higher ranking to a website is called link spam. Link spam methods include link farms, hidden links, Sybil attack, wiki spam, spam blogs (also referred to as splogs), page hijacking, buying expired domains, and referrer log spamming.
+
+Some people consider spamdexing a black hat method of internet search engine classification.
+
+Key word stuffing is a favorite type of content spamdexing. Key word stuffing is including a key word hundred of times on a single webpage. Given the sheer volume of the word the search engine automatically gives that particular webpage a higher ranking then one that might use the word legitimately. Most websites that employ keyword stuffing place the words at the bottom of the page or write it with text that the person surfing the web can't see. Some search engines try to discourage key word stuffing by ranking websites with an excessive number of keywords at the bottom of the ranking.
+
+Some web masters like to include the name of a famous person on their site as a keyword. The name attracts the attention of search engines and web surfers even though the web site has nothing to do with the person.
+
+Some websites try to steal web surfers from their competitors by including their name as a keyword in the body text and meta tags. By doing this the webmaster has guaranteed that the search engines with index it accurately. Using the name of a competitor in the body of a website is normally a direct violation of the copyright law.
+	
+

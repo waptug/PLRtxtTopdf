@@ -1,0 +1,80 @@
+Title: 
+How To Tuneup Your PC
+
+Word Count:
+940
+
+Summary:
+Make Your PC Run Fast Again By Scheduling A Regular Tune Up:
+
+Your computer is just like a fine race car! Both must be expertly maintained to run at their optimum speed and performance levels. Unlike a formula 1 racer however, your PC is relatively easy to fine-tune, and we will guide you through the process with simple step-by-step instructions.
+
+Initial tune-up
+
+After getting all the programs setup on your PC the way you want, there are a few tasks that will help you ...
+
+
+Keywords:
+regcure, registry cleaner, registry repair
+
+
+Article Body:
+Make Your PC Run Fast Again By Scheduling A Regular Tune Up:
+
+Your computer is just like a fine race car! Both must be expertly maintained to run at their optimum speed and performance levels. Unlike a formula 1 racer however, your PC is relatively easy to fine-tune, and we will guide you through the process with simple step-by-step instructions.
+
+Initial tune-up
+
+After getting all the programs setup on your PC the way you want, there are a few tasks that will help you get the most out of your system. The following maintenance tasks should be performed initially and will form the basis of a solid tune-up program for your PC:
+
+1. Install and Update your Antivirus & Anti Spyware software:
+
+The last thing you need is a computer virus ruining your day by infecting your computer and either destroying valuable data, or spreading your personal information all over the internet! We cannot stress enough the importance of making sure you have a solid and reliable Anti-Virus program installed on your computer.
+
+Spyware and Adware is almost an even bigger problem these days than Computer Viruses! If you have ever downloaded anything online, music, books, files, etc...or if you have ever installed downloaded programs on your computer, chances are you have multiple spyware infections.
+
+Pop-up windows and windows error messages are a prime indicator of Spyware and Adware infections on your computer.
+
+Spyware is a hidden software program created to steal your personal information, and report back to their creators with anything from your online browsing habits and patterns, to your stored credit card numbers! identity theft is a growing problem, propagated in part by Spyware!
+
+2. Update your software and drivers
+
+Make sure your computer has the latest video, hardware and software drivers it needs to run at optimum speed and efficiency. We recommend that Microsoft Windows Update be used on a consistent basis. Microsoft and other hardware and software manufacturers will regularly post updated drivers and fixes for their products. Most vendors use the Windows Update tool to distribute their updates.
+
+The Windows Update tool can be accessed on your computer by clicking Start, right-click My Computer, and select Properties.
+
+Click the Automatic Updates tab, and select Keep my computer up to date.
+
+Keeping Windows updated can solve many errors you may experience.
+
+3. Defragment your hard drive
+
+Defragmenting your hard drive is an easy task that will improve your system's speed and performance (especially noticeable with larger programs).
+
+As you install and uninstall different software programs, data becomes scattered across your hard drive in various areas. This results in your computer taking a longer amount of time to find data it needs, which makes your system run slower. This holds true even after installing a new program on your computer.
+
+Starting Disk Defragmenter
+
+Using Disk Defragmenter is easy and once started will work without the need to monitor the process. Depending on the size of your hard drive and the amount of fragmented files defragmentation of your files can take up to several hours to complete. Follow the procedures below to start defragmenting your hard drive.
+
+* 1. Shut Down all programs that are running. including background programs and screensavers.
+* 2. Click Start, All Programs, Accessories, then System Tools.
+* 3. Click Disk Defragmenter. Follow the onscreen instructions. If Disk Defragmenter starts itself over and over, then a hidden background program is still accessing the hard drive. Restart the computer in Safe mode and try again.
+
+4. Create a Backup Or Restore Point Regularly On Your Computer
+
+A Virus, Spyware or other bug could easily wipe out your data without chance of recovery! Make sure you are regularly backing up any data you don't want to lose (burning it to disk is an easy and cost effective way of backing up important data).
+
+Microsoft offers a Data Backup to automate the process, A virus or software bug could wipe out data without any chance of recovery. Devise a strategy for backing up your files now. Any important data that you do not want to lose should be backed up regularly. This can be done in any of a number of ways. Simply write the files to a floppy diskette, USB drive, or a CD-R. You might also consider using RecordNow!’s System Backup or Microsoft’s Data Backup to automate the backup process.
+
+5. Clean Your Computer Registry Regularly
+
+If you're running any version of Windows on your computer, then you have a Windows registry. This Windows Registry is where all the information about your computer is stored. The registry includes installation data about the software you run and all of your computer's preferences, settings, and registry keys. Everything about your computer is essentially stored in your windows registry.
+
+Over time, as you install new programs, delete others, and use your computer, the Windows Registry grows. Sometimes you will get errors when you start your computer. In extreme instances you will experience computer freeze-ups and possibly even system crashes. Your computer can start running 'slower' as well, which makes for annoying and time consuming 'hang' times, where you essentially stare at your monitor in a trance, waiting for control of your mouse cursor to be restored to you once again!
+
+Fortunately, there is an easy solution to Registry build-up. You need to run a registry cleaner tool on a regular basis (depending on computer usage). This software will scan your Registry to find the unnecessary data and delete it...the end result should be a computer that runs as fast as the day you brought it home!
+
+RECOMMENDED: Put Your Computer Tune Up Schedule On Auto Pilot by downloading and running our recommended Free PC Optimizer: RegCure.
+
+

@@ -1,0 +1,50 @@
+Title: 
+Photoshop Layers Tutorials
+
+Word Count:
+399
+
+Summary:
+Layers are a powerful feature of Photoshop that allow you to work on one part of an image without disturbing the rest of it. While the concept of layers may seem intimidating at first, once you get the hang of using layers you’ll wonder how you ever survived without them!
+
+The transparent parts of any layer, shown by the checkered grid, allow the layers beneath that layer to show through. You can show and hide each layer in an image by clicking on its corresponding eye icon...
+
+
+Keywords:
+photoshop,adobe,tutorials,paint,photography,photoshop 7,photoshop cs,photoshop tips,
+
+
+Article Body:
+Layers are a powerful feature of Photoshop that allow you to work on one part of an image without disturbing the rest of it. While the concept of layers may seem intimidating at first, once you get the hang of using layers you’ll wonder how you ever survived without them!
+
+The transparent parts of any layer, shown by the checkered grid, allow the layers beneath that layer to show through. You can show and hide each layer in an image by clicking on its corresponding eye icon in the Layers palette.
+
+To organize your layers, you can arrange them into layer groups by going to Layer > New > Group…. Each layer group displays in the same way as any ungrouped layers on the Layers palette. A layer group is signified by a folder icon. You can collapse or expand layer groups by clicking on the triangle to the left of the folder icon, and nest layer groups within each other by dragging one folder icon into another.
+
+Here are 10 quick Layer Shortcuts.
+
+1 - Rename layers by double-clicking on the layer name.
+
+2 - Select a layer by using the keyboard shortcuts Alt-[ and Alt-] (Option-[ and Option-] on a Mac).
+
+3 - Merge a layer into the one beneath it by pressing Ctrl- E (Command-E). If you have selected layers, this shortcut
+will merge those selected layers together.
+
+4 - Change the transparency of a layer by changing its opacity with the Opacity slider, or typing a value into the
+Opacity box (which is visible when you have the Selection, Move, or Crop tools selected).
+
+5 - Duplicate a selected layer by pressing Ctrl-J (Command-J on a Mac). You can also duplicate a layer by dragging it
+while pressing the Alt (Option) key.
+
+6 - Select multiple layers by holding down Ctrl (Command on a Mac) and clicking the layer names. This forms a temporary link between the selected layers that allows you to move them as one unit, delete them all, and so on.
+
+7 - You can also link layers together. Select layers by clicking on them while holding down Shift or Ctrl (Command
+on a Mac).
+
+8 - To unlink all the layers, select one of the linked layers and go to Layer > Unlink Layers.
+
+9 - To temporarily unlink a layer, hold down Shift and click on its link icon (a red “X” will appear over the link icon).
+
+10 - Reactivate the link by holding down Shift and clicking the link icon again.
+
+

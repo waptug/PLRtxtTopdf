@@ -1,0 +1,50 @@
+Title: 
+How Do Fiber Optic Connectors Work?
+
+Word Count:
+457
+
+Summary:
+How do optical fibers work?
+
+The history of fiber optic telecommunication deserves a book by itself since it took several generations to get the industry today. You can get some good readings here: http://wiki.fiberoptics4sale.com/FiberOpticsHistory
+
+Optical fiber is a long thin cylindrical fiber made from glass or plastic, as tiny as one tenth of a human hair. A standard telecom optical fiber is composed of three cylindrical layers, counted inside out: fiber core (diamet...
+
+
+Keywords:
+fiber optic connectors, sc, st, fc, lc, mtrj
+
+
+Article Body:
+How do optical fibers work?
+
+The history of fiber optic telecommunication deserves a book by itself since it took several generations to get the industry today. You can get some good readings here: http://wiki.fiberoptics4sale.com/FiberOpticsHistory
+
+Optical fiber is a long thin cylindrical fiber made from glass or plastic, as tiny as one tenth of a human hair. A standard telecom optical fiber is composed of three cylindrical layers, counted inside out: fiber core (diameter 8~10um), cladding (diameter 125um) and buffer coating (diameter 900um).
+
+Fiber core and cladding is made from glass or silica. Fiber Core and cladding layers work together to confine the light inside the core without leaking. Fiber buffer coating is made from acrylic or plastic and provides handling flexibility and physical protection for the fiber.
+
+Optical fibers utilize an optical phenomenon called total internal reflection. When light is injected into the fiber from end face, it is confined inside the core without leaking outside and losing its energy.
+
+Then light is digitally modulated to represent 1 and 0 just like a computer, so information can be carried from one site to another site which may be from San Francisco all the way to New York.
+
+What are fiber optic connectors and how do they work?
+
+Now you know how optical fibers work. So what is a fiber optic connector and what’s its function in a fiber optic telecommunication network?
+
+Put it simple, a fiber optic connector’s function is just like an electric power plug, it connects light from one section of optical fiber to another section of optical fiber.
+
+Since optical fibers are so tiny, fiber optic connectors have to be made with high precision, at the scale of 0.1um which is one hundredth of a human hair.
+
+Fiber optic connectors align two fibers end to end so precisely that light can travel from one fiber into another without bouncing off the interface and loss its signal.
+
+Besides, fiber optic connectors provide cross connect flexibility for the telecommunication network. So a complicated computer network could be made modular and easy to manage.
+
+Just like any other connectors used in electric industry, electronic industry and computer industry, many different kinds of fiber optic connectors were invented along the development of fiber optic communication industry. Some of them once were very popular in the industry and now have served their purposes and are fading away.
+
+The most popular fiber optic connectors used nowadays are SC, ST, LC, FC, MTRJ, SMA and a few of other less popular ones. Sure you will see new connectors invented with the progress of this industry.
+
+Here is another fiber optic connector tutorial which you may be interested in: http://www.fiberoptics4sale.com/Merchant2/fiber-optic-connectors.php
+
+

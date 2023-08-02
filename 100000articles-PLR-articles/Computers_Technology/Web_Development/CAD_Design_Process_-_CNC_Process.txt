@@ -1,0 +1,44 @@
+Title: 
+CAD Design Process - CNC Process
+
+Word Count:
+342
+
+Summary:
+CAD Design Process
+
+When designing something complex in CAD you will find there is a bit of a process. First you design parts. Then you build the parts into Sub-Assemblies. Next you build sub-assemblies into Groups. Then you build the groups into the machine. It is a logical pyramid process. You can also think of it like a file structure inside of a computer.
+
+Designing Parts
+
+Parts are your building blocks. Without this level, nothing could be produced. The part level ...
+
+
+Keywords:
+cnc, cad, cad software, computer aided design drafting, aided cad computer design
+
+
+Article Body:
+CAD Design Process
+
+When designing something complex in CAD you will find there is a bit of a process. First you design parts. Then you build the parts into Sub-Assemblies. Next you build sub-assemblies into Groups. Then you build the groups into the machine. It is a logical pyramid process. You can also think of it like a file structure inside of a computer.
+
+Designing Parts
+
+Parts are your building blocks. Without this level, nothing could be produced. The part level breaks the entire “thing” down to its simplest form. You also manufacture at the part level. You make parts, and then assemble them into other things. Parts are generally made out of raw materials.
+
+Think of a differential on the rear axel of a car. The differential is made up of gears and a housing. Each of these are parts of the differential and the differential is the assembly of these parts.
+
+Designing Sub Assemblies
+
+Sub Assemblies are the next level up and I am guessing you are getting the idea. You first design parts, then put them together into sub assemblies. In the car example above the differential is a sub assembly in the axel “Group” of the car. Sub Assemblies are put together to form groups.
+
+Designing Groups
+
+Moving up the design chain, groups are usually things you can identify with. It could be a door, engine, transmission, or cooling package on a car. Above we used the example of an Axle as a Group. Groups are put together into machines. Our example is a car, which is at the machine level.
+
+Designing the Machine
+
+Finally, the top level of all your designing, the machine. The machine could be built for the end user or be sold to another manufacturer. That manufacturer could use your “machine” as a sub assembly or group. You can see all this is just a matter of viewpoint. You can consider just about anything a sub assembly, group or final machine. It is all just semantics and what you are using the item for.
+
+

@@ -1,0 +1,54 @@
+Title: 
+Create Your Own Keyboard Shortcuts And Talking Web Sites
+
+Word Count:
+411
+
+Summary:
+You can easily launch programs or web sites that you frequently use by assigning a keyboard shortcut (hotkey) then pressing Ctrl+Alt+ the key you've selected when you wish to launch the program or web site.
+
+Locate the item that you want to create the hotkey for either on your desktop or by going to start > programs.
+
+Right click on your mouse and select properties from the menu. In the blank labeled shortcut key, place the key that you would like to assign as a hotkey, m...
+
+
+Keywords:
+keyboard shortcuts, PC tricks and treats, talking web sites,
+
+
+Article Body:
+You can easily launch programs or web sites that you frequently use by assigning a keyboard shortcut (hotkey) then pressing Ctrl+Alt+ the key you've selected when you wish to launch the program or web site.
+
+Locate the item that you want to create the hotkey for either on your desktop or by going to start > programs.
+
+Right click on your mouse and select properties from the menu. In the blank labeled shortcut key, place the key that you would like to assign as a hotkey, most will work. Click okay.
+
+Be sure that you keep a list of your shortcuts with your keyboard for easy reference. ;o)
+
+Now, Let's Make Your Web Site Talk.
+
+Do you realize that you have the ability to make your web site talk using your own computer... with programs that are already there?
+
+I've seen a number of businesses promoting talking web site services that range in price from $30 to $199 per month. Of course the obvious question is what happens when you discontinue those services?
+
+I'm willing to wager that they discontinue your sound files and your site doesn't talk any more.
+
+~All that work down the drain.~
+
+This is all that there is to letting your voice be heard:
+
+1. Click on these in turn, Start, Programs, Accessories, Entertainment, Sound Recorder
+
+2. A little box will come up with a red button on the right side. Click the red button and record your message.
+
+3. To save your recording, click on File, Save As, and set up a new folder just for sound files.
+
+To put the file on your web site you simply upload it as you would any other file.
+
+There are things to consider in doing this, if you put your sound file directly on the page as is, it will play when the page is opened and may startle your visitor. Not a good thing. The second consideration is that when you put a sound file directly on the page it dramatically slows down the opening of the page. My first talking page went from 9 seconds over 56.6 to 79 seconds when the sound file was put on the page.
+
+To bring the web page, back to 9 seconds over 56.6 and to allows the web visitor control whether they want to hear the recording, I put the sound file in same directory as the article and used a text link in the article to link to the .wav file.
+
+Everything is easy when you know how.
+
+

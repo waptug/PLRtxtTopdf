@@ -1,0 +1,36 @@
+Title: 
+Antivirus Software - Protect Your Pc From Malicious Virus Threats
+
+Word Count:
+435
+
+Summary:
+Many computer users have had the unfortunate experience of computer virus infecting their PCs. Make no mistake, these viruses are not the biological ones that spread from one sick person to another, but do have similar traits in that computer viruses are just as contagious, and spread and infect computers very quickly over the internet.
+
+Technically speaking, a computer virus is a form of executable code. These viruses are designed to cause malfunctions on the affected comp...
+
+
+Keywords:
+antivirus,norton antivirus,antivirus software,free antivirus,antivirus and security,free antivirus
+
+
+Article Body:
+Many computer users have had the unfortunate experience of computer virus infecting their PCs. Make no mistake, these viruses are not the biological ones that spread from one sick person to another, but do have similar traits in that computer viruses are just as contagious, and spread and infect computers very quickly over the internet.
+
+Technically speaking, a computer virus is a form of executable code. These viruses are designed to cause malfunctions on the affected computer. When other computers are connected to this infected machine, the virus replicates itself to enter and infect the other PC.
+
+You might have heard of the Worms or Trojans, which are viruses that are designed to steal important personal information such as your ID or passwords or account numbers etc that reside on your computer. They can also enable the particular virus to gain access into a machine and then hijack control of the infected computer. Other viruses, especially the macro viruses, are designed in such a way that they can delete or overwrite system or data files in the affected computer.
+
+Installing antivirus software is by far the best solution to protect your PC from attacks from these computer viruses. The best known antivirus software are the Norton, McAfee and Panda, which come with features such as inbuilt firewall and direct access to online back up. These antivirus software also have the ability to deactivate the malicious viruses.
+
+The antivirus software protects your computer from virus attacks following two main methods, the first method being prevention, and the second one cleaning. The preventive function involves stopping new viruses from entering your PC, while the cleaning function involves detection and extermination of the old viruses. The protective tasks include such procedures as monitoring emails, P2P downloads and internet connections. On the other hand, the virus cleaning part includes procedures such as scanning of your computer, detecting viruses and then eliminating them from the computer system.
+
+Antivirus software are generally very efficient in dealing with harmful computer viruses. Even so, computer users are recommended to follow certain safety rules to tighten the protection even more:
+
+* A common mistake most people tend to make is to open unsolicited emails that contain virus, either unknowingly or absent-mindedly. Never open such emails if you want to protect your precious data from getting lost once and for all.
+
+* Another precautionary measure involves not opening any attachment sent with an email. Unless you are sure of its source and what it contains, it is usually better to just delete this mail with the doubtful attachment.
+
+* Make sure to also use a personal firewall.
+
+

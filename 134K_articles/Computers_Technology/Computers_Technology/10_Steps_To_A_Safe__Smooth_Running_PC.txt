@@ -1,0 +1,50 @@
+Title: 
+10 Steps To A Safe, Smooth Running PC
+
+Word Count:
+857
+
+Summary:
+10 Steps To A Safe, Smooth Running PC  will guide you through the process of improving the performance of your computer.
+
+
+Keywords:
+computers viruses spyware security antivirus firewall
+
+
+Article Body:
+10 Steps To A Safe, Smooth Running PC By Michael A Silva
+
+These ten steps will help you increase your computer's security. From discovering viruses to learning how to avoid them, this article is a must read!
+
+Windows password This is the easiest way to make sure you know who is using your pc. Choose a lengthy password that contains capital and lower case letters. Including a number or two will greatly increase your security. Having a Windows password means that the only people that can log onto a Windows session are people that you have granted access to.
+
+Password manager You should never write your passwords down. Using the same password all the time will also make it very easy for hackers to reach your personal information. So if you can’t write it down and you’re not
+supposed to use the same one – how are you supposed to keep track of all of your passwords? The easiest way to do this is to use a password manager. We prefer to use Roboform. Roboform is an easy to use password and profile manager that docks neatly into your Internet Explorer toolbar and keeps track of all of your passwords for you. Roboform also uses a master password system. You will have one password that accesses all of the passwords in the program. This way you can keep all of your information safe and secure. You can download Roboform for free by http://www.roboform.com.
+
+Spyware Remover Next to spam, spyware is the internet’s biggest annoyance. By definition, spyware is “any software that covertly gathers user information through the user's Internet connection without his or her knowledge, usually for advertising purposes. Once installed, the spyware
+monitors user activity on the Internet and transmits that information in the background to someone else. Spyware can also gather information about e-mail addresses and even passwords and credit card numbers.” The amount of spyware that exists on your pc is dependent on the amount of internet surfing you do. A good rule of thumb here is to scan for spyware once per week or whenever poor system performance surfaces. If you don’t have a spyware scanner, we recommend http://www.webroot.com.
+
+Antivirus This should go without saying, but if your computer is connected to the internet you need antivirus software. With weekly scans and program updates you should be protected from most threats. For added protection, we
+recommend using more than one anvtivirus scanner.
+
+Firewall A firewall will keep unwanted visitors out of your computer. You can obtain a firewall either by using software application like ZoneAlarm or Black Ice Defender, or by using a router with your internet connection. For more information on routers plese visit http://www.Linksys.com.
+
+File sharing Basically, file sharing programs are the single biggest security risk you will come across. This is because the only facts you have about the files you are downloading are the file name and the file size. It is quite simple to change a filename to dupe someone into downloading a virus or other malware like keystroke recorders. Our advice – stay away from file sharing at all costs. If you need to use it, make sure you have updated antivirus software installed and running.
+
+Research In a sentence – know what’s out there. http://www.Symantec.com  has a section on their website  that will serve you well. Knowing what types of viruses exist  and how to avoid them will make you a much smarter internet user.
+
+Email protection Most of the antivirus applications available offer email scanning. If yours does not, you will want to get one that does. Email scanning will make sure all of your incoming and outgoing emails are safe for both you and the recipient. Email viruses spread very quickly by using your address book to propagate. Never read email from people you don’t know and always make sure your email scanner is active.
+
+Network security Another way that viruses spread is through computer networks. We have a few quick tips to keep your network safe. Always scan any files that come in from other computers. Even if it’s a file you have brought from home. Never allow a file to be placed on your network until it
+has been scanned. The main server should be the only computer with file sharing enabled. By not allowing computer users to transmit files, you can quickly neutralize a threat.
+
+Maintenance Performing weekly virus and spyware scans will go a long way to keeping your computer safe. Defragmenting weekly will also greatly improve performance. If you put in the effort, you will be rewarded with a safe and smooth running pc. Not to mention less headaches!
+
+By following these ten guide lines, you will greatly improve the performance of your computer. You will also generate peace of mind as you gain a new sense of security.
+
+------------------
+
+For more information on affordable hosting packages, website builder software, dedicated and shared server packages, website design and promotion services and specialized fund raising and campaign websites please visit us at http://www.ipowereurope.com
+
+

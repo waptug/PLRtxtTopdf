@@ -1,0 +1,26 @@
+Title: 
+File Compare - Using File Compare Software To Improve Productivity
+
+Word Count:
+514
+
+Summary:
+For finding the difference between two files, there is need for matching two files and the operation for it is termed as file compare. File compare can be simply termed as comparing of files or handling of files. Ever since the computers come into force, the need for comparing files arised. So the file comparing programs were found out in those days itself. In early days it came out for command line utilities and then soon for graphics based applications. For problem troubles...
+
+
+Keywords:
+file compare,file comparison,compare files
+
+
+Article Body:
+For finding the difference between two files, there is need for matching two files and the operation for it is termed as file compare. File compare can be simply termed as comparing of files or handling of files. Ever since the computers come into force, the need for comparing files arised. So the file comparing programs were found out in those days itself. In early days it came out for command line utilities and then soon for graphics based applications. For problem troubleshooting as well as for tracking of the changes, while writing programs, file compare programs are very essential. There are programs which can compare more than two files and that in very short period. The files may be of text format or any other format.
+
+The functions of a file compare tool. In file compare there is compare function which compares the contents of two or more sources and contents might be file handle or file. Export of there files or file handles are done by default from file compare. For file compare there is a synonym i.e. cmp and it is exported by request only from file compare. Each line in the two files is compared line by line, by compare_ text. When the difference is detected the compare_ text stops. A third argument which is optional is accepted by compare _text {}.For line comparison Compare_text{} is a CODE reference. When the two lines are advised as equal, Compare_text{} returns as zero. If there is advice of inequality between the two files then the file compare and related functions will return 1.If there is an error then the return will be -1.These are very basic facts. And with too may programs with advanced features there are drastic changes in features.
+
+Now a day file compare programs are not just meant for comparing files as well as folders, but also for visualization of code changes, validation of the data copies, syncing of the directories, comparison of the output of programs, updating, comparison of source code versions, supports certain features, synchronization of fragments which differs, multilingual interface, highlighting of syntax for different languages, file management, edition, display and many more features depending on the programs.
+
+The latest trends and software. In new age file compare programmes tools for merging and visual files comparison which helps in comparison of different versions of text file which is same. Color coded comparison of files nearer to each other helps in easier understanding of difference in files in one glimpse. Printed reports of file comparison are possible these days. Usage of multiple platforms is significant as there will be need for dealing different operations of files of DOS, Mac systems, Windows, UNIX etc.
+
+One File compare is md5 to GUI front end command based on UNIX program. Some file compare programs are free versions so can be downloadable easily. So as per the sophistication of the files for comparison the right program has to be chosen. In this highly competitive software industry file compare is a boost for the programmer who tries for excellence.
+
+

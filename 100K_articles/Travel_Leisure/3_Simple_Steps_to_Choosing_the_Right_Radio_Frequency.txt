@@ -1,0 +1,32 @@
+Title: 
+3 Simple Steps to Choosing the Right Radio Frequency
+
+Word Count:
+765
+
+Summary:
+Radio Control modelling is completely dependent on radio frequencies. Often, enthusiasts of these popular sports are advised just to buy what's in the box. But what if it's the wrong choice for them or their circumstances? Or just downright inconvenient? This article explains the 3 simple steps to making the right choice about radio frequencies and getting maximum enjoyment out of your model.
+
+
+Keywords:
+radio control, rc model airplane,model airplane, radio frequency, electric model airplane
+
+
+Article Body:
+Copyright 2006 Bravos Direct
+
+When the RC frequency spectrum was first introduced to provide controlled facilities for radio control (RC) modelers, it was  limited to a set of just six. These frequencies were not labeled with channel numbers as they are today, but were represented by multi-colored flags; purple/white for 72.320 MHz (megahertz), red/white for 72.240 MHz, etc. Having only 6 frequencies to choose from was quite restrictive and meant a lot of RC airplane pilots had to be grounded, waiting to take their turn on a given frequency. The RC model airplane frequency spectrum today is much broader, consisting of 50 separate 72 MHz channels for general use, a few 27 MHz channels for park flyers, and a handful of other more specialized channels reserved for licensed amateur radio operators.
+
+So now you've decided to buy your RC model and radio equipment you also need to decide which radio frequency you are going to operate on.  Unlike most other features of the sport, choosing a popular channel which is used by lots of other people is not a good idea.  Choosing a standard 72 MHz frequency for your radio can be as simple as going to the local hobby store and  purchasing one with a standard radio setup. But randomly choosing a channel can result in a problem if you don’t do a little investigation first.
+
+Firstly, decide whether you are going to be a park flyer using 27 MHz or going for a more advanced setup on 72 MHz.  The 27 MHz channels are primarily dedicated to what are considered “park flyers”. These pre-packaged systems usually come with everything you need to get up and flying and are intended for the casual flyer that just wants to get out, get in the air, and not mess with the higher cost of a more complex airplane and radio setup. Choosing a RC model airplane park flyer package with a pre-set frequency needs little to no investigation since you have little choice as the packages give you a choice of only 3 or 4 channels, some FM(frequency modulated), some AM(amplitude modulated).
+
+Channel conflicts in a RC park flying situation are less common due to the large number of parks and flying areas available to the casual pilot.  But if you do invest in a park flyer then be aware that there may well be other pilots out there in the park using the same frequency as you – and that can mean expensive trouble when you lose control of your airplane because of someone else's signal, or even worse, if some stranger accuses you of causing his airplane to crash.
+
+Second, if you are going for 72 MHz then visit your flying field and find out what other people are using.  Imagine arriving to your favorite RC model airplane flying field only to find someone else already using the channel you have just paid out good money for. Some clubs have rules pertaining to what happens in this situation.  As only one pilot can operate at a time on a given frequency this usually means pilots having to switch off and take turns using the frequency – and some means of the club controlling the changeover process either by physically taking control of the transmitter or just having a procedure written into the club rules. If you are flying at a busy site that is not a sanctioned flying club with rules and bylaws, you might find yourself sitting out and unable to fly for the day.
+
+The smartest way to choose an RC frequency for your radio is to do some legwork first.  Visit the field where you will do most of your flying.  Investigate what channels are already in use and which channels are seldom used. Finding one that is infrequently used or not used at all will allow you to buy, secure in the knowledge that you will be able to fly with minimum interruption.
+
+Third, make sure you can change the frequency after you have bought the equipment.  If you take care to check before you buy whether the system will allow you to do a manual crystal replacement then if you run into a problem you can change later to a channel which is less busy.  Some crystal changes you can do yourself while others have to go back to the factory to have the work done.  Regardless of your current situation, if you already have an RC radio setup, or just thinking about getting one, doing a little footwork up front can go a long way to ensuring you get maximum enjoyment and flying hours out of your RC model.
+
+

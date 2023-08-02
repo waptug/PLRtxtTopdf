@@ -1,0 +1,50 @@
+Title: 
+Discover How To Easily Optimize Windows For Better Performance
+
+Word Count:
+578
+
+Summary:
+“My system is too slow.” 
+“Look how much time it takes to install things.” 
+“My system slows down while playing games.” 
+“My software doesn’t function correctly.” 
+
+These are some very common statements uttered by PC owners. You might be among one of these. Well if you are, here are some basic tips which can help you optimize the performance of your system by optimization of your operating system. 
+
+Windows system optimization is the most basic tool which can maintain ...
+
+
+Keywords:
+optimize windows, system optimisation, system optimize
+
+
+Article Body:
+“My system is too slow.” 
+“Look how much time it takes to install things.” 
+“My system slows down while playing games.” 
+“My software doesn’t function correctly.” 
+
+These are some very common statements uttered by PC owners. You might be among one of these. Well if you are, here are some basic tips which can help you optimize the performance of your system by optimization of your operating system. 
+
+Windows system optimization is the most basic tool which can maintain the performance of your system. You might be spending hours trying to adjust your CMOS settings, RAM frequency and even the registry setting of the windows. Well its time, you use some windows providing optimization tools for better performance of your system. 
+
+Disk Errors 
+Disk errors are most commonly prevalent in a majority of computer systems. And this is the most overlooked problem even by computer professionals. You often escape the disk error scanning which pops up after a bad shutdown. Well if you keep on escaping the disk error scanning, chances are that your hard disk would develop bad sectors. These bad sectors would initially hamper the proper functioning of your system and then can even lead to hard disk crash. 
+
+You should make sure that you allow the disk error scanning option to run and correct any of the disk errors on your hard disk. Once in a week you should also go for the thorough scan disk option which scans the hard disk for errors and corrects them. You should check all the partitions of your hard drive. You can access this option by right clicking on your hard drive partitions and selecting scan disk from the tools options. 
+
+Temporary File Cleanup 
+Cleaning the temp folder in your windows is very essential to get rid of all the unwanted files. These files are the left-overs of the programs which you have uninstalled from the system or other unwanted files. If you do not delete the contents of this temporary folder, the files could gather up to 100 MB of practically no use. You should delete these files as it would help in saving the hard disk as well. To delete these files select the Run option and type %temp% and press O.K. After it displays all the files, select all and delete them. 
+
+If you browse the internet with the help of explorer, the temporary cache files should be deleted from the temporary internet folder as well. 
+
+Defragmentation 
+Files which are stored randomly on your system tend to slow down its performance. Your system looks for the fragments of randomly distributed files from everywhere and eventually become slow. To bring back all the files of all programs together, use the windows de-fragmentation tool. This tool joins all the loose files and optimizes the performance of your window. 
+
+The Paging File 
+The paging file is widely known as the windows virtual memory file. This file is used by the system when the windows run short of the actual RAM. Windows keeps on increasing and decreasing the size of the page file, which in itself is not very efficient. This affects the accessibility of fragmentation of your files. You should rather define your own paging size. Select the minimum and maximum size of the virtual memory to be the same. A preferable size is about the double the RAM you have. 
+
+By following these basic windows optimization methods you can maintain a good performance of your system.
+
+

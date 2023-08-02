@@ -1,0 +1,73 @@
+Title: 
+Automatically Check Your Spelling In Oe
+
+Word Count:
+336
+
+Summary:
+Dear Computer Lady,
+
+Before my computer went to the shop, when I clicked on the send button in Outlook Express email it would check autimatically the spelling which was a huge help to me.
+
+Now it doesn't and I'd like to know how I can get that back like it was. I have Windows Xp.
+
+Thank you in advance, Cheryl.
+
+Dear Cheryl,
+
+I would be glad to tell yo uhow to get your Outlook Express to automatically check the spelling again. Just follow these directions:
+
+1. Open...
+
+
+Keywords:
+email, spelling, Outlook Express
+
+
+Article Body:
+Dear Computer Lady,
+
+Before my computer went to the shop, when I clicked on the send button in Outlook Express email it would check autimatically the spelling which was a huge help to me.
+
+Now it doesn't and I'd like to know how I can get that back like it was. I have Windows Xp.
+
+Thank you in advance, Cheryl.
+
+Dear Cheryl,
+
+I would be glad to tell yo uhow to get your Outlook Express to automatically check the spelling again. Just follow these directions:
+
+1. Open Outlook Express and click on "Tools" and then "Options..." in the menu bar.
+
+2. In the "Options" window, click on the "Spelling" tab at the top.
+
+3. On the Spelling page, click to put a check mark in front of the option that says, "Always check spelling before sending".
+
+4. Click the button at the bottom of the window that says "OK" to save your changes.
+
+For those of you using Microsoft Outlook, the steps are the same.
+
+If you are using Mozilla Thunderbird for your e-mail, follow these steps:
+
+1. Open Thunderbird and click on "Tools" and then "Options..." in the menu bar.
+
+2. In the Options window, click on the "Composition" icon in the top row.
+
+3. There are three tabs visible under Composition, click on the "Spelling" tab.
+
+4. Click to put a check mark in front of "Check spelling before sending".
+
+5. Click the "OK" button at the bottom of the window to save your changes.
+
+Microsoft does not include a spell checking program in Outlook Express. Instead, they used the spelling included with Microsoft
+Word. If you don't have Word installed on your computer there is a free program available to fix this problem. It is called Outlook Express Spell Checker.
+
+Many of the links to this program have been removed from the internet, but I have made it available from my website at:
+
+http://asktcl.com/free/freeOEspell.htm
+
+Just install the program once you download it, and you will be able to use Spell Check in your Outlook Express program.
+
+Elizabeth
+
+

@@ -1,0 +1,40 @@
+Title: 
+The Spy Who Robbed Me: What You Need To Know About Spyware
+
+Word Count:
+716
+
+Summary:
+The Spy Who Robbed Me: What You Need To Know About Spyware
+
+With the exception of those who are competing in reality TV shows, who wants to be watched?  Who wants to be seen in their most vulnerable and private moments?  Who wants to be deprived of his privacy and his freedom to keep things for himself?
+
+
+Keywords:
+spyware, adware, malware, trojans, worms, internet, online, security, privacy, antivirus, sofware, malicious, programs
+
+
+Article Body:
+With the exception of those who are competing in reality TV shows, who wants to be watched?  Who wants to be seen in their most vulnerable and private moments?  Who wants to be deprived of his privacy and his freedom to keep things for himself?  Most importantly, who wants to jeopardize his security by unwittingly exposing the things he should be keeping a secret to someone who’s watching from afar?
+
+Before you start thinking that we’re referring to a psychopathic voyeur who is observing you from the building adjacent to your house, let us clarify that we’re going to discuss about spyware.  Yes.  Spyware: a program which has been the bane to Internet users for the past three years.
+
+Spyware is one of those things that were invented for a good purpose, but was eventually exploited in time.  Spyware was originally meant as a tool that would allow you to monitor the usage of your PC terminal while you’re away from the keyboard so that you can prevent illegal access to the same.  Eventually, it found other borderline uses, like catching a cheating spouse or significant other, prying on your daughter’s liaisons, and watching over your children’s Internet activities from a remote computer.
+
+From pure to gray to black, spyware has now become a backdoor to high technology security protocols.  It does this without hacking any system, rather, by deluding a user into unwittingly installing the spyware program on his PC.  From there, the program would work invisibly, sending key logs, or log files of the characters you have punched on your keyboard, to someone else on a remote terminal.  This is why spyware is also called as a key logger program.
+
+Eventually, spyware evolved into more damaging forms.  Today, you would have invisible scripts redirecting you to certain websites which you have not chosen to view, or pop-ups that keep sprouting left and right even if you’re viewing a pop-up free website.  This has led the Anti-Spyware Coalition, a group of industry giants who are adversely affected by this digital malady as well, to define spyware as something that “impairs users control over material changes that affect their user experience, privacy or system security; use of their system resources, including what programs are installed on their computers; or collection, use and distribution of their personal or otherwise sensitive information.”
+
+The security risks posed by spyware programs cannot be ignored.  Imagine engaging in an online transaction wherein you send your credit card details in a secured network, only to stand losing such details once you log off as your key logs would be sent to someone else.  Also, personal details can also be stolen, resulting into a greater risk for your actual safety.
+
+But it is the violation of your rights that is the biggest issue.  With spyware, your freedom of choice and to feel secure about your personal effects is deprived of you.  This has no room in a civilized society. 
+
+Indeed, spyware is a modern day disease that should be curbed.  It now comes in a variety of forms aside from the aforementioned key loggers:
+
+  • ADWARE – is an invisible program that sends specific banners for you to see.  It may sound innocent, but this program actually      compels your PC to send personal details to the mother source so that the latter may know which ads to display.  Get a free trial spyware remover here: http://eauthorresources.com/naw.htm 
+  • HIJACKERS – these are programs that take control of your browsers, opening up pages which you do not choose to view. 
+  • MALWARE – these are programs which are not spyware per se, but operate under the same principle.  They are persistent      scripts that don’t seem to stop until your data are destroyed.  Examples of these programs are Trojans and worm viruses. 
+
+There are a lot of free tools in the World Wide Web that would allow you to rid your computer of these malicious programs.  Sometimes, however, the process of cleaning up results in the loss of valuable files.  The maxim “an ounce of prevention is worth more than a pound of cure” seems to be the best policy against spyware.  Always update your anti-virus system, so that spyware may not be allowed to incubate in your hard drive.
+
+

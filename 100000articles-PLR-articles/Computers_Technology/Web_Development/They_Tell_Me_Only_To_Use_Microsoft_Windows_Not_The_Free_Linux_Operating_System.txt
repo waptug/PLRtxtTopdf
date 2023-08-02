@@ -1,0 +1,62 @@
+Title: 
+They Tell Me Only To Use Microsoft Windows Not The Free Linux Operating System
+
+Word Count:
+880
+
+Summary:
+Most people purchase computers to run programs – whether it is to send email, browse the web, meet friends of girlfriends on msn messenger, do office work or just play solitaire.
+
+People buy computers to use programs for their functionality not to run operating systems be in Microsoft Windows, the new Microsoft Vista product , the Mac Operations Systems or the various Linux Operating Systems – be they Ubuntu Linux , Mandiva , Knoppix or Debian.
+
+At the heart of most compu...
+
+
+Keywords:
+linux,windows,microsoft,OS,computer,user,functionality,nube,ubuntu,badger,adger
+
+
+Article Body:
+Most people purchase computers to run programs – whether it is to send email, browse the web, meet friends of girlfriends on msn messenger, do office work or just play solitaire.
+
+People buy computers to use programs for their functionality not to run operating systems be in Microsoft Windows, the new Microsoft Vista product , the Mac Operations Systems or the various Linux Operating Systems – be they Ubuntu Linux , Mandiva , Knoppix or Debian.
+
+At the heart of most computer users is functionality and usability. It is as simple as that. It is an interesting situation that the Microsoft Corporation controls the vast lion’s share of the computer operating system market. Indeed it even has a major share holding of the next player in line – Apple with the Macintosh OS (Operating System).
+
+What are the issues?
+
+1) Linux is not really free. Linux, in its various flavors or distros, is given free of charge, whether it is on a cd, DVD or downloaded. You can install the program on your own compute or various computers , at no charge to yourself whatsoever
+
+This is in direct contrast to a commercial product such as Microsoft Windows or the new Microsoft Vista which you to purchase a boxed version or a valid license which comes with most computer systems purchased.  This license which comes on most new computers as a matter of course could be referred to as the “Microsoft Computer Tax” and is not an option you can forego, to reduce the purchase of your new compute – whether or not you wish to use another operating system such as Linux.
+
+Linux is given free of charge to install. This is not a shareware or time limited version of the product which requires a registration fee after a period of time.
+
+If you require product support or training commercial organizations do exist which will charge you for support of that product or for training or both. Indeed it can be said that Microsoft itself charges for product support, Symantec the antivirus / security organization charges for basic support by product, subscription fees – sometimes automatic subscription fees and 900 phone number and charge card “Priority Support”.
+
+Indeed you would not expect your local school or technical college to provide computer and compute software training free of charge.
+
+2) Linux is complex and will force you to learn the Linux command line,
+
+Not true simple as that. The various Linux distros all have GUI (Graphic User Interfaces) just like Microsoft Windows,  Windows used to come as command line DOS. Windows users use pull down windows to operate the software. So can and do most Linux users
+
+3) Compared to Windows , Installing Linux is Difficult
+
+- The vast majority of computer users are computer neophytes and beginners.
+
+These computer users purchase computers with the operations system Microsoft Windows or the Macintosh Operating System installed on their new computers. These people could not install the Windows Operating system and the device drivers necessary if their life depended on it.  How the situation of a Linux is based computer any different.
+
+It is only a matter of time until new computers come preinstalled with the Linux operating system. Imagine if Henry Ford had been told not to build new cars since there were few good roads available in America.
+
+4) My Computer Hardware Just Works Under Windows
+
+5) Again untrue in many cases and soon to be less of an issue as more and more computers will come preinstalled with a Linux operating system. Already Dell Computer (which was a Microsoft stalwart) is selling Linux based laptops. Interestingly the response to the Ubuntu Linux dell notebooks is quite positive, If you think Linux hardware compatibility is an issue try upgrading to the new Microsoft Vista from your previous Microsoft Windows product. You will find to your surprise that few if little of computer hardware are supported. You may have upgraded to the new Vista and found you have either no sound, good video or even internet connections via your network adapter device or wireless network adapter. And try undoing your upgrade to get back to your working windows version – it cannot be done.
+
+Lastly you may say I run Windows since all of the programs I use are available only on the Windows operations system – since that is the dominant player in the market.  You may well surmise that since Windows is the more than dominant player in the computer OS market that software developers write their product almost exclusively for the windows operations system and that market.
+
+This is true. If you are using a specialized product for your job, industry, situation or preference you may well be locked in.
+
+In the end most people buy and use computers for functionality and use. Most people use their computers for internet browsing , communication – whether it by email or messenger services (M.S.N. , Yahoo , Skype , Eyeball Chat) , downloading and burning music and in more than many cases for playing nothing more than computer games such as simple solitaire.
+
+In these cases the functionality of Linux and its program base easily allows for this. Indeed many of the cutting edge programs and computer services come out of left field by computer software developers and enthusiasts whose preference of Computer Operating System is guess what - Linux in its various forms.
+
+

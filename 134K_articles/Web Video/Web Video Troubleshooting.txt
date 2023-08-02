@@ -1,0 +1,17 @@
+Web Video Troubleshooting
+
+When you have a website that is home to web videos, you will most likely run into problems that are difficult to answer.  These issues can be from an inability to play the video, to not being able to hear sound, to the video not even showing up.  Having web video issues is a part of using such a technological feature on your website.
+
+However, it's comforting to know that many of the problems that you may encounter with a web video are easily fixed and can be so in a matter of minutes.  
+
+Perhaps one of the most common types of web video errors is individuals saying they cannot see the video, or they can see the picture but they can't hear anything.  While this may be the result of something bigger, most of the time it is just because the person attempting to view the web video does not have the most recent updated version of the particular video player you are hosting.
+
+Whether you have a Windows Media Player, Real Player or QuickTime Player, all of these require individuals to have the most up-to-date version of its player in order to view web videos properly.  If you are getting complaints that sound familiar with the ones above, simply tell your visitors to update their player and see if it works, most of the time, it will. 
+
+Another main problem that people have with web video is when they start playing the video, it stops and starts again, and the pauses and then starts.  This cycle can repeat for several minutes, which causes many of the viewers to simply stop watching the video.  There are several reasons why this could be happening to the viewer.  The reason why a video will do this when it's playing is because either the viewer has a slower Internet connection, or the users computer is simply too old to sustain that much data transfer.
+
+Did you know that it can up to 12 minutes for a person with dial-up connection to download one minute of video; of course, this all depends on how the video is compressed.  Another reason why the video is performing in this manner is because there are simply too many people on the network, thus it is slowing the download speed of the video down.  A great way to help this problem is to simply push pause and allow the video to download for several minutes. 
+
+Another reason why web videos may not work is because they are not in the correct format.  If you are allowing individuals to download a certain type of video, make sure that they understand what format it is in.  An example of this would be letting your visitors know that in order to view a certain video they must have the QuickTime format installed, which is the .qt or .mov format.
+
+A great way to eliminate the worry and frustration from your website visitors is to clearly put links to the various media players websites, which will direct visitors to the download site for the particular player.  This will ensure that even if a person doesn't have a particular player downloaded onto their computer, they are able to obtain this player quickly and return to view your web video.  

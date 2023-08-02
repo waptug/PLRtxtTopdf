@@ -1,0 +1,30 @@
+Title: 
+Design Conventions: A Good Idea?
+
+Word Count:
+486
+
+Summary:
+Even while searching for innovative ways to make their websites work, new designers should follow the established design conventions. These conventions have evolved along with the Internet, and users expect web pages to function in a certain way.
+
+If there were only a few websites, designers could expect visitors to spend time learning how to navigate their sites. There are millions of pages on the web, however, and if visitors do not see what they have come to expect, they...
+
+
+Keywords:
+wed design,graphic design,design principals
+
+
+Article Body:
+Even while searching for innovative ways to make their websites work, new designers should follow the established design conventions. These conventions have evolved along with the Internet, and users expect web pages to function in a certain way.
+
+If there were only a few websites, designers could expect visitors to spend time learning how to navigate their sites. There are millions of pages on the web, however, and if visitors do not see what they have come to expect, they will find the site difficult to use and simply go somewhere else. Designers could lose significant amounts of traffic if they do not adhere to the design conventions that have already been imposed on websites. And no designer really wants to spend time on writing large help files or FAQs just to explain how to use a site. The web is a competitive place, and most of the time, visitors will simply leave a site rather than try to work through a bad design.
+
+The design conventions for websites are simple, but they are effective. To follow these conventions, designers should ensure that their logos function as links to the home page; that clicking on a small image will display a larger version of that image; that all links lead to HTML documents unless they are clearly labeled as some other format (PDS, movie, etc.); that items are purchased by adding them to a virtual shopping cart and then taking them through a virtual checkout process. Website identity checks should always be accomplished through a system that relies on user names and passwords. These are just a few of the conventions. There are many others.
+
+If a website does not follow these rules and conventions, visitors become annoyed, frustrated, and confused. People will leave a website in a heartbeat if it makes them work too hard to navigate it.
+
+There are situations in which the common website design conventions may be ignored. One such situation is if a site is so unique that what it offers is worth the time to learn how to use it. When Google introduced its Gmail product, the first webmail service in the world that provided a gigabyte of storage space, an interface that utilizes Javascript to change whole pages without reloading them was included. This was a diversion from web conventions, but the site worked so well that it became popular in spite of its departure from conventional design. The site is now beginning to create new conventions of its own.
+
+Designers should not start believing that they are more important than they actually are. The introduction of a new product or service does not mean designers can get away with adding streaming video to a page without annoying people, for example. Designers are advised to recognize the limits of their websites and work to make them as much like other websites as possible in terms of design and navigation.
+
+

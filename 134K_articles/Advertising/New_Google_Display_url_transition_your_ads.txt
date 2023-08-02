@@ -1,0 +1,22 @@
+Title: 
+New Google Display url transition your ads
+
+Word Count:
+454
+
+Summary:
+Google is enforcing display urls soon, get prepared now so your profit margins don't suffer.
+
+
+Keywords:
+adwords, advertising
+
+
+Article Body:
+Google has announced some Adwords display url enforcement policies that could affect your campaigns. Most notably, Google wants your display url to be exactly the same as your destination url. You can not have two different display urls that lead to the same destination url. Basically they want to make sure that your when your visitor clicks on your ad that they land on the same root domain that was in the display url. Not really a major change, they are saying they really want you to abide by these rules now, and that you have until April 1st to make any changes necessary to keep your campaigns running above board. 
+
+  If you are violating the new enforcement, you need to transition your ads carefully, so there is not a major impact to your quality score. Changing the display urls on your current ads will have an immediate impact on your quality score for those ads. When you change the display url, the ad will in effect become a new ad, and your quality score for the old ad copy will be reduced, giving you  a new quality score. So what you should do is create ad clones of your old ads with a new rule compliant display url, while letting the old ads run. This will allow the new ads to get an ad history before you need to rely on them. Then when you have sufficient ad history, and the quality score is good, pause your old ads that are violating the rules. By the time April 1st rolls around, you should have everything under control. You can also just change your current ads if they aren't that important or not running much volume, and they should adopt their old quality score in a relatively short period of time.
+
+    You shouldn't be scared of changing your ad copy because you fear losing quality score. Changing your ad copy can result in improving the quality score of your keywords in the long term which should lower your bids and increase your profit margins. Considering that a keywords quality score is affected by the average history of all ads related to it, you can really help your bids by improving your ad copy. However, if you feel that your copy is at or near perfection, changing it may not be necessary, and the short term quality score effects could lead to higher cpc and/or ad placement changes. Most of the time, you want to make changes to copy in the beginning of a campaign and let the ad have time to gather history. If your campaign is not doing well, there are many factors besides the copy that are probably affecting its efficacy.
+
+

@@ -1,0 +1,32 @@
+Title: 
+Trojan Horse – Greek Myth Or Your Personal Computer Nemesis - It Is Your Choice
+
+Word Count:
+516
+
+Summary:
+In Greek Mythology, Odysseus tricked the Trojans into letting the Greek army into the impregnable gates of Troy by having his men convert one of their ships into a huge wooden horse, presenting it as a gift with all his troops inside. Shown to beautiful effect by the Brad Pitt film Troy, the tactic is unfortunately used in the computing world in exactly the same way.
+
+Trojan Horses are programs that masquerade as something harmless. They don't replicate themselves, they don...
+
+
+Keywords:
+GoToMyPC, Go To My PC, Go To Meeting
+
+
+Article Body:
+In Greek Mythology, Odysseus tricked the Trojans into letting the Greek army into the impregnable gates of Troy by having his men convert one of their ships into a huge wooden horse, presenting it as a gift with all his troops inside. Shown to beautiful effect by the Brad Pitt film Troy, the tactic is unfortunately used in the computing world in exactly the same way.
+
+Trojan Horses are programs that masquerade as something harmless. They don't replicate themselves, they don't destroy your data, and they don't seem to do anything. Don’t be fooled. Trojan Horses do their dirty work, like the Greeks of myth, by being the "inside man" – they'll disable your firewall protection, opening ports for botnet masters to turn your computer into a zombie, they'll promise to remove viruses while downloading installation packages for them, or they'll invite keystroke loggers to steal your personal information and send it out on the Internet for people who'll use the information to do untold harm to you.
+
+Most Trojan Horses, like phishing attacks, rely on the human side of security to work. You'll see a pop up ad advertising something (like a high school class reunion search engine, or something to cleanse your computer of viruses and spyware) and click on it. Or you'll get a link to a video clip from a friend or an email attachment, claiming to be a patch to protect your computer from a virus.
+
+As always, the best way to stop this is to never click on attachments from people you don't know and don't trust implicitly. Never ever download something you weren't specifically looking for in a legitimate directory of applications (like http://tucows.com). Always assume that any email from someone you don't know is a spammer trying to do you harm, unless you have legitimate reasons to believe otherwise.
+
+Activating Trojans is never a good thing – they run roughshod (pun intended) over all of your data. They can erase things, install other programs, give your computer a host of ailments, and steal your personal data, sending out to scammers and thieves.
+
+Most operating systems have regular security updates. Make sure you update your installation regularly – Windows Automatic Update is a good thing to just leave turned on for your machine. You'll also be better protected by making sure your computer is run with a user account, rather than an account with administration privileges. Most Trojans need those administrative privileges to install themselves, and simply having a separate administrative account you use for installing software, and a user account where you use it, is a good mechanism to stop Trojans (this is the default on Macintosh and Linux systems, and one of the main reasons why there aren't as many malware threats for those platforms.)
+
+Always be vigilant and, if you have one, use a firewall to guard your computer – even a software one like ZoneAlarm will do the job. A firewall closes off ports (ways your computer talks to other computers) which are the common targets and communication paths for Trojans to do their dirty work.
+
+

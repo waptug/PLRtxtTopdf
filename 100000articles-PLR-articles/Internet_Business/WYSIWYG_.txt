@@ -1,0 +1,34 @@
+Title: 
+WYSIWYG?
+
+Word Count:
+322
+
+Summary:
+Many web sites seem to have graphics and moving images on their pages, some even have music, personally I think that music Is just wasted space on a website anyway, as a large percentage of people don’t even have their volume on. If you want to incorporate music it is good practice to let the visitor decide if they want to listen to it or not and give them a play and stop button.
+The problem with this is the time it takes for the page to load.
+
+Many visitors to a website w...
+
+
+Keywords:
+web design,seo,website design
+
+
+Article Body:
+Many web sites seem to have graphics and moving images on their pages, some even have music, personally I think that music Is just wasted space on a website anyway, as a large percentage of people don’t even have their volume on. If you want to incorporate music it is good practice to let the visitor decide if they want to listen to it or not and give them a play and stop button.
+The problem with this is the time it takes for the page to load.
+
+Many visitors to a website will not wait for the graphics to download they will simply back out and go to the next website in the listings and you have just lost yourself a sale.
+
+High resolution graphics and music is fine for most people with a high speed broadband connection, but if you have anything less than that then waiting for graphics to download on a web page is very frustrating.
+
+For the web designer themselves it is wise to test the website you have created on a 28.8 connection speed and see how fast your site downloads, it should be viewable within about 3 – 4 seconds maximum. It is recommended also that a site be no larger than 50k, you can still fit great graphics and content into a site with around 30k of content.
+
+A tip is to make your graphics smaller in size and to use fewer colours, instead of a million, use 216 and try to keep your images smaller than 4k.
+
+Instead of using graphics you can try colouring the cells, or changing the colour of borders. If you experiment a little the effects can be fantastic and obviously the less graphics you are using, the faster your webpage will load.
+
+The thing to remember when developing a website is that less is more, we live in a world where we want everything now, so give the customer what they want!
+
+

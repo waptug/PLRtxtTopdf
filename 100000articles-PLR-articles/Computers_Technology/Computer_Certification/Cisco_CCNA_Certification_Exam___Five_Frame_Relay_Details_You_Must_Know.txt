@@ -1,0 +1,28 @@
+Title: 
+Cisco CCNA Certification Exam:  Five Frame Relay Details You Must Know
+
+Word Count:
+211
+
+Summary:
+Don’t get overwhelmed by all the details you need to know to pass the CCNA exam!  Chris Bryant, CCIE #12933, points out five vital but overlooked Frame Relay details to assist you in your exam prep.
+
+
+Keywords:
+Ccna, exam, cisco, certification, how, pass, frame, relay, switch, home, lab, chris, Bryant, advantage, 12933, debug, frame, lmi, show , map
+
+
+Article Body:
+When you're studying for your CCNA exam on the way to earning this coveted Cisco certification, the details can seem overwhelming! In this article, I'll point out five Frame Relay details that you must keep in mind when you're on your way to the CCNA exam!
+
+Inverse ARP starts working as soon as you open the serial interface. This protocol performs dynamic Frame Relay mapping, but you don't have to enable it - it's already enabled as soon as you enter the command "encapsulation frame-relay". 
+
+When you're configuring Frame Relay map statements manually, remember that you're mapping the local DLCI to the remote IP address.
+
+When you run "show frame map", the word "dynamic" indicates mappings created by Inverse ARP, and "static" indicates it was manually created.
+
+To spot possible LMI type mismatches, run "show frame lmi". A large number of Status Timeouts indicates that there may be an LMI problem between your router and the frame relay switch.
+
+This last one is for the many of you building CCNA home labs. A frame relay switch is a great addition to your lab! While you're busy putting the configuration together, don't forget the global command "frame-relay switching" - it's this command that allows a Cisco router to act as a frame relay switch!
+
+

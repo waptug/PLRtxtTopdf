@@ -1,0 +1,72 @@
+Title: 
+Wireless Internet Terminology - Confusion Or Clarity?
+
+Word Count:
+813
+
+Summary:
+Wireless Internet Terminology, like many things in life, especially those that have anything to do with computers is filled with terminology. But like most things, once you learn a few of the basic terms, understanding will come quickly. So don't be confused get informed and to help clarify, I've put together a basic wireless "internet-to-english" guide to help you along. 
+
+IEEE - The Institute of Electrical and Electronics Engineers 
+The IEEE is in charge of the wireless ...
+
+
+Keywords:
+
+
+
+Article Body:
+Wireless Internet Terminology, like many things in life, especially those that have anything to do with computers is filled with terminology. But like most things, once you learn a few of the basic terms, understanding will come quickly. So don't be confused get informed and to help clarify, I've put together a basic wireless "internet-to-english" guide to help you along. 
+
+IEEE - The Institute of Electrical and Electronics Engineers 
+The IEEE is in charge of the wireless networking standard, as well as many other computer-related standards - including the Ethernet standard. They ensure that computer equipment made by different manufacturers can work together. 
+
+PCMCIA - Personal Computer Memory Card International Association 
+Simply another standard for how to plug credit card size devices into a laptop computer to boost it's capabilities. It's been suggested by some that it should stand for "People Can't Memorize Computer Industry Acronyms". PCMCIA is a great way of adding wireless networking to your laptop as easily as inserting a disk. 
+
+PCI - Peripheral Component Interconnect 
+Used to install devices like graphics cards and network devices inside your computer. You would be using a PCI, if you wanted to install a wireless card inside your computer. 
+
+802.11 
+Set by the IEEE, it's the current wireless networking standard. It helps ensure that wireless devices can communicate with one another or in other words - they are interoperable. 
+
+Interoperable 
+Simply means that two different pieces of equipment have the ability to speak to each other or another way to put it - they are compatible. They can use them together because they were designed using the same standards. Because of the IEEE and the principle of interoperability, all wireless equipment you purchase should be compatible. 
+
+Driver 
+Not a piece of golf equipment but computer software that informs a computer how to talk to devices that plug into it. Most wireless networking drivers come on a CD-ROM. You then download the drivers from the CD onto your computer. 
+
+Ethernet 
+Currently, the most common way of connecting to a LAN or Local Area Network. Most wires connected to your computer today are ethernet and if you have a cable internet connection an ethernet wire is in all likely-hood, what is being used to connect to your modem. 
+
+USB - Universal Serial Bus 
+A port used for connecting all sorts of devices to a computer, including keyboards, a mouse, printers, external hard-drives and basically anything else you can think of. If you don't have a laptop or want to open up your computer you can get a USB wireless device. 
+
+WEP - Wired Equivalent Privacy 
+No longer used because in 2001 it was found to have security issues. As a result, it is now the old standard for encrypting wireless networks. 
+
+WPA - WiFi Protected Access 
+The new standard for encrypting wireless networks. An upgrade of WEP to fix security issues. To avoid becoming vulnerable, a WPA encrypted network changes encryption methods often. In addition, if an attack is detected, it has the ability to shut itself down for thirty seconds. 
+
+PAN - Personal Area Network 
+A network of devices connected together in one small area. A simple example of a PAN would be your computer, USB keyboard and mouse. Using a technology called Bluetooth, a PAN can be wireless. 
+
+LAN - Local Area Network 
+Briefly mentioned above, LAN is a computer network that... generally speaking is confined to one building, such as a home or office. A wireless LAN is also known as a WLAN. 
+
+MAN - Metropolitan Area Network 
+A network that covers a larger area, like a city or town. They are expensive but a wireless MAN has the capacity to spread Internet access across a wide area. Many college universities set-up a MAN to connect the entire campus. 
+
+WAN - Wide Area Network 
+A network that covers or connects to more than one physical site. A simple example would be a business that has locations in different cities, states or countries and they need them each location connected on the same network. The Internet itself is a WAN... the biggest WAN in the world. 
+
+Mbps - Megabits Per Second 
+Not to be confused with MBps, megabytes per second. Mbps is measurement of connection speed. There are eight megabits in a megabyte. 
+
+GHz - Gigahertz 
+One gigahertz is one billion cycles per second... it's a measurement of frequency. If the term sounds familiar it's probably because it's also used to measure the processing speed of the CPU on your computer, which is also measured in gigahertz. 
+
+Linux 
+A popular and growing alternative operating system to Windows. Linux is a less bulky, more efficient operating system in many ways than Windows and not to mention - it's free. Many servers run Linux for this reason. Computers running Linux can run many programs and connect to the Internet without needing Windows. Many wireless devices run Linux or are compatible with it.
+
+

@@ -1,0 +1,70 @@
+Title: 
+iSCSI vs. FC for Meeting Mission Critical Requirements
+
+Word Count:
+1285
+
+Summary:
+Mission Critical Data is just what its name says: critical to the core functioning of an enterprise. Mission critical data must be available 24x7 and fully backed up for immediate recovery in the event of disaster. Enterprises are constantly seeking more reliable, more efficient, more convenient and more affordable ways of meeting these needs...
+
+
+Keywords:
+Mission Critical Data, Iscsi 
+
+
+Article Body:
+Introduction
+Mission Critical Data is just what its name says: critical to the core functioning of an enterprise. Mission critical data must be available 24x7 and fully backed up for immediate recovery in the event of disaster. Enterprises are constantly seeking more reliable, more efficient, more convenient and more affordable ways of meeting these needs. SANRAD’s V-Switch 3000 uses Iscsi technology to centrally consolidate, manage, backup and restore mission critical data at a fraction of the cost, in capital and human resources, of existing FC SAN technologies
+
+Mission Critical Requirements and SANRAD’s Solutions
+
+Storage Area Networks (SANs) are used to manage mission critical data and, as they have developed, storage and network administrators have identified three main requirements on a SAN to manage this critical data:
+• High Availability: Storage systems and their mission critical data must be available 24x7. There is no leeway for downtime. Every minute of downtime equals a loss of revenues and credibility for an enterprise.
+• Remote Backup and Recovery: Data must be backed up off site to enable remote recovery in the event of disaster. Experts estimate that 30% of companies could not recover from a catastrophic loss of data and having backups on premises is of no use if the premises are destroyed.
+• Manageability: A SAN management system must be able to be centrally managed and provide a consolidated storage solution accommodating different storage subsystems and infrastructures. In addition, the SAN management must not exert added strain on the network and storage
+administration staff.
+• Dynamic Expandability: Storage networks must be able to grow with an enterprise. Systems cannot be taken offline to accommodate this growth and no one wants to search for new storage management solutions every time there is a growth spurt. SANRAD has taken these requirements and provided comprehensive solutions in a single centrally managed platform using iSCSI technology.
+• SANRAD’s High Availability: The V-Switch 3000 hardware is fully redundant to weather power, processor and fan failures. The V-Switch 3000 configuration database is written to both flash and compact flash memory. The software IP-based SAN configuration provides automatic V-Switch 3000 failover and failback as well as data mirroring. No single point of failure ensures high availability.
+• SANRAD’s Remote Backup and Recovery: The V-Switch 3000 can create global IPbased storage networks to allow mission critical data transfer to remote sites within the IP SAN. 
+• SANRAD’s Manageability: The V-Switch 3000 enables storage pooling across multiple platforms and infrastructures and eliminates the need for host agents. The V-Switch 3000 functions at the network layer and is therefore independent of host OS and storage vendors. The V-Switch 3000 provides storage virtualization and precise LUN carving of the pooled storage,
+supporting volume concatenation, mirroring and striping. The locally accessed GUI-based Storage Pro management server is used to centrally configure volumes, monitor status and manage the storage pool.
+• SANRAD’s Dynamic Expandability: The V-Switch 3000 uses existing adapters, network and disk subsystems to form a sophisticated SAN solution ranging from 72 GB to 16 TB. New storage devices can be added dynamically and their volumes virtualized in real time without taking the system offline or impacting on functioning volume performance. Two V-Switch 3000s can be combined in a SAN to form a cluster to provide inter-V-Switch 3000 load balancing and failover.
+
+Benefits of iSCSI SAN over FC SAN
+When creating a SAN, enterprises find that the traditional answer is FC SAN. However, the investment required to implement an FC SAN is often beyond the means of a young enterprise. As a result, growing enterprises may find themselves delaying the inevitable upgrade to a SAN and, therefore, gambling with their mission critical data store.
+The FC investment comes from four fronts:
+• Infrastructure: An FC network demands FC switches, hubs and bridges along with specific GBICs and cabling. In addition, each host requires dedicated FC HBAs.
+• Storage Devices: The storage devices must be costly FC RAID arrays. If an enterprise wants to maintain its JBOD stores, it must purchase virtualization appliances to convert the JBODs for use in an FC SAN.
+• Software: A variety of software tools is needed to manage all of this new equipment as well as the dedicated FC HBAs.
+• Human Resources: dedicated group of FC storage and networking IT administrators is needed to manage all of this. For a growing enterprise, this represents a sizable investment in capital and human resources to acquire,
+implement and manage only one aspect of the enterprise’s data flow.
+SANRAD’s V-Switch 3000 provides a single integrated hardware/software solution to SAN management:
+• Infrastructure: The V-Switch 3000 uses an enterprise’s existing IP infrastructure including existing Ethernet switches, cabling, GBICs and SFPs. A host’s existing NIC is all that is needed to connect to the SAN.
+• Storage Devices: The V-Switch 3000 supports existing legacy storage devices, both FC & SCSI, RAID & JBOD, so there is no need to purchase new storage devices. Due to the V-Switch 3000’s storage pooling capabilities, enterprises may have an increase in usable storage space.
+• Software: The V-Switch 3000 has both hardware and a software component. There is no need for additional software beyond the included Storage Pro storage management tool.
+• Human Resources: Because the V-Switch 3000 operates over the enterprise’s existing Internet network, minimal additional knowledge or training is needed to implement or manage the SAN. The existing network or storage administrator is readily qualified to manage SANRAD’s Iscsi SAN.
+
+Business Case: V-Switch 3000 vs. FC
+
+Typical SAN topographies can be divided into 5 groups according to the number of servers accessing the
+SAN and the net storage capacity of the SAN.
+• Small: 8 servers accessing a net capacity of 500GB.
+• Small – Medium: 12 servers accessing a net capacity of 1TB.
+• Medium: 16 servers accessing a net capacity of 1.5TB.
+• Medium – High: 24 servers accessing a net capacity of 2TB.
+• High: 32 servers accessing a net capacity of 3TB.
+To best understand the budgetary impact of implementing an FC SAN compared to a SANRAD iSCSI SAN, consider the costs of each for a medium enterprise with sixteen hosts accessing a storage pool of 1.5TB.
+In an FC SAN, this would require two FC switches. Upstream of the FC switches there are five server clusters, including Exchange, SQL and file servers, plus six individual servers. Each server requires FC software and each server has two HBAs, each connected to a different switch for a total of thirty-two HBAs. Downstream of the FC switches is a RAID system with RAID 5 and hot spare capabilities and a net capacity of 1.5TB. 
+
+
+In a SANRAD V-Switch 3000 SAN, this would also require two V-Switch 3000s. Upstream of the V-Switch 3000s there are two multi-Gbit switches but no special host software or HBAs are required. Downstream of the V-Switch 3000s are the legacy SCSI or FC JBODs with a net mirrored capacity of 1.5TB. 
+
+For a medium enterprise, implementing an FC SAN for Mission Critical Data is more than two times as expensive as a SANRAD iSCSI SAN. This expense does not take into consideration the Total Cost of Ownership (TCO), e.g. FC cabling installation costs; cost of human resources to regularly upgrade FC
+software and maintain two separate networks or the cost of replacing an FC RAID unit compared to a JBOD disk. As the size of an enterprise grows, the cost par between FC and iSCSI SAN grows.
+
+
+Conclusion
+SANRAD iSCSI SAN provides all of the key SAN requirements needed to manage, backup and restore mission critical data with added benefits over FC SAN. SANRAD’s V-Switch 3000 represents a single integrated hardware/software solution to SAN management, including storage pooling, virtualization, mirroring, striping and remote backup. The IP-based iSCSI SAN permits remote storage access and provides greater flexibility in the location of network and storage components within an enterprise and it
+does so at a fraction of the cost of an FC SAN.
+
+

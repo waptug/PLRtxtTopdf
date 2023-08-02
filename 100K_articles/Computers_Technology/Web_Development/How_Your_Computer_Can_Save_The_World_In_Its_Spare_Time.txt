@@ -1,0 +1,32 @@
+Title: 
+How Your Computer Can Save The World In Its Spare Time
+
+Word Count:
+568
+
+Summary:
+Those of us that have been watching the development of the computer industry for some years may remember that one of the alternatives to massive supercomputers developed ten or fifteen years ago was the use of large numbers of smaller computers working in tandem. The concept involves using a "massively parallel server" that can scale hundreds, even thousands of CPUs to function in cooperation while executing a project that requires enormous computing power. The server essenti...
+
+
+Keywords:
+website hosting, distributed, computing, projects, seti, sony, ps3, research, power
+
+
+Article Body:
+Those of us that have been watching the development of the computer industry for some years may remember that one of the alternatives to massive supercomputers developed ten or fifteen years ago was the use of large numbers of smaller computers working in tandem. The concept involves using a "massively parallel server" that can scale hundreds, even thousands of CPUs to function in cooperation while executing a project that requires enormous computing power. The server essentially allocates tasks, or portions of tasks to different low-level machines and gathers the resultant data for a completed project.
+
+Distributed computing projects are the contemporary version of massively parallel computing. The advent of broadband technology has allowed the usage of machines that are remotely located and that need not be hard wired to the "mother ship," so to speak. The result has been some fascinating projects that combine digital cooperation in social, cultural and medical endeavors that include any interested party who has the right equipment and wants to participate.
+
+One of the recent projects to make news is an ongoing Stanford University project called Folding@Home (FAH). Stanford researchers are trying to understand a "folding" process that occurs in proteins before they move on to become enzymes or antibodies. The scientists hope that understanding the folding process will enable them to understand why some proteins go awry and lead to afflictions such as Alzheimer's and cystic fibrosis.
+
+The project requires massive repetitions of the folding process simulations and, therefore, enormous amounts of computing power. Stanford has set up a computer network to perform the repetitious folding and invited participation from interested parties with the communications bandwidth and the computer power to perform properly. Sony has recently announced that its latest Playstation 3 platform will have sufficient power to allow gamers in possession of the new box to participate in the Stanford program. Kudos to Sony for a great marketing ploy and to Stanford for recognizing an unusual and untapped source of distributed computing power.
+
+Another of the more interesting distributed computer projects is being operated by SETI, the Search for Extraterrestrial Intelligence. It is headquartered at UC Berkeley and is basically engaged in analyzing billions of bits of data provided by radio telescopes operated by the University and NASA. The massive amounts of data requires massive computer power, so the SETI program recruits volunteers with computers to connect with the SETI project and allow the SETI servers to put those PCs to use. 
+
+When a volunteer is online, SETI takes control of the computer and uses it to perform analytical functions with the software that has been provided. They also warn that participating in SETI's distributed computer project has been known to become a serious resource hog - so limit your machine's participation, if necessary.
+
+The software for SETI and many other distributed computer projects is BOINC, the Berkeley Infrastructure for Network Computing. This operating program basically provides the platform for remote participation in parallel computing projects, and many scientific efforts have put it to work. 
+
+If you are so inclined, a few you can choose from include the BBC Climate Change Experiment (global warming); United Devices Cancer Research (screening molecules against cancer protein targets); and Fight Aids@Home (identifying drug characteristics that are resistant to mutations). This last project had a web site in Chinese for its first phase, and completed 9 million tasks using about 1,400 years of computing time on over 60,000 computers.
+
+

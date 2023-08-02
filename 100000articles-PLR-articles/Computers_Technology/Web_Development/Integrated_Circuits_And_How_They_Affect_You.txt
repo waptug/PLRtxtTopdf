@@ -1,0 +1,36 @@
+Title: 
+Integrated Circuits And How They Affect You
+
+Word Count:
+504
+
+Summary:
+Integrated circuits have played a large role in the development of all the technological wonders that populate the world today. But what is an integrated circuit? How does it apply to you? How has their development changed your life? To answer these questions, we must first work to understand them as a whole. 
+
+Integrated circuits, or chips, simply perform as a very powerful electric circuit. Their makeup should not be too far from your grasp, as they are constructed from b...
+
+
+Keywords:
+IC, Integrated Circuit
+
+
+Article Body:
+Integrated circuits have played a large role in the development of all the technological wonders that populate the world today. But what is an integrated circuit? How does it apply to you? How has their development changed your life? To answer these questions, we must first work to understand them as a whole. 
+
+Integrated circuits, or chips, simply perform as a very powerful electric circuit. Their makeup should not be too far from your grasp, as they are constructed from basic electronic parts. The technology that makes your computer able to run everything from Word to Half-Life is just run by connected transistors, diodes, capacitors, and resistors. The transistors act as amplifiers for all of our household electronics, while the resistors focus on tuning back the effect. 
+
+Capacitors allow electricity to be stored and released in varying amounts for special effects, and the diode works to cut off electricity. Through these simply changes to electric current, we are able to send information throughout the device to make everything just work. 
+
+Now that you understand the basics, you should probably at least understand how we went from basic circuitry in the 1950s to the supercomputers of the 21st Century. The 1950s saw a very important change in the field of electronic parts. Transistors were invented to replace the bulky and ineffective vacuum tubes that were once necessary for circuits. This let smaller electronics be practical and possible, since you finally didn't need your own power plant to run advancing technologies. 
+
+The chips were still held back by old circuitry though. Computers require the electric signals to flow quickly between the different parts. Old methods of production meant that the chips were just too large to actually be fast enough for practical computing. A new method for building a faster and smaller chip had to be found.
+
+The answer came through the development of the integrated circuit by Jack Kilby. He was just a new researcher left alone in the Texas Instruments laboratory while several of his colleagues were on vacation. While alone, he came up with a radical new way to actually craft chips. The different parts could just be made out of one block of a semi-conductive material. 
+
+Metal connections would then just connect the different pieces together. Gone were the days of unwieldy and ineffective wires for transmitting information from point A to point B. This technique allowed for smaller integrated circuits to be made later on, which ultimately led to the development of the microprocessor. 
+
+In the end, this simple development opened the door for years of refinement that have led us to our current position. One integrated circuit led to another until it ended with the mind shatteringly fast chips of today. Hundreds of millions of basic electronic parts are now able to fit on one chip that is no larger than an average fingernail. 
+
+Pretty amazing, especially when you consider that this chip powers your life through its advanced methods of calculation that paved the way for the information age.
+
+

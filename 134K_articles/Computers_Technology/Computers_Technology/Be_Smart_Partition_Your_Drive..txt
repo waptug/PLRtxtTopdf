@@ -1,0 +1,22 @@
+Title: 
+Be Smart Partition Your Drive.
+
+Word Count:
+319
+
+Summary:
+Being in the computer field for some years, I've seen many people being afraid to save data on their computers. People are so paranoid, but don't really know what to do unless they're willing to spend a little time to learn about the box with a cup holder built into it (CD ROM tray)=0).
+
+
+Keywords:
+backup,partition
+
+
+Article Body:
+Being in the computer field for some years, I've seen many people being afraid to save data on their computers. People are so paranoid, but don't really know what to do unless they're willing to spend a little time to learn about the box with a cup holder built into it (CD ROM tray)=0).
+
+Anytime I build a computer or reinstall Windows on someone's computer, I always partition the hard drive into C: and D:. Partitioning is the process in which is installing one hard drive and making your computer see itself as having two hard drives. The C drive is always going to be the Primary Partition and the D and any other drive letter is always going to be a Logical Partition. He or she can use the FDISK utility in a Windows 98 Boot up floppy (XP already has the utility in the install cd and will ask if you want to create partitions)to create two partitions in one hard drive. This is good practice because when something goes wrong with Windows, all the data that's saved in the D drive is in tact since Windows is installed in the C drive (remember, your computer is thinking that it has two hard drives instead of one).
+
+Another good practice is to buy an external hard drive, Zip, or a tape drive depending on how large your data is, to have extra backup just in case, which is rare but does happen, the partition gets corrupted and the Logical drive is no longer there. I always tell my clients to save data that is critical to be on an external drive and to turn it off or at least take the connection out from the computer after every backup session, so that in case there's a total system crash, or a hacker getting into the system, the data is not there to be damaged or tampered with.
+
+

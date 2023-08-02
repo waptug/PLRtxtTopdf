@@ -1,0 +1,84 @@
+Title: 
+Using A Client Extranet For Efficient Online Collaboration
+
+Word Count:
+584
+
+Summary:
+Efficient collaboration with clients is essential for any service firm. Traditionally, collaboration has focused on face-to-face meetings, supported by email to share work in progress.
+
+Over the past several years, a new tool has grown in popularity: the client service extranet. While face-to-face meetings remain the most effective (and essential) collaboration tool, extranets have replaced email as the favored forum for sharing and organizing the vast number of documents t...
+
+
+Keywords:
+extranet,intranet,document,collaboration,software,solution, management,online,web,share
+
+
+Article Body:
+Efficient collaboration with clients is essential for any service firm. Traditionally, collaboration has focused on face-to-face meetings, supported by email to share work in progress.
+
+Over the past several years, a new tool has grown in popularity: the client service extranet. While face-to-face meetings remain the most effective (and essential) collaboration tool, extranets have replaced email as the favored forum for sharing and organizing the vast number of documents that are part of all client/agency relationships.
+
+Increasingly, service firms are using extranets as a platform to share work with clients securely and efficiently. They allow clients to log into a secure workspace and access the materials that pertain to them. 
+
+An extranet allows clients to:
+
+• Access draft documents for approval or comment
+• Preview artwork or multimedia presentations for approval or comment
+• Provide important background information from the client before the project begins
+• Archive past projects for easy comparison
+• Access time and billing information
+• Access a log of all project communication
+• Reduce the number of or eliminate the need for face-to-face meetings which can make servicing remote clients easier and less expensive
+
+Since most clients are busy people, using an extranet can save both time and frustration for the client and improve the agency’s level of service and as a result, the client’s overall satisfaction.
+
+How Do You Set Up An Extranet?
+
+You can set up and in-house extranet or purchase a hosted extranet from an application service provider for a monthly fee. 
+
+Building an in-house extranet
+
+If you select an in-house implementation, you will need to have an existing intranet infrastructure available. Then you can purchase the necessary equipment and software and either hire or train personnel to maintain the system. The initial cost can be significant and may be beyond the reach of smaller firms.
+
+Building an in-house extranet offer the following advantages and disadvantages compared to using a hosted (ASP) solution:
+ 
+Advantages
+
+• Complete control of user interface design
+• Ability to customize functionality for each client
+• Integration into internal systems
+• Direct access to all user activity 
+
+Disadvantages
+
+• High up-front development cost
+• Requires staff expertise in the development of extranets
+• Commitment of internal staff for 6 months to a year for planning, execution, review and implementation 
+• On-going commitment of internal staff for internal and client support, hosting, maintenance and upgrades
+• Extensive internal and client training
+
+Using a hosted solution
+
+If you decide to purchase the extranet from an application service provider, you will pay a monthly fee for as long as you use the service. The hosting company provides the infrastructure, security, setup and maintenance of the system. It isn’t even necessary for you to have an internal network. Many will also provide training for your staff as well. 
+
+Using an Application Service provider (ASP) offers the following advantages and disadvantages compared to using an in-house extranet:
+ 
+Advantages
+
+• Proven track-record of web-based application
+• Low cost of entry and predictable cost over time
+• Rapid implementation as quickly as one day
+• No internal staff commitment to internal and client support, hosting and maintenance
+• Upgrades available at no cost
+• Savings on internal server use
+• Easier to learn, easier to use
+
+Disadvantages
+
+• Less freedom in user interface design
+• Fixed functionality
+
+Whether you choose to build and maintain your own extranet, or choose to use a hosted solution, your firm will streamline client services by providing faster access to critical documents, and by reducing the turn around time for review and approval. Which one you choose will depend on your company’s needs and existing resources.
+
+

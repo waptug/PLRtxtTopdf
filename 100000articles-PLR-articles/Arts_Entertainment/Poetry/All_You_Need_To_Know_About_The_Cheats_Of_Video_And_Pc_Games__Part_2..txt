@@ -1,0 +1,82 @@
+Title: 
+All You Need To Know About The Cheats Of Video And Pc Games  Part 2.
+
+Word Count:
+1284
+
+Summary:
+Continued from Part 1
+
+Walkthrough/solve:
+
+These are usually text files (.rts, txt or .doc) that give a detailed description of how to play a game from the beginning to the end. If you read through these too early in the game, you will lose some of the fun of playing with the game.
+
+Puzzle solutions:
+
+These are keys to puzzles that are necessary for you if you want to get ahead in the game. They can be keys to doors, quiz questions, safe combinations, the use of certa...
+
+
+Keywords:
+games,cheats,playstation,xbox,nintendo
+
+
+Article Body:
+Continued from Part 1
+
+Walkthrough/solve:
+
+These are usually text files (.rts, txt or .doc) that give a detailed description of how to play a game from the beginning to the end. If you read through these too early in the game, you will lose some of the fun of playing with the game.
+
+Puzzle solutions:
+
+These are keys to puzzles that are necessary for you if you want to get ahead in the game. They can be keys to doors, quiz questions, safe combinations, the use of certain objects that the player has to find out relying on the information gathered during the game. These are not considered cheats, either. But if you read them in advance, you will lose some fun of the game.
+
+Strategy guides/game guides:
+
+We can make a distinction between official and non-official game guides. Official guides are printed, illustrated books that are published by game developing companies and you can buy them online or in bookshops. Non-official game guides or FAQ’s are detailed descriptions made by game fans about particular games, which are usually free and available electronically in txt. or doc. format on the Internet. You can also find game guides in magazines dealing with video games. These detailed descriptions do not only contain the goals of the game, the game control commands, characters, the objects, the rule system, but you can also find extensive information about the strategies concerning end plays and the different situations in a particular game. They used to be made for more complex games such as simulators or strategic games but nowadays they come with almost every video game.
+
+Trainers:
+
+These software are not developed by game developers, they are designed for the manipulation of certain memory values. They usually consist of an ‘exe. file’ that can be downloaded from the Internet in zipped or compressed format. Trainers allow you to alter certain values and features that are originally not built in the game. For instance, money trainers will give unlimited money, or with the touch of a bottom you can switch on the invulnerability mode. Enthusiastic players and coding people make them for PC games.
+
+In order to use these trainers you have to start the game and with the combination of the ALT+TAB keys you have to switch back to your operating system. Some games do not permit the switch with the combination of the ALT+TAB keys if there is not a parallel program running in the background so it is worth the trouble to open an operating screen before the start of the game. Another simple way of switching back is to use the WIN button on your keyboard.
+
+Before you run the trainer it is important to check it for viruses to make sure that your trainer is free from viruses. In this way you can avoid many unpleasant surprises. Run the program and select the desired option in the trainer. In some cases, if you press certain keys or the combination of certain keys during the game it will result in the desired modifications. You can get information about these modifications and their consequences when you start the trainer as this kind of info is written on the screen right after you start running the program.
+
+Return to your PC game while you are running the trainer, in other words, it is important to run the trainer in the background while your are playing with your game.
+
+Why does the trainer not work with your game?
+
+The most common problem is that the trainer is not compatible with the particular game you play as a result it does not function because it was made for a game with a version number, which is different from the game you use. Most trainers are released with info (.nfo) and readme txt files. In these files you will find all the necessary information about their proper use and the version numbers of the games they are compatible with. In some cases you have to start the trainer before running the game. It is recommended to try out both methods.
+
+Saved game files:
+
+These files have all the different game positions of other players saved for a particular game. They are created when the player has successfully completed a level or has defeated a main enemy or when the hero of the game has been upgraded with super qualities. If you would like to use these files all you have to do is to copy them into the saved game directory of the game and to load them when you start the game. It is highly recommended to make a backup copy of your game positions just in case the new ones would not work.
+
+Editors:
+
+The editors are small programs that enable the player to modify some files of the video game. These can be saved game files or ‘ini’ files that contain game specific information or files concerning the different characters of the game. Similarly to trainers these are also created by game enthusiasts or programmers. The most common type is the character editor that can alter the characters’ features, such as hitpoint, dexterity, or stamina in the different RPG games. They can also alter the objects’ characteristics in the different games. They are very much likely to operate with only those games that have exactly the same version number. The editors should be run in the installation directory that corresponds with the location of those files that we would like to modify, in other cases these files have to be loaded into the editor.
+
+Uhs:
+
+This abbreviation stands for Universal Hint System. These files have so-called ‘uhs’ extensions and in order to take a look at them you need a UHS viewer software. It provides you either with hints on how to accomplish certain tasks or with direct keys to certain tasks in a given game. You can freely download from their website.
+
+Hex cheats:
+
+They belong to the most difficult types of cheats and you are required to possess at least intermediate or advanced computer skills to implement them. This type of cheat usually contains a “hex address” and a certain value that should be replaced.
+
+E.g. endless energy: with the help of the Hex Editor you are to replace:
+
+08 3E F0 03 00 74 03 with 08 3E F0 03 00 90 90.
+
+In order to implement this modification you need a Hex Editor. The most well-known ones are the following: WinHex, Hex Workshop, Hex Edit, Advanced Hex Editor, Cygnus Hex Editor. In all cases it is highly recommended to make a backup copy of the file you intend to modify.
+
+Gameshark/Action replay/ Other patch codes:
+
+To apply these cheats you need to buy certain hardware accessories. These are hardware, special devices that you can connect to your game systems and enable you to modify certain features in your games that are originally not permitted. They provide you with advantages such as eternal life, infinite ammunition, objects or money. They function similarly to trainers and they are based on the manipulation of memory values. These cheats are available in shops that sell video games. The most common ones are Game Genie, Pro Action Replay, GameShark, and Codebreaker. The cheats that are used with the games are purchased together with these devices or available in codebooks or via the Internet on certain web pages.
+
+It seems clear now that there is a great deal of different cheats whose applications vary from games to games, ranging from typing in a keyword to complex programming. Only one question remains: Where can you find cheats or help for your favourite game on the Internet?
+
+I can highly recommend the Abby-cheat.com for a start.
+
+

@@ -1,0 +1,38 @@
+Title: 
+Skype vs SIP
+
+Word Count:
+536
+
+Summary:
+SIP - the open standard, and Skype - closed. But Skype adapts for real conditions better, SIP it is focused on conditions relatives to ideal.
+
+Report SIP, Session Interaction Protocol (RFC 3621) is open by a cavity for developers. It(he) is well enough thought over, and at the present moment is the most popular as it is simple enough for hardware realization and, besides the organization of voice sessions of communication(connection), gives a number(line) of additional oppo...
+
+
+Keywords:
+sip, skype, skype phone, sip phone, voip, wi-fi
+
+
+Article Body:
+SIP - the open standard, and Skype - closed. But Skype adapts for real conditions better, SIP it is focused on conditions relatives to ideal.
+
+Report SIP, Session Interaction Protocol (RFC 3621) is open by a cavity for developers. It(he) is well enough thought over, and at the present moment is the most popular as it is simple enough for hardware realization and, besides the organization of voice sessions of communication(connection), gives a number(line) of additional opportunities. Into problems(tasks) of report SIP enters only to establish and coordinate communication(connection), and it is not necessary that this communication(connection) was voice is there can be any stream of the data in real time - video, the multimedia data, interactive service.
+
+Commands(teams) of the report remind HTTP, down to separate details.
+
+Key feature SIP is client - server opiented. Here it is meant, that at any network of a SIP-telephony there is a server (GateKeeper).
+
+Report SIP is well focused for work in local networks and on good Internet - channels. But what will take place when the Internet - &#1087;&#1088;&#1086;&#1074;&#1072;&#1081;&#1076;&#1077;&#1088; on what or the reasons does not wish, that users could carry out bells through SIP? For achievement of the purpose to it "will cut" enough UDP packages with value of port 5060 that SIP has ceased to work normally. There are ways to avoid a similar arbitrariness, however it intervention in work of the report demand, forcing to forget about compatibility with the standard equipment.
+
+The report used Skype always was and continues to remain closed from foreign developers. It has number of features which distinguish it from SIP.
+
+First, report Skype is focused on a p2p-network (Peer-To-Peer.) Skype works by a principle self-organizing distributed(allocated) p2p networks in which there are no constant servers. The role of servers is carried out by the participants of a network having direct IP-address and the wide channel of connection to the Internet.
+
+Second, in report Skype enciphering is without fail applied. It is the compelled measure caused by p2p-structure of network Skype: the traffic passes through units to which should not trust.
+
+Thirdly, Skype has the high resourcefulness allowing it(him) to work even on limited connections to the Internet. Skype it is focused on the broad audience of users of the different countries and interventions in work of a network with the purpose to forbid VoIP for him(it) are less terrible, because it(he) is prepared for this. It is known, that report Skype has ability to find ways to transfer the voice information. For example, if the necessary range of ports of report UDP is closed (usually report Skype uses port UDP 40150), Skype is switched to use of free TCP-ports, down to obviously open 80 ports (HTTP), and if it is necessary, will use connection through HTTP-proxy. It means, that Skype will work practically everywhere where Internet - sites "open".
+
+There are bases to consider, that Skype uses the modified version of the standard SIP-report. In other words, SIP was taken for a basis of report Skype and it is modified, due to what Skype has competitive before operators of a SIP-telephony - cheapness support a user's network and ability to work almost everywhere and in any conditions.
+
+

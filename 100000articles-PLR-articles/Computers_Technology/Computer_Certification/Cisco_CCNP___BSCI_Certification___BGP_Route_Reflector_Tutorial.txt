@@ -1,0 +1,38 @@
+Title: 
+Cisco CCNP / BSCI Certification:  BGP Route Reflector Tutorial
+
+Word Count:
+281
+
+Summary:
+To earn your CCNP and master BGP, you’ve got to know when and how to configure route reflectors.  Learn the skills you need to do so from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccnp, bsci, certification, exam, pass, free, tutorial, bgp, route, reflector, cisco, router, ibgp
+
+
+Article Body:
+When you're studying for your BSCI exam and CCNP certification, you quickly realize that BGP is a whole new world from anything you've previously studies.  One topic that sometimes confuses CCNP candidates is when a BGP route reflector needs to be configured.
+
+In the following example, the routers R1, R2, and R3 are all in BGP AS 100.  This is not a full mesh, however.  There are peer relationships between R1-R2 and R1-R3, but not between R2 and R3.  R3 is advertising network 3.3.3.0/24 via BGP, and the route is seen on R1.  R1's iBGP neighbor, R2 does not see the route.
+
+A basic rule of BGP is that a BGP speaker cannot advertise a route to an iBGP neighbor if that route was learned from another iBGP neighbor.   Configuring R1 as a route reflector will allow us to circumvent this rule.  The entire route reflector process is transparent to the clients, and no configuration is necessary on those clients.  We'll configure R1 as a route reflector for both R2 and R3.
+
+R1(config)#router bgp 100
+
+R1(config-router)#neighbor 172.12.123.2 route-reflector-client
+
+3d18h: %BGP-5-ADJCHANGE: neighbor 172.12.123.2 Down RR client config change
+
+R1(config-router)#neighbor 172.12.123.3 route-reflector-client
+
+3d18h: %BGP-5-ADJCHANGE: neighbor 172.12.123.3 Down RR client config change
+
+The BGP adjacencies do come down when this configuration is added, so this isn't something you want to do during a peak traffic time.
+
+Once the adjacencies come back up, R2 will have the route to 3.3.3.0/24.
+
+There are other possible solutions to this iBGP limitation, such as configuring BGP confederations.  Those solutions are generally used on larger BGP deployments and with other concerns in mind, though, and configuring route reflectors serves this purpose just as well.
+
+

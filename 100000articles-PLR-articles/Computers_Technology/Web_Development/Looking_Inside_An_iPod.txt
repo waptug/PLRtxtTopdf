@@ -1,0 +1,44 @@
+Title: 
+Looking Inside An iPod
+
+Word Count:
+662
+
+Summary:
+iPod represents a wide array of moveable media players which have been designed and are sold by Apple Inc. It was first launched in October 2001.
+
+iPod models generally cover digital audio players with a central click wheel to iPod Shuffle that uses various buttons because of its small size. iPod Nano, a fifth generation, was launched in September 2006. This led to discontinuation of iPod mini, which it stored the data on an internal hard disk. iPod Shuffle and Nano employ ...
+
+
+Keywords:
+ipod, mp3 player, mp4 player, podcast, podcasting
+
+
+Article Body:
+iPod represents a wide array of moveable media players which have been designed and are sold by Apple Inc. It was first launched in October 2001.
+
+iPod models generally cover digital audio players with a central click wheel to iPod Shuffle that uses various buttons because of its small size. iPod Nano, a fifth generation, was launched in September 2006. This led to discontinuation of iPod mini, which it stored the data on an internal hard disk. iPod Shuffle and Nano employ flash type of memory for smaller size. These devices also act as an external medium for data storage.
+
+iPod was inspired by the shortcomings of existing digital music players, which were not physically compact and the user interface were not very friendly.
+
+Apple assembled a group of engineers and within a year, it unveiled the iPod. It was launched as a product which was Macintosh compatible with a hard drive of 5 GB. Apple used PortalPlayer`s reference for its software. The company Pixo helped iPod for developing user interface. But these were refined by Apple after development.
+
+The naming of the device as `iPod` was suggested by Vinnie Chieco, who is a freelance copywriter. Coincidently, Apple had the name registered for `internet kiosks`, but it never used it for this purpose.
+
+iPod can run MP3, M4A/AAC, AIFF, Protected AAC, Audible Audio book and WAV format. It also introduced the displaying of images ability with PNG, TIFF, GIF, BMP, and JPEG formats. The 5th generation models can even play MPEG 4. From the 2nd generation model, the software also started working with Windows along with Macs. It doesn`t support Microsoft`s WMA audio format. WMA and MIDI files can be changed using iTunes, a service provided by Apple through which you can view and download latest songs and movies on your device player.
+
+iPods having colored displays use texts and graphics which are anti-aliased and sliding animations. The operating system is stored in a dedicated storage medium of the device. Each device player has 32 MB Ram, though later ones have 64 MB Ram. Most of it is used to cache songs through the storage medium.
+
+Apple also added PDA type functionality so that text files can be viewed and an address book can be maintained through a computer. Also, some built-in games like brick are also included. In fifth generation iPod, the brightness of the screen can be adjusted and games can be downloaded from iTunes Store.
+
+For first and second generation models, as well as Nano and Shuffle, internal lithium polymer batteries are used and for third and fifth generation models, internal lithium batteries are used. Initially, iPods came with a FireWire connection for charging the device, but with introduction of multipurpose USB ports, they became outdated. Recent iPod models can be charged using USB 2.0.
+
+Many accessories, even by third parties, have been made for iPods. Some additional accessories developed by Apple were sound recorders, FM Radio Tuners, Remote Control and Audio-Visual Cables for TV. Other accessories are external speakers, protective cases, and wireless earphones. Third parties manufacturing most of these accessories are Griffin Technology, Belkin, Bose, and SendStation.
+
+BMW vehicle manufacturer was the first car company to launch an iPod automobile interface, thus allowing newer vehicles to control iPod through steering wheels. Later Apple made this technology available to many other car brands too. Even certain Airlines started provided iPod connectors in the seat.
+
+Apple markets its own iPod earphones and claims that they are better fitting for ears and provide better sound quality. Since it was launched, iPod has been market leader in digital players because of their high quality, supreme aesthetics and ease of use. With more cash flowing into research every year, there is no reason for this fact to change.
+
+This article is under GNU FDL license and can be distributed without any previous authorization from the author. However the author's name and all the URLs (links) mentioned in the article and biography must be kept.
+
+

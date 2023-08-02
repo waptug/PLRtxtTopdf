@@ -1,0 +1,110 @@
+Title: 
+How to Fix a Broken iPod
+
+Word Count:
+2054
+
+Summary:
+Have you had these problems going on with your iPod? Then this method just might make your iPod start working again!
+
+
+Keywords:
+ipod
+
+
+Article Body:
+Have you had these problems going on with your iPod? Then this method just might make your iPod start working again!
+Steps
+
+   1. Turn your iPod on. Make sure the battery is charged up enough to turn it on.
+   2. The sad iPod or sad folder should pop up on the screen.
+   3. Put your ear up against the iPod and you will hear the clicking sound inside (it sounds like a car trying to start up, whenever it takes a few tries turning the keys)
+   4. While the iPod is still making these sounds, take the iPod in one hand, open the palm of your other hand, and smack the narrow side of the iPod against the palm of your other hand. [WARNING: This method is proven to work as an effortless way to repair iPod hard drive misalignment, but it may result in future hardware problems. This is only a TEMPORARY solution to fixing an iPod, and the problem may come back (experiences vary). Other methods of reviving a dead iPod are available below and may be much safer]
+   5. Continue smacking it on its side for at least 6 times, while the iPod is trying to turn on. The key is to loosen the hard drive.
+   6. After this is should resume normal function. If it doesn't, read below.
+   7. There are several methods out there that have all successfully fixed iPods, so don't give up hope yet.
+   8. If, however, you are a more hands-on type of person and don't want to bother trying iPod aid through your computer, skip to the bottom of this steps page for info on how to open and repair internally.
+   9. The first reccomended steps are from Apple's support website.
+         1. Try to wait 30 minutes while iPod is charging.
+         2. Try another FireWire or USB through Dock Connector cable.
+         3. Try another FireWire or USB port on your computer .
+         4. Try to disconnect all devices from your computer's FireWire and USB ports.
+         5. Try to download and install the latest version of iPod software and iTunes. http://www.apple.com/ipod/download/
+         6. Try these five steps (known as the five Rs) and it would conquer most iPod issues. http://www.apple.com/support/ipod/five_rs/
+         7. Try to put the iPod into Disk Mode if it fails to appear on the desktop. http://docs.info.apple.com/article.html?artnum=93651
+  10. If none of the above has worked for you, then you should try the following:
+         1. Try to connect your iPod with another computer with the iPod updater pre-installed.
+         2. Still can’t see your iPod, put it in Disk Mode and connect with a computer, instead of doing a Restore on iPod Updater. Go and format the iPod instead.
+               1. For Mac computer:
+                     1. Open the disk utility, hope your iPod appears there (left hand side), highlight it
+                     2. Go to Tab “Partition”, click either “Delete” or “Partition”, if fails, skip this step and go to 3
+                     3. Go to Tab “Erase” , choose Volume Format as “MAC OS Extended (Journaled), and click Erase, again if fails, skip it and go to 4
+                     4. Same as step 3, but open the “Security Options....” and choose “Zero Out Data” before click Erase. It will take 1 to 2 hours to complete.
+                     5. Eject your iPod and do a Reset
+                     6. Open the iPod Updater and click “Restore”
+               2. For Windows computer:
+                     1. Go to folder “My Computer”
+                     2. Hope you can see your iPod there and right click on the iPod
+                     3. Choose “Format”. Ensure the settings are at “Default” and that “Quick Format” is not checked
+                     4. Now select “Format”
+                     5. Eject your iPod and do a Reset
+                     6. Open the iPod Updater and click “Restore”
+                     7. In case you do not manage to do a “Format” on a window computer, try to use some 3rd party disk utility software, e.g.“Partition Magic”.
+               3. Windows users having trouble with their iPods should locate a Mac user. In many cases when an iPod won't show up on a PC that it will show up on the Mac. Then it can be restored. When the PC user returns to his computer the iPod will be recognized by the PC, reformatted for the PC, and usable again. By the way, it works in reverse too. A Mac user often can get his iPod back by connecting it to a PC and restoring it. Note:* It does not matter whether the format is completed or not, the key is to erase (or partly) the corrupted firmware files on the Hard Drive of the iPod. After that, when the iPod re-connected with a computer, it will be recognized as an fresh external hard drive, it will show up on the iPod updater.* It is not a difficult issue for a Mac user to find a window base computer, for a PC user, if they can’t find any Mac user, they can go to a nearest Apple Shop for a favor.* You may need to switch around the PC and Mac, try to do several attempts between “Format” and “Restore”
+  11. iPod still doesn't work? Keep going with these steps.
+          * Diagnostic mode solution:
+                o If you have tried trouble shooting your iPod to no avail after all the steps above, chances are your iPod has a hardware problem. The iPod's built-in Diagnostic Mode is a quick and easy way to determine if you have a "bad" iPod.
+                o You need to restart your iPod before putting it into Diagnostic Mode. Check that your hold switch is off by sliding the switch away from the headphone jack. Toggle it on and off to be safe.
+                o Press and hold the following combination of buttons simultaneously for approximately 10 seconds to reset the iPod.
+                      + iPod 1G to 3G: "Menu" and "Play/Pause"
+                      + iPod 4G+ (includes Photo, Nano, Video, and Mini): "Menu" and "Select"
+                o The Apple logo will appear and you should feel the hard drive spinning up. Press and hold the following sequence of buttons:
+                      + iPod 1G to 3G: "REW", "FFW" and "Select"
+                      + iPod 4G+ (includes Photo, Nano, Video, and Mini): "Back" and "Select"
+                o You will hear an audible chirp sound (3G models and higher) and the Apple logo should appear backwards. You are now in Diagnostic Mode. Navigate the list of tests using "REW" and "FFW". The scroll wheel will not function while in diagnostic mode. For further details on Diagnostic mode can be found at http://www.methodshop.com/mp3/ipodsupport/diagnosticmode/
+                o Try to do the 5in1, HDD R/W and HDD scan tests. Some successful cases have been reported after the running the few tests under the Diagnostic mode. In case it does not work in your case, and the scan tests reports show some errors then it proves your iPod has a hardware problem and it needs a repairing service.
+          * Format your iPod with a start disk:
+                o I have not tried this solution myself, I heard that there were few successful cases that the users managed to get their iPod (you must put your iPod in disk mode before connecting with a computer) mounted by the computer, which was booted by a system startup disk. For Mac, you can use the Disk Utility (on the Tiger OS system disk), for PC user, you can use the window OS system disk. Try to find a way to reformat your iPod, again it does not matter which format (FAT32, NTFS or HFS+) you choose, the key is to erase the corrupted system files on the iPod. Then eject your iPod and do a Reset to switch out from Disk Mode. Reboot your computer at the normal way, connect your iPod back with it, open the iPod updater, and hopefully your iPod will appear there for the Restore.
+  12. The next tutorial will teach you how to open up your iPod and attempt to fix it. This should probably be done as a last resort, for opening your iPod will most likely void your warranty. In addition, if executed wrong, your iPod may sustain permanant damage while your problem may have ben easily aided by other processes.
+          * The best tutorial I've read on how to open an iPod is here: http://forums.ipodlounge.com/showthread.php?s=&threadid=93789/
+  13. That tutorial is how to open a 3rd/4th Generation iPod, although most are similarly done. Google it if you're not satisfied and want more detail; there are a lot of great sites out there.
+          * Once inside, there are a number of methods you can use that have all been used to fix iPod problems. Make sure the hold switch is on! You don't want to hit a button and mess something up! The methods will be listed in order of how successful I believe they are.
+  14. Disconnecting the Hard Drive and Booting Method.
+         1. Now that your iPod is open, you should see your hard drive lying flat on top. The ribbon cable attached to the hard drive is detachable, so don't be scared.
+         2. Gently pull the hard drive away from the cable in which it's connected, while holding the cable lightly in hand. You don't want to rip it out the motherboard.
+         3. Your hard drive should easily break free. Now that it's out, you can play with it, look around, but the point is to give it a little rest.
+         4. Next, now that the hard drive is out, carefully flip your iPod over so you're looking at the screen. Be careful not to rip the ribbon cable by the hold switch.
+         5. Take the iPod off of hold function, thus enabling the buttons once again.
+         6. Turn the iPod on. You may recieve an error message, and you may be able to access menus.
+               1. If you get an error message, try restarting the iPod.
+         7. Now turn the iPod off.
+         8. Reactivate the hold switch. Your experiment is complete.
+         9. Reconnect the hard drive as found before, and carefully replace the back cover. Hope it works.
+  15. Business Card Method.
+         1. Now that your iPod is open, you should see your hard drive lying flat on top.
+         2. Take a regular business card and fold it in half.
+         3. Place the folded business card on top of the hard drive. (The idea is that your iPod's hard drive is too loose and the folded business card will put pressure on it when enclosed for a successful spin and no click. This works often). Don't fold it more than once unless you have a reason, because more pressure on the hard drive may keep it from spinning, causing even more problems.
+         4. Carefully place the lid back on the iPod, making sure the card is in place correctly.
+         5. Close up your iPod and hope it works.
+  16. Time to Spend Some $$ Method.
+         1. Get a job.
+         2. You probably have a hardware problem (like me), and you probably need a new hard drive. Google it. eBay it. A regular replacement hard drive isn't as much as a new iPod, but you'll have to shell out a couple bucks if you want it fixed.
+         3. Look at it as an opportunity to upgrade. Maybe look into buying a bigger hard drive to hold more useless shit. It'll still cost less than a new iPod.
+         4. Read above for info on how to replace your hard drive. It's not hard.
+         5. Pray it's a hard drive problem after you bought one and can't return it.
+  17. If you've read this far, you've tried everything, and your iPod still isn't fixed, then ask someone else already. You've been up all night reading this tutorial and trying my methods and you're probably sick of this anyway. Or just steal your friend's iPod.
+
+Tips
+
+    * Make sure that the iPod has enough battery power to turn on.
+    * An alternative is open up your iPod (which voids the warranty) and squeeze the drive and it's enclosing padding. There is apparently some grounding that can come loose and this can fix things up again. This worked for me and a friend and if you are very careful when you open the case, it is less violent than smacking it around.
+    * You can also go to an Apple store and ask to replace the battery! They are happy to help you!
+    * Don't steal your friend's iPod.
+
+Warnings
+
+    * Before trying these methods, contact Apple and see if you can get your iPod replaced for free.
+    * This method should only be as a last resort. If Apple's suggestions do not work, first try running a chkdsk function on your iPod.
+    * Do not break the hard drive!
+
+

@@ -1,0 +1,72 @@
+Title: 
+PC Noise Annoys
+
+Word Count:
+736
+
+Summary:
+Background noise from computers and peripherals can distract and irritate you, and ultimately reduce your creativity and productivity. This article outlines simple inexpensive ways of reducing PC noise.
+
+
+Keywords:
+PC noise,reduce computer noise,reducing PC noise,quieter PC,quietest PC,silent PC,background noise,healthy computing
+
+
+Article Body:
+Copyright 2006 Michael Madigan
+
+Computers and peripherals are noisy beasts, from the clack of keyboards, to the whirr of cooling fans, hum and whine of drives and motors, and vibration of chassis and panelling.
+
+This can interfere with your concentration, and cause irritation and stress.
+
+Unfortunately, the latest PC models are often noisier, because the extra processing power requires extra heat removal hence more powerful fans. However, in older models, parts gradually wear and loosen, creating ever more annoying computer background noise.
+
+The World Health Organisation recommends an ambient noise floor (background noise level) of 35dB(A) so we can speak and hear easily, and not have to struggle 'filtering out' background noise.
+
+Most of us don't mind some sound in the background , but please, not this endless distracting machine noise!
+
+Sadly, it seems unlikely that manufacturers will be producing silent computers until they are driven to it.
+
+You can buy ' noiseless' computers, but at present they are bulkier and much more expensive than standard 'noisy' PCs, and may also require specialist installation.
+
+Therefore, here are 10 cheap and easy tips for reducing PC noise:-
+
+
+
+1/ Place your PC on a hard reasonably thick surface. Angle the back (where the noisy cooling fans situated) away from you if you can.
+
+2/ Make sure the PC is standing level and flat on its feet' Mount the feet on a firm rubber base or rubber foot supports to deaden any vibration.
+
+3/ Fix acoustic noise dampening pads on the walls around the PC. Concentrate on surfaces near it, that might amplify or reflect sound You may also consider acoustic foam pads to block any unused disc bays, this will also reduce internal volume and promote cooling.
+
+4/ Make sure outer panels aren't loose, and nothing is touching the PC casing. Bind any dangling cables into bundles with plastic coated wire ties or plastic cable tidies.
+
+6/ Have your PC serviced and internally cleaned at least annually. Dust build-up inside a PC can cause t fans to become louder, as well as being a potential cause of allergen creation and early computer failure.
+
+7/ Speakers often give out noises especially if other electronic devices like cell phones (mobiles) or baby monitors are near. Keep these devices well away, and/or the speakers turned off.
+
+8/ You can reduce the sound overall with the Volume Control, (whether you use speakers or headphones) or mute the Windows sound files that sound when you carry out virtually any task on a PC - see Windows Help. (Click on a blank area of the Desktop, press F1 key, then use 'Search' facility or 'Index' in the top bar. Look for 'Sounds and Audio Devices'. Follow the instructions)
+
+9/ Most computer systems have power management features. Again look at 'Help'. You can reset the 'Standby'(low power - won't save data) or ''Hibernation', (low power - automatically saves data)features , so that that the computer will slow right down after a period of inactivity. This will definitely save power and help reduce the noise level of the PC when not immediately in use.
+
+10/ If you have a tower type PC, store the tower on the floor below you, making sure it isn't an obstruction, and air can circulate around it. Buy extension cables if you need to.
+
+All the sound reducing equipment mentioned is  readily available off the Internet, or locally.
+
+If you have a little more money or are buying computers, here are a few more options.
+
+- You can buy new replacement PC cases designed to be quiet. They may be acoustically lined to cut sound or constructed so you can do away with any internal fans so reduce noise
+
+- Keyboard noise can be particularly wearing.  Pick a model with the keys touch dampened.
+
+- Consider a quality second hand or reconditioned model. Do you really need high processing power creating more background noise? Alternatively consider lower specification models, with (probably) smaller quieter fans.
+
+- Ask for computers that comply with international noise reduction standard ISO 9626. If it also quotes sound pressure levels, this is a fair way of comparing the noise outputs of different PCs.
+
+- Additionally, have a couple of new models run for you in the showroom.   preferably in a quieter area. Or maybe you can get a home demonstration.   All other things being equal, go for the quietest PC.
+
+
+
+Whatever you plan, don't suffer - experiment to create a more silent PC environment. Remember, less PC noise can only boost your healthy computing through 2006 and beyond!
+
+

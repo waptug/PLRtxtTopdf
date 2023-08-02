@@ -1,0 +1,24 @@
+Title: 
+HSCSD
+
+Word Count:
+312
+
+Summary:
+HSCSD or High Speed - Circuit Switched Data is a high speed data transfer technology for GSM-based networks. It improves upon the Circuit Switched Data technology in order to enhance data throughput capacity while using currently existing network infrastructure.
+
+
+Keywords:
+HSCSD
+
+
+Article Body:
+HSCSD or High Speed - Circuit Switched Data is a high speed data transfer technology for GSM-based networks. It improves upon the Circuit Switched Data technology in order to enhance data throughput capacity while using currently existing network infrastructure.
+
+HSCSD manages to improve the rate of data transmission up to four times that of normal GSM networks that use plain CSD. This improved technology accomplishes this feat using two distinct methods. Firstly, it uses a more flexible error correction methodology. In normal CSD, the data transfer rate is 9.6 kbit/s. A considerable portion of this bandwidth is used for transmitting error correction codes, irrespective of the quality of transmission. HSCSD on the other hand uses error correction codes only when the transmission quality is poor. Under good transmission conditions, the transmission rate can reach 14.4 kbit/s since less error correction codes are required to be sent. This technique alone improves the throughput by 50%.
+
+Secondly, HSCSD can use multiple time slots to increase data throughput. While CSD uses a single time slot per user, HSCSD can use up to 4 time slots simultaneously. It is analogous to the difference in the amount of traffic that can pass through a single lane and a 4-lane highway. Using this technique, HSCSD can offer data transfer rates up to four times that of normal CSD networks. When the transmission quality is poor and the network is operating at 9.6 kbit/s, HSCSD can offer speeds up to 38.4 kbit/s. But when the transmission quality is good and the network is working at 14.4 kbit/s, HSCSD can offer speeds up to 57.6 kbit/s.
+
+However, what speed the consumer finally gets is determined by the infrastructure used by the network operators. While some operators offer two time slots per user, others offer three slots. Even at current rates of data transfer, HSCSD is much faster than comparable technologies like GPRS.
+
+

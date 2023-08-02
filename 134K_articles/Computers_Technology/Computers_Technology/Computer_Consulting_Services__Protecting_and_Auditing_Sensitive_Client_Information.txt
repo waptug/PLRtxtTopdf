@@ -1,0 +1,40 @@
+Title: 
+Computer Consulting Services: Protecting and Auditing Sensitive Client Information
+
+Word Count:
+349
+
+Summary:
+Computer consulting services should include counseling your clients on computer security. A network is a valuable solution for businesses and can be installed by computer consulting services.
+
+
+Keywords:
+computer-consulting-services, computer consulting services
+
+
+Article Body:
+As a provider of computer consulting services, you will want to communicate to prospects and/or clients that anyone, even with the most rudimentary PC skills, who has physical access to a peer-to-peer server, usually has access to every file and folder on that server.
+
+Although many people mistakenly think that the Microsoft Windows 9x/Me logon dialog box provides protection, they are wrong and that misperception can be extremely dangerous. 
+
+Address Client Skepticism about Protecting their Files
+
+If your computer consulting services prospect or client is in disbelief, this vulnerability is very easy to demonstrate in about 90 seconds. With a boot disk, a press of the Escape key, or a boot up into Safe Mode, an unauthorized user with no operating system knowledge can "compromise" the entire Microsoft Windows 9x/Me server in just a few seconds.
+
+For your computer consulting services, clients a dedicated server system can enforce a mandatory logon and provide local file level security. In addition, each user account that needs interactive logon access to the server must be explicitly granted that right.
+
+A dedicated server console can also be "locked" when you walk away from the server, either manually or through a time activated screen saver.
+
+Auditing Shared File and Printer Resources
+
+With very minimal effort and no additional software, your computer consulting services clients can use a dedicated server operating system to audit usage of any shared file, folder or printer. Auditing can be especially helpful for tracking use of sensitive files such as payroll, credit card data, R&D documents and proprietary plans. 
+
+Auditing is also valuable for tracking usage of expensive-to-operate resources such as a color laser printer or check printer. A Microsoft Windows 9x/Me peer-to-peer server does not have these integrated auditing capabilities.
+
+The Bottom Line about Computer Consulting Services
+
+As a provider of computer consulting services, it is important to address the importance of protecting and auditing sensitive information when meeting with prospects or clients.
+
+Copyright MMI-MMVI, Small Biz Tech Talk. All Worldwide Rights Reserved. {Attention Publishers: Live hyperlink in author resource box required for copyright compliance}
+
+

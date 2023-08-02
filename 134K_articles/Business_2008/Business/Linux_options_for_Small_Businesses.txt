@@ -1,0 +1,30 @@
+Title: 
+Linux options for Small Businesses
+
+Word Count:
+321
+
+Summary:
+Linux will become a major force in the future as more small to medium businesses turn towards its hosting platform.
+
+
+Keywords:
+linux, small business
+
+
+Article Body:
+Linux is an alternate type of system that provides hosting for small businesses and companies that run Linux applications on their personal computers and laptops. The Linux-based platform is stable platform in the industry.  
+
+The Linux operating system was developed by Linus Torvalds as an alternative to other operating systems. Most of its versions are free of costs. The most popular Linux software is Red Hat and Mandrake. 
+
+Linux was only for professionals until a few years ago but the situation has changed. Many 'small businesses have switched to the Linux platform because of its open source architecture, meaning that users can structure the system to do what they want it to do. 
+
+Web host providers are specializing in Linux servers and the demand for this type of interface has grown by 40% over the last three years.  A Unix-based platform is one of the most reliable operating system that you can ever have. It has a better up time than Microsoft Operating Systems and hosting programs in Linux are more flexible. You actually can get ore from a Linux based server than other servers on the market.
+
+Linux supports a wide variety of application languages, more than any other operating system. The most common applications of such kind include C, C++, Shell, Perl, Tcl, Python, Java and PHP.  Databases available for Unix are mSQL and mySQL. The one you choose would depend on what you plan to do on the web and the host that you choose to park your web site.
+
+The Linux based system comes with its won web development module in some versions of Red Hat Linux that make web site creation easy as 1-2-3. FTP modules are built into the operating system to provide you with an alternative way to load the web site to the Linux host.
+
+Linux will become a major force in the future as more small to medium businesses turn towards its hosting platform.
+
+

@@ -1,0 +1,32 @@
+Title: 
+GPS Navigation Systems: What Next?
+
+Word Count:
+310
+
+Summary:
+Technology has achieved many useful developments in satellite navigation systems that allow a small electronic device to navigate its exact location (Longitude, Latitude and Altitude) through satellite. When it knows its position, the navigation device calculates the navigation information including terrain, directions, roads and more.
+
+Nowadays, most vehicles come with the satellite navigation devices pre-installed in them. These devices are generally used by motor vehicle...
+
+
+Keywords:
+GPS, Sat nav, navigation
+
+
+Article Body:
+Technology has achieved many useful developments in satellite navigation systems that allow a small electronic device to navigate its exact location (Longitude, Latitude and Altitude) through satellite. When it knows its position, the navigation device calculates the navigation information including terrain, directions, roads and more.
+
+Nowadays, most vehicles come with the satellite navigation devices pre-installed in them. These devices are generally used by motor vehicle drivers, military, outdoorsmen, boaters and for other military applications.
+
+The well known satellite system that is fully functional at the time of this writing is the GPS or the Global Navigation System. GPS in the United States contains 24 to 27 satellites orbiting at an altitude of approximately 20,000 km with an inclination of 55 degrees in six different planes.
+
+The Russian counterpart to GPS is called the GLONASS, which is derived from GLObal Navigation Satellite System. Though the initial satellites for GLONASS were launched in 1982, the system was not fully operational till 1995. The GLONASS has deteriorated to only 12 satellites, due to economic difficulties. The Russian GLONASS constellation is expected to become fully functional by 2010 and there are plans to include India as well.
+
+The European Union is working on EGNOS derived from European Geostationary Navigation Overlay System. It consists of 3 satellites intending to supplement the GPS and GLONASS systems by determining the accurate signals and position with in 5 meters. It is expected to function in 2006.
+
+The European Space Agency is working on introducing an alternative to GPS, called Galileo. The receivers will be able to combine the signals of 30 Galileo satellites and 28 GPS satellites to get highly accurate positions.
+
+There are many satellite navigation systems yet to launch in several countries. The Satellite system of France is called the DORIS (Doppler Orbitography and Radio-positioning Integrated by Satellite) The Chinese system is called BEIDOU, but these satellite systems do not come under the caliber of GPS, GLONASS and Galileo.
+
+

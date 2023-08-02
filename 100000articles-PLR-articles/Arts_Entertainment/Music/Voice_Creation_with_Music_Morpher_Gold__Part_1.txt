@@ -1,0 +1,33 @@
+Title: 
+Voice Creation with Music Morpher Gold, Part 1
+
+Word Count:
+734
+
+Summary:
+With a little planning and organization, you can create your own multi-voiced audio files, using MMG.  The editor allows you to record your voice and then apply effects to the recorded file. Working from a written script is helpful.  The built-in Voice Morpher is the key to a variety of vocal effects.  Using one of two basic techniques, you can change your natural voice into an unlimited number of character voices.
+
+
+Keywords:
+ music morphing, audio recording, audio editing, audio files.
+
+
+Article Body:
+Whether you are creating an audio track for your video, or creating a pure audio track for listening, Avnex’s Music Morpher Gold 4.0 can provide you with the tools you need for a successful project.  
+Let’s assume you have an audio script for three separate voices.  You could hire three voice talents, you could coerce three friends into doing the voices, or, by using MMG 4.0, you could do it all yourself.  This program has some great features to help you.
+First, I strongly advise you to prepare a written script.  You will probably be making more than one try at an acceptable audio file; so working from a script will greatly improve your chance for success.  Write out every word, and identify the speaker for every speech:
+
+Tom:  Hello, my name is Tom.
+Dick:  Nice to meet you, Tom.
+Harry:  Same here!
+Tom:  OK, let’s get down to business.
+
+By having a prepared script you can make sure you record the right words in the right sequence for the right speaker every time.  For your first recording, read the script into your mike after turning on the recorder in the editor.  Just use your normal voice, and try not to hurry through your words.  When you are done, be sure to click the save button; your file will then be available for editing.  Note the length in minutes, seconds the file runs, and make sure that is an acceptable length.  If not, make any adjustments by adding to or deleting from the script.  Practice it until you are satisfied with the length and with the quality of your voice.  
+I have found a great difference in the quality of microphones when using this program with my PC.  A microphone that is normally great for use with an amplifier or a PA system turned out to be unsuitable for PC recordings.  I am using the sound system built into my motherboard, so there is little adjustment I can make.  I tried a $100 microphone and could barely hear myself.  After some experimentation, I found an inexpensive old microphone in my pile of parts with “AM-32” on it, and it works great.  It does not pick up too many extraneous sounds, it doesn’t draw much power at all, and it has a nice, crisp quality to it.  Cheap is sometimes better.
+Now back to your file.  If you want, you can either work with this file or create a new one.  Here is how to work with the current one.  We are going to use the built-in voice morpher filter.  Make sure you have the effects panel open, click on Effects Library/Voice Morphing/Independently of Channels Quantity/Voice Morpher.  You will then see a panel with three sliders, Pitch, Timbre, and Advanced Tune.  These three sliders are your keys to an infinite variety of voices.  Pitch is the most important; 100% is normal, less lowers the pitch, more raises the pitch.  Small adjustments should be made until you find the right setting for each voice.  Once you find them, write them down so you can re-create them again.  So, first highlight a line or two of your audio file by clicking and dragging the cursor over a section of the graphic of your file.  Then try a setting, and then apply it by clicking ok.  It will apply the setting to your selection.  Then listen and if you do not like the settings, choose edit/undo and reset the effect.  You can then easily adjust the settings and apply the new ones to your selection, which should remain highlighted after the undo.  If you find it acceptable, simply click outside of the highlighted area and it will stay applied.  Now you can run the file, take the same character’s lines, highlight them, and apply the morphing settings to each.  Then you can experiment with the second voice until you like the effect, then highlight, and apply the setting to that voice.  Finally, you can repeat the process to apply the third voice’s alterations.
+You may find this process a little tedious, as you have to find each voice’s line and select it.  I have another method for creating your final audio script, but it is tedious in another way.  Please continue to Part 2.
+
+
+BIO:  Wayne Rice is a freelance journalist, copywriter, photographer and artist.  He currently resides in the United States.
+
+

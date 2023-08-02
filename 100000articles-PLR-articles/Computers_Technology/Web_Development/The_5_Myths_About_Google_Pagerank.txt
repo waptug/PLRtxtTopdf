@@ -1,0 +1,42 @@
+Title: 
+The 5 Myths About Google Pagerank
+
+Word Count:
+511
+
+Summary:
+The recent Toolbar RageRank update once again has generated a lot of discussion in the SEO community. Webmasters report their websites receiving not much more traffic despite the increased visible PageRank. In numerous forum threads people question the reliability of toolbar values. By unveiling the following five myths I hope to answer to some of the uncertainties caused by this update.
+
+1. PageRank values range from 0 to 10.
+
+While some people believe that PageRank is a...
+
+
+Keywords:
+SEO, Google, pagerank, web promotion, web marketing, SEM, search engine marketing
+
+
+Article Body:
+The recent Toolbar RageRank update once again has generated a lot of discussion in the SEO community. Webmasters report their websites receiving not much more traffic despite the increased visible PageRank. In numerous forum threads people question the reliability of toolbar values. By unveiling the following five myths I hope to answer to some of the uncertainties caused by this update.
+
+1. PageRank values range from 0 to 10.
+
+While some people believe that PageRank is an integer number or at least converge to an integer after intensive recursive calculations, actually it is a floating point number. Google rounds up the real value to the closest integer and puts it on the 0-10 scale which is displayed in your browser toolbar.
+
+2. PageRank value displayed in the toolbar is the one used to rank the results.
+
+As you might have noticed, the toolbar value is updated every few months with no regular intervals. In the present time Google continuously calculates and updates PageRank so that sometimes actual PageRank and its toolbar values can differ. The toolbar value should be considered not as a current rank but as a level your page has reached by the time of the latest toolbar update.
+
+3. PageRank is the primary factor to rank the search results.
+
+Not exactly. PageRank was the backbone of the Google success as a search engine because of its integrity, ability to use the unique democratic nature of the web and hyperlinks, and relatively high immunity to abuse. But as years passed the Google technology became far more sophisticated. Now Google uses a cloud of factors to rank its search results. Some of them are query specific (keyword saturation of the page copy and the backlinks’anchor text) and some of them are domain specific (domain age, keywords in domain name, and of course PageRank). Nobody outside the Google’s offices knows the actual weight of each factor and it is quite possible that PageRank is no longer the primary one.
+
+4. Google toolbar shows an increase of PageRank for my pages. My traffic is going to skyrocket!
+
+Wrong. There won’t be any sudden traffic increase after toolbar upgrades any more. As I said before, the continuous calculation and update of the Google’s internal PageRank means that the rankings also adjust gradually as your pages get or lose backlinks. So the toolbar upgrade itself will not cause any changes in search results.
+
+5. Toolbar PageRank is of no use, it is just for entertainment.
+
+This is allegedly a quote by one of the Google representatives. This is only partially true. The reason why Google doesn’t show the actual PageRank any more is that there have been repeated attempts by hackers to access an exploit these data. Since 2004 the toolbar values updates are no longer synchronized with the actual rankings changes, and therefore should not to be considered too seriously in terms of SEO. However toolbar ranks still remains the easiest and most obvious way to evaluate the quality of a page and millions of web users regularly judge websites according to what Google toolbar shows them.
+
+

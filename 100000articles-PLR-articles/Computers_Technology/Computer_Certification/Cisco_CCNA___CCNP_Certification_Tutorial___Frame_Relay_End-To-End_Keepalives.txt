@@ -1,0 +1,44 @@
+Title: 
+Cisco CCNA / CCNP Certification Tutorial:  Frame Relay End-To-End Keepalives
+
+Word Count:
+504
+
+Summary:
+You know the Frame LMI is a keepalive, but did you know that Frame offers an end-to-end keepalive as well?  Learn these vital exam details from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+ccna, ccnp, frame, relay, keepalive, end, to, exam, pass, free, tutorial, pvc, svc, map, chris, ccie
+
+
+Article Body:
+One of the first things you learned about Frame is that the LMI also serves as a keepalive, or a heartbeat - and if three consecutive LMIs are missed, the line protocol goes down.  There's a limitation to LMI as a keepalive, though.  The LMI is exchanged only between the DTE and the closest DCE.  The LMI is therefore a local keepalive that does not reflect any possible issues on the remote end of the virtual circuit.
+
+ Taking the LMI concept to the next logical level, Frame Relay End-To-End Keepalives (FREEK, one of the least-heard Cisco acronyms for some reason) are used to verify that endpoint-to-endpoint communications are functioning properly.
+
+What you have to keep in mind about FREEK is that each and every PVC needs two separate keepalive processes.  Remember, with a PVC, there's no guarantee that the path taking through the frame relay cloud to get from R1 to R2 is going to be the same path taken to go back from R2 to R1.  One process will be used to send requests for information and handle the responses to these requests; this is the send side.  When the send side transmits a keepalive request, a response is expected in a certain number of seconds.  If one is not received, an error event is noted.  If enough error events are recorded, the VC's keepalive status is marked as down.
+
+The process that responds to the other side's requests is the receive side.
+
+This being Cisco, we've got to have some modes, right?   FREEK has four operational modes.  
+
+Bidirectional mode enables both the send and receive process enabled on the router, meaning that the router will send requests and process responses (send side) and will also respond to remote requests for information (receive side). 
+
+Request mode enables only the send process.  The router will send requests and process responses to those requests, but will not answer requests from other routers. 
+
+Reply mode enables only the receive process.  The router will respond to requests from other routers but will initiate no requests of its own. 
+
+Finally, passive reply mode allows the router to respond to requests, but no timers are set and no events are tracked. 
+
+Frame Relay End-To-End Keepalive defaults:
+
+Two send or receive errors must be registered in order for the VC to be considered down.
+
+The event window size is three.  The event window is the number of events considered by the router when determining the status of the VC.  Therefore, using the defaults, two send or receive errors would have to be received within the event window of three events for the VC to be considered down.
+
+The timer mentioned earlier - the amount of time a router waits for a response - is set to 10 seconds
+
+Working with Frame Relay end-to-end keepalives is just one Frame skill you’ll need to pass the CCNP exams – and I wouldn’t be surprised to see them on a CCIE exam.  Know the details and you’re on your way to Cisco certification exam success!
+
+

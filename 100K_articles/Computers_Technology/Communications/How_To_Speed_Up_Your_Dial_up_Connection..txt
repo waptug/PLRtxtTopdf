@@ -1,0 +1,42 @@
+Title: 
+How To Speed Up Your Dial up Connection.
+
+Word Count:
+614
+
+Summary:
+Did you know you can actually increase the speed of your dial up connection by as much as a factor of 7? Why settle for a crippled 56k link when you can experience the joy of a dial up accelerator? Here's the lowdown.
+
+
+Keywords:
+ambient modem,faster dialup,dial up accelerator,speed up dialup,dialup booster
+
+
+Article Body:
+Do you remember the days? Firing up your 200Mhz turbo PowerPC, dialling up using your 56k modem, waiting an age for your hotmail page to show up, waiting some more to check your e-mails only to have your connection die just as you hit the send button! How times change.
+
+It's funny, once you've used broadband you quickly forget how painful the dial up connection was. I used to run my business on dial up and looking back I managed rather well. But these days there's no way I could do without my broadband connection. 
+
+There's no doubt about it, broadband is well and truly here to stay. It is of course a logical progression - streaming audio and video demand much higher bandwidth and broadband connections are the only way to achieve anything which is at all usable.
+
+A recent survey revealed that 53% of Americans who use the Internet now use a broadband connection. What they failed to point out is that obviously this means 47% still use a dial up connection. This actually equates to around 60 million people. These kind of statistics are mirrored in other developed countries. When you consider a large chunk of the developing world still uses dial up then you realize that's an awful lot of people still using a slow Internet connection. 
+
+So is it possible to speed up your dial up connection? 
+
+Well actually yes it is. There are quite a few services online these days allowing you to "accelerate" your dial up connection. These Internet accelerators claim to be able to boost the speed of your dial up connection by as much as six or seven times.
+
+Before you scream with delight at this prospect I feel I should point out right now that these accelerator services are not high speed broadband Internet services. They use a different kind of technology based on the same idea as things like zip files and mp3 files. These files use a compression algorithm to dramatically reduce the file size. 
+
+Internet accelerators work in the same way and most providers have also implemented a caching technology whereby they store local copies of popular web sites. These local copies are pre compressed and can be sent to the user very quickly. The user has a piece of software sitting on their PC which decompresses the data as it comes in. This is how the dramatic speed increases are achieved.
+
+Many people report excellent success with these systems. Some people are even comparing the accelerators with broadband services
+
+So while this is a really good thing for basic web pages, the technology falls down as soon as you start working with large video or audio files etc. Since an mp3 file is already compressed there's not much more compression that can be done and so the Internet accelerator has little effect. Plus many services have a file size limit meaning they will not even attempt to compress anything as big as a regular pop music mp3 file. 
+
+But if you're just loading up normal web pages without too much flash animation and all the other bells and whistles, then I highly recommend you get yourself an accelerated service. If your ISP doesn't offer it there are plenty that do so vote with your feet and check out some of these excellent services. 
+
+For more information simply search Google or Yahoo! for the term "dial up accelerator" or something like "speed up my dial up connection". You'll find lots of providers ready to supply you with service. 
+
+Some popular services in the USA are NetZero and Earthlink. In the UK you want to be taking a look at someone like Mistral or Onspeed.com
+
+

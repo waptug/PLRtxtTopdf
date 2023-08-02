@@ -1,0 +1,145 @@
+Title: 
+Cisco CCNA  / CCNP Certification Exam Tutorial:  Floating Static Routes
+
+Word Count:
+687
+
+Summary:
+Knowing when and how to configure floating static routes is an important skill on your Cisco certification exams, as well as working in real-world networks.  Learn all about floating static routes from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+ccna, ccnp, bcran, floating, static, route, ip, isdn, bri, pass, free, tutorial, lab, distance, AD
+
+
+Article Body:
+To pass the Cisco CCNA and CCNP certification exams, as well as becoming a world-class networker, you've got to know how and when to use floating static routes. And if you're wondering what makes them "float" -- read on!
+
+In this example, R1 and R2 are running OSPF over a Frame Relay network, 172.12.123.0 /24. They're also connected by a BRI ISDN link, 172.12.12.0 /24. R1 is advertising a loopback network, 1.1.1.1 /32, via OSPF. We want R2 to have a route to that loopback even if the frame goes down - and here, we'll use a floating static route to make that happen.
+
+R2 sees the route to the loopback interface via OSPF, and can ping that interface successfully.
+
+R2#show ip route ospf
+
+1.0.0.0/32 is subnetted, 1 subnets
+
+O 1.1.1.1 [110/65] via 172.12.123.1, 00:00:02, Serial0
+
+
+R2#ping 1.1.1.1
+
+Type escape sequence to abort.
+
+Sending 5, 100-byte ICMP Echos to 1.1.1.1, timeout is 2 seconds:
+
+!!!!!
+
+Success rate is 100 percent (5/5), round-trip min/avg/max = 68/68/68 ms
+
+This is when it's important to know your administrative distances.... or at least know where to look to see them! The AD of OSPF is 110, which means we can configure a static route to 1.1.1.1 /32, and as long as the AD of the static route is higher than 110, it won't be used unless the OSPF route leaves the routing table. That's why this kind of route is called a "floating" static route - the route "floats" in the routing table and isn't seen unless the primary route leaves the table.
+
+You learned how to write a static route in your CCNA studies, but you also remember that the default AD of a static route is either 1 or 0... and both of those values are less than 110! To change the AD of a static route, configure the desired distance at the end of the ip route command.
+
+R2(config)#ip route 1.1.1.1 255.255.255.255 bri0 ?
+
+<1-255> Distance metric for this route
+
+A.B.C.D Forwarding router's address
+
+name Specify name of the next hop
+
+permanent permanent route
+
+tag Set tag for this route
+
+
+R2(config)#ip route 1.1.1.1 255.255.255.255 bri0 111
+
+The static route has an AD that's only one higher than that of the OSPF route, but that's enough to make the route "float" and not yet be seen in the routing table.
+
+R2#show ip route
+
+1.0.0.0/32 is subnetted, 1 subnets
+
+O 1.1.1.1 [110/65] via 172.12.123.1, 00:06:44, Serial0
+
+172.12.0.0/24 is subnetted, 2 subnets
+
+C 172.12.12.0 is directly connected, BRI0
+
+C 172.12.123.0 is directly connected, Serial0
+
+Let's see the effect on the routing table when the Serial0 interface is closed.
+
+R2(config)#int s0
+
+R2(config-if)#shutdown
+
+
+12:04:53: %OSPF-5-ADJCHG: Process 1, Nbr 172.12.123.1 on Serial0 from FULL to DOWN, Neighbor Down: Interface down or detached
+
+
+12:04:55: %SYS-5-CONFIG_I: Configured from console by console
+
+12:04:55: %LINK-5-CHANGED: Interface Serial0, changed state to administratively down
+
+
+12:04:56: %LINEPROTO-5-UPDOWN: Line protocol on Interface Serial0, changed state to down
+
+
+R2#show ip route
+
+1.0.0.0/32 is subnetted, 1 subnets
+
+S 1.1.1.1 is directly connected, BRI0
+
+172.12.0.0/24 is subnetted, 1 subnets
+
+C 172.12.12.0 is directly connected, BRI0
+
+The floating static route appears in the table, but the ISDN link will not come up until the BRI interface has traffic to send. Let's ping 1.1.1.1 and see what happens. debug dialer was configured on R2 before sending the ping.
+
+R2#ping 1.1.1.1
+
+Type escape sequence to abort.
+
+Sending 5, 100-byte ICMP Echos to 1.1.1.1, timeout is 2 seconds:
+
+12:16:01: BR0 DDR: Dialing cause ip (s=172.12.12.2, d=1.1.1.1)
+
+12:16:01: BR0 DDR: Attempting to dial 8358661
+
+12:16:01: %LINK-3-UPDOWN: Interface BRI0:1, changed state to up.!!
+
+12:16:01: BR0:1 DDR: dialer protocol up!!
+
+Success rate is 80 percent (4/5), round-trip min/avg/max = 36/37/40 ms
+
+The link comes up and traffic can still reach 1.1.1.1. Once R2 becomes an OSPF neighbor of R1 again, the OSPF route will again become the primary path and the floating static route leaves the routing table.
+
+R2(config)#int s0
+
+R2(config-if)#no shut
+
+R2#show ip ospf neighbor
+
+Neighbor ID Pri State Dead Time Address Interface
+
+172.12.123.1 1 FULL/DR 00:01:57 172.12.123.1 Serial0
+
+
+R2#show ip route
+
+1.0.0.0/32 is subnetted, 1 subnets
+
+O 1.1.1.1 [110/65] via 172.12.123.1, 00:00:16, Serial0
+
+172.12.0.0/24 is subnetted, 2 subnets
+
+C 172.12.12.0 is directly connected, BRI0
+
+C 172.12.123.0 is directly connected, Serial0
+
+A floating static route is an excellent "back door" that will keep the ISDN link down while allowing that link to serve as a backup route. Just make sure the ISDN link comes down when you expect it to - always check that with show isdn status!
+
+

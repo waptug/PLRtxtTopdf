@@ -1,0 +1,60 @@
+Title: 
+How To Set Up A Network In Your Home
+
+Word Count:
+819
+
+Summary:
+Most modern homes have any number of computers, printers, faxes, music systems and devices. These are increasingly being integrated so that each device can 'talk' to all the others and interact with them. While many of the possibilities are still being explored, the best place to start for the average person is with a home computer network.
+
+
+Keywords:
+computer networks
+
+
+Article Body:
+Most modern homes have any number of computers, printers, faxes, music systems and devices. These are increasingly being integrated so that each device can 'talk' to all the others and interact with them. While many of the possibilities are still being explored, the best place to start for the average person is with a home computer network. 
+
+Basically, if you have more than one computer in your house you can connect them, with ethernet cables or wirelessly, so that you can share your internet connection, share files and operate peripherals such as printers from any terminal.
+
+As well as more practical advantages, having a home network is also ideal for leisure activities like gaming. As the technology advances, it is now becoming possible to hook networks up to gaming consoles, music speakers and even televisions.
+
+However, for the purpose of this article we will just start with the basics. The two main choices when setting up a home network are a cable network or a wireless network. These are fairly self explanatory. Wireless networks are increasingly becoming the norm these days and are very handy if you have a notebook so you can connect from anywhere in the house. Wireless also has the advantages of having no cables cluttering your home. However, if you want to simply connect two desktop computers, using an ethernet cable could be a cheap and easy option if you do not have wireless.
+
+Connecting two computers
+  
+The most basic exercise in networking is simply connecting two computers. This is very simple if you do not have an internet connection. So long as the two computers have networking interfaces you can simply connect using an ethernet cable.
+
+However, most computers produced within the last couple of years have Wi-Fi. If so, an ad-hoc wireless network can be created between the two computers by configuring both terminals to ad-hoc mode. This is pretty simple to do in both Windows and OSX.
+
+Similarly, if the computers have Bluetooth or infrared capabilities you can create a basic network, although transfer speeds can be slow. Of all these options, the cable network will provide the best transfer speeds. However, Wi-Fi speeds are improving all the time.
+
+While there is only a limited amount you can do with a basic two-computer network, it is good practice if you have never set up a network before.
+
+Setting up a network router
+ 
+If you wish to incorporate an internet connection into the network, as most of us do, you will need to set up your home network with a router. This will also allow you to add more computers to the network as well as peripherals.
+
+However, this process is a good deal more complex. Nevertheless, it is doable and is a skill that is well worth having. Once you do this once it will be will be a breeze the next time.
+
+While cable routers are still commonly used, wireless is the way of the future so we will concentrate on wireless routers for this article. Before you start, you should have a few things to hand. Your computer and your router, of course, instructions for your wireless router, an ethernet cable, and your ISP's contact details.
+
+Your first steps are to plug in and turn on your router, connect it to your modem and to your computer (it is best to connect your computer and router by ethernet cable for the set-up process).
+
+Now, you can use your browser to connect to your router's built-in installation software. The urls  http://192.168.1.1 or http://192.168.0.1 will usually open up your router's administration page. You do not need an internet connection for this. If this doesn't work, consult the router's instructions.
+
+Log in to the administration page using the router's provided username and password, usually 'admin' and 'admin' by default. Now you will have to enter the following information:
+
+* Internet connection information
+* You may have to input PPPoE information
+* You may possibly have to change the default MAC address
+
+If you run into difficulty here consult your ISP's instructions or contact them. They will be able to guide you through this process.
+
+When all the information has been inputted, save it. You should be ready to go now. All going well, your computer should have received an IP address from the router. Try opening your browser to see if you can address to some websites, any websites will do.
+
+If you can access these websites you can unplug your cable and now connect wirelessly. Any other computers, notebooks and other wireless devices should also detect the signal and connect without any problems.
+
+You now have a fully functional wireless home network. Be aware though that your network is most likely open and accessible from any computers in range of the signal so you should take steps to secure it. There is plenty of excellent information available on the internet on how to do this.
+
+

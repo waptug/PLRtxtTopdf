@@ -1,0 +1,58 @@
+Title: 
+Cisco CCNA / CCNP Certification Exam:  Troubleshooting Direct Serial Connections
+
+Word Count:
+344
+
+Summary:
+Configuring and troubleshooting directly connected Cisco routers seems simple enough, but there are vital details you must know in order to pass the CCNA and CCNP exams and run this config in productions and home lab networks.  Learn these details from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+ccna, ccnp, cit, dte, dce, serial, connection, cable, show, interface, serial, line, protocol, up
+
+
+Article Body:
+A prime topic of your CCNA and CCNP CIT exams will be connecting Cisco routers directly via their Serial interfaces, and while the configuration is straightforward, there are some vital details and show commands you must know in order to pass the exams and configure this successfully in production and home lab networks. Let's take a look at a sample configuration.
+
+Connecting Cisco routers directly via their Serial interfaces works really well once you get it running - and getting such a connection up and running is easy enough.  You can use show controller serial x to find out which endpoint is acting as the DCE, and it's the DCE that must be configured with the clockrate command.
+
+R3#show controller serial 1
+
+HD unit 1, idb = 0x11B4DC, driver structure at 0x121868
+
+buffer size 1524  HD unit 1, V.35 DCE cable
+
+R3(config)#int serial1
+
+R3(config-if)#ip address 172.12.13.3 255.255.255.0
+
+R3(config-if)#clockrate 56000
+
+R3(config-if)#no shut
+
+Failure to configure the clockrate has some interesting effects regarding the physical and logical state of the interfaces.  Let's remove the clockrate from R3 and see what happens.
+
+R3(config)#int s1
+
+R3(config-if)#no clockrate 56000
+
+R3(config-if)#
+
+18:02:19: %LINEPROTO-5-UPDOWN: Line protocol on Interface Serial1, changed state to down
+
+The line protocol doesn't drop immediately, but it does drop.  Let's run show interface serial1 to compare the physical and logical interface states.
+
+R3#show int serial1
+
+Serial1 is up, line protocol is down
+
+Physically, the interface is fine, so the physical interface is up.  It's only the logical part of the interface - the line protocol - that is down.  It's the same situation on R1.
+
+R1#show inter serial1
+
+Serial1 is up, line protocol is down
+
+While a router misconfiguration is the most likely cause of a serial connection issue, that's not the only reason for clocking issues.  Cisco's website documentation mentions CSU/DSU misconfiguration, out-of-spec cables, bad patch panel connections, and connecting too many cables together as other reasons for clocking problems.  Still, the number one reason for clocking problems in my experience is simply forgetting to configure the clockrate command!
+
+

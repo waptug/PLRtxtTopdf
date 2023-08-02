@@ -1,0 +1,36 @@
+Title: 
+You Owe Your Laptop And PC To To Basic Human Ego And Its Frailties.
+
+Word Count:
+630
+
+Summary:
+One of the most important developments leading to the personal computer revolution was the invention of the semiconductor. Or the transistor in 1949. The feat was accomplished by engineers at Bell Labs. The transistor was nothing more than a solid state electronic switch that replaced the much larger vacuum tubes of the day. The transistor consumed significantly much less power in performing the exact same job as the larger, hot tubes of the day. Thus a computer system built ...
+
+
+Keywords:
+computer,computers,vintage,retro,history,technology,transistor,pc,microsoft,apple,dos,altair,intel
+
+
+Article Body:
+One of the most important developments leading to the personal computer revolution was the invention of the semiconductor. Or the transistor in 1949. The feat was accomplished by engineers at Bell Labs. The transistor was nothing more than a solid state electronic switch that replaced the much larger vacuum tubes of the day. The transistor consumed significantly much less power in performing the exact same job as the larger, hot tubes of the day. Thus a computer system built with transistors would be smaller, use less power and be more efficient. And to boot since transistors did not wear out like an electric tube or electric incandescent light bulb, much more reliable.
+
+Transistors allowed a trend of miniaturization that has led all the way to our present portable small laptop / notebook computers which can run on batteries. It is hard to visualize that today’s laptop computers replace what would have been a multistory building packed with computers that would of consumed huge amounts of electric power.
+
+In 1959 engineers at Texas Instruments figured out how to put more than one transistor on the same base and connect these transistors without wires. Thus the next step was born – the integrated circuit. The first integrated circuit consisted of only six transistors. Current computers have in the range of 100 million transistor equivalents.
+
+In 1969 Intel introduced the 1 k memory chip. This was much larger than anything else produced at the time. Through coordination of Intel with a Japanese calculator manufacturer named Busicomp the next step was made where a generic multipurpose chip was devised.  What made this step important was that no one chip could do a number of tasks. Previously each chip had a purpose that was burnt in. Now one integrated chip could do a number of different functions. One single integrated circuit chip was almost an entire computing device.  The successor to this multi purpose integrated circuit or “CPU” was what went on to the basis of our whole generation and concept of personal computers/
+
+In 1973 some of these microcomputer kits based on the initial 8080 Intel integrated chip were developed. In the hands of hobbyists these kits were put together and were nothing more than blinking lights. However the impetus was on. Many of these early hobbyists went on to become computer industry giants. With Intel introducing an even much more powerful microprocessor chip the computer industry was on its way.
+
+First was a ground breaking kit from a company MITS which introduced the “Altair Computer Kit”. The Altair inspired other companies to write programs for these early computers. Among the early innovators and producers of software in this field was Microsoft with its first version of Microsoft “Basic”.
+
+Now things really started moving. IBM introduced the first “personal computer” in 1975. The model 1500 was beyond piddly compared to today’s dollar store calculators and cost only $ 9,000.
+
+In 1976, a newer California based company called Apple Computer, introduced the Apple I computer for $ 695. The original Apple 1 computer consisted of a main circuit board screwed into a piece of plywood. A case and power supply were not even included- the buyer even for $ 695 had to supply and manufacture them.
+
+The Apple I was followed in 1977 by the Apple II. The Apple II because of its enormous success set the standards for nearly all the important microcomputers to follow, including the IBM PC.
+
+The stage was no set for the release of the next major step in Personal Computer Evolution. The large powerful computer monolith IBM - a very profitable and lucrative company was being embarrassed by a little upstart whose very product has started from a primitive appearing home made type product screwed onto a piece of plywood.. You owe your laptop and your Personal Computer – your PC itself to basic human ego and its frailties.
+
+

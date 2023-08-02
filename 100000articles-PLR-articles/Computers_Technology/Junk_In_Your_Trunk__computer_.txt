@@ -1,0 +1,39 @@
+Title: 
+Junk In Your Trunk (computer)
+
+Word Count:
+801
+
+Summary:
+Home Computer Repair Repair - Got Junk In Your Trunk?
+
+Unfortunately I'm not talking about someone who has nice "ass-ets," but rather I'm talking about your home computer repair and the unnecessary junk that wastes
+
+
+Keywords:
+home computer repair, home computer fixing, home computer virus
+
+
+Article Body:
+Home Computer Repair Repair - Got Junk In Your Trunk?
+
+Unfortunately I'm not talking about someone who has nice "ass-ets," but rather I'm talking about your <a href="http://www.homecomputerrepairbasics.blogspot.com">home computer repair</a> and the unnecessary junk that wastes space therein. I'm talking about spyware, junk that affects your home computer repair by installing programs that slow down your operating system, usually without your knowledge or permission. So what exactly is spyware? Spyware is software components hidden in other software.
+
+It's used primarily by companies who aim to advertise their products on your home computer repair. By using spyware, they are able to install their own programs or they attach themselves, like parasites, to Internet Explorer (IE), in hopes that you will click on one of their pop up ads, directing you to their homepage. Sometimes it is even used to report information about you, like what Web sites you are viewing, and then transmitting this information back to their server on the Internet. After this information is transmitted, your home computer repair is targeted with specific pop up ads, linking you to specific products promoted by these larger companies.
+
+
+But I Didn't Download This
+
+Right. No one would knowingly download a program that monitors his/her actions like Big Brother. Spyware components are hidden in software that you would download, like free game programs from mainstream companies. Thus, when you install the program, you're also unknowingly installing spyware. Another way people are fooled into downloading spyware are by clicking what they think to be a Window's error message. The message is actually a pop up window containing spyware waiting to be clicked on so it can begin installing itself into your home computer repair. And, in addition to downloading and clicking disguised messages, there's yet two more common ways it can be installed: by visiting maliciously encoded Web pages and in email programs like Microsoft Outlook who use HTML script that can also be maliciously encoded.
+
+Prevention Tactics
+
+So now that we've discussed what spyware is and how you can get it, let's talk about how to prevent it. The easiest and most simplistic thing you should do is disconnect your modem when it's not in use. This will prevent certain spyware components from enabling your modem to dial long distance numbers. If you have Windows XP, Service Pack 2 should be installed because it patches many of IE's security holes. This program contains a welcome pop up blocker and a new add-on manager that allows you to disable unnecessary programs opened while using IE. IE also has a special security feature that enables you to categorize sites as either Internet, local Intranet, restricted, or trusted. If you categorize the sites you visit, especially sites in the restricted section, IE will prevent the sites from harming your home computer repair. Additionally, Windows also offers firewall protection against malicious sites. Furthermore, whether you have Windows XP or another operating system, there are free programs like Spyware Blaster and Spyware Blocker that can be downloaded to list potentially harmful sites that can be added to your restricted area, while preventing personal information from being transmitted over the Internet.
+
+Removal Strategies
+
+The first thing you need to do is locate spyware. One way you can do this is by turning your home computer repair on in Safe Mode, then pressing CTRL+ALT+Delete to view the Task Manager. Once you see the Task Manager, click on the "Processes" tab and jot down the programs you see. Then, reboot your home computer repair and press CTRL+ALT+Delete again and write down the programs from the same section. Compare the programs and whatever programs are leftover on the list you made from when you rebooted your home computer repair, aside from anti-viral software, are probably ad-on applications created by spyware. To double check that these programs are caused by spyware, you can visit the Library, to research them.
+
+Unfortunately, there's no one program available that will detect and destroy all spyware. Fortunately, there are several free programs that you can download, that when used simultaneously, can be very efficient; programs like Lavasoft's Ad-Aware, Hi Jack This, and Spybot Search & Destroy. And, in case the spyware is difficult to remove, as in the case of a particular program called "Cool Web Search," that takes control of your homepage and then implants Trojans within it, you will have to manually remove it by using CWS Shredder, a specific program designed to shred this particularly difficult spyware. So, if you just remember to disconnect your modem when it's not in use, keep your anti-virus programs current, utilize the Internet's safety features along with your home computer repair system's firewalls, and download or purchase spyware removal programs, your home computer repair should run a lot smoother.
+
+

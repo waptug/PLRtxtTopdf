@@ -1,0 +1,84 @@
+Title: 
+Eight easy steps to managing your website development
+
+Word Count:
+937
+
+Summary:
+Managing your website development need not cause you sleepless nights providing you learn the secrets of successful project management. Perform the best practices in project management and give your project the best chance of success.
+
+
+Keywords:
+web site development, project management, web development
+
+
+Article Body:
+Define objectives
+
+Objectives guide everyone on the project to your final goals. Are your objectives to sell your product online, to provide customer support, to promote investor relations? Carefully decide and clearly document your objectives. 
+
+Decide the critical success factors – the things at the end of the project which tell you if you’ve been successful. Make them measurable so you know if you’ve achieved them. For example, the website development should result in an increase in online sales of 25% by year end.
+
+Stakeholder analysis
+
+A stakeholder is someone with an interest in your project’s success (or failure). Decide who they are and whether they support your project. Perform stakeholder analysis by classifying them (high or low) according to how motivated they are in helping (or blocking) your project and how influential (high or low) they are.
+
+Highly influential and supportive people are your allies. Gain their support whenever you can. Aim to reduce the influence of people who are both highly influential and against your project as these people could act to damage your project. 
+
+During your stakeholder analysis, draw up strategies for dealing with each group of stakeholders.
+
+Define deliverables
+
+Deliverables are tangible things produced during the project. Talk with key stakeholders to help define deliverables. Will your website design include web page layouts and sitemap for use by the programming team? What is the content for each page? Write all this down. 
+
+Key stakeholders must review and agree the deliverables accurately reflect what they expect to be delivered. 
+
+Project planning
+
+Define how you will arrive at your objectives. This involves planning how many people, resources and budget are required. If delivering this in house, decide what activities are required to produce each deliverable. 
+
+For example, you might decide a web designer will develop page layouts and navigation diagrams. You might decide the marketing team will supply all product details and photographs. You might decide the finance manager will set up merchant and payment gateway accounts to enable e-commerce transactions via your website. If outsourcing work, specify exactly what the sub-contractor should deliver. 
+
+Estimate the time and effort required for each activity and decide realistic schedules and budget. Ensure key stakeholders review and agree the plan and budget.
+
+Communication planning
+
+Hold a kick off meeting with the team and explain the plan. Ensure everyone knows exactly what the schedule is, and what is expected of them.
+
+For example, the web designer needs to know that he is to produce page layouts and navigation diagrams based upon the marketing manager’s requirements. He needs to know his expected start and end times. 
+
+Share your project communication plan with the team. This should include details of report templates, frequency of reporting and meetings, and details of how conflicts between teams and their members will be resolved. 
+
+Project tracking
+
+Constant monitoring of variations between actual and planned cost, schedule and scope is required. Report variations to key stakeholders and take corrective actions if variations occur. To get a project back on track you will need to juggle cost, scope and schedule. 
+
+Suppose your programmer hits technical problems which threaten to delay the project. You might recover time by re-organising or shortening remaining tasks. If that’s not possible, you might consider increasing the budget to employ an additional programmer, or consider reducing the scope in other areas. 
+
+Be aware that any adjustments you make to the plan might affect the quality of deliverables. If you need to increase the budget, seek approval from the project sponsor.
+
+Change management
+
+Once started, all projects change. Decide a simple change strategy with key stakeholders. This could be a committee which decides to accept or reject changes which comprises of you and one or more key stakeholders.
+
+Assess the impact of each change on scope, cost and schedule. Decide to accept or reject the change. Be aware that the more changes you accept the less chance you have of completing the project on time and within budget unless you reduce scope in other areas.
+
+Suppose the marketing manager wants to add a popup window to display full size photographs of products. Assess the impact of this change. You might need to remove some remaining tasks to include this change and stay within budget. Or, it might be impossible to include the change without increasing the budget or schedule. 
+
+Don’t blindly accept changes without assessing the impact or your project will overrun.
+
+Risk management
+
+Risks are events which can adversely affect the success of the project. Identify risks to a project early. Decide if each risk is likely or unlikely to occur. Decide if its impact on the project is high or low. 
+
+Risks that are likely to occur and have high impact are the severest risks. High impact but unlikely risks, or low impact but likely risks pose a medium threat. Unlikely and low impact risks pose the least threat. 
+
+Create a mitigation plan of the actions necessary to reduce the impact if the risk occurs. Start with the severest risks first, then deal with the medium risks. Regularly review risks. Add new ones if they occur. 
+
+Suppose the marketing manager cannot decide what he wants from the website. Without knowing what the marketing manager wants, the team cannot deliver a website to meet his expectations. You assess this risk as highly likely to occur and having high impact. Your mitigation plan might be that the web designer develops page layouts to be reviewed by the manager early in the project.
+
+Summary
+
+Performing best practices in project management will give your website development project the best chance of success.
+
+

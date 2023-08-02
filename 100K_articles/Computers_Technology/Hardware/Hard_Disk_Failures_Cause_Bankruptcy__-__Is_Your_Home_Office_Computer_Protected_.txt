@@ -1,0 +1,32 @@
+Title: 
+Hard Disk Failures Cause Bankruptcy  -  Is Your Home Office Computer Protected?
+
+Word Count:
+344
+
+Summary:
+Computers are wonderful inventions, until they go wrong. Every company stores data on its computers, instead of in filing cabinets. That data includes invoices payable, customer details, debts, etc. If something goes wrong with the computer hard drive the data could be lost. Every day, companies go out of business because of catastrophic data loss caused by computer crashes.
+
+Large companies do back up their data, but what about the one-man company where the paperwork is do...
+
+
+Keywords:
+system backup,hard drive failure,hard disk crash,data recovery
+
+
+Article Body:
+Computers are wonderful inventions, until they go wrong. Every company stores data on its computers, instead of in filing cabinets. That data includes invoices payable, customer details, debts, etc. If something goes wrong with the computer hard drive the data could be lost. Every day, companies go out of business because of catastrophic data loss caused by computer crashes.
+
+Large companies do back up their data, but what about the one-man company where the paperwork is done on a Sunday morning? More and more people are working from home on personal computers that have zero protection against data loss caused by hard disk failure or power surges.
+
+Every company, large or small should back up their data, preferably to an alternative location, yet most one-man businesses fail to follow this basic survival strategy because of the time it takes to back up the data each day.
+
+Even these companies need to develop the habit of backing up all customer information to a removable hard disk, pen-drive or similar, or to a CD/DVD. Another alternative is to buy a RAID hard drive for your PC. These drives save your data to more than one hard disk, and check for inconsistencies between the two or more data sets. If there are differences then this can be a sign that one of the hard disks will fail soon, enabling you to avoid losing the data in the first place.
+
+Hard drive disks spin at up to 8,000 revolutions a minute, They are highly engineered, but, because they have moving parts, wear occurs, and disks stop working.
+
+There are many companies who will attempt to retrieve your data from a non-functional hard drive. The service is not cheap, and if you employ a contractor to do this who is not using the correct software, you have a 50% chance of your data being totally destroyed.
+
+If your company depends on that data for its survival, and it does, the high cost is worth it. Much better though, to get into the habit of backing up your data every night
+
+

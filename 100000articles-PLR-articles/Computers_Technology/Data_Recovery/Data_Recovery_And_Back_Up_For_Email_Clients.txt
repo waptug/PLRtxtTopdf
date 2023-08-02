@@ -1,0 +1,78 @@
+Title: 
+Data Recovery And Back Up For Email Clients
+
+Word Count:
+390
+
+Summary:
+Booting issues, virus attacks, or corrupted file systems are very much present in any exchange or mail servers and can cause many of your archived email messages to apparently disappear. Companies which rely heavily on email communication and do not have back ups might find this a pervading problem. But data recovery designed specifically for email recovery can fix this problem.
+
+Here are a few examples of data recovery steps in three of the most widely used email clients:...
+
+
+Keywords:
+data recovery
+
+
+Article Body:
+Booting issues, virus attacks, or corrupted file systems are very much present in any exchange or mail servers and can cause many of your archived email messages to apparently disappear. Companies which rely heavily on email communication and do not have back ups might find this a pervading problem. But data recovery designed specifically for email recovery can fix this problem.
+
+Here are a few examples of data recovery steps in three of the most widely used email clients:
+
+IncrediMail Email Data Recovery
+
+• Select File | Data and Settings Transfer | Transfer from Old Computer... from the menu in IncrediMail email client.
+
+• Click on the OK button.
+
+• Click Open; then click OK.
+
+• IncrediMail Email data recovery process will then start.
+
+• Once done, a dialog box will appear, indicating that the data recovery process is finished. Click OK.
+
+• IncrediMail will auto-restart to complete the data recovery process.
+
+Outlook Email and Other Data Recovery
+
+• Select File | Import and Export... from the Outlook menu.
+
+• In the drop-down menu that appears, select Import from another program or file.
+
+• Click Next.
+
+• Run your mouse over the Personal Folder File (PST) to highlight it.
+
+• Click the Next button again.
+
+• Using the Browse button, select the backup copy of the PST file you want to recover from your backup location.
+
+• On the dialog box, place a check mark on the box that says Replace duplicates with items imported to start the data recovery process.
+
+• Click Next.
+
+• Once the data recovery process is done, click Finish.
+
+Outlook Express Email Data Recovery
+
+• Select File | Import | Messages... from the Outlook Express menu.
+
+• Choose the Outlook Express version that you have as the email program to import from.
+
+• Click the Next button.
+
+• From the dialog box, make sure that you again choose the right Outlook Express version.
+
+• Click OK.
+
+• Select the folder containing your back up copy of your Outlook Express mail store by using the Browse button.
+
+• Click Next.
+
+• Choose which folders to import and the data recovery process will start.
+
+• Click Next; then Finish to finalize the data recovery process.
+
+It is a fact that exchange and email servers are a vital aspect of any company. So to protect this fragile part of your company’s IT asset base, you need a splendid back up program and state-of-the-art data recovery system that has been tested and proven effective in its job.
+
+

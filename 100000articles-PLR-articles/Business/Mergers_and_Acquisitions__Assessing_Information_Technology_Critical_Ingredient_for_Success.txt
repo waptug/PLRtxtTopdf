@@ -1,0 +1,40 @@
+Title: 
+Mergers and Acquisitions: Assessing Information Technology Critical Ingredient for Success
+
+Word Count:
+422
+
+Summary:
+Answering basic questions about the software each company owns can play a vital role in the success of any merger or acquisition.
+
+
+Keywords:
+Mergers and Acquisitions: Assessing Information Technology Critical Ingredient for Success
+
+
+Article Body:
+Merging companies or acquiring a new business is almost always an incredible challenge, regardless of the circumstances. Decisions such as how to procure financing, provide due diligence and foster positive reactions to the change usually get made quickly and under a tremendous amount of pressure. Often the last thing on anyone's mind is getting a handle on the information technology (IT) in place at both companies. 
+
+Knowing in advance the software each company owns can help companies ensure that the business they are buying or merging with has a clear title to the technologies being used. In addition, companies can assess that the technologies are scalable and will provide growth opportunities in the long run. 
+
+Answering basic questions about the software each company owns can play a vital role in the success of any merger or acquisition. Key questions to answer include these: 
+
+&#8226; Are both companies using the same operating systems? 
+
+&#8226; Can mission-critical databases be merged? 
+
+&#8226; Which applications can be used by employees at both companies?
+
+Not only does a sound software asset management strategy help companies ensure the success of a merger or acquisition, but it can also help save money by optimizing investments across the companies while providing needed business clarity. The following guidelines outline the steps companies can take in advance of a merger or acquisition to assess IT assets:
+
+1. Review the policies and procedures around software purchase, deployment, usage and recovery for both companies. Then develop a combined set of policies and procedures for the new organization. The Business Software Alliance has made available a useful template for software asset management policy available for download at http://www.bsa.org/resources/upload/Sample-Organization-Software-Policy.doc. 
+
+2. Use an appropriate software-inventory tool to discover what software is installed on PCs, workstations and servers; who is using each asset; and where the software resides.
+
+3. To help avoid legal difficulties after the merger or acquisition, make certain both businesses are using legally licensed software by matching the installed software with software licenses that have been purchased. 
+
+4. Use both organizations' software inventories as a baseline to design a plan for ongoing software management once the merger or acquisition is finalized. 
+
+Instituting the right policies from the time of considering software acquisition all the way through to its deployment, use and retirement can not only provide peace of mind and greater assurance, but it can also help distinguish a company's technology from that of its competitors, get more value from its technology investments, reduce manpower and production costs and ultimately improve its products and services.
+
+

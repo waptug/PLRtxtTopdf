@@ -1,0 +1,39 @@
+Title: 
+Adobe Toolbox Photoshop 7 Tutorials
+
+Word Count:
+392
+
+Summary:
+You’ve probably been hanging out to get stuck into the very nifty Photoshop toolbox. In this article I’ll introduce some of the most frequently used tools found in the toolbox.
+
+You’ll notice that some of the tool icons have small black triangles in their bottom right-hand corners. These icons contain hidden treasures! The triangle indicates that there are more related tools available; if you click on the tool icon and hold it down, a “flyout” menu will appear, displaying t...
+
+
+Keywords:
+photoshop,adobe,tutorials,paint,photography,photoshop 7,photoshop cs,photoshop tips,photoshop tricks
+
+
+Article Body:
+You’ve probably been hanging out to get stuck into the very nifty Photoshop toolbox. In this article I’ll introduce some of the most frequently used tools found in the toolbox.
+
+You’ll notice that some of the tool icons have small black triangles in their bottom right-hand corners. These icons contain hidden treasures! The triangle indicates that there are more related tools available; if you click on the tool icon and hold it down, a “flyout” menu will appear, displaying the additional tools.
+
+Selection Tools:
+You can use the selection tools to select certain areas of your document for editing. If you use a selection tool, only the area that’s selected will be affected by any changes you make. You can “feather” selections (specify a fuzzy radius for them) using the Feather field in the options bar.
+
+Marquee tools (M) are used to create rectangular or elliptical selections, including selections that are “single row” (one pixel tall, stretching across the entire width of the document) and “single column” (one pixel wide, tretching through the entire height of the document).
+
+To make single-row or single-column selections, click with the appropriate tool on the image area where you want to select a row or column. You can use the Lasso tools (L) to create freeform selections.
+
+The Lasso Tool comes in three different forms:
+
+Lasso Tool (L) Click and drag the Lasso Tool to draw a selection area. Releasing the mouse button will close the selection by joining the start and end points with a straight line.
+
+Polygonal Lasso Tool (L) Click at different points to create vertices of a polygonal shape. Close the selection by moving your cursor to the beginning and clicking once, or pressing the Enter key.
+
+Magnetic Lasso Tool (L) If you think you need help with making your selection, try the Magnetic Lasso Tool. Photoshop will attempt to make a “smart” selection by following the edges of contrast and color difference. Click once near the “edge” of an object and follow around it—Photoshop will automatically lay down a path.
+
+You can also click as you follow the line to force points to be created on the path. Close the selection by pressing the Enter key or clicking at a point near the beginning of the selection. The Magnetic Lasso Tool is not available in ImageRead
+
+

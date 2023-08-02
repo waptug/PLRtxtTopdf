@@ -1,0 +1,28 @@
+Title: 
+Alexa traffic rank: what it is and why you should care (or not)
+
+Word Count:
+882
+
+Summary:
+Alexa is an Amazon owned company that is famous for its public traffic ranking service via its alexa.com website. Website promotion guides often make a big deal about how to improve your Alexa ranking because a top position is often associated with high profits. As a new webmaster, you must understand a few very important points about Alexa’s service. This article will explain what the data collected by Alexa mean and then describe why you should care or not.
+
+
+Keywords:
+Alexa rank, traffic estimate, page views, reach per million
+
+
+Article Body:
+Alexa is an Amazon owned company that is famous for its public traffic ranking service via its alexa.com website. Website promotion guides often make a big deal about how to improve your Alexa ranking because a top position is often associated with high profits. As a new webmaster, you must understand a few very important points about Alexa’s service. This article will explain what the data collected by Alexa mean and then describe why you should care or not.
+
+There are three numbers that Alexa reports, reach, page views and overall rank. Reach refers to the percentage of all web users that visited your site. Alexa reports this number as “reach per million users.” For example if Alexa reports a reach of one, it means that on average out of one million web surfers one visits your site. Page views simply measures the average number of pages a surfer examines when at your website. Those sites with a lot of content and targeted visitors tend to generate a larger number of page views. The overall Alexa rank is a combination of the reach and page views numbers such that the larger both of them are the lower the site’s rank will be; for Alexa, a smaller rank indicates a more important website.  Alexa reports these numbers for each day, one week and three month averages and the overall change over a three month period. So, how does Alexa gather these data?
+
+On a daily basis, Alexa collects statistics about the number of visitors and page views for every website on the Internet. Actually, it does not have data for all the sites. You see, data collection happens via web surfers that have downloaded and installed the Alexa toolbar for their Internet Explorer browser. When one of these users visits and explores a site, the toolbar sends this information to Alexa’s servers. What this means for webmasters is that only those sites visited by users that have decided to install the toolbar will actually have data collected for them. In addition, since only a rather small subset of all possible Web surfers actually uses the toolbar, the ranking is a statistical average that is not necessarily a true indication of the quality and number of a site’s readers. In fact, the number is really inaccurate for sites with a small number of visitors and Alexa admits that this is true for those sites not in the top 100,000. 
+
+To make matters worse, the toolbar is only available for Internet Explorer. Of course, IE is the browser used by the majority of Internet users with data showing that it is used by about 83% of them (onestat.com). This is not a problem unless your audience is more likely to be in the other 17% of surfers, i.e., those that prefer to use Firefox, Safari, Opera or another alternative browser. For example, slashdot.org is a technology news site with an audience that is known to be very anti-Microsoft; Slashdot’s motto is “News for nerds. Stuff that matters.” One expects that most of its users would use any browser other than IE and in fact it was recently posted that an estimated 65% of Slashdot’s readers use a browser other than IE. As of this writing (July 12, 2006), Slashdot’s ranking was 176 with a reach of 5450 per million surfers. Slashdot is known for something called the “Slashdot effect” that is when a story on the front page links to a site, it receives so many visitors that the servers often are not able to handle the sudden increase in traffic. In other words, I would expect that Alexa’s rank is actually an underestimate of Slashdot’s true rank.
+
+From a statistics point of view, Alexa’s rank cannot be thought of as an unbiased statistical measure. The sample of people used by Alexa for collecting data is not a randomly selected set but rather it is biased towards users of Microsoft Windows and Internet Explorer as well as those who are willing to install the toolbar and submit to Alexa information about their browsing behavior. If your audience is similar to Slashdot’s then don’t expect accurate results. Anticipate the same if your audience includes people who are pro-privacy and would never install a toolbar that calls home making their browsing behavior known to a large corporation.
+
+So, if you really want accuracy in terms of your site’s number of users and page views then you are better off using analytics software, for example Google Analytics, rather than Alexa. However, many advertisers use Alexa’s ranking as a neutral third party estimate of a site’s popularity; they consult Alexa in order to determine how much advertising space is worth on your site. This is the reason why many webmasters display their Alexa rank on the front page. If you happen to be on the upper end of Alexa’s ranking then you should be able to benefit from it; if you are not then you probably shouldn’t lose too much sleep over it. Focus on adding fresh content to your site; this way you will be able to drive more traffic to your site via the major search engines and also keep your visitors coming back.
+
+

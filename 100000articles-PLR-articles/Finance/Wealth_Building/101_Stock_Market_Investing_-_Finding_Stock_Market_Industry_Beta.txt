@@ -1,0 +1,28 @@
+Title: 
+101 Stock Market Investing - Finding Stock Market Industry Beta
+
+Word Count:
+369
+
+Summary:
+Stock Market Industry Beta is the measure of how a stock’s trading price moves compared to the market as a whole. Knowing this figure one can understand how volatile a stock is. A beta of 1 means a stock’s price fluctuates exactly as much as the market. A beta less than 1 means a stock is less volatile than the market and a beta greater than 1 means that stock is more volatile than the market.
+
+Betas can be determined for entire industries also. The “industry beta” would co...
+
+
+Keywords:
+beta market stock,stock volatility information,stock volatility index,investing stock 101,101 invest
+
+
+Article Body:
+Stock Market Industry Beta is the measure of how a stock’s trading price moves compared to the market as a whole. Knowing this figure one can understand how volatile a stock is. A beta of 1 means a stock’s price fluctuates exactly as much as the market. A beta less than 1 means a stock is less volatile than the market and a beta greater than 1 means that stock is more volatile than the market.
+
+Betas can be determined for entire industries also. The “industry beta” would compare the volatility of the industry relative to the whole market. For example, technology stocks tend to be more volatile than the industry so the beta would be more than 1, generally.
+
+To calculate industry beta you need some historical data of the price of the industry stock and historical price data of the entire market. For example if you were going to calculate beta over the last year for compare technology stocks versus the S&P 500, you would first gather the historical data you need. Next, determine the movements of the two prices after each trading day. This will give a percentage change versus the previous day. Once we have 365 of these we can average the group to determine the average move each made over the last year. We can call the average industry movement Ri and the average market movement Rm. Finally, divide the technology industry’s average movement by the S&P’s average movement and we will have an outcome that is less than 1 (less volatile), 1 (equally volatile), or greater than 1 (more volatile). Written out this function looks like this:
+
+&#914; = Ri / Rm or B = Covariance(Ri , Rm)/ Variance(Rm)
+
+Beta can be useful in stock research when judging how risky a stock is versus a stable investment with a guaranteed rate of return. It must be noted that the longer period of time the beta is acquired the more accurate that beta will be. Also, betas are more valuable when used with stocks that have a long record of high volume trading. Smaller stocks that don’t trade a lot can fluctuate wildly on a busy day and throw the beta out of whack for the period being measured.
+
+

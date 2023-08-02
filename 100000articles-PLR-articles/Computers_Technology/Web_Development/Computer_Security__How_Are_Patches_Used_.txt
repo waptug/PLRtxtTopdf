@@ -1,0 +1,32 @@
+Title: 
+Computer Security: How Are Patches Used?
+
+Word Count:
+406
+
+Summary:
+Patch sizes vary and may be as small as some kilobytes or go as high as a hundred megabytes and higher – the larger the size, the larger the change the patch is bound to do. Typically, when media, such as pictures and sounds, are changed or added instead of program, files become rather large. This is usually seen in patches designed to update or modify computer games. 
+
+Unlike software designed for initial installation process, patches generally are faster to apply. Some pa...
+
+
+Keywords:
+Registry cleaner, Registry cleaner review, Registry cleaner free, Registry cleaner download, Registry cleaner repair, Registry repair,
+
+
+Article Body:
+Patch sizes vary and may be as small as some kilobytes or go as high as a hundred megabytes and higher – the larger the size, the larger the change the patch is bound to do. Typically, when media, such as pictures and sounds, are changed or added instead of program, files become rather large. This is usually seen in patches designed to update or modify computer games. 
+
+Unlike software designed for initial installation process, patches generally are faster to apply. Some patches may be acquired from the manufacturers and sent to users in diskettes or discs, while others may be downloaded through the Internet. Patches that are downloadable could take longer to acquire depending on the connection speed. 
+
+Most patches that are designed for operating systems and software for computer servers are created to fix important holes in the security system. Some operating systems allow automatic update or semi-automatic updating that allows the continual feed of patches whenever there are changes done by their authors. 
+
+A lot of people, especially those in the corporate world, decline getting totally automatic updates because there were many experiences of patches causing glitches. Some software experts also believe that allowing totally automatic updates may let software companies acquire limitless control over people’s computers. Thus, varying degrees of automation has been offered in relation to getting patches. 
+
+The use of totally automatic updates is rather more popular for the consumers because most operating systems, Microsoft Windows in particular, have added them as a support tool. Its creators have also set the automatic updates for Windows as default. 
+
+Some users, especially network system managers, are very wary about installing patches. They put off applying them until they have clear proof that the fixes are stable. Most large patches or those that promote sudden significant alterations are distributed first with limited availability as beta tests for qualified developers who would know what to do in case something wrong happens. Free Scan! See how many errors your computer has, at http://www.registry-cleaners-reviewed.info 
+
+Patches that are made to modify the programming of hardware are called firmware and are rather challenging because they entail complicated steps such as re-embedding sets of code on devices that involves that total modification and installation new codes for programs instead of just simple alterations to the existing version. Usually such patches perform delicate modification processes that could compromise the device if not installed properly, rendering it useless.
+
+

@@ -1,0 +1,80 @@
+Title: 
+CCNP Certification / BCMSN Exam Tutorial:  Getting Started With HSRP
+
+Word Count:
+469
+
+Summary:
+HSRP seems simple enough, but there are a lot of options you need to know to pass the CCNP exams!  Learn how to get started with HSRP from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+ccnp, cisco, certification, hsrp, hot, standby, routing, protocol, pass, free, mac, standby, router
+
+
+Article Body:
+Defined in RFC 2281, HSRP is a Cisco-proprietary protocol in which routers are put into an HSRP router group. Along with dynamic routing protocols and STP, HSRP is considered a high-availability network service, since all three have an almost immediate cutover to a secondary path when the primary path is unavailable.
+
+One of the routers will be selected as the primary ("Active", in HSRP terminology), and that primary will handle the routing while the other routers are in standby, ready to handle the load if the primary router becomes unavailable. In this fashion, HSRP ensures a high network uptime, since it routes IP traffic without relying on a single router. 
+
+The hosts using HSRP as a gateway don't know the actual IP or MAC addresses of the routers in the group. They're communicating with a pseudorouter, a "virtual router" created by the HSRP configuration. This virtual router will have a virtual MAC and IP adddress as well.
+
+The standby routers aren't just going to be sitting there, though! By configuring multiple HSRP groups on a single interface, HSRP load balancing can be achieved. 
+
+Before we get to the more advanced HSRP configuration, we better get a basic one started! We'll be using a two-router topology here, and keep in mind that one or both of these routers could be multilayer switches as well. For ease of reading, I'm going to refer to them only as routers.
+
+R2 and R3 will both be configured to be in standby group 5. The virtual router will have an IP address of 172.12.23.10 /24. All hosts in VLAN 100 should use this address as their default gateway.
+
+R2(config)#interface ethernet0
+
+R2(config-if)#standby 5 ip 172.12.23.10
+
+R3(config)#interface ethernet0
+
+R3(config-if)#standby 5 ip 172.12.23.10
+
+The show command for HSRP is show standby, and it's the first command you should run while configuring and troubleshooting HSRP. Let's run it on both routers and compare results.
+
+R2#show standby
+
+Ethernet0 - Group 5
+
+Local state is Standby, priority 100
+
+Hellotime 3 sec, holdtime 10 sec
+
+Next hello sent in 0.776
+
+Virtual IP address is 172.12.23.10 configured
+
+Active router is 172.12.23.3, priority 100 expires in 9.568
+
+Standby router is local
+
+1 state changes, last state change 00:00:22
+
+R3#show standby
+
+Ethernet0 - Group 5
+
+Local state is Active, priority 100
+
+Hellotime 3 sec, holdtime 10 sec
+
+Next hello sent in 2.592
+
+Virtual IP address is 172.12.23.10 configured
+
+Active router is local
+
+Standby router is 172.12.23.2 expires in 8.020
+
+Virtual mac address is 0000.0c07.ac05
+
+2 state changes, last state change 00:02:08
+
+We can see that R3 has been selected as the Active router ("local state is Active"), the virtual router's IP is 172.12.23.10, and R2 is the standby router.
+
+There are some HSRP values that you'll need to change from time to time. What if we want R2 to be the Active router instead? Can we change the MAC address of the virtual router? I'll answer those questions in the next part of this HSRP tutorial!
+
+

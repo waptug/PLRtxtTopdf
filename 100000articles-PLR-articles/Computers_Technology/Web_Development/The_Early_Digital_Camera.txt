@@ -1,0 +1,30 @@
+Title: 
+The Early Digital Camera
+
+Word Count:
+679
+
+Summary:
+A digital camera is basically a device that enables images to be captured. The images are stored electronically rather than on film. This process involves converting light into electrical charges, and then translating this back into the image that was seen through the camera LCD. Although the device is a recent addition to the world of photography, the concept of the possibility of a digital camera was begun in the 1950s. 
+
+The early concept of the digital camera was closel...
+
+
+Keywords:
+digital camera, photo, photographic camera
+
+
+Article Body:
+A digital camera is basically a device that enables images to be captured. The images are stored electronically rather than on film. This process involves converting light into electrical charges, and then translating this back into the image that was seen through the camera LCD. Although the device is a recent addition to the world of photography, the concept of the possibility of a digital camera was begun in the 1950s. 
+
+The early concept of the digital camera was closely linked to television technology. It began with digital images being recorded on scanners and in the form of digital video signals. In 1951 broadcasting companies were recording images as electrical impulses and onto magnetic tape from their television cameras, and this paved the way for digital camera technology to begin. By 1956 electrical impulse recordings were common practise within film industry, and camera manufacturers began to dream of a device. 
+
+The first record of a patent for a type of digital camera was in 1972 when Texas Instruments patented a camera that did not require film. However, the patent revealed a more analog based design rather than a digital device, and there is no record of whether the camera was actually created. What the patent does show, however, is that interest towards a digital camera was growing with the idea that the need for film could be removed. A pioneer in the history of digital camera was Steve Sasson, an engineer at Kodak. Digital images of the moon were being transmitted via satellite by NASA, using a mosaic photo sensor, and he saw the possibility of a digital device for commercial use. In 1972 he began to group together available equipment used within the film industry to create an image digitally rather than on film. 
+
+Central to this early concept of the digital device, and still used by digital cameras today, is the Charged Coupled Device. The CCD detects light and colour intensity and then converts this information into electrons. The value of each cell in the image is then read, and converted to binary format to make the image computer compatible. Steve Sasson produced his first digital image in 1979. The image took a total of 23 seconds to take, and a further 23 seconds to read from the playback unit. Although the image was less than perfect, it showed that the device was a possibility. Kodak had developed a camera that developed picture from light, but it was never manufactured for the public.
+
+The first camera to be marketed was the Sony Mavica electronic still camera in 1981. It was not a true digital camera as the image was recorded on mini disc, and then attached to a television or video. It was more a freeze frame video camera but it greatly influenced people`s attitude to the recorded image. It made public the possibility of a camera that stored images using techniques other than film. It still used more television technology but was the first hand held with the general idea of digital camera usage. Cameras that could transmit images via satellite became popular, but were used by the media only due to the expense incurred. The possibilities were becoming apparent and images were used for news coverage. The first camera for general use with a computer was the Apple Quicktake 100 camera which appeared in1984. In 1986 the Canon RC-701 was used for coverage of the Olympics, with quality images printed in the newspaper. This showed the possible quality, and the desire for the digital camera was born.
+
+The first mega pixel sensor was invented in 1986. It contained 1.4 million pixels and was suitable for a digital image measuring 5x7 inches. In 1987 accessories for storing, printing, manipulating, transmitting, and recording digital images came onto the market, with the Fuji DS-P1 arriving in 1988. This is arguably the first true digital camera as recognised today, boasting a 16MB memory card. With the arrival of JPEG and MPEG standards in the 1990`s, the face of the digital camera was changed for ever. Kodak marketed the first readily available digital camera that met all standards, with the Kodak DC40 in 1995.
+
+

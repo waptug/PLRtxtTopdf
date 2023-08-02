@@ -1,0 +1,90 @@
+Title: 
+Five tips and tricks for using Word for business
+
+Word Count:
+853
+
+Summary:
+<p>Every business needs an official letterhead. You don't have to buy it. If you know what you want you can create it in Word and save it as a template to 
+
+use time after time. </p>
+
+
+Keywords:
+Small Business Ideas, Small Business Start Up, Small Business Plans
+
+
+Article Body:
+<p>Most people don't use all the features of their software. We tend to pinpoint the most helpful and stick with them. </p>
+<p>Here are five features in Microsoft Word that could save you time and money. </p>
+<strong>Create and Design Your Company's Letterhead, Templates and More </strong>
+<p>Every business needs an official letterhead. You don't have to buy it. If you know what you want you can create it in Word and save it as a template to 
+
+use time after time. </p>
+<p>A letterhead doesn't have to be complicated. It can be as simple as the company name, address and telephone number. Word provides lots of fonts, 
+
+and you can change the size and style. </p>
+<p>You may want to add art. You can scan in your logo and use it. Or alternatively make use of Microsoft Office's Clipart Gallery. There you'll find 
+
+thousands of royalty-free images available to users of <a href="http://www.microsoft.com/india/smallbusiness/office2003.mspx">Microsoft Office. 
+
+</a></p>
+<p>Microsoft also offers free templates for letters, labels and forms. They can be found in the Template Gallery. </p>
+<strong>Send the Same Letter to Many People Without Addressing Each Separately </strong>
+<p>Word's Mail Merge makes it easy to send the same letter to lots of different people. </p>
+<p>It uses a list of names and addresses from a table. You can create the table in Word, Access (a Microsoft database program) or even Outlook. All are 
+
+part of Microsoft Office . </p>
+<p>This works best with planning. You have many options; this example uses Excel but there are other ways to achieve the same thing. </p>
+<p>Start by writing your letter. The same letter goes to everyone; you can't do much customisation. When you write it, leave space for the person's 
+
+address and the salutation. </p>
+<p>When setting up Excel , you need the person's name and address. You'll also need a salutation field. If Rocky Jones is one of the people receiving the 
+
+letter, you might want the salutation to be Dear Rocky. If your relationship with Dr. Rocky Jones is more formal, the salutation might be Dear Dr. Jones. So 
+
+the names in the Salutation column would be "Rocky" or "Dr. Jones." </p>
+<p>Now open your letter. Go to <strong>Tools &gt; Letters and Mailings &gt; Mail Merge Wizard </strong>. Follow the instructions on screen. You can 
+
+also make things easier by addressing envelopes and labels with Mail Merge. </p>
+<strong>Add a Watermark to a Document so Everyone Knows it's a Draft </strong>
+<p>If you are circulating a proposal to your staff, you don't want it mistaken for the finished product. A good way to avoid that is a watermark that says 
+
+"Draft". </p>
+<p>A watermark is clearly visible on the document but does not damage the legibility of the writing. You can use text or a picture, black and white or 
+
+colour. </p>
+<p>To use a watermark, go to <strong>Format &gt; Background &gt; Printed Watermark </strong>. Make your selections and click OK. If you expect to 
+
+use a watermark regularly, create a template (see above). </p>
+<p>Be careful not to go overboard. There's a fine line between cool and irritating. If the watermark makes a document hard to read then people just won't 
+
+bother. </p>
+<strong>Keep an Eye on Changes that People are Making to Documents </strong>
+<p>When a document is returned to you, it can be difficult to see changes made by others. Word will highlight them so you can see what's been altered. 
+
+</p>
+<p><strong>Here are the instructions for Word 2002/ 2003: </strong></p>
+<p>• First, open the newer Word document. </p>
+<p>• Click <strong>Tools &gt; Compare and Merge Documents </strong>. </p>
+<p>• Browse to the original Word document. </p>
+<p>• Click it once to highlight it. </p>
+<p>• In the lower right corner, click the drop-down box and select "Merge Into Current Document." </p>
+<p><strong>For Word 97 and Word 2000: </strong></p>
+<p>• Click <strong>Tools </strong>. </p>
+<p>• Go to <strong>Track Changes </strong>. </p>
+<p>• Click <strong>Compare Document </strong>. </p>
+<p>• Find the original Word document and click it once so it is highlighted. </p>
+<p>• Click <strong>Open </strong>. </p>
+<p>Sometimes developing a document is so arduous that we lose sight of what we're trying to do. Looking back at older versions can help. </p>
+<p>That's easy to do in Word. Click <strong>File &gt; Versions </strong>. Select "Automatically save a version on close." Every time you close the 
+
+document, that version will be saved. </p>
+<p>When you want to look at an old version, follow the same path. All of the versions will be listed in the box. The most recent will be on top. Highlight the 
+
+version you want and click Open. </p>
+<p>You can turn off this "versioning" feature by clearing the check mark from "Automatically save a version on close." Or, you can delete individual 
+
+versions. Just highlight the ones you want to lose and click delete. </p>
+
+

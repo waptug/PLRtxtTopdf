@@ -1,0 +1,36 @@
+Title: 
+Category 5 Cable & Category 5e Cable
+
+Word Count:
+609
+
+Summary:
+In the technological world we live in today we are all interconnected through millions of cables whether they can be seen or not. What we will be looking into today is the intercal design and purpose of two special cables called Category 5 cable and category 6 cable.
+
+
+Keywords:
+Category cable 5, Category cable 5e
+
+
+Article Body:
+In the technological world we live in today we are all interconnected through millions of cables whether they can be seen or not. What we will be looking into today is the intercal design and purpose of two special cables called Category 5 cable and category 6 cable. Category 5 cable, commonly known as Cat 5, is a twisted pair cable type designed for high signal integrity. Many such cables are unshielded but some are shielded. Category 5 has been superseded by the Category 5e specification. This type of cable is often used in structured cabling for computer networks such as Ethernet, and is also used to carry many other signals such as basic voice services, token ring, and ATM (at up to 155 Mbit/s, over short distances).
+Organizations such as the Telecommunication Industry Association (TIA) and Electronic Industries Association (EIA) set specific product standards, and these guidelines have resulted in cables being classified into various categories based on their performance levels. Just in case you’re not too familiar with cabling terminology here are a few straightforward definitions and statistics on these three common grades of network cable:
+
+Cat 5: Out of the three types of cable we’ll be discussing, Category 5 is the most basic. Cat 5 cable is available in two varieties: Unshielded Twisted Pair (UTP), the type widely used in the United States, and Screened Twisted Pair (SCTP), which has shielding to provide a measure of extra protection against interference, but is rarely used outside of Europe. Cables belonging to Category 5 are either solid or stranded: Solid Cat 5 is more rigid, and the better choice if data needs to be transmitted over a long distance, while Stranded Cat 5 is very flexible and most likely to be used as patch cable. Cat 5 cable can support 10 or 100 Mbps Ethernet, and has a capability of up to 100MHz., to help you better choose the right one to fit your needs.
+
+Cat 5e: Cat 5e (which stands for Category 5, enhanced) cable goes along the same lines as basic Cat 5, except that it fulfills higher standards of data transmission. While Cat 5 is common in existing cabling systems, Category 5e has almost entirely replaced it in new installations. Cat 5e can handle data transfer at 1000 Mbps, is suitable for Gigabit Ethernet, and experiences much lower levels of near-end crosstalk (NEXT) than Cat 5.
+Both CAT-5 and CAT-5e have 100 ohm impedance and electrical characteristics supporting transmissions up to 100 MHz. The differences between CAT-5 and CAT-5e show in all aspects of performance: capacitance, frequency, resistance, attenuation, and NEXT. CAT-5e components were designed with high-speed gigabit Ethernet in mind. While CAT-5 components may function to some degree in a gigabit Ethernet, they perform below standard during high-data transfer scenarios. CAT-5e cables work with ATM and gigabit speed products. Simply, if you are using a 100Mbps switch, get CAT-5e cable instead of CAT-5. 
+
+Common Questions:
+
+Is CAT-5e backwards compatible? 
+Yes it works with any 10BaseT or 100BaseT network cards and hubs. 
+CAT-5 is also upwardly compatible with CAT-5e, however your network throughput will only be as fast as the slowest part. 
+
+Can I run CAT-5e Ethernet cable outside? 
+CAT-5e cable is not rated for outdoor use; however it can generally be used without a problem. If possible, run the cable through some kind of conduit to prevent moisture or an attractive site for lightning to strike. You should be able to find gray PVC conduit suitable for cable at any hardware store. Remember, 100 Meters is your max distance, without some kind of hub, bridge or amplification. 
+
+What is the operating temp for CAT-5e cable? 
+Operating Temp for CAT-5e cable: -10C to 60C
+
+

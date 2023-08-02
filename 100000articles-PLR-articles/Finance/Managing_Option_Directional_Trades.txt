@@ -1,0 +1,38 @@
+Title: 
+Managing Option Directional Trades
+
+Word Count:
+703
+
+Summary:
+Options provide great position management and risk control potential when using them to trade the market directionally. This goes beyond the simple fact that a long position in a call or put option has an absolute maximum risk equal to the cost of the option (plus commissions, of course). That, in and of itself, is a very useful thing. What this article discusses, however, are a couple of handy little things one can do while holding an option position to maximize the return a...
+
+
+Keywords:
+stock market, options, stocks. trading
+
+
+Article Body:
+Options provide great position management and risk control potential when using them to trade the market directionally. This goes beyond the simple fact that a long position in a call or put option has an absolute maximum risk equal to the cost of the option (plus commissions, of course). That, in and of itself, is a very useful thing. What this article discusses, however, are a couple of handy little things one can do while holding an option position to maximize the return and keep the risk well constrained.
+
+Roll Up/Down
+
+Most traders are familiar with the concept of a trailing stop whereby one moves their protective exit as the market moves in favor of the trade. This is used to lock in profits. The same thing can be accomplished when one is trading options rather than the underlying. This is done by rolling one's position up or down strike prices depending on whether the trade is a long using calls or short employing put options.
+
+Here's a recent example from the author's own trading.
+
+A long position in Seagate Technology (STX) was initiated when the stock was trading at around 21.50 using the March 22.50 call options. They were purchased for $0.80. The market rallied over the next few weeks, eventually moving up above $24. At that point, a roll-up was executed by selling the March 22.50 calls at $2.60 and purchasing the March 25 calls at $1.40. This action served two purposes. The first is that it took $1.20 off the table, reducing the portfolio exposure and freeing up cash for use elsewhere. It also locked in a profit of $0.40 ($2.60 sales price minus the $0.80 purchase price for the 22.50 calls minus the $1.40 purchase price for the new 25 calls). At the same time, it had no effect on the remaining upside potential for the trade. The two strikes would probably profit about the same from any further appreciation in the price of STX shares.
+
+If the portfolio exposure was deemed acceptable at $2.60, an alternate course of action would have been to sell the March 22.50 calls and not take any money out, but rather roll it all in to the March 25 calls. For example, if the position was 10 options, selling the 22.50s would net $2600. That cash could have been used to purchase 18 of the 25 calls ($2600/$140 = 18.57). By doing so, one actually increases the upside potential for the trade substantially. Of course, the full position is at risk, meaning one could theoretically lose the whole $2600 invested, which is more than could have been lost when the trade was first initiated.
+
+Roll Forward
+
+One of the issues with options is the limited duration they provide for holding trades. If one is an intermediate to longer-term trader, this can be an important hurdle. That said, however, in a manner similar to the roll up/down, if one wants to extend the holding period of a position it can be done by rolling forward the expiration month.
+
+Continuing with the STX example, we can look at rolling forward. That would be accomplished by going from the March contract to the June one. As of this writing, the March 25s are trading at $2.40 and the June 25s are at $3.60. There's the rub, though. Because of the longer time to expiration, the June contract is priced significantly higher. That is why a roll forward is often best accomplished with a roll up/down.
+
+Consider the earlier roll-up in STX from the 22.50 call to the 25 call. If we were still in the former, and wanted to both roll forward and up, we could jump to the June 25 call. The current price on the 22.50 option is $4.10. With the June 25 at $3.60, we could accomplish both the roll up and roll forward and take $0.50 off the table. That is not quite as much as we accomplished with the roll up, but it does extend the time we could hold the position by three months. Whether that is worth the trade-off depends on the anticipated holding period for the trade.
+
+The rolling of strike prices and expiration is something easily accomplished. The transaction costs for options trades have come down substantially for the individual trader in recent years. That opens up a great many possibilities for playing the market directionally and managing positions efficiently.
+
+

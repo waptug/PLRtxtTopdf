@@ -1,0 +1,26 @@
+Title: 
+Know Your Internet Browser
+
+Word Count:
+507
+
+Summary:
+IE is a very good browser in many respects, but the bad guys just love to hack at it and bombard you with nasty bugs. However, there is a better browser available that's not subject to all these viruses and attacks. Internet Explorer is the most popular browser that is used for surfing the net today. Users need a secure and reliable internet browser that will not let harmful viruses and spyware invade computers when browsing the interent. The most widely accepted browser as f...
+
+
+Keywords:
+virus,antivirus,spyware,adware,IE,browsers,firefox,internet explorer 7
+
+
+Article Body:
+IE is a very good browser in many respects, but the bad guys just love to hack at it and bombard you with nasty bugs. However, there is a better browser available that's not subject to all these viruses and attacks. Internet Explorer is the most popular browser that is used for surfing the net today. Users need a secure and reliable internet browser that will not let harmful viruses and spyware invade computers when browsing the interent. The most widely accepted browser as far back as anyone can remember is Internet Explorer. In the browser generation we are now seeing other browsers enter the market like firefox, opera and others.
+
+Now, Firefox is the main rival of IE. Since new alternatives like Firefox and Opera have come out we now know that, yes there is faster browsing out there. Most of Firefox's advantages are MSIE's disadvantages, and vice-versa. Firefox allows you to “open in tabs. There has also been a joke circulating among Firefox fans that there is only one thing that is more secure in Internet Explorer than in Firefox and that is a feature that has not been implemented yet in Internet Explorer.
+
+There is a strong integration with IE with Microsofts OS, though there is a positive side and a negative side to this because this enhances security problems. The Firefox team made a conscious decision to support neither ActiveX nor VBScript, activex and vbscript are not standards in the web society are often the problem when it comes to security vulnerabilities when using IE. Internet Explorer version 7 has been improved a great deal to help users a glimpse of the type of functionality you can expect from the new Windows Vista, it will not only do this but is fixes many security problems and introduced many new features into the browser. If you end up at a site that you think is questionable, and it does not have the appropriate security certificate, IE7 will now warn you by displaying messages.
+
+Safety is comprised when the threat of internet crooks create and execute large-scale hoaxes such as ID theft and phishing. With the introduction of IE7 they have added a new feature called Phishing, Phishing is stealing your identity by bringing to sites that mimic other websites. What is phishing, phishing is when people send emails and falsely portray that they are from a bank or credit card company in hopes you will give you personal information to them. This is done by you clicking on a link in an email and entering your information, you think the site you are entering you information is the real site but it is not.
+
+Just hit "Delete Cookies" and they will be gone, but as you surf the internet more, they will slowly come back. Note: Some sites may store cookies to use your personal information without your consent. Choose a level for internet privacy policy, cookies to be allowed or disallowed, but make sure you don’t allow third party cookies onto the computer.
+
+

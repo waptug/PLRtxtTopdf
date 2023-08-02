@@ -1,0 +1,108 @@
+Title: 
+Prostate Cancer
+
+Word Count:
+2183
+
+Summary:
+Prostate cancer is the third as far as the incidence rate is concerned among malignant cancers in men. This number is constantly increasing, which is in a way connected with a longer life span among male population and better diagnostic methods.
+
+
+Keywords:
+cancer, prostate, diagnosis, therapy
+
+
+Article Body:
+Copyright 2006 Radoslaw Pilarski
+
+Etiology
+
+Etiology of prostate cancer development is not completely known. Factors that can influence the creation and development of this type of cancer include:
+
+genetic factors – increase in risk of falling ill among men with a positive family history regarding the prostate cancer. Mutations of suppressor genes are also taken into consideration (p53)
+
+dietetic factors – food rich in saturated fatty acids probably increases the risk of falling ill whereas the consumption of soya and rice may have a beneficial protective effect racial and geographical factors – Afro-Americans are 100% more likely to fall ill, whereas the lowest death rate is reported in Japan and in China
+
+occupational factors – cancerogenous influence of heavy metals and toxins infectious factors – viral infection may lead to/ be the cause of anaplasia of adenocyte cells of prostate
+
+Histopathologically, 95% prostate cancer cases occur in the form of adenocarcinoma. Other types (primary intracellular cancer, squamous carcinoma, anaplastic carcinoma, and sarcoma) are rarely met. Adenocarcinoma usually develops in the peripheral area of the prostate (85%), in the transition area (25% ) and in the central area (5%).
+
+Symptoms
+
+In symptomatology of the prostate cancer, 4 clinical forms are distinguished:
+
+1) visible form with distinct pathological symptoms 2) latent form (carcinoma latens) with no distinct pathological symptoms found 3) hidden form (ca occultum) which is detected in the case of distinct ailments caused by the existence of remote metastases, however changes in prostate are not found in the course of per rectum examination 4) accidentally detected form - based on histopathological test of the gland that was removed because of prostate overgrowth, or based on biochemical tests (PSA) During the development of prostate cancer, an induction phase that lasts about 30 years  which is clinically invisible can be distinguished. During the next stage - in situ phase (5-10 years) and invasive phase (1 year), ailments connected with the local growth of tumour start to appear. During this period, symptoms connected with sub bladder obstacle appear including mainly: -  pallakiuria - nycturia - weak urine stream - painful vesical tenesmus - impression of incompletion of bladder emptying The above-mentioned symptoms are typical of cancer and in some cases they may suggest mild overgrowth of prostate, or neurogenic or athermatous bladder disorders. During the dissemination phase (about 5 years), prostate cancer develops continuously infiltrating surrounding organs, such as: urinary bladder, rectum, ureters, pelvic walls and leading to urinary retention in kidneys and to secondary failure of function. Ailments typical for this period include: - haematuria - dysuria - urinary incontinence - erection disorders - aches of perineum, lumbar area and anus - haematospermia Metastases spread through the lymphatic vessels and the vascular system. Symptoms caused by the existence of remote metastases are as follows: - osteodynia and pathological fractures - pressure symptoms and spinal paralysis - lymphadema of limbs - clotting disorders - cachexy - coma
+
+DIAGNOSTICS
+
+In order to diagnose the prostate cancer, patient should undergo per rectum tests (DRE), PSA concentration (prostate specific antigen) in blood serum should be determined, ultrasonography per rectum examination (TRUS - transrectal ultrasound) should be done and if there is a suspicion of prostate cancer, histopathological test of the material obtained through a per rectum thick-needle biopsy done under the ultrasound control should take place. Histopathological test is the only test that confirms the presence of cancerous cells in the prostate gland area. DRE, which is an examination of sensitivity of 80% sensitivity and of specificity of 60%, enables to seize changes in the area of the prostate such as consistency change, palpable nodules and hardenings. It is the base for sending a patient to a diagnostic biopsy. At present, it is believed that cytological diagnosis achieved through a fine-needle biopsy is not sufficient to make a right diagnosis. It results from the fact that the assessment according to Gleason’s classification is an important prognostic factor for the prostate cancer (see: prognostic factors). That is why a thick-needle biopsy is performed. Ultrasound use enables to take precise samples from suspicious foci. If there are no changes in TRUS picture, "sextant biopsy" is done (samples got for several places).
+
+Recommendations for the biopsy of prostate gland: 1) palpable suspicion of the prostate cancer 2) PSA value over 15ng/ml regardless of DRE or TRUS tests 3) PSA value between 4 and 15 ng/ml with abnormalities detected during DRE or TRUS tests 4) PSA value exceeds the norm for a given age in the case of a positive family history regarding the prostate cancer
+
+Recommendations for TRUS: 1) PSA between 4 and 12 ng/ml with abnormalities detected 2) questionable result of DRE test 3) necessity of  a thick-needle biopsy Other diagnostic tests, such as CT and urography are not routinely performed because their value is questionable as far as the assessment of local stage and invasion of adjacent lymph nodes is concerned. Nowadays, magnetic resonance tomography done using transrectal coli (endorectal coil MRI - ERMR) to observe the prostate arouses great interest. Despite the increased sensitivity of the degree of the local stage, costs of the test do not allow for its routine use in the prostate cancer diagnosis. Scintigraphy of the skeleton is the most sensitive test (97%) in bone metastases detection. It is assumed that a patient with PSA under 10 ng/ml does not undergo scintigraphy because the probability of metastases is low.
+
+Screening:
+
+Screening:  It is recommended that patients aged over 50 should undergo per rectum tests and PSA level tests every year.
+
+PROGNOSTIC FACTORS:
+
+Three groups of prognostic factors can be distinguished in the case of the prostate cancer:
+
+1) development stage according to TNM 2) differentiation degree of the cancer based on the classification of Gleason and Mostofi 3) PSA level (prostate-specific antigen) in serum TNM classification
+
+Preoperative assessment of the stage of the prostate cancer is made based on the above-mentioned tests.
+
+T-stage: primary tumour
+
+Tx - primary tumour cannot be assessed T0 - no evidence of primary tumour T1 - clinically unapparent tumour; not palpable or visible by per rectum imaging T1a - incidental tumour found in histopathological tests after transurethral resection of the prostate or after operational adenectomy: found in 5% or less resected tissue T1b - as above; found in more than 5% resected tissue T1c - tumour identified histopathologically by a needle biopsy (because of high PSA) T2 - tumour confined within the prostate gland T2a - tumour involves less than half of one lobe T2b - tumour involves more than half of one lobe only T2c - tumour involves both lobes T3 - tumour extends through the prostatic capsule T3a - extracapsular extensions (unilateral) T3b - extracapsular extensions (bilateral) T3c - tumour invades seminal vesicles T4 - tumour is fixed, invades adjacent structures other than seminal vesicles T4a - tumour invades bladder neck and/or external sphincter and/or rectum T4b - tumour invades levator muscles and/or pelvic wall N-stage: regional lymph nodes
+
+Nx - regional lymph nodes cannot be assessed N0 - no regional lymph node metastases N1 - metastasis to a single regional lymph node with the diameter under 2cm N2 - metastasis to a single regional lymph node with the diameter > 2cm but < 5cm N3 - metastases to regional lymph nodes with the diameter over 5cm M-stage: remote metastases
+
+Mx - remote metastasis cannot be assessed M0 - no remote metastases M1 - remote metastases M1a - non-regional lymph nodes M1b - bones M1c - other sites According to Whitmor-Catalon classification, grades A, B, C, and D correspond to T1, T2, T3 and T4 of TNM classification respectively.
+
+Degree of cancer differentiation:
+
+Degree of differentiation is defined according to 2 classifications: by Mostofi and by Gleason.
+
+Mostofi’s classification uses a 3-grade assessment of differentiation dependent on the degree of cell anaplasia – grading (G1-G3). The higher grade, the lower differentiation of cancer tissue, the greater atypy and at the same time, malignancy. In the case of a 10-grade Gleason system, the two extreme histological images in the preparation are assessed and then, added to produce a final grade.
+
+PSA is a proteolyctic enzyme responsible for sperm melting. It is mainly produced by glandular epithelium, it might be also produced in organs such as salivary glands, pancreas and mammary gland and by clear cell carcinoma. Commonly used norm is the following: 0-4 ng/ml. Such concentration of PSA is found among 97% of men over 40. The level over 12 ng/ml is always connected with pathology. Difficulties with diagnosis are found among patients who have this level between 5-10 ng/ml because it may both stem from the prostate cancer or a mild overgrowth of the prostate, which causes the necessity of diagnostic methods use, such as TRUS. This test makes it possible to determine PSA density (PSAD - PSA density) - PSA concentration converted to prostate volume unit. It should be under 0.15 ng/ml/g. In the case of prostate cancer differentiation and mild overgrowth of prostate, free to total PSA (PSA F/T) is used. If it is over 20%, one may assume the presence of cancerous cells in the gland. PSA level does not correlate well enough with the natural development of the prostate cancer. However, it is useful as a prognostic factor after the treatment applied and in prognosis determination. However, high final levels indicate low survival rate.
+
+TREATMENT
+
+Proceeding strategy in patients with the prostate cancer depends on the degree of histological malignancy, the degree of local stage of development, coexisting diseases and age of a patient. There are many controversies as far as the choice of treatment is concerned. Radical treatment is possible in T1, T2 and N0 and Mo stages. In advanced cases (T3, T4, N-+, M-+), the procedure is restricted to delay the cancer progression and mitigate its effects (palliative treatment).
+
+Surgery treatment - radical prostatectomy
+
+The surgery consists in the prostate gland removal together with spermatic vesicles and adjacent tissues. Surgery is done through retropubic, transcoccgeal, perineal approach or through laparoscopy. Lymphadenectomy constitutes an integral part of the surgery. If the approach makes it impossible to remove the gland and lymph nodes (perineal approach) at the same time, a separate surgery is carried out. It precedes the operation proper. It is believed that cancerous cells found in the removed lymph nodes are the reason why prostatectomy cannot be performed. Invasion of lymph nodes to a certain extent suggests PSA level over 40ng/ml together with grade >7 in Gleason’s scale.
+
+Recommendations for surgery:
+
+1) cancer limited to the prostate gland (T1BN0M0Gx - T2N0M0Gx, T1AN0M0G3) 2) predictable life span over 10 years 3) consent of a patient If positive chirurgical margins, capsule infiltration or cancerous changes in the removed lymph nodes are found in postoperative microscopic assessment, the prognosis is worse – such patients are qualified for palliative treatment. The death rate in the postoperative period does not exceed 5%. Intraoperative complications first of all include: bleeding from Santorini’s plexus, damage of rectum wall, underpinning of ureter. Early complications after surgery: thrombotic and embolic complications (phlebothrombosis 3-12%, lung embolism 2-5%) and lymphocele. Late postoperative complications after prostatectomy include: urinary incontinence, erection disorders and narrowing of urethro-vesicular junction).
+
+Radiotherapy
+
+Apart from radical prostatectomy, radiotherapy is an effective method of treatment for patients with regional advanced prostate cancer. In radical treatment, the most frequently done using radiation from external sources, the dose of 50-70 Gy in fractions continuing over 5-7 weeks are given. T1ABC - T2ABCG1 and T1ABCG2 stages require radiation limited to the prostate. In other cases, area that is radiated includes adjacent lymph nodes as well.  In recent years, multidimensional imaging with CT (3D conformal radiotherapy) is used in the treatment planning.
+
+Brachytherapy constitutes another method that is used.
+
+Recommendations for radical radiotherapy of the prostate:
+
+1) prostate cancer confined with the organ 2) sufficiently long predictable survival span 3) no disorders in lower urinary tract 4) no disorders in rectum and colon 5) consent of patient to carry out treatment 6) early complications of radiation energy treatment (30% of patients) include dysuria, haematuria, diarrhoea, rectal tenesmus, inflammation of large intestine and rectum. Among later complications (11% of patients) chronic diarrhea, ulceration of rectum, bladder neck stenosis and intestinal fistula stenosis are observed.
+
+Control of patients after radical prostatectomy and radical radiotherapy:
+
+-   per rectum test, PSA level in blood serum each 3 months. PSA level should be lower than 1 ng/ml (after radical prostatectomy it should be near to 0). Increase over 0.5 ng/ml within a year means failure of radiotherapy. Hormonotherapy
+
+Hormonal therapy is mainly used as palliative treatment in advanced prostate cancer. It makes it possible to stop symptoms of the disease for some time and then, further progression of the disease takes place. Nowadays, the use of therapy in pulsation system is considered as it delays the development of hormone-resistant cell clones.
+
+Ways of hormonal treatment include: 1) surgery castration (orchidectomy) 2) anti-androgens a) non-steroid   b) steroid 3) analogues LH-RH 4) oestrogens, progestogens, inhibitors of androgens synthetase Hormonotherapy by analogues LH-RH is also recommended before planned radical radiotherapy. In the case of hormone-resistant cancer, treatment with combined cytoctatic and hormone (estramustine), however without significant effects.
+
+PROGNOSIS
+
+Prognosis depends on the development stage, degree of differentiation and PSA level (see: prognostic factors).
+
+In T1A, B stage prognosis is good. 10-years survival 35-80%, death rate of the cancer 7-30%. In T2 stage, overall survival equals 34-85%, death rate equals 8-26%. In T3 stage, among patients who undergo non-invasive treatment for 9 years, overall death rate equalled 63%, from cancer – 30%. Depending on the degree of cancer differentiation, 10-year survival of patients is the following: for cells well differentiated - 81%, for cells moderately differentiated - 58% and for cells poorly differentiated - 26%.
+
+

@@ -1,0 +1,78 @@
+Title: 
+A White Paper On “Cannot Delete File: Cannot Read From The Source File Or Disk”
+
+Word Count:
+837
+
+Summary:
+Windows XP can leave you pulling your hear out trying to delete that undeletable file or folder, search the web high and low, no solution for the dreaded "Cannot delete file: Cannot read from the source file or disk” error could be found...........Until now
+
+Recently I had a program cause a problem with; well I’m not sure exactly what. But it created a file folder that absolutely could not be deleted no matter what I tried. I tried to rename it, to move it, to delete it, fr...
+
+
+Keywords:
+Moving, Relocation, Rental Truck, Moving Truck, Moving Supplies, Moving Boxes
+
+
+Article Body:
+Windows XP can leave you pulling your hear out trying to delete that undeletable file or folder, search the web high and low, no solution for the dreaded "Cannot delete file: Cannot read from the source file or disk” error could be found...........Until now
+
+Recently I had a program cause a problem with; well I’m not sure exactly what. But it created a file folder that absolutely could not be deleted no matter what I tried. I tried to rename it, to move it, to delete it, from safe mode, from administrator safe mode, nothing worked
+
+I spent hours and hours searching the web trying to find a solution. What I found on the net darkened my hopes of ever getting rid of this folder short of a format and reload of windows.
+
+Not one to give up very easily at all, I starting thinking of ways one might delete files nothing seemed to be of much help until I found out that I could move the file if it was on the same drive, inside its parent folder. Now if the file or folder you need to delete is in your root system folder or on any other partition then your system or root partition, then this fix probably won’t work for you. To make it a bit clearer, the file or folder you want to delete must be on the system drive partition, but not in the root of that drive or partition. The reasons why will soon become apparent. Also you must have administrator rights to perform this fix
+
+Ok, what ever folder the target file or folder is in; empty it out, saving all other files to another folder that can be renamed later. Now that you have just the target file or folder inside its parent folder, you can rename the parent folder to what ever you want. I used “Delete Me” just so I didn’t make any mistakes.
+
+Now restart windows and boot into safe mode. If you are not sure how to boot into safe mode, a rule of thumb is to restart the system and tap the F8 key as soon as the boot sequence begins, usually until you hear system beeps that signal keyboard errors. By this time the system is booting into safe mode.
+
+When you see the login screen, log in as administrator, the system will continue to boot, usually there will be a message advising you that you are booting into safe mode and asking if you want to continue. Windows XP safe mode desktop is black, so don’t worry if you have never been here before, everything is going fine.
+
+Now that you are logged on as the administrator in safe mode follow these steps
+
+1. Open control panel from the start menu
+
+2. Select USER ACCOUNTS from the control panel menu icons
+
+3. Select Create New account from the list of tasks
+
+4. In the new task windows, give the account a two or three letter name, not any real user name. and click the next button
+
+5. Select the LIMITED account feature by selecting the little radio button at the top, and click the create account button at the bottom
+
+6. Close all program windows and restart windows
+
+7. When windows boots you will see the new user id, log in on the new user account that you just created
+
+8. You may get some funny flags and request when you log in , but they are not to worry, let the system finish logging you in and when all activity has finished, restart windows again in safe mode
+
+9. Log in as administrator again
+
+10. Open my documents from the start menu and click the folders icon to open up the left hand panel of the explorer window.
+
+11. Navigate to the file/folder parent folder you want to delete (the one you renamed to something like “Delete Me”)
+
+12. Have it selected in the right hand pane of explorer (remember you can only move this file or folder if it is inside the parent folder)
+
+13. From the file menu at the top select edit then select move to folder….
+
+14. When the navigation widow opens, navigate to C:documents and settings new user id new user id documents (new user id is the account name you created) and select the move button
+
+15. Now restart windows normally and log into your normal account
+
+16. Open control panel from the start menu
+
+17. Select user accounts
+
+18. Select change accounts
+
+19. Select the new user account you created
+
+20. Select delete account
+
+21. Select to delete all files, and delete account
+
+End of story. No more unwanted files. I know that it seems like a long way around to accomplish a small task, but if you are like me, you have been pulling your hair out over how to cure this “Cannot delete file: Cannot read from the source file or disk” problem. Don’t forget to restore your original files to their original location after creating a new folder to put them, in the proper location.
+
+

@@ -1,0 +1,44 @@
+Title: 
+Linux: Find Files Containing Text
+
+Word Count:
+508
+
+Summary:
+Because of our being forgetful in nature, we oftentimes forget the files that we have created. We can only be fortunate if we can still remember the path, folder, or directory where we have stored those missing files. If that's the case, it would never be a big deal then. However, trully this a big problem and even painful if we can't even remember where we have placed the missing files in our computer. "Simple," I'm hearing you... "find it." Yeah, we can find it. But wait, d...
+
+
+Keywords:
+linux, find files containing text in linux, linux find files
+
+
+Article Body:
+Because of our being forgetful in nature, we oftentimes forget the files that we have created. We can only be fortunate if we can still remember the path, folder, or directory where we have stored those missing files. If that's the case, it would never be a big deal then. However, trully this a big problem and even painful if we can't even remember where we have placed the missing files in our computer. "Simple," I'm hearing you... "find it." Yeah, we can find it. But wait, do you know the filename?
+
+Forgetting files and forgetting the filenames are most common in us. I will never believe somebody out there have a photographic memory and has never experienced missing some of the files he had created before. For sure, we all have gone through that frightening experience especially if the file that is missing is so precious to us.
+
+In Windows, this problem can easily be addressed just by using the find or search tool in the Start menu. Can you remember some texts or phrases in the filename? Use "find files with names" and unleash the power of the wildcard character (*). For example, if you can only remember the word "statistic" in the filename, then search for "*statistic*" and that will search for files with the word "statistic" in the filename. "I can't even remember a word in the filename," again I can hear you saying that. Well, I don't think you can't even remeber even a single word in the file content itself. If you can't remember even a word or phrase in the filename then go for the file content itself. In Windows, still you can search for files containing some texts that you specify in your "find files containing text" input box. That will absolutely solve your problem of forgetting words in the filename itself.
+
+However, if you are in Linux, the whole thing would be more different and complex than it is in Windows especially if you are just a normal user dependent on the GUI interface. Linux is more on executing commands from a shell.
+
+So if you are a normal user and that you are facing the "missing files" problem in Linux, don't worry, I will show you the most common methods in solving this issue:
+
+Find files that contain a text string
+
+grep -lir "text to find" *
+
+The -l switch outputs only the names of files in which the text occurs (instead of each line containing the text), the -i switch ignores the case, and the -r descends into subdirectories.
+
+Find files containing search terms on Ubuntu
+
+To find files containing keywords, linux has a powerful command called grep, which you can use to find the lines inside any file or a list of files.
+
+grep -i -n ‘text to search' *
+
+List files containing text
+
+Used to recursively search a directory for files containing a string, output the names of the files and the line number. This will search all regular files in for .
+
+grep --with-filename --line-number `find -type f`
+
+

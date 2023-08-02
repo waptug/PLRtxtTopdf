@@ -1,0 +1,44 @@
+Title: 
+Maintain Your PC’s Performance With PC Programs
+
+Word Count:
+774
+
+Summary:
+Over time, even the most sophisticated, memory packed computer can begin to run slow if we don’t do something to prevent it. The reason why has less to do with how computers are made and how they age and more to do with the way we use them. You see, all of the daily tasks that we do on our PC from running programs to downloading and deleting software can make our computer sluggish. 
+
+To keep this from happening, you need to understand the reasons why your PC is getting slow...
+
+
+Keywords:
+pc, computer, windows, PC Programs
+
+
+Article Body:
+Over time, even the most sophisticated, memory packed computer can begin to run slow if we don’t do something to prevent it. The reason why has less to do with how computers are made and how they age and more to do with the way we use them. You see, all of the daily tasks that we do on our PC from running programs to downloading and deleting software can make our computer sluggish. 
+
+To keep this from happening, you need to understand the reasons why your PC is getting slower and do something to keep your PC running at its best. You can do this through regular maintenance and PC performance optimization programs.
+
+Before we discuss all of the things that could be affecting your PC’s performance, let’s talk a little about what symptoms a slow computer can have. 
+
+In addition to being excruciatingly slow when it comes to opening programs or finishing tasks, your PC may also experience data loss, unwanted shutdowns, Windows crashing and Windows hang up. All of these can be very annoying to deal with and are a sure sign that you need to optimize your PC and maintain it. 
+
+There are many reasons why your PC is getting slower and not performing quite the way it used to. Any one of them may be just the thing that is holding your PC back. In some cases, there is more than one culprit at work. But there are solutions to keep your computer from being affected by these nuisances, and we will talk about what you can do to maintain your PC and keep it running smoothly if it encounters any of these problems.
+
+When you download and use programs on your PC, sometimes they are set up to start running as soon as you turn on your computer. These programs may be running in the background without you even knowing it and they use up precious memory needed for other tasks. 
+
+To see if you have any programs running in the background, press Ctrl + Alt + Delete at the same time.
+
+A list of all of the currently running programs will appear in a pop up window. You can choose to stop the programs by highlighting the program and clicking “end task.” If you want to keep those programs from starting when you turn on your PC, change the individual settings for each program so that they will not automatically be turned on.
+
+Memory is a computer component that allows it to do all of the various tasks that you require of it. When you start to do a task, a segment of memory is assigned to that task. If you don’t have enough memory and you try to do several tasks at once, you may run out of memory and not be able to perform any tasks properly. In order to optimize and maintain memory, you can use a Memory Optimizer program. This program changes the way that Windows manages memory so that you can use it more efficiently. 
+
+Your hard drive is like a huge filing cabinet containing all of the files that you need for your computer to perform properly. When you add programs, files are added to this data base. When you delete data or programs, files are removed. This process results in holes or empty spaces in your filing cabinet. 
+
+These holes make it harder for your computer to work because it continuously has to search for information over a larger distance and sometimes search for information that is completely out of order. To combat this, you need to defragment your hard drive. You can do this with your Windows system optimization tools or with a Registry Deffrager and Optimizer. These programs eliminate holes and arrange your files in a sensible order. 
+
+Just as your PC’s hard drive could be filed improperly, it can also be too full to work at its best. A good rule of thumb is to have at least 2MB to 3MB of space on your hard drive for your PC to function properly. To free up space, simply delete unused programs on the C: drive. 
+
+Maintaining your PC’s performance is vital if you want you computer to always complete tasks at its top speed. While Windows has some system tools to help you do this, they do not work on their own. You have to actually go and start the programs to optimize your computer. And they may not be enough. In this case, you may want to opt for optimization software such as PC Programs to help maintain your PC’s performance.
+
+

@@ -1,0 +1,39 @@
+Title: 
+GPS Cell Phone
+
+Word Count:
+562
+
+Summary:
+The Global Positioning System (GPS) was funded, developed and controlled by the US Department of Defense. Since the late seventies, GPS has become an important aid to navigation around the world. Initially designed for the US military, GPS became publicly available years later and it is now considered an important feature in lots of consumer products.
+
+How does GPS work? Well, basically there are three elements that make everything work: satellites, earth monitoring station...
+
+
+Keywords:
+cell phone, telephone, cellular, gps
+
+
+Article Body:
+The Global Positioning System (GPS) was funded, developed and controlled by the US Department of Defense. Since the late seventies, GPS has become an important aid to navigation around the world. Initially designed for the US military, GPS became publicly available years later and it is now considered an important feature in lots of consumer products.
+
+How does GPS work? Well, basically there are three elements that make everything work: satellites, earth monitoring stations and receivers (ex: cell phone, telefone celular). GPS provides specially coded satellite signals that can be processed in a GPS receiver, enabling the receiver to compute position, velocity and time.
+
+Today, most cell phones (telefone celular) are not limited to carry on just a conversation. Features like mp3 player, digital camera and video camera have all become standards in the latest cell phone models. It is expected that the GPS feature will soon be added to this list, and it will offer the capability of tracking any cell phone user.
+
+The capability of tracking a cell phone user becomes important in emergency situations, like a car accident, thru the use of 911 emergency phone call, where every minute may be a matter of life or death. In situation like this, the GPS system may pinpoint the exact location of the road accident, enabling emergency services to be quickly dispatched.
+
+It is important to mention that so far most GPS system in cell phone (telefone celular) is restricted to tracking information only. However, one can have navigational capability thru the use of full screen cell phone/PDA combos with map displays and other cellular phone accessories, and third party paid services. If one does not want to sign up for a monthly paid subscription service, he can make use of one-time-paid-only software programs that will enable some of the navigational capabilities.
+
+Although there are many benefits in using GPS cell phones (telefone celular), there are some people who are concerned about the violation of personal privacy. Since the US Congress has not authorized location tracking without actual evidence of wrongdoing, there have been court hearings which have not approved the requests of government agencies in obtaining the cell phone GPS tracking information for suspects or ordinary citizens.
+
+This privacy matter has made some progress towards the cell phone user`s rights, since there are some laws that have been passed which guarantees that GPS cell phone users will have some protection from the release of the tracking information, with the exception of 911 emergency cell phone calls (telefone celular). It is expected that these laws will guarantee that the benefits of GPS in cell phones will be enjoyed by everyone without infringing anybody`s privacy.
+
+Sometimes when there is a technological innovation, there are also some concerns about privacy or some rights infringements. But no matter how much of a concern this is, it seems that a compromise will always have to be reached, so that new technologies will take their places in everyone`s lives. After all, we all live in a globalized consumer world. By the way, have you already got your GPS cell phone?
+
+Roberto Sedycias
+IT Consultant for PoloMercantil
+
+This article is under GNU FDL license and can be distributed without any previous authorization from the author. However the author´s name and all the URL´s (links) mentioned in the article and biography must be kept.
+
+

@@ -1,0 +1,28 @@
+Title: 
+Problem Of Printing Of Multiple Files
+
+Word Count:
+343
+
+Summary:
+If you have ever needed to print a large number of files, you would probably know how tedious and time consuming this process can be.  If the number of files to print is not very high and the files are of the same type, the task might not be too bad. In this case the best way to print all the files can be: open all files in an application which can print this file type, then go quickly through every file one-by-one and send every file to printer.
+
+
+Keywords:
+automated print, excel printing, excel file printing, excel batch, batch image
+
+
+Article Body:
+If you have ever needed to print a large number of files, you would probably know how tedious and time consuming this process can be. 
+
+If the number of files to print is not very high and the files are of the same type, the task might not be too bad. In this case the best way to print all the files can be: open all files in an application which can print this file type, then go quickly through every file one-by-one and send every file to printer. 
+
+The printing process is usually organized in such way that you do not need to wait for printer to finish each document(file), instead you can spool many files into a queue. While printer processes a document, which is a relatively slow process, all upcoming files are stored in computer and printer memory. This memory queue for upcoming files allows users quickly submit their documents for printing and continue doing other tasks. 
+
+The problem arises when the number and type of file for printing is getting high. If there are different types of files to be printed, user must open each file type group in a corresponding application and submit each file for printing individually. The problem is becoming even worse when the number of opened files and applications grows, computer memory has its limits and it cannot open too many files and applications. 
+
+User can still deal with different types of files if their number is probably not more than 20-30. How would a user deal with 100, 1000, or 10,000 files? This can be a big problem for users at print shops, medical transcription industry, or for anybody who needs to print large number of files, for example PDF, Excel, Word, Image, TIFF, and others. 
+
+There are software solutions exist to overcome the problem of printing multiple files of different types. Some of the popular titles include Print Helper by DCI, Batch & Print Pro by Traction Software, and Batch Print & Batch Convert by SilentPrint. They offer free trial versions for download.
+
+

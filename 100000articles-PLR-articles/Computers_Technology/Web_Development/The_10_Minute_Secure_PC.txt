@@ -1,0 +1,32 @@
+Title: 
+The 10 Minute Secure PC
+
+Word Count:
+307
+
+Summary:
+With all of the viruses, worms, and spyware floating around in cyberspace it is more important than ever to be security conscious. Securing your PC from all of those nasty programs will not only save you a lot of time, it is also a necessity to help avoid losing important data and potential theft of personal information.
+
+Here are the four quick steps you can start putting to use right away, the entire process should only take a few minutes excluding the download time for u...
+
+
+Keywords:
+
+
+
+Article Body:
+With all of the viruses, worms, and spyware floating around in cyberspace it is more important than ever to be security conscious. Securing your PC from all of those nasty programs will not only save you a lot of time, it is also a necessity to help avoid losing important data and potential theft of personal information.
+
+Here are the four quick steps you can start putting to use right away, the entire process should only take a few minutes excluding the download time for updates.
+
+1. Use a firewall. With the release of the built in firewall with Windows XP it is easier than ever to use employ, simply open up your network connection properties and turn it on. The base setting will be more than sufficient and unlike other firewall offerings it requires almost zero configurations.
+
+2. Configuring Windows Update is one of the least troublesome tools to implement. Once configured the updating service will automatically download and apply any critical patches for your Microsoft software transparently in the background while you work.
+
+3. Antivirus and anti-spyware software is essential in keeping your system free of viruses, worms and other malicious programs. There are some bare bones, yet effective free programs such as AVG and Ad-Aware as well as robust commercial programs like Norton.
+
+4. Browser security is very straight forward yet can be often glossed over, if you are using Internet Explorer the default security settings can be set in seconds and are generally sufficient. Alternatively try using a different browser like Firefox.
+
+Following these simple and quick steps you can be sure your system is more secure and up to date against the latest security vulnerabilities. Although not an exhaustive list of precautions that can be utilized, these techniques make up a good baseline of protection against a majority of the malicious software lurking about the Internet.
+
+

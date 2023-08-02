@@ -1,0 +1,40 @@
+Title: 
+Cisco CCNP / BSCI Tutorial: The Role Of The OSPF ASBR
+
+Word Count:
+313
+
+Summary:
+To pass the BSCI and earn your CCNP, you’ve got to know the many details of OSPF.  Learn the vital details regarding ASBR configuration from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccnp, bsci, ospf, asbr, pass, cisco, certification, free, tutorial, exam, Bryant, chris, advantage
+
+
+Article Body:
+To pass the BSCI exam and earn your CCNP certification, you've got to master the (many) details of OSPF. You might have thought there were quite a few OSPF details in your CCNA studies, but you'll now build on that foundation on the way to earning your CCNP.
+
+One such detail is the role of the Autonomous System Border Router (ASBR) in OSPF. The name itself raises some eyebrows, since you learned in your CCNA studies that OSPF doesn't use autonomous systems! Just as an OSPF Area Border Router borders multiple OSPF areas, the ASBR borders the entire OSPF domain and another source of routes. This can be another dynamic routing protocol, or directly connected networks that are not being advertised into OSPF by the network command. 
+
+Let's say we have a router running both OSPF and RIP version 2. By default, the RIP process will not contain any OSPF-discovered routes, and vice versa. The two separate routing processes are just that - separate. If we want the other OSPF routers to know about the RIP routes, route redistribution must be configured. When the RIP routes are redistributed into OSPF, that router is then an ASBR.
+
+In the below example, RIP subnets have been redistributed into OSPF. A seed metric is not necessary when redistributing routes into OSPF. The command "show ip ospf" confirms that this router is now an ASBR.
+
+R1(config)#router ospf 1
+
+R1(config-router)#redistribute rip subnets
+
+R1#show ip ospf
+
+Routing Process "ospf 1" with ID 1.1.1.1
+
+Supports only single TOS(TOS0) routes
+
+Supports opaque LSA
+
+It is an autonomous system boundary router
+
+The ASBR can also perform route summarization on the routes being injected into OSPF with the summary-address command. (To configure OSPF inter-area summarization, use the area range command.) By mastering route summarization and route redistribution, you're well on your way to passing the BSCI exam and earning your CCNP certification!
+
+

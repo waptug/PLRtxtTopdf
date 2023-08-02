@@ -1,0 +1,120 @@
+Title: 
+The Technical Terms in Motion Capture
+
+Word Count:
+2137
+
+Summary:
+Pre - Production, Production, Post Production, Motion Capture, New Media
+
+
+Keywords:
+Pre - Production, Production, Post Production, Motion Capture, New Media
+
+
+Article Body:
+A) Pre - Production
+
+Scene : A scene or script is a numbered part of a film script, which may be broken down into parts in longshot, medium-shot, close-up, etc by the director when shooting. A master scene is a fairly long length of the script, all under one number, which the director will certainly break down later. He or she may, however, take the whole of a master scene first, then shoot closeups of the various characters to cut in with this later. In animation the basic unit of continuous action, usually shot on one background, from which a film is built up.
+
+Script : The detailed scene-by-scene instructions for a film or television production, including description of setting and action with dialogue and camera directions. When the script also has full details of visuals it is termed a 'storyboard'.
+
+Storyboard : A form of shooting script common for animated films for many years and now usually used for commercials, even live-action ones. It consists of a series of sketches showing key positions for every scene, with dialogue and descriptive notes below. Still used in animation.
+
+================================================ 
+
+B) Production
+
+2D Animation : The creation of moving pictures in a two-dimensional environment, such as through "traditional" cel animation or in computerized animation software. This is done by sequencing consecutive images, or "frames", that simulate motion by each image showing the next in a gradual progression of steps. The eye can be "fooled" into perceiving motion when these consecutive images are shown at a rate of 24 frames per second or faster. 3D
+
+Animation : 
+The creation of moving pictures in a three-dimensional digital environment. This is done by sequencing consecutive images, or "frames", that simulate motion by each image showing the next in a gradual progression of steps, filmed by a virtual "camera" and then output to video by a rendering engine. The eye can be "fooled" into perceiving motion when these consecutive images are shown at a rate of 24 frames per second or faster.
+
+Character animation : The art of making an animated figure move like a unique individual; sometimes described as acting through drawings. The animator must "understand how the character's personality and body structure will be reflected in its movements.
+
+Character model : A sheet of drawings defining the proportions, shape, clothing etc. of a character for the guidance of animators.
+
+Computer animation : The technique of using computers to generate moving pictures. Some systems can achieve this in real-time (25 frames per second-or in the USA 30fps), but the majority of animation is created one frame at a time and then edited into a continuous sequence. Very sophisticated programs are required to perform the tasks of movement, fairing, perspective, hidden-surface removal, colouring, shading and illumination, and as the trend increases towards more realistic images, faster computers are needed to process the millions of computations required for each frame. The term "computer animation" covers a broad range of subjects, but overall can be defined as the creation of moving images through the use of computers. These images can be created in either a two-dimensional or three-dimensional space, and can be applied to web design, user interface design, application development, video games, movies, special effects, cartooning, and many others.
+
+Computer graphics : Charts, diagrams, drawings and other pictorial representations that are computer generated.
+
+Effects animation : The animation of non-character movements such as rain, smoke, lightning, water, etc.
+
+Go-Motion : Similar to 'Stop-Motion', but the animation is produced by rods attached to the pupet/creature, which can be programmed by a computer to perform the required movement. The advantage over stop-motion is that a lot more realistic movement can be created, because the puppet/creature blurs slightly between each frame. The disadvantage is that the rods attached to the creature need to be hidden from view (e.g. using the blue-screen process)
+
+In Between :  The paper drawing of a figure that lies in sequence between two key positions drawn by an animator.
+
+Key frame animation : The animator 'draws' directly onto the CRT display and produces a basic picture or cell. A number of these drawings can then be superimposed on one another to form a composite cell or key frame. Many of these key frames can be made up and stored in the computer to be called up and used as required. The action of the film can be created by stringing together the series of key frames, and introducing the desired movements between one frame and the next. Each key frame can be used over and over again by simply calling it repeatedly from the computer score.
+
+Stop-Motion Animation : Moving a special effects puppet or model/creature a small amount and recording a single frame (or small number of frames) so that when the film is played back at a normal speed it appears to move. The disadvantage with this form of animation is that it can sometimes appear to 'strobe', partly due to the lack of blur between the frames.
+
+Three-dimensional modeling : Geometrical descriptions of an object using polygons or solids in three dimensions (x,y,z coordinates) for the purpose of creating the illusion of height, width and depth.
+
+===================================================  
+
+C) Post Production
+
+Edit : The process of assembling video clips, audio tracks, graphics and other source marerial into a presentable package.
+
+Off-Line Edit : A "draft" edit, usually prepared in an off-line edit suite (at a lower cost), then taken to an on-line facility to make the final cut.
+
+On-Line Edit : The final version of an edit, prepared in a professional edit facility.
+
+Non-linear editing : An approach to video editing made possible by digital video recordings. As in word processing, video segments can be inserted between two existing segments without erasing either. Unlike the approach required when editing analog video , segments do not need to "laid down" in the sequence in which they will later be shown.
+
+Off-line editing : The steps during the edit process when a preliminary selection of usable shots and scenes is made, and the tentative sequence of these elements is decided. This process is typically done with lower cost, simpler editing equipment than is found in a professional edit suite (where on-line editing is done). Using off-line editing can significantly reduce the total cost of a producation.
+
+On-line editing : The steps during the edit process when the compilation of final program is done. When affordable, this is done in a professional edit suite with high quality equipment. If off-line editing had been done, the edit decision list from that phase guides the on-line edit process, typically minimizing the time and cost in the professional edit suite.
+
+Post Production : The phases of production that occur after the recording, filming, or taping. This includes editing, mixing, effects, dubbing, compression, mastering, etc.
+
+Render Farm : A group of computers which work together to perform the computation-intensive tasks of 3-D rendering.
+
+=================================================== 
+
+D) Motion Capture
+
+Mocap : The process of recording the data from human movement so that it can be used for 3D characters created on a computer. Mocap can be used for 3D animations for film, TV and games, and for special effects work. There are wireless, magnetic motion capture systems, and optical systems, which track markers attached to the animator.
+
+Performance Capture : The recording of a performance, either human or animal, using a Motion Capture system (or similar technology) - difference being that you can motion capture a table, but it is cannot give a performance. Special Effects Blue (or Green)
+
+Screen : A system that replaces a specified colour (blue in this case) with images from another source. This can either be done optically (eg. using film) or electronically (eg. in video, also known as Chroma-Key in video). Some computer systems look at pixel in the scene and determine whether to replace that pixel with the other video source. Better computer systems allow 'some' of the colour of the pixel from 1 image and 'some' from another image. The better systems could be take transparent objects (eg. bottles) or smoke and combine these with the images from another source.
+
+Chroma-Key : Keying out parts of an image which contain a particular colour (or colours). Eg. replacing a blue or green background with images from another source.
+
+Composite : To combine two or more individual images onto one piece of film by photographic or digital means. Early compositing was accomplished in the camera by masking part of the scene when filming, rewinding the film and removing the matte and shooting again to expose the previously masked portion. Digital compositing is commonplace, in which multiple film images are scanned into the computer, combined digitally, and output to a single piece of film.
+
+Motion Control : Controling the motion of a camera or special effects object (eg. model space ship etc), using commands from a computer, so that the exact moves can be repeated as many times. This makes it easy to composite it (ie.combine it with another shot).
+
+Rotoscoping : Drawing around something in the frame so that an effect can be applied to that part of the film. If an animated creature has to go behind something in the live action piece of film, that object can be drawn around so a matte can be created, so that the createure will not show over the top of that object. If the camera is moving, then each frame of film would have to be rotoscoped. If the camera is still, then the same matte can probably be used for all frames in that shot. Rotoscoping was first used by the Fleischers for making cartoons. The Fleischers invented the Rotoscope, which is a device for projecting live-action film on to paper frame by frame, so that the outline could be traced and used as a guide for the animation. The Rotoscope consists of an animation camera and a light source (usually using a prism behind the movement and the lamp house attached to the camera's open door) that projects a print through the camera's lense and the projected image is then traced to create a matte. The lamp house is then removed and the raw stock placed in the camera and the drawings are filmed through the same lense that projected the image. The resulting image will then fit the original image if the two strips of film are run bi-packed in the same projector movment (using an optical printer). In digital film effects work, rotoscoping refers to any drawn matte, as both images can be seen compisited while the matte is being drawn, so good results can be achieved.
+
+Virtual Sets : Sets which are generated (at least partially) from data within a computer. Mostly used for TV work, these systems replace the real set (eg. an empty studio) with a computer generated set, allowing the actor/presenter to move in the foreground. eg. the background is 'keyed out' and replaced with the set which has been created in a 3D package (eg. Softimage or 3D Studio Max), and any camera movements will be duplicated by the 'virtual camera'. This will require a powerful computer, especially if it is to be done in real-time, for example a Silicon Graphics machine. The method of keeping track of the camera movement (so that it can be duplicated in the 3D computer set) is different for the various sytems. Some systems use a blue grid painted on the back wall of a studio of a known size. A red LED is projected onto the cameras and the actor/presenter so that they too can be tracked throughout the set.
+
+Visual effects (also called optical or photographic effects) : Special effects achieved with the aid of photographic or digital technology, occurring after the principal photography, or main shooting, of a film. Includes miniatures, optical and digital effects, matte paintings, stop-motion animation, and computer-generated imagery (CGI).
+
+Wire Removal : Removal of unwanted wires, rods, etc. from a piece of film by replacing them with what would have been seen if they weren't there (eg. the background). This can be done by replacing them with the same area from another frame in which the wires/rods were not visible, or by averaging the colours on either side of the wire and replacing it with the average.
+
+================================================= 
+ 
+
+E) New Media
+
+A generic term for the many different forms of electronic communication that are made possible through the use of computer technology. The term is in relation to "old" media forms, such as print newspapers and magazines, that are static representations of text and graphics. New media includes:
+
+    *  Web sites
+    *  streaming audio and video
+    *  chat rooms
+    *  e-mail
+    *  online communities
+    *  Web advertising
+    *  DVD and CD-ROM media
+    *  virtual reality environments
+    *  integration of digital data with the telephone, such as  Internet telephony
+    *  digital cameras
+    *  mobile computing
+
+Use of the term new media implies that the data communication is happening between desktop and laptop computers and handhelds , such as PDAs , and the media they take data from, such as compact discs.
+
+__________________________________________________________
+
+

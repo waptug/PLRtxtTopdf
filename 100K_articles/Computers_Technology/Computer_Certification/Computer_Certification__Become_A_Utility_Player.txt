@@ -1,0 +1,28 @@
+Title: 
+Computer Certification: Become A Utility Player
+
+Word Count:
+393
+
+Summary:
+The competition is tough in the IT job market!  Learn how to boost your future and current career prospects in this article from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+ccna,ccnp,home,lab,access,server,frame,relay,switch,free,pass,intro,icnd,bsci,router,cisco,cit,pass,exam,troubleshoot,learn,how,chris,bryant,12933,advantage,theory,hands-on
+
+
+Article Body:
+In baseball, a "utility player" is one who plays more than one position.  These players are usually backups, but they have a job in the major leagues because of their value to the team; since they can play more than one position, they have that much more value to their employer.
+
+Too often in IT, workers become either LAN or WAN engineers, knowing little if anything about the other side.  Many LAN administrators I worked with knew little about routing and switching, while many WAN engineers I knew not only didn't know much about the LAN side of their network, but they didn't want to know anything about the servers!
+
+In today's IT world, it's a bad idea to specialize in only one thing and not know how to do anything else.   Not only does it limit your future career prospects, but it limits your current prospects as well.  Employers don't want to hire someone and have them get up to speed on the job - they want someone who can walk right in and do the job.  The more you know, the better your chance of getting a better job - or quickly being able to get another job if you were laid off tomorrow.
+
+A term often heard on Wall Street is "diversification", meaning that investors should not invest heavily or totally in only one stock; if that stock plummets, they're in big trouble.  Your career is the most important stock you will ever own, and you're 100% in charge of it.  Diversify.  If you're working primarily with servers, learn some routing and switching.  If you know the routing protocols your company uses on its WAN, learn something about that protocol.  (If you don't know the protocol, ask!)   
+
+While you’re adding these skills, get certified while you’re at it!  Adding a CCNA, MCSE, or other computer certification looks great on your resume while signaling to employers that you’re constantly adding to your skills.
+
+Adding more skills and knowledge to your IT skill set is always a good idea.  Don't limit yourself to the technologies you work with every day.  Make an investment in yourself and become a well-rounded network engineer.  This will help you keep the job you have - and open doors in the future that might otherwise have remained closed.
+
+

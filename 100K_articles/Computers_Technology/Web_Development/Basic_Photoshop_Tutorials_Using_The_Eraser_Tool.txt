@@ -1,0 +1,44 @@
+Title: 
+Basic Photoshop Tutorials Using The Eraser Tool
+
+Word Count:
+436
+
+Summary:
+Have an object with edges you want to isolate? This is one way to use the Background Eraser tool.
+
+The Magic Eraser is often used to blast large areas that contain unwanted pixels. It certainly can be effective if you want to get fast results, but it is less than subtle. This works well when you want to eliminate big areas of color that you don’t need. It is not always as useful when you are working with areas that are more intricate.
+
+This is one of the reasons that Phot...
+
+
+Keywords:
+photoshop,adobe,tutorials,paint,photography,photoshop 7,photoshop cs,photoshop tips,photoshop tricks
+
+
+Article Body:
+Have an object with edges you want to isolate? This is one way to use the Background Eraser tool.
+
+The Magic Eraser is often used to blast large areas that contain unwanted pixels. It certainly can be effective if you want to get fast results, but it is less than subtle. This works well when you want to eliminate big areas of color that you don’t need. It is not always as useful when you are working with areas that are more intricate.
+
+This is one of the reasons that Photoshop is so great. This program provides the user with lots of selection tool choices. Each tool has its own options that can be
+customized.
+
+Now, there are some kinds of selection jobs that work better with the Background Eraser than with the actual Magic Eraser.
+
+The Background Eraser is more versatile and gives you greater control over some of the more difficult tasks. For instance, if you are selecting intricately shaped objects, the Background Eraser may be the tool for the job.
+
+Let’s say you want to isolate your image in your picture by removing the sky. The sky consists of edges that may prove difficult to work with. Remove the sky along with the detailed edges using the Background Eraser tool.
+
+Some selection tools would not be able to handle the job because of the position of the crenulations and the arches of the towers. This makes it very tricky when you want to try to remove the sky that is hidden among all of that other stuff.
+
+Here is the way that you can work with the Background Eraser tool to accomplish the above task. You can cut out the complex shapes easily using the Background Eraser. Now you may need to spend a little time fiddling with the options to get the most use of the tool when you are working on a complex project such as this one.
+
+Begin by selecting the tool from the toolbox and in the options bar you will want to set the Sampling option to Once. Sample a section of the blue sky by clicking and the
+background swatch icon will change color.
+
+This lets you know the pixels that are headed for deletion. If you hold the mouse button down and spray the eraser’s brush around the image you will be able to get rid of all the pixels of the same color.
+
+Pixels of other colors will not be removed as you spray around the edge of the building. If you want the best results you can tweak the Tolerance setting.
+
+

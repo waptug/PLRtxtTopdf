@@ -1,0 +1,83 @@
+Title: 
+Securing SSH Sessions The Easy Way
+
+Word Count:
+754
+
+Summary:
+Recently I've had a good deal of people ask me about SSH connections, and how they can better secure them, and I've been shocked at the sheer number of people that still use keyboard-interactive password authentication to log into SSH daemons. This article will explain the use of SSH keys and OpenSSH options to speed up and secure your SSH connection.
+
+SSH options
+
+There are a few useful options you can pass to OpenSSH to increase your verbosity, compress and speed up you...
+
+
+Keywords:
+ssh, security, linux, secure
+
+
+Article Body:
+Recently I've had a good deal of people ask me about SSH connections, and how they can better secure them, and I've been shocked at the sheer number of people that still use keyboard-interactive password authentication to log into SSH daemons. This article will explain the use of SSH keys and OpenSSH options to speed up and secure your SSH connection.
+
+SSH options
+
+There are a few useful options you can pass to OpenSSH to increase your verbosity, compress and speed up your ssh connection, and change your SSH cipher to something faster and more secure;
+
+'-v' switch. This option will allow you to see debug output for outgoing SSH connections. Specifying '-v' multiple times increases the verbosity level (maximum level 3).
+
+'-C' switch. This option compresses all of your SSH data. Passing this option to OpenSSH may speed things up dramatically on slow networks, but on high-speed networks it will only slow things down.
+
+'-c' switch. This option will allow you to change your cipher method. The default is 3des, which is a 3-way encryption method that is believed to be secure - however, blowfish is also available, which is a fast block cipher which also believed to be very secure and is far faster than 3des.
+
+For example, let's say I want to log in as user 'foo' to an ssh daemon on host 'example.com'. I want maximum verbosity level, I want to compress all my data, and I want to change my SSH cipher to blowfish. The command would look like this:
+
+ssh -vvv -C -c blowfish -l foo example.com
+
+(Note: the higher your verbosity level, the more text you will get on your terminal while OpenSSH goes through the process of logging in to the remote SSH daemon. Even specifying only one -v can get you a veritable flood of information. Fiddle around with -v until you find a debug level that you're comfortable with.)
+
+SSH keys
+
+OpenSSH supports a method of authentication far more secure than keyboard-interactive password authentication using a combination of public/private key cryptography. A pair of keys is generated, one on the remote machine to authenticate you and let you in. The other is a private key to match the key on the remote machine.
+
+To generate a pair of cryptographic keys, you would use the ssh-keygen(1) utility on both the machine you intend to log in to, and the machine you intend to log in from. For example;
+
+ssh-keygen -t rsa
+
+The -t option specifies the type of key to be generated. Available options are dsa and rsa.
+
+Inputting this command on either of your UNIX machines should give you an output like this:
+
+$ ssh-keygen -t rsa
+Generating public/private rsa key pair.
+Enter file in which to save the key (/home/example/.ssh/id_rsa):
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again:
+Your identification has been saved in /home/example/.ssh/id_rsa.
+Your public key has been saved in /home/example/.ssh/id_rsa.pub.
+
+Setting a passphrase is highly recommended to maximize security. Good passphrases are between 10 and 30 characters long, and are not easily guessable in any way. If you do not enter a passphrase, you will be able to login to your remote system without entering any password on login.
+
+The next step is to authorize your keys on the remote machine you intend to log in to. You can do this using a file named authorized_keys on your target machine. Copy your ~/.ssh/id_rsa.pub file onto your remote machine using scp(1)
+
+scp ~/.ssh/id_rsa.pub example.com:.ssh/authorized_keys
+
+Now log in to your target machine using ssh(1) with a debug level of 1
+as previously shown;
+
+ssh -v -C -c blowfish -l foo example.com
+
+You will see debug messages like so;
+
+debug1: Authentications that can continue: publickey,keyboard-interactive
+debug1: Next authentication method: publickey
+debug1: Offering public key: /home/example/.ssh/id_rsa
+debug1: Server accepts key: pkalg ssh-dss blen 435
+debug1: read PEM private key done: type rsa
+
+You should then be prompted for your key passphrase (if you entered one) and then let into the system. If you didn't enter a passphrase upon generating your public/private keys, you will be passed through without having to enter any. If you encounter errors, you should check the permissions of your ~/.ssh directories on both machines.
+
+If you wish to change your key passphrase at any time, you can do so by passing the -p flag to the ssh-keygen utility;
+
+ssh-keygen -p
+
+

@@ -1,0 +1,35 @@
+Title: 
+Should we believe the experts? (Part II)
+
+Word Count:
+755
+
+Summary:
+Why do we use experts?  To predict the future.  Should we believe these experts?  History tells us that accurate predictions of the future are rare.  Many examples exist where the brightest and most qualified individuals failed to see the future.
+
+
+Keywords:
+Focus Group,Inverview,Survey,Qualitative Research,Qualitative Analysis,Investment Analysis,Open-ended questions, decision making, how to negotiate, conversation analysis, negotiations, text analysis
+
+
+Article Body:
+Why do we use experts?  To predict the future.  Consider a patient who is asking a physician about the future effects of a certain drug, or the investor who is asking a stock analyst about the future prices of a certain stock, or the manager who is asking a human resource manager about the future performance of a certain candidate, or the brand manager who is asking a market researcher about the future sales of a certain new product.  Should we believe these experts?  History tells us that accurate predictions of the future are rare.  Many examples exist where the brightest and most qualified individuals failed to see the future.  This series of articles presents examples from the arts (see part I), business (see part II), and science (see part III).
+
+<b>Should we believe the experts in business? </b>
+In 1876, Alexander Graham Bell offered his telephone patent to Western Union, the largest telegraph company in America, for $100,000.  A committee of experts was convened to decide on the company’s interest in the new technology.  The decision was clear.
+
+“Bell’s profession is that of a voice teacher … yet he claims to have discovered an instrument of great practical value in communication, which has been overlooked by thousands of workers who have spent years in this field.  Any telegraph engineer will at once see the fallacy of this plan.  The public simply cannot be trusted to handle technical communications equipment … When making a call, the subscriber must give the number verbally to the operator who will have to deal with the persons who may be illiterate, speak with lisps or stammer, or have foreign accents or who may be sleepy or intoxicated when making a call … In conclusion, the committee feels that it must advise against any investment whatever in Bell’s scheme.” (Martin 1977, p 11) 
+
+What was the cause of the misguided intuition exhibited by the Western Union committee?  Another common cause of misguided intuition is the “numeration bias.”  Experts, like all humans, tend to assign a value to an idea by the number of people who support it.  On the one hand, Western Union had all the “thousand of workers who spend years in the field” and on the other, the lone Alexander Graham Bell, who wasn’t even an engineer, but a voice teacher.  Who would you believe?  Could you blame Western Union for dismissing the value of Bell’s patent?  The implications of Western Union’s misguided intuition were profound.  In 1877, when three thousand telephones were already in service, Western Union realized that they made a tremendous mistake, and in December of 1877, they set up the American Speaking Telephone Company, in clear violation of Bell’s patents.  In September 1878, the Bell Telephone Company, which was founded in 1877 and owned Bell’s patents, filed suit against Western Union, and although the Bell Company was still a small fledgling company, while Western Union was a giant, it won the law suit and forced Western Union out of the telephone business.
+
+How is this example related to qualitative research?  When analyzing qualitative data, analysts prone to the numeration bias tend to assign a value to an idea by the number of times it is mentioned in the data, a method known as “frequency counting.”  However, frequency counting is ill suited to the analysis of qualitative data.  Consider the following example.
+
+“<b>Bill</b>, the duck used his <b>bill</b> to pull a <b>bill</b> out of his pocket to pay the <b>bill</b> and then reconsidered and very angrily said: “<b>Bill</b> me!”
+
+Frequency counting will argue that BILL is the most important word in this sentence.  But which BILL is it?  Is it the duck, the beak, the money, the tab, or the charging action?  All five BILLs have different meanings and should not be considered as indicating the same idea.  Adding them up to yield a frequency of five is like adding apples and oranges.  Moreover, frequency counting will also tell you that the fact that BILL is very angry is not important since it only mentioned once in this sentence.  
+
+Unlike structured quantitative data, qualitative data always includes a unique expression, voiced by a single individual, which “says it best.”  This expression communicates an idea, or sentiment, that many share but only one can articulate.  Therefore, when analyzing qualitative data, one should look for articulation rather than numeration.  Otherwise, the analysis will produce misleading results and misguided intuition.
+
+Martin J.  Future Developments in Telecommunications.  Englewood Cliffs, NJ, Prentice-Hall, 1977.
+
+

@@ -1,0 +1,67 @@
+Title: 
+How to Lower Your Minimum Bids With Google AdWords
+
+Word Count:
+420
+
+Summary:
+You've spent time and money researching a market, more time and money putting a website together for that market and your ready to go live. You decide to give Adwords a shot because you've heard so many great things about it.
+
+
+Keywords:
+minimum bids,minimum bid,quality score, adwords bids
+
+
+Article Body:
+Why does Google Adwords Want $10 Minimum Bid? This is a question I hear all of the time.
+
+You've spent time and money researching a market, more time and money putting a website together for that market and
+your ready to go live. You decide to give Adwords a shot because you've heard so many great things about it. You 
+sign up and begin creating your account, getting excited with anticipation off all that high quality traffic your 
+about to get. You put in the keywords and Boom! Google adwords gives you this message "Increase quality or bid to
+$10.00 to activate" What is going on here!!?? What a scam. 
+
+The thing about Google is they reward relevancy and penalize websites that are irrelevant. Who decides whats 
+relevant and what's not? Google does based on it's algorithm from Google Bot.  I have used $10 minimum bid as an 
+example, it could be $5 or a $1 minimum bid. Your minimum bid should be cents not dollars.
+
+How do you make Google Bot your friend? Make your website relevant in Google's eyes. This is done by a 3 pronged 
+attack. First make sure your ad groups are "themed" around 1 keyword with variations. 
+For instance adgroup name - 
+-------------------------------
+Discount Laptops 
+-------------------------------
+Keywords: 
+
+discount laptops
+cheap laptops
+affordable laptops
+really cheap laptops
+
+By doing this your account is organized into a tightly knit group of keywords that makes it easy for you to write
+ads for.  When you write your ad Google loves it when you use the keywords in your ad and so do searchers. This is 
+an essential step in lowering your minimum bids.
+
+Cheap Laptops
+Discount laptops to fit
+your budget. Free shipping
+http://www.example.com/
+
+Google will consider this ad highly relevant to your ad group's keywords. Google will also bold any keyword that
+the searcher typed, in your ad. Which will catch your prospect's eye. In the above example if a
+searcher typed the keywords 'cheap laptops' all instances of the words cheap and laptops in your ad would appear in
+bold.
+
+Using the keywords on your landing page
+
+Google and searchers love this also because you are focusing your landing page around the keywords that have been
+searched both Google Bot and the searcher will consider this very relevant, provided your supporting content stays
+on topic. This technique will increase your Quality Score which in turn will lower your minimum bids.
+
+Lets recap the three pronged attack for lowering your minimum bids. 
+
+1. Tightly "themed" ad groups
+2. Keywords in ad
+3. Keywords used on landing page
+
+

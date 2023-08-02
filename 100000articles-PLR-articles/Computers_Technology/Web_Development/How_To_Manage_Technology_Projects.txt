@@ -1,0 +1,95 @@
+Title: 
+How To Manage Technology Projects
+
+Word Count:
+765
+
+Summary:
+As your business grows, you will likely find more ways to use technology to increase production (and hopefully, profits). Making the decision to enhance your technology environment in order to achieve your business objectives is a necessary milestone, but it is equally important to identify the scope and budget of your project before jumping into implementation.
+
+This article explains a phased approach that will help you maximize your budget and provide the greatest results...
+
+
+Keywords:
+project management, technology, roi
+
+
+Article Body:
+As your business grows, you will likely find more ways to use technology to increase production (and hopefully, profits). Making the decision to enhance your technology environment in order to achieve your business objectives is a necessary milestone, but it is equally important to identify the scope and budget of your project before jumping into implementation.
+
+This article explains a phased approach that will help you maximize your budget and provide the greatest results when considering a technology enhancement.
+
+Phase I - Business Need
+
+This initial phase is designed to help you determine if you have answered the "why" questions as it relates to your objectives. You should be able to clearly identify the business benefit (return on investment) for your potential project after completing this phase. Here are the steps that will guide you through this phase:
+
+1. What is the problem/deficiency that needs your investment in time and money to be solved?
+
+2. Does your business challenge absolutely require new or enhanced technology?
+
+a.Do your employees require additional training with existing systems?
+b.Can the challenge be solved by changing the workflow or business practices?
+
+3. Once the problem is clearly defined and the solution points to technology improvements, a preliminary budget can be established.
+
+Phase II - Budget & Scope
+
+In Phase I we qualified our potential solution within the realm of technology and now we need to define the scope of the solution. Without defining scope, you will run the risk of your project growing out of control in both time and money. This is the phase where you should spend the time to clearly document the business requirements or "what" will be implemented.
+
+1. Bring all the necessary players together to discuss the objectives of the project.
+
+2. Determine how the problem that was identified in Phase I affects all key players.
+
+3. Discuss how the problem can be solved with technology and be specific as it relates to your current business practices and workflows.
+
+4. Document your findings and discussions.
+
+5. Once the solution has been identified, you can present your documents to your preferred vendor(s) and obtain proposals or quotes.
+
+Phase III - Pilot
+
+Implementing any technology project can be challenging in that technology itself changes so quickly and your employees may have different expectations with the solution. A pilot phase is very effective to "test" the solution and confirm all expectations are met.
+
+1. Once your vendor has been identified, you can request a pilot or trial solution be put into place for limited use to test results.
+
+2. After the pilot solution is implemented, be sure to measure the effectiveness and verify that the problems in phase I are being solved.
+
+Phase IV - Implementation
+
+So now you have confirmed that the pilot is solving some or all the problems identified in phase I, now you are ready to rollout the full solution. It is very important to closely manage your vendor and be sure they are delivering what they promised within their proposal.
+
+1. Create a project plan that consists of key milestones for the implementation of your solution.
+
+A sample plan is shown below:
+
+* Project Kick-off
+* Budget review
+* Set timelines for remainder of project
+* Determine training requirements
+* Technology install/enhancement
+* Document the changes in your existing workflow
+* Create a forum for employees to provide feedback during this process
+* Develop a suite of tests that verifies the newly installed technology does not break any existing processes.
+* Develop a suite of tests that verifies the newly installed technology meet the expectation of the proposed solution.
+* Insure your timelines are being met and budget is not growing.
+* Implementation complete
+* Begin training
+
+2. After the solution has been installed, consolidate all the documents and training materials in one repository for quick reference.
+
+Phase V - Project Review & Closure
+
+Now that the technology solution has been successfully implemented and everyone has been trained, you will need to setup measures to ensure that the solution is effective.
+
+1. Create an anonymous survey for employees to provide feedback.
+a. Survey questions should include: overall project success, training materials and responsibility impact.
+
+2. Develop metrics that can measure the profit and/or efficiency that was achieved as a result of this project. This will help you identify the true return on investment.
+
+3. Continue to refine training.
+
+This phased approach for managing a technology project is meant to be a guide. There are many details within each phase that would be too lengthy to describe here. There are also many books that can assist with successfully managing any type of project, not only technology. Here is a website that is a great reference for project management:
+
+http://www.pmi.org
+
+

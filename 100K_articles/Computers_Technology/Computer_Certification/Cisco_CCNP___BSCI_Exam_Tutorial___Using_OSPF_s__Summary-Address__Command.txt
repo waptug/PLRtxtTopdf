@@ -1,0 +1,96 @@
+Title: 
+Cisco CCNP / BSCI Exam Tutorial:  Using OSPF's "Summary-Address" Command
+
+Word Count:
+339
+
+Summary:
+Success on the BSCI exam and working with OSPF in production networks can depend on you knowing the proper usage of the "summary-address" command.  Learn how to use this command and see it in action with Chris Bryant, CCIE #12933.
+
+
+Keywords:
+ospf, summary, address, command, route, summarization, summarize, bsci, exam, pass, free, tutorial
+
+
+Article Body:
+BSCI exam success, not to mention earning your CCNP, can come down to your OSPF route summarization skills. There are a few different commands and situations you need to be ready for, and one of these situations is the proper use of the "summary-address" command.
+
+The summary-address command should be used on an ASBR in order to summarize routes that are being injected into the OSPF domain via redistribution. In the following example, four routes are being redisitributed into OSPF on R1, making R1 an ASBR.
+
+interface Loopback16
+
+ip address 16.16.16.16 255.0.0.0
+
+!
+
+interface Loopback17
+
+ip address 17.17.17.17 255.0.0.0
+
+!
+
+interface Loopback18
+
+ip address 18.18.18.18 255.0.0.0
+
+!
+
+interface Loopback19
+
+ip address 19.19.19.19 255.0.0.0
+
+R1(config)#router ospf 1
+
+R1(config-router)#redistribute connected subnets 
+
+These four routes are seen on downstream router R2 as External Type-2, the default for routes redistributed into OSPF.
+
+R2#show ip route ospf
+
+O E2 17.0.0.0/8 [110/20] via 172.12.123.1, 00:00:07, Serial0
+
+O E2 16.0.0.0/8 [110/20] via 172.12.123.1, 00:00:07, Serial0
+
+O E2 19.0.0.0/8 [110/20] via 172.12.123.1, 00:00:07, Serial0
+
+O E2 18.0.0.0/8 [110/20] via 172.12.123.1, 00:00:07, Serial0
+
+To summarize networks learned by redistribution, use the OSPF command summary-address. You can probably do this summarization in your head, but do so before continuing with the lab.
+
+R1(config)#router ospf 1
+
+R1(config-router)#summary-address 16.0.0.0 252.0.0.0
+
+Look at the change in R2's OSPF table.
+
+R2#show ip route ospf
+
+O E2 16.0.0.0/6 [110/20] via 172.12.123.1, 00:00:05, Serial0
+
+The external routes have been successfully summarized. Note that the summary route is still marked as an E2 route.
+
+There's an interesting route installed into R1's OSPF table as well.
+
+R1#show ip route ospf
+
+
+O 16.0.0.0/6 is a summary, 00:01:51, Null0
+
+When you configure summary routes in OSPF, a route to null0 will be installed into the OSPF routing table. This helps to prevent routing loops. Any packets destined for the routes that have been summarized will have a longer match in the routing table.... 
+
+C 17.0.0.0/8 is directly connected, Loopback17
+
+C 16.0.0.0/8 is directly connected, Loopback16
+
+C 19.0.0.0/8 is directly connected, Loopback19
+
+C 18.0.0.0/8 is directly connected, Loopback18
+
+
+O 16.0.0.0/6 is a summary, 00:03:10, Null0
+
+O 12.0.0.0/6 is a summary, 00:07:53, Null0
+
+.. and packets that do not match one of the summarized routes but do match the summary route will be dropped.
+
+

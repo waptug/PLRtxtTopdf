@@ -1,0 +1,66 @@
+Title: 
+Going Paperless
+
+Word Count:
+1049
+
+Summary:
+Going paperless. Sound a little scary? Nah, not really. At least it doesn't have to be. As few as 10 years ago, we kept box upon box of archived paper files. At one point, we had at least 100 of those boxes stuffed to capacity with trees. Unfortunately, it was a necessity. Back then, though, the technology (at least affordable technology) to go paperless wasn't there. It would have cost thousands of dollars in labor and services to retroactively make all those paper files into electronic files. Fast forward to today and going paperless is quite simple and inexpensive. But why go paperless?
+
+
+Keywords:
+virtual, virtual work, online storage, online files, file storage, filing, office organization, office organizing, organization, organizing, files, paper
+
+
+Article Body:
+Going paperless. Sound a little scary? Nah, not really. At least it doesn't have to be. As few as 10 years ago, we kept box upon box of archived paper files. At one point, we had at least 100 of those boxes stuffed to capacity with trees. Unfortunately, it was a necessity. Back then, though, the technology (at least affordable technology) to go paperless wasn't there. It would have cost thousands of dollars in labor and services to retroactively make all those paper files into electronic files. Fast forward to today and going paperless is quite simple and inexpensive. But why go paperless? 
+
+Less physical storage space necessary - save on file cabinets, paper, and folders 
+
+Locating files becomes more efficient - it's as easy as "edit" "find" 
+
+Paperless, or electronic storage, is more cost-effective than printing everything and storing it on paper copy - electronic storage space is cheap! 
+
+The "ink" on an electronic copy of that important whatever won't eventually fade like a paper copy will 
+
+Files are more easily transferred from your archives to an associate who may need to see it 
+
+You don't need to pay an assistant to constantly do your filing for you. With electronic storage, it's a snap to quickly "save as" into the appropriate folder on   your hard drive 
+
+Of course, there can be some disadvantages to going paperless too: 
+
+Because electronic media is susceptible to power surges, scratches, and the like, there is a risk of losing that data 
+
+You MUST remember to back up your disc drives and keep a copy of that data in a safe place - off premises preferably 
+
+You'll likely have to do your own filing unless you want your assistant to access your computer 
+
+Even if you've been a long-time packrat of paper files, there's no reason you can't start going paperless now. Start by making a conscious decision NOT to continue printing and filing everything that comes across your desk. Just as you would keep your paper files organized by setting up folders for various topics, do the same for your electronic files by creating folders in Microsoft Explorer
+Depending on your filing system, set up folders for things such as "Clients", "Prospects", "Form Files", "General Information", etc. Within those folders are more folders. For example, your "Clients" folder should contain a folder for each client. Your "Prospects" folder should contain a folder for each prospective client and so on. Then, when that prospect becomes a client, you can simply drag his or her folder over to your "Clients" folder
+
+Save all files that seem important.
+
+Before the virtual world, business people were conveniently divided into 2 categories: filers and pilers. Filers kept things that they thought they might need, but dumped the rest. They could fill up a wastebasket of paper in half a day. Pilers, on the other hand, saved everything. Their wastebasket was for decorative purposes only. They'd save the most trivial of things "just in case".
+
+The virtual world has ended this distinction. Now, you can (and should) be both.
+
+For the Pilers:
+
+Keep all of your files; or most of them. Just create more folders to store them in. If you require more hard drive space, just go out and get it. Hard drive space is ridiculously cheap compared to even a decade ago.
+For the Filers:
+As soon as you've received or created a new file, save it to the appropriate folder. Naming your files appropriately will facilitate retrieving those files easily later on. Your filing system should first and foremost be one that you can understand and easily remember - it should make sense to you. When you name your files use as many characters as you need in the file name so you can search on a portion of that name later. It should give a good, but brief, description of what the document pertains to. Most people have used Windows Explorer's search feature. If not, practice with it until you can easily locate your files. It's a pretty powerful tool and very user-friendly.
+There are a few other tools that will help you with your goal of going paperless:
+
+  eFax (http://www.efax.com) is what we use here. For a nominal monthly charge, all of your incoming faxes will come to you by way of email. Yep, they're   dumped right into your inbox as an attached picture file. 
+
+  Adobe Acrobat (the full version - not reader (http://www.adobe.com/products/acrobat/main.html) allows you to take almost any file, select the "print" option,   and print to the Acrobat Distiller. This will turn the document into a .pdf file. A very easily transportable and easy-to-file file type, almost anyone can read a   .pdf file. This makes sending your documents (and protecting them) a breeze. As a side note, when I receive an eFax document, because the file type isn't so   universal, I print from my eFax viewer to my Acrobat distiller, making the fax into a .pdf file. I then file the .pdf version, making it more transportable and   viewable. 
+
+  Scanners are another tool that is indispensable in the paperless world. Virtually any piece of paper or photo that you receive can be scanned and made into an   electronic picture file. After you've created that picture file, you can email it to anyone you'd like as well as store it in your electronic files on your hard drive
+
+  LapLink Everywhere http://www.laplink.com/products/lle/overview.asp can facilitate having your virtual assistant do your electronic filing for you. It   includes remote desktop search from any Web-enabled device (powered by Google Desktop Search) Laplink Everywhere lets you choose how you want to work   and which device with internet access you want to use to access your PC. It’s easy and fast to set-up and simple to use
+
+  LapLink ShareDirect http://www.laplink.com/products/sharedirect/overview.asp is another great tool for going paperless. It allows instant sharing any folder   on your PC with one or thousands of users, without ever having to change or manage your Internet, firewall, or router configurations. And it is 256-bit   encrypted.
+
+Hopefully you can see how going paperless can benefit almost any company or individual. The cost savings alone are enormous; reducing the amount of paper, ink, and folders you need to purchase.
+
+

@@ -1,0 +1,18 @@
+Title: 
+RAID
+
+Word Count:
+207
+
+Summary:
+RAID stands for "Redundant Array of Independent (formerly "Inexpensive") Disks." RAID is a collection of hard drives in a computer that is used for performance enhancement and/or fault tolerance. Windows server versions (Windows NT and 2000 Server, and Windows Server 2003) have built-in support for some levels of RAID, but hardware-based RAID systems provide better performance.
+
+
+Keywords:
+raid,hardisk,computer
+
+
+Article Body:
+RAID stands for "Redundant Array of Independent (formerly "Inexpensive") Disks." RAID is a collection of hard drives in a computer that is used for performance enhancement and/or fault tolerance. Windows server versions (Windows NT and 2000 Server, and Windows Server 2003) have built-in support for some levels of RAID, but hardware-based RAID systems provide better performance. The most basic level of RAID uses two hard drives to increase performance, while higher levels store data on two or more drives so that if one fails, the data won't be lost. SCSI drives are usually used in RAID systems. In hardware-based RAID systems, it is common for the drives to be removable; they are kept in a caddy that is accessible through an opening in the case. When one fails, it can easily be replaced. More advanced systems employ hot-swappable drives. These are drives that can be removed and replaced without shutting down the system. Naturally, all this technology is much more expensive than standard PCs, so it is used mainly in business and government situations in which downtime and/or data loss would be catastrophic to the operation of the organization. For more information on RAID, see raidweb.com, and search the Web for more articles; there are many.
+
+

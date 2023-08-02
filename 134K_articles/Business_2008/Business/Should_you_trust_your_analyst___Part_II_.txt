@@ -1,0 +1,32 @@
+Title: 
+Should you trust your analyst? (Part II)
+
+Word Count:
+701
+
+Summary:
+The first stage of most business decisions, such as marketing, hiring, and investing, is gathering data. In most cases, the information is captured in the form of words. Once the gathering of data is complete, the next step is analyzing the data. In many cases this analysis is performed by professional analysts, such as marketing researchers, human resource managers, and portfolio managers.  In light of some recent scientific research, should we believe their analysis, and recommendations?
+
+
+Keywords:
+Focus Group,Inverview,Survey,Qualitative Research,Qualitative Analysis,Investment Analysis,Open-ended questions, decision making, how to negotiate, conversation analysis, negotiations, text analysis
+
+
+Article Body:
+The first stage of most business decisions, such as marketing, hiring, and investing, is gathering data. In most cases the information is captured in the form of words. Once the gathering of data is complete, the next step is analyzing the collected words. In many cases this analysis is performed by professional analysts, such as marketing researchers, human resource managers, and portfolio managers.  In light of some recent scientific research, should you believe their analysis, and their recommendations?
+
+A recent scientific study (Rothwell, P.M. and Martyn, C.N. Reproducibility of peer review in clinical neuroscience: Is agreement between reviewers any greater than would be expected by chance alone? Brain 2000 123:1964–1969) measured the level of agreement between reviewers of manuscripts submitted for publication in a scientific journal.  These reviewers are usually professors in universities with extensive expertise in the subject of the reviewed manuscript.  The editor of the journal asked the professors two questions: 1. should the manuscript be accepted, revised, or rejected, and 2. is the priority for publication low, medium, or high.  Every manuscript was evaluated by two professors.  The study was repeated with manuscripts submitted to two journals.  In journal A the study compared the evaluations of 179 papers and in journal B the evaluations of 116 manuscripts.  The agreement between the professors was calculated using the Kappa statistic.
+
+The results showed <b>no agreement</b> between the reviewers regarding both the recommendation and priority for publication.  In fact, the level of agreement was no greater than which would produced by <b>flipping a coin</b>.  Moreover, when a larger number of independent reviewers evaluated the same manuscript, the results were the same, <b>no agreement</b>.  As the author of the study write "if peer review is an attempt to measure the overall quality of research in terms of originality, the appropriateness of the methods used, analysis of data, and justification of the conclusions, then <b>a complete lack of reproducibility is a problem</b>.  These specific assessments should be relatively objective and hence reproducible."  The assessments should be reproducible, but they're not.  <b>When one professor said "accept for publication," the other said "reject," when one reviewer said "high priority for publication," the other said "low priority."</b>
+
+<b>Points to consider:</b>
+1. In this study, the analysts were professors who were selected for their expertise in the subject of the manuscript. These professors possess a much higher level of expertise in the research subject relative to even the most experienced moderators and interviewers analyzing qualitative customer data, or the most experienced human resource managers analyzing candidate data.  So, if these highly trained experts failed to show consistent processing of qualitative data, what are the chances that the less trained professionals and layman will show consistent analysis of their data?
+
+2. The criteria in this study were whether the research reported in the manuscript is original, uses appropriate methods, correctly analyzes the data, and properly justifies the conclusions.  As the authors of the study say, these criteria are regarded relatively <b>objective</b>.  Unlike this study, the great majority of qualitative studies involve <b>subjective</b> criteria such as tastes, morals, values, or preferences.  If the professors failed to consistently apply objective criteria when evaluating the manuscripts, how can the less trained professionals and layman be trusted to consistently apply subjective criteria when evaluating qualitative data?
+
+3. In this study, pairs of professors assigned different values to the same manuscript.  Who is right?  After all this is science and both cannot be right.  Now, if such great experts failed to convince us that they can process a qualitative dataset correctly, or at least consistently, how can we trust professionals or layman when they say that they can?
+
+<b>Summary:</b>
+The first stage of most decision making in business is gathering data.  In most cases the information is collected in the form of words.  Once the words are available, the professionals who gather the data perform an analysis of these words, and present the results to the decision maker.  As the study by Rothwell and Martyn suggests, these professionals, most frequently, will fail in their analysis of qualitative data, and produce results which will prevent the decision maker from making the right decision.
+
+

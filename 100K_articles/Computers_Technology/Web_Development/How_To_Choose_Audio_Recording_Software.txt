@@ -1,0 +1,60 @@
+Title: 
+How To Choose Audio Recording Software
+
+Word Count:
+312
+
+Summary:
+The question: "What features should I look for when choosing audio recording software?"
+The answer: "It depends on what you want to record."
+
+There are many low cost recording programs available that can be used to record from existing media (tape, cd's, vinyl lp's) or from radio and internet broadcasts. Even these low priced software programs have editing features and native effects that can be applied to the recording.
+
+Live recording is best accomplished by using mult...
+
+
+Keywords:
+audio,music,recording,mixing,software
+
+
+Article Body:
+The question: "What features should I look for when choosing audio recording software?"
+The answer: "It depends on what you want to record."
+
+There are many low cost recording programs available that can be used to record from existing media (tape, cd's, vinyl lp's) or from radio and internet broadcasts. Even these low priced software programs have editing features and native effects that can be applied to the recording.
+
+Live recording is best accomplished by using multitrack recording/editing software that incorporates tools and effects suitable for application to live voices and instruments, one of the most important being compression. Compression is essential to level the extremes in volume that inevitably occur in live recording.
+
+Several features/capabilities should be considered when choosing software for live music recording (listed below).
+
+Required features:
+
+1. Recording - record multiple stereo tracks
+
+2. Editing - edit a track's waveform
+
+3. Mixing - mix multiple tracks into one stereo track
+
+4. Effects - native (built-in) effects such as delay, reverb, fade in, fade out, flanger, compressor and various high/low filters
+
+5. File conversion - convert to/from the most popular music formats such as wav, wma, mp3
+
+Additional useful features:
+
+6. Plug-ins - accepts 3rd party software plug-in effects and tools
+
+7. Ripping - pull individual tracks from music cd's
+
+8. Burning - copy recorded tracks to cd audio
+
+Optional features (depending on need):
+
+9. Midi - record midi instruments (midi keyboards, synthesizers, guitars)
+
+10. Video - synchronize audio with video files
+
+So, in conclusion, if you are recording music to computer from pre-recorded media, you can certainly get by with software on the low end of the price spectrum. But, if you want to create professional sounding mixes from live music, you'll need the higher level of sophistication available in a quality multitrack recording program.
+
+Cost shouldn't be an issue in the choice as the difference in price between the low end software package and a quality multitrack program can be as little as $10 - $20.
+
+

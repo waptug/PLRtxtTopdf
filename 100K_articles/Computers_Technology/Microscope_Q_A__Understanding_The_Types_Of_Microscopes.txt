@@ -1,0 +1,74 @@
+Title: 
+Microscope Q&A: Understanding The Types Of Microscopes
+
+Word Count:
+595
+
+Summary:
+* What are Compound Microscopes?
+
+A Compound Microscope is a microscope that consists essentially of two or more double convex lenses fixed in the two extremities of a hollow cylinder.
+
+The upper lens is the eyepiece and the lower lines in the objective. The cylinder is mounted upright on a screw device that permits it to be raised or lowered until the object is in focus and until a clear image is formed.
+
+When an object is in focus, a real inverted image is formed by t...
+
+
+Keywords:
+microscope,compound microscope,stereo microscope,microscopy,magnification,confocal,confocal software
+
+
+Article Body:
+* What are Compound Microscopes?
+
+A Compound Microscope is a microscope that consists essentially of two or more double convex lenses fixed in the two extremities of a hollow cylinder.
+
+The upper lens is the eyepiece and the lower lines in the objective. The cylinder is mounted upright on a screw device that permits it to be raised or lowered until the object is in focus and until a clear image is formed.
+
+When an object is in focus, a real inverted image is formed by the lower lens at a point inside the principal focus of the upper lens. This image serves as an object for the upper lens that produces another image larger still and visible to the eye of the observer.
+
+
+* What are Stereo Microscopes?
+
+A Stereo Microscope is a lower powered microscope instrument that features a large stage for closer viewing of the non-microscopic world. This microscope makes tiny objects gigantic. It is known as a dissecting microscope.
+
+With stereo microscopes, tiny things became large, in layman’s terms, the flaws in gemstones and coins become obvious. There are inexpensive models that are available for children and students. The stereo microscopes provides zoom, improved optics and enhanced lighting that meet the demand of professional use.
+
+
+* What are Electron Microscopes?
+
+Electron Microscopes are those microscopes that use electrons rather than visible light to produce images. Electron microscopes can magnify very small detail with high resolving power.
+
+This was invented by a German physicist Ernst Ruska. After Ruska introduced his invention to the world, the electron microscopes have evolved into something that is very distinct and advanced as a vital tool in the medical world today.
+
+
+* What are Digital Microscopes?
+
+The Digital Microscope is the newest innovation of microscopy that uses a digital camera in imaging. It utilizes USB technology to produce live image viewable on a computer monitor.
+
+It makes use of an inverted lens design so specimens of variable sizes and shapes can be viewed with little or no preparation and a rotatable lamp that enables the illumination of opaque specimens by reflected light.
+
+
+* What are Video Microscopes?
+
+A Video Microscope is like a digital microscope. It is being powered through the use of video and digital cameras with many features that are specifically designed to suit microscopy.
+
+The video and cameras used in video microscopes offer high resolutions coupled with high sensitivity. All are designed for broad range of imaging applications. They are designed to excel at rapid acquisition of low-light level fluorescence images.
+
+
+* What are Scanning Tunnelling Microscopes?
+
+Scanning Tunnelling Microscopes are instruments used in scanning probe microscopy. It can view very small images of any conductive surface and can inspect an area as small as 2 x 10-10 m or 0.2 nanometer.
+
+Using its tip, it can alter the material being investigated by manipulating its atoms. This tip is connected to a scanner, a positioning device then a computer where the data is transmitted.
+
+The scanning tunnelling microscope allows a scientist to visualize areas of high electron density, consequently letting them understand the position of individual atoms, where before most could only give an educated guess.
+
+
+* What is Confocal Microscopy?
+
+Confocal Microscopy is a great tool used to get high-resolution images and restructured to create a 3 dimensional image of the scanned object. They are able to provide smooth and clear smudge free images with different depths then reconstructed to give an in-depth picture.
+
+A computer is used in this process allowing for a faster and easier image production. The use of lasers in later models allowed for it to be extremely accurate.
+
+

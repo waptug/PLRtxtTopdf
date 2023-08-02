@@ -1,0 +1,46 @@
+Title: 
+Sudoku – Mind Games At Their Best?
+
+Word Count:
+309
+
+Summary:
+Sudoku is a logic based puzzle, somewhat similar to a crossword puzzle, except it uses digits instead of words. The name Sudoku is an abbreviation of a Japanese phrase which means “the digits must remain single”. It is also sometimes called Number Place or Nampure.
+
+The history of Sudoku
+
+You can find predecessors of Sudoku as early as 1895, when an early version or variant of Sudoku appeared in a French newspaper.
+
+The game now known as Sudoku was not invented until 19...
+
+
+Keywords:
+sudoku,puzzle,game
+
+
+Article Body:
+Sudoku is a logic based puzzle, somewhat similar to a crossword puzzle, except it uses digits instead of words. The name Sudoku is an abbreviation of a Japanese phrase which means “the digits must remain single”. It is also sometimes called Number Place or Nampure.
+
+The history of Sudoku
+
+You can find predecessors of Sudoku as early as 1895, when an early version or variant of Sudoku appeared in a French newspaper.
+
+The game now known as Sudoku was not invented until 1979, however, and was actually invented in Indianapolis, not Japan. Sudoku became widely popular in 1986, when the Japanese puzzle publisher Nikoli found and published the puzzle.
+
+The game of Sudoku
+
+Sudoku is based on a graph of squares, nine squares by nine squares. This graph is sub-divided into 9 3x3 squares or regions. The board looks much like 9 tic tac toe games all together.
+
+The game is played by placing digits (1-9) in the squares on the game. Easy enough. The tough part is that each region (3x3 square, each diagonal row, each horizontal row, and each vertical row of squares must contain one of each of the nine digits, but may not have duplicates.
+
+Each Sudoku game has some of the fields pre populated with numerals, called givens or clues. The difficulty is not necessarily related to how many fields are populated, though.
+
+Difficulty
+
+Sudoku is a very simple game in it's construction, but it can require some serious brain effort and skill to solve. Publishers often rank games according to difficulty, using 4-5 levels to organize games by their difficulty.
+
+Accessibility
+
+Sudoku puzzles are published in many newspapers and magazines around the world. They are also available in print form, and as computer games. Probably the easiest way to get them, though, is from a website that features free Sudoku puzzles. Many websites can also generate custom puzzles for free.
+
+

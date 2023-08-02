@@ -1,0 +1,58 @@
+Title: 
+Home Computer Repair – Do It Yourself?
+
+Word Count:
+1561
+
+Summary:
+Home computer repair is not brain surgery! Most computer repairs can be broken down into two specific areas, software and hardware. Now I do admit that in some people’s hand, a screwdriver can be a dangerous object. But if you can change a light bulb without shocking yourself, I’d bet you could swap out a computer part. Software gets a little trickier but is still within the grasp of most computer users.
+
+I’ve been involved in computer repair in one way or another for over ...
+
+
+Keywords:
+home computer repair
+
+
+Article Body:
+Home computer repair is not brain surgery! Most computer repairs can be broken down into two specific areas, software and hardware. Now I do admit that in some people’s hand, a screwdriver can be a dangerous object. But if you can change a light bulb without shocking yourself, I’d bet you could swap out a computer part. Software gets a little trickier but is still within the grasp of most computer users.
+
+I’ve been involved in computer repair in one way or another for over 25 years. The three major repairs I get called for on a weekly basis are:
+
+Spyware/Malware Issues
+Hardware failure (power supplies, hard drives, and ram usually)
+Computer boot problems (lost password, toasted OS, hardware failure)
+
+All of these can be quite a challenge depending on the value and risk of losing important data, which can be anything from tax records to photos. Any computer can be repaired; it just depends on time and budget. But not all data can be rescued. If a hard drive suffers a catastrophic hardware failure, data recovery is doubtful (unless you want spend 100’s if not 1000’s of dollars for special services).
+
+So the best scenario in any home computer repair solution is have a good backup of your important data before you start any repair. I never work on anything for over an hour without immediately backing it up on another media (USB thumb drives are only about $30 for up to 5 gigs of storage and CD or DVD prices are under a buck). I learned the hard way very early in my computer using experience. It’s much easier to deal with any home computer repair if you don’t have to worry about important data. *Please, backup your data right after you finish this article and start doing it on regular basis.
+
+When you have a secure backup, the home computer repair is a matter of a little investigative work (to determine the real issue – sometimes Windows will point you in the wrong direction) and coming up with a good solution. Let’s look at the best way to prevent each of the three most common computer repairs and if you already have the problem, some possible solutions.
+
+Spyware/Malware – Two good preventive measures to eliminate Spyware and Malware is to keep your OS (normally Windows) up to date on security patches from your friends at Microsoft. This is pretty easy to do if you turn on Automatic Updating in your Security Center (go to Control Panel, click on Security Center, then check that Automatic Updates is turned on). The other is to make sure you have a good Anti-Virus software installed and it gets updated automatically. These two programs give you about a 93% solution.
+
+Another 5% can be addressed with Anti-Spyware software such as Windows Defender (free from Microsoft, just do a search for it on your choice of Search Engine) or Spybot, a free program from www.spybot.info that does a good job too. Where’s the last 2%, well there is no 100% solution I’m sorry to say. Although common sense on where you surf, what email you open, and where you click can generally keep you safe.
+
+What if you are already infected? Well, there are manual ways of removing Spyware/Malware programs but they aren’t pretty and involve a whole lot of searching around and rebooting in safe mode. If you search on the offender (normally most have a common problem) you can find a manual solution. If you would rather skip all that hassle, the most effective commercial program I’ve seen is SpySweeper. Last time I looked it was only $30 per year and could save you a lot of time and pain. You can find it here: www.webroot.com
+
+Hardware Failure – OK, not a lot of prevention available for this home computer repair. Keep in mind that most modern computer components have a 3-5 year mean failure rate. Depending on how much you use or leave your computer on each day, this time period can expand. I have several testing computers that are very old (plus 7 years) that don’t get used often.
+
+But one point I do want to make is that almost every customer I call on for a hardware failure issues had warning signs before the final crash. Strange noises, computer freezing up, frequent re-starts, etc. are causes for alarm. Don’t wait until the computer literally dies, if any of these events start occurring, go to the proactive mode and replace the power supply, hard drive, or ram. Which one? That’s a challenge, I’ve found that some diagnostic programs can be helpful, but a lot of the time it’s experience.
+
+Basic rules of thumb; Freezing, rebooting can be both flaky power supply and RAM going bad. Power supplies slowly loose ability to supply enough wattage, so if you run fine for the first 30 minutes that’s another tip it could be the power supply. RAM just gets flaky due to constant heating and cooling. It will usually start dying slowly too. Both are cheap to replace but the power supply has anywhere from 8 to 10 plugs you get to keep an eye on when changing out. Any power supply above 250 watt will be fine for most computers, 300 watt is better. Match the power supply or RAM exactly or look up the motherboard requirements if you want to jump up in speed or wattage.
+
+On hard drives, boot failure with the message “no operating system” or similar is almost always a controller or hard drive (some hard drives have controllers on them that go south too). When you go to save or copy files and get an error can also indicate a hard drive issue. Noises of any kind coming from your computer can only be the power supply fan or hard drive. Sometimes you can low level format a drive and bring it back but with the cost being so low on new hard drives, why take a chance.
+
+Boot Up Problems – Number one offender is Windows of any flavor. All versions use a “registry” to manage all software, user, and hardware settings. This is just a fancy database of settings but can easily destroy itself. Open files don’t close properly when there’s a software problem and there goes the database integrity. When you go to reboot, the registry is not readable or flat gone. In Windows XP, there are several files involved in the “hive” (5 to be exact). Any one of these can toast itself, but I always replace all five since they are so interdependent on settings.
+
+The easiest fix, if you can access the Recovery Console, is to find a usable set of back up files and copy them to the current area of access. This sounds pretty simple but the directory structure is fairly long and you have to unhide the backup locations. If you go to Microsoft’s knowledge base here you can read all about the Recovery Console and how to replace registry files: http://support.microsoft.com/search/?adv=1 .
+
+You can run the Recovery Console from Windows XP if it is installed or from your install CD if not. But what if you don’t have an install CD (many computers manufacturers don’t provide one anymore)? You can always use a bootable CD with an NTFS write enabled OS (like Linux) and do the same copying of files recommended in the Recover Console information. If that sounds too scary, you can always borrow some friends Windows XP install CD of the same flavor (Home or Pro) to use Recovery Console. OK, no friends have an install CD and no access or desire to Linux CD, now what?
+
+Well, plan B is to take your hard drive out of the computer, change the little connector on the back of the hard drive to slave (most hard drives have instructions right on the case to show how), and connect it to a working Windows XP computer. Now you have access to the drive with an NTFS write enabled OS. Go back to the instructions on Recovery Console fix and get after it.
+
+If the hard drive won’t even light up or spin, well then you get to install a new one. Most of the new units have a CD that will handle all the details of adding the new hard drive. Then you get to use your Recovery CDs from the manufacturer to install the all the original software on the new hard drive. Don’t have the restore disks? Check with the computer manufacturer and they’ll sell you a set for under $20 usually. Make sure you give the exact model number to get the right software for your unit. Whenever I buy a new computer, if I don’t get a set of recovery CDs, I order them right then and there. That way I’m ready for what ever happens.
+
+So, now you have the basics on home computer repair for the three most common problems. It’s not that hard for most people, just take it slow and read the instructions. Push comes to shove, find a friend who may have a little more experience to help. You buy the pizza and they provide a little experience and moral support.
+
+

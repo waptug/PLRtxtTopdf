@@ -1,0 +1,42 @@
+Title: 
+Why Every Company Needs A Fax Server
+
+Word Count:
+641
+
+Summary:
+Fax servers will benefit every company by increasing productivity, minimizing consumable costs, improving customer relationships and much more.
+
+
+Keywords:
+document imaging,fax automation,fax server
+
+
+Article Body:
+Every day more and more businesses of all sizes and types are developing or refining their strategy to transmit, store and retrieve their business documents electronically. And while the majority of all electronic document transmission is primarily conducted via email, or downloaded from the internet, smart organizations realize a critical part of this strategy also involves the handling of their inbound and outbound fax traffic.  
+
+<b>Every company needs a fax server for the following reasons:</b>
+
+1. Competitive necessity. The faster business documents transmitted by fax, either sent or received, reach the proper destination the higher probability of increased organizational efficiency.
+
+2. Increase employee productivity. Fax Servers allow users to send/receive faxes from their computers without leaving their desks. These faxes can be sent either from thin, thick or internet based fax client (Microsoft Internet Explorer) or email application such as MS Outlook/Exchange, Lotus Notes, Novell Groupwise. The most common operating systems used are Microsoft Windows XP and Microsoft Windows 2000.
+
+3. Minimize consumable costs such as paper, toner. The typical fax transaction first requires the document to be printed to a printer and delivered to a fax machine via sneaker net. Documents that are transmitted via fax server start electronically as word processing documents and end electronically as digital images at the recipients’ destination.
+
+4. Documents transmitted via fax server are recognized as legal documents in a court of law. Once a document has been transmitted by fax, information about the fax transmission is recorded during the process, including date/time of transaction, duration and total # of pages.
+
+5. Improve Customer Relationships and Find New Opportunities. Fax documents are always read or at least perused. If the information on the fax properly addressed to a particular recipient or addresses an immediate business need, there is a good probability of some sort of response. Many fax savvy organizations use fax for newsletters, press releases, billing, product announcements and expedited contract delivery.
+
+Try the following: Go into your existing customer database and choose an existing client. Send a fax concerning a new product release or update directly to his or her attention. In addition, within the fax, provide multiple methods of return correspondence i.e. email, website, telephone and a deadline for response. Chances are you will receive some level of response faster than email!
+
+6. Email Alternative. While sending emails is extremely reliable and common practice, it has its draw backs when dealing with loan applications, purchase orders and signed contracts. Business conducted with these types of documents typically occurs via fax machine or fax server.
+
+<i>Technically, what do Fax Servers do?</i>
+
+Fax Servers compliment all business units in one form or another. They convert documents from their native format into Black and White Tiff G3 or DCX format. These tiff documents are then sent over the PSTN (Public Switched Telephone Network) or IP (Internet Protocol). Fax Servers can integrate into any application, Email system, ERP, CRM or operating system in the world. They can interrogate raw text from any AS400 or Host based output system and convert it into a legible formatted document (either PDF or Tiff). Some Fax Servers can also send email, act as middleware, fax enable websites, operate as a back office application or be used in an ASP service bureau model. 
+
+<b>Summary</b>
+
+Fax Server technology has been around since the late 1980’s. Even though all fax servers are not created equal, there are fax servers available for every platform i.e. Microsoft Windows, Unix, Linux. The most reliable fax servers primarily support intelligent fax cards such as Brooktrout, Eicon, Pika Technologies or Natural Microsystems. Depending on your organizations needs, infrastructure and budget, there is a fax server solution out there for you. If you are entire organization is sending or receiving more than 20 pages of fax per day, ROI cost justification can be 3 months or less.
+
+

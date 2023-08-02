@@ -1,0 +1,25 @@
+How Title and Meta Tags are used for Search Engine Optimization
+
+When it comes to title tags and search engine optimization there are a few question website owners typically ask. Does each individual web page need a different title? Is there a maximum length for title tags? Is there a title tag limit? Are title Meta tags a good idea?
+
+The World Wide Web Consortium requires that every single HTML document must have a title element in the head section. They also state that the title element should be used to identify each individual pages content.
+
+The title tag plays four separate roles on the internet.
+
+The first role the title tag fulfills is what librarians, other webmasters, and directory editors use to link to other websites. A well written title tag is far more likely to get faster reviews then one that is sloppy or incomprehendable.
+
+The title tag is what is displayed on the visitor's browser. By displaying the title tag in the visitors browser the web user knows exactly where they are if they have to return to the site later on. Internet Explorer typically tires to display the first ninety-five characters of the title tag.
+
+Search engines display the title tag as the most important piece of information available to web searchers. 
+
+A good title tag should be able to clearly indicate the webpage's contents to the web user. A clear title tag is more likely to be placed in the user's favorites list. The normal length for a good clear title tag is normally under sixty-five characters long. Title tags should be typed in the title case. Headers should also be typed in the title case.
+
+When it comes to search engine optimization, the home page title is normally the first thing the web crawlers look at when they are ranking a webpage. Your website is introduced by your homepage title.
+It is important to make sure that your title tag sounds credible.
+
+Every single page of your website must have its very own unique title. A Meta tag is a special HTML tag that provides information about a web page. Meta tags do not affect the display of a webpage. Although Meta tags are placed directly into the HTML code, they are invisible to web users.  Search engines use Meta tags to help correctly categorize a page. Meta tags are a critical part of search engine optimization.
+
+It is important to remember that Meta tags are not a magic solution to making your website a raging success. The most valuable feature Meta tags offer to website owners is the ability to control (to a certain degree) how their web pages are described by the search engines. Meta tags can also let website owners prevent having their website indexed at all.  
+
+Meta tag keywords are a way to provide extra test for web crawler based search engines to index. While this is great in theory several of the major search engines have crawlers that ignore the HTML and focus entirely on the body of the webpage.  
+

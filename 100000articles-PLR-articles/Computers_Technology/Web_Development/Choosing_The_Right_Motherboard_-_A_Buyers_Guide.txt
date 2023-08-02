@@ -1,0 +1,30 @@
+Title: 
+Choosing The Right Motherboard - A Buyers Guide
+
+Word Count:
+525
+
+Summary:
+When it comes to choosing the right Motherboard, you may want to start out by finding out exactly what a Motherboard is and what it is for. A motherboard is the main part of your computer, if you have ever opened up your tower or brain, as I like to call it. The motherboard is the large circuit board attached to the case. The motherboard is the brain that helps your hard drive to tell the computer what to do.  All of the main components of your computer are attached to the mo...
+
+
+Keywords:
+computers,motherboards,it,processors,technology
+
+
+Article Body:
+When it comes to choosing the right Motherboard, you may want to start out by finding out exactly what a Motherboard is and what it is for. A motherboard is the main part of your computer, if you have ever opened up your tower or brain, as I like to call it. The motherboard is the large circuit board attached to the case. The motherboard is the brain that helps your hard drive to tell the computer what to do.  All of the main components of your computer are attached to the motherboard. It can also be considered the highway that transfers information from one part of your PC to another. The motherboard is also where the BIOS system is; you know that black screen that shows up when you turn your PC on.  
+
+Now that we have an idea of how important the motherboard is. We can go onto how to choose the right one. When you go to pick out the motherboard, make sure you choose one that is compatible with the hardware you already own, such as your hard drive, CD or DVD drive, floppy drive, processor, audio video cards, or any other external or internal ports. With all of the things I just mentioned and the others to come, I would recommend writing down your computers specifications. 
+
+Remember the two most important parts in any computer is the Processor and Motherboard. Some recommend buying your processor first, I personally shop for the motherboard first. One main reason is that processors can be bought at a variety of places while the motherboard depending on manufacturer cannot. So once you know what features you need or want on your PC, you can begin looking at the Motherboards. You want to be sure your motherboard has one of the following socket sizes for the processor, as these are the newest and most common. The socket sizes are 754, 775, 939, and 940.     
+
+Another bit of advice is reading the manual for the motherboards you are looking at.  Many manufacturers have downloadable manuals online. Another tip is to check the power supply, having the wrong type can seriously cause major damage.  Make sure the memory modules you are planning to use have the right pin number; the pin is the part of the module that attaches it to the motherboard. Some computers built before 2000 use SDRAM, however newer ones use DDR or even DDRII. This is not interchangeable and I would recommend that you upgrade to a newer motherboard, as the older memory will not run as fast. Also remember that your memory may not be able to handle the motherboard and processor upgrade, so you need to consider that when upgrading.
+
+Another factor to consider is your graphics card; this will determine what programs and games you can use. Many newer games now require a minimum 128 MB or more.  The hard disks on your computer are the Hard Drive, Floppy or Zip Drives, and CD or DVD ROMs.   
+
+Now that you have the basics on choosing your next or first motherboard, you might want to check out some of these top manufacturers, MSI, FOXCONN and ASROCK. 
+
+Harry Love
+
+

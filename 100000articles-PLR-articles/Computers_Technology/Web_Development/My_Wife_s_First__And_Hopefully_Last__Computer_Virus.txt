@@ -1,0 +1,28 @@
+Title: 
+My Wife’s First (And Hopefully Last) Computer Virus
+
+Word Count:
+545
+
+Summary:
+My wife came home from work the other day very upset. She works for a bank in the mortgage Department and they had given her a laptop for her use at work. Someone had sent her an e-mail that had an interesting sounding attachment, so she opened it. It wasn't long before things started to go wrong with her computer. Not only were there multiple pop-ups that were taking place all of the time but her computer had slowed to a crawl. It seems that there were so many viruses and sp...
+
+
+Keywords:
+computer security,spyware
+
+
+Article Body:
+My wife came home from work the other day very upset. She works for a bank in the mortgage Department and they had given her a laptop for her use at work. Someone had sent her an e-mail that had an interesting sounding attachment, so she opened it. It wasn't long before things started to go wrong with her computer. Not only were there multiple pop-ups that were taking place all of the time but her computer had slowed to a crawl. It seems that there were so many viruses and spyware programs running on her computer that it simply could not keep up with the load. All of this happened because of one Trojan horse virus that was opened on her computer that allowed all of these other things to happen.
+
+If it wasn't bad enough that she had the pop ups, they soon begin to become embarrassing. Not only were they trying to sell her things, but many of the pop-ups were simply obscene material and pornographic advertisements. This certainly did not look good coming across on her computer all of the time, especially when she was dealing with mortgage clients. She was practically in tears by the time she had come home to ask me if there was anything that I could do.
+
+The first thing that I did was to try to identify what they pop-up windows were and where they were originating from. It turns out that the particular spyware program on her computer was of the “Trojan Horse” variety, and was actually one of the more difficult ones to remove. Not only that, but the virus had really taken over a lot of her computer. We both feared that there was some keystroke logging going on in the background. I needed to get this computer clean from the Trojan horse virus and get it cleaned quickly.
+
+Because it was a computer that was associated with a bank I needed to get permission from their network guy to be able to log on to the internet from home. It turns out that most of the critical programs were actually run from a central server so there was not a problem with my doing that. I ran a free program called Hijack This and posted the results to one of the many technical forums on the internet. (I trusted this particular forum, so I did not have any real concerns about privacy.)
+
+The technical forum gave me step-by-step instructions on how to clean the system from the Trojan horse virus and all of the spyware that it allowed to enter onto her computer. It took me several hours and I needed to go in and edit system files and the registry but I was finally able to win out over the virus and her computer was now clean.
+
+It doesn't matter where an e-mail is coming from. It could come from your mother or someone else that you know and trust very much. If a Trojan horse virus is propagating on their system and sending itself out to others you will likely be a target of this virus as well. Never open anything that you are unsure of, and even if you are sure, run a virus scan on it first.
+
+

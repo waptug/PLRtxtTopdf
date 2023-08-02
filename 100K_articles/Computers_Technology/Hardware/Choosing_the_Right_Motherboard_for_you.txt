@@ -1,0 +1,29 @@
+Title: 
+Choosing the Right Motherboard for you
+
+Word Count:
+340
+
+Summary:
+The motherboard is the heart of any computer. It is that big flat board inside the computer that everything is connected to. It performs the role directing information and connecting components.  A motherboard is often overlooked when choosing components.  This is a scary thought as the motherboard determines system performance as much as every other component.
+
+
+Keywords:
+motherboard, computer
+
+
+Article Body:
+The motherboard is the heart of any computer. It is that big flat board inside the computer that everything is connected to. It performs the role directing information and connecting components.  A motherboard is often overlooked when choosing components.  This is a scary thought as the motherboard determines system performance as much as every other component.
+
+Choosing the right motherboard does not have to be a problem, even though there is a lot to consider. We will start off with the larger parts and move onto the things that are less essential.
+
+Firstly is the socket type.  The socket is  where the processor (CPU) connects to the motherboard. There is no compatiblility between sockets, so it has to be the right one. The socket connection needs to match the connection of the processor you have or the one you intend to buy for the computer.
+Most older Intel Pentium 4s utilize socket 478. Newer ones use socket 775. AMD chips utilised socket A for a long time, but now the AMD Athlon 64 series and Semprons use socket 939. Just check with someone as to what yours or your intended one will have.
+
+Your choice of chip will have a lot to do with your needs, but choosing one with an up to date socket type will ensure slightly longer motherboard life as you can upgrade the chip for a while.
+
+DDR is the RAM of choice for most systems, but some newer systems, which includes all Pentiums with socket 775 use DDR2. These two kinds are not interchangable and have a different number of pins. Both DDR and DDR2 come in different speed ratings measured in MHz. DDR has a usual 400MHz denoted as DDR400 or PC3200, while DDR2 can go a little higher and comes in slightly faster speeds. Just make it match what the board needs.
+
+A motherboard must be chosen carefully, to both match all the other components and fit in the case you choose.  A little bit of research before you buy will save a lot of hassle later on.
+
+

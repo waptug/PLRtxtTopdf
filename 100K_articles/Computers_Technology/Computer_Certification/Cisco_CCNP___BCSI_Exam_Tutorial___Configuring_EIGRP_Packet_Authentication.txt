@@ -1,0 +1,80 @@
+Title: 
+Cisco CCNP / BCSI Exam Tutorial:  Configuring EIGRP Packet Authentication
+
+Word Count:
+439
+
+Summary:
+Knowing how to configure and troubleshoot EIGRP authentication is a vital BSCI and CCNP exam skill.  Learn how to perform this tricky configuration from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccnp, bsci, exam, pass, free, eigrp, packet, authentication, configure, interface, key, chain, cisco, tutorial, Bryant, advantage, 12933
+
+
+Article Body:
+Configuring RIPv2 and EIGRP authentication with key chains can be tricky at first, and the syntax isn't exactly easy to remember. But for BSCI and CCNP exam success, we've got to be able to perform this task.
+
+In a previous tutorial, we saw how to configure RIPv2 packet authentication, with both clear-text and MD5 authentication schemes. EIGRP authentication is much the same, and has the text and MD5 authentication options as well. But EIGRP being EIGRP, the command just has to be a little more detailed!
+
+As with RIPv2, the authentication mode must be agreed upon by the EIGRP neighbors. If one router's interface is configured for MD5 authentication and the remote router's interface is configured for text authentication, the adjacency will fail even if the two interfaces in question are configured to use the same password.
+
+We'll now configure link authentication on the adjacency over an Ethernet segment. Below, you'll see how to configure a key chain called EIGRP on both routers, use key number 1, and use the key-string BSCI. Run show key chain on a router to see all key chains.
+
+R2(config)#key chain EIGRP
+
+R2(config-keychain)#key 1
+
+R2(config-keychain-key)#key-string BSCI
+
+
+R2#show key chain
+
+
+Key-chain EIGRP:
+
+key 1 -- text "BSCI"
+
+accept lifetime (always valid) - (always valid) [valid now]
+
+send lifetime (always valid) - (always valid) [valid now]
+
+R3(config)#key chain EIGRP
+
+R3(config-keychain)#key 1
+
+R3(config-keychain-key)#key-string BSCI
+
+
+R3#show key chain
+
+
+Key-chain EIGRP:
+
+key 1 -- text "BSCI"
+
+accept lifetime (always valid) - (always valid) [valid now]
+
+send lifetime (always valid) - (always valid) [valid now]
+
+The EIGRP command to apply the key chain is a bit of a pain to remember, because the protocol and AS number is identified in the middle of the command, not the beginning. Also note that two commands are needed - one to name the key chain, another to define the authentication mode in use.
+
+R2(config)#interface ethernet0
+
+R2(config-if)#ip authentication key-chain eigrp 100 EIGRP
+
+R2(config-if)#ip authentication mode eigrp 100 md5
+
+5d07h: %DUAL-5-NBRCHANGE: IP-EIGRP 100: Neighbor 172.12.23.3 (Ethernet0) is down: keychain changed
+
+R3(config)#interface ethernet0
+
+R3(config-if)#ip authentication key-chain eigrp 100 EIGRP
+
+R3(config-if)#ip authentication mode eigrp 100 md5
+
+5d07h: %DUAL-5-NBRCHANGE: IP-EIGRP 100: Neighbor 172.12.23.2 (Ethernet0) is up:
+
+As with RIPv2, the existing adjacency was torn down when one side was configured with authentication. If the key chain is correctly defined and applied on both sides, the adjacency will come back up. Always run show ip eigrp neighbor to make sure the adjacency is present. Learn the details of EIGRP key chains by configuring them on your home lab equipment, and you'll be more than ready for BSCI exam success!
+
+

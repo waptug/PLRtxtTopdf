@@ -1,0 +1,34 @@
+Title: 
+What is S/PDIF?
+
+Word Count:
+429
+
+Summary:
+S/PDIF is a type of data link layer and physical layer for the transfer of digital audio signals between multiple devices or stereo components.
+
+
+Keywords:
+S/PDIF
+
+
+Article Body:
+S/PDIF is a type of data link layer and physical layer for the transfer of digital audio signals between multiple devices or stereo components. S/PDIF is an acronym for Sony / Philips Digital Interconnect Format or Sony Philips Digital Interface. As described in the acronym, the S/PDIF format was developed during joint operations between Sony and Philips. It is a minor modification of the AES/EBU (Audio Engineering Society / European Broadcasting Union) specification from 1985. However, unlike the AES/EBU, the S/PDIF format was developed specifically for home, consumer use, as it requires hardware that is not as expensive as those required by the AES/EBU model.
+
+What is S/PDIF used for?
+
+S/PDIF is used to transfer digital audio to a variety of home audio equipment. Common devices that can take advantage of the S/PDIF format include: DVD players, computer sound cards, CD players, and receivers. The most common connection is made between a DVD player and a receiver for high quality Dolby Digital or DTS surround sound. However, it is also fairly common to connect a CD player to a receiver using the S/PDIF cables as well.
+
+What are the differences between the AES/EBU standard and S/PDIF?
+
+The AES/EBU standard provided the building blocks for what would become S/PDIF. The two formats differ in their use of cabling, connectors, signal level, subcode information, and maximum resolution. However, both formats use biphase mark code for modulation.
+
+The AES/EBU format uses a more robust 110 ohm shielded cable while the S/PDIF format uses a more consumer friendly 75 ohm coaxial cable or fiber cable. AES/EBU can also use a 75 ohm coaxial cable as well. The AES/EBU format can take advantage of XLR, D-sub, or BNC connectors while the S/PDIF format uses RCA, BNC, or TOSLINK connectors.
+
+The signal level found with the AES/EBU specification ranges from 3 to 10 volts while the S/PDIF signal level ranges from 0.5 to 1 volt. Subcode information is provided via ASCII ID text for AES/EBU while subcode information is provided via SCMS for S/PDIF. Furthermore, the max resolution for AES/EBU is 24 bits while the S/PDIF format provides a max resolution of only 20 bits.
+
+What are the other specifications for S/PDIF?
+
+The most common digital signal transfer frequency over S/PDIF is 48 kHz for DAT (Digital Audio Tape) or 44.1 kHz for CD quality audio. There is no defined data rate for S/PDIF, which uses Biphase mark code instead that allows for one or two transitions for every bit.
+
+

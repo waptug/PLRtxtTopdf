@@ -1,0 +1,22 @@
+Title: 
+Virus Alertness Tricks
+
+Word Count:
+476
+
+Summary:
+When talking about computer virus protection, anti-virus software, and firewalls, it is important to stress that no virus protection system is foolproof. Even top security computer systems have been infiltrated time and again by hackers and computer criminals simply by programming a virus. Files have been deleted, accounts and identities have been stolen, and confidential files have been accessed by these hackers. This is not to say that anti-virus softwares are useless, but ...
+
+
+Keywords:
+computer virus protection, anti-virus software
+
+
+Article Body:
+When talking about computer virus protection, anti-virus software, and firewalls, it is important to stress that no virus protection system is foolproof. Even top security computer systems have been infiltrated time and again by hackers and computer criminals simply by programming a virus. Files have been deleted, accounts and identities have been stolen, and confidential files have been accessed by these hackers. This is not to say that anti-virus softwares are useless, but to point out that these programs work and perform better with the users' assistance.
+
+Computer viruses are programs that reproduce themselves and infect files and disks. They are spread and transmitted whenever files, disks, or programs are exchanged. Email attachments from known people, like your friends, professors, colleagues, or even your boss, can be virus-laden. The senders themselves may not even be aware that they're sending you a virus. Computer virus protection, anti-virus software, and firewalls are developed to help you identify the viruses, the infected part of your system, and the process by which the virus can be contained. But as pointed out before, they need your assistance. New programs are developed regularly, and aside from these, there are also new technologies put in use. With the improvements in technology, it is naive and erroneous to assume that viruses remain as they are. They are constantly changing, becoming more sophisticated and harder to detect. Most advanced viruses aren't detected until they have brought down and controlled entire systems. Hence, the first trick of virus protection is to subscribe to a reputable anti-virus software. Free software can detect and quarantine simple worms and viruses, but they would be hard-pressed to detect the more sophisticated kinds. Subscription requires minimal fees compared to the degree of protection your computer receives. This is especially advisable to companies and large businesses where several computers are joined in a network. Computers for home use and ones that aren't used for storing sensitive data can do just fine with free downloadable software.
+
+Subscription automatically causes your computer virus protection, anti-virus software, and firewall security to update whenever it is possible. This is an advantage because you can keep up with the rapid sophistication of new viruses. The more updated your software is, the more efficient it is in catching the virus. Free software must be updated or replaced with new versions regularly. It is best to update your software whenever your software site alerts you of newer versions. Aside from these tricks, doing virus scans on files, disks, software disks, programs, and other applications must be second nature to you before opening or downloading. Keep back-up files of the data and files in your computer in case a virus caused them to be deleted. Regular rebooting and "clean up" of your system also minimize susceptibility to viruses. Computer virus protection and anti-virus softwares optimize their performance with your help.
+
+

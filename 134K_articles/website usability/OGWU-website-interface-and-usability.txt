@@ -1,0 +1,44 @@
+Website Interface And Usability
+
+Usability study normally precedes the interface and technical design of the website construction process, which involves establishment of complete user profiles, creation of the interface model or sample and extensive user testing. 
+
+The ideal web interface design demands for organized approach in the designing process. However, to guarantee optimal performance, web usability testing is needed. This domain testing allows inexperienced users to supply data regarding what really is working, as have been expected and then what is not working. Only as soon as the subsequent repairs are constructed and done can a website be considered to achieve optimized user interface.
+
+This procedure, though in several cases takes a few repetitions, provide the necessary and important information and evidence for the finished web interface functionality and design, resulting in a website interface that conveys clear messages to visitors, regarding where they actually are, easily predict what is about to happen as well as where buttons will take them and what they need to do to accomplish their goals. The ease and simplicity of all these activity is what defines a usable website.
+
+The experience of the user is the main factor to acceptance; this is where interface design comes in the designing process. Whereas product engineers give emphasis on technology, specialists in website usability concentrate on user interface. 
+
+The significance of a great interface user design is the driving force of a product’s acceptance or rejection. 
+
+If visitors have hard time learning and using, a complicated website, even an excellent product can fail. Interface design must make your product simple to use and understand, so that it results to user acceptance.
+
+Here are guidelines for creating website usability:
+
+•	System status. Your system must always update users regarding what is happening, through correct feedback within a reasonable time. 
+
+•	Simple words. Make sure that your website speaks the language of your visitors, having phrases or words familiar to them.  Construct information that appears in a most natural tone and in consistent order. 
+
+•	User freedom and control. Note that internet users at times encounter mistakes in system functions and need an "emergency exit" in order to easily leave that undesirable situation. Support in your system “undo and redo”. 
+
+•	Consistency. Visitors must not need to question whether different situations, words or actions represent the similar things. Follow platform principles or guidelines. 
+
+•	Retrievable instructions.  Making actions, options and objects visible and easily retrievable. Your visitors do not need to remember certain information from a particular part of a dialogue “to another”. 
+
+•	Efficiency and flexibility of use.   Use accelerators to speed up interaction between experts and the system.  Construct it in such manner you’re your system is able to cater both the experienced and inexperienced users. Permit users to customize frequent actions. 
+
+•	Users help.  Display error messages in plain and simple language that accurately indicate what the problem is and then propose a solution.
+
+User interface and design principles:
+
+1.  Structure. Your web design must establish user interface persistently, in useful and meaningful ways that are based on consistent and clear models easily recognizable; put all related and similar things together. 
+
+2.  Simplicity. Design your website simply, making common tasks easy to do, clearly communicating in the language of the user, and providing shortcuts that meaningfully are related to those longer procedures. 
+
+3.  Visibility. Design your website that it keeps all materials and options visible without disrupting your visitors with redundant or extraneous information. Never overwhelm your visitors with too much alternatives.
+
+4.  Feedback. Your design must keep your visitors well informed of certain actions, changes of condition, errors or certain exceptions which are of interest and relevant to them through concise and clear language. 
+
+5.  Tolerance. Your design must be tolerant at the same time flexible, reducing misuse and mistakes by permitting “undo and redo”. Likewise prevent errors from occurring by accepting different sequences and inputs by translating all logical actions. 
+
+How your website interface is designed either makes or breaks your business.  Although website functionality is a significant factor, the manner by which it imparts that functionality or user performance is likewise as important.  A website that is hard to manage will not be used at all.  Period.  
+

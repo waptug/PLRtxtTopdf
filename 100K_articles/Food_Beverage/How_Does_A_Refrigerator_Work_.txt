@@ -1,0 +1,78 @@
+Title: 
+How Does A Refrigerator Work?
+
+Word Count:
+845
+
+Summary:
+This is similar to what happens inside older refrigerators. Instead of water, though, the refrigerator uses chemicals to do the cooling.
+
+
+Keywords:
+Shorting ,grading, packing of fruits and vegetables, Reefer logistics,  Reefer trucks , Temperature controlled 
+
+
+Article Body:
+In the summertime, have you ever gotten out of a swimming pool and then felt very cold standing in the sun? That's because the water on your skin is evaporating. The air carries off the water vapor, and with it some of the heat is being taken away from your skin. 
+
+This is similar to what happens inside older refrigerators. Instead of water, though, the refrigerator uses chemicals to do the cooling. 
+There are two things that need to be known for refrigeration. 
+
+1.	A gas cools on expansion. 
+
+2.	When you have two things that are different temperatures that touch or are near each other, the hotter surface cools and the colder surface warms up. This is a law of physics called the Second Law of Thermodynamics. 
+
+Old Refrigerators 
+
+If you look at the back or bottom of an older refrigerator, you'll see a long thin tube that loops back and forth. This tube is connected to a pump, which is powered by an electric motor. 
+
+Inside the tube is Freon, a type of gas. Freon is the brand name of the gas. This gas, chemically is called Chloro-Flouro-Carbon or CFC. This gas was found to hurt the environment if it leaks from refrigerators. So now, other chemicals are used in a slightly different process (see next section below). 
+
+CFC starts out as a liquid. The pump pushes the CFC through a lot of coils in the freezer area. There the chemical turns to a vapor. When it does, it soaks up some of the heat that may be in the freezer compartment. As it does this, the coils get colder and the freezer begins to get colder. 
+
+In the regular part of your refrigerator, there are fewer coils and a larger space. So, less heat is soaked up by the coils and the CFC vapor. 
+
+The pump then sucks the CFC as a vapor and forces it through thinner pipes which are on the outside of the refrigerator. By compressing it, the CFC turns back into a liquid and heat is given off and is absorbed by the air around it. That's why it might be a little warmer behind or under your refrigerator. 
+Once the CFC passes through the outside coils, the liquid is ready to go back through the freezer and refrigerator over and over. 
+
+Today's Refrigerators 
+
+Modern refrigerators don't use CFC. Instead they use ammonia gas. Ammonia gas turns into a liquid when it is cooled to -27 degrees Fahrenheit (-6.5 degrees Celsius). 
+
+A motor and compressor squeezes the ammonia gas. When it is compressed, a gas heats up as it is pressurized. When you pass the compressed gas through the coils on the back or bottom of a modern refrigerator, the hot ammonia gas can lose its heat to the air in the room. 
+
+Remember the law of thermodynamics. 
+
+As it cools, the ammonia gas can change into ammonia liquid because it is under a high pressure. 
+
+The ammonia liquid flows through what's called an expansion valve, a tiny small hole that the liquid has to squeeze through. Between the valve and the compressor, there is a low-pressure area because the compressor is pulling the ammonia gas out of that side. 
+
+When the liquid ammonia hits a low pressure area it boils and changes into a gas. This is called vaporizing. 
+
+The coils then go through the freezer and regular part of the refrigerator where the colder ammonia in the coil pulls the heat out of the compartments. This makes the inside of the freezer and entire refrigerator cold. 
+
+The compressor sucks up the cold ammonia gas, and the gas goes back through the same process over and over. 
+
+How Does the Temperature Stay the Same Inside? 
+
+A device called a thermocouple (it's basically a thermometer) can sense when the temperature in the refrigerator is as cold as you want it to be. When it reaches that temperature, the device shuts off the electricity to the compressor. 
+
+But the refrigerator is not completely sealed. There are places, like around the doors and where the pipes go through, that can leak a little bit. 
+
+So when the cold from inside the refrigerator starts to leak out and the heat leaks in, the thermocouple turns the compressor back on to cool the refrigerator off again. 
+
+That's why you'll hear your refrigerator compressor motor coming on, running for a little while and then turning itself off. 
+
+Today's refrigerators, however, are very energy efficient. Ones sold today use about one-tenth the amount of electricity of ones that were built 20 years ago. So, if you have an old, old refrigerator, it's better to buy a new one because you'll save money (and energy) over a long period of time. 
+
+For more information go to: 
+
+•	Argone National Laboratory - Ask A Scientist (http://newton.dep.anl.gov/newton/askasci/1993/eng/ENG30.HTM)
+
+•	Mr. Hand's 8th Grade Science Site (www.mansfieldct.org/schools/mms/staff/hand/heatrefrig.htm)
+
+•	How Stuff Works - Refrigerator (www.howstuffworks.com/refrigerator.htm)
+
+•	Science Treasure Trove - refrigerator page (www.education.eth.net/acads/treasure_trove/refrigerator.htm)
+
+

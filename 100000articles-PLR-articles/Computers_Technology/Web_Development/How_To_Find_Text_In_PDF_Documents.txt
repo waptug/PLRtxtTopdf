@@ -1,0 +1,30 @@
+Title: 
+How To Find Text In PDF Documents
+
+Word Count:
+512
+
+Summary:
+Gain knowledge of the options you have to find what you require in PDF files with the available options in Adobe Acrobat.
+
+If you want to learn about the variety of options that Adobe has on offer for finding text in your PDF documents, let me tell you that Adobe does offer a number of tools that can help you find precisely that you want. You can find exact words in an already open PDF document, inside a set of PDF documents, PDF documents on the Internet, or in a catalog o...
+
+
+Keywords:
+find pdf,PDF searching,pdf location
+
+
+Article Body:
+Gain knowledge of the options you have to find what you require in PDF files with the available options in Adobe Acrobat.
+
+If you want to learn about the variety of options that Adobe has on offer for finding text in your PDF documents, let me tell you that Adobe does offer a number of tools that can help you find precisely that you want. You can find exact words in an already open PDF document, inside a set of PDF documents, PDF documents on the Internet, or in a catalog of indexed PDF files. You may search for words within the text, attachments, layers, comments, fields of a form, signatures, bookmarks, document properties etc. You can use the default search options offered by Adobe or use specific tools or plug-ins that are also available.
+
+To search for words within a PDF file, you can use the Find PDF toolbar or use the Search PDF window. Basic functions executed by both options are almost the same. But, the scopes of the search performed by both are different. The Find toolbar allows you to look for text within a single PDF document whereas, the Search PDF window will let you to search in several areas by making available advanced options for looking in more than one PDF files, indexed PDFs or find PDF files that are online. Search PDF also allows you to search your attachments to specified in the search options.
+
+You can opt to use the Find toolbar for finding text by docking the toolbar to make it available. To find words by using the Find PDF toolbar, you can perform these simple steps. To search within a current PDF document, you should open the PDF document and right-click on the toolbar area and select Find. This will let you perform the basic search. Begin searching by typing the words, words or parts of a word that you want to look for. Select from the available search options by clicking Search Options from the Find Options menu. To review search results, click the Find Previous button or the Find Next button to go back or forward though the document. However, if you want to perform a search using the Search PDF window, you can choose Open Full Reader Search from the Find Options menu in the Find toolbar.
+
+If you want to locate PDF files on the Internet there are numerous ways of doing that such as using the Google search for PDF files, Yahoo search for PDF files and using the Yummy Personal PDF Library that allows you to browse through many interesting PDF manuals and books. Apart from this there are many third-party software such as Find PDF that are distributed either as freeware or shareware that have been designed with the sole purpose of letting you search for PDF files on the Internet.
+
+Of the many options, tools and utilities that are available for your use, you may take a while to understand which suits your requirements the best. But, you will learn as you use the product.
+
+

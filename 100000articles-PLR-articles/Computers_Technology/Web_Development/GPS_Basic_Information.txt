@@ -1,0 +1,32 @@
+Title: 
+GPS Basic Information
+
+Word Count:
+586
+
+Summary:
+GPS or Global Positioning System is a fully functional Global Navigation Satellite System. This system uses an artificial constellation of 24 medium Earth orbit satellites. These satellites transmit microwave signals, thus enabling a GPS receiver to determine its location, speed, direction and time. This system was developed by United States Department of Defense and was named as NAVSTAR GPS which was given by Mr. John Walsh.
+
+This satellite constellation is managed by Unit...
+
+
+Keywords:
+gps, global positioning system, sattelite
+
+
+Article Body:
+GPS or Global Positioning System is a fully functional Global Navigation Satellite System. This system uses an artificial constellation of 24 medium Earth orbit satellites. These satellites transmit microwave signals, thus enabling a GPS receiver to determine its location, speed, direction and time. This system was developed by United States Department of Defense and was named as NAVSTAR GPS which was given by Mr. John Walsh.
+
+This satellite constellation is managed by United States Air Force 50th Space Wing. The cost is approximately 750 US dollars every year, including the maintenance cost, replacement, research and development. After shoot down of Korean Air Lines Flight 007 in the year 1983, a directive was issued which made the GPS available for civilian use and has been used extensively since then. It has become a very useful tool for making maps, surveying landscapes, commerce and many scientific uses. It also provides time reference which can be used in many applications which include study of earthquake and telecommunication network synchronization.
+
+A GPS receiver simply calculates the distance between itself and three more GPS satellite. Each satellite has an atomic clock in it continually transmits certain data containing its exact time, location of the transmitting satellite and the almanac. The receiver then measures the reception time of the signal. Thus the distance to each satellite is known. Knowing three such distances, a trilateration is formed. By using a fourth satellite, need for a clock at receiver is avoided.
+
+The Global Positioning System is used in a variety of Military and Civilian Applications. It allows soldiers find their objectives in a dark or completely unfamiliar territory and coordinate troop movement and supplies. GPS receivers which military personnel use are called Commanders and Soldier Digital Assistants. A combination of GPS and communication through radio enables real time vehicle tracking.
+
+It is also used in marking targets as hostile and enables the precision guided munitions to allow them engage these targets with high accuracy. Air to Ground roles of military aircrafts use GPS to find targets. GPS also allows targeting for military weapons like ICBMs, Cruise missiles, precision guided missile. Artillery based projectiles are embedded with GPS receivers and can withstand forces up to 12,000G. These are used for 155 mm Howitzers. Any Downed pilot can be easily located if he has GPS receiver. It is widely used by military for reconnaissance and mapping. Some GPS satellites also have nuclear detonation detectors.
+
+GPS helps civilians a lot in surveying and navigation. Its ability to calculate local speed and orientation is extremely useful. Time transfer is possible because of its capability to synchronize clock. A widely used example of use of GPS is CDMA digital cell phone. Each base uses a GPS timing receiver to synchronize the codes with different base stations and thus making it easy inter-cellular hand off and thus support emergency phone calls and other many applications. GPS equipment has also revolutionized tectonics by measuring the fault motion during earthquakes.
+
+The two GPS developers, Ivan Getting and Bradford Parkinson have received national academy of Engineering Charles Stark Draper prize during year 2003. Roger L Easton received National Medal for technology on February 13, 2006. Other similar tracking systems are Beidou, which has been developed by China and is proposed to be expanded into COMPASS; Galilieo, which is been developed by European Union along with many other countries like India and China; GLONASS, which is been developed by Russia is fully available in partnership with India; IRNSS is India`s proposed regional system and QZSS which has been proposed by Japan.
+
+

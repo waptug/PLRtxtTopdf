@@ -1,0 +1,24 @@
+Title: 
+What is ISAKMP?
+
+Word Count:
+153
+
+Summary:
+ISAKMP stands for Internet Security Association and Key Management Protocol. ISAKMP is a protocol used for establishing the security associations and the cryptographic keys. A security association is used to support secure communication and it refers to the establishment of the shared security information between two networks.
+
+
+Keywords:
+ISAKMP?
+
+
+Article Body:
+ISAKMP stands for Internet Security Association and Key Management Protocol. ISAKMP is a protocol used for establishing the security associations and the cryptographic keys. A security association is used to support secure communication and it refers to the establishment of the shared security information between two networks.
+
+Security Associations contain all the information required for various security services and ISAKMP defines the required procedures and the packet formats so as to establish, modify and delete Security Associations.
+
+ISAKMP is different from the key exchange protocols as ISAKMP clearly separates the details of the security association management from the details of the key exchange. ISAKMP defines packet formats which provide a framework for transferring the authentication and the key data.
+
+It is possible to implement Internet Security Association and Key Management Protocol over any transport protocol but the implementation must include the send and receive capability for ISAKMP using User Datagram Protocol on port 500.
+
+

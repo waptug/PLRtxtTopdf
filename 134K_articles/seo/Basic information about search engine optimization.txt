@@ -1,0 +1,18 @@
+Basic Information about Search Engine Optimization
+
+Fifteen years ago if we need information we had to go to library. Writing reports, and preparing for test required hours of scanning shelves filled with books, blowing large chunks of change in the copy matching, checking out a mountains of books, and squinting at microfilm. The internet has chanced all of that. Now when we need to learn something all we have to do is boot up a computer and connect to the internet.
+
+Most people have an extensive favorites list on their computers, a simple click of the mouse and they are at their favorite website. This is a handy feature if you do a lot of online shopping at a particular store or spend a lot of time at a specific chatroom. When they need to use the internet to gather information most people consult an online search engine.
+
+A search engine is an information retrieval system designed to help locate information. Most people are familiar with Google, yahoo, and ask.com. Search engines work when a user types a keyword into the little box. Once the user types in the word the search engine scans all its files. It then provides the user with a page that is full of options, generally twenty. The user scans the list of options and then opens the one that sounds like it best suits their needs. Search engines use something called search engine optimization to determine the ranking of each web address.
+
+Search engine optimization is the art and science of making web pages attractive to the search engines. The more a website appeals to the search engine the higher it will be ranked.
+
+Crawler based search engines determine the relevancy of a website by following a set of guidelines called algorithms. One of the first things a crawler based search engine looks for is keywords. The more frequently a website uses a certain keyword the higher the website will rank. Search engines believe that more frequently a word appears the more relevant the website.
+
+The location of the key words is as important as the frequency.
+
+The first place a search engine looks for keywords is in the title. Web designers should include a keyword in their HTML title tag. Web designers should also make sure that keywords are included near the top of the page.  Search engines operate under the assumption that the web designers will want to make any important information obvious right away.
+
+Spamdexing is a term used to describe a webpage that uses a certain word hundreds of times in an attempt to propel their webpage to the top of search engines rankings. Most search engines use a variety of methods, including customer complaints, to penalize websites that use spamming methods. Very few internet search engines rely solely on keywords to determine website ranking. Many search engines also use something called "off the page" ranking criteria. Off the page ranking criteria are ranking criteria's that webmasters cannot easily influence. Two methods of off the page search engine optimization are link analysis and click through measurement.
+

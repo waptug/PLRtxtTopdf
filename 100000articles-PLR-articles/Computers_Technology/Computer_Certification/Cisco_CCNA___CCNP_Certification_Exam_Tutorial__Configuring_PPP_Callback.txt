@@ -1,0 +1,160 @@
+Title: 
+Cisco CCNA / CCNP Certification Exam Tutorial: Configuring PPP Callback
+
+Word Count:
+568
+
+Summary:
+Configuring and testing PPP Callback is an important part of passing the Cisco CCNA and CCNP exams - but it's also important in production networks.  Learn the "hows" and "whys" of PPP Callback from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+ccna, ccnp, free, exam, ppp, callback, isdn, caller, client, server, pass, bcran, tutorial, bryant
+
+
+Article Body:
+You may run into situations where a router in a remote location needs to dial in to a central router, but the toll charges are much higher if the remote router makes the call.  This scenario is perfect for PPP Callback, where the callback client places a call to a callback server, authentication takes place, and the server then hangs up on the client!  This ensures that the client isn't charged for the call.  The server then calls the client back.
+
+
+In the following example, R2 has been configured as the client and R1 is the callback server.  Let's look at both configurations and the unique commands PPP Callback requires.
+
+Client:
+
+username R1 password CCIE
+
+interface BRI0
+
+ ip address 172.12.12.2 255.255.255.0
+
+ encapsulation ppp
+
+ dialer map ip 172.12.12.1 name R1 broadcast 5557777
+
+ dialer-group 1
+
+ isdn switch-type basic-ni
+
+ ppp callback request
+
+ ppp authentication chap
+
+Most of that configuration will look familiar to you, but the ppp callback request command might not.  This command enables the BRI interface to request the callback.
+
+Simple enough, right?  The PPP Callback Server config requires more configuration and an additional map-class as well.
+
+Server:
+
+username R2 password CCIE
+interface BRI0
+
+ ip address 172.12.12.1 255.255.255.0
+
+ encapsulation ppp
+
+ dialer callback-secure
+
+ dialer map ip 172.12.12.2 name R2 class CALL_R2_BACK broadcast 5558888
+
+ dialer-group 1
+
+ isdn switch-type basic-ni
+
+ ppp callback accept
+
+ ppp authentication chap
+
+map-class dialer CALL_R2_BACK
+
+ dialer callback-server username
+
+
+Examining the PPP Callback Server command from the top down...
+
+
+dialer callback-secure enables security on the callback.  If the remote router cannot be authenticated for callback, the incoming call will be disconnected.
+
+
+The dialer map statement now calls the class CALL_R2_BACK, shown at the bottom of the config excerpt.  
+
+
+ppp callback accept enables PPP callback on this router.
+
+
+dialer callback-server username tells the callback server that the device referenced in the dialer map statement is a callback client.
+
+
+The only way to find out if the config works is to test it, so let's send a ping from R2 to R1 and see if the callback takes place.
+
+
+R2#ping 172.12.12.1
+
+
+Type escape sequence to abort.
+
+Sending 5, 100-byte ICMP Echos to 172.12.12.1, timeout is 2 seconds:
+
+02:45:42: BR0 DDR: Dialing cause ip (s=172.12.12.2, d=172.12.12.1)
+
+02:45:42: BR0 DDR: Attempting to dial 5557777
+
+02:45:42: %LINK-3-UPDOWN: Interface BRI0:1, changed state to up
+
+02:45:42: BR0:1 DDR: Callback negotiated - Disconnecting now
+
+02:45:42: BR0:1 DDR: disconnecting call
+
+02:45:42: %ISDN-6-CONNECT: Interface BRI0:1 is now connected to 5557777 R1
+
+02:45:42: %LINK-3-UPDOWN: Interface BRI0:1, changed state to down
+
+02:45:42: DDR: Callback client for R1 5557777 created
+
+02:45:42: BR0:1 DDR: disconnecting call.....
+
+Success rate is 0 percent (0/5)
+
+R2#
+
+02:45:57: %LINK-3-UPDOWN: Interface BRI0:1, changed state to up
+
+R2#
+
+02:45:57: BR0:1 DDR: Callback received from R1 5557777
+
+02:45:57: DDR: Freeing callback to R1 5557777
+
+02:45:57: BR0:1 DDR: dialer protocol up
+
+02:45:58: %LINEPROTO-5-UPDOWN: Line protocol on Interface BRI0:1, changed state to up
+
+The callback was successfully negotiated, and the call then disconnected.  R1 then called R2 back, and show dialer on R1 confirms the purpose of the call.
+
+R1#show dialer
+
+BRI0 - dialer type = ISDN
+
+Dial String      Successes   Failures    Last DNIS   Last status
+
+5558888                  2          4    00:00:20       successful
+
+0 incoming call(s) have been screened.
+
+0 incoming call(s) rejected for callback.
+
+BRI0:1 - dialer type = ISDN
+
+Idle timer (120 secs), Fast idle timer (20 secs)
+
+Wait for carrier (30 secs), Re-enable (15 secs)
+
+Dialer state is data link layer up
+
+Dial reason: Callback return call
+
+Time until disconnect 99 secs
+
+Connected to 5558888 (R2)
+
+Pretty cool!  PPP Callback isn’t just important for passing your CCNA and CCNP exams – in circumstances such as shown in this example, it can save your organization quite a bit of money!
+
+

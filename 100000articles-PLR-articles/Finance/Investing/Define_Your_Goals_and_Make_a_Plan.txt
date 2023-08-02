@@ -1,0 +1,164 @@
+Title: 
+Define Your Goals and Make a Plan
+
+Word Count:
+2476
+
+Summary:
+Trading a system does NOT mean having an ATM in your front yard. There will be months when your trading system is over performing, and there are months when your trading system is underperforming. Find out more input in this article.
+
+
+Keywords:
+Daytrading system, day trading plan
+
+
+Article Body:
+Defining your goals and making a plan is probably the most important task a trader can undertake.
+Many traders refer to their day trading plan as a trading system. That's absolutely ok; since a trading system is nothing else than a structured day trading plan.
+Let's take a look at the elements of a good <a href="http://www.rockwelltrading.com/daytradingcoach/01_dtc_moreinfo.html#STRATEGIES"><b>day trading plan</b></a>:
+·	Financial Goals
+How much money do you want to make? 
+How much money do you need to get started? 
+What can you expect when trading a system?
+In this chapter you'll learn the answers to these questions. Defining your financial goals is extremely important, since the outcome of the next steps all depend on YOUR goals. 
+·	Selecting a market
+You need to determine whether you want to trade Stocks, Options, Forex or Futures.
+It really doesn't matter WHAT you trade, as long as you're successful. Each market has advantages and disadvantages which we will discuss here. This will make it easy to find the right market for YOU.
+·	Selecting a timeframe
+In this section you will learn the differences between daytrading, short-term trading and long-term trading and how to find the best approach for YOU.
+·	Selecting a trading style
+Trend-following, Swing-trading or Trend-fading? In this section you'll learn which trading style is the best for YOU.
+·	Detailing the daytrading plan
+By now you know how much money you want to make, how much you are willing to risk, what market you are going to trade in which timeframe, and what trading style you'll use. In this section you will learn how to detail your plan by adding specific rules for entries and exits. But don't worry: It's easier than you think, and I already have two ready-to-use trading systems for you.
+Let's get started.
+Financial Goals
+The most frequently asked question of aspiring traders is "How much money can I make?"
+Unfortunately there's no easy answer, because it depends how much you are willing to risk.
+Day Trading is a function of risk and reward: The more you risk, the more you can make. Here's an easy example: Let's say you start with a $5,000 account and you're willing to risk $1,000. Now you could place a trade to go long at the opening, set a profit goal of $1,000 and a stop loss of $1,000. Let's say you investigated the market behavior in the past couple of months and realized that your chances of achieving your profit goal are 60%.
+Unfortunately the trade you just placed is a loser, and you lose the whole $1,000. Since this was the amount you were wiling to risk, you close your account, transfer the remaining $4,000 back in to your checking account and that's it for you.
+Now let's assume you wanted to risk only $100 per trade and you adjusted your profit goal to $100, too. Now you can make at least 10 trades, because only if all 10 trades are losers you'll lose the $1,000 you are willing to risk. I don't want to become too mathematical, but statistics says that the probability of having 10 losing trades in a row is less than 1%. Therefore it's highly likely that you will have a couple of winners within the 10 trades. If your trading system shows the same performance as it did in the past (60% winning percentage), you should make $200: 4 losing trades * $100 = -$400 + 6 winning trades * $100 = $600. Make sense?
+Compare these two options:
+·	The risk of losing your money in scenario 1 is 40%. But if you won, you would have made $1,000.
+·	In scenario 2 the risk of losing your money after 10 trades is less than 1%, but you have a fair chance of making $200.
+Therefore you need to define first how much you are willing to risk, since the amount you can make is a function of that risk. Make sense? I'll give you more specific examples later in this chapter.
+Keep in mind that there's a difference between the amount you need to trade and the amount you're willing to risk. Your broker is always asking your for a "margin", and you need to fund your account with that margin requirement + your risk. In our previous example you funded your account with $5,000, but you only risked $1,000. More on that later.
+What to expect when trading a system.
+There's a common misconception about what to expect when trading a system:
+Trading a system does NOT mean having an ATM in your front yard.
+There will be months when your trading system is over performing, making more money than your expected, and there are months when your trading system is underperforming. Don't assume you'll get a check at the end of each month!
+Here's an example:
+
+The performance report of our e-mini S&P Trading System Coin Collector shows an average profit per trade of $36 over the past 733 trades: 
+ 
+In between March 14-21, 2005 the system was over performing and we realized $963 in profits with 17 trades. These yields to an average profit per trade of $57, way above the "expected" average profit of $36 (see below): 
+ 
+When <a href="http://www.rockwelltrading.com/daytradingcoach/01_dtc_moreinfo.html#STRATEGIES"><b>daytrading system</b></a> you have to keep in mind that you are working with averages:
+
+If your back testing shows an average profit per trade of $36 then you can be almost sure that the system will not suddenly jump to $57 average profit per trade. 
+In trading we have good weeks and bad weeks. Losses are part of our business. After a slow week there might be an extraordinary week. After a winning streak we will realize a loss. 
+
+Looking at the performance of that week a correction was inevitable. And it happened: Tuesday, March 22nd, we realized a loss of $712.50. 
+
+Such a loss hurts. You quickly forget all the nice profits of the past week and focus on the loss. You may start questioning your system and think that it stopped working, and so you stop trading. You start looking around for the next system. You don't give the system a chance to come back to "normal". You see an extraordinary week like the week from March 14 - 21, 2005 and think that you will continue making profits like this forever. 
+
+When reality hits you, you stop believing. But take a look what happened after the loss. 
+
+Here's the performance report of the 2 weeks combined: The "good" week and the "bad" week with the loss of $712.50: 
+ 
+Now take a look at the first graphic with the performance the system is supposed to make. 
+
+We are right on target! 
+
+The average profit is back to normal, and so are the winning percentage and the profit factor. 
+
+Within two weeks the daytrading system normalized itself. That's exactly what you should expect from a robust trading system.
+The next step is finding a market that's suitable for you.
+Selecting a market
+You can trade stocks, forex and futures. 
+Depending on your account size "stocks" might not be an option for you, since you need at least $25,000 in your account to daytrade stocks.
+Forex trading is very popular, but if you are new to trading I must warn you:
+The Forex markets are extremely volatile, and you can easily make (or lose) thousands of dollars in a day. Many Forex brokers offer "free quotes and charts" and "no commissions", but keep in mind that nothing is for free: You are paying a spread, i.e. you can NOT buy a currency and immediately sell it for the same amount. It's like at the exchange booths that you know from your holidays: You exchange $100 into 80 Euro, but when you change the 80 Euro back into dollars, you only receive $96. 
+Same when trading Forex: You are paying at least 2 "pips". This amounts approx. $20, depending on the currency pair you're trading. Another disadvantage of Forex trading is that you are NOT trading at an exchange: There is no "Foreign Exchange". You are trading against your broker: If you are selling, then your broker is buying from you and vice versa. And that's why your broker is giving you the quotes for free: He can basically give you *any* quote since there are no regulations. Scary, isn't it?
+Let's take a look at futures trading: 
+Futures markets are regulated and you pay very low commissions. They are highly leveraged, since you can trade the whole index worth $66,500 with an account as small as $500. So you can achieve an enormous leverage of 130:1. There are many advantages, especially if you're trading the index futures:
+·	Index Futures are traded electronically and you can enter the orders through your computer, without ever calling a broker.
+·	You are getting very low commissions. That's important to keep your costs down and increase your bottom line. 
+·	You have a high leverage of up to 130:1.
+·	You are trading some of the most liquid and popular markets in the world, hence you will experience little or no slippage.
+·	Depending on your broker you might get quotes and charts for free.
+My recommendation:
+If you're new to trading I strongly recommend starting with the futures markets. It's way easier than you might think, and if you follow this guide then you'll have no problem getting started in futures trading.
+ 
+Selecting a timeframe
+Let me be brief on selecting a timeframe, since you'll figure this out very soon:
+When you select a smaller timeframe (less than 60min) your average profit per trade is usually relatively low. On the other hand you get more trading opportunities. When trading on a larger timeframe your profit per trade will be bigger, but you will have fewer trading opportunities.
+Smaller timeframes mean smaller profits, but usually smaller risk, too. When you are starting with a small trading account, then you might want to select a small timeframe to make sure that you are not overleveraging your account.
+Most profitable trading systems use larger timeframes like daily and weekly. These systems work, too, but be prepared for less trading action and bigger draw downs.
+My recommendation:
+Therefore I strongly recommend that you stick to smaller timeframes like 60min and below. In addition you shouldn't hold any positions overnight in your first couple of weeks of trading, so stick to daytrading. 
+Selecting a trading style 
+Basically there are 2 different trading styles:
+·	Trend-following
+When prices are moving up, you buy, and when prices are going down, you sell.
+·	Trend-fading (or counter-trend-trading)
+When prices are trading at an extreme (e.g. upper band of a channel), you sell, and you try to catch the small move while prices are moving back into normalcy. The same applies for selling.
+Most indicators that you will find in your charting software belong to one of these two categories: You have either indicator for identifying trends (e.g. Moving Averages) or indicators that define overbought or oversold situations and therefore offer you a trade setup for a short term swing trade.
+So don’t become confused by all the indicators and trading approaches that are out there. Make sure you understand what the indicator is measuring and what category it belongs to.
+Here are some examples of popular trading approaches:
+·	Trend-following 
+o	Crossover of Moving Averages
+o	Turtle Trading
+o	Parabolics (e.g. SAR)
+. 
+·	Trend-fading 
+o	Overbought/Oversold Oscillators
+o	Bollinger Bands and Channels
+o	Turtle-Soup Trading
+My recommendation:
+In my opinion trend-fading is actually one of the best trading styles for the beginning trader to get his or her feet wet. By contrast, trend trading offers greater profit potential if a trader is able to catch a major market trend of weeks or months, but few are the traders with sufficient discipline to hold a position for that period of time without getting distracted.
+Detailing Your Trading Plan
+By now you know how much money you want to make, how much you are willing to risk, what market you are going to trade in which timeframe, and what trading style you'll use. In this section you will learn how to detail your plan by adding specific rules for entries and exits.
+Entry Rules
+Entering the market is easy. You have the following possibilities: 
+·	You can enter the market based on certain conditions, 
+e.g. prices move above the previous day high or
+prices cross the 100-day moving average.
+·	You can enter at a certain time,
+e.g. you are ALWAYS entering the market at the open or
+you are entering at noon.
+·	A combination of both,
+e.g. you are entering if prices cross above the 100-day moving average, but only between 8:30am and 12:00pm.
+There are dozens of books, magazines and websites that offer you countless entry techniques. But as a famous trader once said: "The exit is more important than the entry". So let's take a look at exit rules.
+Exit Rules
+Lets keep it simple here, too: There are two different exit rules you want to apply:
+·	Stop Loss Rules to protect your capital and
+·	Profit Taking Exits to realize your profits
+Both exit rules can be expressed in four ways:
+·	A fixed dollar amount (e.g. $1,000)
+·	A percentage of the current price (e.g. 1% of the entry price)
+·	A percentage of the volatility (e.g. 50% of the average daily movement) or
+·	A time stop (e.g. exit after 3 days)
+I usually don’t recommend using a fixed dollar amount, because markets are too different. For example, natural gas changes an average of a few thousand dollars per day per contract; however, Eurodollars change an average of a few hundred dollars a day per contract. You need to balance and normalize this difference when developing a trading system and testing it on different markets. That’s why you should always use percentages for stops and profit targets (e.g. 1% stop) or a volatility stop instead of a fixed dollar amount.
+A time stop gets you out of a trade if it is not moving in any direction, therefore freeing your capital for other trades.
+Other Elements
+Entry and Exit Rules are the basic elements of your trading plan, and if you have a rather small account then that's all you need to get started.
+Later you want to add additional elements like
+·	Money Management
+How much money are you going to risk per trade?
+When do you increase the contract size?
+
+·	Diversification
+How many contracts will you trade with ONE day trading strategy?
+When will you add a second strategy? What kind of strategy?
+In which markets will you diversify?
+
+·	Payouts
+When will you start withdrawing money from your trading account?
+How much?
+All these elements are becoming important when your account size grows, but in the beginning you can omit these elements to make it easier.
+Author’s name
+Markus Heitkoetter
+Author's Info:
+Markus Heitkoetter is a 19 year veteran of the markets and the CEO of Rockwell Trading. For more free information and tips and trick how to make consistent profits with online daytrading, visit his website www.rockwelltrading.com.
+
+

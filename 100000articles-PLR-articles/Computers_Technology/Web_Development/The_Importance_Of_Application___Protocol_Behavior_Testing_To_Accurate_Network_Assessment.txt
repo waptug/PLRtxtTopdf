@@ -1,0 +1,68 @@
+Title: 
+The Importance Of Application & Protocol Behavior Testing To Accurate Network Assessment
+
+Word Count:
+507
+
+Summary:
+Awareness of performance problems in a large enterprise network comes from different sources. Sometimes it is a monitoring tool and sometimes it is complaints from business users.
+
+Monitoring tool notifications stay within IT--quietly. With all the alligators to shoot, such issues may be left for a quieter time. Nevertheless, since those alligators reproduce so quickly—that quiet time may never come. Besides, such tools usually focus on "Server Down, Switch Down" alerts and...
+
+
+Keywords:
+sniffer,wireshark,protocol,analysis,troubleshooting,testing,performance,tcp/ip,diagram,application
+
+
+Article Body:
+Awareness of performance problems in a large enterprise network comes from different sources. Sometimes it is a monitoring tool and sometimes it is complaints from business users.
+
+Monitoring tool notifications stay within IT--quietly. With all the alligators to shoot, such issues may be left for a quieter time. Nevertheless, since those alligators reproduce so quickly—that quiet time may never come. Besides, such tools usually focus on "Server Down, Switch Down" alerts and cannot perceive the far more subtle signs of a problem.
+
+Business user complaints are visible -- frequently high profile -- involve Business User engagement. Such problems are discussed in management conferences and must be addressed quickly—and—successfully. Even if there are no alerts from you monitoring system—they must be addressed. After all, those automatic alerts (if they triggered at all) are not really focused on the "User Experience". When a human being is having trouble performing their job, which feeds their family, for any reason—they do not want to hear statistics.
+
+A standard Network Assessment is usually a review of Network Architecture -- Bandwidth Utilization / Errors. All important information—but third hand information at best.
+
+Business Users see & feel how the Application ITSELF utilizes the Network—how it actually rides your LAN and WAN. This is first hand information.
+
+Unfortunately, this perspective gets minimal attention in a standard Network Assessment process.
+
+This assessment methodology provides a two-pronged approach.
+
+Simultaneously assess:
+
+- Network Architecture
+- Bandwidth Utilization
+- Errors
+
+AND...
+
+* How the critical Applications utilize the network themselves -- from the Packet Level.
+
+* Use tools such as Sniffer / Ethereal / WireShark as well as many other proprietary and open-source tools.
+
+* Identify All delays regardless of source (Network, Application, Servers, Database, OS, etc.)
+
+* Quantify this data to the byte and the microsecond.
+
+* Compare these results to the data from our Network Architecture Assessment.
+
+* The Interpath of every application is reviewed -- from Switch Port to Switch Port -- Router to Router.
+
+* Network Protocol behavior is evaluated regarding Network Transport times, TCP Tuning -- discovered issues.
+
+This two-pronged approach -- capturing the actual way Applications behave on the Network -- from multiple locations -- and comparing it to the Network Architecture -- provides Clear Understanding of the causes of the problems and provides a path for resolution.
+
+- It is a “Departmentally Neutral” approach.
+
+- It does not assume the problem is network based -- although it analyzes the network.
+
+- It does not assume the problem is the application -- although the application’s network behavior is measured.
+
+All results are quantified and objective. They allow all departments come together onto the same point of view -- resolving the technical problem -- as well as the political one.
+
+In many cases, the problem is one of balance. Neither the Network -- Application -- or any other single source is the cause. If you are only looking from the perspective of the Application Support Department, or Network Support—you will not discover issues that span multiple areas of responsibility.
+
+This Assessment Methodology will uncover the truth regardless of the cause of the problems. Then diplomatically provide detailed documentation and guidance (if requested) on a path towards Resolution.
+
+

@@ -1,0 +1,47 @@
+Title: 
+SharePoint development
+
+Word Count:
+289
+
+Summary:
+About SharePoint development
+
+
+Keywords:
+Custom software development, Offshore outsourcing,  Web site  Content Management, Solutions development, CMS consulting: Ektron Drupal  DotNetNuke, Web 2.0, PHP, MySQL, AJAX, Flash, Action script Flex, Ruby, .net, E-commerce solutions
+
+
+Article Body:
+Based on extensive customer feedback Microsoft has integrated the Web content management capabilities of MS CMS 2002 into the new Microsoft Office SharePoint Server 2007 and added new functionality for enterprise content management, business intelligence, and search. If you're looking for Web content management functionality from Microsoft, check out Office SharePoint Server 2007 services software development.
+
+SharePoint 2007 helps to create and deploy interactive solutions on the SharePoint platform, without having to write code. 
+
+* Automate business processes such as document approval, custom event notification, and other collaboration tasks with the Workflow Designer. 
+
+* Create reporting and tracking applications using data views and forms to easily gather and aggregate data from outside your site and from SharePoint lists and document libraries on the Web site. 
+
+* Get started fast with pre-built Microsoft Windows SharePoint Services Application Templates, which are fully customizable and extensible using Office SharePoint Designer 2007. 
+
+* Extend your solutions by building advanced interactive Microsoft ASP.NET pages. Insert and edit controls with the same powerful activity menus and control property grid previously found only in development tools such as Microsoft Visual Studio 2005. Office SharePoint Designer 2007 custom workflow The Workflow Designer automates business processes like automated task assignment and notification associated with SharePoint lists and document libraries by setting up custom workflow conditions and actions and linking them to the SharePoint data.
+
+Technologies list and OS related to the SharePoint platform: 
+•	MS SharePoint, SharePoint Web Parts Development 
+•	SharePoint Designer 2007, WSS 3.0, MOSS 2007 
+•	Windows Workflow Foundation, InfoPath 
+•	MS SQL Server 2000 and 2005, database design and development 
+•	Internet Information Server 
+•	Active Directory 
+•	File stores 
+•	Indexing 
+•	OOP and software development 
+•	Search engines optimization 
+•	XML / XSL /XSLT 
+•	.NET 2.0 / 3.0 
+•	ASP.Net , Master pages templates development 
+•	Design flaws and document workflow management 
+•	MS Windows 2003 
+
+Please, visit for more information about custom Sharepoint software development:
+
+

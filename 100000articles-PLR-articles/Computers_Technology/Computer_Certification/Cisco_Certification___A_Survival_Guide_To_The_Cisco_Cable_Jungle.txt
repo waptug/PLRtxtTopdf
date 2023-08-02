@@ -1,0 +1,52 @@
+Title: 
+Cisco Certification:  A Survival Guide To The Cisco Cable Jungle
+
+Word Count:
+389
+
+Summary:
+One of the hardest things to keep straight when you're starting your Cisco studies is what each cable does - rollover, straight-through, and others!  Chris Bryant, CCIE #12933, offers this primer to help you keep them straight and pass your CCNA exam!
+
+
+Keywords:
+ccna, ccnp, free, pass, exam, cisco, certification, computer, mcse, ccie, chris, bryant
+
+
+Article Body:
+One of the most confusing parts of beginning your Cisco studies is keeping all the cable types separate in your mind, and then remembering what they’re used for.  This often occurs when a CCNA or CCNP candidate starts putting together their own home practice lab, and they suddenly realize that they have the equipment to run labs, but not the cables.
+
+ 
+
+With this in mind, here are some common Cisco cable types and their primary use.
+
+ 
+
+First, there’s the regular old “straight-through cable”, so named because the eight wires inside the cable go straight through the wire.   While the wires may be twisted inside to reduce electromagnetic interference (EMI), the wire that’s connected to Pin 1 on one end is connected to Pin 1 on the other end, and so on.   In a home lab, a straight-through cable is often used to connect a switch port to an Ethernet port on a router, with a transceiver attached to the Ethernet port.   Straight-through cables are also good for connecting a BRI interface to an ISDN simulator.
+
+ 
+
+The “crossover cable” is so named because the wires do cross over between pins.  This allows the devices to both send and receive at the same time, and crossover cables are a must for directly connecting ports on Cisco switches to create a trunk.
+
+ 
+
+The “rollover cable” allows you to connect directly to a Cisco console port with your laptop or PC.  This is the blue cable that comes with new Cisco devices, and it’s the one that engineers tend to hold on to with their lives.  Without a rollover cable (also commonly called a “console cable”), you can’t connect your laptop directly to a Cisco device.
+
+ 
+
+Finally, there’s the DTE/DCE cable.   To create a frame relay cloud in your home lab (using one of your Cisco routers as a DCE), or to directly connect two Cisco routers via their serial interfaces, you will need a DTE/DCE cable.  Remember that the DCE interface will need to supply clockrate to the DTE interface.
+
+ 
+
+The different cable types can be confusing when you first read about them, but after tearing down or building your home lab a few times, you’ll definitely have them straight come test day!
+
+ 
+
+Best of luck in your lab and your exams,
+
+ 
+
+Chris Bryant
+
+CCIE #12933
+
+

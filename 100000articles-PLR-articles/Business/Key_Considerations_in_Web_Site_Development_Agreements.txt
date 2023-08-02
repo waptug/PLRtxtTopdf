@@ -1,0 +1,54 @@
+Title: 
+Key Considerations in Web Site Development Agreements
+
+Word Count:
+1095
+
+Summary:
+An analysis of the main terms in website development agreements
+
+
+Keywords:
+website designers, website hosting terms, website development agreements
+
+
+Article Body:
+When web developers and their clients get together, there can be a variety of different responses. Some are so keen to get on with the project that they completely ignore the legal contract; others simply work on the standard terms and do not bother looking at them; still others sit down and negotiate an agreement that works for both parties. 
+
+We advocate the latter course so that before the project starts both the developer and client look at the expectations each of them has out of the project. There are many standard terms that apply but this article focuses on some of the important legally-related issues to address at that stage. 
+
+Clarifying the Extent of the work 
+For projects working on the basis of fixed fees, it is essential to clarify exactly what will be undertaken for that fixed fee. A proper specification for the site (both in terms of functionality and "look and feel") is needed. It should also address required functionality in order to make the site legally effective (e.g. having the correct pop-up window with terms of business that can only be accepted by clicking the "I accept" button). It is also important to explain clearly how additional work, over and above the fixed fee work will be charged. 
+
+The agreement should spell out the impact and consequences of delay as well as any actions required on the part of the client and require that the client do whatever the developer needs them to do with due speed. 
+
+Setting Milestones 
+For many projects, delivery will be in stages. For all but the most basic websites, it will be appropriate to pay the fee in instalments linked to milestones. The results against which the milestones are to be assessed must specific and measurable. The web developer will want to make sure that the contract allows them to refuse to undertake further work until payment has been made for a particular milestone. The client will want to make sure that appropriate rights are automatically granted at the time of payment of the invoice for each milestone rather than acquiring rights only at the end and the above product is complete - e.g. a licence or a transfer of copyright. The reason for this is that it is not unheard of for developers and their clients to full out in a middle of a project and, provided the client is paid for the work to date, it is appropriate for the client to acquire rights in the work product to that stage. 
+
+Acceptance Testing 
+The agreement should provide for various milestones to be by reference to testing to ensure that key functionality is effective. 
+
+Warranties 
+The client will want to make sure that the developer has either created the material for the website itself or has acquired the appropriate rights to enable the site to function and be developed, possibly independently of the contractor undertaking the initial website development. Warranties will therefore be needed regarding ownership of copyright, the right to grant any licences included in the contract and regarding there being no breach of any third party intellectual property rights. 
+
+If the developer has ongoing maintenance and hosting obligations, the developer will want warranties from the client regarding the legality of content it is providing to the developer. 
+
+Liability Exclusions 
+Exclusions of liability are normally essential to protect service providers against unlimited liability. Limitations that purport to limit liability to the value of the contract are unlikely to be effective in most cases, unless the parties' bargaining power is equal and the terms have been negotiated (as opposed to being standard). We would recommend that a more effective limitation should be linked to the level of insurance cover available but it is important that the web developer checks that they have that level of cover - it is often overlooked that insurance cover of a fixed sum may be an annual total sum of claims rather than an amount covered per claim. If insurance is not per claim, the level of liability accepted under the agreement must be reduced to cover the possibility of more than one claim in a particular year. It may also be possible to limit the time for claims (e.g. one or two years). 
+
+From the developer's point of view, it is essential that exclusions are not unreasonable, otherwise they will be struck out altogether under section 3 of the Unfair Contract Terms Act 1977, in which case there will be no effective limit in place at all. 
+
+Something else that will not be tolerated is any exclusion of consequential loss - this is in fact common in American contracts but is not acceptable in general under English law. 
+
+Moral Rights 
+The developer and the client must consider whether they want to grant the developer the right to be accredited for the work on the website. If rights are being passed over to the client, the developer may be happy to have the credit on a website at that stage, but if they are later developing it in a way that might otherwise damage the developer's reputation, they might also want to reserve the right to insist on removal of their name and/or logo from the website. 
+
+Subjective Design Decisions 
+Typically a designer will be chosen on the basis of a portfolio. The client is therefore making a leap of faith in instructing the designer, believing in their ability to produce something that they will find attractive. Typically the designer will take on the task of creating a look and feel that is appropriate to the client. However, given the time involved in doing that, it may be appropriate to limit the number of options that will be made available to a client (typically 3) and to require that the client chooses from one of these. At first glance that might appear unattractive for a buyer of these services but otherwise the buyer can be unreasonable and constantly demand wholesale re-design at an unlimited time cost to the designer. Depending upon the bargaining position of the parties, the developer may need to agree to more generous provisions but ideally should limit its exposure in this area. 
+
+As we have said, this article focuses on some core issues and does not address by, any means, all of the areas for discussion when negotiating a web development agreement. It will, however, help create a balanced relationship between the parties at the outset and reduce the chances of a costly dispute if these matters are addressed sooner rather than later. 
+
+
+http://www.kaltons.co.uk
+
+

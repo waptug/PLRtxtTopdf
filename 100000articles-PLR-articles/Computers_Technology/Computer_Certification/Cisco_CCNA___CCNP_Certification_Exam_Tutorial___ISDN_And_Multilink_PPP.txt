@@ -1,0 +1,58 @@
+Title: 
+Cisco CCNA / CCNP Certification Exam Tutorial:  ISDN And Multilink PPP
+
+Word Count:
+402
+
+Summary:
+To earn your CCNA and pass the BCRAN CCNP exam, you must master the many details of ISDN.  This includes multilink PPP!  Learn the details from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+ccna, cisco, certification, ccnp, bcran, isdn, multilink, ppp, encapsulation, bri, pass, free, ccie
+
+
+Article Body:
+ISDN is a huge topic on both your Cisco CCNA and BCRAN CCNP exams.  While many ISDN topics seem straightforward, it’s the details that make the difference in the exam room and working with ISDN in production networks.  Configuring and troubleshooting multilink PPP is just one of the skills you’ll need to pass both of these demanding exams.
+
+With BRI, we've got two B-channels to carry data, and both of them have a 64-kbps capacity.  You might think it would be a good idea to have both channels in operation before one reaches capacity, and it is a great idea  Problem is, it's not a default behavior of ISDN.  The second b-channel will not begin to carry traffic until the first one reaches capacity.
+
+With Multilink PPP (MLP), a bandwidth capacity can be set that will allow the second b-channel to bear data before the first channel reaches capacity.  The configuration for MLP is simple, but often misconfigured.  We'll use our good friend IOS Help to verify the measurement this command uses.
+
+Enabling MLP is a three-step process:
+
+Enable PPP on the link
+
+Enable MLP with the command ppp multilink
+
+Define the threshold at which the second b-channel should start carrying data with the dialer load-threshold command.
+
+Let's say you wanted the second b-channel to start carrying data when the first channel reaches 75% of capacity.  It would make sense that the command to do so would be dialer load-threshold 75... but it's not.
+
+R1(config)#int bri0
+
+R1(config-if)#ppp multilink
+
+R1(config-if)#dialer load-threshold ?
+
+  <1-255>  Load threshold to place another call
+
+The dialer load-threshold value is based on 255, not 100.  To have this command bring the line up at a certain percentage, multiply that percentage in decimal format by 255.  Below, I multiplied 255 by .75 (75%) to arrive at 191.
+
+R1(config-if)#dialer load-threshold 191 ?
+
+  either    Threshold decision based on max of inbound and outbound traffic
+
+  inbound   Threshold decision based on inbound traffic only
+
+  outbound  Threshold decision based on outbound traffic only
+
+  <cr>
+
+R1(config-if)#dialer load-threshold 191 either
+
+As illustrated by IOS Help in the above configuration, dialer load-threshold has additional options as well.  You can configure the interface to consider only incoming, outgoing, or all traffic when calculating when to bring the next channel up.
+
+Configuring Multilink PPP is just one of the skills you’ll need to earn your CCNA and pass the CCNP BCRAN exam.  Don’t underestimate ISDN on Cisco’s certification exams!
+
+

@@ -1,0 +1,26 @@
+Title: 
+An Expert System Powered By Uncertainty
+
+Word Count:
+528
+
+Summary:
+The Artificial Intelligence community sought to understand human intelligence by building computer programs, which exhibited intelligent behavior. Intelligence was perceived to be a problem solving ability. Most human problems appeared to have reasoned, rather than mathematical, solutions. The diagnosis of a disease could hardly be calculated. If a patient had a group of symptoms, then she had a particular disease. But, such reasoning required prior knowledge. The programs ne...
+
+
+Keywords:
+Artificial intelligence, expert systems, uncertainty, diagnosis, knowledge bases.
+
+
+Article Body:
+The Artificial Intelligence community sought to understand human intelligence by building computer programs, which exhibited intelligent behavior. Intelligence was perceived to be a problem solving ability. Most human problems appeared to have reasoned, rather than mathematical, solutions. The diagnosis of a disease could hardly be calculated. If a patient had a group of symptoms, then she had a particular disease. But, such reasoning required prior knowledge. The programs needed to have the “knowledge” that the disease exhibited a particular group of symptoms. For the AI community, that vague knowledge residing in the minds of “Experts” was superior to text book knowledge. So they called the programs, which solved such problems, Expert Systems.
+
+Expert Systems managed goal oriented problem solving tasks including diagnosis, planning, scheduling, configuration and design. One method of knowledge representation was through “If, then...” rules. When the “If” part of a rule was satisfied, then the “Then” part of the rule was concluded. These became rule based Expert Systems. But knowledge was sometimes factual and at other times, vague. Factual knowledge had clear cause to effect relationships, where clear conclusions could be drawn from concrete rules. Pain was one symptom of a disease. If the disease always exhibited pain, then pain pointed to the disease. But vague and judgmental knowledge was called heuristic knowledge. It was more of an art. The pain symptom could not mechanically point to diseases, which occasionally exhibited pain. Uncertainty did not yield concrete answers.
+
+The AI community tried to solve this problem by suggesting a statistical, or heuristic analysis of uncertainty. The possibilities were represented by real numbers or by sets of real-valued vectors. The vectors were evaluated by means of different “fuzzy” concepts. The components of the measurements were listed, giving the basis of the numerical values. Variations were combined, using methods for computing combination of variances. The combined uncertainty and its components were expressed in the form of “standard deviations.” Uncertainty was given a mathematical expression, which was hardly useful in the diagnosis of a disease.
+
+The human mind did not compute mathematical relationships to assess uncertainty. The mind knew that a particular symptom pointed to a possibility, because it used intuition, a process of elimination, to instantly identify patterns. Vague information was powerfully useful to an elimination process, since they eliminated many other possibilities. If the patient lacked pain, all diseases, which always exhibited pain, could be eliminated. Diseases, which sometimes exhibited pain were retained. Further symptoms helped identification from a greatly reduced database. A selection was easier from a smaller group. Uncertainty could be powerfully useful for an elimination process.
+
+Intuition was an algorithm, which evaluated the whole database, eliminating every context that did not fit. This algorithm has powered Expert Systems which acted speedily to recognize a disease, identify a case law or diagnose the problems of a complex machine. It was instant, holistic, and logical. If several parallel answers could be presented, as in the multiple parameters of a power plant, recognition was instant. For the mind, where millions of parameters were simultaneously presented, real time pattern recognition was practical. And elimination was the key, which could conclusively handle uncertainty, without resort to abstruse calculations.
+
+

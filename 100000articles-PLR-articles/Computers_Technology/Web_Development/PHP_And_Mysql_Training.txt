@@ -1,0 +1,51 @@
+Title: 
+PHP And Mysql Training
+
+Word Count:
+448
+
+Summary:
+Requirements essential for learning this programming language, PHP Training Objectives, Prerequisites For Training and Course Details
+
+
+Keywords:
+php mysql web development, php and mysql web development, php mysql development
+
+
+Article Body:
+The recent boom in field of Information Technology has seen a steep rise in the demand of trained professionals in PHP and MySQL. Software companies specializing in php mysql web development are always searching for skilled professionals for recruitment in several important projects. The current supply of PHP experts is much below par, in terms of potential growth in the industry.
+
+To train the educated work force in this regard various MySQL and PHP training courses have been developed. These courses provide elaborate training to the professionals for developing website with the usage of these languages. 
+
+PHP Training Objectives
+
+Two main objectives of php and mysql web development program are:
+
+•	To develop skills to create interactive and data-driven sites
+
+•	Skill development for database creation in MySQL programming
+
+Prerequisites For Training
+
+The most important criteria for acquiring PHP training is thorough knowledge of HTML. The course should focus on any level in programming for teaching database creation.     
+
+On the other hand there are courses for fresher in the field of php and mysql web development. Some institutes like Indus Net Academy, has launched ACE Web Developer course with the aim of teaching real applications in PHP and MySQL. These courses are beneficial for creating awareness among candidates about programming language. 
+
+Course Details
+
+Once you get enrolled into these training courses you can acquire knowledge in areas like PHP Programming Fundamentals, Strings Functions, Arrays Functions, HTML/CSS and Forms, File Handling and Email Handling in PHP, Object Oriented PHP and Session Handling etc. On the other hand, the ACE Web Developer course emphasizes on other programming languages such as MySQL Basics, Extended PHP, OOPS in PHP 5, Exception handling in PHP 5, XML / SOAP etc. 
+
+Another vital aspect of these php mysql development courses are; 70% hands-on and 30% lecture ratio, as far as the training part of the course are concerned. By engaging the students in live projects the courses ensure that the students have a thorough understanding of the actual application of such programming languages. 
+
+So if you have some knowledge about HTML, then you can get online training as well as work as a freelancer for php mysql web development. Some of the requirements essential for learning this programming language are:
+
+•	A personal computer at home
+•	Linux, Windows, MacOS X, or Solaris operating system
+•	Web server (either Apache httpd or Microsoft IIS)
+•	PHP 5 or later with the PEAR extensions enabled
+•	MySQL 4.1 or later (5 or later recommended)
+•	Internet Explorer 6 or Firefox 2
+
+PHP programmers can now get quality work through the Internet from the freelancing websites. It is an open source language and is free to install and use. This is the main reason for the increase in the popularity of this language.
+
+

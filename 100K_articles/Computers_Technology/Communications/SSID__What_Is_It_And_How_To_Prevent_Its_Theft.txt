@@ -1,0 +1,24 @@
+Title: 
+SSID: What Is It And How To Prevent Its Theft
+
+Word Count:
+373
+
+Summary:
+SSID, the shortened form of Service Set Identifier, is the network name of a wireless LAN system. This system picks up all transmissions of wireless communication, but only allows for the communication of two or more signals that share the same service set identifier number.
+
+
+Keywords:
+SSID
+
+
+Article Body:
+SSID, the shortened form of Service Set Identifier, is the network name of a wireless LAN system. This system picks up all transmissions of wireless communication, but only allows for the communication of two or more signals that share the same service set identifier number. All of the computers of the network must know and have the same SSID number on file in order to access the WLAN service, but knowing the numbers does not mean that an individual is able to use that WLAN service if he or she is not actually part of that network. 
+
+The service set identifier number is most often found on the top of each transmission that is sent throughout the network. This generally can lead to service and safety concerns as there are people who can intercept this case sensitive number. This then can lead to them trying to access the network and share in the internet service or other files on the computers. For a business, this can be very dangerous with their potential competition being some of those who would wish to know their information. For individuals, this is dangerous because many individuals keep their financial data on the computer and this then can be accessed and their accounts stolen.
+
+Methods that are being used to limit the chances of the SSID number of falling into the wrong hands include programs that limit the types of documents that the SSID number is displayed on. This helps somewhat since there are still programs and documents that require the SSID number to be visible for sending and communication. Other methods of protecting the SSID number is to consistently change the number, but this is difficult because then each computer must have the SSID number changed which means the widespread hand out of the SSID number to the employees and the chances that it might again fall into the wrong hands.
+
+The final method of handling SSID numbers and security is to attach an additional password that is for each individual. This method limits the chances of one actually accessing both the service set identifier number and a password. This method is gaining popularity from those businesses with newer computers and a newer service provider and SSID.
+
+

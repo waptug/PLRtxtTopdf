@@ -1,0 +1,42 @@
+Title: 
+Taking A Look At Cisco's CCVP Certification
+
+Word Count:
+265
+
+Summary:
+Cisco's Certified Voice Professional certification is one of the most-desirable certs in IT today.  Chris Bryant, CCIE #12933, takes a detailed look at the path to this certification.
+
+
+Keywords:
+ccna, ccnp, pass, exam, ccvp, certification, cisco, nat, free
+
+
+Article Body:
+I hardly have to tell you how important voice technologies are in today's networks; what we all need to keep in mind to maximize our career potential is how important knowing voice is going to be tomorrow.  
+
+We've always got to look forward in IT, both in our work and out studies.  Cisco, always the pioneer in technical certifications, now offers a Cisco Certified Voice Professional certification that is gaining a lot of attention from IT professionals looking to add to their skills and their resume.
+
+Cisco's CCVP track is a rigorous five-exam track that requires you to earn your CCNA (Cisco Certified Network Associate) certification before getting started.  The five exams cover a myriad of topics - they're not giving this one away!  Here are the exam numbers and codes you'll need to know to register for the exams:
+
+642-642  Quality Of Service  (QOS)
+
+642-432 Cisco Voice Over IP (CVOICE)
+
+642-425  IP Telephony Troubleshooting  (IPTT)
+
+642-444  Cisco IP Telephony  (CIPT)
+
+642-452 Cisco Voice Gateways  (GWGK)
+
+Many newly-minted CCNAs wonder if they should pursue this or the Security Professional certification immediately after getting their CCNA.  I recommend that a new CCNA pursue and achieve the CCNP before going after these more-specialized certifications.  While it is not required by Cisco, the routing and switching knowledge your will acquire on your way to the CCNP will be invaluable to your career as well as being helpful with your CCVP pursuits.
+
+Besides, these certifications won't be going anywhere soon.  Think of how valuable you will be with a CCNP, CCVP, and CCSP!
+
+To your success,
+
+Chris Bryant
+
+CCIE #12933
+
+

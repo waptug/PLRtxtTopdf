@@ -1,0 +1,56 @@
+Title: 
+Does Google Trust You? Trust Rank Exlained
+
+Word Count:
+961
+
+Summary:
+It is over two years since a paper was released the basis of TrustRank,, yet even today, over two years later, hardly anyone outside of the core internet marketing world have clue what it is. The original concept was simple and in fact only a few lines.
+
+Combating Web Spam with TrustRank. Technical Report, Stanford University, 2004
+
+Web spam pages use various techniques to achieve higher-than-deserved rankings in a search engine's results. While human experts can identify...
+
+
+Keywords:
+trust rank, google, seo, sem, web marketing,
+
+
+Article Body:
+It is over two years since a paper was released the basis of TrustRank,, yet even today, over two years later, hardly anyone outside of the core internet marketing world have clue what it is. The original concept was simple and in fact only a few lines.
+
+Combating Web Spam with TrustRank. Technical Report, Stanford University, 2004
+
+Web spam pages use various techniques to achieve higher-than-deserved rankings in a search engine's results. While human experts can identify spam, it is too expensive to manually evaluate a large number of pages. Instead, we propose techniques to semi-automatically separate reputable, good pages from spam. We first select a small set of seed pages to be evaluated by an expert. Once we manually identify the reputable seed pages, we use the link structure of the web to discover other pages that are likely to be good. In this paper we discuss possible ways to implement the seed selection and the discovery of good pages. We present results of experiments run on the World Wide Web indexed by AltaVista and evaluate the performance of our techniques. Our results show that we can effectively filter out spam from a significant fraction of the web, based on a good seed set of less than 200 sites.
+
+Original document http://dbpubs.stanford.edu:8090/pub/2004-17
+
+I will try to explain in layman’s terms what this is all about.
+
+First of all you will need to understand about hubs and authority sites in the eyes of Google. Sites and pages are clustered by Phrase and topic as part of the Google web mapping. Within these clusters Google will identify its current hubs and authorities. Hubs being sites that link out to many of the sites within that cluster, and authorities are the sites within that cluster that receive more links to it than the others.
+
+Google will Have already manually have rated these sites with regard their content, the sites they link to and their trustworthiness.
+
+A prime example would be the BBC. They have a strict set of guidelines that editors must adhere to with regard linking to sites on the web. They also have strict guidelines set in place and overseen by government appointed bodies. These seed sites will be given a trust factor which can then be carried (or voted) to other sites, (like page rank) through their links.
+
+Most niche trusted sites will carry links to similar content, or links to links on similar content. E.G. Reuters might run a news line, which is picked up by the BBC who rewrite and cite the original Reuters report. CNN might cite the BBC version which is more developed. ALL these sites are interlinking, and all are trusted sites. They might all also link to a website that originally carried the white paper/ allegation/ content.
+
+So let’s put it into practice.
+
+I release a niche altruistic website that is well received. The news gets picked up by the BBC who link to it. Various other news sites pick up on it and also point links to my niche site. In time other charity and educational sites link to me, as well as church sites etc. Many of these sites will be either seed trusted sites or linked to by seed sites. The closer the site which links to me is to the seed site, the more TrustRank my altruism site will get, the further away the less.. By default, if my TrustRank hits a level (caused by numerous site that have inherited TrustRank from votes), I might well become a trusted hub myself, making links from my site very valuable (in terms of TrustRank not monetary, although this will also be the case, but no one will know the TrustRank to know the value)
+
+If you want to see a crude version of trustrank in action then look at the voting system on a forum.
+
+If someone with a red (negative) reputation votes for you (good or bad), it doesn't affect your reputation, because in the eyes of the system they are not trusted because others who ARE trusted have said so. While a vote (good or bad) from someone with many squares of reputation can lift you up on high, or condemn you to the fiery furnace, while votes from those with one or two squares of reputation will count, but not for much. This is a simplified form of TrustRank.
+
+It is my belief that TrustRank will compound so that the sum of the whole will be greater than the parts. so if a site got links from a seed site it would be worth x, but a site with links from two seed sites could be x +y + compounded trust value.
+
+Below is a graphical representation of how it might work, but I have for simplicity not added the compounding value, and have used round numbers. Google PageRank uses a whole number of 1 as a base for each page, and a ’voting value’ of .85 of the PageRank value. (This being the result of the .15 dampening factor applied to all pages when determining the value of outbound links from a page).
+
+http://www.umbrella-consultancy.co.uk/tr1.jpg (address of image)
+
+That is my take on TrustRank. So the old adage of build quality content that people will want to link to, means more than ever now.
+
+One last thing, in life there is balance, for every shard of light there is dark, for every white Stetson, there is a black one. If some sites ARE trusted, either by seed or approval of seed, then some will NOT be. It is therefore possible, that links from un-trusted (due to being TrustRank unknown) sites, might not get any link benefit to pass on? Just a theory.
+
+

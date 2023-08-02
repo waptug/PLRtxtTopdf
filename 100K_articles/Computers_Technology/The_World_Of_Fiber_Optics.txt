@@ -1,0 +1,33 @@
+Title: 
+The World Of Fiber Optics
+
+Word Count:
+480
+
+Summary:
+The Principle of fiber optics is based on transmission of data by means of light. Concept of fiber optics was first conceived by Claude Chappe in 1790’s. His idea for fiber optics was based on an optical telegraph concept invented by Graham Bell also tried the means to send information by the atmosphere but did not succeed. Finally, fiber optics emerged with the onset of new era based on the principle of total internal reflection which is a distinct quality of light rays. 
+...
+
+
+Keywords:
+fiber cables,fiber optic tester,fiber optic light source,fiber cable,lc fiber,fiber patch cables
+
+
+Article Body:
+The Principle of fiber optics is based on transmission of data by means of light. Concept of fiber optics was first conceived by Claude Chappe in 1790’s. His idea for fiber optics was based on an optical telegraph concept invented by Graham Bell also tried the means to send information by the atmosphere but did not succeed. Finally, fiber optics emerged with the onset of new era based on the principle of total internal reflection which is a distinct quality of light rays. 
+
+Fiber optics emerged and grew into more advanced phase due to requirement from radio and telephone engineers. These engineers required more bandwidth for data transmission. Thus these engineers had been looking out for a medium to transmit data in more reliable and faster form rather than copper cables. They also wanted to avoid the hazards of electric shocks and interference which were a constant problem of copper cables. 
+
+Fiber optics had attracted some attention because they were analogous in theory to plastic dielectric waveguides used in certain microwave applications. Finally a technology evolved that used glass or plastic threads to transmit data. Cables involved in fiber optics contain several bundles of glass threads which are capable of transmitting data in modulated form.
+
+With the onset of fiber optics and fiber optic cables data started to transfer faster as fiber optic cables have greater bandwidth than metal cables and are more resistant to external interference. Lighter and thinner fiber optic cables readily transfer data in digital form rather than analogue form. This technology is most useful in computer industry which now forms an integral part of telephone, radio and television industry. 
+
+Telecommunications applications of fiber optics use flexible low-loss fibers, using a single fiber per optical path. Along with the communication industry fiber optics plays an important role in medical and industrial applications also. Many medical appliances like endoscope use the principle of fiber optics. Industrial applications viz. in television industry use the principle of fiber optics to obtain flattened images in cathode ray tubes. 
+
+Fiber optics yield distortion free data transmission in digital form. The audio waves transmitted via principle of fiber optics deliver accurate signal transfer. Fiber optics is also useful in automotive and transportation industry. Traffic lights, organized and scrutinized highway traffic control, automated toll booths, etc. are some of the benefits of application of fiber options in the transportation mechanism.
+
+Cable TV companies and Internet Service Providers equivocally find fiber optics indispensable in their industry. Fiber optics provides tamper free, high bandwidth and larger data carrying capacity to the service providers. This eventually leads to better consumer satisfaction.
+
+Unlike copper wire system fiber optics do not use and electrical form to carry data. The use of light gives a competitive edge to fiber optics over regular data transmission options. But eventually use of fiber optics is very expensive as compared to copper cabling system.
+
+

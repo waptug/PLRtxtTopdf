@@ -1,0 +1,175 @@
+Title: 
+Cisco CCNP / BSCI Exam Tutorial:  Filtering BGP Updates With Prefix Lists
+
+Word Count:
+709
+
+Summary:
+Knowing how to filter BGP updates with prefix lists is a vital skill in the real world and the exam room.  Learn this skill from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+ccnp, bsci, exam, free, tutorial, bgp, filter, prefix, list, update, routing, pass, certification
+
+
+Article Body:
+A major part of your BSCI and CCNP exam success is mastering BGP, and that includes filtering BGP routing updates. In this tutorial, we'll take a look at how to filter BGP updates with prefix lists.
+
+R4 is advertising three networks via BGP.  The downstream router R3 sees these routes and places them into its BGP table as shown below. R3 has two downstream BGP peers, R1 and R2, and is advertising itself as the next-hop IP address for all BGP routes sent to those two routers.
+
+R4(config)#router bgp 4
+
+R4(config-router)#network 21.0.0.0 mask 255.0.0.0
+
+R4(config-router)#network 22.0.0.0 mask 255.0.0.0
+
+R4(config-router)#network 23.0.0.0 mask 255.0.0.0
+
+ 
+R3#show ip bgp
+
+BGP table version is 4, local router ID is 3.3.3.3
+
+Status codes: s suppressed, d damped, h history, * valid, > best, i – 
+Internal
+
+Origin codes: i - IGP, e - EGP, ? – incomplete
+
+   Network          Next Hop            Metric LocPrf Weight Path
+
+*> 21.0.0.0         10.2.2.4                 0                        0       4 I
+
+*> 22.0.0.0         10.2.2.4                 0                        0       4 I
+
+*> 23.0.0.0         10.2.2.4                 0                        0       4 I
+
+R3(config)#router bgp 123
+
+R3(config-router)#neighbor 172.12.123.1 next-hop-self
+
+R3(config-router)#neighbor 172.12.123.2 next-hop-self
+
+In turn, both R1 and R2 have these three routes in their respective BGP tables.
+
+R2#show ip bgp
+
+BGP table version is 4, local router ID is 2.2.2.2
+
+Status codes: s suppressed, d damped, h history, * valid, > best, i – 
+Internal
+
+Origin codes: i - IGP, e - EGP, ? – incomplete
+
+   Network          Next Hop            Metric LocPrf Weight Path
+
+*>i21.0.0.0         172.12.123.3             0    100        0       4 I
+
+*>i22.0.0.0         172.12.123.3             0    100        0       4 I
+
+*>i23.0.0.0         172.12.123.3             0    100        0       4 I
+
+ 
+R1#show ip bgp
+
+BGP table version is 4, local router ID is 19.1.1.1
+
+Status codes: s suppressed, d damped, h history, * valid, > best, i – 
+Internal
+
+Origin codes: i - IGP, e - EGP, ? – incomplete
+
+   Network          Next Hop              Metric   LocPrf    Weight Path
+
+*>i21.0.0.0         172.12.123.3             0    100         0      4 I
+
+*>i22.0.0.0         172.12.123.3             0    100         0      4 I
+
+*>i23.0.0.0         172.12.123.3             0    100         0      4 I
+
+If we wanted R3 to receive all three of these routes from R4 but not advertise all of them to R2 and R1, we've got a couple of options on how to block these routes.  Cisco's recommendation is the use of prefix-lists, and once you get used to the syntax (which you should do before taking and passing the BSCI), you'll see they are actually easier to use than access-lists.
+
+In this case, we're going to configure R3 to send only the route to 21.0.0.0 to R1 and 23.0.0.0 to R2.  However, we do want these two routers to get any future routes that R4 advertises into BGP.
+
+Since R1 and R2 will learn about these routes from an iBGP neighbor, they will not advertise the routes to each other.
+
+On R3, we'll write a prefix-list that denies 22.0.0.0/8 and 23.0.0.0/8, but permits all other routes.  After applying the prefix list as shown, R1 sees only the 21.0.0.0 /8 route.
+
+R3(config)#ip prefix-list FILTER_R1 deny 22.0.0.0/8
+
+R3(config)#ip prefix-list FILTER_R1 deny 23.0.0.0/8
+
+R3(config)#ip prefix-list FILTER_R1 permit 0.0.0.0/0 le 32
+
+R3(config)#router bgp 123
+
+R3(config-router)#neighbor 172.12.123.1 prefix-list FILTER_R1 out
+
+R3#clear ip bgp * soft
+
+R1#show ip bgp
+
+BGP table version is 6, local router ID is 19.1.1.1
+
+Status codes: s suppressed, d damped, h history, * valid, > best, i – 
+Internal
+
+Origin codes: i - IGP, e - EGP, ? – incomplete
+
+   Network          Next Hop                Metric LocPrf Weight Path
+
+*>i21.0.0.0         172.12.123.3             0    100        0       4 I
+
+The paths to 22.0.0.0/8 and 23.0.0.0/8 have been successfully filtered.
+
+We'll do the same for R2, except the route not being expressly blocked is 23.0.0.0/8.  The line "ip prefix-list permit 0.0.0.0/0 le 32" is the prefix list equivalent of a "permit any" statement in an ACL.
+
+R3(config)#ip prefix-list FILTER_R2 deny 21.0.0.0/8
+
+R3(config)#ip prefix-list FILTER_R2 deny 22.0.0.0/8
+
+R3(config)#ip prefix-list FILTER_R2 permit 0.0.0.0/0 le 32
+
+R3(config)#router bgp 123
+
+R3(config-router)#neighbor 172.12.123.2 prefix-list FILTER_R2 out
+
+R3#clear ip bgp * soft 
+
+R2#show ip bgp
+
+BGP table version is 6, local router ID is 2.2.2.2
+
+Status codes: s suppressed, d damped, h history, * valid, > best, i –
+ Internal
+
+Origin codes: i - IGP, e - EGP, ? – incomplete
+
+   Network          Next Hop               Metric LocPrf Weight Path
+
+*>i23.0.0.0         172.12.123.3             0    100      0        4 I
+
+The paths to 21.0.0.0/8 and 22.0.0.0/8 have been successfully filtered.
+
+To see the prefix lists configured on a route as well as the order of the statements in each list, run show ip prefix-list.
+
+R3#show ip prefix-list
+
+ip prefix-list FILTER_R1: 3 entries
+
+   seq 5 deny 22.0.0.0/8
+
+   seq 10 deny 23.0.0.0/8
+
+   seq 15 permit 0.0.0.0/0 le 32
+
+ip prefix-list FILTER_R2: 3 entries
+
+   seq 5 deny 21.0.0.0/8
+
+   seq 10 deny 22.0.0.0/8
+
+   seq 15 permit 0.0.0.0/0 le 32
+
+Get some hands-on practice with prefix lists and you'll quickly master them.  Prefix lists are an important part of working with BGP in the exam room and production networks, so it's vital that you are comfortable working with them.
+
+

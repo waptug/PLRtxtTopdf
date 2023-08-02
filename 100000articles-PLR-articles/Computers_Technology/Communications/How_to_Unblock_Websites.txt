@@ -1,0 +1,33 @@
+Title: 
+How to Unblock Websites
+
+Word Count:
+301
+
+Summary:
+If you browse the internet from your workplace, school or library, you realize that many of the famous entertainment or slightly off-color sites have been blocked.
+
+
+Keywords:
+unblock websites
+
+
+Article Body:
+Web sites are blocked due to certain filter or blocking software that is loaded onto your computer.
+
+In addition, large computer networks (networks at your workplace or school), a firewall is also installed and this is also used to block specific web sites. However, unblocking web sites can sometimes be a difficult task to achieve. 
+
+Proxies or proxy servers (also called anonymizers) have the ability to bypass filters on the computer or the network's firewall. Your computer connects to a proxy and the proxy makes the connection with the blocked web site. Using a proxy is also the easiest way to access websites that have been blocked by a filter or firewall.  The proxy server then allows you to browse the blocked site
+
+The easiest way to find a proxy is to head to 
+http://www.tech-faq.com/proxy-sites.shtml
+
+. Select any of the proxy and check if you are able to access it. If you are able to access the proxy site, make sure you bookmark it in your browser. If you are unable to access it, it means that the proxy is blocked. You will have to head to the page again and find a working proxy.
+
+Once you have found a working proxy, follow the steps given below:
+- Enter the site address - Scroll down the page until you see a text box and a button displaying "Go", "Browse" or "Surf" beside it. Click on the text box and enter the address of the web page you wish to view.
+- Click the button - Click on the button next to the textbox, displaying "Go", "Browse" or "Surf" . Voila! You have successfully unblocked the site.
+
+Unfortunately, the filters will sooner or later block the proxies.  You will have to head back to the proxy list and find another proxy to use.
+
+

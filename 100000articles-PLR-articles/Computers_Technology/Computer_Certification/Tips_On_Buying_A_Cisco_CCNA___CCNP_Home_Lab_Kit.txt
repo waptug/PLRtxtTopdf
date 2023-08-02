@@ -1,0 +1,28 @@
+Title: 
+Tips On Buying A Cisco CCNA / CCNP Home Lab Kit
+
+Word Count:
+368
+
+Summary:
+Buying a Cisco home lab kit for your CCNA / CCNP studies is a great way to accelerate your studies.  Chris Bryant, CCIE #12933, offers tips on what to look out for with these package deals.
+
+
+Keywords:
+ccna,cisco,ccnp,exam,free,home,lab,tutorial,router,switch,icnd,intro,bsci,ios,version,pass,succeed,kit,cable,dte,dce,chris,bryant,advantage,ccie,12933
+
+
+Article Body:
+Buying a CCNA / CCNP home lab is the best way to be totally prepared for your Cisco exams.  Most home labs are put together one router or switch at a time, but many CCNA / CCNP candidates prefer to buy kits where you get multiple routers and switches, along with all the cables and other connection devices you'll need.
+
+While this is a good idea, keep a few things in mind when purchasing Cisco home lab kits.
+
+Don't buy anything you don't need.  The problem is that when you're first starting out with your Cisco home lab, you don't know everything that you need.   (I sure didn't!)  Keep in mind that you only need one transceiver per AUI port on a Cisco router, so if you're getting routers with two AUI ports in all, you don't need five transceivers in the kit.  It doesn't hurt to have one spare, but three is a little too much.
+
+More importantly, don't buy kits with old CCNA or CCNP study guides included.  I've seen kits with books that were three years old and were of no use to the candidate.  If you see a kit that looks good but includes books or manuals you just don't want, ask the vendor for a price that doesn't include the books.  It never hurts to ask.
+
+Watch the IOS version.  Unless you've got access to IOS upgrades, you'll be working with the IOS version that's on the routers and switches when you buy the kit for a while.  You don't necessarily need the latest and greatest IOS version for CCNA study, but don't buy routers with IOS versions beginning with "10" unless you have an IOS to upgrade them with. (And make sure the routers have enough memory to handle the IOS you plan on putting on them.)
+
+Purchasing a Cisco CCNA / CCNP Home Lab is one of the best investments in your career that you will ever make.  Exercise just a bit of caution when purchasing your kit, and you'll be on your way to true Cisco success, in the exam room and on your network!
+
+

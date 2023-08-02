@@ -1,0 +1,52 @@
+Title: 
+Cisco Certification:  Don't Depend On Practice Exams
+
+Word Count:
+417
+
+Summary:
+Practice exams are fine, but some CCNA and CCNP candidates make the fatal mistake of using them as their primary study tool.  Chris Bryant, CCIE #12933, explains why practice exams must be used in moderation.
+
+
+Keywords:
+ccna, ccnp, free, pass, exam, cisco, certification, computer, mcse, ccie, chris, bryant
+
+
+Article Body:
+Ask a CCNA candidate how they’re preparing for exam day, and you’ll get different answers.  Different books, different websites, different practice exams.  
+
+ 
+
+One trend I’ve noticed is that some candidates answer the question by reeling off the number and names of the practice exams they’ve purchased.  Basically, the candidate is studying by taking a lot of practice exams.  And in some cases, I mean a lot of them.
+
+ 
+
+The intent of this article isn’t to slam practice exams.  I do want to address this trend among Cisco certification candidates of purchasing as many practice exams as they can find, attempting to pass the CCNA exam by “brute forcing” it, as one Cisco employee recently said.
+
+ 
+
+I have nothing against practice exams. I sell flash cards that serve as a practice exam, if that’s the way the candidate wants to use them.  However, you can’t be dependent on them to pass your exams.  As I tell students every day, “When you’re in front of a rack of routers, there is no A, B, C, and D choice.  You’ve got to know what you’re doing.”
+
+ 
+
+If practice exams are a candidate’s primary tool for exam preparation, though, they’ll most likely be disappointed on exam day.  The current Cisco CCNA exams are designed to weed out those who have memorized a chart or two there is a premium not only on knowledge, but the ability to apply that knowledge.  Just taking one practice exam after the other will not develop this skill.
+
+ 
+
+Simulators are fine to a certain extent as well, but don’t become dependent on them.  The simulators I’ve seen don’t really let you make mistakes in your configuration, and it’s when you have to fix your own mistakes that you truly learn what’s going on.  
+
+ 
+
+Keep the long-range view when preparing for your CCNA exams.   You’re not just studying for exam day you’re laying the groundwork for a successful career.  The study you do for your CCNA exam will be some of the most important study you ever do, since all the work you do for future certifications like the CCNP (and yes, the CCIE!) are based on the foundation you’re building today.
+
+ 
+
+Make it a solid foundation.  Stick to a well-rounded study plan, using books, practice exams, and routing equipment, and you’re on your way to success in the Cisco field.
+
+Chris Bryant
+
+CCIE #12933
+
+chris@thebryantadvantage
+
+

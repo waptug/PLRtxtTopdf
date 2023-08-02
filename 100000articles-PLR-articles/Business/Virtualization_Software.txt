@@ -1,0 +1,23 @@
+Title: 
+Virtualization Software
+
+Word Count:
+315
+
+Summary:
+Virtualization software is all set to change the way manufacturers make computer hardware and also affect the way data centers are managed and run, at least for the near, predictable future that is. Virtualization software has been literally forced upon the IT industry by the drastic need for greater multi-core chip architecture and a demand for greater ways to save on energy costs. Virtualization software is a technology that has already consolidated its position in the IT industry and is only set to grow.
+
+
+Keywords:
+Virtualization Software 
+
+
+Article Body:
+Virtualization software is all set to change the way manufacturers make computer hardware and also affect the way data centers are managed and run, at least for the near, predictable future that is. Virtualization software has been literally forced upon the IT industry by the drastic need for greater multi-core chip architecture and a demand for greater ways to save on energy costs. Virtualization software is a technology that has already consolidated its position in the IT industry and is only set to grow. 
+
+Virtualization software is believed to be the brainchild of a company called VMware, a company based in Calif and a little less than a decade old. Such is the potential of virtualization software that IT heavy weights such as Intel, AMD and Cisco systems have invested very heavily in the company in the recent past. These leaders in the field of computer technology have realized the need to bend technology in a way to accommodate virtualization software and take advantage of the full scope of virtualization software. 
+
+So what is Virtualization Software all about? 
+Before we delve into the uses of virtualization software we must first understand what virtualization software is and where it is used. Virtualization software is a software technology that does away with the need for running multiple servers. With virtualization software administrators of data centers can configure one physical server to run multiple operating systems simultaneously as if the operating systems were running on multiple machines simultaneously. This saves on the cost of investing in multiple servers without having to increase the resources of the single server. This also saves on huge costs of peripheral network devices such as network switches and hubs. Thus, virtualization software leads to massive savings on hardware costs, energy bills and maintenance costs as well, at the same time increasing utility and efficiency of the machine the virtualization software is installed on.
+
+

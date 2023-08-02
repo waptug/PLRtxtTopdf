@@ -1,0 +1,37 @@
+Title: 
+Offsite Data Backup – Be Very careful who you deal with!
+
+Word Count:
+666
+
+Summary:
+There are many companies now offering offsite backup services.  Please do not choose your supplier based on price alone.  Remember your data is your companies most important asset.
+
+
+Keywords:
+offsite backup, data backup, online backup, remote backup, internet backup, online storage
+
+
+Article Body:
+The concept of offsite data backup is not new; some time ago it was only available to corporate institutions that had multiple locations, high connectivity speeds and very high budgets.  Today the cost of hardware and high speed connectivity has greatly reduced, as a result the number of companies offering backup to a remote location has greatly increased.   For purposes of conversation, we can call it jumping on the band wagon.  
+
+You may think the increased competition is good for the consumer, to an extent, I agree, but not at the cost of cutting corners and jeopardising the security of your data.  We all know and agree a company’s data is its most important asset, and to lose or give access to your competition such an asset is never an option.  So please be careful where you store your data. 
+
+The general idea of offsite backup is a good one, after all it has a very low proportionate implementation cost and as the correct system should be completely automated the cost of ownership is also very low as well.  Unlike tape backup it is also very scalable, you can start small and grow into larger solutions as and when you require with zero disruption but you have to be with the right offsite backup company in the first place.
+
+In today’s data centric environment even smaller companies may have more than one server, just for example a server for Microsoft Exchange/Lotus Notes, a server for Microsoft SQL/Oracle/MySQL and potentially a file and print server, or maybe a single server which carries out all tasks.  Smaller companies may still use older inherited Unix based or Novell based systems or may be considering migrating to a lower cost Linux environment.  Whet ever you currently use or what you may use in the future your offsite backup solution will need to adapt.  Please check, what ever backup company you use, make sure they are always developing their products for the future, your companies future.
+
+Getting data to an offsite location is the easy bit, anybody can click and drag to an ftp site, to optimise your backup and more importantly your recovery times make sure your data is compressed locally or at source.  The most important element of any data transfer is security, make sure your data is encrypted before it is transmitted and remains encrypted whilst in storage if this is the case only your organisation will have access to your data. 
+
+In what environment is your data stored?  There is no point just moving your most important asset to another location, make sure it is totally safe, data should only be backed up to a class 1 data centre with the highest security and safety measures in place, hardware should be clustered so there is no single point of failure within that data centre and for added security and peace of mind the whole data centre and hardware within should be a replicated in real time to a second location in preferably another country.
+
+Imagine your local data backed up every night or when ever you wish to a secure remote location in the UK and then replicated in real-time to a second data centre in a different country.  
+Finally this whole process must be as efficient as possible.  It must be totally secure, fully automated ensuring your staff are focussed on revenue generating functions, it must support open files enabling you to backup regardless of what your systems are doing and it must be capable of incremental backups, after all there is no point re-transmitting a file which has not been accessed for a year.
+
+So after reading this article I now hope it has made you think and understand why the cheapest offsite backup solution is rarely the best.
+
+To find out more information about secure offsite data backup solutions, please visit
+<a href="http://www.perfectbackup.co.uk/" style="color: blue; text-decoration: underline; text-underline: single">
+www.perfectbackup.co.uk</a>
+
+

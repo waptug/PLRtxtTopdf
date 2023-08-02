@@ -1,0 +1,56 @@
+Title: 
+Bandwidth Ideal Solutions For Bandwidth Hungry Companies
+
+Word Count:
+1424
+
+Summary:
+Every business needs bandwidth solutions of some sort.  For many businesses that require large amounts of bandwidth finding just the right solution....from a cost and application standpoint....can be a confusing process.  It doesn't have to be if you understand what to base your decision on.
+
+Like anything in information technology, it really depends on how you will utilize this infrastructure.  It certainly doesn't make sense to provision high capacity transport links if y...
+
+
+Keywords:
+Bandwidth, Sonet, OC3, Fiber, OC12, OC48, WAN, DWDM, CWDM, Ethernet
+
+
+Article Body:
+Every business needs bandwidth solutions of some sort.  For many businesses that require large amounts of bandwidth finding just the right solution....from a cost and application standpoint....can be a confusing process.  It doesn't have to be if you understand what to base your decision on.
+
+Like anything in information technology, it really depends on how you will utilize this infrastructure.  It certainly doesn't make sense to provision high capacity transport links if you will use them for a small fraction of the day or the traffic doesn't warrant it. 
+
+I think one of the hardest things about this arena is that many times the people requesting the bandwidth are confused about what bandwidth really is.  There's a misnomer that bandwidth automatically equals speed. "Well my application is slow, I need more bandwidth".  Many times if a study is done on exactly what your needs are, it turns out to be a very different story from the initial conversation. 
+
+With a plethora of technologies out there for WAN and Metro services, wired or wireless customers can choose to subscribe to always on, dedicated access methods or go for a most cost effective model with somewhat "shared" topologies like Multi-Protocol Label Switching.  The idea here is that you have options and each solution can satisfy any number of requirements.  There's never been a better time in the industry for choices.
+
+The best option is the cheapest one that works. Dark Fiber and Metro Ethernet, if an option, should usually be looked at first to establish a price for negotiating.  I think you should focus on negotiating techniques that work to bring these bandwidths within affordable reach. 
+
+No matter how much bandwidth you are using, you will get a better deal for it at a major Network Access Point (NAP) where you have more bidders for your business, and from which you can easily shift carriers, set up failovers and redundancy, etc..  Every high end user needs their own boxes to shape traffic at the NAP, and they need them in two different racks connected to two different carriers. Accept the hit of that and you'll quickly see that the ten to thirty thousand dollars a typical urban company requires to get two boxes into a NAP (admittedly on a single dark fiber route) pays for itself in bandwidth charges in pretty much a single year.  Even just to PLAN to do it and show your spreadsheet to your carrier, a project that might cost five grand to do right, will result in more than that much per year off your bill. 
+
+Think of it like any other high end purchase.  You demonstrate that you're not a pushover, that you have options, that you understand the options and how to increase the number of options, and you bargain based on the bottom line of the cheapest solution you can find.  When they tell you it will "cost too much to have your own boxes and dark fiber to the NAP", you snap back the lowest number you can justify, call it "insurance", and rule it out as a cost factor.  When they tell you "we can monitor boxes far better than you can", leverage that into quality of service guarantees in the contract with real dollar penalties for failures or slowdowns.  When they tell you "our facility is state of the art", GO THERE and count up the number of non-bulletproof windows and visible insecure perches that someone can shoot the servers from, grab the corded phone and walk over to the rack, pulling it right out of the wall and looking astonished: "how am I supposed to give someone instructions over the phone?  They can't even walk to the rack!  You expect them to scribble it down while cradling the phone in their neck and then go over to the box and do what I said?!?!?!?" 
+
+Basically, you must point out every deficiency in their facility or service and refuse to acknowledge that your own home-built solution would have any inadequacies, or that the competitors all have the same problems.  In a high end negotiation, you must have NO mercy. 
+
+By the way, once you've got a contract with your carrier, you must be very nice to them, in total contrast to the way you leveraged like mad in the first negotiation.  Don't nickel-and-dime them after you've agreed on terms, don't let your bandwidth payments get late.  These people hold your crown jewels.  As mean as you are to the salespeople, be that nice to the geeks. 
+
+Technologically, you should consider Storage Area Networks (SAN) if you have multiple locations in the same city, and the use of SAN links over IP which is increasingly common.  Basically, the entire city becomes a vast RAID hard drive.  You should also understand some of the good business reasons to adopt very high bandwidth such as reducing the number of over-the-Internet transactions which slow things down and may compromise security in favour of internal intranet transactions.   Also, having as few layers of software as possible between the hard drive and the user is a major plus.
+
+Also consider the price difference between Sonet equipment versus Ethernet. These days layer-3 ethernet switches are more and more capable for usage as a router. While Sonet traditionally is quite expensive vs Ethernet (especialy for the hardware).... dark fiber and ethernet solutions from carriers are getting broad industry support.  Although I do favor Sonet for its better debuging capablities, error counters, alarms etc.   Ethernet in wide area environments seems to do the jobs as well.   Ethernet would save you the need to buy a decent router able to terminate Sonet and give you the choice to go with a decent layer-3 switch.   Another option is 10GigE WAN PHY.....it still has all the advantages of Sonet combined with Ethernet, gives you the ability to use cheaper layer-3 switches, looks for the carrier as a normal Sonet service and works over long distances. 
+
+To look at the tradeoffs, you'll have to start by finding out what is available at your end user location. Within North America, the alternatives include ATM OC-3/12/48, SONET (and Next Generation SONET) probably more likely OC-12/48/192, and Metro Ethernet at 100 Mbps (a little slower than OC-3), 1 Gbps (about OC-24) and 10 Gbps (OC-192).  Things that aren't available need not be considered. 
+
+What are the availability requirements?  If you are thinking of SONET, find out if it will come to your  premises as a star or ring or dual ring.  Metro Ethernet might be faster but not necessarily physically diverse.  Sometimes, you can be creative and use a short free-space link to get access to a physically diverse medium. 
+
+For more background and insights I suggest reading "WAN Survival Guide" and "Building Service Provider Networks" by Howard Berkowitz.  Both are excellent resources. 
+
+I have worked with many customers to design infrastructure solutions that incorporate high-end DWDM or CWDM connections between datacenters.  Now, this is a business solution and the common user would never dream of having a connection such as this, available to them.  Other customers that I work with will incorporate leased lined anywhere from a T1 to OC3.  Those connections are very much sized for purpose with a percentage of growth factored in. 
+
+The practice that I go through is to evaluate need.  What are you trying to accomplish?  Is it transactional based or are you replicating data for DR?  Are you simply connecting two or more remote offices for the purpose of a Citrix solution?  Each of these questions will result in different answers when all is said and done.
+
+Remeber that redundancy is ALWAYS a factor in business oriented solutions.  Especially as it pertains to data replication and DR/HA failover to "hot" datacenters.  We are starting to see more and more of this type of configuration.  I have a few customers that are fortunate enough to have multi-ring DWDM infrastructures to make their valuable data available in the unfortunate event of a disaster. 
+
+As corny as it sounds, I have to say that your ultimate solution depends on the intended usage of that bandwidth.  I would also say that there really is no generalized "ideal" bandwidth solution.  It all comes down to intent and budget.  With today's technology in WAN (TCP/IP/FC/FCIP/IFCP) acceleration (Juniper, Riverbed, Cisco), you can transfer vast amounts of data in a smaller pipe.  It really is cool technology but still requires cost justification to implement. 
+
+Whatever you decide....do your homework....be prepared....negotiate....then install and enjoy.
+
+

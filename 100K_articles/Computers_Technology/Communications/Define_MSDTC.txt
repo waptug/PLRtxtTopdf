@@ -1,0 +1,79 @@
+Title: 
+Define MSDTC
+
+Word Count:
+684
+
+Summary:
+MSDTC, an abbreviation for Microsoft’s Distributed Transaction Coordinator (DTC), is a service component implanted in recently marketed Microsoft Windows systems (operating systems Windows 2000 and after, and Windows NT 4.0 has the MSDTC). Its job is coordinating the various transactions among multiple resource managers, including but not limited to databases, file systems, and message queues.
+
+
+Keywords:
+MSDTC
+
+
+Article Body:
+MSDTC, an abbreviation for Microsoft’s Distributed Transaction Coordinator (DTC), is a service component implanted in recently marketed Microsoft Windows systems (operating systems Windows 2000 and after, and Windows NT 4.0 has the MSDTC). Its job is coordinating the various transactions among multiple resource managers, including but not limited to databases, file systems, and message queues.
+
+
+Installing and Configuring MSDTC on a Windows 2003 Server Cluster
+There are two main ways on installing the MSDTC in Windows Server 2003, one of the more widely, if not the most used server system today. Before anything else, the MSDTC resource must be created by enabling the Network DTC access.
+
+	
+Method 1: Cluster Administrator
+Cluster Administrator can be used to install MSDTC on all nodes in a cluster, as you only need to install the MSDTC once to have an effect on all.
+1.	Start the Cluster Administrator by:
+A.	Click Start, and then All Programs
+B.	Go to Administrative Tools, and click Cluster Administrator
+2.	Create a Group called “MSDTC Group” containing a Network Name, IP Address, and a Physical Disk, by:
+A.	Click File Menu, New, and then Group
+B.	Go through the New Group Wizard which will help you create the MSDTC Group
+3.	Create an IP address resource by:
+A.	Right click on the MSDTC Group, and click NewResource
+B.	Create a name (eg. MSDTC IP Address)
+C.	Go to Resource Type, click IP Address, and check MSDTC Group, and then Next
+D.	Go to Possible Owners and click Next
+E.	Go to Dependencies and click Next as you do not want to add any dependencies
+F.	Go to TCP/IP Address Parameters and choose the public network
+G.	Type in the static IP address for the MSDTC Group and click Next
+H.	Click Finish and Ok
+4.	Create a Network Name resource by:
+A.	Right click on the MSDTC Group, and click NewResource
+B.	Create a name (eg. MSDTC Network Name)
+C.	Go to Resource Type, click Network Name, and check MSDTC Group, and then Next
+D.	Go to Possible Owners and click Next
+E.	Go to Dependencies, add the MSDTC IP Address as a dependency, and click Next
+F.	Go to Name, and type in the name of the MSDTC resource and click Next
+G.	Click Finish and Ok
+5.	Create a Physical Disk resource by:
+A.	Right click on the MSDTC Group, and click NewResource
+B.	Create a name (eg. MSDTC Physical Disk)
+C.	Go to Resource Type, click Physical Disk, and check MSDTC Group, and then Next
+D.	Go to Possible Owners and click Next
+E.	Go to Dependencies and click Next as you do not want to add any dependencies
+F.	Go to Disk Paramters and select a physical disk for the MSDTC
+G.	Click Finish and Ok
+6.	Right click on the MSDTC group and click NewResource
+7.	Type in a name
+8.	Go to Resource Type and select the Distributed Transaction Coordinator in the MSDTC Group and click Next
+9.	Go to Possible Owners and click Next
+10.	Go to Dependencies, hold on to your Ctrl key, select the Network Name and Physical Disk that you created, and click Add
+11.	Click Finish and Ok to complete the creation of the resource
+12.	Enable the network DTC access
+13.	Right click the MSDTC Resource and click Bring Online
+
+
+Method 2: Cluster.exe
+Cluster.exe is powerful for installing and configuring the MSDTC on multiple clusters.
+1.	Enable the network DTC access unless the cluster is dedicated to Exchange Server, which would make the enabling unecessary
+2.	Using the command prompt (cmd.exe), create a Group called MSDTC Group (make sure that the group contains an IP Address, Network Name, and a Physical Disk)
+3.	Create the MSDTC Resource by typing the following into the command prompt:
+cluster clustername res "MSDTC Resource" /CREATE /GROUP:"MSDTC Group" /TYPE:"Distributed Transaction Coordinator"
+4.	Run the following command in the command prompt:
+cluster clustername res "MSDTC Resource" /ADDDEP:"Network Name"
+cluster clustername res "MSDTC Resource" /ADDDEP:"Disk X:"
+A.	Network Name is the Network Name resource and Disk X is MSDTC’s physical disk
+5.	Run the following command in the command prompt to bring online the MSDTC:
+cluster clustername res "MSDTC Resource" /ON
+
+

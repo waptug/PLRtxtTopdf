@@ -1,0 +1,34 @@
+Title: 
+Helpful Software To Combat Spam
+
+Word Count:
+456
+
+Summary:
+You would think that it is very easy to discuss blocking spam. But still, you find yourself scratching your head and staring at the ceiling everytime you give it a try. Why not make use of tools and certain utilities, which are very easy to use, that can do so well in eliminating unsolicited junk mail from your inbox?
+
+You can try using SpamBayes. SpamBayes is a project that is concentrated on working on the development of a Bayesian anti-spam filter. Do not mistake this fi...
+
+
+Keywords:
+spam blocking,software block spam,blocking spam tips,spam filter tips,get rid spam,remove spam
+
+
+Article Body:
+You would think that it is very easy to discuss blocking spam. But still, you find yourself scratching your head and staring at the ceiling everytime you give it a try. Why not make use of tools and certain utilities, which are very easy to use, that can do so well in eliminating unsolicited junk mail from your inbox?
+
+You can try using SpamBayes. SpamBayes is a project that is concentrated on working on the development of a Bayesian anti-spam filter. Do not mistake this filter for another copy of other similar projects for this filter is different. The main difference between SpamBayes and other filtering projects is the emphasis on testing newer and more recently released approaches to scoring messages.
+
+K9 is an application, which also filters electronic mail, which works in conjunction with your regular everyday POP3 emial program. It automatically puts into classification certain incoming mails into spam, or junk mail, and mail that are not junk mail into non-spam, without any requirement of maintaining lots and lots of rules or constant updates to be downloaded.
+
+The MailWasher is an extremely powerful email checker that has effective spam elimination. This is believed to be a "safe" method, or tool, in stopping unwanted emails and viruses before they get inside your hard drive.
+
+Another spam blocking software is the Spamihilator. In case you had not noticed, the Spamihilator is derived from the combination of spam and the word annihilator. With this said, it just has to be very effective, given its name. Indeed it is effective, for it is a program that examines and observes your electronic mails while downloading from a certain server and also deletes unwanted messages that advertise almost everything on the planet.
+
+Spam-Aid, on the other hand, takes a more secure and opposite approach, compared to other spam blocking software. Instead of checking a certain email for spam characteristics, which is the method done by other tools, it just checks a specific mail for non-spam characteristics. Most email users want to get mail only from the people that they are acquainted with, to avoid any psychotic motives. Spam-Aid lets you determine whose messages can be received, either from people who are already in your address book or your old buddies.
+
+EmC is very skilled in combining blocking with comprehensive spam mail detection, and is also inclusive of a basic antivirus scan engine that protects you from those malicious file attachments as well.
+
+Instead of racking your head trying to figure things out on your own, it is a lot better to just download or install these said spam blocking tools and you will find it very easy to say goodbye to those junk mail that you have hated ever since.
+
+

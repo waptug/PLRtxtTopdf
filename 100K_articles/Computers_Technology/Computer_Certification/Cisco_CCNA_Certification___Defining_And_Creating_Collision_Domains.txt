@@ -1,0 +1,30 @@
+Title: 
+Cisco CCNA Certification:  Defining And Creating Collision Domains
+
+Word Count:
+444
+
+Summary:
+To earn your CCNA and become a better network admin, you’ve got to understand collision domains and their impact on your network.  Learn all about collision domains from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccna, exam, pass, free, certification, collision, domain, tutorial, icnd, intro, router, switch, hub, ethernet, csma/cd
+
+
+Article Body:
+When you're studying to pass the CCNA exam and earn your certification, you're introduced to a great many terms that are either totally new to you or seem familiar, but you're not quite sure what they are. The term "collision domain" falls into the latter category for many CCNA candidates.
+
+What exactly is "colliding" in the first place, and why do we care?   It's the data that is being sent out onto an Ethernet segment that we're concerned with here.  Ethernet uses Carrier Sense Multiple Access / Collision Detection (CSMA/CD) to avoid collisions in the first place.  CSMA/CD is a set of rules dictating when hosts on an Ethernet segment can and cannot transmit data.  Basically, a host that wants to transmit data will "listen" to the ethernet segment to see if another host is currently transmitting.  If no one else is transmitting, the host will go forward with its own transmission.
+
+This is an effective way of avoiding a collision, but it is not foolproof. If two hosts follow this procedure at the exact same time, their transmissions will collide on the Ethernet segment and both transmissions will become unusable.  The hosts that sent those two transmissions will then send a jam signal out onto the segment, indicating to all other hosts that they should not send data.  The two hosts will each start a random timer, and at the end of that time each host will begin the listening process again.
+
+Now that we know what a collision is, and what CSMA/CD is, we need to be able to define a collision domain.  A collision domain is any area where a collision can theoretically take place, so only one device can transmit at a time in a collision domain. 
+
+In another free CCNA certification tutorial, we saw that broadcast domains were defined by routers (default) and switches if VLANs have been defined.  Hubs and repeaters did nothing to define broadcast domains.  Well, they don't do anything here, either.  Hubs and repeaters do not define collision domains.
+
+Switches do, however.  A Cisco switchport is actually its own unshared collision domain!  Therefore, if we have 20 host devices connected to separate switchports, we have 20 collision domains.  All 20 devices can transmit simultaneously with no danger of collisions.  Compare this to hubs and repeaters - if you have five devices connected to a single hub, you still have one large collision domain, and only one device at a time can transmit.
+
+Mastering the definition and creation of collision domains and broadcast domains is an important step toward earning your CCNA and becoming an effective network administrator.  Best of luck to you in both these worthwhile pursuits!
+
+

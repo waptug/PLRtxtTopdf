@@ -1,0 +1,46 @@
+Title: 
+Hubris
+
+Word Count:
+593
+
+Summary:
+Internet Explorer 7 Hits The Mean Streets
+
+It didn't take long after Microsoft released Internet Explorer 7 for download for the exploits and vulnerabilities to appear, with many reporters and security companies scrambling over each other in order to publish about the new Internet Explorer flaw.
+
+Only, it wasn't.
+
+Argument and counter-argument ensued, with Microsoft quickly defending the issue as being an Outlook Express issue and not an Internet Explorer flaw. That sle...
+
+
+Keywords:
+Information Security, iPod, IE 7, Internet Explorer, Apple, Microsoft, experts, getting it wrong
+
+
+Article Body:
+Internet Explorer 7 Hits The Mean Streets
+
+It didn't take long after Microsoft released Internet Explorer 7 for download for the exploits and vulnerabilities to appear, with many reporters and security companies scrambling over each other in order to publish about the new Internet Explorer flaw.
+
+Only, it wasn't.
+
+Argument and counter-argument ensued, with Microsoft quickly defending the issue as being an Outlook Express issue and not an Internet Explorer flaw. That sleight of hand didn't satisfy many, who pointed out that the same flaw had been identified back in April, when it was attributed to Internet Explorer 6. At the end of the day, Internet Explorer 7 is a possible vector to exploit an error in the handling of 'mhtml:' addresses - which can result in the disclosure of sensitive information.
+
+Unfortunately, this isn't the only issue to have affected Internet Explorer 7, with earlier beta versions susceptible to the WMF vulnerabilities that were identified and patched over the 2005 - 2006 Christmas / New Year period. The unknown issues with Internet Explorer 7 are going to be a greater concern over coming months, as Microsoft is expected to use Automatic Update to provide the application to Windows XP SP2 users in November.
+
+A positive aspect is that many computer users will get to experience the improved CSS handling, improved security, tabbed browsing, and the other general improvements that Internet Explorer 7 brings to the system.
+
+Every Dog Barks At The Moon Sometimes
+
+Over the last couple of weeks, many security 'experts' and companies (including some of the biggest, most 'respected' names) have been busy displaying an amazing amount of hubris and arrogance in their coverage of what would normally be regarded as minor news items.
+
+After Apple Computer disclosed that an unknown, but believed to be very small, number of iPods were shipped with some Windows malware preinstalled (claims range from virus to adware), there was an almost unanimous hammering of the company's claims. By Windows and Microsoft supporters (such as top Information Security companies and people). Almost all of the vitriol was focussed around the "we are upset at Windows for not being more hardy against such viruses, and even more upset with ourselves for not catching it." statement, which appeared on Apple's site (http://www.apple.com/support/windowsvirus/) in relation to the issue.
+
+Many called Apple 'arrogant', and attacked any perceived ills that they might have had with the company. Unfortunately, in their rush to attack Apple, most completely bypassed (or were unaware of) a broader incident that affected a joint promotion being run by McDonald's and Coca-Cola in Japan, where 10,000 media players were distributed. Only, the players were infected with password stealing malware.
+
+Elsewhere, an unnamed expert, who crusades against hysteria and false claims in security (and, more frequently, terrorism), fell into their own trap recently. They claimed that firefighters who treated jelly (the gelatinous dessert) as a potential HAZMAT threat (before it had been identified) were over-reacting to it as a terror risk. While it does sound funny that firefighters would be running around in HAZMAT suits trying to deal with somebody's unwanted dessert, it is a fairly standard practice when emergency services are faced with unknown substances that have been abandoned.
+
+Perhaps it is my background in aviation and engineering related fields, but nothing is done without a healthy factor of safety (risk management), and the initial response was completely appropriate. People have died because they didn't know enough about the material that they were handling (Goiânia, Asbestosis, Miner's Lung, and others). Sometimes the simple answer is the correct answer, even if it might be misconstrued.
+
+

@@ -1,0 +1,71 @@
+Title: 
+Passing Cisco’s CCNA and CCNP Exams:  Traceroute
+
+Word Count:
+440
+
+Summary:
+The traceroute command can help you diagnose WAN network problems, AND help you pass your Cisco CCNA and CCNP exams.  Learn how to use this vital command in this tutorial from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccna, ccnp, cisco, icnd, free, intro, trace, ping, ip, pass, exam, certification, 640-811, 640-801, 640-821
+
+
+Article Body:
+In preparation for your CCNA and CCNP exam success, you've got to learn to troubleshoot Cisco routers. And while ping is a great basic IP connectivity tool, it doesn't give you all the information you need to diagnose network connectivity issues.
+
+Let's say you have six routers between CityA and CityB. You send a ping from A to B, and get this return:
+
+R1#ping 172.1.1.1
+
+Type escape sequence to abort.
+
+Sending 5, 100-byte ICMP Echos to 172.1.1.1, timeout is 2 seconds:
+
+.....
+
+Success rate is 0 percent (0/5)
+
+The five periods indicate that there is no IP connectivity to CityB. Problem is, that's about all ping tells you. You can have 5 or 50 routers between the two points, so how can you tell which downstream router has the problem?
+
+That's where traceroute comes in. Traceroute sends three datagrams with a Time To Live (TTL) of 1. Those datagrams will timeout once they hit the first router in the path, and that router will respond with an ICMP Time Exceeded message.
+
+In response, the sending router sends three more datagrams, but these have a TTL of 2. This means that the next router in line will send back ICMP Time Exceeded messages. This process continues until the final destination (CItyB) is reached the output of the command shows us the path the data took:
+
+Router1#traceroute 271.1.1.1
+
+
+Type escape sequence to abort. 
+
+Tracing the route to 271.1.1.1 
+
+
+1 20.1.1.1 4 msec 4 msec 4 msec 
+
+2 30.1.1.1 20 msec 16 msec 16 msec 
+
+3 271.1.1.1 16 msec * 16 msec 
+
+How does this help troubleshoot a problem? Let's say that the second router in this path, 30.1.1.1, doesn't know how to get to 271.1.1.1. The output would look like this:
+
+Router1#traceroute 271.1.1.1
+
+
+Type escape sequence to abort. 
+
+Tracing the route to 271.1.1.1 
+
+
+1 20.1.1.1 4 msec 4 msec 4 msec 
+
+2 30.1.1.1 20 msec 16 msec 16 msec 
+
+3 * * *
+
+This indicates that the router at 30.1.1.1 doesn't know how to get to the final destination. Now you have a better idea of which router has an issue!
+Now here's the bad part: you're going to get 30 lines of three asterisks, and until you abort this traceroute, you're going to just watch those asterisks go across the screen. There's an abort sequence that the router mentions in the first line of the console output, but the router doesn't tell you what it is! So I will - this top-secret sequence is TWICE, one right after the other.
+
+That keystroke takes a little getting used to, but a CCNA or CCNP can do it! Add this command to your Cisco skill set, and it will serve you well both on the CCNA and CCNP exams and your real-world networks. And you'll impress your friends by knowing how to stop a traceroute!
+
+

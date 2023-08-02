@@ -1,0 +1,46 @@
+Title: 
+A Closer Look At Micropayments
+
+Word Count:
+1024
+
+Summary:
+During the early days of the Internet, most of the contents found online are provided for free, either by different institutions or universities. As the years go by, the Internet has experienced various innovations. One major factor in the evolution of the Internet is the consumers’ ability to purchase, sell and advertise products and services, a concept that is more commonly referred to as “e-Commerce”.
+
+As the popularity of the Internet continuously grows, it is only natu...
+
+
+Keywords:
+internet, online marketing, online business
+
+
+Article Body:
+During the early days of the Internet, most of the contents found online are provided for free, either by different institutions or universities. As the years go by, the Internet has experienced various innovations. One major factor in the evolution of the Internet is the consumers’ ability to purchase, sell and advertise products and services, a concept that is more commonly referred to as “e-Commerce”.
+
+As the popularity of the Internet continuously grows, it is only natural for the content providers to start looking for different ways of making money from the content that they publish online. Basically, there are three ways for users to earn money from content; one is through advertising. Here, the content is available for free; however it comes with certain ads or links to their sponsor sites.
+
+Another way for content providers to make money is by charging subscriptions, wherein consumers are required to pay a certain amount in exchange for access to the content for a certain period of time. The downside to the subscription model is that it only offers one choice to the consumer – either they do not pay the subscription and thus get no content or pay a substantial fee to get all the content. Oftentimes, this kind of choice led the consumers to move on to sites that offer content for free. Meanwhile, the third form of revenue is through donations that are solicited by the content providers themselves.
+
+However, in 1998 a fourth form of revenue was proposed – the micropayment system. The concept of micropayments would not die down completely, nor would it fully come to life. What are micropayments, exactly? Micropayment is generally defined as the means of transferring small amounts of money (usually in pennies, nickel or dimes), usually in purchasing digital contents like music, movies, games and others.
+
+Since charging such small amounts through the customary payment system like credit cards is impractical, the micropayment system is a viable option for those websites that wish to go "micro". The main objective of micropayments is to target a high volume of consumers by offering content at a relatively low price. It is also usual for micropayment systems to accumulate several payments and then charge it in one regular payment.
+
+Most micropayments advocates firmly believe that the micropayment system is the solution to the free rider problem for those sites that are solely dependent on advertising. As for websites that are charging subscription fees, micropayments will be a viable alternative in order to increase the number of their consumers.
+
+However, regardless of all the benefits that micropayment systems seem to offer, its popularity among the consumers did not quite catch on for quite a time. This is mainly due to the pressing disadvantages that micropayment detractors are quick to point out. Most micropayment system detractors insist that micropayments would cause inconvenience rather than convenience to consumers. How so? The most popular argument used is the "mental transaction cost".
+
+What does mental transaction cost mean? Well, this is where a consumer stops and thinks twice whether the content is actually worth the price, regardless of how small the price is. This could cut down the number of your customer, since more people are likely to opt for free content.
+
+The people pushing micropayments believe that the dollar cost of goods is the thing most responsible for deflecting readers from buying content, and that a reduction in price to micropayment levels will allow creators to begin charging for their work without deflecting readers.
+
+Another possible drawback to using micropayment systems is that it requires the consumer to use major credit cards. Remember that Internet consumers are quite diverse in age; therefore, you cannot assume that all of them would have credit cards. Since teenagers are under the legal age, they do not have credit cards. Moreover, even among those consumers living in highly developed countries, not everyone has a credit card, and borrowing someone else’s credit card just to read a certain article in the Internet would prove to be a big inconvenience. Simply put, micropayment systems could very well alienate those consumers who do not have credit cards.
+
+So with all these disadvantages, why do we need micropayments? With the growing demand for ethereal products (like information) in global economies and their immediate delivery at a low cost, the customary payment methods seemed to be impractical. Since most information found online (Web pages, Web links, etc.) cost barely a penny, the cost of charging in the usual payment method would turn out to be more expensive than the actual product. Thus, micropayment is a viable alternative.
+
+A lot of content providers agreed that micropayments offer them the opportunity to regain the cost of online publishing, even possibly make money, that is, if they are popular enough. At present, content providers see their online popularity as a disadvantage since their popularity requires them to pay for large amounts of bandwidth. Another benefit that micropayment systems offer content providers is the opportunity to be completely free from sponsorship and advertising, which offers them more independence. Without advertising the provider could concentrate on publishing materials that interests their consumers instead of what interests their advertisers.
+
+Micropayment systems are showing signs of recovery recently, what with the launching of Apple’s iTunes $0.99 a-song, the model is finally showing some signs of life. Furthermore, reports on the state of the paid content market shows that, content purchases below $5 increased 707% in 2002. A veritable accomplishment, since it made a seven-fold leap from virtually nothing.
+
+Although, millions of people find the notion of purchasing $.99 songs at iTunes attractive, Apple’s administrators themselves admitted that most consumers still prefer purchasing larger album packages instead of the per song purchases. After all, Internet users do not purchase content as if they were a piece of candy. Some micropayment solutions even admit that their customers are loading less money into their accounts than what they initially expect which means that a considerable barrier still remains. Now, whether the micropayment system will eventually find success this time around or not will still depend on the consumers’ behavior, a hurdle that is yet to be crossed.
+
+

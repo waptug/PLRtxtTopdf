@@ -1,0 +1,38 @@
+Title: 
+Smart Watches: How They Work
+
+Word Count:
+436
+
+Summary:
+Contrary to popular belief, it is not difficult to understand how smart watches work. The backend, or "brain" of the watches are powered by Smart Personal Object Technology (SPOT), a technology introduced by Microsoft in 2002. Like television or radio, the content is transmitted through FM broadcasting. By combining these two technologies, smart watch owners are able to access news, weather, sports, horoscopes, Microsoft Outlook, MSN Instant Messenger, and other features on t...
+
+
+Keywords:
+
+
+
+Article Body:
+Contrary to popular belief, it is not difficult to understand how smart watches work. The backend, or "brain" of the watches are powered by Smart Personal Object Technology (SPOT), a technology introduced by Microsoft in 2002. Like television or radio, the content is transmitted through FM broadcasting. By combining these two technologies, smart watch owners are able to access news, weather, sports, horoscopes, Microsoft Outlook, MSN Instant Messenger, and other features on these smart watches.
+
+The content accessible by these watches is transmitted over the Microsoft DirectBand Network which is a leased radio spectrum built by Microsoft in partnership with Infinity Broadcasting and ClearChannel in order to broadcast data over a wide area. This content can be received in 100 metropolitan areas in the US and five major cities in Canada and is moved in over 200 channels of information to smart watches and other SPOT-enabled objects.
+
+Smart watch owners can use MSN Direct to buy, activate and administer their smart watches. A user simply needs to create a profile using a free .NET account to activate a smart watch. Once the account is set up they can pick and choose the channels that will be sent to their smart watch.
+
+Currently there are four companies producing SPOT-enabled watches. These companies are Fossil, Suunto, Swatch, and Tissot. All contain the same basic components although they come in many different sizes and styles. These basic components are: 
+
+* The PCB (Printed Circuit Board): This is a multi-layered fiberglass board with tiny embedded wiring to direct electricity to the various components in the watch.
+
+* The piezoelectric ceramic crystal: This component acts as a miniscule speaker driver, enabling the smart watch to create sound.
+
+* ARM 7 TDMI: This is the watch's central processor, literally forming the brains of the smart watch.
+
+* The DirectBand radio receiver chip: A vital key to the function of the smart watch, this is what allows MSN Direct to connect with the watch.
+
+Like any computer, the smart watch needs memory and to that end utilizes 384 KB of RAM and 512 KB of ROM. The smart watch is powered by a rechargeable battery that will vary in life span according to the model of smart watch and the amount of activity it sees.
+
+Charging the battery is accomplished through an inductive charging coil attached to the contact surface on the back of the watch. This allows the smart watch battery to be charged through induction whenever the surface comes into contact with the charging plate on the watch stand.
+
+Expected to become a part of our everyday lives in coming years, SPOT technology is being developed to create new smart objects.
+
+

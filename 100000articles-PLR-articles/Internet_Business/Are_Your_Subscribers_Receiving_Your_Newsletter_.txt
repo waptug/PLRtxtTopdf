@@ -1,0 +1,56 @@
+Title: 
+Are Your Subscribers Receiving Your Newsletter?
+
+Word Count:
+606
+
+Summary:
+In my e-mail one day, I received the following message: "Hello, I am a subscriber to your ezine and received the attached e-mail. Please advise if this is actually from your website. Thank you."
+
+The attachment was from my mailing list program. It was informing my dear subscriber that since her mail kept bouncing, "I`m not going to try again; this message has been in the queue too long."
+
+1. The Problem
+
+Why was my newsletter bouncing? My mailing list program reports re...
+
+
+Keywords:
+AUTORESPONDER SERVICE, AUTORESPONDERS, EMAIL, EZINE, NEWSLETTER, SUBSCRIBERS
+
+
+Article Body:
+In my e-mail one day, I received the following message: "Hello, I am a subscriber to your ezine and received the attached e-mail. Please advise if this is actually from your website. Thank you."
+
+The attachment was from my mailing list program. It was informing my dear subscriber that since her mail kept bouncing, "I`m not going to try again; this message has been in the queue too long."
+
+1. The Problem
+
+Why was my newsletter bouncing? My mailing list program reports receiving this message: "...The information presently available to AOL indicates this server is transmitting unsolicited e-mail to AOL. Based on AOL`s Unsolicited Bulk E-mail policy at http://www.aol.com/info/bulkemail.html AOL cannot accept further e-mail transactions from this server. Please have your ISP/ASP or server admin call AOL at 1-888-212-5537, or visit http://postmaster.info.aol.com for more information."
+
+Basically, I was being accused of sending unsolicited commercial e-mail. This was a double opt-in subscriber. I don`t do spam!
+
+America Online, Inc. (AOL) had blocked my subscriber from receiving the e-zine she requested. About fifteen percent of my subscribers use an AOL e-mail address. Not only am I adversely affected, but my AOL subscribers are not getting their e-mails.
+
+In contacting AOL sales and technical support, I found myself against a brick wall. Although, I was repeatedly offered a free trial to their service, they were unable to help me regain my subscriber.
+
+"Why don`t you contact your subscriber and have them whitelist your e-mail address?" How? All I have is her AOL e-mail address and everything I send to her fails. Believe me, I`ve tried. (You could use another e-mail address, I suppose, to trick AOL, but why should you have to?)
+
+Of course, they absolutely refused to remove the block against me. (If you would like to learn more about AOL, try the search terms "AOL" and "AOL sucks" in a major search engine.)
+
+By the way, it isn`t just AOL that is doing this. Some other major Internet Service Providers (ISPs) are doing the same thing. As well, some popular e-mail software programs also filter out wanted e-mails.
+
+2. Some Solutions
+
+If your subscribers are not receiving your newsletter, here are some things you can do to alleviate the problem.
+
+1. Warn your subscribers. On your newsletter signup page, explain why they might not receive your e-zine. Explain about e-mail filters; ask them to whitelist your domain, not only to bypass the ISP spam filters but also to allow mail through any e-mail software they may have.
+
+2. Try to avoid using words that trigger spam filters. Personally, I don`t like this one; it smacks of violating my right to free speech, freedom of the press, et cetera. (Yes, I know. With rights come responsibilities. However, I am acting responsibly!) As a practical matter, though, it`s something you have to consider. (I had my newsletter checked by a popular spam checker and it passed with flying colours.)
+
+3. Send a text e-mail informing your subscribers that the current issue of your newsletter is available online at your website. (It could also be a good move to have an archive of past issues there, too, to boost your content and search engine rankings).
+
+4. Consider using alternative ways of communicating. For example, you might try Really Simple Syndication (RSS).
+
+Oh, by the way, my replies (with read receipt requested) to my dear subscriber`s e-mail address appear to never have made it. To her I say: "If you`re out there somewhere, please re-subscribe. You might want to think about using a different e-mail address, though."
+
+

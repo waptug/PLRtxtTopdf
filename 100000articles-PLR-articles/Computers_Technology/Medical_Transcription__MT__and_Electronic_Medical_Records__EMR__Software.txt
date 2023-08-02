@@ -1,0 +1,71 @@
+Title: 
+Medical Transcription (MT) and Electronic Medical Records (EMR) Software
+
+Word Count:
+982
+
+Summary:
+Electronic Medical Records (EMR) has revolutionized the healthcare industry in recent times. Many experts felt that EMR & Voice Recognition would totally replace Medical Transcription - however; the industry soon realized that transcription has certain advantages over point & click charting and many physicians preferred to dictate notes rather than document the data at the point of care themselves.
+
+
+Keywords:
+EMR, Specialty Electronic Medical Records, Medical Billing System, Appointment Scheduler, Transcription System, Prescription Writer, Charge Capture, Document Management, Referral Management, Lab Order System, Medical Calculators and Practice Website/Portals. OmniMD services include - Online Insurance Eligibility Checking, Medical Transcription services, Automated Faxing, Automatic Patient Reminder Services, Document Scanning & Indexing, Integration with third Party SW, Designing Practice Portals/Website, Website Hosting
+
+
+Article Body:
+Electronic Medical Records (EMR) has revolutionized the healthcare industry in recent times. Many experts felt that EMR & Voice Recognition would totally replace Medical Transcription - however; the industry soon realized that transcription has certain advantages over point & click charting and many physicians preferred to dictate notes rather than document the data at the point of care themselves. 
+
+The most critical part of any Electronic Medical Record (EMR) is the method of data entry. EMR is about aggregation of patient encounter data at the point of care in order to provide a complete, accurate, and timely view of patient information. An electronic medical record is not just a typed record of the patient encounter, but an extremely useful decision support tool. The data can be entered into the EMR via any of the two general mechanisms: direct entry by the physician using point and click templates or transcription of dictated notes. Point and click template indicates that each data element, which is to be inserted, requires selection, navigation, point and click process for capturing patient information. 
+
+Transcriptions have been around for years for documenting patient encounters. A medical provider dictates the medical note into a phone or a recording device. The transcriptionist receives the dictation and transcribes it. It may be reviewed by the supervisor for checking errors. The final computerized file is then either emailed directly to the healthcare provider or the file is transferred to a web site and is later downloaded by the provider. 
+Each method has its pros and cons.
+Point and Click Templates 
+Most EMR systems allow providers to generate clinical documentation, by selecting variable terms from pre-structured point-and-click templates. Users simply point and click to select appropriate choices from lists of choices to record a patient encounter. The end result would be a document that closely resembles a transcribed procedure note. 
+
+Advantages 
+
+* Completely customizable templates. The doctor can specify the layout of the template, which helps him to adjust the template as per his practice & procedure.
+* Provide consistent, complete and accurate data. The chances of medical erros are reduced since the data is documented in customised forms.
+* Notes for similar type of exams will appear to be standard and similar
+* Store / organize data for subsequent retrieval.  
+* Each click adds data elements to the database. Point-and-click systems create data that can be used to generate clinically useful reports, such as health maintenance reminders, disease management etc.   
+* One of the major advantages of template based charting is the time needed to make the document available as a medical record. Since notes are created within the EMR, they are available immediately upon completion.
+ 
+Disadvantages 
+* It takes more time, and definitely more concentration for a physician to navigate through large data set and create progress notes using point and click templates.  
+* Templates must be customized as per the physician’s requirement. 
+* Customization can be inflexible and costly. 
+* Well accepted by only tech-savvy doctors.  
+* The approach of direct data entry by the physician has generally failed because busy providers reject it altogether. 
+* Output from these templates is too canned and identical. It loses individuality for each patient.  
+* It is difficult for a provider to capture complete patient encounter on computer in front of a patient.   
+
+Medical Transcription 
+Transcription has long been the standard for documenting patient encounters. It is more convenient for a provider as compared to handwritten notes or electronic data entry.  There are many advantages of transcription in comparison to point and click charting. There are a few disadvantages as well.   
+
+Advantages 
+
+* Correspond intuitively to the physician's usual method of working. Dictation remains the most intuitive and least time-consuming means of data entry.   
+* Physicians can dictate anytime, anywhere using PDA, Dictaphone or telephone at their convenience. 
+* Providers need not change the way they practice just to accommodate an EMR. EMR can interact with transcription service so that transcriptions can be attached directly into the patient’s electronic medical record, if such a facility is provided by the EMR vendor.
+* It requires minimal training for physicians.  
+* Provides expressive power to describe patient’s condition and other health related events  
+
+Disadvantages 
+
+* Details of the exam can easily be forgotten and omitted while dictating, if dictation is not captured immediately at the point of care 
+* It cannot be queried for generating reports unless transcribed in pre-formatted templates
+* Transcribed reports are not immediately accessible. Physicians would normally have to wait for 12 to 24 hours for charts to be delivered, unless few vendors supporting 2-4 hours short turn around time.
+* Transcription provides for more efficient use of doctor's time.
+* Although average transcribed report costs $2 to $4, it can reduce the doctor's time spent on data entry. 
+
+Considering the value of doctor’s time, transcription is not a costly proposition.
+ 
+
+EMR should give the freedom to the physician to decide to use either Point & Click or Medical Transcription. For a physician, the EMR that fits into his practice workflow would be invaluable. A competent EMR must have a template driven charting feature and the ability to interact with a transcription service at the same time. Both are indispensable features of Electronic Medical Record Software, as doctors are not unanimous on point and click charting or transcription. Such an EMR will be both efficient and cost effective. 
+The trends in transcription itself are changing with Medical Transcription service providers aiming to adopt new technologies. These technologies will evolve to increase efficiency & accuracy, decrease turnaround time and support data capture. While many of these technologies like such as digital dictation and electronic signature exist today, several technologies are still on the horizon.
+
+
+The author, Divan Dave, is the founder and CEO of OmniMD, a developer of HIPAA compliant Pocket PC and Internet-based enterprise clinical solutions, designed to fully automate the work-flow of contemporary healthcare organizations. The company is a division of Integrated Systems Management, Inc. (ISM), a leader in Internet consulting and e-business development since 1989. For details visit http://www.omnimd.com
+
+

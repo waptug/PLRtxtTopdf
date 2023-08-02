@@ -1,0 +1,40 @@
+Title: 
+The Importance Of Tracking
+
+Word Count:
+621
+
+Summary:
+As many of you know, I only set up this blog recently. Four years of success, failure and testing. This allows me to offer some advice to anyone starting out that I wish I had when I was starting out in the online business world. Today, I am going to discuss one of the MAJOR things I wish I had have paid attention to sooner. Site tracking and analysis.
+
+When you set up a website for the first time, it’s always one of the last things you bother to take care of or put in plac...
+
+
+Keywords:
+web design, web development, web site design, website design
+
+
+Article Body:
+As many of you know, I only set up this blog recently. Four years of success, failure and testing. This allows me to offer some advice to anyone starting out that I wish I had when I was starting out in the online business world. Today, I am going to discuss one of the MAJOR things I wish I had have paid attention to sooner. Site tracking and analysis.
+
+When you set up a website for the first time, it’s always one of the last things you bother to take care of or put in place. Visitor tracking, no matter what your business is EXTREMELY important. It’s always forgotten in the flood of excitement of finishing your site and launching it. You have worked hard on your site, your content, your design and your features. It’s your baby and you want to let it fly. That’s great. If, like me, you experiment, you just want to test the waters and see if you get any revenue from adsense, or make a sale (Or affiliate sale).
+
+So now, here you are 2 (Or more) months later and your site is starting to take off. You are starting to generate a few dollars from your website. Great! Now it’s time to improve the flow, usability and find out what your visitors are actually looking for.
+
+But wait. How do you find this out?
+
+You can first look into your hosts Webalizer or awstats statistics, but in fairness, while they are great for checking referrers and traffic stats, they don’t drill down to the nitty gritty. You realize now that you should have put something in place when you first started.
+
+Enter Google Analytics (Formerly Urchin). Google Analytics is an advanced and FREE visitor tracking service. Most of you have probably heard of it already. Google Analytics allows you to track your visitors and their behavior down to the most detailed level. Covering the features of Google Analytics is far beyond the scope of this document, but sign up and play around for yourself. Google Analytics is also SUPER easy to set up. All you need to do is past a few lines of JavaScript into your sites HTML.
+
+Once you have Google Analytics set up, the rest is taken care of by Google. You don’t have to worry about a thing.
+
+Now, assuming you have taken my advice (Which I assure you in this case is 100% good) you have two (Or more) months of tracking information available to you. Are you visitors coming and searching for something on your site? If so, should it be made available on the main page? Why make them search? Are your visitors coming to your site looking for content that you do not actually have? Maybe you should create it? The list goes on….
+
+You will be surprised at some of the search terms your site is found under. Some will make you laugh and some are even pretty upsetting terms that you DO NOT want to be found under!
+
+So there you have it. If you set up your analytics and tracking early on, it makes it ten times easier to improve your site and grow your business earlier and start making more money earlier. I have used many different tracking services and it all boiled down to me using my default server stats programs and Google analytics. Experiment a little and find out what works for you.
+
+I hope this article has given you enough reason to invest an additional five minutes setting up some sort of tracking for your website before you go “live”. Your five minute investment can make the world of difference months down the line.
+
+

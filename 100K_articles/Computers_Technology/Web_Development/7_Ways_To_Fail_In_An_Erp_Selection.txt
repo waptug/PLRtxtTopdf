@@ -1,0 +1,38 @@
+Title: 
+7 Ways To Fail In An Erp Selection
+
+Word Count:
+944
+
+Summary:
+The best way to fail at an Enterprise Resource Planning (ERP) implementation is to choose the wrong software up front. Choosing software without following some basic guidelines is a sure-fire method for disaster. Probably the worst thing that someone has done (that we know of), was to buy their ERP software at a tradeshow, thinking it would be the cheap and easy way to solve their problems. They ended up spending more than they expected in finding ways to force the software i...
+
+
+Keywords:
+ERP, ERP failure, software, enterprise resource planning, selecting
+
+
+Article Body:
+The best way to fail at an Enterprise Resource Planning (ERP) implementation is to choose the wrong software up front. Choosing software without following some basic guidelines is a sure-fire method for disaster. Probably the worst thing that someone has done (that we know of), was to buy their ERP software at a tradeshow, thinking it would be the cheap and easy way to solve their problems. They ended up spending more than they expected in finding ways to force the software into their business.
+
+Below are some ways that will set you on the path to fail at your choice. In other words, they are ways that you can insure that you will choose the wrong system for your company.
+
+1. Choose ERP software without understanding your requirements. – First, you should ensure that you are getting the best fit for your company by documenting your requirements. The requirements should cover the strategic, reporting, functional, and technical aspects of what your company requires to run the business. Choosing software without these documented and without using them as a benchmark to compare the software against is a strategy for problems.
+
+2. Select ERP software without paying attention to business processes. – There are certain ways that you run your business. Not all of them are rocket science, but there are certain things that make your company unique and successful. Choosing software without understanding how things flow in your company will create big problems in the implementation when the software processes information contrary to how you run your business.
+
+3. Choose ERP software because your Friend/Neighbor/Relative is using it successfully at their firm. – Another nightmare scenario that has actually occurred is that decision makers have purchased software because their ____ (fill in the blank) has used it and it worked great at that company. That company is not your company. On the surface they may seem similar, but just because one company is running well on the ERP system does not mean that yours will. You may have a special process for getting your goods out the door. The software may not support that method. Perhaps there is some information that you must have because of financial, regulatory, or supply chain requirements. The other company may not have that issue. Perhaps you need to track lot numbers and the _____’s company does not. There are too many business issues that can create havoc in an information system, if the system is not carefully matched to the requirements (see #1).
+
+4. Not having the ERP vendor prove that it will support your business processes. – ERP vendors have one goal. Sell you software. Do they care if it fits, can successfully operate your business, or even if it will be a huge burden on your staff? Not really. In fact, if you buy software that requires a lot of care and feeding because it is not a good fit, then the vendor is the one who supports it and makes a handsome flow of income off your company. Get the vendor to demonstrate that it meets your requirements and can transact information in a method that is aligned with your business processes.
+
+5. Choosing ERP software because it looks cool. – You may laugh at this one, but the user interface is a sexy selling point of many systems. Is a plain old green-screen as nice to work in as a really colorful Windows ™ screen? Probably not, but does the Windows™-based system really address your issues? Your goal should be aligning a perspective system with your business needs. If it comes with a cool interface great, if not, can you live with it?
+
+6. Let the ERP vendor tell you what you need to be doing. – Related to number 4 above, having the ERP vendor guide you in your selection is a roadmap to hell. You need to guide them. Tell them what you want and expect. Too many times has a single vendor gained the trust and confidence of a decision maker and guided them to a particular system, without any concern for how close a match is it to the business requirements and processes.
+
+7. Take the ERP vendor’s first offer without negotiating. – You can generally negotiate with a vendor several times and get a more than fair price. But the key is to follow good negotiation tactics. Don’t forget that most everything is negotiable. The software, the services, the maintenance, the timing, etc. In the ERP industry, the best time to buy software is at the quarter or year end according to the vendor’s financial calendar.
+
+The key thing to understand is that there is a path that can lead you to success and many routes to failure. Know thyself first. Understand your business and document it. It is not enough to think you know it. Talk to all levels of users and managers. Ensure that everyone’s needs are defined and a priority is placed upon those needs. If you are not sure of selecting a major investment such as an ERP, then get outside help from a consultant who is non-biased towards systems and can guide you. Be careful of assistance from a company that has an SAP practice, or an Oracle practice, etc. They have internal motivation to help you choose their flavor of software.
+
+Most importantly, understand that you need to drive the process. It is your selection and you need to live with the results. As any good project manager will tell you, start with the end in mind. What do you want the system to do for your company now and in seven years from now? Understand this and go forward in selecting your system.
+
+

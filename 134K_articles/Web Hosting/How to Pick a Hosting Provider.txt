@@ -1,0 +1,13 @@
+                                     How to Pick a Hosting Provider
+
+ 
+How do you choose a hosting provider when there are thousands of hosting companies available online? It’s like going through the yellow pages trying to find burger restaurants. There are lots of them. Hopefully these tips will steer you in the right direction.Important factors in selecting a web hosting company include the percentage of server uptime. 98 to 99% uptime is the dream standard for server uptime, 65% is unacceptable. The higher the downtime of a server, the lower the potential for traffic at your web site. Another consideration is how much space is provided for the files that will make up your web site. How much bandwidth is in your package? Monthly bandwidth is the amount of data transfer allowed for visitors to view and use your web site.
+
+With today’s changing trends in web hosting services, it is important to get as much server space and bandwidth as you can. This will allow for necessary updates and increased traffic to your site as it becomes more popular.
+
+
+It is equally important when purchasing business web hosting that CGI access is provided; along with features such as MySQL, Real Audio, Real Video, and Cold Fusion (which some companies sell as an add on component). A crucial feature necessary for doing ecommerce is SSL, or Secure Socket Layer. This encrypts all order and credit card information until it reaches you. An SSL certificate can be purchased from most web hosting providers. Displaying it on your ecommerce web site verifies that your site transactions are safe and secure.
+
+We’ve talked about this before in other articles. You will need a domain name that reflects the nature of your business. For instance, a sports business might have a URL that is www.coloradosports.com . To get your own unique domain name, you must first check the availability of the name with a domain name search, offered by domain registrars such as Network Solutions. 
+
+There are many service providers to choose from. If you do your homework, you’ll find some good deals that will fit your budget.

@@ -1,0 +1,53 @@
+Title: 
+Data Backup - Do you have a backup and data recovery plan in place
+
+Word Count:
+1229
+
+Summary:
+There are many ways to ensure you backup your data securely, read this article so you can make an informed decision and implement the best plan for you.
+
+
+Keywords:
+data backup,offsite backup,internet backup,remote backup,online backup,backup
+
+
+Article Body:
+Data backup is rarely a part of a home computer user’s or business IT administrator’s plans,  we all say it will never happen to me or my company, but in reality we are just mentally preparing for the time we lose our data.  Its like trying to stop smoking, we all know we should do it but will find every excuse not to.  So be honest with yourself and ask yourself the question, do you have a backup plan for your data, or more importantly, do you have a restore plan which will protect your business should something go wrong? All business leaders and owners will now tell you that computers are way past being a useful part of our lives, but now they are an absolute necessity.   We acknowledge the data which resides on our computer infrastructure is the most important asset of any organization.  I ask again, what would happen if you lost your data and what are you doing to protect it? 
+
+The reasons for data loss are endless, human intervention, hardware failure, software failure, natural disaster, loss, theft, we can go on, but we can be sure of one thing, as time goes by the list will get longer and longer.
+Ever had anything stolen or lost anything before?
+
+I have been in the IT industry for some 25 years now, and as you can imagine, I have heard some bizarre stories of how computers and servers have been stolen.  Laptops stolen from back seats of cars (data lost), a colleague forgot he left his laptop on the roof of his car; problem is he realized when he was 160 miles down the road (lost data).  My friend’s office was broken in twice in two nights, first time resulted in loss of desktop computers and totally trashed alarm system (some data loss), and second night was to take the servers along with the backup device and media!  Apparently the heavy stuff was stolen the second night as the thief’s had more time due to the alarm not being repaired quickly enough (total data loss and company ceased trading within 8 months).  Save yourself money; prevent data loss in the first place by implementing a data backup plan.
+
+Hardware Failure
+If you have managed to never lose your laptop or have you whole IT infrastructure stolen then well done, so now let’s prepare ourselves for hardware failure.  There are mainly only three mechanical parts within a laptop, computer or server; 1) hard drive, 2) backup drive 3) CD or DVD.   Hard drives do fail and if it has not happen yet it will.  Don’t get me wrong, if you take a failed drive to an expert, they will probably get most of your data back (phew) but expect to pay in excess of £5000 for the pleasure (not phew).  Save yourself money; prevent data loss in the first place by implementing a data backup plan.
+
+Fire or Disaster (natural or not).
+I live in the UK, it’s a lovely place as we don’t have issues with forest fires, earth quakes, and hurricanes etc. so there will never be any large natural disaster which will wipe out the majority of a city.   This is what I thought until the Bunsfield oil refinery blew up and flattened everything within a 3 mile radius.   There are a million and one reasons and scenarios I can give you illustrating why you should backup your business data.  We all know the practice of data backup is nothing more than good common sense. Mission critical or sensitive data you don't want or can not afford to lose should be secured.  PROTECT YOUR DATA!  If you honestly think you do not need to backup your data because you will never lose it, please stop reading this article now and go and do something less boring.
+
+Let’s talk about the various ways of securing your data and other backup services.  If you take the following on board you will be able to find the solution which will best suit you or your company. 
+Backup to CD solution.
+
+To backup your file data to CD is easy, it may be time consuming to do this every night and you will have to be disciplined to put up to an hour aside to carry out this task every night.  To backup data to a CD drive is not an automated process and we all know people get busy.   Once you have backed your data to CD please always verify that the data is actually on the CD and then take it home with you.  There is no point leaving it to be stolen or destroyed by fire along with your hardware.
+
+Please do not us a CD to archive data (safe documents for a long time) as I would not expect this form of media to remain stable for more than 2 years.  
+Backing up to CD has many limitations but it is certainly better than not backing up your data at all.  
+
+RAID – Not backup but will protect your server disks.
+All servers should be given every opportunity to stay alive, running a RAID configuration will help prevent data loss due to hard drive failure.  If you have 3 drives running in a RAID 5 configuration, your server will tolerate a single drive failure.  RAID will not protect you from fire, flood, theft or any other disaster waiting to happen, but does offer business continuity.
+This solution doesn't usually protect you from theft as the extra hard drives for RAID storage are usually installed in your computer or in other equipment on site. It usually won't protect you from fire either so this method does have its limitations.
+
+Secure Offsite Data Backup and Recovery via a third party organization.
+Offsite Backup or Backing up via the Internet methods are usually associated with larger enterprise companies.  In the past the high cost of high speed connectivity has been prohibitive to smaller companies. 
+This method of data backup is now become totally accepted and is gaining momentum around the globe.  The main reason for such grown is because the price of high speed internet connections has greatly reduced, virtually every business and home is connected to the internet via a minimum 2MB pipe as a result it is now possible to backup high volumes of data to a secure offsite data centre. 
+ 
+For me, the best element of an offsite backup solution is not the high encryption security levels in place, the price or the purpose designed replicated infrastructure where your data is stored, but it is the fact that an offsite backup solution is a totally automated process.  Set and forget, once you have set the software to backup your data at a certain time of every day you can just forget it and let it get on with its job of protecting your data.
+If I controlled your backup process, I would implement all three of the options mentioned.  A RAID system for business continuity, offsite backup to securely protect all my business data, and to enable a quick restore, a CD backup of just my mission critical data which will keep my business running.
+
+
+To find out more information about secure offsite data backup solutions, please visit
+<a href="http://www.perfectbackup.co.uk/" style="color: blue; text-decoration: underline; text-underline: single">
+www.perfectbackup.co.uk</a>
+
+

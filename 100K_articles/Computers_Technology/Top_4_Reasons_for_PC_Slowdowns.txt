@@ -1,0 +1,60 @@
+Title: 
+Top 4 Reasons for PC Slowdowns
+
+Word Count:
+681
+
+Summary:
+Registry errors, clutter, and fragmented drives can turn a fast computer into a painfully slow one. Does your slow computer need a PC tune-up?
+
+
+Keywords:
+pc,computer,tuneup,tune-up,slow,slowdown,registry,software,program,computer repair,crash,error
+
+
+Article Body:
+Remember when your PC was fresh out of the box and super-fast? Those were the days, when boot times were less than the time it takes to hard-boil an egg.
+
+All computers slow down with use. The more you install and uninstall software, add and delete files, change personal preferences and tweak system configurations, the more you leave a trail of file remnants, fragmented drives, registry conflicts, and errors that impair PC performance.
+
+Even a new PC may show premature signs of "age" -- that is, longer processing times, system crashes, and programs that lock up inexplicably. The frustrated PC owner may give up on an "old" computer with perfectly good hardware to purchase a brand new unit -- only to repeat the cycle.
+
+Spyware, insufficient memory, and worn-out hardware are usually blamed for waning performance.
+
+But while spyware's a factor in many PC slowdowns, it's rarely the <i>only</i> factor. And while your system may have loads of RAM, it still won't suffice if your system manages memory badly.
+
+As for the age of your hardware, there's no physical reason why it should run any slower than the day you bought it.
+
+So what's the <i>really</i> behind all those PC slowdowns?
+
+According to a recent analysis of over half a million computers, the top four PC speed killers are:
+
+<b>1. Registry Errors, Clutter, and Fragmentation</b>
+
+Your Windows registry contains key information for everything on your system, including user profiles, software settings, hardware configurations, and so on.
+	
+As you engage in your normal computing activities, the registry gradually fills with clutter and begins to generate errors. Why? Because long after you've uninstalled a download, references to that download remain in the registry, leaving Windows to deal with invalid paths.
+
+During start up, Windows tries to load all the missing drivers, files, and applications still listed in the registry, making the boot process something like the hunt for specific phone numbers in a poorly organized address book.
+
+Compounding the problem, your registry gets fragmented just like your hard drive. Since the registry has to be loaded into memory every time you start your computer, the bigger and more fragmented it is, the longer you'll wait for your PC to go through its paces.
+
+<b>2. Hogging the Starter's Position</b>
+
+Many programs load themselves partially whenever you start your PC. This makes them seem more responsive when you launch them, but with so many programs starting at once and tapping system resources, boot times and overall performance suffer.
+
+You may want to preload a couple of favorite programs for quick access, but not all those seldom-used utilities queuing up on your taskbar.</p>
+<b>3. Bad Internet Settings</b></p>
+90% of PCs owners haven't optimized their internet settings. If you're among this group, you're losing bandwidth, and maybe even allowing malware to pirate portions of your bandwidth to run on your PC. Unless you optimize the way your computer communicates with the network, downloads will probably take longer than they should, and web pages may be slow to load -- even over a fast connection.
+
+<b>4. Hard Drive Errors</b>
+
+Over 26% of all computers have hard drive errors. These degrade performance and may prevent you from saving or retrieving files. Worse, hard drive errors may be a sign of imminent mechanical failure that could cost you all your data.
+
+<b>Putting the Kibosh on the PC Speed Killers</b>
+
+Most of the above PC problems can be fixed quickly, easily, and inexpensively with PC Tune-up software that will repair your registry, remove junk files, eliminate malware, defrag your hard drive, boost your internet settings, and prevent non-essential programs from running in the background.
+
+Any PC Tune-up program worth its price tag should offer two levels of control:  1) Advanced options for technical users who want to be able to tweak their settings and get the most out of their performance tools; and  2) Preset, automated system maintenance for the average user who simply wants to keep a computer running fast and problem-free without having to deal with configurations, diagnostics, or even ordinary PC cleanup functionality.
+
+

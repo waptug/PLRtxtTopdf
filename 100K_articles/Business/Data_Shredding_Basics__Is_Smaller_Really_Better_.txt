@@ -1,0 +1,51 @@
+Title: 
+Data Shredding Basics: Is Smaller Really Better?
+
+Word Count:
+712
+
+Summary:
+Electronic data storage has become a standard due to the incredibly small space that electronic files physically occupy when compared to paper documents.  However, this comes with its price: Electronic data is harder to erase, frequently misplaced, and often easy to steal. In this article we will cover some common misconceptions about how files are deleted and give you an idea of what to do to really shred electronic data.
+
+
+Keywords:
+data wiping, document shredding, data shredding, data erasing
+
+
+Article Body:
+Just as businesses need to destroy sensitive data, so too is there a need to shred electronic data from computer drives.  
+
+With increases in technology, it is simply amazing how much data can be stored in such a small physical space, and how often that data is recoverable if only erased using standard methods.
+For computers, the equivalent of shredding is called wiping.  If data is wiped from a computer it means that cannot be restored by any means.
+
+Data wiping can be accomplished by using software which overwrites files or by using a 'secure delete' command instead of the 'regular delete' command to the operating system.
+
+Why doesn't just deleting a document or file doesn’t work?
+
+On many computers and the many standard operating systems, simply deleting a file and sending it to the trash bin will not delete the contents of the file it all! It may show that new space is available on the disk and it may show the file as removed from the operating system index, when in fact only the reference to the document was removed well actual contents remain somewhere on the hard disk.
+
+In fact, the file has only become 'dispensable' space and may or may not be overwritten by other newer files.  This allows for easy recovery of recently deleted files with various software tools or MS DOS commands.
+
+Sometimes the files may be overwritten or partially overwritten and become unrecoverable, but there may still be traces, and with the right equipment and knowledge, much of this data can be mined from the hard disk.
+
+The Unix operating system has a built in delete command which can be used, and there are various files deleting programs available for windows systems which overwrite the data repeatedly with random binary code making recovery extremely difficult.  It intersperses random binary into the files and makes it so random that it is like it is deleted. This is sort of the computer equivalent of shredding paper materials.
+
+One not of caution when using data shredders: It can be possible that after files have been deleted the files may move location.  This may happen if the disk has been 'defragmented' and in some cases, may render shredding software ineffective because it doesn’t know where to locate the specific data to be overwritten.
+
+Thus, many people say that really the only absolute ways to permanently get rid of data on the hard drive is the burn it, pour acid on it, or a degausser!
+
+Disc encryption is another method available to increase the security of your data. There’s a program called PGP which can encrypt data before it is stored on a hard disk.  The PGP or “Pretty Good Privacy” is an encryption program for cryptographic privacy and authentication.  It’s pretty close to military grade encryption and can be used to protect data in long-term storage such as disk files. It requires a pass phrase to recover encrypted information
+
+Other Data Storage Devices To Wipe:
+
+Another device to look out for is flash memory devices, such as key ring size USB drives and memory cards. Data stored on these devices can often be recovered even after it has been erased. As of the time of this article there is no official method for destroying these devices. Overwriting may help, but pulverizing the storage is probably the safest option.
+
+Due to the small size of these devices they are extremely easy to misplace drop or forget about… They are also easy to steal or smuggle. In Iraq hundreds and hundreds of these devices were stolen which contained sensitive data about US troops! It is thought that these were smuggled out in the pockets of Iraqi locals working and sold on the black market.
+
+Care must be taken with these devices.  
+
+While electronic data storage has become increasingly popular due to the minute space electronic files physically occupy compared to paper, people should realize that the extremely small size comes with a price:  They are hard to keep track of!  Sometimes, smaller is not better.  Electronic data can be harder to permanently erase, easier to misplace, and easier to steal.
+
+Visit our website for more information about <a href="http://www.document-shredding.biz">document shredding services</a>.
+
+

@@ -1,0 +1,30 @@
+Title: 
+Cisco CCNA / CCNP Home Lab:  Why You Need An ISDN Simulator
+
+Word Count:
+435
+
+Summary:
+ISDN is a vital part of your CCNA and CCNP studies, and to work with ISDN in your home lab, you've got to have an ISDN simulator.  Find out why - and how to get one affordably - from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccna, ccnp, isdn, pass, cisco, nat, exam, free, simulator, bryant, chris, advantage, home, lab, certification, icnd, intro
+
+
+Article Body:
+ISDN is a vital topic for today's CCNA and CCNP candidates, especially for the ICND and Intro exams - you've got to know ISDN inside and out to pass those exams. Naturally you want to include it in your home lab. What many candidates don't realize is that you can't connect two Cisco routers directly via their Basic Rate Interface (BRI) interfaces you've got to have another device between them called an ISDN simulator.
+
+An ISDN simulator is not one of those software programs pretending to be routers ("router simulators") this is a piece of hardware that acts as the telephone company in your home lab. Older simulators come with preprogrammed phone numbers and SPIDs, where newer ones let you program the phone numbers you want to use. Either way, an ISDN simulator is great for your CCNA/CCNP home lab, because you can practice dial scenarios that actually work. And you get to troubleshoot the ones that don't, which is also important to learn! )
+
+You don't need any special cables or connectors you just connect both of your routers' BRI interfaces to the ISDN simulator with a straight-through cable and you're ready to go.
+
+In years past, this was a major problem for 640-801, 811, and 821 studies, because the simulators used to be so expensive. New ones can still be pricey ($600 and up), but with the sudden influx of used ISDN simulators on ebay and Cisco resellers, you can get a used one that will do the job for you.
+
+Why are there suddenly so many ISDN simulators on the market? Cisco recently removed ISDN from the CCIE R&S exam, so a lot of CCIE rack resellers as well as private individuals are selling their simulators. There's never been a better time to add ISDN to your home lab. If taken care of (kept out of extreme heat), they can last for quite a few years. The one I purchased for my IE home lab is still working well.
+
+If you choose to purchase a new simulator, you can run a Google search to find vendors. I've made two purchases from www.vconsole.com over the last few years and both of those simulators have worked beautifully.
+
+As I said earlier, there's never been a better time to add ISDN to your home lab. Don't just settle for trying to memorize theory - get your hands on the real deal, practice and fix your configurations, and you'll be amazed at what you learn and how well you do on your CCNA and CCNP exams!
+
+

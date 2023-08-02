@@ -1,0 +1,49 @@
+Title: 
+Basic Considerations in Buying Project Management Software
+
+Word Count:
+421
+
+Summary:
+Deciding on which project management software packages are best depend on the size and complexity of your projects. They can be categorized into three sizes to help with the software selection process
+
+
+Keywords:
+project management software
+
+
+Article Body:
+The cost range of project management software is huge. From under $50 to over $20,000. Extensive reviews have been written about all the different software packages and it is far too complex to summarize in a short article, but following are some general guidelines to help you narrow down the decision making process.
+
+ Start by determining the size of the expected project(s) and number of projects. Quite simply, the larger number and more complex projects will justify more complex and expensive software.
+
+Small Projects
+
+Smaller, infrequent projects often can be handled with no specialized software. Gantt charts can even be constructed with Excel. Remember though that even if your projects are small at this point, if there is a possibility that your business will grow, it may make more sense to invest the time and money in a more advanced software tool. 
+
+Suggested packages at this level include Milestones line of packages. Prices range from around $50 up to $240. Turboproject has versions under $50 up to $300. For somewhat more complex packages consider Microsoft Project at $200 to $600 or Primavera Suretrak at $400 to $600.
+
+Medium Sized Projects
+
+Budget becomes more of an issue as project size increases. This requires software with greater flexibility and more complex relationships. The other elements of resources, time, and scope grow substantially in medium sized projects.  The previously mentioned Microsoft and Primavera packages are good choices at this level.
+
+Large Multiple Projects
+
+With multiple large projects resources need to be carefully allocated and prioritized. Several layers of management will be involved and the entire project management process will often need to be integrated into various departments of the organization including payroll, human relations, accounting, etc. In order to accomplish this, the project management software will need a great deal of flexibility and possibly even some customization.
+
+Choices at this level start with the medium sized packages and go up to the highest versions of Primavera. Often network versions are used which enable multiple users contributing to the projects. 
+
+The “off the shelf”, lower end software packages can be purchased based on price alone and the internet makes it easy to locate the cheapest price.  Higher end packages that may require customization are a more complicated purchase decision.
+
+Some considerations in selecting a vendor include:
+
+Training
+Technical support
+Customization consulting
+Recommendations from previous customers
+Stability of vendor
+Cost
+
+Your final decision on the project management software package may also involve the previous experience and skills that existing employees may have. The learning curve can be very steep, so do take this into account.
+
+

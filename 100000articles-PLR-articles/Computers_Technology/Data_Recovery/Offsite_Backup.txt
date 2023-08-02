@@ -1,0 +1,35 @@
+Title: 
+Offsite Backup
+
+Word Count:
+302
+
+Summary:
+If your business works on critical databases that are too important to lose, offsite backup technology can save it safely on remote places. This means complete safety of your data from local calamities, fires, and other natural factors that can corrupt or destroy your valuable database.
+
+
+Keywords:
+backup service, backup solution, offsite backup, online backup service, online backup, sql replication, offsite data backup, online data backup
+
+
+Article Body:
+If your business works on critical databases that are too important to lose, offsite backup technology can save it safely on remote places. This means complete safety of your data from local calamities, fires, and other natural factors that can corrupt or destroy your valuable database. 
+
+Go For Professional Offsite Backup 
+
+The business world runs on information and data – customer profiles, reports, charts, analyses, accounting reports, or documents and files that store text, audio, and video in various formats. This valuable data needs to be backed up in case there is a local eventuality such as power breakdowns, fires, and system failures that corrupt and destroy database files. 
+
+An offsite backup service works as follows. Client’s data is first encrypted, compressed, and then transmitted to an offsite high-security data center. The storage is done using mirrored RAID servers. Data retrieval can be done during any emergency using either Internet or other data restore lines. Added Features of Offsite Backup 
+
+An offsite backup service run professionally can include the following services – client account management, support over telephone, linked accounts billing, large storage capacities running into terabytes, central management for multiple locations, and backing up of both email and normal databases. What can Offsite Backup deliver to you? 
+
+Apart from ensuring your data is safe and secure at an offsite location, a well managed offsite backup service can offer the following advantages – 
+
+•	Automated backup operations.
+•	Cross Platform Technology – No matter what system you run: Windows, Linux, Mac OS, etc.
+•	Data Encrypted Network Connections – For complete confidentiality of your business data.
+•	Web Interface – Manage backup histories and preferences with convenience.
+
+Global Data Vault can provide you with information and access to various offsite backup services, online backup solutions, new backup services, sql replication solutions, and other backup solutions to meet all your business requirements.
+
+

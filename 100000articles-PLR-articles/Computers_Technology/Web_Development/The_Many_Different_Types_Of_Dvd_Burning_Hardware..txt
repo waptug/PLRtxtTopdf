@@ -1,0 +1,32 @@
+Title: 
+The Many Different Types Of Dvd Burning Hardware.
+
+Word Count:
+410
+
+Summary:
+Removable media have been part of personal computers since the dawn of the industry, ranging from punch cards, to tape cassette drives, to floppy disk drives and more.  One of the forefronts of removable media now is the optical drive; the industry standard optical drive in today's market is the DVD burner, which has more or less supplanted the CD-burner in the market place.
+
+DVD-burners come in a variety of makes and models, and hardware specifications; all aimed (more or ...
+
+
+Keywords:
+dvd hardware, dvd burners
+
+
+Article Body:
+Removable media have been part of personal computers since the dawn of the industry, ranging from punch cards, to tape cassette drives, to floppy disk drives and more.  One of the forefronts of removable media now is the optical drive; the industry standard optical drive in today's market is the DVD burner, which has more or less supplanted the CD-burner in the market place.
+
+DVD-burners come in a variety of makes and models, and hardware specifications; all aimed (more or less) at the same market niche:  People who need to back up large amounts of data for posterity.  Like CD-burners before them, DVD-burners have become something of a commodity item in computer hardware.
+
+If you're looking at getting a DVD-burner, the best option is almost always replacing an existing CD-ROM drive.  If your computer is so old that it doesn't have a CD-ROM drive, it probably can't use a DVD-burner in any case.
+
+DVD-burners that go inside the case (internal mountings) use the E-IDE interface or the ATAPI interface.  A very few use Serial ATA, for higher end DVD drives.  Ones that mount externally connect to the computer through either the serial port or the USB port - external DVD-burners are most often attached as temporary fixes to laptop computers to make a backup of critical files, rather than considered part of the permanent equipment of the computer.
+
+There are three broad standards of DVD-burner.  DVD-R (which record on write-once DVDs) which are suitable for archival data, DVD+RW and DVD-RW, which are two incompatible standards for DVDs that can be written and added to after the initial write action.  (While the two consortiums that set up the standards made incompatible standards, the hardware vendors have made combo drives that read and write both of them.  In general, you'll want a drive with "dual format" DVD RW drives.)
+
+For non-computer applications, like digital camcorders with "direct to DVD" recording, the camcorder has a built in DVD-R drive and burns the movie to the disk as it clears the digital buffer.  Likewise, the DVD recorders that you can hook up to your television tend to be DVD-Rs.
+
+The primary reason to take a DVD-R over a DVD-RW (or DVD+RW) device is the cost of the media - read-write capable DVDs are about five times the price of write-once devices.  All of the hardware in question costs around $30 to $50, and can be installed on a computer by anyone who's comfortable with a screwdriver.
+
+

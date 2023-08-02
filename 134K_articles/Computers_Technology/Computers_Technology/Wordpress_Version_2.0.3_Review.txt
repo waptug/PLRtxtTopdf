@@ -1,0 +1,57 @@
+Title: 
+Wordpress Version 2.0.3 Review
+
+Word Count:
+974
+
+Summary:
+WordPress, the premier free open-source blogging utility, has gone through several upgrades in its life. Today it's one of the most popular blogging tools on the Internet; it's easy to use, powerful, and very versatile. It also has a very active base of skilled users who are eager to improve the product and to help out those who haven't tried it before.
+
+Though the Strayhorn 1.5 version is the favorite for many, it is not as stable or as secure as the newest version 2.0.3. ...
+
+
+Keywords:
+wordpress, software solutions, computer, technology
+
+
+Article Body:
+WordPress, the premier free open-source blogging utility, has gone through several upgrades in its life. Today it's one of the most popular blogging tools on the Internet; it's easy to use, powerful, and very versatile. It also has a very active base of skilled users who are eager to improve the product and to help out those who haven't tried it before.
+
+Though the Strayhorn 1.5 version is the favorite for many, it is not as stable or as secure as the newest version 2.0.3. The best part of the new version is the security patch; the new "nonce" security key reduces the chances of a malicious hacker finding a way into your admin panel. Besides the security patch, though, several minor bugs have been squashed with this version. Though a major upgrade to 2.1 is due out soon, the 2.0.3 is something you should definitely download and install if only because of the security fixes, which were actually backported from the major upgrade files.
+
+In addition to the 2.0.3 install, you should be aware that some bugs have already been found, and that a plugin will need to be installed to repair those bugs. If you modify any of the files that this patch plugin fixes, you'll need to either merge the changes with the new files or make those changes manually once again. You can find these issues by running a diff to locate changes; if the only changes you find are your own, then you're fine, and otherwise you'll need to merge them manually into the new files.
+
+The short list of what WordPress 2.0.3 fixes includes:
+
+•Small performance enhancements
+•Movable Type / Typepad importer fix
+•Enclosure (podcasting) fix
+•The aforementioned security enhancements (nonces)
+
+One mostly annoying bug shipped with 2.0.3 as well. It gives you an "Are You Sure?" dialog when you edit comments, and adds a backslash before each quotation mark in the post you're editing. Make certain to download the patch.
+
+What's Up With The Security Problem?
+
+The security problem seems minor, but the WordPress team is fixing it before it grows into something major. It's a bug that takes advantage of the cookie you download when you sign into WordPress. The cookie in question prevents anyone unauthorized from accessing your admin panel. It's tied to your user account, and verifies that you are the authorized administrator of the account you're working on.
+
+The bug that's being fixed is one that takes advantage of a sociological trick. If someone created a link or a form pointing to your WordPress admin account, they might possibly be able to trick you into clicking the link. In the case of the one here, you delete a post. This sounds both minor and highly unlikely; but a small crack in the door can be exploited later by a dedicated hacker. And this is also the kind of bug that, a few years ago, allowed a hacker access to the Microsoft databases, from which he stole portions of the Longhorn and other codes. So yes, you do need to take it seriously.
+
+WordPress had ensured you were safe from this kind of hacking by using a utility called HTTP_REFERER. But this utility has some issues. For instance, with JavaScript in Internet Explorer, it can be spoofed. In addition, certain firewalls and proxies can strip the information it's supposed to carry out, causing some people to be unable to use their WordPress admin accounts the way they're supposed to be able to.
+
+Now, instead of the HTTP_REFERER, a nonce is used; this is a number used once. It's like a password that changes every twelve hours, and is valid for twenty-four hours. The nonce is unique to the specific WordPress install being used, the WordPress user logged in, the action, the object of the action, and the 24-hour time of the action. When any of these is changed, the nonce is no longer valid. All plugin authors will have to ensure the nonce is added to their forms and other interactive capabilities that may be affected.
+
+Upgrading from WordPress 2.0.2 to 2.0.3
+
+As with any upgrade, the first thing you should do is back up everything: the files in your WordPress directory, the database plugin with any changes, and any data you have added should be backed up as well. In addition, it might be a good idea to do a second backup of your entire WordPress directory just in case something goes wrong with your install.
+
+Now remove the wp-admin directory entirely. Also remove the wp-includes directory, except for any translation and language files or directories you may have added; add these files to the backup files you created earlier. Finally, remove all the files where WordPress is installed with the exception of the file http://wp-config.php.
+
+Now you're ready to start your install. Download and unpack the 2.0.3 version in a separate install directory. You want to make sure you can control files and directories you copy over. Now install the new wp-admin and wp-includes directories.
+
+Install the rest of the files of the top directory, with the exception of the http://wp-config-sample.php file.
+
+Now enter the admin panel. You should see the following message: "Your database is out of date. Please upgrade." Follow the link provided to update the database, and follow the directions there. Now remove the files wp-admin/upgrade.php and wp-admin/install.php. Download the plugin fix; add it and activate it. Replace your backup files where they need to be, and do the comparisons if you've modified any of your earlier files. This should take care of the whole thing.
+
+For geeks, there is also an upgrade package that only includes the changed files. Look for it under Changes Diff (2.0.2 > 2.0.3). It consists of a zip file that is much quicker to install, but you should be certain you can handle it before using it.
+
+

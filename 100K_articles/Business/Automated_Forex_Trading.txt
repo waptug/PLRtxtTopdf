@@ -1,0 +1,32 @@
+Title: 
+Automated Forex Trading
+
+Word Count:
+486
+
+Summary:
+Automated Trading: Trusting A Computer To Trade Your Hard Earned Cash
+
+
+Keywords:
+Forex, EA Forex Trading, Forex Trading System
+
+
+Article Body:
+Long gone is the time when only banks and private institutions could trade the Forex market. Now, individuals have access to trade their own money, and lots of it.  The exchange of foreign currencies has since been open to private investors, central banks like Bank of America, and several countries.  But now with the introduction of the Expert Advisor trading systems, the smaller trader can now automate their trades like the big companies do.
+
+The systems allow the user to set their own parameters and trading guidelines.  The program consists of software that has been develeoped for a specific type of trading style, not everyone trades the same.  Some spot trade, some trade big, some hedge and so on and so forth.  The developers of these types of software take into consideration any nuances of Forex trading as well as being aware that the market is trading 24 hours a day, even during weekends.
+
+Without these types of systems in place, the trader would have to monitor the pair that is being trades on a constant  basis along with monitoring opening and closing times which is almost impossible to keep up with.  By using the Expert advisors a trader can setup trading signals to make life a bit easier such as a type of order, stop loss, trade entry, news tickers etc.
+
+Some of the key benefits of using an automated trading system is that it gives the trader full control, but cuts out the emotional bond a trader has with his money...making the temptation to trade on a whim a lot less likely.  This takes the guesswork out of trading if the trader implements the right trading signals for this trading style.
+
+The EA is a mathematical algorythm and it performs solely on formulas, so if the EA doesnt perform like it should it can be changed, augmented and tweaked until the trader finds the recipe for success that they are looking for.  Then, this process is repeated constantly to achieve a money making strategy.
+
+Trading also involves the trends of the market, be it long-term or short-term.  These trends play a big role in the amount of trades that a trader is involved in.  The EA, if setup correctly, will take these trends in-stride and make the trades accordingly, minimizing the drawdown or losing trades.  Using historical data, traders can analyze and test their trading theories and strategies, some EA's have a built-in function to record such data.
+
+Almost every expert advisor system being developed now is made using the MetaTrader 4 platform since it provides reliable historical data that you can download from their site or any other, multilanguage support, solid and user-friendly interface.
+
+Automated expert advisors are becoming the tool of choice for many traders and companies around the glode, most are free, but the ones that really rake in the money you have to pay for.  You get what you pay for.
+
+

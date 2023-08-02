@@ -1,0 +1,53 @@
+Title: 
+7 Things to Look for in a New Desktop PC
+
+Word Count:
+1194
+
+Summary:
+<strong>If you're not a techie, buying hardware can be an arduous task. Use these tips for buying a machine that best suits your business needs. </strong>
+
+
+Keywords:
+Small Business Start Up, Small Business Ideas, Small Business Plan
+
+
+Article Body:
+<strong>7 Things to Look for in a New Desktop PC </strong><strong>If you're not a techie, buying hardware can be an arduous task. Use these tips for buying a machine that best suits your business needs. </strong>
+<p>Does your old clunker make wheezing noises when it boots up? Has your typing become faster than your computer? Tired of looking at the Windows hourglass for minutes at a time? </p>
+<p>Perhaps it's time for a new desktop computer. </p>
+<p>Computer manufacturers continue to struggle with weak business. Meanwhile, component manufacturers are making their goods smaller, faster and cheaper. The upshot: You can get a good deal on a powerful machine. </p>
+<p>I can't recommend individual machines. They might not be on the market when you read this. Instead, let's go through the components that make up computers. Use these to help decide what you need. </p>
+<p>Following are seven points to ponder before you buy: </p>
+<strong>The Microprocessor </strong>
+<p>This is one of the most expensive parts. Microprocessors for Windows machines are made by Intel and AMD. Those for Apples are made by IBM and Motorola. So here's my first piece of advice: Don't worry so much about who makes the chip. All four are good. For Windows machines, you have a choice of the AMD Athlon XP, the Intel Pentium 4 and the Intel Celeron, an economy chip. The Pentium 4 and Athlon XP are upper end chips. The fastest Pentium 4 runs at 3.2 Gigahertz — a very fast speed indeed. It's also very expensive. The comparable AMD chip, the 3200+, is slightly less expensive. </p>
+<p>You may need these fire-breathers if you're doing lots of video editing. Ditto if you're working with computer-aided design or playing advanced games. Otherwise, look to chips running at 2.4 GHz to 2.6 GHz (or 2400+ to 2600+, in AMD-powered machines). They're cheaper, and they perform nearly as well as the top-end chips. </p>
+<p>Intel's Celeron is a budget chip. If you do typical office duties and surf the web, you probably wouldn't notice the difference between a top-end Celeron and a Pentium 4 running at the same speed. But you could save some money. </p>
+<p>Apple and AMD chips run at lower speeds than those made by Intel. AMD uses the + symbol, as in 3200+, to imply that its chips are faster than comparable Intel microprocessors, despite running more slowly. Indeed, tests often show that to be the case. </p>
+<p>Apple claims that its top-end machines are faster than those running Windows. That is a matter of controversy; there are websites devoted to debunking Apple's claims. Apple's chips run at much lower speeds, so they are difficult to compare directly. If you're interested in an Apple computer, test one at a store, then test a Windows machine. Apple computers are more expensive than comparable Windows machines. </p>
+<p>Both Apple and AMD have new 64-bit microprocessors. They can crunch twice as much data as 32-bit chips. But there are virtually no programs that take advantage of this power now. That will change in the future, but these expensive new chips don't offer as much value today. </p>
+<strong>The Operating System </strong>
+<p>Windows XP and Apple's OS X are also difficult to compare. But there's really no need. Both are stable and fast. You'll probably be satisfied with either. </p>
+<p>Windows XP comes in two flavours: Home and Professional. Windows XP Professional has all of Home's goodies, plus some other stuff. Most of it is networking capability. Professional costs more. </p>
+<p>But it does have some nice features. One is Remote Desktop, which allows you to access one computer from another. For instance, you could sign onto your office computer from home and check your email. It also allows you to encrypt files and folders. </p>
+<strong>Random Access Memory </strong>
+<p>You will need a minimum of 256 megabytes of memory. If you can afford it, get 512 MB. I'd go to one gigabyte for demanding applications, such as video editing. Memory is relatively inexpensive, so don't skimp. </p>
+<strong>Hard Drives are Big and Bigger </strong>
+<p>If you do a lot of video work, you need a big hard drive. Video files are huge. Hard drives at 200 to 250 GB are common and relatively inexpensive. </p>
+<p>Otherwise, the gargantuan drives common today far outstrip the customer's needs. Even low-end machines today have 40 GB hard drives. You are unlikely to fill that. I recommend putting your extra money elsewhere. </p>
+<strong>The Video System </strong>
+<p>The video system sends the picture to the monitor. Many inexpensive computers use the main-system RAM to run video. The video processor is built into the motherboard (the main circuit board). This works, but is less desirable. </p>
+<p>Better computers have a separate circuit board, called a video card. This includes the video processor and memory. For video cards, 64 MB of RAM is pretty standard. That's more than enough for day-to-day computing. </p>
+<p>However, if you are doing video work or playing advanced games, get a card with 128 MB of RAM. Truly hardcore game players can get cards with 256 MB of RAM. </p>
+<strong>The Monitor </strong>
+<p>Do you need to buy a monitor? Most people get one without thinking. But monitors don't necessarily come with computers. Often, you can lower your cost by refusing the monitor. If you're satisfied with your current monitor, it should work OK with your new computer. </p>
+<p>There are two basic types of monitor, as mentioned above: CRTs and flat-panels. CRTs are the cheaper option: I would not buy a CRT monitor that was less than 17 inches. Keep in mind that that measurement is diagonal, and includes a portion of the screen hidden behind the bezel. A 17-inch CRT will have a visible screen size of 16 inches or less. </p>
+<p>Flat-panel monitors are far more expensive than CRTs. They come in two flavours: analogue and digital. Digital signals are produced natively by the computer; they do not need to be converted. Analogue signals are converted from digital by the video system. Some consider digital signals clearer. </p>
+<strong>CDs and DVDs </strong>
+<p>All computers come with optical drives — either CD or DVD. All but the very cheapest have burners. ("Burning" is the process of making a CD or DVD.) CD-RW burners are still the most common, but DVD burners are available on more expensive machines. </p>
+<p>DVD is wildly popular, but remains troubled by incompatible standards. You're likely to see DVD+R/RW or DVD-R/RW on a computer. They are incompatible, but most players can handle R discs made on either. R means a disc can be recorded once. RW stands for rewriteable, meaning a disc can be recorded numerous times. DVD burners can also make CDs. </p>
+<p>I recommend that you purchase a CD-RW, at least. </p>
+<strong></strong>
+<p>One final point: I hear from so many people wondering when the best time to buy a computer is. There will always be something faster, better, hotter, cooler, bigger or smaller coming. If you need a computer, buy one now. </p>
+
+

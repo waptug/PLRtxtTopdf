@@ -1,0 +1,24 @@
+Title: 
+Why Would You Want To Use Perl Scripts?
+
+Word Count:
+432
+
+Summary:
+First let me tell you the history of Perl scripts and then I will go into why I think Perl is the best overall programming language that there is. Perl is a programming language created by Larry Wall in 1987. It is based mainly on the programming language C but also borrows features from many other languages. Many people new to this language think that it is written PERL and is an acronym but that is not the true name and is a way that “insiders” identify “outsiders” in this ...
+
+
+Keywords:
+perl scripts
+
+
+Article Body:
+First let me tell you the history of Perl scripts and then I will go into why I think Perl is the best overall programming language that there is. Perl is a programming language created by Larry Wall in 1987. It is based mainly on the programming language C but also borrows features from many other languages. Many people new to this language think that it is written PERL and is an acronym but that is not the true name and is a way that “insiders” identify “outsiders” in this programming language’s world.
+
+Perl was originally named “Pearl” after the parable of Jesus Christ in the Bible that talks about a man who found a pearl in a field and immediately went and sold all that he had in order to buy the pearl. Otherwise known as the story of “the Pearl of Great Price,” the pearl originally was a symbol for the kingdom of heaven something obviously of great value and it was this idea of great value that Larry named his language. Unfortunately Larry found that there was already a programming language named “pearl” and so he shortened the name to Perl. The original manual had a camel as the cover picture and the symbol of the camel has becomes Perl’s official symbol.
+
+Although it is not an acronym it has become known as Perl – practical extraction and report language. This is a good description of the tasks that Perl scripts are good for that is data in the form of text that are found in lists, programs, etc. Because it is good at these things it has widely been used like glue in the programming world, that is it can be used as an interfacing language to run programs together that were not originally designed to be compatible. Its use on the popular LAMP platform for web development is an obvious application for these abilities to interface. This is a main reason why this should be of interest to you, the ultimate internet marketer. Other popular applications or in the informatics world where it can be used to manage large and complex databases.
+
+Perl is either loved or hated. Those who hate on Perl scripts cite their ugly and “write only” format. This references the programming language’s complex use of punctuation and symbols, making its readability not the greatest and often such that you can’t go back and look at the code and easily understand what the programmer was intending. Those who love Perl talk of its ease of use and its wide range of application.
+
+

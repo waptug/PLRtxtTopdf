@@ -1,0 +1,38 @@
+Title: 
+Processing Recurring Payments: Get Paid in Full by Automating Receivables
+
+Word Count:
+828
+
+Summary:
+The capability to process recurring payments is vital for a business owner who often waits for that elusive check in the mail. Invoices that are not paid on time followed by ignored letters and phone calls necessitate an automated payment system. Collect money already earned and increase cash flow by automatically deducting your customers' accounts. Recurring check and credit card processing are easy to establish and employ.
+
+
+Keywords:
+process recurring payments, recurring payment, automated payment system, automated payments
+
+
+Article Body:
+Copyright 2006 William Hamilton
+
+In any business endeavor, an owner may encounter multiple sweaty-palmed experiences. Customers may engage in multi-tiered assaults ranging from vehement criticism of a product or service, censure for (the lack of) customer assistance, objection to time lag for delivering said product or service and the airing of numerous other grievances. Of course, an owner realizes that this comes with the precipitous territory of conducting business. However, it remains a humbling experience when interacting with a vociferous client -- an individual who will let everyone know from friends and relatives to the Better Business Bureau about the perceived shortcomings of the business.
+
+Perhaps the most daunting situation affecting an "it's not all what it's cracked up to be" business owner is a payment that is late or never arrives. Consider the private school owner who reminds a parent about the monthly fee only to receive this reply: "Just give me a few more days." Think of a construction company owner who rightfully seeks a periodic payment from the client and is dismissed with "I'll pay you when I can." Envision a gym owner who may have to do back flips just to collect on that monthly payment.
+
+Whether by choice or even necessity, there seems to exist a bandwagon of customers who may not so easily depart with their money regardless of their responsibility or what is morally right. This lamentable circumstance (i.e., when an owner cannot efficiently collect money that is due) seriously hampers cash flow -- a business' lifeline, crucial to its vitality. When business expenditures outpace revenues (negatively affected by late or non-payments), commercial failure is all but guaranteed.
+
+There exists two primary ways in dealing with an undesirable client whose money remains elusive. Many businesses still embrace the collections process -- whether they perform this task in-house or contract with outside agencies. If the business opts to contact the client directly, invoice after invoice may be forwarded which is very labor-intensive and costly. An owner needs to consider the expense of invoices, postage, late notices and collection calls, and the time it takes personnel to fulfill this duty (and the concomitant pay / benefits such personnel are accruing). Outside collection agencies are not necessarily an advantageous alternative. They typically keep at least 25% of an owner's deserved profit.
+
+The second method of handling the cash flow-challenging customer is predicated on the premise that a business owner must be proactive. He/she needs to realize the benefits of automated payments, and how this process can more readily prevent the "Dear customer, please pay me" letter.
+
+Automated payments are a vehicle where a customer's account is automatically debited and transferred to an owner's account on the exact date a payment is due. Upon the decision to purchase a product or utilize a service, a prospective customer signs a simple release form, giving permission to transfer payment on a specific due date. The customer chooses how to pay, most notably with checks or credit cards.
+
+The operative question arises: How are funds transferred from customer to owner? There exists two primary ways when check processing is involved.  One alternative is via paper drafts which may be issued through appropriate software and delivered to the owner so he/she can deposit them (as if they were paper checks) or sent directly to the owner' bank.  The processing company acquires the customers' banking information and converts the information to the appropriate bank draft.
+
+An owner may decide to alternatively use a web-based interface, a virtual terminal, simply inputting the customer's information in an easy-to-use program. (Here, the data entry is performed in-house). Data is automatically converted into the required format, and processed through the ACH (Automatic Clearing House) system. It usually takes two to three banking days for the transfer to be complete. In the scenario where a check is NSF, some companies employ an auto-collect feature that will automatically re-submit the check two additional times, if necessary. This feature not only saves an owner time and money, it also may entirely preclude the rather embarrassing process of collecting the NSF item.
+
+Recurring credit card payments may also be processed through the use of a virtual terminal.  Such a terminal should include edit features so that customer information can be changed, added or deleted when necessary.  Moreover, a virtual terminal provides a full transactional history of all transactions that have been run through the system.
+
+There are myriad advantages using an automated payment system: It ensures reliable cash flow, cuts down on expenses such as mailing invoices or contracting with collection agencies, settles funds in a timely manner, streamlines the billing process, etc. Andy Grove, former President & CEO of Intel Corporation, understands the aforementioned benefits. Several years ago, he said, "In the same way that we have seen a massive flow of content to the Internet, we will see a shift to automated payment in the marketplace." Any savvy business owner should want to be an active participant in this shift.
+
+

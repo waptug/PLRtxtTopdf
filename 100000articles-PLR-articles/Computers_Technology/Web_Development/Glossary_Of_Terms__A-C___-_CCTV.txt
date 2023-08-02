@@ -1,0 +1,220 @@
+Title: 
+Glossary Of Terms (A-C)  - CCTV
+
+Word Count:
+1668
+
+Summary:
+AC
+Alternating Current
+
+ACCESS CONTROL SYSTEM
+Electronic system used to allow, restrict and track the movement of people through entry/exit points in a site. This is achieved through the use of electronic individual codes, keys or cards etc, to release a locking mechanism.
+
+ACTIVITY DETECTION
+A feature built into some multiplexers, which is used to detect movement within a camera’s field of view that is then used to improve camera recording update rate.
+
+AGC (AUTOMAT...
+
+
+Keywords:
+security consultant,security consultancy,security services,security solution,security design
+
+
+Article Body:
+AC
+Alternating Current
+
+ACCESS CONTROL SYSTEM
+Electronic system used to allow, restrict and track the movement of people through entry/exit points in a site. This is achieved through the use of electronic individual codes, keys or cards etc, to release a locking mechanism.
+
+ACTIVITY DETECTION
+A feature built into some multiplexers, which is used to detect movement within a camera’s field of view that is then used to improve camera recording update rate.
+
+AGC (AUTOMATIC GAIN CONTROL)
+An electronic circuit that is used to boost the video signal in a camera in low light conditions. Use of this feature will usually give a “noisy” or grainy picture. When comparing camera specifications always use data with AGC off.
+
+ALARM INTERFACE
+A facility which allows the use of external alarm equipment such as PIR’s, magnetic contacts etc to be connected to CCTV equipment so that when the alarm is activated the CCTV equipment will automatically carry out a pre programmed function such as switching to record a given camera.
+
+ALC (AUTOMATIC LIGHT CONTROL)
+A feature of an Auto Iris lens used to adjust the between peak and average voltage which will emphasise detail in bright areas (peak), or shadows (average).
+
+ALGORITHMS
+Complex mathematical formulae or rules used to solve complex problems in CCTV they are used to achieve digital compression of a video picture.
+
+ALIASING
+Also known as Moiré patterning. This is an effect that occurs when an analogue signal is sampled digitally at a sampling frequency less than twice the signal frequency. The effect can be minimised by a technique known as optical low-pass filtering.
+
+ANALOGUE SIGNAL
+A signal in which the level is represented by a directly proportional voltage. In video the cameras scene is represented by varying the voltage in the video signal where the voltage is directly proportional to the light level.
+
+ALKALINE BATTERY
+DC power source with a longer life than a standard battery. Cannot be recharged.
+
+AMPLITUDE
+Expression of the strength of a video signal at a given point. Measured in Volts.
+
+ANGLE OF VIEW
+Represents the area of a scene (maximum horizontal and vertical angle) that can be seen through a lens. Measured in degrees.
+
+APERTURE
+The light gathering part of a lens. The size of the aperture is controlled by the Iris. Aperture size is expressed as an “f” number. The lower the “f” number the greater the amount of light gathered by the lens.
+
+ASPECT RATIO
+The ratio between the width and height of a video picture. The standard Aspect Ratio for CCTV Monitors, NTSC and PAL systems is 4:3.
+
+ASPHERICAL LENS
+A type of lens, which has a non-spherical shape. It is harder and more expensive to manufacture, but it offers certain advantages over a normal spherical lens.
+
+ATTENUATION
+The decrease in magnitude of a signal, as it travels through a medium. Used to describe signal loss in a transmission system. Measured in decibels (dB).
+
+AUDIBLE DETECTOR
+A device used to detect sound. In CCTV system it can be interfaced with a switcher to switch on a nominated camera when the detector is activated.
+
+AUTO BALANCE
+System used in colour cameras to detect and automatically correct errors in the amplitude of colour signals.
+
+AUTO IRIS (AI)
+An automatic method of varying the size of a lens aperture to allow the correct amount of light to fall on the imaging device. The lens Includes a tiny motor and amplifier, which are used to maintain a one-volt Peak to peak video signal.
+
+AUTO PAN
+A feature of a pan and tilt head or dome, which allows the camera to pan continually between two preset points.
+
+AVERAGE VIDEO SIGNAL
+Represents the average light level of a picture and is used to open or the iris in an Auto Iris lens.
+
+BACK-FOCUS
+A fine mechanical adjustment in a camera that is used to adjust the imaging device relative to the lens to ensure that it is at the exact focal point for the lens fitted. This adjustment is especially important when fitting a zoom lens.
+
+BACKLASH
+An effect noticed in Pan and Tilt units, whereby the unit does not come to a smooth stop at the end of the pan movement. This is usually caused by play in the mechanical components of the unit or by attempting to bring the unit to an instant stop.
+
+BALANCED SIGNAL
+This is a video signal that has been converted to enable it to be transmitted along ‘twisted pair’ cables. Usually used where the signal has to be transmitted over long distances, which would produce unacceptably high losses in Coaxial cable.
+
+BANDWIDTH
+The frequency range required to carry an electronic signal without attenuation or loss.
+
+BARREL DISTORTION
+A distortion in a monitor due to non uniform scanning which causes the image to appear to bulge outward like a barrel.
+
+BAUD
+Data transfer rate, named after Maurice Emile Baud, Equal to 1bit per second.
+
+BIT
+Acronym formed from "binary digit". The basic unit of information in a computer or digital system Either 1 or 0.
+
+BLACK LEVEL
+Part of the video signal, just above the sync level corresponding to 0.3v This is where black parts of an image are electronically represents.
+
+BLANKING PULSE
+A black pulse added to a monitor signal during the fly back period to make the return trace video signal invisible on the screen.
+
+BNC
+Standard connector used to connect coaxial cables to CCTV equipment or each other.
+
+BRIDGING SWITCHER
+Term for a multi-input sequential video switcher, which includes a sequencing output and spot output.
+
+BRIGHTNESS
+Term for the intensity of illumination of a reproduced video picture.
+
+BRIGHTNESS CONTROL
+Control, which increases or decreases the illumination of phosphors on a monitor screen to vary the brightness.
+
+BRAID
+A group of textile or metallic filaments inter-woven to form a tubular structure, which may be applied over one or more wires, or flattened to form a strap.
+
+BYTE
+A group of eight bits.
+
+BROADCAST CAMERA
+High quality, high-resolution camera used by the professional broadcast industry.
+
+CAD
+Computer Aided Design. Method of producing complex designs using computer based software programs.
+
+CABLE COMPENSATED AMPLIFIER
+High frequency signals are attenuated when transmitted through cables. A Cable Compensated Amplifier boosts the high frequency signals depending on the cable distance. This ensures the minimum video loss.
+
+CABLE CORE
+The central part of the cable, which actually carries the video, power and control signals. This can be constructed as a single conductor, or from wire strands.
+
+CABLE JACKET
+The outer protective coating, which covers the Cable Core.
+
+CCIR
+Commitee Consultatif International des Radiocommunique. European standardisation body that has set the standards for television signals in Europe. 625 lines, 25 frames per second.
+
+CCTV
+Closed Circuit Television. Television system intended to be viewed by restricted personnel and with a dedicated purpose. Pictures from a CCTV system are not intended to be broadcast for general viewing.
+
+CCVE
+Closed Circuit Video Equipment. Alternative term for CCTV.
+
+CFA
+Colour Filter Array. Optical pixel filters used in single chip colour CCD cameras, to produce the colour components of a video signal.
+
+CHANNEL SEPARATION
+The term for the separation of signals when multiplexed at different frequencies for transmission down a single cable.
+
+CHROMATIC ABERRATION
+Optical term, which refers to the distortion of an image as a result of a scattered focal point caused by a defect in a lens. A combination of lens can be used to correct this effect.
+
+CHROMINANCE SIGNAL
+The part of the video signal that contains the colour information. In composite video The chrominance signal is multiplexed at a higher frequency than the signal and transmitted down the same cable. In S-VHS this signal is transmitted along a separate cable.
+
+CLADDING
+The outer part of a fibre optics cable. The cladding is less dense than the central core, and acts as an optical barrier to prevent the transmitted signal from leaking away from the core.
+
+C-MOUNT
+Standard lens mounting with a 17.526mm back flange (distance between the lens mount and the focal point). Normally used on 2/3” and 1” cameras and lenses.
+
+COAXIAL CABLE
+Term for cable in which two or more conductors share the same axis. Normally consists of a single inner core and an outer shield. This is the standard cable used to carry video signals in CCTV installations, because it does not produce and is not influenced by external fields.
+
+COLOUR STRIPE FILTER
+A filter that is placed in front of a colour CCD chip to break up the light into the basic colours (Red, Green, and Blue) The individual colours are then directed at different pixels on the chip.
+
+COMMON SYNC
+Device used to synchronise cameras by generating a synchronising pulse that is sent to all cameras connected to it.
+
+COMPOSITE VIDEO
+The complete video signal, comprising both the video and sync information.
+
+CONCAVE LENS
+Type of lens in which the light rays passing through it are made to diverge by the inward curve of the glass surface.
+
+CONDUIT
+Plastic or metallic pipe, which is used to conceal and protect cables and wiring.
+
+CONTRAST
+The difference in intensity between the darkest and the brightest parts of an image.
+
+CONTRAST CONTROL
+The control on a monitor used to change the contrast by varying the amplitude of the video signal.
+
+CONVEX LENS
+Type of lens in which the light rays passing through it are made to converge by the outward curve of the glass surface.
+
+COVERT CAMERA
+Type of CCTV camera, which is concealed to allow video recordings to be made without the knowledge of the subjects.
+
+CPU
+Central Processing Unit. The heart of a computer or computer based device.
+
+CRIMPING
+Term used to describe the process of joining a cable to a connector without screwing or soldering. Requires a special crimping tool to ensure a proper connection.
+
+CRO
+Cathode Ray Oscilloscope (see Oscilloscope).
+
+CROSSTALK
+Noise generated by the interference between adjacent video, audio or data signals in a multiplexed signal.
+
+CS-MOUNT
+Standard lens mounting with a 12.5mm back flange (the distance between the lens mount and the focal point) Normally used on modern ¼”, 1/3”, and ½” cameras and lenses.
+
+

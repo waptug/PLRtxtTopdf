@@ -1,0 +1,29 @@
+Title: 
+Proxy
+
+Word Count:
+319
+
+Summary:
+A proxy is also known as proxy server and application level gateway.
+
+
+Keywords:
+Proxy
+
+
+Article Body:
+A proxy is also known as proxy server and application level gateway. It is a form of technology developed for the use of various business institutions and individuals when it comes to their network and Internet access needs. With this, a proxy acts as a computer that serves as a mediator between the computers that make up the local network of a company and the Internet or any other large-scale network. 
+
+A proxy’s work starts when incoming data is requested by a specific computer in the local network. When this happens, the proxy ensures that the data properly enters and passes through one of its ports. Subsequently, the data is forwarded to the unit that requested it through another port. Hence, by providing a means of prohibiting the direct access between networks, a proxy can prevent hackers and unauthorized individuals from obtaining sensitive information such as the internal addresses of a group.     
+
+A proxy has 2 types. These include:
+
+(1)	the http proxy; and
+(2)	the SMTP proxy.
+
+The former acts as a gateway for Internet access, while the latter acts as a gateway for email. Apart from controlling the access level of external networks, the proxy can also restrict computers within the local network in terms of the online resources they could access. This is especially useful in situations when the network administrator needs to prevent the users from opening websites they are not supposed to access. 
+
+A proxy can also cache web pages. This is a feature that enables the main computer to store copies of downloaded Web pages in its hard disk. When a computer in the local network requests for an external URL, a copy of that URL is stored in the server. Subsequently, when another computer requests for the same URL, the proxy can provide the stored copy instead of getting the original one from the Internet. This, of course, minimizes the time for acquiring information.
+
+

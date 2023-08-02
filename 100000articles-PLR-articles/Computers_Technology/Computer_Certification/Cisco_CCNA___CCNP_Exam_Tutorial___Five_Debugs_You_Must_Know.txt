@@ -1,0 +1,31 @@
+Title: 
+Cisco CCNA / CCNP Exam Tutorial:  Five Debugs You Must Know
+
+Word Count:
+339
+
+Summary:
+To pass your CCNA and CCNP exams, you must know when and how to use debug commands.  Learn five vital debugs from Chris Bryant, CCIE #12933.
+
+
+Keywords:
+Ccna, ccnp, exam, certification, pass, free, debug, ip, rip, ospf, ppp, eigrp, igrp, router, Bryant, advantage, 12933, chris
+
+
+Article Body:
+To pass the BSCI exam and move one step closer to CCNP certification success, you've got to know how and when to use debug commands to troubleshoot and verify network operations. While you should never practice debug commands on a production network, it's important to get some hands-on experience with them and not rely on "router simulators" and books to learn about them.
+
+When it comes to RIP, "debug ip rip" is the primary debug to use. This debug will show you the contents of the routing update packets, and is vital in diagnosing RIP version mismatches and routing update authentication issues.
+
+You know how to use the variance command to configure unequal-cost load-sharing with IGRP, but IGRP has no topology table that will give you the feasible successor metrics you need. With IGRP, you need to use the "debug ip igrp transactions" command to get these vital metrics.
+
+Several factors are considered by OSPF-enabled routers when it comes to forming adjacencies, including hello and dead timer settings. If an adjacency doesn't form when you think it should, run "debug ip ospf adj". The reason the adjacency isn't forming is usually seen quickly with this command's output.
+
+Let's not ignore Layer Two! If frame relay mappings are not forming according to your configuration, run "debug frame lmi". This debug will allow you to quickly diagnose and correct any LMI mismatches.
+
+When it comes to PPP, it can be very frustrating to try to spot a problem with a password or username. Instead of staring at the configuration for 10 minutes, run "debug ppp negotiation" and send a ping over the link. This command will help you spot the router with the misconfigured username or password, not to mention saving you a lot of time!
+
+
+Effectively using debugs during your CCNA and CCNP exam study will help you truly understand what's going on "behind the command" - and it will really come in handy on that day when your production network just isn't doing what you (think) you told it to do!
+
+

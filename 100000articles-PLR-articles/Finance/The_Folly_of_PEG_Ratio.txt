@@ -1,0 +1,30 @@
+Title: 
+The Folly of PEG Ratio
+
+Word Count:
+441
+
+Summary:
+Common sense dictates that a stock with higher growth rate should be valued at a higher P/E ratio. There is nothing wrong with that. But using a simple PEG ratio of one as a fair value of a common stock is simply wrong.
+
+
+Keywords:
+Finance Investing Web Directory Article Submission Link Popularity
+
+
+Article Body:
+Price Earning Growth (PEG) Ratio is the ratio of a company's P/E with its growth rate. A lot of analysts have concurred that a stock is fairly valued when its PEG ratio equal one. This means that if a stock has a P/E of 10 with a growth rate of 10%, then the stock is trading at fair value.
+
+How many of you have seen this kind of statement? I have seen it plenty of times and I think it is silly. This is a relatively simple reasoning. Let's think of it for a second. If a stock will grow its earning for 8%, then to reach fair value, the stock has to trade at a P/E of 8. How about a stock with growth rate of 5%? Its fair value is a P/E Of 5. How about a company with 0% growth? Oh, right. According to this theory, the company should have a P/E of 0, or worthless. Does this make sense? Heck, no. But there are a lot of articles regarding this PEG theory. Here are several sources of commonly misunderstood PEG ratio:
+
+http://www.moneychimp.com/glossary/peg_ratio.htm 
+http://www.fool.com/School/TheFoolRatio.htm 
+http://www.investopedia.com/articles/analyst/043002.asp
+
+For a 0% growth company, the fair P/E ratio for the company is not 0. Rather, it is a few percentage above risk-free interest rate or a ten year treasury bond. If a ten year bond is yielding 4.6%, then the fair value of a common stock is at 7.6% yield. Inverting this yield, we get a P/E ratio of 13.2.
+
+Anything else is wrong with using PEG ratio to determine the fair value of a common stock? PEG assumes infinite growth rate in earning per share. No company can grow at the same rate forever. If we assume company A will grow at 10% rate for the next five years and then growth slows to 2% indefinitely, what is the fair value of the common stock using PEG ratio? The answer is it can't do that. PEG ratio is way too simple to single-handedly assign a fair value for a common stock. It is misleading and simply wrong to use PEG ratio for our fair value calculation.
+
+Common sense dictates that a stock with higher growth rate should be valued at a higher P/E ratio. There is nothing wrong with that. But using a simple PEG ratio of one as a fair value of a common stock is simply wrong. I don't have an accurate way to calculate this but an estimation can be read on other articles entitled Calculating Fair Value with Growth and Fair Value with Negative Growth.
+
+

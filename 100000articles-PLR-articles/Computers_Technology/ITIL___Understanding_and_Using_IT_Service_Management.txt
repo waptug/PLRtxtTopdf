@@ -1,0 +1,50 @@
+Title: 
+ITIL:  Understanding and Using IT Service Management
+
+Word Count:
+1050
+
+Summary:
+ITIL is often wrongly described as ‘IT governance’ – in fact, on its own, it certainly isn’t this.  It is a collection of best practices that helps companies implement an IT Service Management culture.  However, its growing popularity reflects the substantial impact it can make on a company’s IT and business performance and the fact that, in combination with other frameworks, it is a vital ingredient in creating true IT governance.
+
+
+Keywords:
+ITIL, IT service management, IT governance, ISO 20000, ISO20000
+
+
+Article Body:
+‘ITIL’ is a term that is fast gaining currency around the IT world.  It is often wrongly described as ‘IT governance’ – in fact, on its own, it certainly isn’t this. ITIL is a collection of best practices that helps companies implement an IT Service Management culture.  However, its growing popularity reflects the substantial impact it can make on a company’s IT and business performance and the fact that, in combination with other frameworks, it is a vital ingredient in creating true IT governance.
+
+<b>What is IT Service Management?</b><br>
+Today’s businesses are increasingly delivered or enabled using information technology.  Business and IT management need guidance and support on how to manage the IT infrastructure in order to cost-effectively improve functionality and quality.  IT Service Management is a concept that deals with how to define and deliver that guidance and support.  In common with other modern management practice, it views things from the customer’s perspective, i.e. IT is a service that the customer or consumer receives.  It can be made up of hardware, software and communications facilities, but the customer perceives it as a self-contained, coherent entity.  
+
+<b>So what is ITIL?</b><br>
+Standing for ‘IT Infrastructure Library’, ITIL is a set of best practices that are at the heart of the IT Service Management approach.  It provides guidance on how to manage IT infrastructure so as to streamline IT services in line with business expectations.  ITIL is a best practice framework, presenting the consolidated experience of organisations worldwide on how best to manage IT services to meet business expectations.
+
+ITIL was originally developed during the 1980s by the UK’s Central Computer and Technology Agency (CCTA), a government body, which created ITIL version 1 as an approach to incorporating various vendor technologies and serving organisations with differing technical and business needs.  CCTA has now become part of the Office of Government Commerce (OGC), which, as official publisher of the ITIL library, updated it, published version 2 and continues to develop and support it.
+
+ITIL has since become widely adopted across the world in both public and private sectors and is recognised as best practice, being deployed in organisations of all shapes and sizes.
+
+<b>What makes up the ITIL Library?</b><br>
+ITIL documentation consists of seven ‘sets’ or ‘volumes’:  Service Support, Service Delivery, ICT Infrastructure Management, Security Management, Planning to Implement Service Management, The Business Perspective and Applications Management. 
+
+Of these, Service Support, Service Delivery and Security Management are considered the central components of the ITIL framework, covering vital issues such as Incident Management, Configuration Management, Change Management, IT Service Continuity Management, Availability Management and IT Security Management.  
+
+<b>Learning about ITIL</b><br>
+The seven ITIL volumes are published by The Stationery Office, the official publisher of the UK government, and are available from <a href=http://www.itgovernance.co.uk/catalog/23>http:// www.itgovernance.co.uk/catalog/23 </a>.  In addition, to gain an overview and a sense of how to navigate these, it is helpful to consult one of several recommended introductory texts.  ‘Foundations of IT Service Management Based on ITIL – An Introduction’ is widely accepted as the best starting point and self-study guide.  ‘Implementing Service and Support Management Processes – A Practical Guide’ is a thorough and comprehensive handbook on the subject, while the ‘itSMF Pocket Guides’ provide a good overview of each of the ITIL components.  These supporting texts may be obtained at <a href=http://www.itgovernance.co.uk/catalog/7>http:// www.itgovernance.co.uk/catalog/7</a>. 
+
+<b>Getting certified</b><br>
+Part of the reason for the recent growth in ITIL awareness is the publication in December 2005 of a new global standard to which businesses can become certified.  ISO 20000 (or ISO/IEC 20000:2005, to give it its correct name) is closely based upon the pre-existing British standard BS15000 – in fact, it is virtually indistinguishable.   The standard comprises two parts: ISO/IEC 20000-1 is the specification for IT Service Management against which an organisation’s practices can be certified; ISO/IEC 20000-2 is the 'code of practice’ that describes best practices and the requirements of Part 1.
+
+BS15000 has become widely used around the world since it was published in 2003 and was adopted virtually unchanged as the national standard in Australia and South Africa.  A number of companies across the USA, Europe and Asia have already become certified as BS 15000 compliant.  We also recommend several excellent books that provide guidance on achieving BS15000/ISO 20000 compliance. 
+
+Upon the publication of ISO 20000, BS15000 was withdrawn and individual standards and certification bodies are drawing up their own formal transition programmes for conversion to the new standard.  Companies already holding BS15000 should encounter no difficulty in converting their certification to the new standard, as this should be one of the considerations addressed by the individual certifying bodies.  
+
+Practitioners can also pursue a structured programme of ITIL examination and certification, comprising the ITIL Foundation Certificate, ITIL Practitioners Certificate and ITIL Managers Certificate.  Examinations and certification in Europe are managed through two independent bodies: EXIN, the European Examination Institute for Information Science; and ISEB, the Information Systems Examination Board.  Between them, these two organisations control the entire certification scheme.  In the United States, HDI is a principal organiser of examination and certification, and it and similar organisations provide coverage elsewhere around the world.  These organisations ensure that personal certification is fair, honest and independent of the organisations that provide the training, and accredit training suppliers to bring about a consistent quality of course delivery.
+
+<b>ITIL and IT Governance</b><br>
+When combined with certain other frameworks, ITIL makes a major contribution to the creation of effective IT governance.  ITIL processes can be mapped to CobiT (Control Objectives for Information and Related Technology) processes, and the two frameworks complement each other nicely:  if the CobiT control framework tells the organisation ‘what’ to do in the delivery and support areas, ITIL best practices help the organisation define ‘how’ to deliver these requirements.  Similarly, ITIL works very effectively with ISO 17799, the international code of best practice for information security, providing guidance on how to manage the various processes that ISO 17799 prescribes.  
+
+By drawing upon these three complementary frameworks as appropriate to its needs, an organisation can establish an IT governance regime that delivers real and lasting competitive advantage to its business.
+
+

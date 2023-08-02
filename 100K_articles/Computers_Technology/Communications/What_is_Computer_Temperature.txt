@@ -1,0 +1,45 @@
+Title: 
+What is Computer Temperature
+
+Word Count:
+532
+
+Summary:
+A computer temperature, as the name clearly states, is the temperature of your computer. This is largely a sum of various devices giving off heat within the system. These can include the hard drives, graphic cards, CD-ROMs, power supplies, and the CPU, which gives off the most heat. The heat from these hardwares can have multiple negative effects on the machine, ultimately decreasing the life span of the computer.
+
+
+Keywords:
+Computer, Temperature
+
+
+Article Body:
+A computer temperature, as the name clearly states, is the temperature of your computer. This is largely a sum of various devices giving off heat within the system. These can include the hard drives, graphic cards, CD-ROMs, power supplies, and the CPU, which gives off the most heat. The heat from these hardwares can have multiple negative effects on the machine, ultimately decreasing the life span of the computer.
+
+
+The Origin of the Heat
+Most of the heat within your computer comes from what is known as the Joule effect. This is basically when electric energy is transformed into heat energy. The many wires (conductors in this case) within the computer have numerous internal interconnections, and this is exactly where the Joule effect happens: a shock slams the electrons and the conductor ions together, creating a bit of heat energy in the process.
+
+
+The Negative Effects of a High Temperature
+&#61548;	A high temperature increases the possibility of a total burnout with one of your hardwares.
+&#61548;	Also, a high temperature can cause internal circuits within the hardwares to be severely damaged.
+&#61548;	Reduces the overall life-span of the computer.
+
+
+Monitoring and Keeping the Computer Temperature Low
+There are many ways to keep your computer temperature low. Foremost of all, it is necessary to monitor the temperature to see if it is at an acceptable temperature or not. There are many great free softwares on the web today that can be used to monitor the temperature of your computer.
+
+SpeedFan (http://www.almico.com/speedfan.php)
+SpeedFan may still be in a BETA stage, but it certainly is a clean and powerful software already. It measures the temperature of the computer using the hardwares within the computer. Many hardwares actually have temperature sensors connected to the computer and the software uses these to find the temperature. This software also allows you to immediately alter the temperature by adjusting the fan speed
+
+SensorsView (http://www.stvsoft.com)
+SensorsView is a great free utility that lets you monitor the temperature of your motherboard, graphic card, hard drives, CPUs, and even voltages and fan speeds. It has an internal warning system that works in hand with a critical level scale. Despite its very light size, the free version is extremely powerful and has many features that can help one constantly monitor his/her computer’s temperature.
+
+Although there are many of these free computer temperature monitor programs available on the Internet, they act just as markers and assistants. A combination of these types of softwares and a care for the computer by the computer own must be done together to maintain the good health of the computer. Some suggestions include:
+&#61548;	Correct positioning of the fans within the computer case and an ample of it too.
+&#61548;	Making sure that the airflow within the computer is quite smooth and easy.
+&#61548;	Frequently cleaning the inside the of the case and the hardwares too, to free them of dust, which can play a big role in augmenting the overall computer temperature.
+&#61548;	Giving the computer a breather or two by not leaving it on all the time.
+&#61548;	Lowering the overall room temperature. (eg. Keeping the air condition always on in a computer lab)
+
+

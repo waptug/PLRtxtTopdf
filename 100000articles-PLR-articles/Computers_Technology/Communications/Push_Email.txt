@@ -1,0 +1,40 @@
+Title: 
+Push Email
+
+Word Count:
+638
+
+Summary:
+What's the new thing in handheld devices? Push email. The idea is to get email to people's cell phones and other devices so that they can access it no matter where they are. What is the market potential of this new technology and who are the players that will make it happen?
+
+
+Keywords:
+push email, wireless email, email software
+
+
+Article Body:
+There's a lot of hype at the moment about push email technology. New cell phone handsets are beginning to support the technology and it seems to be getting its head into other areas of the market too. This could be the next big thing in the telecommunications industry and the speculation is heating up about who are going to be the major players involved.
+
+Right now there are at least five major operators in this market and surely this will be reduced in the near future. Most experts say that there are simply too many of them fighting over the same space.
+
+Right now both Visto and Seven have been keen to show their commitment to this technology. These are following the lead set by Canadian firm RIM (Research In Motion) who brought the technology into the spotlight with their Blackberry device. While so far they have been concentrating on supplying hardware, they have stated that they will be moving into the supply of software instead in the near future.
+
+The wave of consolidations has already begun. British vendor Comtag was acquired by Smartner who in turn was acquired by Seven; moving in parallel with this, Visto acquired Psion Software. It looks like the heat is turning up in the race to capture this market. Both Visto and Seven show no sign of flagging as they continue to increase the number of operators they can lay claim to, as well as increasing the number of handsets and other supported devices they are marketing. Seven has also added a useful security feature which allows you to send a special message to your device which will delete all the messages it currently has stored. This could be lifesaving if you left your handset in a public place.
+
+Good Technology was somewhat shielded in its area by supporting Palm and Windows devices but now there is the new Windows Mobile based Treos to contend with.
+
+So what is Microsoft's reaction to all of this? Well, they appear to be gearing up to enter the market. In his blog, Microsoft senior technology specialist, Harold Wong has reported that the company is getting ready to release its 'Community Technology Preview' build of Exchange Server 2003, Service pack 2. And this is not the only step the giant is taking. In June 2005, Intellisync announced a new service that would allow subscribers to receive push email on Windows Mobile, Palm OS and Symbian devices.
+
+While, of the current estimated 4 million push email subscribers, most seem to be using RIM Blackberry devices, this assault will be difficult to bare much longer.
+
+On the technical side, there are two basic technologies that can provide push email solutions:
+
+* one technology is true push;
+
+* the other has a push effect using synchronization. 
+
+While the users will not notice a significant difference when they log in to check their mail, the costs vary to a considerable extent with true push technologies offering a far cheaper monthly cost to the user. While Intellisync is currently using a SyncML or synchronization technology to serve its customers, RIM and Microsoft are using their own proprietary systems. The system that has found favour both with Vodafone, the world's largest network operator, and Rogers, the first operator to deploy Blackberry devices is the solution that Visto opted for also. This is best described as a Proprietary + RTP/RTSP system and Visto calls it ConstantSync. It effectively relies on a real time streaming protocol to deliver email over mobile networks.
+
+Whatever the technicalities behind the networks, there is a lot to play for in this emerging market and we'll have to wait and see whose technology and handheld devices carry the most favour with customers. All have relative advantages and disadvantages both in terms of technology and market strategy and it all really is still to play for.
+
+

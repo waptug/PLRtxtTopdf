@@ -1,0 +1,47 @@
+Website Usability through Navigation Design
+
+Navigating through a website should be simple and efficient. Navigation is one of the key determinants of a website’s usability.
+
+Usability refers to the ease of use and learning with regards to websites. It can refer to the effectiveness and quickness of the navigation structure of the website to be able to present pertinent information to the surfers.
+
+The Issue of Usability
+
+Usability is deemed to be very important in terms of web development today. Websites are made with the intention of making them tools for people in doing their daily tasks. Developing complex websites which don’t assist people in effectively doing their tasks would make little sense. 
+
+People with disabilities are continuing to grow in number. In the United States alone, one-fifth of the population is pestered by some kind of disability. This is the main reason why many people are gearing towards making websites more usable. The Internet has become a main instrument for these people to be able to live their lives.
+
+Navigation
+
+The usability of a website is dependent on several different factors such as accessibility, content quality and readability and over-all presentation, however, many web developers would say that the usability of a website is all about navigation. 
+
+This article tries to lay down some basic tips which should guide a developer on how to make a website more usable through the improvement of its navigational structure.
+
+Here are some tips on how to make a website’s navigation more user-friendly:
+
+-Avoidance of irrelevant links
+
+One of the main mistakes of web developers in building websites is that they add more confusion to the visitor rather than eliminate it. This is the result of putting too much links that are not really needed by the visitors. 
+
+Having too many links to the other parts of the website is clearly an indication that the navigational structure of the website is not at its best. Let’s examine a hypothetical website so as to give us a way to discuss the different things to avoid and do in designing a website’s navigation structure. Let’s say that we are building a public auction site (one similar to E-bay). 
+
+If a surfer would want to buy computer accessories, the website should not contain irrelevant links to other parts of the website such as putting a direct link towards the section on buying clothes. If the said person is interested in buying clothes after he has shopped for the computer accessories that he needs, he will definitely find his way to the clothes section. Putting these kinds of links will irritate more people than satisfy more people. It’s like putting a section of computer accessories and a section of clothing right beside each other in a department store-it makes no sense.
+
+-Standardize icons
+
+A study has revealed that 39% of shoppers didn’t pursue in buying certain items from the Internet because they found the sites to be too hard to navigate. This meant a lot of loss for the businesses, but this can be avoided.
+
+One of the ways to improve navigation is to use standardized icons for linking pages. Icons were made to be able to represent something that is related to it. The use of random icons will definitely add up to the confusion regarding navigation. Also, developers shouldn’t over-explain the icon because icons are there to be able to provide non-text information about the link. A brief explanation should be provided, but it should be kept brief and concise.
+
+-Sitemap
+
+The provision of a sitemap will definitely help people to effectively navigate through the website. A sitemap provides a skeleton structure of the website in a single page. All the links and contents are indicated in a sitemap therefore making navigation a much easier process.
+
+-Breadcrumbs
+
+Breadcrumb links provide linkage to the major pages of a website. These are particularly useful for people because they give easy access to the major pages.
+
+-Avoid burying information
+
+Navigating through a website need not be a journey through an ocean. A simple rule of thumb is that all the web pages in the website should be accessible from each other not more than 3 clicks away.
+
+These are just some of the ways on how to improve the usability of a website through the improvement of navigation. These steps should be done hand-in-hand with the other ways of improving a website’s usability.

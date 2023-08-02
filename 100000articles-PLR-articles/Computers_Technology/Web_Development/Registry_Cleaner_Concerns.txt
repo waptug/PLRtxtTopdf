@@ -1,0 +1,44 @@
+Title: 
+Registry Cleaner Concerns
+
+Word Count:
+339
+
+Summary:
+Specific Registry Cleaner Concerns:
+
+A Centralized Registry:
+
+The Windows Registry System has some advantages and benefits which include: The configuration of your PC is kept separate from the user configuration. Setting policies for a group is much more simple for management by administrators. Over a network, the registry can be accessed and managed as one item, and backed up quickly because of the location and size of the specific registry files.
+
+With a centralized r...
+
+
+Keywords:
+registry cleaner, xp registry, windows tuneup
+
+
+Article Body:
+Specific Registry Cleaner Concerns:
+
+A Centralized Registry:
+
+The Windows Registry System has some advantages and benefits which include: The configuration of your PC is kept separate from the user configuration. Setting policies for a group is much more simple for management by administrators. Over a network, the registry can be accessed and managed as one item, and backed up quickly because of the location and size of the specific registry files.
+
+With a centralized registry, there exist some problems also: The Windows system registry can be considered a "single point of failure" - which means modifying the registry can lead to a variety of problems...from poor system performance to your computer not even booting up correctly!
+
+Data could even be rendered unrecoverable in extreme circumstances, and you would have to do a full re-installation of your Windows operating system.
+
+Sometimes computer applications do not uninstall correctly, and this will residual "junk" files in your computer registry...this in-turn will increase your registry size. When the registry grows very large, your PC performance will almost always decrease and cause your system to become unstable.
+
+Some experienced users will actually spend hours going through the Windows registry and editing it manually. This is a very time consuming and "risky" task for even the most experienced computer users...as deleting one wrong registry entry can damage your operating system and endanger your valuable data!
+
+You should always backup your registry before ever making any modifications. This enables you to go back to the previously working state before any problems may have occurred when making registry changes.
+
+Even restoring specific parts of the registry can be a difficult and time consuming task.
+
+RegCure Registry cleaner, provides you with many safeguards and features that will assure you that your registry has been safely backed up and any modified files can easily be restored to your system registry.
+
+RegCure will allow you to remove the registry items that are not needed and unused, thus increasing the performance speed and efficiency of your computer (sometimes dramatically)!
+
+

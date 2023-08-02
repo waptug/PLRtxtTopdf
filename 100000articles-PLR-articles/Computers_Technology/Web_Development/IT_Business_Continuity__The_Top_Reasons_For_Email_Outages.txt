@@ -1,0 +1,58 @@
+Title: 
+IT Business Continuity: The Top Reasons For Email Outages
+
+Word Count:
+559
+
+Summary:
+Email has become the most pervasive form of business communication, impacting every aspect of every organization: communications between management, employees, prospects, customers, vendors, suppliers, partners, investors, and analysts.
+
+The average email user sends 34 emails and receives 99 emails every day, and overall email use is growing 53% per year. Despite large enterprise investments in replication, mirroring, and tape back up systems, email systems continue to fail...
+
+
+Keywords:
+Email Continuity, Business Continuity, Disaster Recovery, Email Managed Services
+
+
+Article Body:
+Email has become the most pervasive form of business communication, impacting every aspect of every organization: communications between management, employees, prospects, customers, vendors, suppliers, partners, investors, and analysts.
+
+The average email user sends 34 emails and receives 99 emails every day, and overall email use is growing 53% per year. Despite large enterprise investments in replication, mirroring, and tape back up systems, email systems continue to fail. While it is widely known that natural and man-made disasters can lead to email outages, new data shows that email systems are more frequently brought down by technological failures.
+
+MessageOne, a leading provider of email continuity solutions, commissioned this research report to understand the frequency, severity, and cause of email outages in North American corporations using Microsoft Exchange or Lotus Notes. This research shows that enterprise email systems are prone to a variety of potential breakdowns including SAN (Storage Area Network) failures, improper configuration, losses in network access, database corruption, and viruses. Data from the survey shows that in any given 12-month time period, there is a 75% likelihood of an unplanned email outage and a 14% likelihood of a planned email outage for any given company.
+
+MessageOne recently surveyed its customers -- hundreds of companies serving over 1,000,000 email users -- on email outages during a recent 30 week period. This report analyzes the leading causes of failure with enterprise email systems.
+
+Email Outage Frequency & Duration
+
+Survey results show that in any given 12-month time period, there is a 75% likelihood of an unplanned email outage and a 14% likelihood of a planned email outage in any given company. The length of email outages in the companies surveyed ranged from a minimum of 2 minutes to a maximum of 120 hours with the average email outage being 32.1 hours long.
+
+Responses on Email Outages:
+
+• 29% of outages between 4 and 24 hours in duration
+• 28% of outages between 1 and 4 hours
+• 26% of outages lasted more than 48 hours
+• 17% of outages were between 24 and 48 hours
+
+Causes of Unplanned E-mail Outages
+
+A large majority of email outages were caused by unplanned events, most of which were due to technological failures.
+
+Reasons for Technological Failures:
+
+• 35% were due to server hardware failures, averaging 18.1 hours in outage duration,
+• 19% were due to connectivity losses, averaging 27.4 hours,
+• 16% were due to SAN failures averaging 25.5 hours, and
+• 16% were due to database corruption averaging 9.0 hours in duration.
+
+The majority of these, specifically database corruption and SAN failures, are troubling because they are the most difficult to prevent. Even with expensive mirroring and replication backup solutions, data corruption and SAN failures are often propagated to the mirror or replicated backup server. These failures usually result in long outages as companies resort to incremental tape backups to locate the last backup before the corruption occurred.
+
+Note: While natural disasters accounted for only 14% of unplanned email outages, the average downtime due to such disasters was over 60 hours, meaning these can lead to significant impact on businesses.
+
+Conclusions: Despite Heavy Investment, Email Still Fails
+
+Every day, more and more companies are concluding that email is a mission-critical application worthy of inclusion in a business continuity plan.
+
+Email continuity plans need to be developed that take into account the shortcomings of tape backup and replication/mirroring systems. Solutions should then be deployed that limit dependency on these types of technology and can reduce downtime during any outage. You can learn more about email continuity, email management systems, IT disaster planning and recovery, and business continuity planning.
+
+

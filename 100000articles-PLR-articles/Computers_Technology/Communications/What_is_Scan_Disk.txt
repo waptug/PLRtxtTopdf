@@ -1,0 +1,26 @@
+Title: 
+What is Scan Disk
+
+Word Count:
+297
+
+Summary:
+ScanDisk checks and repairs file systems and bad data clusters. ScanDisk is a system utility which is bundled with and all Microsoft Windows Operating Systems.
+
+
+Keywords:
+What is Scan Disk
+
+
+Article Body:
+ScanDisk checks and repairs file systems and bad data clusters. ScanDisk is a system utility which is bundled with and all Microsoft Windows Operating Systems.
+Scandisk was programmed to check the integrity of the hard disk drive to ensure that there are no significant issues which could corrupt your computer data. It is used to scan your hard disk for errors caused by improper shutdowns, viruses, etc.
+It was first seen in MS-DOS version 6.2. Previous versions of MS-DOS had only a very basic, purely text-based program called CHKDSK. From Windows 95, SCANDISK added a GUI (Graphical User Interface).
+The disk scanning utility bundled with Windows NT, Windows 2000 and Windows XP is also called CHKDSK and has the ability to check NTFS disk drives. From Windows 2000 onwards, it has been integrated with Disk Properties under the title of "error-checking".
+The ScanDisk utility is owned by Microsoft, which originally purchased it from Norton (now Symantec). 
+Scandisk can scan and correct errors in your computer and can fix damage caused to critical Windows files, thereby improving system performance. 
+You can find Scan Disk in Windows 95 and 98 by going to Start Menu. Afterwards, go to Programs/Accessories/System Tools/ScanDisk.
+In Windows 2000 and other later versions of Windows, Scan Disk has been given the title “Error Checking” under disk properties. 
+In order to run Scan Disk in Windows 2000 and Windows XP, you need to press the Start button and click on My Computer. On the list of disk drives, select the drive you want to scan. Then, click on the File menu and choose Properties. On the Tools tab page, click on the Check Now button. As a final note, you should ideally use the Scan Disk feature once a month in order to ensure that your PC is free from errors.
+
+

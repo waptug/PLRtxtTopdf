@@ -1,0 +1,36 @@
+Title: 
+Automated Website Testing
+
+Word Count:
+1017
+
+Summary:
+Thorough website testing is imperative if you wish to create a high quality website that can draw and retain customers. Automated website testing provides a huge productivity gain for a testing team and automated testing tools have now become an economic necessity.
+
+
+Keywords:
+functional testing, regression testing, automated testing, software testing, quality assurance
+
+
+Article Body:
+You just finished building your company's website. You have tested it yourself and had other company employees test it. The website now goes live. A few weeks later you start getting emails from irate customers who complain that they are unable to place their orders because certain steps in the “Buy Now” process give errors. You quickly fix the problem. A few days later you get complaints about some other issue and you again react quickly to fix the website. This continues for a few months till the complaints finally halt and things stabilize. At this point you make some enhancements to your website. A few days later a customer email alerts you to the fact that in the process of making this enhancement you “broke” something else on the website. Again you spend time to find and fix the problem but by now you are perplexed and not a little frustrated. These issues have cost you many customers in the last few months and potentially spread ill will across the broader customer community. It seems to you that the only way to have detected these issues before they went “live” was to have employed a large army of software testers, something your company is unable to afford. 
+
+Enter automated software testing. While nothing can replace good human testers, broad test coverage requires some degree of software automation for it to be economically feasible. Automated testing tools can provide a huge workforce multiplier and do a very good job complimenting human testers. Every change to your website no matter how small requires thorough testing to ensure that nothing else was affected. This becomes very time consuming very quickly due to the large number of possible cases to test. A strategy whereby tests are automated using software becomes an economic necessity.
+
+There are two classes of automated testing tools. The first kind, functional and regression testing tools, helps to make sure that the website behaves as it should: for example if a customer clicks on button X, page Y is displayed without errors. Functional and regression testing tools are able to automate a large number of scenarios to ensure that your website works as intended. The second type, load testing tools gauge how well your website performs when subjected to a large stress, such as a large number of simultaneous users. I will be discussing load testing in a separate article.
+
+I will now give you an overview of the basic characteristics of functional testing. Before you can begin any kind of functional test automation you will need to identify the test scenarios you wish to automate. Once this is done, you will need to generate test scripts that cover these scenarios. 
+
+A functional testing tool will typically record user interactions with a website. As you perform various operations on your website or application, the tool records every step. When you finish recording, it generates an automated script from your interactions with your website. Alternatively you could use the tool to construct the script by hand. Typically testers tend to do a combination of the two. They will use the recorder to generate the basic framework of their scripts and then tweak the scripts by hand to incorporate special cases.
+
+Scripts can be graphical and/or text based in nature. A good functional testing tool does not require users to have a programming background. Users not proficient in programming will work predominantly with graphical scripts. In most tools graphical scripts will typically show all interactions in a tree structure and users can edit any node of the tree to modify the script. Some users however, who have programming backgrounds may wish to program their scripts. These users will typically work with a text script written in a standard language such as JavaScript or VBScript.
+
+Once you have generated your script you will need to insert checks in your scripts to test if your website is functioning correctly. Such checks are usually called checkpoints. A checkpoint verifies that values of a property obtained when testing the website match expected values. Checkpoints enable you to set the criteria for comparing expected values with obtained values. The expected value of a property is derived from recording interactions with the web site. It is viewed and modified from checkpoints. The current value is retrieved during replay (i.e. during the execution of the test case).
+
+There are many different kinds of checkpoints. A page checkpoint verifies the source of a page or frame as well as its statistical properties. You can check for broken links, verify link URLs, image sources, the hierarchy of HTML tags or even the entire HTML source of the Web page or frame. You can also set thresholds for the loading time of a page. A text checkpoint verifies that a given text is displayed or is not displayed in a specified area on a web page. A web object checkpoint verifies the properties of a web object e.g. the value of an HTML INPUT field. A database checkpoint verifies the contents of a database used by your website.
+
+When you replay a test script, the testing tool will open the recorded application and perform the recorded steps in the same sequence they were specified in the script. As it replays the script it will also run through all the checkpoints you have inserted into the script. In addition, you can test your application’s behavior with varying data inputs. For example you can try to submit a page after entering different values in the edit box of a web page. At the end of the replay a detailed report is typically be generated.
+
+Functional test automation allows you to automate the repetitive testing of a large number of scenarios across your website. Functional testing tools are an important weapon in your development arsenal whose use provides a huge productivity gain and allows for small testing groups to accomplish significantly more work. There is a very strong economic case for the use of Functional Testing Tools as part of the development and deployment cycle of a website.
+
+

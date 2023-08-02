@@ -1,0 +1,184 @@
+Title: 
+Partial Page Rendering Using Hidden Iframe
+
+Word Count:
+1432
+
+Summary:
+Partial-page rendering removes the need for the whole web page to be refreshed as the result of a postback. Instead, only individual regions of the page that have changed are updated.
+
+
+Keywords:
+Partial Page Rendering Using Hidden Iframe
+
+
+Article Body:
+Partial-page rendering removes the need for the whole web page to be refreshed as the result of a postback. Instead, only individual regions of the page that have changed are updated. As a result, users do not see the whole page reload with every postback, which makes user interaction with the Web page more seamless. 
+
+Developers that want to add such behaviors to their web pages are often faced with a difficult decision. All of these actions can be implemented using a very simple solution: by refreshing the entire page in response to the user interaction. However this solution is easy but not always desirable. The full page refresh can be slow, giving the user the impression that the application is unresponsive. Another option is to implement such actions using JavaScript (or other client-side scripting technologies). This results in faster response times, at the expense of more complex, less portable code. JavaScript may be a good choice for simple actions, such as updating an image. However, for more complicated actions, such as scrolling through data in a table, writing custom JavaScript code can be a very challenging undertaking.
+
+This paper provides a solution which avoids the drawbacks of the full page refresh and custom JavaScript solutions. In this paper partial page rendering functionality provides the ability to re-render a limited portion of a page. As in the full page render solution, partial page rendering sends a request back to the application on the middle-tier to fetch the new contents. However, when partial page rendering is used to update the page, only the modified contents are sent back to the browser. This paper gives the solution using a hidden Iframe and simple JavaScript to merge the new contents back into the web page. The end result is that the page is updated without custom JavaScript code, and without the loss of context that typically occurs with a full page refresh. 
+
+Introduction: 
+
+Web pages typically support a variety of actions, such as entering and submitting form data and navigating to different pages. Many web pages also support another type of action, which is to allow the user to make modifications to the contents of the web page itself without actually navigating to a different page. Some examples of such actions include. Clicking on a link could update an image on the same page. For example, an automobile configuration application might update an image of a car as the user chooses different options, such as the preferred color. Selecting an item from a choice box might result in modifications to other fields on the same page. For example, selecting a car make might update the set of available car models that are displayed. 
+
+Clicking a link or selecting an item from a choice could be used to scroll to a new page of data in a table. Clicking a button in a table might add a new row to the table. 
+
+All of these actions are similar in that they result in the same page being re-rendered in a slightly different state. Ideally, these changes should be implemented as seamlessly as possible, so that the user does not experience a loss of context which could distract from the task at hand. 
+
+Partial page rendering can be implemented with very simple solution using a hidden Iframe and minimal JavaScript. Any part of the page can be partially rendered with using a div or table tags in HTML. 
+
+Page Elements That May Change During PPR: 
+
+•Re-Render Data: The same fields are redrawn but their data is updated. Examples include the Refresh Data action button, or recalculate totals in a table. 
+•Re-render Dependent Fields: Fields may be added, removed, or change sequence, and data may be updated. Examples include the Country choice list, which may display different address fields, and toggling between Simple and Advanced Search. 
+•Hide/Show Content: Both fields and data toggle in and out of view. 
+
+Page Elements That Do Not Change During PPR: 
+
+Some page elements are always associated with a page, regardless of the content displayed on the page. 	
+
+As a general rule of thumb, elements above the page title (except message boxes) remain constant and do not change position, whereas elements in footer constant but may move up or down the page to accommodate changes to page content. The following elements never change when PPR is initiated: 
+
+• Branding 
+• Global buttons 
+• Tabs, Horizontal Navigation, SubTabs 
+• Locator elements: Breadcrumbs, Train, Next/Back Locator 
+• Quick links 
+• Page titles (first level header) 
+• Page footer 
+• Separator lines between the Tabs and Page Title 
+
+In most cases the following elements will also not change, other than moving up or down the page to accommodate changed elements. Nevertheless, in certain cases actions on the page may require them to be redrawn: 
+
+• Side Navigation, unless it contains a Hide/Show control. 
+• Subtabs 
+• Contextual information 
+• Page-level action/navigation buttons 
+• Page-level Instruction text 
+• Page-level Page stamps 
+• Page-level Key Notation 
+
+In all above scenarios this solution can be used to achieve the good performance and user interaction of the web pages. 
+
+Contexts in Which PPR Should Not Be Used: 
+
+When PPR is implemented correctly, it significantly improves application performance. When performance improvement is not possible with PPR, it should not be implemented, thus avoiding unnecessary code bloat, PPR can't be used when navigating to another page (with a different title). 
+
+Partial Page Rendering Solution: 
+
+Solution provided to the Partial Page Rendering using simple hidden iframe and JavaScript, this can be used as a generalized solution to all the Partial Page Rendering scenarios. Below is the main html (Table 1.1), which will have two buttons one is to show a simple table which will be generated by the server, and another button to remove the table. 
+
+[html]
+[head]
+[title] Main Document [/title]
+[script language="JavaScript"]
+[!--
+	function showTable() {
+		hiframe.location="./table.htm";
+	}
+	function removeTable() {
+		document.getElementById("tableId").innerHTML="";
+	}
+//--]
+[/script]
+[/head]
+[body]
+	[iframe id="hiframe" style="visibility:hidden;display:none"][/iframe]
+	[table]
+	[tr]
+		[td]Table::[/td]
+		[td][/td]
+	[/tr]
+	[tr]
+		[td colspan="2"][div id="tableId"][/div][/td]
+	[/tr]
+	[tr]
+                [td][input type="button" value="Show Table" 
+onclick="showTable()"][/td]
+	   [td][input type="button" value="Remove Table" 
+onclick="removeTable()"][/td]
+	[/tr]
+	[/table]
+[/body]
+[/html]
+
+Table 1.1
+
+[iframe id="hiframe" style="visibility:hidden;display:none"][/iframe]
+
+This iframe tag is used as target to the Partial Page Rendering Request. The tag [input type="button" value="Show Table" onclick="showTable()"] gives the user action to get the contents of a table from the server, in this solution sample html is provided to render the table, which supposed to be generated by the server. 
+
+The tag [input type="button" value="Remove Table" onclick="removeTable()"] gives the user to remove the table from the user interface.
+
+The JavaScript
+	function showTable() {
+		hiframe.location="./table.htm";
+	}
+
+Is used to get the contents from the server, the line hiframe.location="./table.htm"; sends the GET request to the server, and as a response iframe gets the HTML. If the requirement insists to send a POST request for Partial Page rendering Response, that can be achieved by setting the html form element target attribute as the name of hidden iframe. 
+
+The code for the post request looks like [form method="post" action="/myaction" target="hiframe"] 
+
+Partial Page Rendering Server Response: 
+
+Table 1.2 shows the sample response from the server for Partial Page Rendering. This response has the JavaScript code to transfer the HTML from hidden iframe to main page. 
+
+[html]
+[head]
+[script language="JavaScript"]
+[!--
+function iframeLoad() {
+	parent.document.getElementById("tableId").innerHTML = 
+document.getElementById("tableId").innerHTML;
+}
+//--]
+[/script]
+[/head]
+[body onload="iframeLoad()"]
+	[div id="tableId"]
+	[table]
+	[tr]
+		[td]1[/td]
+		[td]One[/td]
+	[/tr]
+	[tr]
+		[td]2[/td]
+		[td]Two[/td]
+	[/tr]
+	[/table]
+	[/div]
+[/body]
+[/html]
+
+Table 1.2
+The tag [div id="tableId"] encloses the content to transfer from hidden 
+iframe to main page.
+	[table]
+	[tr]
+		[td]1[/td]
+		[td]One[/td]
+	[/tr]
+	[tr]
+		[td]2[/td]
+		[td]Two[/td]
+	[/tr]
+	[/table]
+This is the content to show the table to user.
+
+The code [body onload="iframeLoad()"] is used for triggering the action 
+to transfer the content.
+
+function iframeLoad() {
+	parent.document.getElementById("tableId").innerHTML = 
+document.getElementById("tableId").innerHTML;
+}
+
+This JavaScript function does the transferring data from the hidden iframe to main page. parent.document.getElementById("tableId").innerHTML This part refers to tag div html id in main page and this part document.getElementById("tableId").innerHTML refers the HTML of the Partial Page Response. 
+
+Conclusion: 
+
+Improve the user experience with Web pages that are richer, that are more responsive to user actions, and that behave like traditional client applications. Reduce full-page refreshes and avoid page flicker. Partial page rendering using iframe is a very simple solution.
+
+

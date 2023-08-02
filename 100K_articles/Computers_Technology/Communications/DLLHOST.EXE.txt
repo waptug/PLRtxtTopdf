@@ -1,0 +1,22 @@
+Title: 
+DLLHOST.EXE
+
+Word Count:
+187
+
+Summary:
+The DLLHOST.EXE is a registry process which is run automatically by the Microsoft Windows Operating system. This process is important for managing DLL based applications.
+
+
+Keywords:
+DLLHOST.EXE, dll, registry, process
+
+
+Article Body:
+The DLLHOST.EXE is a registry process which is run automatically by the Microsoft Windows Operating system. This process is important for managing DLL based applications. DLLHOST is by default a startup process which means that the process runs from the minute you boot up your system. This file should not be terminated by the user unless it is found to cause problems. Bad DLLHOST processes can easily be identified using one of many free registry scanners available on the internet.
+         
+                         DLL itself refers to the Dynamic-link library, this is a concept implemented by Microsoft in the Windows Operating system. It consists of using a shared library to run most of its applications. These libraries usually end with *.dll or *.ocx extension. The latter is for DLL library files with embedded ActiveX controls.
+         
+                          DLLs are in fact very similar to executable (*.EXE) files. This similarity is due to the fact that both DLLs and EXEs contain data, resources and code in variable combinations. Some common examples of DLLs include icon libraries, font files and such. Normally icon libraries have ICL extensions and font files the FOT extension.
+
+

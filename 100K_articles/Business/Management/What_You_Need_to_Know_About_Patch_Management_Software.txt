@@ -1,0 +1,62 @@
+Title: 
+What You Need to Know About Patch Management Software
+
+Word Count:
+505
+
+Summary:
+Patch management software uses a system for scanning, management and applying of patches in a network environment in order to make it secure and free from vulnerabilities. Patch management software allows for the approval and denial of patches used on desktops, laptops, servers, and other mobile devices. It is software that . . .
+
+
+Keywords:
+patch management software, management software
+
+
+Article Body:
+“What is Patch Management Software?”
+
+Patch management software uses a system for scanning, management and applying of patches in a network environment in order to make it secure and free from vulnerabilities. Patch management software allows for the approval and denial of patches used on desktops, laptops, servers, and other mobile devices. It is software that detects weak and possibly susceptible infrastructures that may be present in software applications and varying operating systems that threaten the security of the network.
+
+“Who is Patch Management Software for?”
+
+Patch management software is for anyone who wants a secure network, easy management of changes and updates, and efficient network management. IT professionals in small businesses to large organizations are prime candidates for patch management software. The larger the organization, the more important it is to have patch management software.
+
+“What are the main features of Patch Management Software?”
+
+    * Patch approval or denial
+    * Automatic and recurring scans
+    * Policy based patch management
+    * Complete automation for patch location, discovery, and deployment
+    * Reliable and up-to-date patch databases
+    * Complete rollback to pre-patch environment
+    * Rapid, easy, & automated deployment
+    * Flexible configurations
+    * Multilingual consoles
+    * Complete & comprehensive local/web-based reports and history
+    * Multi-OS vulnerability scanning and patching
+    * Cross platform product installation
+    * Client-side aptitude
+
+“Why should you use Patch Management Software?”
+Here are 7 good reasons:
+
+    * To ensure that the most appropriate software available is installed
+    * To seal security ambiguities in systems that can be exploited by malicious attacks
+    * To reduce system downtime and keep up with system changes, bugs and issues
+    * To limit attacks that target known software vulnerabilities by hackers
+    * To be the last line of defense and secure networks from security threats
+    * To evaluate and choose the proper patches for each computing platform
+    * To defend your IT infrastructure and keep up with ordinary maintenance
+
+“What kind of financial investment can you expect to make for Patch Management Software?”
+Here are a few guidelines to help you:
+
+    * It’s usually on a volume system license basis. For example if you need have less than 100 systems on your network, it may cost you anywhere between $200 -$1000 for the license. On the other hand, if you have more than a 1000 systems on your network, it may cost you somewhere around $2500 – $5000 for the license.
+    * There are companies that provide unlimited licensing, but that can cost $6000+. Generally companies provide yearly licenses. So when you are trying to figure your budget, make sure you calculate these figures in for a yearly basis.
+    * Many times the licenses are by seats (which is still the number of computers on the network). The prices for seats can range from $150 - $300 for up to 5 seats or $3500 - $10,000 for 100 or more seats.
+    * The most important thing to understand is that price varies by company and need. Be sure to ask a lot of questions and use the guidelines you find on this page before you make your final decision or make any financial investment.
+
+_______________________________________________________
+For more information on patch management software or other types of management software, visit Management Software Review (http://managementsoftwarereview.org). Your SOURCE for management software info.
+
+

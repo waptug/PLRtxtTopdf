@@ -1,0 +1,56 @@
+Title: 
+Some Lessons From Warren Buffett's Annual Letter
+
+Word Count:
+1388
+
+Summary:
+Warren Buffett’s annual letter to Berkshire Hathaway shareholders was released over the weekend. Readers will find plenty of investing lessons among the twenty-three pages. Warren began this letter as he begins each letter, by stating Berkshire’s change in per-share book value:
+
+"Our gain in net worth during 2005 was $5.6 billion, which increased the per-share book value of both our Class A and Class B stock by 6.4%. Over the last 41 years, (that is, since present managemen...
+
+
+Keywords:
+Warren Buffett, Buffett, Berkshire Hathaway, Berkshire, value investing, investing, stocks
+
+
+Article Body:
+Warren Buffett’s annual letter to Berkshire Hathaway shareholders was released over the weekend. Readers will find plenty of investing lessons among the twenty-three pages. Warren began this letter as he begins each letter, by stating Berkshire’s change in per-share book value:
+
+"Our gain in net worth during 2005 was $5.6 billion, which increased the per-share book value of both our Class A and Class B stock by 6.4%. Over the last 41 years, (that is, since present management took over) book value has grown from $19 to $59,377, a rate of 21.5% compounded annually."
+
+Some may wonder why Buffett opens by announcing the change in per-share book value rather than the earnings per share number. Over long periods of time, the change in per-share book value should nicely approximate the returns to owners. You may remember that, in my analysis of Energizer Holdings, I applauded the company for reporting comprehensive income within the income statement. Although a company’s net income is often referred to as its bottom line, net income is, in fact, a (sub)component of comprehensive income. Energizer Holdings (ENR) literally reports comprehensive income as its bottom line.
+
+FASB merely requires that “an enterprise shall display total comprehensive income and its components in a financial statement that is displayed with the same prominence as other financial statements that constitute a full set of financial statements”. Unfortunately, despite the lack of attention paid to it by investors, the statement of changes in stockholders’ equity is considered “a financial statement that constitutes a full set of financial statements”.
+
+Therefore, comprehensive income can be reported in a statement many investors either do not review or do not understand. Alternatively, a company may choose to report comprehensive income in a separate Statement of Comprehensive Income. This, of course, baffles many investors, who think they are reading a second copy of the income statement. After all, what is comprehensive income? Isn’t the net income number reported in a (traditional) income statement a comprehensive number?
+
+No. The widely reported earnings per share number is not comprehensive. That isn’t to say the EPS number isn’t important. It is very important. In fact, for certain businesses, it may be the most useful figure for evaluating a going concern. This is especially true if the investor is only looking at the financials for a single year. A single year’s comprehensive income may actually be less representative of a business’ performance than a single year’s EPS number (both can be pretty unrepresentative).Remember, the earnings per share number does not tell you how much wealth was actually created (or destroyed). You need to look to the comprehensive income number to find that information.
+
+Essentially, Buffett is reporting Berkshire’s earnings in that opening line. He is simply using a more comprehensive income figure. He’s saying here’s how much wealth we created, and here’s how much capital it took to create that wealth. When he writes “Our gain in net worth during 2006 was $5.6 billion, which increased the per-share book value of both our Class A and Class B stock by 6.4%” he’s really saying Berkshire earned $5.6 billion and a 6.4% return on equity. He prefers using comprehensive income rather than net income, because comprehensive income includes non-operating earnings such as changes in the market value of available for sale securities.
+
+If you still have doubts about the idea that Buffett is essentially reporting Berkshire’s comprehensive income in that formulaic opening line of his annual letters, compare the change in net worth numbers Buffett has reported in past years to the comprehensive income numbers found in Berkshire’s annual reports. For the past three years, Berkshire’s reported “gain in net worth” and Berkshire’s reported “comprehensive income” were $5.6 billion vs. $5.5 billion, $8.3 billion vs. $8.2 billion, and $13.6 billion vs. $13.4 billion. I hope this helps explain why I like it when public companies prominently report comprehensive income instead of presenting net income as if it were the Holy Grail of investing.
+
+Of course, there is no such Grail. Neither net income nor comprehensive income captures the true economic changes to an owner’s share of the business. There is no truly comprehensive income number – and there never will be. A review of the financial statements alone is not sufficient to determine how a business’ competitive position has improved (or deteriorated) over the course of the year.
+
+"Every day, in countless ways, the competitive position of each of our businesses grows either weaker or stronger. If we are delighting customers, eliminating unnecessary costs and improving our products and services, we gain strength. But if we treat customers with indifference or tolerate bloat, our businesses will wither. On a daily basis, the effects of our actions are imperceptible; cumulatively, though, their consequences are enormous."
+
+It is to these actions and their effects that an investor must look when he is forming his qualitative assessment of a business. After all, a company may lose money and yet improve its competitive position. In fact, that is exactly what a great many young businesses do. The question, of course, is whether those present losses will be more than offset by future gains after accounting for the opportunity costs incurred.
+
+All costs are opportunity costs. It makes no sense to evaluate a year’s losses as if the alternative was to stop time. The available returns on the lost capital must be considered as well. That is why when one of Berkshire’s units has consumed capital, the loss has weighed heavily on Buffett.
+
+Over Berkshire’s history, the cost of any losses also included the over twenty percent compound annual gain that was foregone. Buffett has always been painfully aware of the fact that, for Berkshire, losing $1,000 today would be much the same as losing over $7,000 ten years from today or over $125,000 twenty-five years from today. Berkshire will no longer grow its per-share book value at over 20% a year. So, these particular figures are outdated. However, if you refer to Buffett’s thoughts at the time when the Buffalo News was losing money (and when Berkshire’s textile operations were losing money), you will see just how heavily these opportunity costs weighed on him.
+
+Still, it is possible that a business operating at a loss is actually improving its competitive position and creating wealth for its owners. One very difficult question that must be answered is exactly what the assets (often the intangible assets) that have been gained at great expense are actually worth. In some very special businesses, huge expenses are fully justified.
+
+"Auto policies in force grew by 12.1% at GEICO, a gain increasing its market share of (the) U.S. private passenger auto business from about 5.6% to about 6.1%. Auto insurance is a big business: Each share-point equates to $1.6 billion in sales." 
+
+"While our brand strength is not quantifiable, I believe it also grew significantly. When Berkshire acquired control of GEICO in 1996, its annual advertising expenditures were $31 million. Last year we were up to $502 million. And I can’t wait to spend more."
+
+This excerpt helps explain why I think all the money PetMed Express (PETS) puts into cable TV ads is money well spent. Pet medications, like auto insurance, is a highly fragmented business. Sales volume is important. Obviously, name recognition is as well. PETS can spend a lot on cable advertising and still spend less per sale than its competitors. It’s also important to remember that pet medications are rarely the sort of thing a customer buys once (just like auto insurance). While you won’t be able to retain all your customers, you will have a much easier time getting a current customer to stick with you than you will getting a new customer to switch from a competitor.
+
+I’ll end this post with one of Buffett’s best lessons:
+
+"Long ago, Sir Isaac Newton gave us three laws of motion, which were the work of genius. But Sir Isaac’s talents didn’t extend to investing: He lost a bundle in the South Sea Bubble, explaining later, “I can calculate the movement of the stars, but not the madness of men.” If he had not been traumatized by this loss, Sir Isaac might well have gone on to discover the Fourth Law of Motion: For investors as a whole, returns decrease as motion increases."
+
+

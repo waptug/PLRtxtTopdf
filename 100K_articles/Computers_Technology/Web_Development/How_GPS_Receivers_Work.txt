@@ -1,0 +1,42 @@
+Title: 
+How GPS Receivers Work
+
+Word Count:
+688
+
+Summary:
+GPS Units make sure you know where you are going no matter where you are. Gone are the days of getting lost easily. A GPS system can cost under $100 for a less-than-fancy model. However, what your GPS Unit looks like is not as important as what it actually does.
+
+The GPS receiver is a handheld, sometimes portable device that works with the Global Positioning System (GPS) network. The GPS network is comprised of 27 satellites that constantly orbit the earth. As the earth rot...
+
+
+Keywords:
+
+
+
+Article Body:
+GPS Units make sure you know where you are going no matter where you are. Gone are the days of getting lost easily. A GPS system can cost under $100 for a less-than-fancy model. However, what your GPS Unit looks like is not as important as what it actually does.
+
+The GPS receiver is a handheld, sometimes portable device that works with the Global Positioning System (GPS) network. The GPS network is comprised of 27 satellites that constantly orbit the earth. As the earth rotates, so do the satellites. Of these 27, 24 of the satellites actually work, while three are used as backups. As you can imagine, running the GPS is quite costly.
+
+The GPS network was originally developed by the United States military. The military used it to increase navigational accuracy. However, it was not long before the GPS network was open for use by anyone.
+
+How it works is simple. First, the satellites have multiple orbit routes around the earth. At any one moment in the day, at least four of the satellites are able to transmit information from the satellites to GPS receivers. Of course, it is imperative that the view between the satellite and the GPS unit is unobstructed. That is why GPS receivers sometimes do not work right in areas with high mountains, a lot of trees, or skyscrapers in the way.
+
+GPS receivers work with the satellites. First, the GPS hunts down four of the satellites that can connect with and transmit information to the GPS unit. Once four satellites have been found, the distance to each of the satellites is recorded, and the GPS can pinpoint its location, by the distance it is from each satellite.
+
+This mapping and estimating is based on a principle in mathematics, which is known as trilateration. How it works is by traveling through three-dimensional space. This is complex to understand, but the result is amazing, and it should be what you look for when purchasing a GPS unit of your own.
+
+Trilaterion that works in 3-D is what is used to map your location. A series of spheres line the distance from one place to the next, based on the location of the satellites at the time of the transmission to the GPS receiver. The spheres intersect and meet and as the distances from different locations on different spheres are measured, your exact location is pinpointed. All of the four satellites' plots work together, to intersect in one place through the spheres.
+
+GPS receivers generally try to use more than four satellites at one time. This provides a more accurate location and less room for error. The Earth is also used as a marker, which works with the GPS network to help pinpoint locations on the surface of the planet.
+
+GPS receivers have to know how far a distance it is from the satellite to the unit. To do this, radio signals sent from the GPS satellites are analyzed. These signals are high in frequency though they are relatively low in power. The better your GPS unit is the better chance you have of using multiple satellites in order to pinpoint your exact location.
+
+Since radio signals travel at the same speed light does, GPS receivers are able to determine how fast the waves travel and how far they have traveled. At random times, the satellites transmit pseudo-random code, which are digital patterns, to the GPS receivers. The GPS unit will then play the digital pattern, though there will be a lag. This lag is based on how fast the signal traveled, and is a major part of the GPS plotting process.
+
+In order to track the signal’s pattern, the satellite and the GPS receiver use clocks, which synchronize together. The Satellite uses an atomic clock, while the GPS receiver uses a regular clock. However, to accommodate synchronization, the clock in the GPS unit is able to constantly reset. This prevents any type of clock problems from occurring.
+
+There are various types of GPS systems. These systems work to fix any inaccuracies and errors in the GPS receiver’s location tracker. These systems include WAAS and DGPS.
+
+

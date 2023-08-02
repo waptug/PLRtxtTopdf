@@ -1,0 +1,33 @@
+Title: 
+PHP MySQL Database Scripts - Generate Online
+
+Word Count:
+495
+
+Summary:
+PHP MySQL database scripts are very popular and they work very fast for big databases. Most desired functions in a database script are search, add, edit and delete.
+
+
+Keywords:
+php database script, generate online, add, edit, search, delete
+
+
+Article Body:
+History of PHP
+PHP (it originally was abbreviation of  for Personal Home Page) was first written by Rasmus Lerdorf . These were Perl scripts to track users of his Web pages. On communication and suggestions from other people he rewrote it as a scripting language and added support for forms. As its popularity grew, a core group of developers created an API for it and turned it into PHP3. Presently we have version 5. (PHP5) and its growth is likely to continue.
+
+Plus Points of PHP.
+PHP will run on all platform, including most UNIXs, Windows(95/98/NT/2000) and Macs. As this uses the same code base, all scripts will run identically on all the platforms. 
+PHP is similar to C. So anyone who has experience with a C-style language will easily learnd PHP. In C-style languages we can also include Javascript and Java. In fact, much of PHP's functionality is provided by wrappers around the underlying system calls (such as fread() and strlen()) so C programmers will immediately feel at home. 
+PHP is extendible. This allows programmers two ways of extending PHP to do some special processing, either by writing an extension module and compiling it into the executable, or by creating an executable that can be loaded using PHP's dynamic loading mechanism. 
+PHP currently will load into Apache, IIS, AOLServer, Roxen and THTTPD. Alternatively, it can be run as a CGI module. 
+Lots of database interfaces. PHP currently will work with MySQL, MS SQL, Oracle, Informix, PostgreSQL and many others. These are binary level interfaces, and ODBC is also provided for those situations where the database is not supported. 
+If a PHP user wants to interface to particular library, then it is easy to write an interface for it, and many have done so, and contributed to the main PHP source repository. So you can find modules for graphics routines, PDF files, Flash movies, Cybercash, calendars, XML, IMAP, POP and a host of others. If the library you need is not supported, you can either write one yourself, or employ your favourite programmer to do it. 
+PEAR. The PHP Extension and Add-on Repository. Similar to the CPAN network for Perl, although still in its infancy, the idea of PEAR is to provide a set of PHP scripts that would be installed by default with the PHP installation 
+Fast. PHP is normally used an Apache module and this makes it very fast. It is entirely written in C and is quite small, so loads and executes quickly with small memory footprint. 
+PHP is Open Source. Therefore programmers are not dependent on a particular manufacturer to fix things that don't work. 
+
+What are the main disadvantages of PHP?
+A scripting language has advantages and disadvantages. PHP also has some disadvantages. Some are direct disadvantages and some are indirect regarding functionality. PHP's main drawback is Error Handling. PHP has a very poor ability in this regard, but even this disadvantage can be over come using a feasible advantage solution.
+
+

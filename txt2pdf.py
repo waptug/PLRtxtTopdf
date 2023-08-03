@@ -25,7 +25,8 @@ from reportlab.pdfbase.ttfonts import TTFont
 
 
 # Register a new font
-pdfmetrics.registerFont(TTFont('Courier', 'COUR.TTF'))
+# pdfmetrics.registerFont(TTFont('Courier', 'COUR.TTF'))
+pdfmetrics.registerFont(TTFont('Courier', '/mnt/c/Windows/Fonts/COUR.TTF'))
 
 def detect_encoding(file_path):
     with open(file_path, 'rb') as f:

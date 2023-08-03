@@ -18,13 +18,16 @@ Line one is a branding section
 Line two is a file name of the source text file that was converted.
 Line three is more call to action with a link to the PLRImporter.Com site
 
-During the creation of the PDF files a html index file will be created linking to each generated pdf file for easy viewing.
+During the creation of the PDF files a html index file will be created linking to each generated pdf
+file for easy viewing.
 
-THe script is interactive to allow a user to specify a source folder containing the txt files and a destination folder to hold the 
-rendered PDF files.
+THe script is interactive to allow a user to specify a source folder containing the txt files and a 
+destination folder to hold the rendered PDF files.
+
 The rendered PDF folder will mimic the folder structure of the source folder.
 
-The main purpose of this script it to organize and manage over 200K PLR files and create a open web site to allow access to thises articles.
+The main purpose of this script it to organize and manage over 200K PLR files and create a open web site to
+allow access to thises articles.
 
 Text to PDF Converter
 
@@ -33,8 +36,10 @@ an index.html file in the destination folder with links to the converted files.
 
 Setup Guide for WSL2
 
-    Install WSL2: First, you need to install WSL2 on your Windows machine. You can follow the official Microsoft guide here.
-    Install Python: Once you have WSL2 installed, open a new WSL2 terminal window and install Python. You can do this by running the following commands:
+    Install WSL2: First, you need to install WSL2 on your Windows machine. You can follow the official
+    Microsoft guide here.
+    Install Python: Once you have WSL2 installed, open a new WSL2 terminal window and install Python. You can do this
+    by running the following commands:
 
     sudo apt update
     sudo apt install python3 python3-pip
